@@ -3564,7 +3564,6 @@ Essa é uma maneira rústica, porém eficaz e rápida de obter a lista de execu�
 
 # Barata Elétrica e o hacker de antigamente
 date: 2007-08-31
-link: https://absoluta.org/barata/
 tags: essays blog
 
 Os artigos escritos por ele estavam em português, mas sempre em suas edições ele disponibilizava artigos de outras partes do mundo em inglês. Praticamente li todos eles, e muitos fiz questão de ler mais de uma vez. A maioria falava de um mundo que existia antes de eu ter um computador, onde existiam vírus e pirataria de programas em disquetes, BBSs e a tal reserva de mercado. Além, é claro, de dicas de como ser um nerd e não perder a sociabilidade (se é que isso é possível quando se é um nerd adolescente). Existe uma página no zine onde estão listados os melhores artigos de todos os tempos da revista.
@@ -4466,7 +4465,6 @@ Quanto aos livros de vocabulário reduzido... bingo! Eu de fato esqueci de citar
 
 # Debug da BIOS com o SoftIce 16 bits
 date: 2007-10-02
-link: https://youtu.be/mXDROf0rLkI
 tags: computer blog
 
 Para quem acha que ainda não desceu demais o nível existe um "ótimo artigo" no Code Project de S. Z. Keller (aka ShalomZ) sobre como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o boot loader carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para download e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de load do seu primeiro sistema operacional.
@@ -12993,7 +12991,6 @@ Também espero isso. Com relação aos protocolos suportados, o Bazaar possui um
 
 # Read The Functional Manual
 date: 2008-05-07
-link: http://www.catb.org/esr/faqs/smart-questions.html
 tags: essays blog
 
 Percebi essa semana que talvez boa parte da população informática que não progride em suas habilidades, mas gostaria muito, pode ser impedida pela falta de hábito em ler a ajuda do programa | da linguagem | do sistema com calma para encontrar o que procura. Independente do que você é, e para onde quer chegar, saiba que nem tudo na vida pode ser perguntado ao seu colega de baia. Senão você não evolui!
@@ -13415,7 +13412,6 @@ Enfim, tudo que temos que lembrar durante um merge do Bazaar é ver os conflitos
 
 # Como Fazer Debug de User Mode pelo Kernel Mode
 date: 2008-05-13
-link: https://youtu.be/j1f7DQkFI5A
 tags: computer windbg blog
 
 Existem algumas situações onde um depurador WYSIWYG é artigo de luxo.
@@ -13697,7 +13693,6 @@ PS: MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nom
 
 # Aprendendo rapidamente conceitos essenciais do WinDbg
 date: 2008-05-23
-link: http://windbg.info/doc/2-windbg-a-z.html
 tags: computer windbg blog
 
 Todo o poder e flexibilidade do pacote Debugging Tools da Microsoft pode ser ofuscado pela sua complexidade e curva de aprendizagem. Afinal de contas, usar o depurador do Visual Studio é muito fácil, quando se começa a usar, mas mesmo assim conheço muitos programadores que relutam em depurar passo-a-passo, preferindo a depuração por meio de "MessageBoxes" ou saídas na tela. Imagine, então, a dificuldade que não é para quem conseguiu às duras penas aprender a tornar um hábito a primeira passada do código novo em folha através do F10 começar a fazer coisas como configurar símbolos e digitar comandos esdrúxulos em uma tela em modo texto. Para piorar a questão, existem aqueles que defendem o uso unificado de uma ferramenta que faça tudo, como um telefone celular. Eu discordo. Quando a vantagem competitiva de uma ferramenta sobre outra é notável, nada pior que ficar preso em um ambiente legalzinho que faz o mínimo para você, mas não resolve o seu problema de deadlock.
@@ -15863,7 +15858,6 @@ Sempre tem mais exemplos. Algumas dicas úteis para o dia-a-dia de um programado
 
 # Entrevista com o Caloni no 'Do ZERO ao MESTRE'
 date: 2008-07-24
-link: https://dozeroaomestre.blogspot.com/2008/07/entrevista-wanderlei-caloni.html
 tags: blog
 
 Há muito pouco tempo atrás surgiu um blogue de um programador com o desejo de aprender C++ em seis meses. Ele entrou em contato comigo para divulgar seu trabalho, e lhe disse que na internet seu trabalho se divulga por si só. E é verdade. No entanto, não contente, ele me pediu para responder um questionário no estilo entrevista. Não sei se o resultado foi satisfatório, mas pelo menos foi curioso. Foram perguntas simples e respostas mais simples ainda.
@@ -19663,7 +19657,6 @@ Regras simples de ser seguidas se você usar sempre a máxima do "KISS".
 
 # Bugs Difíceis de Achar
 date: 2009-06-18
-link: https://www.wired.com/2005/11/historys-worst-software-bugs/
 tags: computer blog
 
 Saiu um artigo na Wired News sobre os piores bugs da história (2026-02-22 apenas para assinantes). Entre eles estão a explosão de um oleoduto soviético em plena guerra-fria (como se não bastasse chernobyl), o primeiro worm da Internet (que se aproveita de um buffer overflow da função gets) e o famoso erro de divisão em ponto flutuante do Pentium; um erro de cálculo de cerca de 0,006% que causou um prejuízo de 457 milhões de dólares para a Intel.
@@ -19797,7 +19790,6 @@ list<list<int> > // válido
 
 # Programadores de verdade não usam Java
 date: 2009-06-18
-link: http://www.pbm.com/~lindahl/real.programmers.html
 tags: essays blog
 
 Quando era um newbie (e um wanna-be) gostava de ler o "Real Programmers Don't Use Pascal", um texto humorístico que mais me influenciou e encorajou a caminho da iluminação C/C++ do que o livro de K&R. A partir dele, supunha eu, ser um "programador de verdade" era ser tudo. Ser um Quiche Eater (Comedor de Torta) não era nada. Programadores de verdade é que resolvem os problemas de verdade! Quiche Eaters são os losers que estudam os conceitos acadêmicos da ciência da computação e nunca fazem um maldito programa que preste (conhece alguém assim?).
@@ -25589,7 +25581,6 @@ Divertido por dentro e por fora. Aprecie com moderação.
 
 # Houaiss no Kindle
 date: 2011-03-22
-link: http://zeribeiropena.wordpress.com/2011/03/21/dicionario-houaiss-e-babylon-no-kindle/#comment-3
 tags: computer projects reversing_tag blog
 
 O blogue de José Ribeiro Pena Neto, aparentemente recém-criado, conseguiu utilizar minha solução de conversão do dicionário Houaiss para Babylon em algo mais incrívei ainda: converter, em alguns passos, a base de dados do Houaiss para o Amazon Kindle.
@@ -26435,7 +26426,6 @@ A trilha de C++ será Quarta, dia 6 de Julho.
 
 # Vídeos do boostcon
 date: 2011-06-10
-link: http://blip.tv/boostcon
 tags: computer archive
 
 Para se aquecer enquanto a trilha de C++ do TDC não acontece, o Grupo C/C++ passou um linque para os vídeos do boostcon, que, pelo que entendi, é um evento onde as pessoas falam como boost é legal e por que você deveria usar boost em seu projeto C++. Pelos títulos (ainda não os assisti) existem assuntos dos mais diversos, e talvez seja uma forma de catequizar a equipe onde você trabalha e que usa coisas bem piores do que boost para programar.
@@ -29836,7 +29826,6 @@ Assassinato em Manhatan é passado e batido, mas consegue divertir sem ofender o
 
 # Coletando dumps automaticamente
 date: 2012-05-17
-link: https://docs.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
 
 Existe uma forma de configurar o Windows para que todo crash que ocorrer na máquina gere um dump em uma pasta específica. Há opções como tamanho do dump e máximo de arquivos mantidos nessa pasta.
 
@@ -30232,7 +30221,6 @@ PS: Mais uma vez as distribuidoras brasileiras pisam feio na bola ao nomear esse
 
 # Novos Atalhos Aprendidos no Vim
 date: 2012-06-09
-link: https://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery/
 tags: computer
 
 Sempre é bom reler as referências e tentar melhorar o que já está bom. No momento minha inspiração é o excelente Vim: From Essentials to Mastery, uma coleção de slides bem-humorada que a cada releitura fornece dicas importantes para aprimorar o dia-a-dia com um dos editores mais poderosos do planeta.
@@ -34305,7 +34293,6 @@ Ambientado durante a guerra no Iraque/etc a partir de um pressuposto que as for�
 
 # Real Programmers Don't Use Java
 date: 2014-02-20
-link: http://www.pbm.com/~lindahl/real.programmers.html
 tags: english
 
 When I was a newbie (and a wanna-be) I enjoyed reading "Real Programmers Don't Use Pascal", a satiric text that influenced and encouraged me into the path of "C/C++ enlightenment", most even than K&R's book. Since then I thought that being a "Real Programmer" was something close to everything one needs to know to get (hard) things done (quickly). Being a "Quiche Eater" was, in couterpart, comparable to nothing. Real Programmers solve real problems! Quiche Eaters are losers who study the academic concepts of computer science and never do a damn useful and/or working program (maybe you know some guy like this).
@@ -36525,7 +36512,6 @@ Sua Parte II, o espaguete lógico, acredito que seja o que mais interessa a nós
 
 # Sobre a BitForge
 date: 2014-07-03
-link: https://www.linkedin.com/company/671883/admin/dashboard/
 tags: blog
 
 BitForge é minha empresa principal e onde eu trabalho resolvendo os problemas mais difíceis de computação; nos contrate para resolver seu problema "pelo Linkedin" ou enviando um email para wanderley.caloni@gmail.com. Conversar sobre seu projeto e até gastar uma horinha entendendo ele faz parte do nossa forma de se aproximar de você sem precisar da burocracia de um contrato ou pagamento de consultoria. Marque um café ou uma call conosco =)
@@ -44097,7 +44083,6 @@ Isso não basta. Já vimos esse filme, e em um formato muito melhor: o drama ori
 
 # Anarchism vs. Objectivism by Harry Binswanger (e outros textos filosóficos)
 date: 2024-09-18
-link: https://www.hbletter.com/objectivism-vs-anarchism/
 tags: philosophy repost
 
 Um texto bem longo e denso. Um desafio e tanto resumi-lo.
@@ -46757,7 +46742,6 @@ A grande piada, ironicamente, é que isso não parece nada civilizado.
 
 # Depurando código C++ no Visual Studio
 date: 2016-08-12
-link: https://youtu.be/78bYgerQVt4
 tags: computer videos
 
 Olá de novo. Este é o segundo vídeo da série "o que que eu tô fazendo no YouTube?". Dessa vez abri o Visual Studio para depurar um código de 10 linhas com um bug absurdamente absurdo, mas que pode enganar muita gente. Há quem acredite que esse bug foi proposital, mas não foi. O importante é que ficou muito legal. Vamos ver?
@@ -47319,7 +47303,6 @@ Se na segunda temporada não há muito como inovar o plot twist do ano em série
 
 # O Destino de Miguel
 date: 2016-09-11
-link: https://www.youtube.com/embed/-vOIA0eWwTw
 tags: cinema movies
 
 Graças às leis de propriedade intelectual não temos muitas produções desse tipo, mas felizmente temos algumas. E essa, produzida de forma profissional por grandes nomes da dramaturgia brasileira, realiza um curta-metragem mais que necessário como extra de DVD do filme Shakespeare Apaixonado, aquele hollywoodiano que ganhou Oscar porque... porque... bom, porque não é dublado como O Destino de Miguel.
@@ -51427,7 +51410,6 @@ Em um jogo narrativo soberbo, sabemos mais sobre a personagem a partir do moment
 
 # The Best of edw519
 date: 2017-02-20
-link: http://static.v25media.com/edw519_mod.html
 tags: books computer blog
 
 Ed Weissman, ou edw519 para os íntimos, é um dos comentaristas mais efusivos, pragmáticos e experientes do Hacker News. Ele tem programado profissionalmente há quase 40 anos. De mainframes a projetos web, a evolução dele passou basicamente pelo dobro de gerações que provavelmente você passou. Ele também já esteve envolvido como sócio/fundador em três empresas, vendendo tanto serviços quanto produtos. Ele trabalhou com centenas de pessoas em mais de mil projetos em mais de um milhão de linhas de código. Ele já compartilhou muitas opiniões com a comunidade, e agora juntou boa parte dessas opiniões em um livro, um ebook, disponível para qualquer um que queira observar alguém que esteve nas trincheiras por muitos anos e não tem medo de dizer o que pensa.
@@ -52956,7 +52938,6 @@ Planejamentos a longo prazo geram a perigosa crença de que o futuro está sob c
 
 # Física Quântica para Filósofos
 date: 2017-05-28
-link: https://spot.colorado.edu/~huemer/papers/qm.htm
 tags: philosophy
 
 O filósofo Michael Huemer explica o mecanismo de manipulação e medição do spin dos elétrons. Há infinitos spins, sendo que ele se foca no que ele chama x-spin e y-spin, spins separados em 90 graus.
@@ -53059,7 +53040,6 @@ Fonte: Hacker News, internet, horas e mais horas de procrastinação, horas e ma
 
 # Uma prova simples e modesta da existência do livre-arbítrio
 date: 2017-05-28
-link: https://spot.colorado.edu/~huemer/papers/fwill.htm
 tags: philosophy
 
 Uma prova simples e modesta do livre-arbítrio, ou pelo menos que refute o "determinismo duro" (que não admite nenhuma possibilidade de alternativas na ação) é dada pelo filósofo Michael Huemer através de 7 premissas e uma conclusão:
@@ -53106,7 +53086,6 @@ E esse é um ótimo motivo para acreditar em livre arbítrio.
 
 # Os fundamentos praxeológicos da Teoria Legal Libertária
 date: 2017-05-28
-link: https://ideallibertario.wordpress.com/2016/04/25/os-fundamentos-praxeologicos-da-teoria-legal-libertaria/
 tags: philosophy
 
 Em essência, a ética libertária não ambiciona buscar o que é certo, mas em determinar o que com certeza não pode ser justificado. Este meu artigo cita alguns pontos vitais do artigo de Lacombi Lauss.
@@ -53496,7 +53475,6 @@ E é justamente este o ponto de impacto de um filme claro, simples, mas nunca si
 
 # Confirmation Theory: Hume's Refutation of Induction
 date: 2017-06-27
-link: https://spot.colorado.edu/~huemer/papers/confirm.htm
 tags: philosophy
 
 Este recorte se trata da explicação do filósofo Michael Huemer sobre a "refutação" de Hume sobre indução. De acordo com Huemer, "Hume's 'refutation' of induction essentially goes as follows:"
@@ -53525,7 +53503,6 @@ Embora se trate de um rascunho, os Grundrisse possuem extraordinária relevânci
 
 # Why People Are Irrational about Politics
 date: 2017-06-27
-link: https://spot.colorado.edu/~huemer/papers/irrationality.htm
 tags: philosophy
 
 A teoria da "Irracionalidade Racional" do filósofo Michael Huemer estabelece uma base teórica que nos permite afirmar que qualquer discussão política é em sua essência irracional:
@@ -60112,7 +60089,6 @@ Isso nos leva até o momento crucial onde as histórias se juntam. E (SPOILER!) 
 
 # Jejum Intermitente e Nutricionistas em Fúria
 date: 2018-08-18
-link: https://youtu.be/-X0A5etb0kk
 tags: body
 
 ## Disclaimer
@@ -61698,7 +61674,6 @@ Fechando o ciclo com uma versão fabulosa de Sound of Silence da cantora espanho
 
 # Chá Verde Feito Como Na Rússia (Russian Tea HOWTO for Linux Hackers)
 date: 2018-10-04
-link: https://gist.github.com/jwreagor/a225f6654ed492c9d90234ff9c0fc93c
 tags: food coffee
 
 Peguei do manual do Linux os passos para a criação da famosa *zavarka*, mas em vez de chá preto o chá verde japonês. O resultado da proporção 1 para 5 (1: folhas; 5: água) com água completamente fervida foi bombástico. Um soco no estômago; cheguei a vomitar. Isso misturando depois o resultado com mais o dobro de água. Recomendo moderação e pouco tempo de infusão.
@@ -64117,7 +64092,6 @@ Used in moderation, making yourself gullible -- or downright stupid -- gives the
 
 # Why Facts Don't Change Our Minds
 date: 2019-02-03
-link: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
 tags: philosophy
 
 Você sabe como funciona um vaso sanitário? Tem certeza? Faça o experimento, então: descreva de maneira verbal todos os passos envolvidos no funcionamento de dar descarga em um vaso. Depois pesquise e verifique como ele realmente funciona. Compare a realidade com o seu achismo e exploda sua cabeça.
@@ -68786,7 +68760,6 @@ Porém, este também é um roteiro inteligente, pois coloca mulheres independent
 
 # Some things I learned in a Hacker Rank exercise
 date: 2019-08-08
-link: https://gist.github.com/Caloni/31fd1105dd18374105d2eb00bce7ee3f
 tags: computer ccpp english blog
 
 A couple of days ago I subscribed to Hacker Hank, a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.
@@ -72512,7 +72485,6 @@ O roteiro está recheado de frases de efeito que reverberam até a cena seguinte
 
 # Como Funciona o MPTunnel
 date: 2019-12-11
-link: https://github.com/bitforgebr/mptunnel
 tags: computer
 
 A ideia por trás de um sistema multipath de rede é fornecer mais de um caminho para o tráfego de pacotes. O objetivo pode ser diminuir a perda de pacotes por causa da instabilidade da infra, mas também fazer com que a velocidade da comunicação seja maior pela diminuição da razão da perda de pacotes, além da melhor rota acabar sendo por onde os pacotes irão chegar primeiro, em uma espécie de seleção natural da arquitetura.
@@ -72841,7 +72813,6 @@ Enaltece as pessoas que criam seus próprios caminhos em vez de ficar reclamando
 
 # Fermento mais ou menos azedo (How to Make Sourdough More or Less Sour)
 date: 2019-12-26
-link: https://brodandtaylor.com/blogs/recipes/make-sourdough-more-sour
 tags: food cooking
 
 Pesquisando sobre como tornar o fermento (e o pão feito com ele) menos azedo que o tradicional pão de fermentação longa, encontrei este artigo dividido em duas partes. Essas anotações dizem respeito à primeira parte.
@@ -74680,7 +74651,6 @@ Este é um filme quase documental. Um making off do estado lamentável do cinema
 
 # Fazenda Capoeira
 date: 2020-05-05
-link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-capoeira/
 tags: coffee
 
 Fazenda Capoeira é um café doce, torra clara, pouca acidez e tons de caramelo aveludado. Pouca expressão após degustar, e parece enjoativo no final, mas sempre acabo passando uma nova caneca no meio do dia.
@@ -75053,7 +75023,6 @@ END { print " - DONE -" }
 
 # Batalha
 date: 2020-06-07
-link: http://vinhosbatalha.com.br/
 tags: wine
 
 Em 1836 ocorre a Batalha do Seival, onde hoje fica o município de Candiota, RS. Esse conflito militar ocorreu quando os revolucionários da Revolução Farroupilha venceram o exército do Império Brasileiro e ensejaram a sonhada República Riograndense. Bons tempos. Em um dos melhores momentos da Guerra dos Farrapos.
@@ -75110,7 +75079,6 @@ Entre os destaques no elenco o melhor deles sem dúvida é Babu Santana, que faz
 
 # Fazenda São João (Produtor Osvaldo Bachião, Nova Rezende, Sul de Minas)
 date: 2020-06-13
-link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
 tags: coffee
 
 - 2021-05-15 Frutado maduro e tânico, esse Bourbon faz um belo corpo com poucos grãos. Sua persistência é perene; minutos depois do último gole ainda fica a sensação de um ótimo café.
@@ -75157,7 +75125,6 @@ Com a diferença de que no universo literário ainda há esperança.
 
 # C++ Co Routines
 date: 2020-06-21
-link: https://en.cppreference.com/w/cpp/language/coroutines
 tags: computer ccpp
 
 Entre os gêneros mais famosos do cinema e da programação está o terror, esse estado mental que se caracteriza pelo medo ou pela aversão a uma situação que envolve a perda de controle. Nesse quesito se encaixam as novas corrotinas que serão adotadas pelo padrão C++.
@@ -75170,7 +75137,6 @@ Eu continuo defendendo que a linguagem C seja usada caso surjam contra-indicaç�
 
 # Malma
 date: 2020-06-21
-link: http://www.bodegamalma.com
 tags: wine
 
 Faz um ano desde a última viagem para buscar vinho e conhecer lugares na Argentina. Fomos à Patagônia e conhecemos geleiras, Bariloche e essa vinícola de Neuquen que tem o charmoso rótulo de estrelas e um blend fora do comum. Comprei várias garrafas para envelhecer na minha adega e abri hoje mais uma delas. O teor alcoólico deste 2015 está bem menor que a última, e consigo sentir as frutas negras da região de maneira muito nítida, misturadas com o inesquecível Malbec e as frutas mais suaves, secundárias, seguidas de um ligeiro azedo.
@@ -75303,7 +75269,6 @@ O próximo passo, antes de ler às cegas, é transformar a leitura do tabuleiro 
 
 # Find Path ou Por Que O Vcpkg Não Colocou o Path da Minha Biblioteca?
 date: 2020-07-01
-link: https://vcpkg.readthedocs.io/en/latest/examples/installing-and-using-packages/
 tags: computer
 
 Algumas bibliotecas portadas para o vcpkg, gerenciador de pacotes direto do fonte da Microsoft, não vêm exatamente como esperamos que elas venham em ambientes mais estáveis como UNIX-like. A GLib, por exemplo, uma biblioteca fenomenal se você deseja trabalhar com um framework puramente em C, está disponível pelo vcpkg através do pacote glib, mas vem encapsulado no namespace unofficial::glib::glib. Isso ocorre porque este não é um port oficial.
@@ -75316,7 +75281,6 @@ Então tá. Feito isso, e rodando o cmake com o -DCMAKE_TOOLCHAIN_FILE passando 
 
 # Close Remote Socket
 date: 2020-07-05
-link: https://www.scm.keele.ac.uk/staff/stan/2016/05/16/closing-sockets-without-killing-processes/
 tags: computer english
 
 I got used to close sockets in Windows using TCP View, but I haven't learned yet how to do this in Linux. Some Google and now I know. It is kinda simple in terminal mode, as any task a programmer needs to do in your system.
@@ -75487,7 +75451,6 @@ Série para meninas ou garotas com o tema otaku. Garotas otakus possuem problema
 
 # Arcanus
 date: 2020-07-20
-link: https://angelyvino.blogspot.com/2017/04/bodega-nanni-vinos-organicos-de-cafayate.html
 tags: wine
 
 Esta é a bodega orgânica da cidade de Cafayate (toda cidade tem suas frescuras). Minúscula a recepção, mas eles possuem um restaurante que funciona à noite (razoável). A visita turística não é muito empolgada nem completa, mas eles fazem o que podem sem estar na vinícola, mas muito próximo do centro da cidade.
@@ -75645,7 +75608,6 @@ Durante o laço é mantido um offset que é incrementado a cada novo argumento. 
 
 # Loretto
 date: 2020-08-04
-link: http://www.loretto.com.br
 tags: coffee
 
 Os cafés da Loretto se dividem em três tipos: Bourbon, Espresso e o Gourmet. Bourbon é o mais doce deles, com um sabor mais presente que o aroma. Bom, talvez nenhum desses cafés seja lembrado pelo aroma, e parte disso é por causa de seu sistema de vendas nem sempre entregar os grãos mais frescos ou melhor torrados. Este é um café de exportação e com o mercado agitado fica difícil reter talentos.
@@ -75754,7 +75716,6 @@ In many ways the perceptions and the observations are more important than the ju
 
 # Fazenda São Francisco
 date: 2020-08-10
-link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-sao-francisco/
 tags: coffee
 
 Esse café tem um frescor que não sei se onde vem. Seu corpo é leve, mas o sabor é mais complexo, com notas cítricas, frutadas, misturadas com um levíssimo amargor típico de um café potente. A acidez é quase inexistente, se transformando em uma bebida viciante, onde uma caneca matinal de 300ml já não são mais suficientes.
@@ -75813,7 +75774,6 @@ Bom, há o pai-nosso em francês. Talvez isso baste.
 
 # Orfeu Descafeinado
 date: 2020-08-12
-link: https://loja.cafeorfeu.com.br/
 tags: coffee
 
 - 2021-05-15 O que pode ser mais bixa que café moído na hora? Café em grãos descafeinado, é claro. Este post é apenas para dizer que, sim, Orfeu Descafeinado em Grãos é que nem o Orfeu tradicional. Mais a bixisse.
@@ -75877,7 +75837,6 @@ Está sentindo um cheiro de "trilogia" no ar? Um estúdio se deu bem no seu prim
 
 # CPU Fritando com Intel Turbo Boost
 date: 2020-08-24
-link: https://rog.asus.com/forum/showthread.php?92088-GL553VD-Gaming-Normal-CPU-Temperature-Range&s=b1f7689c0bb3092110ec06ad4fe25684
 
 É a segunda vez que isso acontece e esqueci quando foi a primeira. O cooler do notebook começa a assoprar que nem louco e em poucos minutos o computador desliga. O processo se repete, sempre que faço alguma atividade que exige mais processamento. Baixo o HW Monitor da CPUID e verifico que a CPU está alcançando limites acima de 90 graus celsius, e para segurança ela se auto-desliga. A solução? Ir em opções de energia do SO e trocar o limite máximo que a CPU pode ser usada de 100% para 99%. Isso mesmo, apenas abaixe um por cento. Com isso você está desabilitando o Intel Turbo Boost, que aparentemente não conhece limites físicos e sai fritando a CPU quando é necessário. Mas isso desgasta os chips e destrói a vida útil do sistema. E minha máquina já é rápida o suficiente para conseguir viver sem mais um Boost na minha vida.
 
@@ -75905,21 +75864,18 @@ Porém, para nós, meros mortais fora desse joguinho contemporâneo completament
 
 # Jejum de Dopamina
 date: 2020-08-29
-link: https://youtu.be/5M-8XFkQ33k
 tags: body self
 
 Na verdade é um jejum de super estímulos, que tem por objetivo apagar o incêndio causado pelos neuroreceptores de dopamina de hábitos compulsivos em busca de prazer fácil para uma vez estabilizado em níveis saudáveis observarmos os gatilhos que nos faz voltar para esses hábitos, observando nossos impulsos para voltar a essas atividades, geralmente associados ao nosso estado emocional interno. Apenas dessa forma, seguindo o modelo de terapia cognitiva, para que o equilíbrio do sistema dopamínico se mantenha, e possamos apreciar como se deve atividades vistas hoje como chatas, como ler, escrever, meditar, passear ao ar livre. Ouvir.
 
 # Bispo e Cavalo
 date: 2020-09-05
-link: https://youtu.be/YFF5ibgB6eA
 tags: chess
 
 Já havia estudado este final há muito tempo e nem lembrava mais. Ter empatada uma partida porque não consegui dar mate forçado com bispo e cavalo é o que me fez rever o estudo. Assisti alguns vídeos e pratiquei com alguns estudos no Lichess. Por fim, me pus a jogar com o computador até entender a dinâmica de cercar o rei e realizar o movimento de W com o cavalo. Eu sei que ainda terão partidas que me sentirei acuado por conta do tempo, mas é bom agora voltar a ter o mínimo de arcabouço lógico por trás desse fascinante e difícil final. Tão difícil que até GMs não conseguem aplicar às vezes.
 
 # Santo Grão
 date: 2020-09-05
-link: https://santograo.com.br
 tags: coffee
 
 O doce tânico, o corpo médio, a caneca de café perfeita, regular, mas falta algo. Equilibrado demais, talvez? Não. Experimentei tomar com uma proporção mais pesada, 10g por 100ml, e fez diferença. O sabor mais presente revela uma combinação inebriante entre o amadeirado tânico da torra média e o amargor que envolve esse café aveludado. É um dos cafés mais equilibrados de linha que já provei.
@@ -76001,14 +75957,12 @@ Kaufman anda se soltando cada vez mais em sua estrutura. Este é o seu filme mai
 
 # Serra Negra
 date: 2020-09-25
-link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-serra-negra/
 tags: coffee
 
 Nossa, que café sensacional. O nível ideal dele está próximo de 20 gramas por 350ml (6g por 100?), ou talvez um pouco mais. Deixei mais que 30s (porque ele estava inchando e fazendo um espuminha convidativa) e menos que 1 min em infusão para duas canecas (36g). O resultado é um café encorpado, frutado, tânico e com um retrogosto complexo. São aromas e sabores maduros, que dialogam com você. Na temperatura ideal, um pouco acima do corpo humano, é uma bebida dos deuses. Você de fato sente uma acidez equilibrada e um final licoroso, alcoólico. Achei que estava brincando na embalagem, mas é verdade.
 
 # Sul de Minas
 date: 2020-09-25
-link: https://cafedocentro.com.br/sul-de-minas/
 tags: coffee
 
 Da série Café do Centro, este Gourmet Especial de Origem diz "grãos selecionados e torrefação precisa criam uma textura perfeita de aroma e sabor inigualáveis". Nota final: cítrico equilibrado. Não sei muito o que dizer sobre esse. É café. Não há aroma nem sabor muito especial. Sente-se o tanino e o equilíbrio cítrico, claro, mas não tem personalidade. É um café bom. O quanto isso é digno de um gourmet também não sei. Só sei que é melhor que de mercado. E se vende em grãos, o que para meu paladar é uma vantagem.
@@ -76166,7 +76120,6 @@ E por isso que este representante do Dogma 95 até que é bem feito, o que faz p
 
 # Kaynã
 date: 2020-09-29
-link: http://kayna.com.br/cafe/
 tags: coffee
 
 Doce, pouco ácido. Feito em uma fazenda orgânica que visitei com amigos há um ou dois anos, a fazenda produz alimentos sustentáveis e tentam diminuir ao máximo as pegadas de carbono. A torra deste café é média, mas possui bom corpo e amargor leve. Você pode encontrá-lo moído ou em grãos no mercado Santa Luzia em São Paulo. Eles entregam na capital de bike. É muito esforço para deixar de ser admirável. E é um bom café de verdade.
@@ -76245,7 +76198,6 @@ Sendo assim, segue a lista desse primeiro fim-de-semana. Os textos estão horrí
 
 # Gaintus Radical
 date: 2020-10-04
-link: https://www.montrubi.com/radical
 tags: wine
 
 Que uva é essa. Ela é bem diferente. Azeda, espanhola. Da região da Catalônia. Corpo parece fraco, mas é médio, intensidade do sabor curiosa. Dá pra passar um bom tempo pensando nesse vinho enquanto bebe. Melhor assim que abre. Depois é pra trocar ideia com os amigos.
@@ -76519,7 +76471,6 @@ O raciocínio no Cinema funciona mais por intuição do que pela prática analí
 
 # Fazenda da Serra
 date: 2020-10-22
-link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-da-serra/
 tags: coffee
 
 Esse café é diferente do que se costuma provar nas rodas gourmet. Ele possui atributos florais, e não frutados. É menos doce, mais aromático (até no sabor) e pode soar sem graça para alguns, mas é o equilíbrio entre as nuances a chave para entendê-lo.
@@ -77079,21 +77030,18 @@ Não irei adicionar mais tarefas, pois estas estão em andamento e devem continu
 
 # Villa do Luca
 date: 2021-01-07
-link: https://www.vivino.com/villa-doluca-klasik-red/w/1178475
 tags: wine
 
 Eu não sei como analisar este vinho. Há uma uva nele bem diferente do usual. Ela é turca, veio lá da vila do Luca. Descobri que na Turquia há uma das maiores viticulturas do planeta, mas infelizmente eles não produzem tanto vinho assim há séculos por causa da religião local que proíbe o consumo de álcool. Apenas recentemente a produção aumentou devido ao incentivo para as exportações, embora a grande maioria das uvas sejam para consumo não-alcoólico. Esta uva, Okuzgozu cheio de pingos, junto do blend com Shiraz e Merlot garante um aspecto mais tânico que essas outras duas, mas mais frutado. É bem diferente do usual dos vinhos europeus e inclusive do Novo Mundo.
 
 # Stamnaki Moschofilero
 date: 2021-01-10
-link: https://www.vivino.com/stamnaki-moschofilero/w/4956043
 tags: wine
 
 Mais um da série "uvas estranhas", Moschofilero é uma aromática uva branca grega, e Stamnaki é um rótulo da região. Apesar de vinho branco esta garrafa vem fechada com rolha, algo incomum para o gênero. Não sei se ela é aromática de fato, mas o sabor é mais pronunciado, azedo e tânico, do que normalmente vinhos brancos são. Pode ser degustado sozinho, mas para os apreciadores de branco vai parecer ligeiramente mais forte, apesar de não tanto quanto um tinto de uva madura.
 
 # Stamnaki Agiorgitiko
 date: 2021-01-12
-link: https://www.vivino.com/stamnaki-agiorgitiko/w/5367261
 tags: wine
 
 Outra garrafa grega que abri (dessa vez tinto, mas mesma vinícola) possui um corpo forte e um vinho azedo e com aroma que se esvai rapidamente. Frutado, mas diferente do Malbec padrão, encorpado.
@@ -77156,7 +77104,6 @@ Poderia conter um núcleo mais coeso e enxuto. O apelo comercial estende a hist�
 
 # Fazenda Baobá
 date: 2021-02-15
-link: https://bsca.com.br/property/show/id/128
 tags: coffee
 
 No meio das minhas compras de estocagem de café peguei 250g deste grão que veio lá da região de Média Mogiana, em São Sebastião da Grama, interior de SP (mas do lado de MG). Ele pode ser encontrado no mercado Santa Luzia e comprado online.
@@ -77189,7 +77136,6 @@ Espero que não seja um golpe psicológico que estou sofrendo e que isso se mant
 
 # Villa Doluca Classic Rose
 date: 2021-02-16
-link: http://www.dolucawines.com/products/our-wines-detail/56/villa-doluca-classic-rose
 tags: wine
 
 Mais um vinho dessa Vila do Luca. Esse Luca sabe fazer vinhos interessantes. Localizada na Turquia, uma das maiores produtoras de uvas, mas não de vinhos (por motivos religiosos), Villa Doluca é uma produtora e exportadora desses rótulos.
@@ -77666,7 +77612,6 @@ Assim como o sentimento de nostalgia, quando temos certeza, assim como o persona
 
 # Bolo Cremoso de Milho
 date: 2021-03-20
-link: https://youtu.be/5cEKGHSv0Vg
 tags: food cooking
 
 Para esta receita usar uma lata de milho em conserva como base de 200g. Ligue o forno a 200 graus, unte uma forma com manteiga e farinha de milho e quebre três ovos dentro do liquificador. Em seguida adicione a lata de milho e na mesma lata encha metade de óleo e jogue novamente. Depois adicione de 3/4 a uma lata de açúcar; nessa parte pode ser mais ou menos; pode ser até 1/2 na real, mas nesse caso acrescente uma pitada de sal para realçar o sabor. Bata bem, para que triture bem o milho e misture com os outros ingredientes. Em seguida adicione de uma lata de farinha de milho até uma lata e 1/4; a farinha pode ser fubá, milharina, fubarina, qualquer farinha de milho à disposição, embora a receita original use um fubá mais grosso como fubarina. A seguir coloque uma lata de leite; aqui é outra hora em que você pode escolher trocar seu leite por leite de coco ou outros leites, adicionar um pouco de coco ralado, etc. Porém, mantenha a quantidade em uma lata. Bata novamente, só que bem mais rápido, só para misturar os ingredientes mesmo. Enquanto está batendo ainda jogue uma colher de sopa de fermento químico.
@@ -77748,7 +77693,6 @@ Não há respostas fáceis no dramalhão que se forma em O Último Beijo e isso 
 
 # Pão de Queijo Fácil e Rápido
 date: 2021-03-27
-link: https://www.instagram.com/p/CCJAULPDsJ-/
 tags: food cooking
 
 A receita original veio do Instagram de uma queijaria de Poços de Caldas, a Queijaria Real. Nessa receita existem apenas três ingredientes, mas já percebi na primeira vez que fiz que faltou sal. Porém, ela é muito mais simples e rápida que a receita que mantenho de pão de queijo mineiro.
@@ -77895,7 +77839,6 @@ A segunda temporada parece ter começado com gestão Netflix: criaturas mágicas
 
 # Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)
 date: 2021-05-01
-link: https://youtu.be/PU0O_HYMoCw
 tags: computer debugging videos
 
 Estava pensando em transformar alguns posts antigos que estou revisando em vídeos no YouTube. Acho que o esforço para fazer isso é relativamente baixo se for sem áudio, sem edição e apenas com o que eu naturalmente faria para validar as partes técnicas, e muita gente poderia aprender algumas coisas, como, por exemplo, configurar o debug de kernel.
@@ -78216,7 +78159,6 @@ O pai quer mudar detalhes no anime para que seja uma nova estréia completamente
 
 # Eniwine
 date: 2021-05-17
-link: https://www.eniwine.com
 tags: wine
 
 Comprei um Kit da Eniwine para testar esse experimento em usar inteligência artificial para prever os gostos particulares dos bebuns. São 15 mini-garrafas de 50 ml cada em que você deve degustar e dar uma nota de 0 a 5, de meio em meio, e depois jogar no sistema deles para comprar mais vinhos. Comecei a degustação um dia depois de chegar e de cinco em cinco mini-garrafinhas degustamos 15 rótulos desconhecidos. Junto vem um catálago de cada vinho, mas qual é a graça de saber qual o vinho antes de tentar adivinhar os sabores escondidos?
@@ -78849,7 +78791,6 @@ Comédia escrachada, é empolgante na maioria do tempo, mas sua bagunça cansa u
 
 # Como fazer pizza
 date: 2023-04-21
-link: https://www.youtube.com/c/vitoiacopelli
 tags: food cooking repost
 
 ## Ingredientes
@@ -79739,7 +79680,6 @@ Mas e o resultado final? Seria essa uma sessão ruim dirigida por uma novata que
 
 # Café Dona Manuela
 date: 2021-09-18
-link: http://www.fboaesperanca.com.br/produtos.htm
 tags: coffee
 
 Passei no pano. Tive que passar de novo. Ele é bom. Corpo leve e um sabor no fundo que lembra Minas, mas bem mais sutil que o normal. Puxa mais pro doce e tons mais florais que frutado. Na Aeropress tive uma surpresa: ele amargou em alguns momentos, e em outros não. Testei alguns métodos, como na invertida, que é o que estava usando esses dias para reter o líquido e conseguir mexer após o tempo de infusão, mas acho que esse tempo ou precisa ser ajustado ou algo foi feito de errado. Pode ser que a borracha do método invertido esteja causando alguma interferência no sabor, pois outro café também amargou. Retornei para o James Hoffmann e deu certo, ficou show de bola, doce e com mais sabor. Tentei no pano novamente e há uma diferença na intensidade. Tentei novamente Aeropress tradicional, mas sem mexer após 30s, mantendo preso e ficou menos intenso. Hoffmann for the win.
@@ -81343,7 +81283,6 @@ Mais um Almodovar que gosta de Cinema, que é apaixonado por tramas de suspense 
 
 # Impact of sugar on the body, brain, and behavior
 date: 2022-03-15
-link: https://www.fbscience.com/Landmark/articles/10.2741/4704
 tags: body quotes
 
 Sugar typically refers to a category of simple carbohydrates that includes monosaccharides like fructose and glucose, and disaccharides, like sucrose and lactose, which have different effects on the body and brain.
@@ -81696,7 +81635,6 @@ Tudo seria mais fácil se este fosse um filme que se passasse uma camada acima a
 
 # Dona Matilde
 date: 2022-05-12
-link: https://www.donamatilde.pt/
 tags: wine
 
 Dona Matilde
@@ -82615,7 +82553,6 @@ Truffault é o amiguinho do Godard e ambos criam os filmes franceses mais chatos
 
 # AWK and DNA
 date: 2022-06-25
-link: https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
 tags: computer english
 
 ![](awk_dna_dna_chips.png)
@@ -82662,7 +82599,6 @@ parallel --block 100M --pipe  \
 
 # AWK and Stack Overflow
 date: 2022-06-25
-link: https://stackoverflow.com/questions/43513975/awk-gawk-performance
 tags: computer
 
 ## XML Issues
@@ -83455,7 +83391,6 @@ Estou soando um pouco brega? Me desculpe, me contagiei pelo espírito deste belo
 
 # Cravings vs impulses: What are you guilty of?
 date: 2022-07-31
-link: https://gulfnews.com/going-out/society/cravings-vs-impulses-what-are-you-guilty-of-1.2267596
 tags: body
 
 Esta é uma leitura que fiz para me conscientizar (mais uma vez) sobre consumir comida compulsivamente. Hoje faço isso de maneira crônica, e apesar de geralmente ser comida de verdade (frutas, chocolate com alto teor de cacau) acredito fazer mal para o organismo consumir tanto em tão pouco tempo. E o pior: sem estar de fato sentindo o alimento consumido.
@@ -83623,7 +83558,6 @@ A torra é o segredo. Intensa, traz sabores amendoados. Um amargor inebriante.
 
 # Como Ganhar De Torre Dama Encurralando O Rei
 date: 2022-08-13
-link: https://www.chess.com/game/live/54161416339
 tags: chess
 
 Apliquei um perpétuo nesse final porque pensei que estava pior, mas a análise me dava mais de 5 pontos de vantagem. Olhando por que vi que quando o adversário avançou o peão ele deixou o rei propício a levar vários xeques, e há uma combinação com minha dama e torre (contra a dama e torre dele) cuja ideia é trazer ambos para aplicar o mate e forçar a dama a defendê-lo, e assim deixando de proteger a torre.
@@ -83850,7 +83784,6 @@ Não é a primeira vez que se brinca com o tema. Existem inúmeros trabalhos mui
 
 # Como ler na internet
 date: 2022-09-26
-link: https://12ft.io/
 tags: journal
 
 Lembra daquela época que todos os sites tinham aqueles banners de propaganda piscante no começo e no fim de um texto, muitas vezes em algumas partes do meio? Bons tempos, não?
@@ -83925,7 +83858,6 @@ tags: cinema movies
 
 # Meialunas argentinas
 date: 2022-10-09
-link: https://youtu.be/k6iBmUSPEzY
 tags: food cooking
 
 Meialunas são como croissants mais doces e com mais sabor. Vou usar como base a receita do canal CUKit! (link principal), embora irei usar também como referência um pior, o "vídeo da Paulina Cocina", onde ela faz meialunas bem nas coxas, mas é justamente o que me dará forças para quando a minha também ficar meia-boca, e o "vídeo de Isabel Vermal", que me pareceu um bom meio termo entre os dois vídeos, e de brinde com mais explicações do processo.
@@ -84448,7 +84380,6 @@ Isso acontece porque no circuito de imprensa global é raro a figura de pessoas 
 
 # Camila Vieira
 date: 2022-10-23
-link: http://multiplotcinema.com.br/2021/10/45a-mostra-internacional-de-cinema-de-sao-paulo/
 tags: mostrasp
 
 Esta é uma escritora séria sobre cinema. Em seus textos da última Mostra de SP pode-se notar a facilidade em construir suas impressões sobre o filme sem depender, como muitos escritores no início, em ficar contando a história e alguns spoilers. Camila está interessada em deixar notas curtas e certeiras sobre sua opinião sobre o que o filme quer dizer, qual a atmosfera estabelecida pela narrativa e coisas do gênero. Ela nunca se deixa levar pela visão rasa de um espectador de primeira viagem. Apesar de não relacionar trabalhos e citar rapidamente apenas o filme assistido, é um trabalho competente. Talvez sem tanta vontade e já com conclusões automáticas, mas quantos de nós conseguimos assitir tanto em tão pouco tempo e ainda escrever suas 1000 palavras por filme? Há de se descontar.
@@ -84541,7 +84472,6 @@ Filmado na ilha de Açores e com um casting formato por membros de comunidades s
 
 # Luiz Joaquim (Cinema Escrito)
 date: 2022-10-25
-link: https://www.cinemaescrito.com
 
 O crítico de cinema de Pernambuco Luiz Joaquim possui alguns bons textos no site Cinema em Escrito e notícias recentes, por exemplo, sobre a Mostra desse ano. Contudo, seus textos são bem, bem antigos, da época que escrevia para jornais. Mas os textos são bons, resenhas curtas e eficientes. Dão aquela impressão rápida sobre o filme que informa o cinéfilo.
 
@@ -84795,7 +84725,6 @@ Cléo das 5 às 7 é puro êxtase narrativo. Não há amarras. As cartas foram d
 
 # Passagem de Parâmetros C vs C++
 date: 2022-11-20
-link: https://youtu.be/i9Focx4UXnc
 tags: computer ccpp
 
 Em C não é necessário declarar os parâmetros que uma função recebe. Isso é implícito. A linguagem C foi criada para ser um amontoado de assembly descrito com um pouco de syntax sugar e juntado pelo linker através de uma tabela de nomes. O que importa são os nomes. Vamos exemplificar:
@@ -85024,7 +84953,6 @@ Pois bem. Salvos os novos rascunhos em um novo commit, publico as novas modifica
 
 # Natália Bocanera
 date: 2022-12-04
-link: https://coletivocritico.com
 tags: mostrasp
 
 A advogada em seu tempo livre escreve sobre cinema para o saite Coletivo Crítico, dando sua visão feminista sobre a arte cinematográfica. Peguei alguns textos dessa última Mostra para ler e é possível constatar que ela de fato sabe escrever. Mais do que isso: pincela com certa habilidade os pontos principais que anotou sobre os filmes que assistiu. Sempre, claro, sob o viés feminista junto do pacote ideológico que dispensa apresentações.
@@ -85677,7 +85605,6 @@ A felicidade de sua vida depende da qualidade de seus pensamentos: portanto, gua
 
 # Pereira Villela de Itajubá, MG
 date: 2023-01-31
-link: https://pereiravillela.com.br/shop/
 tags: coffee
 
 Espresso cremoso, azedo como uma torra mais balanceada. O rapaz lá tem todo equipamento para colher, torrar e moer. É o esquema de minitorrefação. Peguei o intenso local para experimentar e o que provei, da fazenda Sant'ana.
@@ -85697,7 +85624,6 @@ Um homem e sua bicicleta refazem o realismo italiano neste drama cômico em que 
 
 # Vitamin D - The Nutrition Source
 date: 2023-01-31
-link: https://www.hsph.harvard.edu/nutritionsource/vitamin-d
 
 Ontem fui em um exame de rotina e meu médico disse que minha quantidade de vitamina D está levemente abaixo do indicado. Então ele receitou suplementos por seis meses até meu retorno. Perguntei sobre métodos naturais de aumentar a quantidade da vitamina no organismo e ele disse que não funciona ou não é o suficiente ingerir alimentos nem tomar sol. Ele deu o exemplo anedótico de um paciente seu que trabalha todos os dias sob o sol escandante e que revelou a mesma deficiência.
 
@@ -86283,7 +86209,6 @@ Este é o café especial da região de Monte Verde. Provei ele achando no mercad
 
 # Começa um final de peões e cavalos
 date: 2023-03-13
-link: https://www.chess.com/game/daily/471866193
 tags: chess
 
 Brancas movem e... e nada. É um final complicado.
@@ -86669,7 +86594,6 @@ Por fim, e apesar de já ter tocado no assunto de qualidade, acredito que o conj
 
 # Como analisar assembly x64
 date: 2023-04-05
-link: https://codemachine.com/articles/x64_deep_dive.html
 tags: debugging videos
 
 Recomendo a leitura do artigo "X64 Deep Dive" para se habituar às idiossincrasias sobre o formato assembly do x64, especialmente se você costuma depurar assembly para Windows. O artigo descreve as novas funcionalidades que suportam os 64 bits do formato do executável Windows, o Portable Executable, além de explicar em detalhes o funcionamento de mecanismos que mudaram, como o tratamento de exceção (e o unwinding no código).
@@ -87632,7 +87556,6 @@ Lá pelo final você entende. A velha aprende a andar de bicicleta. E ela agora 
 
 # Hacker Rank Warm Up
 date: 2023-04-16
-link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags: computer interview
 
 Here I am doing interview exercise tests at Hacker Rank. I am trying to recap what I've been doing the last two months before going on. Let's see what I learned, starting with the Warm Up exercises.
@@ -88219,7 +88142,6 @@ Pois é, esse Easter Egg é muito mais que um desenho simpático e as memórias 
 
 # Hacker Rank Array - Part 1
 date: 2023-04-28
-link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags: computer interview english
 
 The next step after "the Warm Up challenges" are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
@@ -88478,7 +88400,6 @@ Este post entrará na categoria blog. Sem tag. Esta é outra vantagem da analogi
 
 # Aomori
 date: 2023-05-28
-link: https://thecoffee.jp/ourbean/kraftedition/aomori
 tags: coffee
 
 O café acabou e fui buscar em um rolê de bike no ABC, aqui do lado. Era uma terça e havia pensado erroneamente que seria dia de torra nova no Birmingham, uma cafeteria com microtorrefação gerenciada por um químico. Acertei o dia, mas errei o período: a torra acontece toda terça à noite, não de dia. Ou seja: café novo apenas no dia seguinte.
@@ -88505,7 +88426,6 @@ Um dos desafios de fazer carê é a textura dos legumes. O ideal é que você co
 
 # Ciabatta Rústica
 date: 2023-05-28
-link: https://youtu.be/9dCcTK7oJLA
 tags: food cooking
 
 Enquanto preparava o carê dei para experimentar uma receita nova de pão, essa ciabatta rústica, para acompanhar o antepasto de berinjela que a Mitiko fez pela segunda vez. Os ingredientes são simples e o preparo também. As proporções abaixo são para um pão pequeno para médio. Para ter uma ideia, nós acabamos com dois desses na mesma noite.
@@ -88538,7 +88458,6 @@ De acordo com a autora "its so easy to make this ciabatta bread and the resultin
 
 # Curry Indiano Caseiro
 date: 2024-01-23
-link: https://www.instagram.com/reel/CqoSEe4voDv/?igshid=MTc4MmM1YmI2Ng==
 tags: food cooking repost
 
 O curry indiano caseiro dá mais trabalho de reunir todos os ingredientes do que o preparo, que são apenas dois minutos em fogo baixo misturando sempre; após esfriar é só processar tudo junto em um mixer, moedor ou liquidificador e peneirar. Dá uma olhada na lista de ingredientes:
@@ -88606,7 +88525,6 @@ Esse experimento me convenceu que é gostoso experimentar blends de vez em quand
 
 # Why I will also build my own shitty static site generator
 date: 2023-06-05
-link: https://ewintr.nl/posts/2020/why-i-built-my-own-shitty-static-site-generator/
 tags: projects
 
 O texto Why I Built My Own Shitty Static Site Generator resume muito bem minhas restrições sobre Static Site Generators em geral e acaba devaneando por caminhos pelos quais eu também passeio  quando penso em meus textos e as diversas formas dele se propagar. É um ensaio, quase rascunho, do seu autor, mas já abrange para mim de uma maneira holística o suficiente os dilemas entre usar o que já está pronto e perder a liberdade de colocar as ideias no papel ou preferir se fechar nas soluções caseiras, capengas, mas 100% autorais. Não chega a ser o texto que eu gostaria de ter escrito sobre o assunto e que não precisarei escrever por enquanto, mas é um começo corajoso. Os mesmos desafios estão aí.
@@ -88615,7 +88533,6 @@ Porque qual o motivo de eu depender de um formato se a forma não é o conteúdo
 
 # Asciidoc is the best
 date: 2023-06-05
-link: https://ewintr.nl/posts/2020/why-i-built-my-own-shitty-static-site-generator/
 tags: essays english computer
 
 After reading about the purpose and "current implementation of asciidoctor" I realize that asciidoc is the best text standard for the future of the blog. I say that based on the structure care of the format, the embebbed metadata into its own format and the clear objective of being a unique and formalized standard, what could simplify a lot the necessity of writers and publishers of keeping a text  base as the original and yet keep the structure inside with almost no effort in the side of the writers.
@@ -88666,7 +88583,6 @@ Com dois comentaristas que nos fazem ter saudades dos de Terrace House porque er
 
 # Aldeia Numa Boa
 date: 2023-06-06
-link: http://www.numaboa.com.br
 
 Segue aqui uma pequena nota de arrependimento por não saber da existência "deste saite" até o Fernando Mercês do "Mente Binária" me informar. A Vovó Vick era uma médica formada e começou a se interessar por computação e nunca mais parou. Ela publicou um livro sobre criptografia. Ela escreveu artigos e mais artigos sobre programação, sistema operacional, linguagem assembly e muito mais. Ela viveu o boom dos PCs como nós, jovens, mas ela já estava na terceira idade, o que se tornou um mero detalhe e curiosidade, já que o conteúdo de seu saite dá de dez a zero em muitos jovens apenas curiosos com a área ou querendo ganhar dinheiro. A Vovó mergulhou fundo na tecnologia. E é muito bom apenas saber disso. Uma pena não conhecê-la a tempo. Que faça boa viagem. E que nos encontremos em outras configurações da matéria e da energia.
 
@@ -88807,7 +88723,6 @@ Agora começa a diversão =).
 
 # Usando Awk para gerar sites e medidas de performance
 date: 2023-06-15
-link: https://github.com/nuex/zodiac
 tags: computer
 
 Hoje achei um projeto muito genial e óbvio chamado Zodiac, que é um static site generator escrito em awk. Mas claro! Gerar sites estaticamente é sobre manipular texto de entrada para texto de saída. Como não pensei nisso antes?
@@ -89670,7 +89585,6 @@ Será que Black Mirror perdeu sua alma pelo caminho durante esta última tempora
 
 # Descafeinado moído Maria Bonita
 date: 2023-07-01
-link: https://cafecampinho.com.br/
 tags: coffee
 
 O rótulo diz 100% café brasileiro. Está com texto em português e inglês para exportação. O sabor do robusta em grãos da mesma produtora tinha seus poréns, mas este é um custo/benefício interessante. Ele tem um sabor agradável e mineiro. Se trata de uma torra mais escura que puxa para sabores mais da torra que do café, mas ainda assim é um bom café.
@@ -89699,7 +89613,6 @@ Estou orgulhoso, mas mais ainda curioso para entender o que acontecerá em torra
 
 # Mostra Ikigai (SP)
 date: 2023-07-11
-link: https://centrocultural.sp.gov.br/ikigai-cinema-razao-de-viver
 tags: cinema
 
 O conceito de ikigai (生きがい) é a representação de ações que impulsionam qualquer pessoa a seguir a sua rotina no encanto da vida, não necessariamente a partir de grandes acontecimentos. Embora ikigai seja um termo de difícil tradução, tem sido considerado por pesquisadores de áreas diversas como razão de viver.
@@ -89769,7 +89682,6 @@ Não. Drama é ficar assistindo a este filme buscando pelo momento onde algo pes
 
 # Boas-vindas ao canal de Reversing do Telegrama
 date: 2023-07-21
-link: https://youtu.be/HYkG4ZG7lxU
 tags: computer reversing_tag blog
 
 Olá, pessoas do Telegrão que entraram "no canal". Bora começar a fazer baixarias pra ver se anima? Bom, acho que a primeira coisa que todo reversing de computador precisa fazer é gerar sua primeira telinha azul com uma poesia. Vamos lá?
@@ -90097,7 +90009,6 @@ Além disso, awk me dará a liberdade que gostaria de indexar pesadamente meus t
 
 # Explorando a HSTRING
 date: 2023-08-21
-link: https://learn.microsoft.com/en-us/windows/win32/api/winstring/
 tags: computer reversing_tag
 
 Estava me enveredando hoje nos bytes usados para montar e demonstar os argumentos de uma interface COM proxy da WinRT quando quis saber qual era o leiaute da nova string do Windows, a HSTRING, usada na WinRT e em todo o ecossistema dos Universal apps.
@@ -90367,7 +90278,6 @@ Há participações especiais bem pequenas dos saudosos e queridos Alcione e Syd
 
 # TRAFFIC
 date: 2023-09-07
-link: https://www.whyprogramsfail.com/pdf/HowFailuresComeToBe.pdf
 tags: computer debugging reversing_tag
 
 Observei esta anotação em meu journal de muitos anos atrás (2009) e ela continua atual. Baseado em um powerpoint do cientista da computação Andreas Zeller, autor de Why Programs Fail, este acrônimo é um caminho fácil de lembrar quando precisamos encontrar um bug no sistema. Eu lembro que estava pensando até em escrever um artigo na época, mas ainda estava trabalhando a questão de como traduzir as siglas para o português.
@@ -90639,7 +90549,6 @@ Dirigido com igual energia por John Cameron Mitchell, que junto de Philippa Gosl
 
 # Seleção do Mário
 date: 2023-09-28
-link: https://cafeselecaodomario.com.br/
 tags: coffee
 
 Você conhece o Mário? Sim, esse mesmo: o que torrou café atrás do armário. Ganhei este pacote de um café bem cítrico, segundo colocado dos que experimentei; só perde para o "Aomori" do The Coffee. Seu sabor realmente lembra muito a adstringência do limão, o que acaba gerando uma bebida bem leve e -- é estranho dizer isso sabendo que é um café -- refrescante.
@@ -90655,7 +90564,6 @@ Fiz também testes em um blend com um café mineiro que tenho aqui vindo da mesm
 
 # Pão integral multigrãos
 date: 2023-11-04
-link: https://amopaocaseiro.com.br/receita/pao-multigraos/
 tags: cooking
 
 Estou (estava?) com essa missão de fazer um pão integral próximo do pão que comemos no [Casa Velha], restaurante nos confins de Camanducaia. Ele é um pão mais escuro que lembra australiano, mas mais gorduroso e massudo, cujo sabor vem mais da gordura. Sua massa é intensa e satisfaz bem, e seus grãos estão na medida certa. Ele não tem muita estrutura, se desmancha fácil. Fazer a reversa deste pão envolve pesquisar a respeito não apenas de pães integrais, mas tipos de multigrãos, australiano e receitas que em geral geram este ou aquele resultado. Comecei pelo básico do Amo Pão Caseiro que utiliza mais de 75% de hidratação, mas fiz todo torto. Não tostei nem umedeci os grãos, além de ter colocado menos água para tanta farinha integral. Usei fermento natural e ficou fermentando uma noite inteira na geladeira e um dia frio inteiro. Achei mais fácil de manusear na hora de colocar no forno, mas não cresceu muito. Ficou massudo, mas bom. Descobri que pão sempre fica bom se você cuidar bem dele.
@@ -90666,7 +90574,6 @@ Estou (estava?) com essa missão de fazer um pão integral próximo do pão que 
 
 # Forte de S. Sebastião
 date: 2023-10-03
-link: www.quintassebastiao.com
 tags: wine
 
 Um vinho português que mistura a casta Touriga Nacional com Syrah e dá um resultado balanceado, leve, uma mistura de azedo e amargo fácil de beber e que de vez em quando gera memórias afetivas de diferentes aromas. Diz o rótulo que gira em torno de frutos pretos, trufas e café. Eu acho que não é pra tanto. Mas gera.
@@ -90935,7 +90842,6 @@ Se é fácil traçar paralelos de clássicos com este filme adolescente é porqu
 
 # Café do japonês
 date: 2023-10-10
-link: https://youtu.be/gC8K40kZ_6E
 tags: food coffee
 
 Eu não sei por que o YouTube me recomenda essas coisas. Este é um japonês que ganhou campeonato de passar café e este é um vídeo de uma técnica inovadora usando o Switch, que até então eu não tinha prestado atenção em sua existência.
@@ -91219,7 +91125,6 @@ Hoje foi a vez de abrir a garrafa branca. Nela havia as uvas Malvasia e Moscato,
 
 # Vovó Ninja
 date: 2023-11-10
-link: https://vovoninja.blogspot.com/
 tags: music
 
 Parece um blog ainda ativo com torrents de diversas discografias e coletâneas. Baixei alguns para a viagem de fim de semana. Ainda analisando o site, mas já gostei da iniciativa.
@@ -92103,7 +92008,6 @@ Esta é a perfeição moral: viver cada dia como se fosse o último, sem agitaç
 
 # Kimchi Coreano
 date: 2024-03-30
-link: https://youtu.be/msk8T3Q1FGI
 tags: food cooking
 
 Ingredientes: acelga, uma maçã,  pimenta vermelha coreana, cebola, cebolinha, alho, açúcar, sal.
@@ -92766,7 +92670,6 @@ void RecursiveFunction(ref HashSet<Type> finalList, Type itemToAdd, ref HashSet<
 
 # Cognitive Complexity (SonarQube)
 date: 2024-04-15
-link: https://www.sonarsource.com/blog/cognitive-complexity-because-testability-understandability/
 tags: computer english
 
 - Increment when there is a break in the linear (top-to-bottom, left-to-right) flow of the code.
@@ -93030,7 +92933,6 @@ Russel Cromwell tem a difícil tarefa de demonstrar fragilidade de paciente e ma
 
 # Iniciando estudos em Low Carb
 date: 2024-04-29
-link: https://vivoleve.com.br/alimentos-dieta-low-carb/
 tags: body
 
 Em linhas gerais, as regras básicas da alimentação Low Carb são:
@@ -93172,7 +93074,6 @@ git push -u public public_branch
 
 # Flexibilizando retorno de métodos mockados
 date: 2024-05-08
-link: https://myadventuresincoding.wordpress.com/2014/02/24/c-setting-up-a-mocked-method-to-return-a-different-value-when-called-a-second-time-using-moq/
 tags: code
 
 Usando Moq para criar testes unitários em C# e penando para conseguir retornar valores diferentes para chamadas diferentes da interface mockada descobri finalmente este artigo que dá alguns exemplos para retornar múltiplos valores através da mesma chamada de um método mockado.
@@ -93632,7 +93533,6 @@ Me incomoda o fato dos seus personagens serem tão amáveis e a química do casa
 
 # legacy_stdio_definitions
 date: 2024-06-11
-link: https://stackoverflow.com/questions/32418766/c-unresolved-external-symbol-sprintf-and-sscanf-in-visual-studio-2015
 tags: computer
 
 Estava eu com meu Visual Studio compilando um arquivo C e de repente:
@@ -94284,7 +94184,6 @@ As vantagens do Markdown como lingua franca ultrapassam em muito a teórica robu
 
 # Mielina
 date: 2024-07-15
-link: https://pt.wikipedia.org/wiki/Bainha_de_mielina
 tags: body self
 
 Quando nos esforçamos para aprender algo novo uma nova conexão sináptica é criada, uma nova "perninha" em um neurônio. Essa atividade comumente é cansativa, pois além de tentativa e erro, energia, tempo e repetidos esforços para construir um comportamento ou assimilar uma informação são necessários. A criação de apenas uma dessas perninhas já é um esforço significativo, aprender algo novo exige muitas repetições e muitas dessas perninhas se tornam mais fortes se coberturas de lipídios (gordura) forem construídas em volta, o que agiliza e potencializa o tráfego de elétrons. Este fenômeno realmente existe para cobrir os axônios, os canais de comunicação entre neurônios, fortalecido por repetição. Esses canais de gordura são chamados de "bainha de mielina" e acontecem naturalmente quando a pessoa está envolvida repetidamente na mesma tarefa, sem troca de foco, por mais tempo. O cérebro "entende" que o canal sendo criado é mais importante e constrói as estruturas de mielina que irá privilegiar e proteger o novo comportamento e informação em detrimento de outros caminhos.
@@ -94350,7 +94249,6 @@ Seu corpo é uma máquina bioquímica, você pode produzir a química e o estado
 
 # Why You Should Take Steps to Eliminate Grains From Your Diet
 date: 2024-07-23
-link: https://www.drjohnonhealth.com/why-you-should-take-steps-to-eliminate-grains-from-your-diet/
 tags: quotes body
 
 So, how much carbohydrate should you eat? As a general rule, a healthy person can think of the answer to this question in this way: the quantity of carbohydrate consumed during a meal should be no more than what you need to replenish the glycogen stores in your liver and muscles, unless you are exercising immediately after a meal. Any excess carbohydrate that remains in the body is what your liver converts into triglycerides that get stored in your fat cells. When your fat cells are full, the excess glucose remains in your bloodstream. This means that if you tend to be sedentary, you don’t need many complex carbohydrates.
@@ -94479,7 +94377,6 @@ Faça dos significados tradicionais seu vaso e solo para neles depositar a semen
 
 # From Mouth to Muscle: How Your Body Absorbs Protein
 date: 2024-07-26
-link: https://www.youtube.com/watch?v=_FJSotplMMQ
 tags: body
 
 Não importa qual o tipo de proteína ingerida (e.g. colágeno) porque no fim das contas o sistema digestivo precisa quebrar em aminoácidos menores para a absorção pelo organismo e a remontagem de proteínas necessárias pelos mais diversos tecidos (incluindo os músculos).
@@ -94743,7 +94640,6 @@ Dependendo da forma com que é implementado isso pode levar de alguns minutos a 
 
 # Evidence for sugar addiction Behavioral and neurochemical effects of intermittent, excessive sugar intake (Nicole M. Avena, Pedro Rada, and Bartley G. Hoebel)
 date: 2024-08-23
-link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2235907/
 tags: philosophy papers
 
 Lendo um paper sobre relação entre açúcar e o comportamento de vício em outras drogas.
@@ -96590,7 +96486,6 @@ Codar e blogar são tarefas equivalentes. Quando digo blogar estou me referindo 
 
 # On Being A Senior Engineer (John Allspaw)
 date: 2025-05-14
-link: https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 tags: computer quotes
 
 Nothing they make will ever only be in their hands, and that good peer review is what makes better design decisions. As it’s been said elsewhere, they “beg for the bad news.”
@@ -97176,7 +97071,6 @@ Afinal grandes autores tem isso x1000, criar textos que parecem te levar para de
 
 # Tips for probabilistic software
 date: 2025-10-23
-link: https://jxnl.co/writing/2024/01/19/tips-probabilistic-software/
 tags: computer quotes
 
 Once you've measured something, it should give you focus on your immediate next move.
@@ -97195,7 +97089,6 @@ O cérebro dela é substituído pelo de um bebê. E agora você vai descobrir co
 
 # Por que cada membro Dispose existe?
 date: 2025-11-14
-link: https://blog.ivankahl.com/csharp-dispose-pattern/
 tags: dotnet digest
 
 Tudo gira em torno da necessidade de gerenciar objetos não gerenciáveis, o que implica em um finalizer para que seja feito isso, e apenas isso. O finalizer não deve tocar em código gerenciado, e é por isso que existe um Boolean definindo se disposing será feito. Todo o resto do código do finalizer deve ser para liberação de recursos nativos.
@@ -97236,7 +97129,6 @@ Da vinícola mais antiga do Japão em atividade na região tradicional de Osaka,
 
 # Mission of the architect
 date: 2025-12-06
-link: https://newsletter.optimistengineer.com/p/incremental-architecture-what-you
 tags: computer quotes
 
 Mission of the architect: The job of an architect is to teach and keep coherence across the system. Guide decisions, set constraints, and help teams move forward without blocking them.
@@ -97301,7 +97193,6 @@ Map events and work by colour: events (past tense), consequences (actual work), 
 
 # What Actually Makes You Senior
 date: 2025-12-06
-link: https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/
 tags: computer quotes digest
 
 If you can't reduce ambiguity, all your other skills are just elegant ways of solving the wrong problem.
@@ -97865,7 +97756,6 @@ Boredom too tends to cause excessive pleasure-seeking since, lacking other goals
 
 # Eliminando campos do journal
 date: 2026-05-21
-link: https://chatgpt.com/c/6a0f15d0-28b8-83e9-bd61-2b7dac236afe
 tags: projects ideas
 
 Trabalhando sobre como remover os links Markdown para algo com menos atrito acabei pensando em eliminar também os campos date e tags, tornando-os implícitos após qualquer título. Ficaria assim:

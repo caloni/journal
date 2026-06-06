@@ -23,6 +23,7 @@ def call_publisher(script_name):
         '--single-post-mode', '0',
         '--use-templates', '1',
         '--external-links', 'external-links.yaml',
+        '--post-links', 'post-links.yaml',
     ]
     
     try:

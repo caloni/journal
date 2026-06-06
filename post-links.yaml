@@ -1,0 +1,338 @@
+# External links for Publisher
+# Each entry maps a "Post Title" found in journal text to an external URL.
+# When a post with title "Post Title" appears in a post
+# the links in this file will be linked to the URL below.
+#
+# Fields:
+#   post: "the exact post title"
+#   url:   the external URL to link to
+
+- post: "Barata Elétrica e o hacker de antigamente"
+  link: https://absoluta.org/barata/
+
+- post: "Debug da BIOS com o SoftIce 16 bits"
+  link: https://youtu.be/mXDROf0rLkI
+
+- post: "Read The Functional Manual"
+  link: http://www.catb.org/esr/faqs/smart-questions.html
+
+- post: "Como Fazer Debug de User Mode pelo Kernel Mode"
+  link: https://youtu.be/j1f7DQkFI5A
+
+- post: "Aprendendo rapidamente conceitos essenciais do WinDbg"
+  link: http://windbg.info/doc/2-windbg-a-z.html
+
+- post: "Entrevista com o Caloni no 'Do ZERO ao MESTRE'"
+  link: https://dozeroaomestre.blogspot.com/2008/07/entrevista-wanderlei-caloni.html
+
+- post: "Bugs Difíceis de Achar"
+  link: https://www.wired.com/2005/11/historys-worst-software-bugs/
+
+- post: "Programadores de verdade não usam Java"
+  link: http://www.pbm.com/~lindahl/real.programmers.html
+
+- post: "Houaiss no Kindle"
+  link: http://zeribeiropena.wordpress.com/2011/03/21/dicionario-houaiss-e-babylon-no-kindle/#comment-3
+
+- post: "Vídeos do boostcon"
+  link: http://blip.tv/boostcon
+
+- post: "Coletando dumps automaticamente"
+  link: https://docs.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
+
+- post: "Novos Atalhos Aprendidos no Vim"
+  link: https://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery/
+
+- post: "Real Programmers Don't Use Java"
+  link: http://www.pbm.com/~lindahl/real.programmers.html
+
+- post: "Sobre a BitForge"
+  link: https://www.linkedin.com/company/671883/admin/dashboard/
+
+- post: "Anarchism vs. Objectivism by Harry Binswanger (e outros textos filosóficos)"
+  link: https://www.hbletter.com/objectivism-vs-anarchism/
+
+- post: "Depurando código C++ no Visual Studio"
+  link: https://youtu.be/78bYgerQVt4
+
+- post: "O Destino de Miguel"
+  link: https://www.youtube.com/embed/-vOIA0eWwTw
+
+- post: "The Best of edw519"
+  link: http://static.v25media.com/edw519_mod.html
+
+- post: "Física Quântica para Filósofos"
+  link: https://spot.colorado.edu/~huemer/papers/qm.htm
+
+- post: "Uma prova simples e modesta da existência do livre-arbítrio"
+  link: https://spot.colorado.edu/~huemer/papers/fwill.htm
+
+- post: "Os fundamentos praxeológicos da Teoria Legal Libertária"
+  link: https://ideallibertario.wordpress.com/2016/04/25/os-fundamentos-praxeologicos-da-teoria-legal-libertaria/
+
+- post: "Confirmation Theory: Hume's Refutation of Induction"
+  link: https://spot.colorado.edu/~huemer/papers/confirm.htm
+
+- post: "Why People Are Irrational about Politics"
+  link: https://spot.colorado.edu/~huemer/papers/irrationality.htm
+
+- post: "Jejum Intermitente e Nutricionistas em Fúria"
+  link: https://youtu.be/-X0A5etb0kk
+
+- post: "Chá Verde Feito Como Na Rússia (Russian Tea HOWTO for Linux Hackers)"
+  link: https://gist.github.com/jwreagor/a225f6654ed492c9d90234ff9c0fc93c
+
+- post: "Why Facts Don't Change Our Minds"
+  link: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+
+- post: "Some things I learned in a Hacker Rank exercise"
+  link: https://gist.github.com/Caloni/31fd1105dd18374105d2eb00bce7ee3f
+
+- post: "Como Funciona o MPTunnel"
+  link: https://github.com/bitforgebr/mptunnel
+
+- post: "Fermento mais ou menos azedo (How to Make Sourdough More or Less Sour)"
+  link: https://brodandtaylor.com/blogs/recipes/make-sourdough-more-sour
+
+- post: "Fazenda Capoeira"
+  link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-capoeira/
+
+- post: "Batalha"
+  link: http://vinhosbatalha.com.br/
+
+- post: "Fazenda São João (Produtor Osvaldo Bachião, Nova Rezende, Sul de Minas)"
+  link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
+
+- post: "C++ Co Routines"
+  link: https://en.cppreference.com/w/cpp/language/coroutines
+
+- post: "Malma"
+  link: http://www.bodegamalma.com
+
+- post: "Find Path ou Por Que O Vcpkg Não Colocou o Path da Minha Biblioteca?"
+  link: https://vcpkg.readthedocs.io/en/latest/examples/installing-and-using-packages/
+
+- post: "Close Remote Socket"
+  link: https://www.scm.keele.ac.uk/staff/stan/2016/05/16/closing-sockets-without-killing-processes/
+
+- post: "Arcanus"
+  link: https://angelyvino.blogspot.com/2017/04/bodega-nanni-vinos-organicos-de-cafayate.html
+
+- post: "Loretto"
+  link: http://www.loretto.com.br
+
+- post: "Fazenda São Francisco"
+  link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-sao-francisco/
+
+- post: "Orfeu Descafeinado"
+  link: https://loja.cafeorfeu.com.br/
+
+- post: "CPU Fritando com Intel Turbo Boost"
+  link: https://rog.asus.com/forum/showthread.php?92088-GL553VD-Gaming-Normal-CPU-Temperature-Range&s=b1f7689c0bb3092110ec06ad4fe25684
+
+- post: "Jejum de Dopamina"
+  link: https://youtu.be/5M-8XFkQ33k
+
+- post: "Bispo e Cavalo"
+  link: https://youtu.be/YFF5ibgB6eA
+
+- post: "Santo Grão"
+  link: https://santograo.com.br
+
+- post: "Serra Negra"
+  link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-serra-negra/
+
+- post: "Sul de Minas"
+  link: https://cafedocentro.com.br/sul-de-minas/
+
+- post: "Kaynã"
+  link: http://kayna.com.br/cafe/
+
+- post: "Gaintus Radical"
+  link: https://www.montrubi.com/radical
+
+- post: "Fazenda da Serra"
+  link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-da-serra/
+
+- post: "Villa do Luca"
+  link: https://www.vivino.com/villa-doluca-klasik-red/w/1178475
+
+- post: "Stamnaki Moschofilero"
+  link: https://www.vivino.com/stamnaki-moschofilero/w/4956043
+
+- post: "Stamnaki Agiorgitiko"
+  link: https://www.vivino.com/stamnaki-agiorgitiko/w/5367261
+
+- post: "Fazenda Baobá"
+  link: https://bsca.com.br/property/show/id/128
+
+- post: "Villa Doluca Classic Rose"
+  link: http://www.dolucawines.com/products/our-wines-detail/56/villa-doluca-classic-rose
+
+- post: "Bolo Cremoso de Milho"
+  link: https://youtu.be/5cEKGHSv0Vg
+
+- post: "Pão de Queijo Fácil e Rápido"
+  link: https://www.instagram.com/p/CCJAULPDsJ-/
+
+- post: "Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)"
+  link: https://youtu.be/PU0O_HYMoCw
+
+- post: "Eniwine"
+  link: https://www.eniwine.com
+
+- post: "Como fazer pizza"
+  link: https://www.youtube.com/c/vitoiacopelli
+
+- post: "Café Dona Manuela"
+  link: http://www.fboaesperanca.com.br/produtos.htm
+
+- post: "Impact of sugar on the body, brain, and behavior"
+  link: https://www.fbscience.com/Landmark/articles/10.2741/4704
+
+- post: "Dona Matilde"
+  link: https://www.donamatilde.pt/
+
+- post: "AWK and DNA"
+  link: https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
+
+- post: "AWK and Stack Overflow"
+  link: https://stackoverflow.com/questions/43513975/awk-gawk-performance
+
+- post: "Cravings vs impulses: What are you guilty of?"
+  link: https://gulfnews.com/going-out/society/cravings-vs-impulses-what-are-you-guilty-of-1.2267596
+
+- post: "Como Ganhar De Torre Dama Encurralando O Rei"
+  link: https://www.chess.com/game/live/54161416339
+
+- post: "Como ler na internet"
+  link: https://12ft.io/
+
+- post: "Meialunas argentinas"
+  link: https://youtu.be/k6iBmUSPEzY
+
+- post: "Camila Vieira"
+  link: http://multiplotcinema.com.br/2021/10/45a-mostra-internacional-de-cinema-de-sao-paulo/
+
+- post: "Luiz Joaquim (Cinema Escrito)"
+  link: https://www.cinemaescrito.com
+
+- post: "Passagem de Parâmetros C vs C++"
+  link: https://youtu.be/i9Focx4UXnc
+
+- post: "Natália Bocanera"
+  link: https://coletivocritico.com
+
+- post: "Pereira Villela de Itajubá, MG"
+  link: https://pereiravillela.com.br/shop/
+
+- post: "Vitamin D - The Nutrition Source"
+  link: https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+
+- post: "Começa um final de peões e cavalos"
+  link: https://www.chess.com/game/daily/471866193
+
+- post: "Como analisar assembly x64"
+  link: https://codemachine.com/articles/x64_deep_dive.html
+
+- post: "Hacker Rank Warm Up"
+  link: https://www.hackerrank.com/interview/interview-preparation-kit
+
+- post: "Hacker Rank Array - Part 1"
+  link: https://www.hackerrank.com/interview/interview-preparation-kit
+
+- post: "Aomori"
+  link: https://thecoffee.jp/ourbean/kraftedition/aomori
+
+- post: "Ciabatta Rústica"
+  link: https://youtu.be/9dCcTK7oJLA
+
+- post: "Curry Indiano Caseiro"
+  link: https://www.instagram.com/reel/CqoSEe4voDv/?igshid=MTc4MmM1YmI2Ng==
+
+- post: "Why I will also build my own shitty static site generator"
+  link: https://ewintr.nl/posts/2020/why-i-built-my-own-shitty-static-site-generator/
+
+- post: "Asciidoc is the best"
+  link: https://ewintr.nl/posts/2020/why-i-built-my-own-shitty-static-site-generator/
+
+- post: "Aldeia Numa Boa"
+  link: http://www.numaboa.com.br
+
+- post: "Usando Awk para gerar sites e medidas de performance"
+  link: https://github.com/nuex/zodiac
+
+- post: "Descafeinado moído Maria Bonita"
+  link: https://cafecampinho.com.br/
+
+- post: "Mostra Ikigai (SP)"
+  link: https://centrocultural.sp.gov.br/ikigai-cinema-razao-de-viver
+
+- post: "Boas-vindas ao canal de Reversing do Telegrama"
+  link: https://youtu.be/HYkG4ZG7lxU
+
+- post: "Explorando a HSTRING"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/winstring/
+
+- post: "TRAFFIC"
+  link: https://www.whyprogramsfail.com/pdf/HowFailuresComeToBe.pdf
+
+- post: "Seleção do Mário"
+  link: https://cafeselecaodomario.com.br/
+
+- post: "Pão integral multigrãos"
+  link: https://amopaocaseiro.com.br/receita/pao-multigraos/
+
+- post: "Forte de S. Sebastião"
+  link: www.quintassebastiao.com
+
+- post: "Café do japonês"
+  link: https://youtu.be/gC8K40kZ_6E
+
+- post: "Vovó Ninja"
+  link: https://vovoninja.blogspot.com/
+
+- post: "Kimchi Coreano"
+  link: https://youtu.be/msk8T3Q1FGI
+
+- post: "Cognitive Complexity (SonarQube)"
+  link: https://www.sonarsource.com/blog/cognitive-complexity-because-testability-understandability/
+
+- post: "Iniciando estudos em Low Carb"
+  link: https://vivoleve.com.br/alimentos-dieta-low-carb/
+
+- post: "Flexibilizando retorno de métodos mockados"
+  link: https://myadventuresincoding.wordpress.com/2014/02/24/c-setting-up-a-mocked-method-to-return-a-different-value-when-called-a-second-time-using-moq/
+
+- post: "legacy_stdio_definitions"
+  link: https://stackoverflow.com/questions/32418766/c-unresolved-external-symbol-sprintf-and-sscanf-in-visual-studio-2015
+
+- post: "Mielina"
+  link: https://pt.wikipedia.org/wiki/Bainha_de_mielina
+
+- post: "Why You Should Take Steps to Eliminate Grains From Your Diet"
+  link: https://www.drjohnonhealth.com/why-you-should-take-steps-to-eliminate-grains-from-your-diet/
+
+- post: "From Mouth to Muscle: How Your Body Absorbs Protein"
+  link: https://www.youtube.com/watch?v=_FJSotplMMQ
+
+- post: "Evidence for sugar addiction Behavioral and neurochemical effects of intermittent, excessive sugar intake (Nicole M. Avena, Pedro Rada, and Bartley G. Hoebel)"
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2235907/
+
+- post: "On Being A Senior Engineer (John Allspaw)"
+  link: https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+
+- post: "Tips for probabilistic software"
+  link: https://jxnl.co/writing/2024/01/19/tips-probabilistic-software/
+
+- post: "Por que cada membro Dispose existe?"
+  link: https://blog.ivankahl.com/csharp-dispose-pattern/
+
+- post: "Mission of the architect"
+  link: https://newsletter.optimistengineer.com/p/incremental-architecture-what-you
+
+- post: "What Actually Makes You Senior"
+  link: https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/
+
+- post: "Eliminando campos do journal"
+  link: https://chatgpt.com/c/6a0f15d0-28b8-83e9-bd61-2b7dac236afe
