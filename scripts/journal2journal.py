@@ -22,6 +22,7 @@ def call_publisher(script_name):
         '--journal-path', 'journal.md',
         '--single-post-mode', '0',
         '--use-templates', '1',
+        '--external-links', 'external-links.yaml',
     ]
     
     try:

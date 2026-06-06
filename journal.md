@@ -34,11 +34,10 @@ Agora só falta o mais difícil: atualizar o site periodicamente =)
 
 #### // Comments
 
-2005-08-29 [Rodrigo Strauss]:
+2005-08-29 "Rodrigo Strauss":
 
 Escreve! Escreve! Escreve! Escreve! Escreve! Escreve!
 
-[Rodrigo Strauss]: https://www.1bit.com.br
 
 # A inteligência do if (primeira versão)
 date: 2005-05-29
@@ -350,7 +349,7 @@ Voltando ao meu comentário anterior, o uso de dois compiladores e a programaç�
 
 Note que não estou fazendo apologia ao Visual C++, assim como você não fez com o GCC. Somente acredito que, como a maioria dos mortais utiliza Windows no seu dia a dia, é natural começar a programar em um ambiente que no futuro poderá oferecer as bibliotecas já mencionadas. Claro que, caso estejamos falando de um programador iniciante do mundo Linux, aí não tem conversa: GCC é o ambiente nativo e desejável. E de cara ele já ganha um ambiente mais de acordo com as regras do padrão C++ ISO. O que não é pouco =).
 
-Aproveito a conversa sobre esse tema para indicar aos iniciantes alguns artigos bem interessantes e animadores, disponíveis no site 1bit: [Como ser um programador] e [Como ser um bom programador].
+Aproveito a conversa sobre esse tema para indicar aos iniciantes alguns artigos bem interessantes e animadores, disponíveis no site 1bit: "Como ser um programador" e "Como ser um bom programador".
 
 2006-04-27 Basilio Miranda:
 
@@ -458,11 +457,8 @@ Concordo que o lance do deprecated é muito triste e totalmente lamentável. Que
 
 Um adendo: o artigo de P. J. Plauger que Basílio se refere se chama "Security and Standard C" e foi publicado na edição de agosto de 2005 na C/C++ Users Journal. Não encontrei online. Segue um abstract da IA:
 
-"In the August 2005 C/C++ Users Journal, P. J. Plauger's article "Security and Standard C" addressed Microsoft's decision to mark standard C functions like strcpy and strlen as deprecated in Visual Studio 2005. Plauger argued against this move, highlighting the conflict between Microsoft's non-standard "secure" alternatives (TR 24731) and the established C standard. The debate centered on whether compiler vendors should force non-standard, "safer" function variants onto developers, a contentious issue given Plauger's company, Dinkumware, provided the library implementation. For a similar discussion on securing C runtimes, see this Microsoft article [MSDN Magazine]."
+"In the August 2005 C/C++ Users Journal, P. J. Plauger's article "Security and Standard C" addressed Microsoft's decision to mark standard C functions like strcpy and strlen as deprecated in Visual Studio 2005. Plauger argued against this move, highlighting the conflict between Microsoft's non-standard "secure" alternatives (TR 24731) and the established C standard. The debate centered on whether compiler vendors should force non-standard, "safer" function variants onto developers, a contentious issue given Plauger's company, Dinkumware, provided the library implementation. For a similar discussion on securing C runtimes, see this Microsoft article "MSDN Magazine"."
 
-[Como ser um programador]: http://www.1bit.com.br/content.1bit/programador
-[Como ser um bom programador]: http://www.1bit.com.br/content.1bit/bom_programador
-[MSDN Magazine]: https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/may/repel-attacks-with-visual-studio-2005-safe-c-and-c-libraries
 
 # Diferenças entre C e C++: precedência!
 date: 2006-05-03
@@ -482,7 +478,7 @@ int main()
 }
 ```
 
-Tirando o fato que o fonte é candidato forte ao [The International Obfuscated C Code Contest], o pessoal do linux disse para ele que o dito cujo não compilava no GCC, e que em algum lugar naquelas 4 linhas dentro do main alguma coisa não era padrão da linguagem.
+Tirando o fato que o fonte é candidato forte ao "The International Obfuscated C Code Contest", o pessoal do linux disse para ele que o dito cujo não compilava no GCC, e que em algum lugar naquelas 4 linhas dentro do main alguma coisa não era padrão da linguagem.
 
 Procurado para resolver o problema, dado minha inata vocação para assuntos aleatorios, resolvi resolver as coisas no bom e velho Visual Studio 2003. Afinal de contas, ele compila fontes em C, também. Basta alterarmos a extensão de um fonte de .cpp para .c. E foi o que eu fiz. Foi assim que encontrei o seguinte erro de compilação, que não ocorre ao compilar o mesmo fonte em um arquivo C++:
 
@@ -645,7 +641,6 @@ Tudo não passou de uma brincadeira...
 
 Pois é, deu pra perceber que seu código não era de "produção" =).
 
-[The International Obfuscated C Code Contest]: http://www.ioccc.org
 
 # O que muda em C++ no Visual Studio 2005
 date: 2006-05-22
@@ -1159,11 +1154,11 @@ date: 2007-06-14
 slug: about
 tags: blog
 
-Quer entrar em contato? Mande o bom e velho email. Quer um [resumo profissional]?
+Quer entrar em contato? Mande o bom e velho email. Quer um "resumo profissional"?
 
 ![Eu mesmo!](about_author.jpg)
 
-Wanderley Caloni é um [programador] C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busquei mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia-a-dia. Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator duas vezes. Hoje uso AWK. Sim, os clássicos acabam quebrando um galho =).
+Wanderley Caloni é um "programador" C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busquei mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia-a-dia. Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator duas vezes. Hoje uso AWK. Sim, os clássicos acabam quebrando um galho =).
 
 ## Overview geral por cima
 
@@ -1177,7 +1172,7 @@ Depois desses dez anos migrei para a área financeira e fui trabalhar na EzMarke
 
 No mundo acadêmico mantenho teias de aranha por muitos anos. Participei de minha primeira faculdade aos dezoito anos, no século passado, na Faculdade de Filosofia, Letras e Ciências Humanas da USP (aka FFLCH). Cursei um ano e meio antes de me descobrir perdidamente apaixonado por computação. Eventualmente me formei em Arquitetura de Redes pelo Instituto Brasileiro de Tecnologia Avançada. Finalizando a seção sobre diplomas e troféus em geral, de 2013 a 2018 fui nomeado MVP (aka Most Valued Professional) pela Microsoft, um prêmio em consideração pelas colaborações à comunidade C/C++.
 
-Entre xadrez e andar de bicicleta, o hobby que levei mais a sério foi mesmo ser cinéfilo inveterado, e com isso escritor em formação. Tendo mantido por quase dez anos um blogue especializado no assunto, o Cine Tênis Verde, desde o finalzinho de 2014 sou colaborador de um site especializado, o [CinemAqui], participando de cabines de imprensa e escrevendo críticas sobre cinema, geralmente sobre estreias de filmes fora do circuito hollywoodiano. A pandemia veio a pausar um pouco essa dinâmica, mas me considero extremamente grato pela oportunidade dada pelo Vinicius Carlos Vieira, editor do site.
+Entre xadrez e andar de bicicleta, o hobby que levei mais a sério foi mesmo ser cinéfilo inveterado, e com isso escritor em formação. Tendo mantido por quase dez anos um blogue especializado no assunto, o Cine Tênis Verde, desde o finalzinho de 2014 sou colaborador de um site especializado, o "CinemAqui", participando de cabines de imprensa e escrevendo críticas sobre cinema, geralmente sobre estreias de filmes fora do circuito hollywoodiano. A pandemia veio a pausar um pouco essa dinâmica, mas me considero extremamente grato pela oportunidade dada pelo Vinicius Carlos Vieira, editor do site.
 
 ## No detalhe
 
@@ -1259,7 +1254,7 @@ Fiz análise de e-mails usando expressões regulares, dessa vez com a biblioteca
 
 Como citado na introdução, desenvolvi um sistema de risco para o mercado financeiro, corretoras da bolsa de valores. Rodando em uma das maiores corretoras do país, contém o conjunto mais rebuscado de regras que alguém da área de risco poderia querer, desenvolvido com a ajuda de um especialista na área. Este é outro projeto que me dá orgulho, principalmente pelo sistema que detecta travas de opções.
 
-Escrevi muitos artigos em português no meu blogue técnico, e mais alguns em inglês, aqui e [pelo Code Project], que por muitos anos era a comunidade mais ativa de projetos Microsoft.
+Escrevi muitos artigos em português no meu blogue técnico, e mais alguns em inglês, aqui e "pelo Code Project", que por muitos anos era a comunidade mais ativa de projetos Microsoft.
 
 Suportei uma solução RTOS usando um não-RTOS na camada de aplicação (Windows). Nós desenvolvemos uma ponte de comunicação entre um firmware in house do cliente e o sistema operacional rodando código gerenciado e Web API mantendo uma camada fina em um SDK escrito em C++ que suportava respostas em tempo real independente da resposta do código gerenciado.
 
@@ -1275,10 +1270,6 @@ Nos últimos anos voltei para a área de segurança, onde na Venn estou me diver
 
 "Não basta saber: temos que aplicar. Não basta querer: temos que fazer." Goethe
 
-[pelo Code Project]: https://www.codeproject.com/Articles/caloni
-[resumo profissional]: https://caloni.com.br/journal/2007-06.html#resume
-[programador]: https://github.com/Caloni
-[CinemAqui]: https://cinemaqui.com.br/author/wanderley-caloni/
 
 # Wanderley Caloni
 date: 2007-06-14
@@ -1296,13 +1287,13 @@ Tools: Visual Studio, WinDbg, "Git" , SSH+Vim.
 
 ## Work
 
-### Sr. Developer at [BitForge] (2015-current)
+### Sr. Developer at "BitForge" (2015-current)
 
 - ATM. The old solution was slow and demanded frequent physical support to the ATMs. As the main target of the project was security and resilience, I developed and maintained a new system with a low level protocol using SSL-based protocol written in C++ (Boost.Asio) to allow packet exchange and support screen share even in adverse network bandwidth scenarios, by example, in the middle of Amazonian Forest. The outcome was the exchange of the 20 years old solution, what decreased the frequency of physical support at the ATMs (20k+).
 
 - Firmware. The client needed to support a RTOS solution using a non RTOS in the application layer (Windows). I developed and sustained real time communication between a in house firmware and the Operating System running managed code and Web API by keeping a thin communication layer in a SDK written in C++ that supported real time response independent from the managed code response. The solution was sold and delivered for the final client.
 
-### Tech Lead at [Intelitrader] (2019-2023)
+### Tech Lead at "Intelitrader" (2019-2023)
 
 - InteliMarket. The main goal was to keep high performance market data traffic, even with low computational resources. I kept the system running in a uptime at 99% and up to date to B3 UMDF protocol last spec. The bug response time daily was about 5 minutes because I organize a time schedule in the team, including backups, and a monitoring system that alerted the team every time an occurrence could be happening, before the final customer even noticed. The outcome was that the reliability of the solution increased and InteliMarket doubled the number of clients subscribing to the solution. I also reduced subscription delays in 50% by removing a core but unnecessary event queue. The entire solution was a mix of C sockets, C++ callbacks and Boost.Asio supporting the multicast protocol.
 
@@ -1312,24 +1303,20 @@ Tools: Visual Studio, WinDbg, "Git" , SSH+Vim.
 
 - EMS. As a experienced trader I was selected to develop the entire Risk System for the order routing system by transforming the client mathematics formulae to high performance and reliable solution in C++ to manage the financial risk of the entire broker with 20k+ active accounts by using POCO Libraries. I also improved the channels internal communication system to be completely configured via XML with routing rules defined by message type, independent from any individual component. The outcome was the exchange of the old solution, what increased total trades and broker total revenue.
 
-### Sr. Developer at [SCUA] (2008-2012)
+### Sr. Developer at "SCUA" (2008-2012)
 
 - Disk Cryptography. The main goal was to protect data from users and companies using low level cryptography in Hard Drive and Pen Drives (USB). This was a tricky project because not always the cryptography worked on every hardware. I had a small team of 3 people and a lot of machines using our product. Sometimes the system boot crashed and I had to analyze the MBR information and to debug the boot process in real mode (8086 assembly) to save the information for the users. The outcome was that this was one of the best selling products from SCUA because big companies loved the idea of a customizable cryptography solution free from hackers of Microsoft trying to break and with a team ready to fix any problems. For this solution it was used Assembly, WDK, Lilo source code and Linux for the bootable CD of troubleshooting.
 
 - Application and User Control System (SCUA). Updated the Windows XP solution to support Vista+. In order to do this I needed to adapt the current custom GINA (Graphical Identification and Authentication) to Credential Provider, allowing other identification methods such as biometric systems to login on Windows. The solution was developed using C++ and native API. The outcome of this project was that old customers were able to update their OSes to Windows Vista, 7 and newer versions without losing the control provided by the SCUA solution. Among technologies used are WinAPI, Windows Services and Device Drivers (WDK). I also fixed a serious bug with thread starvation in server attending to 80k clients by bypassing CTree Database solution to direct access main database in SQL Server.
 
-### Security Specialist at [OpenCS] (2005-2008)
+### Security Specialist at "OpenCS" (2005-2008)
 
 - Sniper. The main goal of this project was to protect users from system vulnerabilities when accessing online banking on the computer. Brazilian banking system was a target from severals online attacks at that time, and Sniper solution was based on API hook by device drivers, creating a shield to protect users from malicious software running on the computer that detect the bank site access and try to capture the user information to login on the bank. After the first release I was responsible for develop a protection for Sniper itself, because hackers were trying to reverse engineer our solution, so I developed techniques for anti debugging and string obfuscation. A global log system was created to allow us to analyze some bugs happening only in specific sets of hardware and software. The number of computers where Sniper was installed was counted in hundreds of thousands and some issues were happening in all kinds of sets, like a user running Solitaire in a Windows 98. As an outcome, this product was sold to a big bank from the South of Brazil and was the main cause of the company growing in the first two to three years after the first release. Among the technologies used are Assembly, WDK and Virtual Machines such as VMWare, Parallels, Virtual Box and QEMU. I had also to reverse engineered several trojans on a daily basis to discover the API used in the threats in order to develop a new version with the new protection.
 
-### Security Developer at [SCUA] (2001-2005)
+### Security Developer at "SCUA" (2001-2005)
 
 - Application and User Control System (SCUA). The main goal of this project is to protect the computer from viruses and other threats based on access rules on paths and Windows policies. The access rules are kept in a distributed CTree database and the product needed a Graphical Interface to configure those rules. I developed the desktop management application in C++ Builder by adapting MSVC libraries. It was my first big project with 10k+ lines of code. The outcome was that it became the oficial app to configure rules to SCUA, being used even today for all customers, 20 years after being developed.
 
-[BitForge]: https://www.linkedin.com/company/bit-forge/
-[Intelitrader]: https://www.linkedin.com/company/intelitrader/
-[SCUA]: https://www.linkedin.com/company/scua/
-[OpenCS]: https://www.linkedin.com/company/open-communications-security/
 
 # O bom filho à casa retorna
 date: 2007-06-15
@@ -1659,7 +1646,7 @@ std::cout
   << std::endl;
 ```
 
-This code doesn't show how obscure we can be. If we use a constant integer replacing the i, by example, the code starts to be an [IOCCC] participant:
+This code doesn't show how obscure we can be. If we use a constant integer replacing the i, by example, the code starts to be an "IOCCC" participant:
 
 ```
 std::cout
@@ -1678,7 +1665,6 @@ std::cout
 
 Obs.: this kind of "obscure rule" hardly will pass in a code review since it is a useless feature. Be wise and don't use it in production code. This is just an amusing detail in the language specification scope. It can help in analysis, never in programming.
 
-[IOCCC]: http://www.ioccc.org/
 
 # História do Windows - parte 1.0
 date: 2007-06-26
@@ -1713,9 +1699,8 @@ O novo sistema não fez muito sucesso de imediato. Pelo contrário, foi consider
 
 Gostei muito do artigo, Caloni. Em termos de programação, deveria ser excitante se pudessemos ter o código-fonte deles, não? :)
 
-Para eu matar a curiosidade sobre as telas desses sistemas operacionais, andei fuçando e achei [esse site].
+Para eu matar a curiosidade sobre as telas desses sistemas operacionais, andei fuçando e achei "esse site".
 
-[esse site]: http://www.guidebookgallery.org/screenshots/firstrun
 
 # A Inteligência do if: Parte 2
 date: 2007-06-29
@@ -1891,7 +1876,7 @@ int main()
 }
 ```
 
-Despite the fact the result is a strong candidate to [The International Obfuscated C Code Contest] the Linux guys told him the code was not successful on GCC, and somewhere inside those four lines there was a non-standard piece of code.
+Despite the fact the result is a strong candidate to "The International Obfuscated C Code Contest" the Linux guys told him the code was not successful on GCC, and somewhere inside those four lines there was a non-standard piece of code.
 
 Asked to solve the problem, given my congenital inclination to random subjects involving C++, I decided to fix the things up in my old-n-good Visual Studio 2003. Nonetheless, it compiles C source code as well. We just need to rename the file from .cpp to .c. It was doing this that I found the following compiler error:
 
@@ -2008,7 +1993,6 @@ int main()
 }
 ```
 
-[The International Obfuscated C Code Contest]: http://www.ioccc.org
 
 # Desejo insano de programar no kernel
 date: 2007-07-12
@@ -2198,7 +2182,7 @@ void ExecThread()
 
 O algoritmo da thread de execução continua o mesmo. Só que o ponto onde cada instrução é executada depende do lançamento de uma exceção. Note que essa exceção tem que ocorrer para que a chamada da próxima instrução ocorra. Isso é fundamental, pois dessa forma ninguém pode simplesmente retirar o int 3 do código para evitar o lançamento da exceção. Se fizer isso, então mais nenhuma instrução será executada.
 
-Na prática, se alguém tentar depurar um programa desse tipo vai ter que enfrentar dezenas ou centenas de lançamento de exceções até descobrir o que está acontecendo. Claro que, como em toda a proteção de software, ela não é definitiva; tem por função dificultar o trabalho de quem tenta entender o software. Isso não vai parar aqueles que são [realmente bons no que fazem].
+Na prática, se alguém tentar depurar um programa desse tipo vai ter que enfrentar dezenas ou centenas de lançamento de exceções até descobrir o que está acontecendo. Claro que, como em toda a proteção de software, ela não é definitiva; tem por função dificultar o trabalho de quem tenta entender o software. Isso não vai parar aqueles que são "realmente bons no que fazem".
 
 O preço pago por essa proteção fica na visibilidade e compreensão do código-fonte comprometidos pelo uso da técnica. A programação fica baseada em uma máquina de estados e as funções ficam limitadas a algum tipo de padronização no comportamento. Quando mais granular for o pseudoscript, ou seja, quanto menores forem os blocos de código contido nas minifunções, mais difícil de entender o código será.
 
@@ -2350,7 +2334,6 @@ O ponto forte da proteção é que a pessoa precisa entender o que está acontec
 
 Futuramente veremos uma maneira de tornar as coisas mais legíveis e usáveis no dia-a-dia de um programador de software de segurança.
 
-[realmente bons no que fazem]: http://www.codebreakers-journal.com
 
 # Movendo o cursor do mouse com o teclado
 date: 2007-07-26
@@ -2525,9 +2508,9 @@ date: 2007-07-30
 slug: c_cpp_operators_precedence_table
 tags: computer ccpp english blog
 
-"Wanderley, your explanation about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing. I checked out the Appendix A in the "C ++ - How To Program" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article. I went to the internet and found out in two websites the table and both are equal to the book table. From where did you get the presented C++ table?" [Márcio Andrey Oliveira].
+"Wanderley, your explanation about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing. I checked out the Appendix A in the "C ++ - How To Program" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article. I went to the internet and found out in two websites the table and both are equal to the book table. From where did you get the presented C++ table?" "Márcio Andrey Oliveira".
 
-(These are the two websites where Márcio found the new tables: [Wikipedia] and [CppPreference], that was out the last time I checked, 2026-01-27.)
+(These are the two websites where Márcio found the new tables: "Operators in C and C++ in Wikipedia" and "CppPreference", that was out the last time I checked, 2026-01-27.)
 
 Dear Márcio,
 
@@ -2625,7 +2608,7 @@ I hope this second post about the precedence table have cleared a bit more about
 
 Opa... essa historia tambem me deixa emocionado... :~~~
 
-O interessante e ver o ponto de vista descrito [por um dos criadores da linguagem C]!!! (2026-03-28 link quebrado =/)
+O interessante e ver o ponto de vista descrito "por um dos criadores da linguagem C"!!! (2026-03-28 link quebrado =/)
 
 ---
 
@@ -2633,15 +2616,10 @@ O interessante e ver o ponto de vista descrito [por um dos criadores da linguage
 
 Com certeza, Alan. Havia me esquecido desse documento, mas é uma ótima dissertação sobre os primórdios da linguagem. Geeks sensíveis irão chorar =)
 
-Por falar em se emocionar, imagino que seu comentário estaria mais contextualizado [nesse artigo] onde inicio uma viagem ao tempo para discursar sobre as decisões por detrás da linguagem C. Se você ainda não o leu, recomendo.
+Por falar em se emocionar, imagino que seu comentário estaria mais contextualizado "nesse artigo" onde inicio uma viagem ao tempo para discursar sobre as decisões por detrás da linguagem C. Se você ainda não o leu, recomendo.
 
 []s
 
-[nesse artigo]: historia_da_linguagem_c_parte_1
-[por um dos criadores da linguagem C]: http://www.cs.bell-labs.com/who/dmr/chist.html
-[Márcio Andrey Oliveira]: http://marcioandreyoliveira.blogspot.com
-[Wikipedia]: http://en.wikipedia.org/wiki/Operators_in_C_and_C
-[CppPreference]: http://www.cppreference.com/operator_precedence.html
 
 # História da Linguagem C: Parte 1
 date: 2007-08-01
@@ -2652,7 +2630,7 @@ Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira ado
 
 ![Esse distinto cavalheiro inglês é Martin Richards](historia_da_linguagem_c_parte_1_martin_richards.gif)
 
-Em 21 de julho de 1967 Martin Richards libera [o manual] da sua recém-criada linguagem BCPL. Na verdade, ela havia sido criada em 66 e implementada na primavera do ano seguinte no Instituto de Tecnologia de Massachusetts (vulgo MIT). Seus objetivos eram claros, como para todo criador de uma nova linguagem: melhorar uma linguagem anterior. Nesse caso, foi uma melhoria da Combined Programming Language (CPL), retirando, de acordo com Martin, "todas aquelas características da linguagem completa que tornavam a compilação difícil".
+Em 21 de julho de 1967 Martin Richards libera "o manual" da sua recém-criada linguagem BCPL. Na verdade, ela havia sido criada em 66 e implementada na primavera do ano seguinte no Instituto de Tecnologia de Massachusetts (vulgo MIT). Seus objetivos eram claros, como para todo criador de uma nova linguagem: melhorar uma linguagem anterior. Nesse caso, foi uma melhoria da Combined Programming Language (CPL), retirando, de acordo com Martin, "todas aquelas características da linguagem completa que tornavam a compilação difícil".
 
 E BCPL era de fato bem simples. Não tinha tipos, era limpa e poderosa. Porém, mais importante que tudo isso, ela era portável. E essa portabilidade, aliada ao fato que escrever compiladores para ela era bem mais simples (alguns compiladores rodavam com apenas 16 KB), a tornaram especialmente popular na época.
 
@@ -2683,7 +2661,6 @@ O uso do pré-processador na linguagem C facilitou a portabilidade por um bom te
 
 Como é natural, o código-fonte de uma aplicação tende a crescer em muitas linhas durante sua evolução, especialmente se estamos falando de sistemas operacionais. A compilação desse código vai tomar cada vez mais tempo no processo de desenvolvimento. Por isso, manter esse código-fonte em um mesmo arquivo eventualmente torna-se inviável, tornando a compilação de módulos separados uma solução pra lá de elegante. Compila-se apenas o módulo que foi modificado e liga-se esse módulo com módulos pré-compilados.
 
-[o manual]: https://archive.org/details/richards1979bcpl
 
 # História do Windows - parte 3.0
 date: 2007-08-03
@@ -2702,7 +2679,7 @@ E, finalmente, agora já é hora de conversarmos sobre a figura ilustre que popu
 
 ![Charles Petzold, em foto do seu site](historia_do_windows_parte_30_charles_petzold.gif)
 
-Quem começou a programar para Windows naquela época com certeza deve ter ouvido falar do livro clássico de Charles Petzold, uma das poucas referências naquela época sem internet: Programming Windows 3.1. É um livro consideravelmente completo se considerarmos a época em que foi escrito. Vários exemplos estão disponíveis em suas páginas, mas para os que não viveram essa época (como eu) existe [a versão eletrônica disponível para download]. Você deve estar se perguntando se todo esse código-fonte serve para alguma coisa hoje em dia. Por incrível que pareça, serve sim. Pelo menos os que eu testei ainda compilam e rodam.
+Quem começou a programar para Windows naquela época com certeza deve ter ouvido falar do livro clássico de Charles Petzold, uma das poucas referências naquela época sem internet: Programming Windows 3.1. É um livro consideravelmente completo se considerarmos a época em que foi escrito. Vários exemplos estão disponíveis em suas páginas, mas para os que não viveram essa época (como eu) existe "a versão eletrônica disponível para download". Você deve estar se perguntando se todo esse código-fonte serve para alguma coisa hoje em dia. Por incrível que pareça, serve sim. Pelo menos os que eu testei ainda compilam e rodam.
 
 Programar interfaces naquela época não era bem o "clicar e arrastar" de hoje em dia. Eram necessários profundos conhecimentos sobre como o sistema operacional se relacionava com o seu programa e vice-versa. Hoje em dia é possível ainda programar como antigamente, já que toda a estrutura continua a mesma. Porém, é algo extremamente contraproducente de se fazer com as IDEs modernas que existem e suas barras de controles pré-fabricados e código automático. Porém, ao fazer da forma mais rústica entenderemos como as coisas funcionam por baixo dos panos, o que por si só será extremamente produtivo para o nosso conhecimento.
 
@@ -2839,17 +2816,14 @@ link hellowin.obj user32.lib gdi32.lib
 hellowin.exe
 ```
 
-O Windows 3.x tinha uma particularidade nefasta: qualquer aplicativo poderia travar o sistema como um todo. Se lembrarmos que o Windows antigamente era multitarefa e não-preemptivo, podemos deduzir que enquanto é executada a função de janela de um aplicativo o sistema aguarda por esse aplicativo indefinidamente. Se o aplicativo trava, ele nunca retorna. Se ele nunca retorna, o sistema fica eternamente esperando pelo retorno da função de janela. Alguns travamentos conseguiam ser resolvidos por interrupção, mas a maioria não. No próximo capítulo [da série] veremos como os sistemas de 32 bits resolveram esse pequeno problema.
+O Windows 3.x tinha uma particularidade nefasta: qualquer aplicativo poderia travar o sistema como um todo. Se lembrarmos que o Windows antigamente era multitarefa e não-preemptivo, podemos deduzir que enquanto é executada a função de janela de um aplicativo o sistema aguarda por esse aplicativo indefinidamente. Se o aplicativo trava, ele nunca retorna. Se ele nunca retorna, o sistema fica eternamente esperando pelo retorno da função de janela. Alguns travamentos conseguiam ser resolvidos por interrupção, mas a maioria não. No próximo capítulo "da série" veremos como os sistemas de 32 bits resolveram esse pequeno problema.
 
 O que o resto do código do Petzold faz? Dê uma olhada na documentação do MSDN. Ela ainda está disponível, já que todos os aplicativos precisam utilizar essas funções, seja diretamente ou através de imensos frameworks de interface com o usuário. E existem pessoas que precisam suportar código-fonte legado.
 
 Já que agora você sabe o que são funções de janela, mensagens e afins, por que não ver tudo isso funcionando? O Microsoft Visual Studio possui uma ferramenta muito útil para isso chamada Spy++ (spyxx.exe). Existem também aplicativos equivalentes (com fonte). Outra ferramenta muito útil, principalmente na hora de desenvolver janelas com controles comuns do Windows, é o Control Spy.
 
-Para saber mais dê uma passada no [sítio do Charles Petzold].
+Para saber mais dê uma passada no "sítio do Charles Petzold".
 
-[sítio do Charles Petzold]: http://www.charlespetzold.com
-[a versão eletrônica disponível para download]: http://www.charlespetzold.com/books.html
-[da série]: historia_do_windows
 
 # História do Windows - parte 3.51
 date: 2007-08-07
@@ -3124,7 +3098,7 @@ O sistema de coleta foi simplificado e modernizado: agora a interface não se ba
 
 Baseado no número de CPs registrados no sistema, o LogonUI (processo responsável por exibir a tela de boas vindas) irá exibir as respectivas credenciais para cada um dos CPs envolvidos no logon.
 
-Com [o exemplo de GINA stub] (2026-03-27 link quebrado) do Ferdinando desenvolvi uma versão um pouco mais perigosa, da época de laboratório da faculdade. Se trata igualmente de uma GINA que se aproveita da implementação da GINA original, porém na hora de autenticar um usuário ela captura os dados do logon (usuário e senha) e grava em uma parte do registro acessível apenas pelo sistema (lembre-se que a GINA, por fazer parte do WinLogon, roda na conta de sistema).
+Com "o exemplo de GINA stub" (2026-03-27 link quebrado) do Ferdinando desenvolvi uma versão um pouco mais perigosa, da época de laboratório da faculdade. Se trata igualmente de uma GINA que se aproveita da implementação da GINA original, porém na hora de autenticar um usuário ela captura os dados do logon (usuário e senha) e grava em uma parte do registro acessível apenas pelo sistema (lembre-se que a GINA, por fazer parte do WinLogon, roda na conta de sistema).
 
 (É claro que para utilizar essa GINA, você deve possuir direitos de administração, ou conhecer alguma brecha de segurança. Eu optei pela segunda opção, já que não tinha a primeira. Podemos dizer apenas que o artigo sobre falhas de segurança relacionadas a usuários avançados do Russinovich pôde resolver meu problema.)
 
@@ -3152,7 +3126,6 @@ Não há necessidade alguma. Foi apenas um exemplo ilustrativo. No entanto, usei
 
 []s
 
-[o exemplo de GINA stub]: http://driverentry.com.br/blog/?p=415
 
 # História da Linguagem C: Parte 2
 date: 2007-08-15
@@ -3163,7 +3136,7 @@ No princípio... não, não, não. Antes do princípio, quando C era considerada
 
 ![Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org](historia_da_linguagem_c_parte_2_kthompson_dritchie.jpg)
 
-O bom de B era sua rica expressividade e sua simples gramática. Tão simples que o [manual da linguagem] consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de ifs e gotos e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a word, ou palavra, da plataforma, que utilizada em expressões definiam seu tipo. Esse padrão de bits era chamado rvalue. Imagine a linguagem C de hoje em dia com apenas um tipo: int.
+O bom de B era sua rica expressividade e sua simples gramática. Tão simples que o "manual da linguagem" consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de ifs e gotos e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a word, ou palavra, da plataforma, que utilizada em expressões definiam seu tipo. Esse padrão de bits era chamado rvalue. Imagine a linguagem C de hoje em dia com apenas um tipo: int.
 
 Como esse padrão de bits nunca muda de tamanho, todas as rotinas da biblioteca recebiam e retornavam sempre valores do mesmo tamanho na memória. Isso na linguagem C quer dizer que o char da época ocupava tanto quanto o int. Existia inclusive uma função que retornava o caractere de uma string na posição especificada:
 
@@ -3240,7 +3213,6 @@ loop :
 
 Como podemos ver, vários elementos (se não todos) da linguagem C já estão presentes na B.
 
-[manual da linguagem]: http://cm.bell-labs.co/who/dmr/kbman.html
 
 # Junctions
 date: 2007-08-17
@@ -3665,11 +3637,10 @@ Existe, sim, mas hoje em dia os blogues e os saites de tecnologia, economia, pol
 
 ---
 
-2009-02-11 [Derneval Cunha]:
+2009-02-11 "Derneval Cunha":
 
 Adorei o texto. So para acrescentar: O fanzine Barata Eletrica continua, agora com uma web page um pouco melhor e o indice atualizado (a secao melhores artigos ainda precisa ser atualizada). Tomei vergonha na cara e atualizei varias coisas. E com um pouco de sorte, sai outra edicao alem da numero 32 (tem um artigo sobre prisao muito bom) ainda este ano. Cliquem la. Valeu
 
-[Derneval Cunha]: https://absoluta.org/barata/
 
 # História do Windows - parte 4.0
 date: 2007-09-04
@@ -3710,13 +3681,12 @@ void StartBruteForceThread()
 }
 ```
 
-Para quem está acompanhando [a série de artigos sobre o Windows] deve lembrar que assim como na criação de janelas, na criação de uma thread é passada uma função de callback. Só que diferente de uma função de janela, essa função não é executada na mesma thread que criou a janela, mas é um novo "int main" para uma nova linha de execução, que irá rodar em paralelo com a primeira. Essa segunda linha de execução termina quando retornamos dessa função, que no nosso exemplo é nunca, mas poderia ser quando fosse terminada sua tarefa.
+Para quem está acompanhando "a série de artigos sobre o Windows" deve lembrar que assim como na criação de janelas, na criação de uma thread é passada uma função de callback. Só que diferente de uma função de janela, essa função não é executada na mesma thread que criou a janela, mas é um novo "int main" para uma nova linha de execução, que irá rodar em paralelo com a primeira. Essa segunda linha de execução termina quando retornamos dessa função, que no nosso exemplo é nunca, mas poderia ser quando fosse terminada sua tarefa.
 
 ![CreateThread exemplificada](historia_do_windows_parte_40_threads_pwdbreaker_windows.png)
 
 Bom, acho que para explicar o uso de um sistema multithreading em um artigo só não basta. Mas para explicar por que sua senha deve ter mais de três caracteres, acho que é o bastante. Até a próxima.
 
-[a série de artigos sobre o Windows]: historia_do_windows
 
 # O passado torto de um programador por acaso
 date: 2007-09-06
@@ -4349,9 +4319,8 @@ int main()
 
 It is important to remember that a DllMain dependant code is a very, very bad thing. Nevertheless, there are some particular cases the only place to run our code is inside DllMain. In these cases, when detected, try to run a side by side communication with your locked thread using an event object (or equivalent) before it really returns. Using this craft the thread can warn the waiting thread that the important thing to be done is done, and the waiting thread can go to sleep and stop waiting forever locked threads.
 
-Among the classic Matt Pietrek posts in Microsoft Journal there is in the [1999 september edition] a short one about DLL initialization. That is the more sucint, didatic and simple text about this question.
+Among the classic Matt Pietrek posts in Microsoft Journal there is in the "1999 september edition" a short one about DLL initialization. That is the more sucint, didatic and simple text about this question.
 
-[1999 september edition]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
 
 # Introdução ao C++ Builder...Turbo C++
 date: 2007-09-26
@@ -4408,7 +4377,7 @@ Update: este foi um overview geral por cima do que era o C++ Builder há mais de
 
 #### // Comments
 
-2007-09-27 [dquadros]:
+2007-09-27 "dquadros":
 
 Salve Caloni!
 
@@ -4420,7 +4389,7 @@ Acho que faltou você explicar o que são as várias versões disponíveis na p�
 
 3. o C++ Compiler 5.5 é uma versão antiga e gratuita do compilador para uso por linha de comando (sem IDE)
 
-4. o Turbo C++ Explorer é uma versão gratuita ligeiramente desatualizada e com algumas restrições (algo equivalente à versões Express da Microsoft). Aliás, eu cheguei a mencionar o lançamento [num post], advinha quem deixou um comentário?
+4. o Turbo C++ Explorer é uma versão gratuita ligeiramente desatualizada e com algumas restrições (algo equivalente à versões Express da Microsoft). Aliás, eu cheguei a mencionar o lançamento "num post", advinha quem deixou um comentário?
 
 ---
 
@@ -4434,7 +4403,7 @@ No entanto, não encontrei para baixar uma versão completa do RAD Studio. Quer 
 
 ---
 
-2007-09-28 [dquadros]:
+2007-09-28 "dquadros":
 
 Aparentemente não tem como colocar "de grátis" (ou "impagável") o Delphi e o C++ na mesma máquina, já que as versões Explorer não convivem entre si.
 
@@ -4442,8 +4411,6 @@ O que eu acho mais chato é que os produtos da Borland são hoje produtos "high-
 
 Bons tempos em que Borland era sinônimo de qualidade e preço baixo.
 
-[dquadros]: http://dqsoft.blogspot.com
-[num post]: http://dqsoft.blogspot.com/2006/09/turbo-explorer.html
 
 # Developer: you need to know English!
 date: 2007-09-28
@@ -4514,7 +4481,7 @@ Good luck! =)
 
 #### // Comments
 
-2007-09-28 [dquadros]:
+2007-09-28 "dquadros":
 
 Eu não concordo muito com a segunda dica... Eu aprendi inglês com uma professora que era totalmente contra a tradução como forma de aprendizado. O método dela era o aluno pensar e falar em inglês. E, pelo menos no meu caso, acho que deu certo. Por outro lado, eu penei um pouco para aprender a traduzir.
 
@@ -4532,7 +4499,6 @@ O dicionário inglês-inglês... eu o uso, atualmente, mas não achei que fosse 
 
 Quanto aos livros de vocabulário reduzido... bingo! Eu de fato esqueci de citar esse tipo de leitura, que pode ser muito proveitosa a partir da dica 3. Minha namorada comprou recentemente um deles, que vem com o livro e um CD-ROM com o audio book. Ou seja, eles ainda existem e, pelo que pude ouvir, são muito bons!
 
-[dquadros]: http://dqsoft.blogspot.com
 
 # Debug da BIOS com o SoftIce 16 bits
 date: 2007-10-02
@@ -4540,7 +4506,7 @@ link: https://youtu.be/mXDROf0rLkI
 slug: debug_da_bios_com_o_softice_16_bits
 tags: computer blog
 
-Para quem acha que ainda não desceu demais o nível existe um [ótimo artigo] no Code Project de S. Z. Keller (aka ShalomZ) sobre como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o boot loader carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para download e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de load do seu primeiro sistema operacional.
+Para quem acha que ainda não desceu demais o nível existe um "ótimo artigo" no Code Project de S. Z. Keller (aka ShalomZ) sobre como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o boot loader carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para download e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de load do seu primeiro sistema operacional.
 
 Primeiro precisamos de uma ferramenta fundamental para esse tipo de depuração: o SoftIce versão 16 bits. Desconheço algum outro depurador de sistema em 16 bits, mas se você souber de algum, pode usá-lo com esse tutorial com as devidas adaptações.
 
@@ -4588,13 +4554,10 @@ A partir dessa leitura se usa o comando p ret do depurador, que é mais ou menos
 
 ![Código do boot loader carregado no Softice](debug_da_bios_com_o_softice_16_bits_myos_start.png)
 
-(1) [Gerenciamento de memória 386] - Daniel Quadros
+(1) "Gerenciamento de memória 386" - Daniel Quadros
 
-(2) [Ralf Brown's Interrupt List na Wikipedia]
+(2) "Ralf Brown's Interrupt List na Wikipedia"
 
-[ótimo artigo]: https://www.codeproject.com/articles/Debugging-and-Building-Operating-Systems
-[Gerenciamento de memória 386]: https://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-386.html
-[Ralf Brown's Interrupt List na Wikipedia]: https://en.wikipedia.org/wiki/Ralf_Brown%27s_Interrupt_List
 
 # Cronogramas
 date: 2007-10-04
@@ -4712,7 +4675,7 @@ date: 2007-10-10
 slug: engenharia_reversa_para_principiantes
 tags: computer blog
 
-Dei uma reformada em minha última [palestra sobre engenharia reversa]. O tema escolhido foi tentar abranger os níveis de conhecimento que uma pessoa disposta a se dedicar à engenharia reversa de programas deveria ter, desde programação, passando pelo sistema operacional e terminando no uso de ferramentas. Achei interessante abordar esse tipo de conteúdo pelo fato de existirem pessoas que gostariam de começar ou já começaram e não sabem para onde ir.
+Dei uma reformada em minha última "palestra sobre engenharia reversa". O tema escolhido foi tentar abranger os níveis de conhecimento que uma pessoa disposta a se dedicar à engenharia reversa de programas deveria ter, desde programação, passando pelo sistema operacional e terminando no uso de ferramentas. Achei interessante abordar esse tipo de conteúdo pelo fato de existirem pessoas que gostariam de começar ou já começaram e não sabem para onde ir.
 
 Outra coisa que fiquei receoso de colocar (mas coloquei) foi a lista de tarefas para usar o conhecimento aprendido. Pode ser frustrante tentar procurar emprego nessa área aqui no Brasil e não adianta nada aprender e não usar. A engenharia reversa, assim como a área de segurança da informação, para ser efetiva, deve levar em conta como as coisas são feitas, o que quer dizer que fazer vírus e quebrar proteção de software faz parte do aprendizado.
 
@@ -4778,9 +4741,9 @@ Boa sorte!
 
 Olá!
 
-Você pode começar pelo [excelente artigo de Matt Pietrek], que destrincha as estruturas internas do PE. Não se esqueça de fuçar além de ler!
+Você pode começar pelo "excelente artigo de Matt Pietrek", que destrincha as estruturas internas do PE. Não se esqueça de fuçar além de ler!
 
-Você pode depois se aprofundar pelo [padrão da Microsoft], que pode ser comparado a um RFC, mas que já ajuda um bocado, além de poder ser usado como referência:
+Você pode depois se aprofundar pelo "padrão da Microsoft", que pode ser comparado a um RFC, mas que já ajuda um bocado, além de poder ser usado como referência:
 
 Agora, sobre proteções de software, eu não li, mas meu amigo leu e falou muuuuuito bem sobre o "Reversing", de Eldad Eliam. Aliás, parece que ele é referência sobre explicações de proteção e quebra de software.
 
@@ -4790,9 +4753,6 @@ Resposta ao PS: porque inicialmente minha intenção foi traduzir fielmente o pa
 
 []s e boa sorte!
 
-[excelente artigo de Matt Pietrek]: http://msdn.microsoft.com/en-us/magazine/cc301805.aspx
-[padrão da Microsoft]: https://github.com/tpn/pdfs/blob/master/Microsoft%20Portable%20Executable%20and%20Common%20Object%20File%20Format%20Specification%20-%201999%20(pecoff).pdf
-[palestra sobre engenharia reversa]: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
 
 # A Linguagem de Programação C: O Livro
 date: 2007-10-12
@@ -5075,9 +5035,8 @@ int main()
 
 É importante sempre lembrar que a Microsoft acha feio, muito feio você ficar dependendo do DllMain pra fazer alguma coisa, mas admite que em alguns casos o único lugar onde podemos rodar código é no DllMain. Nesses casos -- e em alguns outros -- utilize uma comunicação paralela com sua thread travadona, por meio de um evento ou algo do gênero, antes que ela realmente saia. Com isso a thread pode ainda não ter saído, mas pode avisar a thread principal que o que ela precisava fazer já foi feito.
 
-Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal há na [edição de setembro de 1999] um bem curto a respeito da inicialização de DLLs. Essa é a leitura mais sucinta, didática e esclarecedora sobre a questão.
+Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal há na "edição de setembro de 1999" um bem curto a respeito da inicialização de DLLs. Essa é a leitura mais sucinta, didática e esclarecedora sobre a questão.
 
-[edição de setembro de 1999]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
 
 # Guia básico para programadores de primeiro breakpoint
 date: 2007-10-22
@@ -5126,7 +5085,7 @@ date: 2007-10-24
 slug: typeid_e_os_perigos_do_nao_polimorfismo
 tags: computer ccpp blog
 
-Quando usamos o operador typeid geralmente desejamos conhecer informações sobre o tipo exato do objeto que temos em mãos, independente da hierarquia de herança a qual seu tipo pertença. Só que por ignorar, assim como o [sizeof], que esse operador possui duas caras, às vezes damos com os burros n'água e compramos gato por lebre. Não é pra menos. Uma sutil diferença entre classes polimórficas e estáticas pode dar aquele susto que só C++ pode proporcionar.
+Quando usamos o operador typeid geralmente desejamos conhecer informações sobre o tipo exato do objeto que temos em mãos, independente da hierarquia de herança a qual seu tipo pertença. Só que por ignorar, assim como o "sizeof", que esse operador possui duas caras, às vezes damos com os burros n'água e compramos gato por lebre. Não é pra menos. Uma sutil diferença entre classes polimórficas e estáticas pode dar aquele susto que só C++ pode proporcionar.
 
 Eis um exemplo singelo, sem dramatização (com dramatização == "500 linhas de código de produção além do código abaixo").
 
@@ -5211,7 +5170,6 @@ Deriv()
 class Deriv
 ```
 
-[sizeof]: what_happens_inside_the_sizeof_operator
 
 # Proteção dos membros protected
 date: 2007-10-26
@@ -5501,7 +5459,7 @@ Note que é possível criar outros comandos, como é o meu caso, onde preciso de
 
 Nossos projetos aqui na empresa costumam ser divididos em inúmeras soluções do Visual Studio para evitar a bagunça que seria (foi) ter que abrir uma solução de 10^24324 projetos. O problema é que, se abrir um Visual Studio já pesa, imagine abrir cinco de uma vez.
 
-Por isso mesmo que, aproveitando que agora tenho uma linha de comando personalizada com o ambiente de compilação, faço uso da compilação de soluções em modo console que o devenv (a IDE do Visual Studio) oferece: devenv meu-solution-do-coracao.sln /build Debug ou devenv meu-project-do-coracao.vcproj /build Release. Além de ser rápido, pode ser usado em builds automatizados, coisa que já fazemos. O que quer dizer que podemos matar os itens 2 e 3 do [teste do Joel], nos deixando um passo mais próximo do purgatório.
+Por isso mesmo que, aproveitando que agora tenho uma linha de comando personalizada com o ambiente de compilação, faço uso da compilação de soluções em modo console que o devenv (a IDE do Visual Studio) oferece: devenv meu-solution-do-coracao.sln /build Debug ou devenv meu-project-do-coracao.vcproj /build Release. Além de ser rápido, pode ser usado em builds automatizados, coisa que já fazemos. O que quer dizer que podemos matar os itens 2 e 3 do "teste do Joel", nos deixando um passo mais próximo do purgatório.
 
 "Tudo bem, mas eu preciso depurar o código! Você não quer que eu use o ntsd.exe, ou quer?"
 
@@ -5509,7 +5467,6 @@ Sabe que não é uma má idéia?
 
 Porém, se você prefere algo mais amigável, mais ainda que o WinDbg, você pode iniciar o depurador do Visual Studio por linha de comando: vsjitdebugger notepad.exe ou vsjitdebugger -p meu-pid-do-coracao.  Daí não tem jeito: você economiza no start, mas o Visual Studio vai acabar subindo. Ou um ou outro. Por isso eu recomendo aprender a usar o WinDbg ou até o NTSD. Quer dizer, é muito melhor do que esperar por uma versão mais light do Visual Studio no próximo ano.
 
-[teste do Joel]: https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 
 # Ponteiros de método: conceito fundamental
 date: 2007-11-05
@@ -5610,7 +5567,7 @@ date: 2007-11-07
 slug: ponteiro_de_metodo_qual_this_e_usado
 tags: computer blog
 
-Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue [CodeBehind], um escovador de bits disfarçado de programador .NET: qual objeto que vale na hora de chamar um método pelo ponteiro?
+Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue "CodeBehind", um escovador de bits disfarçado de programador .NET: qual objeto que vale na hora de chamar um método pelo ponteiro?
 
 Isso me estimulou a desdobrar um pouco mais os mistérios por trás dos ponteiro de métodos e de membros, e descobrir os detalhes mais ocultos desse lado esotérico da linguagem.
 
@@ -5756,7 +5713,6 @@ mov dword ptr [i3],eax
 
 Como podemos ver, não é nenhuma magia negra a responsável por fazer os ponteiros de métodos e de membros funcionarem em C++. Porém, eles não são ponteiros ordinário que costumamos misturar a torto e a direito. Essa distinção na linguagem é importante para manter o código "minimamente sadio".
 
-[CodeBehind]: http://codebehind.wordpress.com
 
 # Detectando hooks globais no WinDbg (SetWindowsHookEx)
 date: 2007-11-09
@@ -5803,7 +5759,7 @@ j Expression 'Command1' ; 'Command2'
 
 Se Expression for verdadeiro, Command1 será executado; do contrário, Command2 será. Se você não precisa do else basta usar um comando vazio ' '. A escolha é sua em usar aspas simples ou nada. Se usar aspas simples, é possível colocar mais de um comando, que foi o que eu fiz no else: '.echo *** GLOBAL HOOK ***; g'".
 
-Tudo depende do uso que você fizer desde comando. Algumas peculiaridades existem com relação ao uso de aspas duplas, simples, sem aspas, com ponto-e-vírgula, etc, mas são coisas que, como diz meu amigo [Thiago], "só se aprende na dor".
+Tudo depende do uso que você fizer desde comando. Algumas peculiaridades existem com relação ao uso de aspas duplas, simples, sem aspas, com ponto-e-vírgula, etc, mas são coisas que, como diz meu amigo "Thiago", "só se aprende na dor".
 
 Lembram-se de nossa peregrinação pela pilha de chamadas quando fizemos um hook na função MessageBox pelo WinDbg? Aqui é a mesma coisa, pois estou analisando um parâmetro passado na pilha (esp): o ID da thread para onde vai o hook.
 
@@ -5817,7 +5773,6 @@ HHOOK SetWindowsHookEx(
 
 Relembrando nosso passeio pela pilha, ao entrar em uma função stdcall, os primeiros 4 bytes são o endereço de retorno, os próximos o primeiro parâmetro e assim por diante. O que quer dizer que poi ( esp + (4 * 4) ). É o apontado do quarto parâmetro (4*4) que está sendo verificado. Concluindo, se o parâmetro dwThreadId for igual a zero, estamos diante de um hook global, e é o momento em que meu .echo vai exibir na tela "*** GLOBAL HOOK ***". Do contrário, a execução vai continuar silenciosamente.
 
-[Thiago]: http://www.codebehind.wordpress.com
 
 # MouseTool
 date: 2007-11-13
@@ -5832,7 +5787,7 @@ There are some options like drag-and-drop and double-click, both available throu
 
 MouseTool was originally a open source tool. That means the lastest open source code is available, right? Wrong. Actually, I was unable to find it in every place I looked for.
 
-Fortunately, my friend [Marcio Andrey] has got the source, and just like me, he wanted to make it available to everyone who would like to use it and change it.
+Fortunately, my friend Marcio Andrey has got the source (update 2026-06-06 unfortunately not available anymore), and just like me, he wanted to make it available to everyone who would like to use it and change it.
 
 Let's make use of this source and show how to explore a code not written by us. Normally the first things to do are: download the compacted file and extract the files into a new folder. So we find the project file (in this case, MouseTool.dsw) and try to open it. The result is a total failure, because I believe no one use the Visual Studio version that opens this kind of file (it will convert it to another one).
 
@@ -5842,11 +5797,11 @@ Given the source files, we can explore some interesting parts we'd like to do so
 
 Click in the link in the end of the post and make good use of it.
 
-Update: MouseTool now has a home page and a Source Forge project! Its new name is [GMouseTool].
+Update: MouseTool now has a home page and a Source Forge project! Its new name is "GMouseTool".
 
 #### // Comments
 
-2007-11-14 [dquadros]:
+2007-11-14 "dquadros":
 
 Nice article! But.. why is this one in english while all others are in portuguese? Not complaining, just curious.
 
@@ -5858,7 +5813,7 @@ Take care!
 
 Good point
 
-Actually I began the blog [writing] some [articles] in "English", but with the time they became more infrequent. It's my little contribution to the readers who don't read Portuguese.
+Actually I began the blog "writing" some "articles" in "English", but with the time they became more infrequent. It's my little contribution to the readers who don't read Portuguese.
 
 Maybe you should try, too, since your blog is becoming more and more famous =).
 
@@ -5872,11 +5827,6 @@ Estou usando para fazer um teste. é um pouco estranho, mas é MUITo mais fácil
 
 Para quem estiver lendo isso, tente! Vale a pena conhecer.
 
-[Marcio Andrey]: http://marcioandreyoliveira.blogspot.com/search/label/GMouseTool
-[GMouseTool]: http://gmousetool.sourceforge.net
-[writing]: why_is_my_dll_locked
-[articles]: what_happens_inside_the_sizeof_operator
-[dquadros]: http://dqsoft.blogspot.com
 
 # SDelete
 date: 2007-11-15
@@ -5995,7 +5945,7 @@ E agora o tamanho final de nosso executável passou para espantosos 3 KB! Isso a
 
 2008-04-15 Yorick:
 
-Recentemente encontrei [isso], acho q tem a v :)
+Recentemente encontrei "isso", acho q tem a v :)
 
 Testei o metodo do Koby e funciona muito bem, como Koby menciona em seu site, eh bem menos sujeito a erros para programas mais complexos, estou usando em compilações em modo release, em debug mode continuo com o msvcr90d.dll do Visual C++ 2008. Vinculação à msvcp que contém C++ stuff como STL não é possivel de forma dinâmica utilizando o mesmo método, se for seguidos os passos do WDK é possível a vinculação estática. A seguir os procedimentos que usei para poder usar a crt dinâmica + stl estática:
 
@@ -6062,14 +6012,13 @@ Sim, trabalho atualmente em São Paulo, Brasil. O mercado? Não sou uma pessoa m
 
 []s
 
-[isso]: http://kobyk.wordpress.com/2007/07/20/dynamically-linking-with-msvcrtdll-using-visual-c-2005/
 
 # Carregando DLLs arbitrárias pelo WinDbg
 date: 2007-11-23
 slug: carregando_dlls_arbitrarias_pelo_windbg
 tags: computer blog
 
-Durante meus testes para a correção de um bug me deparei com a necessidade de carregar uma DLL desenvolvida por mim no processo depurado. O detalhe é que o processo depurado é de terceiros e não possuo o fonte. Portanto, as opções para mim mais simples são: 1) Usar o projeto [RmThread] para injetar a DLL (nesse caso iniciando o processo através dele), 2) Fazer um módulo wrapper para uma DLL qualquer e ser carregado de brinde, 3) Usar o WinDbg e brincar um pouco.
+Durante meus testes para a correção de um bug me deparei com a necessidade de carregar uma DLL desenvolvida por mim no processo depurado. O detalhe é que o processo depurado é de terceiros e não possuo o fonte. Portanto, as opções para mim mais simples são: 1) Usar o projeto "RmThread" para injetar a DLL (nesse caso iniciando o processo através dele), 2) Fazer um módulo wrapper para uma DLL qualquer e ser carregado de brinde, 3) Usar o WinDbg e brincar um pouco.
 
 Por um motivo desconhecido a terceira opção me pareceu mais interessante =).
 
@@ -6122,7 +6071,6 @@ ModLoad: 774e0000 7761d000   C:WINDOWS\system32\ole32.dll
 
 Como pudemos ver pela saída, a DLL foi carregada e agora temos a possibilidade de chamar qualquer código que lá esteja. Como fazer isso? Provavelmente usando o mesmo método aqui aplicado. Live-assembly é o que manda 8).
 
-[RmThread]: http://www.codeproject.com/threads/RmThread.asp
 
 # Carregando DLLs arbitrárias pelo WinDbg ou como escrever script para WinDbg
 date: 2007-11-27
@@ -6250,7 +6198,7 @@ Como podemos ver, ele é um pouco grandinho. Por isso mesmo que ele é um script
 }
 ```
 
-Qualquer semelhança com as instruções em C não é mera coincidência. Essa estrutura de fato verifica se o resultado dentro do .if é verdadeiro. No caso o script verifica se o primeiro parâmetro foi passado, já que os argumentos são acessíveis através dos alias (apelidos) $arg1 - $argn. Essa maneira de usar os argumentos passados no WinDbg ainda não foi documentada, mas encontrei essa dica em [um artigo do Roberto Farah], um grande escritor de scripts para o WinDbg.
+Qualquer semelhança com as instruções em C não é mera coincidência. Essa estrutura de fato verifica se o resultado dentro do .if é verdadeiro. No caso o script verifica se o primeiro parâmetro foi passado, já que os argumentos são acessíveis através dos alias (apelidos) $arg1 - $argn. Essa maneira de usar os argumentos passados no WinDbg ainda não foi documentada, mas encontrei essa dica em "um artigo do Roberto Farah", um grande escritor de scripts para o WinDbg.
 
 Da mesma forma, o que não deve ser nenhuma surpresa, o WinDbg suporta comentários. Todas as linhas que contêm '$$' isoladamente são comentários, e seu conteúdo da direita é ignorado, salvo se for encontrado um ponto-e-vírgula. A primeira coisa que fazemos para carregar a DLL é salvar o estado do registrador IP, que indica onde está a próxima instrução:
 
@@ -6350,10 +6298,8 @@ bp /1 @$t2 ".dvfree @$t0 0"
 
 Eu não me responsabilizo por qualquer (mau) uso do script aqui disponibilizado, assim como as eventuais perdas de código-fonte, trilhas de HD e placas de memória RAM pela sua execução. Assim sendo, bom divertimento.
 
-O criador do [DriverEntry] me questionou se não seria mais fácil, em vez de escrever todos os opcodes em hexa, usar o comando a, que permite entrar o código assembly diretamente a partir de um endereço especificado. Essa realmente é uma ótima idéia, e de fato eu tentei isso no começo de meus testes. Porém, infelizmente para scripts isso não funciona bem. A partir do comando a o prompt fica esperando uma entrada do usuário, não lendo o assembly que estaria no próprio script. Pior ainda, a escrita do assembly não permite usar os registradores temporários, como $t0 ou $t1, o que nos força a escrever um código dependende de valores constantes. Por esses motivos, tive que apelar para o comando e, que é a forma mais confusa de escrever e entender assembly. Nesse tipo de edição é vital comentar bem cada linha que se escreve.
+O criador do "DriverEntry" me questionou se não seria mais fácil, em vez de escrever todos os opcodes em hexa, usar o comando a, que permite entrar o código assembly diretamente a partir de um endereço especificado. Essa realmente é uma ótima idéia, e de fato eu tentei isso no começo de meus testes. Porém, infelizmente para scripts isso não funciona bem. A partir do comando a o prompt fica esperando uma entrada do usuário, não lendo o assembly que estaria no próprio script. Pior ainda, a escrita do assembly não permite usar os registradores temporários, como $t0 ou $t1, o que nos força a escrever um código dependende de valores constantes. Por esses motivos, tive que apelar para o comando e, que é a forma mais confusa de escrever e entender assembly. Nesse tipo de edição é vital comentar bem cada linha que se escreve.
 
-[um artigo do Roberto Farah]: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/windbg-script-get-portable-executable-headers
-[DriverEntry]: http://www.driverentry.com.br
 
 # Desenhando em C++ Builder
 date: 2007-11-29
@@ -6652,11 +6598,11 @@ Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
 ![C++ Builder Forms](gerenciamento_de_janelas_em_c_builder_cppbuilder_forms.png)
 
-Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que [já conhecemos].
+Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que "já conhecemos".
 
 Para analisarmos melhor o que ocorre nos internals da coisa, criei um projeto simplista que possui dois forms, ambos com quatro botões: 1) mostrar o outro form, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
 
-Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum. Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", [faça uma busca] no blogue.
+Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum. Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", "faça uma busca" no blogue.
 
 A primeira coisa que um loop de mensagens deveria fazer seria chamar a função GetMessage, que obtém a primeira mensagem em espera na fila de mensagens da thread chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
 
@@ -6741,8 +6687,6 @@ ntdll!KiFastSystemCallRet:
 7c90eb94 c3              ret
 ```
 
-[já conhecemos]: historia_do_windows_parte_30
-[faça uma busca]: http://www.caloni.com.br/posts/?q=windbg
 
 # Debug remoto no C++ Builder
 date: 2007-12-13
@@ -6982,13 +6926,13 @@ Visando preencher algumas lacunas na internet sobre esse tema iremos agora nos a
 
 (Obs. de camarada: banco de dados pode ser uma coisa bem chata. Contudo, a vida não é completa sem as partes chatas. O conhecimento dessa área é vital para a sobrevivência de muito desenvolvedores de software. Além do mais, pode se tornar bem mais interessante em algumas situações, como o estudo sobre normalização.)
 
-Quase como um prêmio de consolação por participarmos de um sorteio que sabemos que não iremos ganhar nunca, a [Caixa Econômica Federal] generosamente oferece a opção de baixarmos todos os resultados da Mega Sena desde seu início. Iremos utilizar esse banco de dados para criar uma interface de visualização de resultados no C++ Builder.
+Quase como um prêmio de consolação por participarmos de um sorteio que sabemos que não iremos ganhar nunca, a "Caixa Econômica Federal" generosamente oferece a opção de baixarmos todos os resultados da Mega Sena desde seu início. Iremos utilizar esse banco de dados para criar uma interface de visualização de resultados no C++ Builder.
 
 ![Mega Sena Download](banco_de_dados_no_c_builder_mega_sena.png)
 
 Um problema inicial está no fato que o arquivo está no formato HTML, um formato mais difícil de usarmos no C++ Builder. Portanto, irei converter este formato em algo mais maleável, como um arquivo do Microsoft Access, o famoso MDB, ou um CSV.
 
-Para a conversão, nada mais que algumas [expressões regulares] e [macros de edição] não resolvam em 5 minutos, sem contar a opção de importação do próprio Access.
+Para a conversão, nada mais que algumas "expressões regulares" e "macros de edição" não resolvam em 5 minutos, sem contar a opção de importação do próprio Access.
 
 Neste tutorial vamos usar aquilo que é o configurador oficial de banco de dados no C++ Builder: o BDE. Se você ainda não observou, após a instalação do C++ Builder um novo item surgiu no Painel de Controle, o BDE Administrator. Vamos usá-lo para configurar uma base de dados baseada no nosso arquivo MDB recém-gerado.
 
@@ -7083,9 +7027,6 @@ Fico feliz que o tutorial tenha sido útil até um ponto. Na verdade, foi só um
 
 []s e boa sorte.
 
-[Caixa Econômica Federal]: http://loterias.caixa.gov.br
-[expressões regulares]: http://guia-er.sourceforge.net
-[macros de edição]: http://notepad-plus.sourceforge.net/uk/site.htm
 
 # O que acontece quando o contador estoura
 date: 2007-12-25
@@ -7147,9 +7088,8 @@ Se alterarmos o código acima para imprimir na saída os números hexadecimais, 
 
 E o mais legal é que agora sabemos que o primeiro número é o maior valor positivo possível nesse tamanho de int, pois possui todos os bits ligados exceto o bit de sinal. Já o segundo número, o primeiro incrementado de 1, possui todos os bits desligados exceto o bit de sinal: é o menor número negativo possível!
 
-Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então dê uma olhada na Wikipedia sobre [complemento de dois].
+Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então dê uma olhada na Wikipedia sobre "complemento de dois".
 
-[complemento de dois]: http://en.wikipedia.org/wiki/Twos_complement
 
 # Curiosidades inúteis: o operador de subscrito em C++
 date: 2007-12-27
@@ -7184,7 +7124,7 @@ A teoria comprovada na prática: temos duas expressões no formato E1 [ E2 ] sen
 std::cout << "E a linguagem é: " << indice[ditado] << std::endl;
 ```
 
-Isso também compila e tem o mesmo resultado, pois também é equivalente a *( (E1) + (E2) ). No final dá na mesma. E do jeito que está a inversão nem dá tanto susto assim, pois estamos lidando com duas variáveis. A coisa começa a ficar mais [IOCCC] se colocarmos em vez de uma delas uma constante:
+Isso também compila e tem o mesmo resultado, pois também é equivalente a *( (E1) + (E2) ). No final dá na mesma. E do jeito que está a inversão nem dá tanto susto assim, pois estamos lidando com duas variáveis. A coisa começa a ficar mais "IOCCC" se colocarmos em vez de uma delas uma constante:
 
 ```
 std::cout << "E a linguagem é: " << 8[ditado] << std::endl;
@@ -7196,15 +7136,15 @@ Isso ainda é válido, certo? Os tipos das expressões estão de acordo com a re
 std::cout << 5["Isso Compila?"] << std::endl;
 ```
 
-Nota do autor: esse tipo de "recurso obscuro" dificilmente passará por uma revisão de código, e com razão, dado que não é um método útil e muito menos conhecido. Sábio é saber evitar. Não acredito, porém, que o conhecimento de certos detalhes da linguagem em que se programa sejam completamente inúteis. Conhecimento nunca é demais, pois quanto mais se conhece maior é o número de ferramentas conceituais que se dispõe para resolver um certo problema. Em muitas vezes o "conhecimento inútil" de hoje se torna um guia sábio quando se precisa de bons conceitos sobre a coisa toda. No entanto, que não venha um [boi-corneta] me dizer que esse código fere as boas práticas de programação. Tenho dito.
+Nota do autor: esse tipo de "recurso obscuro" dificilmente passará por uma revisão de código, e com razão, dado que não é um método útil e muito menos conhecido. Sábio é saber evitar. Não acredito, porém, que o conhecimento de certos detalhes da linguagem em que se programa sejam completamente inúteis. Conhecimento nunca é demais, pois quanto mais se conhece maior é o número de ferramentas conceituais que se dispõe para resolver um certo problema. Em muitas vezes o "conhecimento inútil" de hoje se torna um guia sábio quando se precisa de bons conceitos sobre a coisa toda. No entanto, que não venha um "boi-corneta" me dizer que esse código fere as boas práticas de programação. Tenho dito.
 
 #### // Comments
 
-2008-01-27 [ViniGodoy]:
+2008-01-27 "ViniGodoy":
 
 Muito interessante.
 
-Você já tinha visto [esse artigo] (2026-03-22 link quebrado)?
+Você já tinha visto "esse artigo" (2026-03-22 link quebrado)?
 
 É exatamente a mesma idéia do seu. Não estou te acusando de cópia (até porque, se parar para pensar no desafio, acho que qualquer programador experiente chegaria nessa resposta), mas é mais uma confirmação de que o código funciona! :)
 
@@ -7220,10 +7160,6 @@ Imagine, não tenho a mínima pretensão de ter desenvolvido algo novo. Eu sempr
 
 []s e valeu pelo link.
 
-[IOCCC]: http://www.ioccc.org/
-[boi-corneta]: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br
-[ViniGodoy]: http://vinigodoy.wordpress.com
-[esse artigo]: http://cc.byexamples.com/20070528/swap-variable-quest/
 
 # Gambi do dia: swap com apenas duas variáveis
 date: 2007-12-31
@@ -7425,15 +7361,14 @@ first: 13, second: 42
 first: 42, second: 13
 ```
 
-Bom, preciso dizer que isso é uma gambi das grossas? Preciso dizer que não uso isso no meu dia a dia, até porque swap é uma função já consagrada da STL chamada std::swap? Não? Então sem Postscript dessa vez. E sem [bois-cornetas] =).
+Bom, preciso dizer que isso é uma gambi das grossas? Preciso dizer que não uso isso no meu dia a dia, até porque swap é uma função já consagrada da STL chamada std::swap? Não? Então sem Postscript dessa vez. E sem "bois-cornetas" =).
 
-[bois-cornetas]: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br
 
 # Como ser um melhor desenvolvedor em 2008
 date: 2008-01-02
 tags: archive
 
-Aproveitando que está se aproximando meu prazo final para minhas resoluções de seis meses atrás, e o [DQ] já fez o checklist dele, vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
+Aproveitando que está se aproximando meu prazo final para minhas resoluções de seis meses atrás, e o "DQ" já fez o checklist dele, vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
 
 #### 1. Fazer um curso de memorização
 
@@ -7469,7 +7404,6 @@ Sem estar na lista previamente concebida comecei a fazer outras coisas de maneir
 
 Não é muito difícil definir essa lista, pois ela na verdade são as mesmas duas listas que citei anteriormente. Comecei a fazer essas coisas seis meses atrás. Para um fumante de fato parar, uns cinco anos de abstinência é um bom indicador. Acredito que, para um hábito se enraizar, um ano e meio pode ser de bom tamanho.
 
-[DQ]: http://dqsoft.blogspot.com/search?q=resolu%C3%A7%C3%B5es+de+ano+novo
 
 # CppCon III
 date: 2008-01-04
@@ -7560,7 +7494,7 @@ Por isso mesmo, aqui vão as dicas traduzidas, que encontrei no blogue de Lino R
 
 #### // Comments
 
-2008-01-09 [Daniel Quadros]:
+2008-01-09 "Daniel Quadros":
 
 Pela definição do criador do termo, o que você (e eu e muita gente mais) fazemos não é um weblog... Eu pessoalmente fico muito decepcionado quando vejo um título atraente em um feed e ao olhar o artigo encontro apenas um link, sem nenhum comentário (e usar um adjetivo genérico não vale!).
 
@@ -7576,7 +7510,7 @@ Obrigado pela citação e pela repercussão dos conselhos do Jorn. Realmente, co
 
 ---
 
-2008-01-09 [Rodrigo Strauss]:
+2008-01-09 "Rodrigo Strauss":
 
 Os dois primeiros itens são tão estúpidos que invalida todo o resto...
 
@@ -7592,8 +7526,6 @@ Agora, se definir o termo "blog" apenas pela sua origem etimológica "web log", 
 
 De qualquer forma, não é porque escrevemos sobre coisas técnicas que nossos blogues são mais importantes ou que as outras coisas são "banais". Os blogues trouxeram mais gente para a internet, além das comunidades virtuais e outras coisas mais. A sociedade vai se inserindo na rede sobre inúmeras formas, e o blogue é uma delas.
 
-[Rodrigo Strauss]: http://www.1bit.com.br
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # Analisando Dumps com WinDbg e IDA
 date: 2008-01-10
@@ -7944,7 +7876,7 @@ Então, como eu dizia, não faça isso em casa enquanto estiver digitando um art
 windbg %programfiles%\Mozilla Firefox\firefox.exe
 ```
 
-OK. A primeira coisa é procurar pela string digitada, na esperança de achar a estrutura que escreve as respostas de acordo com a digitação. Isso pode ser feito facilmente graças ao WinDbg e ao [artigo de Volker von Einem] que ensina como procurar strings por toda a memória de um processo (mais tarde iremos também usar o comando-bônus do comentário de Roberto Farah no mesmo artigo).
+OK. A primeira coisa é procurar pela string digitada, na esperança de achar a estrutura que escreve as respostas de acordo com a digitação. Isso pode ser feito facilmente graças ao WinDbg e ao "artigo de Volker von Einem" que ensina como procurar strings por toda a memória de um processo (mais tarde iremos também usar o comando-bônus do comentário de Roberto Farah no mesmo artigo).
 
 ```
 0:017> s -a 0 0fffffff "caca fantasmas"
@@ -8082,18 +8014,16 @@ Vimos que o jogo é facilmente quebrável porque armazena as respostas em texto 
 
 ![Flash Pops Seguro](encontrando_as_respostas_do_flash_pops_flash_pops.gif)
 
-Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo [Thiago] há poucos dias, que está lendo o livro Reversing. Simples, porém funcional.
+Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo "Thiago" há poucos dias, que está lendo o livro Reversing. Simples, porém funcional.
 
-[artigo de Volker von Einem]: http://voneinem-windbg.blogspot.com/2007/06/scan-full-process-memory-for-pattern.html
-[Thiago]: http://www.codebehind.wordpress.com
 
 # Otimização em funções recursivas
 date: 2008-01-18
 tags: computer blog
 
-O livro que estou lendo, Dominando Algoritmo com C, como o próprio nome diz, fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de [tail recursion]. Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
+O livro que estou lendo, Dominando Algoritmo com C, como o próprio nome diz, fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de "tail recursion". Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
 
-Imagine uma função recursiva que calcula o [fatorial] de um número. Apenas para lembrar, o fatorial de um número n é igual a n * n-1 * n-2 * n-3 até o número 1. Existem implementações iterativas (com um laço for, por exeplo) e recursivas, que no caso chamam a mesma função n vezes.
+Imagine uma função recursiva que calcula o "fatorial" de um número. Apenas para lembrar, o fatorial de um número n é igual a n * n-1 * n-2 * n-3 até o número 1. Existem implementações iterativas (com um laço for, por exeplo) e recursivas, que no caso chamam a mesma função n vezes.
 
 ```
 int factorial(int n)
@@ -8546,8 +8476,6 @@ int main(int argc, char* argv[])
 }
 ```
 
-[tail recursion]: http://en.wikipedia.org/wiki/Tail_recursion
-[fatorial]: http://pt.wikipedia.org/wiki/Fatorial
 
 # Terceiro encontro C++
 date: 2008-01-22
@@ -8602,7 +8530,7 @@ Boa sorte!
 date: 2008-01-24
 tags: computer blog
 
-Às vezes na vida a vontade de fazer alguma coisa besta acaba sendo mais forte do que o senso de ridículo. Então, resolvi ressuscitar o quase apodrecido [RusKey], um programa que fiz para trocar letras digitadas no teclado. A idéia é muito simples: o sujeito digita 'i' e sai um 'c', digita um 'f' e sai um 'u', e assim por diante. Se estiver programando e for criar um if, por exemplo, no lugar da palavra if vai aparecer... bom, não é exatamente um if que vai aparecer na tela =).
+Às vezes na vida a vontade de fazer alguma coisa besta acaba sendo mais forte do que o senso de ridículo. Então, resolvi ressuscitar o quase apodrecido "RusKey", um programa que fiz para trocar letras digitadas no teclado. A idéia é muito simples: o sujeito digita 'i' e sai um 'c', digita um 'f' e sai um 'u', e assim por diante. Se estiver programando e for criar um if, por exemplo, no lugar da palavra if vai aparecer... bom, não é exatamente um if que vai aparecer na tela =).
 
 Mas se analisarmos dessa maneira pode parecer até coisa de "ráquer", o que certamente não é. Na verdade, se trata de um programa didático que visa ensinar a digitação em leiautes de teclados diferentes do normal em idiomas latinos. Pelo menos essa foi a intenção original.
 
@@ -8655,7 +8583,6 @@ switch( pMsg->message )
 
 Simples assim. E temos um keylogger que troca caracteres! É impressionante como as coisas mais simples podem se transformar nos momentos mais divertidos de um programador em um feriado.
 
-[RusKey]: http://www.codeproject.com/KB/winsdk/ruskey.aspx
 
 # RmThread: rode código em processo vizinho
 date: 2008-01-28
@@ -8775,7 +8702,7 @@ date: 2008-01-30
 slug: compartilhando_variaveis_com_o_mundo
 tags: computer blog
 
-Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do crie uma seção compartilhada no seu executável/DLL. Isso funciona desde a época em que [o Windows era em preto e branco]. Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do use memória mapeada nomeada misturada com templates.
+Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do crie uma seção compartilhada no seu executável/DLL. Isso funciona desde a época em que "o Windows era em preto e branco". Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do use memória mapeada nomeada misturada com templates.
 
 Era comum (talvez ainda seja) fazer um código assim:
 
@@ -8972,7 +8899,6 @@ Espero que seja realmente o que você estava querendo fazer, e não existam melh
 
 []s
 
-[o Windows era em preto e branco]: http://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-windows-16-bits.html
 
 # Compartilhando variáveis com o mundo v2
 date: 2008-02-01
@@ -9203,7 +9129,7 @@ Moral da história: se algum dia você vier a escrever um programa inocente, dei
 
 #### // Comments
 
-2008-02-06 [Alberto Fabiano]:
+2008-02-06 "Alberto Fabiano":
 
 Legal,
 
@@ -9213,7 +9139,7 @@ E o Autoruns? O pskill e seus irmãos do pstools! :-) Se eu começar a falar o q
 
 ---
 
-2008-02-06 [ViniGodoy]:
+2008-02-06 "ViniGodoy":
 
 Ótimo artigo.
 
@@ -9227,8 +9153,6 @@ Como no meu trabalho desenvolvemos muitos sistemas que rodam no exterior, é mui
 
 Particulamente uso o pc no modo limitado desde que consegui um, considero bem fácil, mas acredito que é por que já acostumei, gostaria de incluir como dica o programa FreeCommander, que permite 'explorar' o sistema, usar o painel de controle etc, como Administrador (só usar "Executar Como"). Uso pra controlar os atributos de permissão NTFS de pastas de programas chatos como esse, antigamente usava o proprio IE como Adm pra fazer isso mas fizeram modificações e não dá mais pra fazer isso. Particurlarmente de cara uso o Filemon quando surge problemas. Também não se deve esquecer de desmarcar "Usar compartilhamento simples de arquivo" em opções de pasta pra poder controlar as permissões de arquivos do windows de maneira mais clara.
 
-[ViniGodoy]: http://vinigodoy.wordpress.com
-[Alberto Fabiano]: http://techberto.wordpress.com
 
 # Silly regex trick
 date: 2008-02-07
@@ -9268,11 +9192,11 @@ date: 2008-02-11
 slug: desconstruindo_ioccc
 tags: computer blog
 
-Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama [The International Obfuscated C Code Contest] (IOCCC resumidamente) e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".
+Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama "The International Obfuscated C Code Contest" (IOCCC resumidamente) e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".
 
 Acredito que a real valia de um campeonato desse porte é fazer as pessoas pensarem mais a fundo sobre as regras da linguagem. Isso faz com que erros mais obscuros que encontramos no dia-a-dia se tornem mais fáceis. Claro que ninguém deveria programar como os caras desse torneio, mas a título de aprendizagem, é uma grande aula sobre C.
 
-Publico aqui a interpretação do primeiro programa a ganhar a tal [menção desonrosa], em 1984. Se trata do batidíssimo "Hello World", só que um pouco compactado e confuso. Vejamos o fonte original:
+Publico aqui a interpretação do primeiro programa a ganhar a tal "menção desonrosa", em 1984. Se trata do batidíssimo "Hello World", só que um pouco compactado e confuso. Vejamos o fonte original:
 
 ```
 int i;main(){for(;i["]<i;++i){--i;}"];read('-'-'-',i+++"hell\
@@ -9398,7 +9322,7 @@ Também devemos lembrar que o caractere de controle '\n' é representado apenas 
 
 Em um passado bem longínquo, o padrão ANSI C não existia, e outras funções dominavam o ambiente UNIX. Muitas dessas funções foram adaptadas, e outras completamente copiadas para a formação do padrão. No entanto, ainda que o padrão não tenha colocado algumas funções clássicas, elas continuaram sendo usadas e suportadas. Um bom exemplo disso são as funções read e write, que, apesar de não estarem no padrão, estão no livro de KandR, no capítulo sobre fluxos (streams) em UNIX, provando que são bem populares.
 
-Dentro desse mundo paralelo, existem identificadores de fluxos padrões para a entrada e a saída padrão. Melhor ainda, esses identificadores são inteiros que estão especificados da seguinte maneira (tirado da [referência GNU] da linguagem C):
+Dentro desse mundo paralelo, existem identificadores de fluxos padrões para a entrada e a saída padrão. Melhor ainda, esses identificadores são inteiros que estão especificados da seguinte maneira (tirado da "referência GNU da linguagem C"):
 
 There are also symbolic constants defined in unistd.h for the file descriptors belonging to the standard streams stdin, stdout, and stderr; see Standard Streams.
 
@@ -9479,7 +9403,7 @@ read(outStr)
 
 #### // Comments
 
-2008-02-13 [ViniGodoy]:
+2008-02-13 "ViniGodoy":
 
 Se for o C99 ou o C++, há ainda outra coisa legal. Você pode substituir caracteres como as chaves e os colchetes por dígrafos equivalentes, conforme a seguinte tabela:
 
@@ -9510,10 +9434,6 @@ Olá, Vini. De fato, os dígrafos em C/C++ são uma das características das dua
 
 []s
 
-[The International Obfuscated C Code Contest]: http://www.ioccc.org
-[menção desonrosa]: http://www.ioccc.org/1984/anonymous/anonymous.c
-[referência GNU]: https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.3/html_node/libc_231.html
-[ViniGodoy]: http://vinigodoy.wordpress.com
 
 # Creative Commons
 date: 2026-03-21
@@ -9522,13 +9442,13 @@ tags: archive
 
 Update 2026-03-21. Mantive este artigo pelo histórico e pelos comentários. Há muito tempo desconsidero a propriedade imaginária dos meus textos. Faça o que quiser.
 
-Talvez a maioria das pessoas ignore o fato que, ao publicarem algum conteúdo, qualquer conteúdo, na internet, estarão criando algo, e esse algo tem um autor, e portanto, de acordo com [nossa lei] (Brasil) e [alguns tratados internacionais], está protegida pelo direito autoral.
+Talvez a maioria das pessoas ignore o fato que, ao publicarem algum conteúdo, qualquer conteúdo, na internet, estarão criando algo, e esse algo tem um autor, e portanto, de acordo com "nossa lei" (Brasil) e "alguns tratados internacionais", está protegida pelo direito autoral.
 
-Para ajudar os autores da internet a informarem ao seu público qual o nível de proteção e liberdade dados às suas obras de maneira padronizada e internacionalizada, foi criado o [Creative Commons], cuja função é exatamente essa que descrevi.
+Para ajudar os autores da internet a informarem ao seu público qual o nível de proteção e liberdade dados às suas obras de maneira padronizada e internacionalizada, foi criado o "Creative Commons", cuja função é exatamente essa que descrevi.
 
-Exatamente por não ser obrigado o registro de uma obra para tornar válido o seu direito autoral, o Creative Commons apenas define alguns logos e links que simbolizam e especificam quais os direitos que um autor gostaria de aplicar à sua obra, variando de uma obra totalmente protegida até uma obra sem qualquer nível de proteção. No meu caso, por exemplo, as obras do Caloni.com.br estão publicadas sob as [seguintes condições]:
+Exatamente por não ser obrigado o registro de uma obra para tornar válido o seu direito autoral, o Creative Commons apenas define alguns logos e links que simbolizam e especificam quais os direitos que um autor gostaria de aplicar à sua obra, variando de uma obra totalmente protegida até uma obra sem qualquer nível de proteção. No meu caso, por exemplo, as obras do Caloni.com.br estão publicadas sob as "seguintes condições":
 
-![Creative Commons](creative-commons.png)
+!"Creative Commons"(creative-commons.png)
 
 ```
 Você pode:
@@ -9559,7 +9479,7 @@ Essa foi uma configuração que escolhi ao ler os termos do sítio e configurar 
 
 #### // Comments
 
-2008-02-19 [Daniel Quadros]:
+2008-02-19 "Daniel Quadros":
 
 Legal, estava na minha lista de idéias para o blog indicar os direitos de reprodução, mas não tinha muita idéia de como fazer. Uma dica para quer for tapado como eu: para criar o ícone basta acessar a página do Creative Commons e clicar no alto em 'License Your Work'.
 
@@ -9575,11 +9495,6 @@ Eu pensava que "enfeitava" meu sítio apenas para mim, já que, pelo menos eu, a
 
 []s
 
-[nossa lei]: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
-[alguns tratados internacionais]: https://www.scielo.br/j/ci/a/P46qw5NNYhnyxNb8g7VFq6S/?format=html&lang=pt
-[Creative Commons]: http://creativecommons.org\
-[seguintes condições]: http://creativecommons.org/licenses/by-nc-nd/2.5/br/
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # Funky do-while
 date: 2008-02-13
@@ -9921,7 +9836,7 @@ Enfim, na vida real, é impossível catalogar todos os erros que podem ocorrer e
 
 #### // Comments
 
-2008-02-19 [Marcio Andrey Oliveira]:
+2008-02-19 "Marcio Andrey Oliveira":
 
 Wanderley, teu artigo está excelente.
 
@@ -9943,7 +9858,7 @@ mao
 
 ---
 
-2008-02-15 [ViniGodoy]:
+2008-02-15 "ViniGodoy":
 
 Excelente artigo, mais uma vez. :)
 
@@ -9959,7 +9874,7 @@ Qual é a lição que gardamos disso? Use macros só se for imprescindível, cas
 
 ---
 
-2008-02-15 [ViniGodoy]:
+2008-02-15 "ViniGodoy":
 
 Uma outra curiosidade. O código fonte do Quake faz um uso menos comum do include. Existe um arquivo chamado anormal.h, que contém uma lista na seguinte forma:
 
@@ -9980,7 +9895,7 @@ int[] anorms = {
 
 E com isso, criam um vetor. Assim fica fácil de ver que um include nada mais é do que um "copy&paste" de um arquivo em outro.
 
-Quem quiser baixar o [código do quake] e ver isso, pode obter o arquivo no site da id-software (2026-03-23 não mais, está no GitHub):
+Quem quiser baixar o "código do quake" e ver isso, pode obter o arquivo no site da id-software (2026-03-23 não mais, está no GitHub):
 
 ---
 
@@ -10008,9 +9923,6 @@ Quando se trata de programar em C, clareza é mil vezes mais importante que conc
 
 []s
 
-[ViniGodoy]: http://vinigodoy.wordpress.com
-[código do quake]: https://github.com/id-Software/Quake
-[Marcio Andrey Oliveira]: http://marcioandreyoliveira.blogspot.com/
 
 # Configurando seus projetos no Visual Studio para rodar em outras máquinas
 date: 2008-02-21
@@ -10119,7 +10031,7 @@ int* p = (int*) 0;
 *p = 0;
 ```
 
-Não tem nada de errado em atribuir o valor 0 a um ponteiro, que é equivalente ao define NULL da biblioteca C (e C++). De acordo com a [referência GNU], é recomendado o uso do define, mas nada impede utilizar o 0 "hardcoded".
+Não tem nada de errado em atribuir o valor 0 a um ponteiro, que é equivalente ao define NULL da biblioteca C (e C++). De acordo com a "referência GNU sobre Null Pointer Constant", é recomendado o uso do define, mas nada impede utilizar o 0 "hardcoded".
 
 Porém, estamos escrevendo em um ponteiro nulo, o que com certeza é um comportamento não-definido de conseqüências provavelmente funestas. O ponteiro nulo é um ponteiro inválido que serve apenas para marcar um ponteiro como inválido. Se escrevermos em um endereço inválido, bem, não é preciso ler o padrão para saber o que vai acontecer =)
 
@@ -10145,9 +10057,9 @@ Dito isso, me sinto melhor =)
 
 Existe coisa mais prazerosa do que admitir um erro que foi cometido na mesma semana? Existe: quando você sabia que estava certo, mas resolveu usar o senso comum por falta de provas.
 
-Pois bem. O mesmo amigo que me recomendou que escrevesse sobre o assunto do ponteiro nulo achou um livro sobre [armadilhas em C] com um exemplo que demonstra exatamente o contrário: dependendo da plataforma, ponteiros nulos são sim válidos.
+Pois bem. O mesmo amigo que me recomendou que escrevesse sobre o assunto do ponteiro nulo achou um livro sobre "armadilhas em C" com um exemplo que demonstra exatamente o contrário: dependendo da plataforma, ponteiros nulos são sim válidos.
 
-Nesse caso, se tratava de um programa que iria rodar em um microprocessador, daqueles que o [DQ] costuma programar. Pois bem. Quando o dito cujo ligava era necessário chamar uma rotina que estava localizada exatamente no endereço 0. Para fazer isso, o código era o seguinte:
+Nesse caso, se tratava de um programa que iria rodar em um microprocessador, daqueles que o "DQ" costuma programar. Pois bem. Quando o dito cujo ligava era necessário chamar uma rotina que estava localizada exatamente no endereço 0. Para fazer isso, o código era o seguinte:
 
 ```
 ( * (void(*)()) 0 ) ();
@@ -10173,13 +10085,13 @@ Gostaria de aproveitar e mencionar Walter Oney:
 
 ---
 
-2008-03-05 [Alberto Fabiano]:
+2008-03-05 "Alberto Fabiano":
 
 Este livro do Koening é realmente uma obra muito interessante; eu também recomendo! Aliás, ele é considerando uma das 10 personalidades mais importantes do C++ e está na lista do 5 mais do Scott Meyers.
 
 ---
 
-2008-02-29 [Bleno]:
+2008-02-29 "Bleno":
 
 Olá Caloni...
 
@@ -10193,7 +10105,7 @@ Abraços...
 
 ---
 
-2008-03-03 [Daniel Quadros]:
+2008-03-03 "Daniel Quadros":
 
 Bem que eu ia colocar um comentário a respeito... Na programação "embarcada" é comum aparecerem alguns endereços fixos. Por exemplo, em um microcontrolador que estou programando a gravação na memória não volátil é feita colocando-se os dados de um "setor" na RAM a partir do endereço zero e depois "dançando um samba" sobre alguns registradores. Para o código ficar um pouco mais bonito, declarei o buffer de gravação em um módulo assembler e evitei ter um ponteiro explicitamente nulo.
 
@@ -10215,12 +10127,6 @@ Também desconhecia esse detalhe de implementação desses sistemas. Valeu a dic
 
 []s
 
-[referência GNU]: https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.5/html_node/Null-Pointer-Constant.html
-[armadilhas em C]: http://www.literateprogramming.com/ctraps.pdf
-[DQ]: http://dqsoft.blospot.com
-[Alberto Fabiano]: http://techberto.wordpress.com
-[Bleno]: http://www.bleno.org
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # A essência do zen
 date: 2008-02-27
@@ -10635,7 +10541,7 @@ Quando precisamos fazer algo nos elementos de um contêiner STL, é quase certo 
 
 2008-04-18 Luiz Salamon:
 
-Recentemente coloquei [um post na lista CCPPBRASIL] sobre um problema que tive recentemente. Na verdade resolvi com o uso de sincronicação, mas gostaria de sua sugestão, pois penso que deveria existir uma forma mais simples de resolver o problema.
+Recentemente coloquei "um post na lista CCPPBRASIL" sobre um problema que tive recentemente. Na verdade resolvi com o uso de sincronicação, mas gostaria de sua sugestão, pois penso que deveria existir uma forma mais simples de resolver o problema.
 
 Reproduzindo o texto:
 
@@ -10660,13 +10566,13 @@ A questão é como faço para verificar se o iterator iter_map_test é válido ?
 
 ---
 
-2008-03-06 [Thiago R Adams]:
+2008-03-06 "Thiago R Adams":
 
 Uma curiosidade é que o map não retorna o iterator no erase.
 
 Mas a implementação da STL que vem no VC++ retorna. Tive este problema uma vez quando fui compilar um código no gcc. Eu não imaginava que isso não era padrão.
 
-Mas vendo [a documentação da msdn] tem uma nota:
+Mas vendo "a documentação da msdn" tem uma nota:
 
 "This return type does not conform to the C++ standard."
 
@@ -10701,9 +10607,6 @@ Valeu o aviso!
 
 []s
 
-[um post na lista CCPPBRASIL]: http://groups.google.com/group/ccppbrasil/browse_thread/thread/1e444ab3067baf55
-[Thiago R Adams]: http://paginas.terra.com.br/informatica/thiago_adams/
-[a documentação da msdn]: http://msdn2.microsoft.com/en-us/library/z2f3cb7h.aspx
 
 # Estranho
 date: 2008-03-06
@@ -10730,7 +10633,7 @@ Até agora, quando finalmente foi quebrado o encanto. Quer dizer, oficialmente a
 
 #### // Comments
 
-2008-03-06 [Ataliba]:
+2008-03-06 "Ataliba":
 
 Engraçado como seu post caiu como uma luva para meu final de dia ....
 
@@ -10744,7 +10647,7 @@ Isso tudo é muito estranho...
 
 ---
 
-2008-03-10 [Fernando Roberto da Silva]:
+2008-03-10 "Fernando Roberto da Silva":
 
 É seu Lesma,
 
@@ -10780,8 +10683,6 @@ Seu Ferdinando, seu comentário foi especialmente postergado para evitar confabu
 
 []s
 
-[Ataliba]: http://www.ataliba.eti.br
-[Fernando Roberto da Silva]: http://www.driverentry.com.br
 
 # Sed, Grep e afins
 date: 2008-03-10
@@ -10889,7 +10790,7 @@ Para agrupar expressõe, use sempre `\(` e `\)`. É o contrário do uso dos cara
 
 #### // Comments
 
-2008-03-11 [Alan]:
+2008-03-11 "Alan":
 
 Nesse caso, eu acho que seria mais pratico o uso do awk (gawk) mesmo...
 
@@ -10909,13 +10810,12 @@ Quanto ao "mais fácil, mais difícil, mais médio", acredito que seria 104% mai
 
 []s
 
-[Alan]: http://www.fzort.org/jumpi/
 
 # O mistério das pilhas diferentes
 date: 2008-03-12
 tags: computer blog
 
-Mal comecei a leitura do meu mais novo ["mother-fucker" livro] e já encontrei a solução para nunca mais viver o terror que vivi quando tive que testar minha engenharia reversa do artigo sobre o Houaiss. Se trata de uma simples questão que não sei por que não sigo todas as vezes religiosamente: configure seus símbolos corretamente.
+Mal comecei a leitura do meu mais novo "mother-fucker livro" e já encontrei a solução para nunca mais viver o terror que vivi quando tive que testar minha engenharia reversa do artigo sobre o Houaiss. Se trata de uma simples questão que não sei por que não sigo todas as vezes religiosamente: configure seus símbolos corretamente.
 
 Esse é o primeiro ponto abordado pelo autor, por se tratar de algo que, caso não seja bem feito, pode dar dores de cabeça piores do que o próprio problema que originou a sessão de debugging. Por isso eu repito:
 
@@ -11083,7 +10983,6 @@ Procure primeiro verificar as coisas mais simples. Depois você tenta consertar 
 
 Configure Seus Símbolos Corretamente.
 
-["mother-fucker" livro]: http://advancedwindowsdebugging.com/
 
 # Influence Board
 date: 2008-03-14
@@ -11112,7 +11011,7 @@ Agora ficou muito mais fácil de perceber que a única saída do rei não possui
 
 ![Winboard Mate Final](influence_board_winboard_mate_final.png)
 
-Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o [WinBoard], um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
+Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o "WinBoard", um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
 
 Basicamente a única coisa que o futuro usuário das influências deve fazer é baixar o projeto WinBoard; no caso a versão disponível meu repositório do GitHub (update: not anymore) e compilar (suporta cmake). Caso queira uma versão nova do programa terá que fazer o merge entre as duas versões (a versão base usada foi a 2.4.7).
 
@@ -11130,17 +11029,16 @@ Após compilado, basta rodar o winboard.exe gerado; haverá uma nova opção "Sh
 
 Bom divertimento!
 
-[WinBoard]: http://www.tim-mann.org/xboard.html
 
 # Como rodar qualquer coisa como serviço
 date: 2008-03-20
 tags: computer blog
 
-Update 2026-02-20: há muitos anos troquei esta solução pelo [NSSM], que eu recomendo fortemente. Ele foi usado em produtos robustos e evita termos que manter código redundante para manter programas que não nasceram para ser serviços, mas preciso rodar independente da conta do usuário.
+Update 2026-02-20: há muitos anos troquei esta solução pelo "NSSM", que eu recomendo fortemente. Ele foi usado em produtos robustos e evita termos que manter código redundante para manter programas que não nasceram para ser serviços, mas preciso rodar independente da conta do usuário.
 
 A maior vantagem de se rodar um aplicativo como serviço, interativo ou não, é permitir que ele seja iniciado antes que seja feito um logon na máquina. Um exemplo que acontece comigo é a necessidade de depurar a "GINA". Para isso, preciso que o depurador remoto do Visual Studio seja iniciado antes do logon. A solução mais fácil e rápida é rodar o Msvcmon, a parte servidora da depuração, como um serviço. Hoje eu descobri um atalho bem interessante para isso.
 
-Um [artigo do Alex Ionescu] falava sobre esse aplicativo linha de comando usado para criar, iniciar e apagar serviços. Mesmo não sendo o foco do artigo, achei muito útil a informação, pois não conhecia esse utilitário. Logo começaram a borbulhar idéias na minha mente:
+Um "artigo do Alex Ionescu" falava sobre esse aplicativo linha de comando usado para criar, iniciar e apagar serviços. Mesmo não sendo o foco do artigo, achei muito útil a informação, pois não conhecia esse utilitário. Logo começaram a borbulhar idéias na minha mente:
 
 "E se eu usasse esse carinha para iniciar o notepad?"
 
@@ -11161,7 +11059,7 @@ The service is not responding to the control function.
 More help is available by typing NET HELPMSG 2186.
 ```
 
-Como diria meu amigo [Thiago], "não bom".
+Como diria meu amigo "Thiago", "não bom".
 
 Porém porém, o SCM não mata os processos filhos do processo-serviço. Bug? Feature? Gambi? Seja o que for, pode ser usado para iniciar o nosso querido msvcmon:
 
@@ -11174,9 +11072,6 @@ Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, qu
 
 ![MsvcMon Service](como_rodar_qualquer_coisa_como_servico_msvcmon_service.png)
 
-[artigo do Alex Ionescu]: http://www.alex-ionescu.com/?p=59
-[Thiago]: http://codebehind.wordpress.com/
-[NSSM]: https://nssm.cc/
 
 # Quarto encontro C++
 date: 2008-03-18
@@ -11207,7 +11102,7 @@ Sim, senhores, foi inevitável. Esse encontro será cobrado um pequeno valor, qu
 
 #### // Comments
 
-2008-03-21 [Alberto Fabiano]:
+2008-03-21 "Alberto Fabiano":
 
 Caloni,
 
@@ -11239,14 +11134,12 @@ Amanda
 
 Olá, Amanda.
 
-Você e o [Edgard Soares] perceberam algo que eu não percebi: uma sigla na minha singela nomeação do nosso evento.
+Você e o "Edgard Soares" perceberam algo que eu não percebi: uma sigla na minha singela nomeação do nosso evento.
 
 Não sei se a maior parte do pessoal concordaria com a troca de nomes, mas achei a idéia de vocês dois muito boa.
 
 []s
 
-[Alberto Fabiano]: http://techberto.wordpress.com
-[Edgard Soares]: http://groups.google.com/group/ccppbrasil/msg/6139413a375cfcd0
 
 # Depuração da MBR
 date: 2008-03-24
@@ -11273,7 +11166,7 @@ Lembre-se que nem sempre existirá um MS-DOS para usarmos a INT21, tradicionalme
 
 O debug.com inicialmente começa a execução em um espaço de memória baixa. Podemos escrever um assembly qualquer nessa memória e começar a executar. Isso é exatamente o que iremos fazer, e a instrução escolhida será a INT13, pois iremos ler o primeiro setor do HD para a memória e começar a executá-lo. Isso é a depuração da MBR.
 
-Para fazer isso, algumas informações são necessárias, e tudo está disponível no sítio muito simpático e agradável de [Ralf Brown], o cara que enumerou todas as interrupções conhecidas, além de diversas outras coisas.
+Para fazer isso, algumas informações são necessárias, e tudo está disponível no sítio muito simpático e agradável de "Ralf Brown", o cara que enumerou todas as interrupções conhecidas, além de diversas outras coisas.
 
 Como queremos ler um setor do disco, a função da interrupção que devemos chamar é a AH=02:
 
@@ -11316,7 +11209,6 @@ Além da MBR, muitas vezes é preciso depurar a própria BIOS para descobrir o q
 -t
 ```
 
-[Ralf Brown]: http://www.ctyme.com/rbrown.htm
 
 # WinDbg a distância
 date: 2008-03-26
@@ -11411,7 +11303,7 @@ Minhas restrições para que algo vire um hábito em minha vida, quando tarefas,
 
 Passado por esse checklist, podemos montar um esquema tão simples que qualquer bobo que tem um blogue (por exemplo, eu) conseguirá executar diariamente, ou pelo menos quando tiver vontade. A freqüência dependerá se isso irá se transformar em um hábito ou não.
 
-Ele pode não parecer, mas é beeem mais antigo do que parece. Nós, veteranos, que possuímos mais anos de vida em frente ao monitor que gostaríamos de admitir (copyright  => [DQ]), usávamos o xcopy para copiar pastas e disquetes inteiros no MS-DOS, um sistema operacional predecessor do Windows Vista que vinha em preto e branco e sem User Account Control.
+Ele pode não parecer, mas é beeem mais antigo do que parece. Nós, veteranos, que possuímos mais anos de vida em frente ao monitor que gostaríamos de admitir (copyright  => "DQ"), usávamos o xcopy para copiar pastas e disquetes inteiros no MS-DOS, um sistema operacional predecessor do Windows Vista que vinha em preto e branco e sem User Account Control.
 
 No entanto, esse pequeno grande aplicativo sobreviveu todos esses anos, atingiu a maioridade, e hoje permite a nós, programadores de mouse, fazer nossos backups com um simples arquivo de batch e um pouco de imaginação.
 
@@ -11488,7 +11380,6 @@ Fico feliz que tenha sido útil para você o inovador sistema de backup que se u
 
 []s
 
-[DQ]: http://dqsoft.blogspot.com/
 
 # EPA-CCPP 4: nossa comunidade ganhando forma
 date: 2008-03-29
@@ -11547,7 +11438,7 @@ Aproveito o final deste artigo para mais uma vez agradecer toda a organização 
 
 #### // Comments
 
-2008-04-10 [Alberto Fabiano]:
+2008-04-10 "Alberto Fabiano":
 
 Caloni,
 
@@ -11563,7 +11454,6 @@ Vocês fez cada de surpreso incrédulo, foi isto o que vc fez na hora! E confess
 
 []s
 
-[Alberto Fabiano]: http://techberto.wordpress.com
 
 # Try-catch flutuante
 date: 2008-04-03
@@ -11754,7 +11644,7 @@ Este é outro uso curioso do try que eu resolvi comentar aqui.
 
 ---
 
-2008-04-16 [PopolonY2k]:
+2008-04-16 "PopolonY2k":
 
 Grande blog...
 
@@ -11772,7 +11662,6 @@ PopolonY2k
 
 PlanetaMessenger.org
 
-[PopolonY2k]: http://www.planetamessenger.org
 
 # Conversor de Houaiss para Babylon - parte 2
 date: 2008-04-08
@@ -11907,7 +11796,7 @@ O projeto atual está um tanto capenga, mas já desencripta os arquivos do Houai
 
 #### // Comments
 
-2009-02-09 [Renan de Araujo]:
+2009-02-09 "Renan de Araujo":
 
 Olá! queria agradecer pelo esforço de criar o programa, mas tenho também uma pergunta:
 
@@ -12149,7 +12038,7 @@ Fico feliz que tenha conseguido compilar e usar meu pequeno e singelo programinh
 
 ---
 
-2008-07-09 [Roberto Bechtlufft]:
+2008-07-09 "Roberto Bechtlufft":
 
 Estou interessadíssimo nisso, mas tive algum problema. Quando executo o Houaiss2Babylon nada acontece. A tela do cmd só pipoca rapidamente na tela. Quando tento executar pelo cmd, entro o comando e nada. Minha pasta Dicionário tem vários arquivos dhx.
 
@@ -12295,7 +12184,7 @@ Olá, Willians.
 
 Agora que me toquei: você deve estar usando a versão antiga, não?
 
-A versão para usuário (ainda beta) está disponível (2026-03-21 não mais) [neste outro artigo].
+A versão para usuário (ainda beta) está disponível (2026-03-21 não mais) "neste outro artigo".
 
 Boa sorte!
 
@@ -12373,9 +12262,6 @@ Se você não é, então terá que esperar pelo menos uns dois meses, depois que
 
 []s
 
-[Renan de Araujo]: http://www.renanimated.com
-[Roberto Bechtlufft]: http://eufedorotufedoraselefedora.wordpress.com
-[neste outro artigo]: houaissparababylon_beta
 
 # Linux e o DHCP
 date: 2026-03-21
@@ -12564,9 +12450,9 @@ Depurar é um processo que exige dedicação (experiência) tanto ou mais do que
 
 #### // Comments
 
-2008-04-11 [Daniel Quadros]:
+2008-04-11 "Daniel Quadros":
 
-Propaganda inevitável: [aqui] tem um livro gratuito sobre programação assembler 16 bits no PC.
+Propaganda inevitável: aqui tem um livro gratuito sobre programação assembler 16 bits no PC: "PC Assember Volume I"
 
 ---
 
@@ -12584,8 +12470,6 @@ Outro uso interessante é em pesquisas de otimização: saber como o compilador 
 
 Eu já usei esse método para tirar umas duvidas de asm, geralmente eu escrevo um código em C e depuro ele.
 
-[Daniel Quadros]: http://dqsoft.blogspot.com
-[aqui]: http://dqsoft.blogspot.com/2007/09/pc-assember-volume-i.html
 
 # Guia básico de controles de código distribuído
 date: 2008-04-15
@@ -12598,7 +12482,7 @@ Já escrevi a respeito da importância de controlar e gerenciar o código-fonte 
 
 Na época, discursei brevemente sobre alguns exemplos de gerenciadores de fonte que utilizam modelo centralizado, e nos exemplos práticos usamos o famigerado Source Safe, velho amigo de quem já programa ou programou Windows por alguns anos. Além dele, temos os conhecidíssimos CVS e Subversion, ambos largamente utilizados no mundo todo.
 
-No entanto, uma nova forma de controlar fontes está nascendo já há algum tempo, com relativo sucesso e crescentes esperanças: o modelo distribuído. Nesse tipo de gerenciamento, a liberdade aumenta exponencialmente, permitindo coisas que no modelo antigo seriam muito difíceis de serem implementadas. Não vou me delongar explicando a teoria por trás da idéia, sabendo que, além de existir um ótimo texto explicando as vantagens em cima do modelo centralizado [disponível na web], o próprio sítio das implementações atuais explica a idéia de maneira muito convincente. E são elas:
+No entanto, uma nova forma de controlar fontes está nascendo já há algum tempo, com relativo sucesso e crescentes esperanças: o modelo distribuído. Nesse tipo de gerenciamento, a liberdade aumenta exponencialmente, permitindo coisas que no modelo antigo seriam muito difíceis de serem implementadas. Não vou me delongar explicando a teoria por trás da idéia, sabendo que, além de existir um ótimo texto explicando as vantagens em cima do modelo centralizado "disponível na web", o próprio sítio das implementações atuais explica a idéia de maneira muito convincente. E são elas:
 
 "Mercurial" (ou hg). Sem dúvida o mais fácil de usar. Bem documentado e com comandos intuitivos para o usuário, vem ganhando mais adeptos a cada dia. Seu desempenho é comparável ao do Git, e seu sistema de arquivos é bem eficiente.
 
@@ -12694,7 +12578,6 @@ Valeu! Na verdade, agora estou testando também o Bazaar... é uma escolha difí
 
 []s
 
-[disponível na web]: http://ianclatworthy.files.wordpress.com/2007/10/dvcs-why-and-how3.pdf
 "Bazaar": https://en.wikipedia.org/wiki/GNU_Bazaar
 
 # Crash Dump Analysis: o livro
@@ -12861,13 +12744,13 @@ FIM
 []s
 ```
 
-Strauss -- Legal. Vou colocar minha água mercadológica no feijão e [colocar no site].
+Strauss -- Legal. Vou colocar minha água mercadológica no feijão e "colocar no site".
 
 Update 2026-02-12 fiz umas pequenas alterações no texto original, mas não adicionei nada, como minha sugestão do passado de colocar, além de rapidez, a economia de recursos. É incrível o quanto progredimos no quesito hardware todos esses anos, e mesmo assim, existem linguagens e ambientes que parecem ter fome suficiente para consumir tudo e deixar um computador de última geração parecer um micro "meio lerdinho". Felizmente não preciso dar nome aos bois, pois todos sabem ou conhecem pelo menos uma linguagem (ou programador) com essa característica.
 
-Também não quis generalizar. C e C++ não são as duas únicas opções quando se fala em bom desempenho. Existe também assembly e [linguagens de script], que chegam inclusive a ser mais flexíveis e rápidas (além de mais produtivas).
+Também não quis generalizar. C e C++ não são as duas únicas opções quando se fala em bom desempenho. Existe também assembly e "linguagens de script", que chegam inclusive a ser mais flexíveis e rápidas (além de mais produtivas).
 
-Ainda acredito em tudo isso que C++ proporciona e irá continuar proporcionando por muto tempo. Muitos programas escritos em C/C++ são conhecidíssimos e usados nos quatro cantos do mundo, muitas vezes em mais de um sistema operacional. C++ está morto? Longe disso... talvez pareça assim em território nacional, mas esse é o motivo de meus [votos de sucesso] no início de nosso grupo C++.
+Ainda acredito em tudo isso que C++ proporciona e irá continuar proporcionando por muto tempo. Muitos programas escritos em C/C++ são conhecidíssimos e usados nos quatro cantos do mundo, muitas vezes em mais de um sistema operacional. C++ está morto? Longe disso... talvez pareça assim em território nacional, mas esse é o motivo de meus "votos de sucesso" no início de nosso grupo C++.
 
 #### // Comments
 
@@ -12883,9 +12766,6 @@ PS: Gostei da contextualização da mensagem de startup que você enviou ao grup
 
 []s
 
-[colocar no site]: http://www.1bit.com.br/content.1bit/weblog/ode_cpp
-[linguagens de script]: http://www.python.org/
-[votos de sucesso]: http://groups.google.com/group/ccppbrasil/msg/64f084207c068689
 
 # CSI: Crashed Server Investigation?
 date: 2008-04-23
@@ -13038,7 +12918,7 @@ E foi isso! É a segunda vez que tento fazer algo simples no Linux e me dou mal.
 
 #### // Comments
 
-2008-05-01 [Alberto Fabiano]:
+2008-05-01 "Alberto Fabiano":
 
 E tão maravilhoso quanto o tar é o distutils que foi isto que você utilizou quando executou o "python setup.py install".
 
@@ -13052,7 +12932,7 @@ E é isto aí... para mim programação é muito mais que profissão, é divers�
 
 ---
 
-2008-04-30 [Daniel Quadros]:
+2008-04-30 "Daniel Quadros":
 
 Ah, as maravilhas do tar! Espero que tenham te explicado todas estas letrinhas, senão use "man tar" ou "info tar".
 
@@ -13081,8 +12961,6 @@ Espero que esse projeto de Python em celulares dê muito certo; pois irá elevar
 []s
 
 "Bazaar": http://bazaar-vcs.org/
-[Alberto Fabiano]: http://techberto.wordpress.com
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # Acessando memória física no WinDbg
 date: 2008-05-01
@@ -13186,7 +13064,7 @@ Espero que seja de bom uso de todos os que se interessam por mouses clicando, xa
 
 #### // Comments
 
-2008-05-05 [Marcio Andrey Oliveira]:
+2008-05-05 "Marcio Andrey Oliveira":
 
 Muito legal a tua iniciativa. Espero que ela ajude a divulgar o MouseTool e o bazaar.
 
@@ -13204,7 +13082,6 @@ Também espero isso. Com relação aos protocolos suportados, o Bazaar possui um
 
 []s
 
-[Marcio Andrey Oliveira]: http://marcioandreyoliveira.blogspot.com/
 
 # Read The Functional Manual
 date: 2008-05-07
@@ -13216,7 +13093,7 @@ Percebi essa semana que talvez boa parte da população informática que não pr
 
 Se você quer dominar um assunto, ou aprender sobre ele, saiba que existem estágio nesse processo. O primeiro estágio é formado principalmente por livros. Se você quer aprender algo, e tem livros sobre o assunto, você é um cara sortudo e feliz.
 
-Eu concordo com [o cara do 1bit] quando ele diz que livros são MUITO importantes. Provavelmente eu não seria metade do programador que me considero hoje se só tivesse a experiência, mas não a base fundamental necessária para realmente progredir no que se gosta.
+Eu concordo com "o cara do 1bit" quando ele diz que livros são MUITO importantes. Provavelmente eu não seria metade do programador que me considero hoje se só tivesse a experiência, mas não a base fundamental necessária para realmente progredir no que se gosta.
 
 Para algumas coisas pode não existir um livro bem estruturado e organizado nos moldes de "pra iniciante". Nesse caso, na maioria das vezes existe pelo menos o chamado tutorial, ou guia do usuário, que dá o pontapé inicial na cabeça do cara que quer começar a mexer com algum negócio novo.
 
@@ -13234,7 +13111,7 @@ Atualmente existem diversas formas do google te ajudar a encontrar o que você p
 
 É assim que você irá começar a pedir ajuda das pessoas: indiretamente. Não se pergunta nada que já tenha sido respondido. Porque é uma perda de tempo dos dois lados. Do lado que pergunta porque sua resposta já pode estar prontinha em algum canto da web. Do lado que responde porque a pessoa terá que achar o lugar onde respondeu a mesma pergunta, copiar e colar (ou simplesmente ignorar, o que te fará perder mais tempo).
 
-Você já devia saber disso. Faz parte da [netiqueta], o guia mundial de bom uso da internet. O quê? Você nunca leu a netiqueta? Se nunca, então comece por lá. Depois venha fazer perguntas interessantes.
+Você já devia saber disso. Faz parte da "netiqueta", o guia mundial de bom uso da internet. O quê? Você nunca leu a netiqueta? Se nunca, então comece por lá. Depois venha fazer perguntas interessantes.
 
 Tudo bem, você não conseguiu achar nenhum livro a respeito, não existe tutorial no mundo que resolva o seu problema, e todas as pessoas que possuem a resposta falam e escrevem em mandarim, ou algum outro idioma baseado em pegadas de passarinhos (o google ainda não traduz isso ainda muito bem). Nesse último caso, você ainda tem duas escolhas, sendo a mais fácil delas perguntar para quem entende.
 
@@ -13276,8 +13153,6 @@ Eu fico especialmente grato quando sei que o blogue ajudou alguém, o que quer d
 
 []s
 
-[o cara do 1bit]: http://www.1bit.com.br
-[netiqueta]: https://pt.wikipedia.org/wiki/Netiqueta
 
 # Como tratar um merge no Bazaar
 date: 2008-05-09
@@ -13468,7 +13343,7 @@ Text conflict in bzppilot.cpp
 
 Usamos merge no lugar do pull e ganhamos agora um conflito no arquivo bzppilot.cpp, nosso único arquivo. Vamos ver a bagunça que fizemos?
 
-A última coisa que um controle de fonte quer fazer é confundir ou chatear o usuário. Por isso mesmo, a maioria dos conflitos que o Bazaar encontrar nos fontes serão resolvidos usando o algoritmo "se só um mexeu, então coloca a mudança". A tabela do [guia do usuário] ilustra esse algoritmo em possibilidades:
+A última coisa que um controle de fonte quer fazer é confundir ou chatear o usuário. Por isso mesmo, a maioria dos conflitos que o Bazaar encontrar nos fontes serão resolvidos usando o algoritmo "se só um mexeu, então coloca a mudança". A tabela do "guia do usuário" ilustra esse algoritmo em possibilidades:
 
 ```
 | ancestor | first_branch | second_branch | result  | comment          |
@@ -13630,7 +13505,6 @@ Um erro comum que pode acontecer é supor que o arquivo original está do jeito 
 
 Enfim, tudo que temos que lembrar durante um merge do Bazaar é ver os conflitos ainda não resolvidos direto no fonte e alterá-los de acordo com o problema. O resto é codificar.
 
-[guia do usuário]: http://doc.bazaar-vcs.org/bzr.dev/en/user-guide/#merging-changes
 
 # Como Fazer Debug de User Mode pelo Kernel Mode
 date: 2008-05-13
@@ -13646,7 +13520,7 @@ Mas que mané WinDbg? Que mané atachar? Nessa hora nós temos bem menos do que 
 
 Nessas horas o único que pode nos ajudar é o kernel debugger.
 
-Os depuradores do pacote Debugging Tools (especialmente o ntsd e o cdb) suportam o funcionamento em modo proxy, ou seja, eles apenas redirecionam a saída e os comandos entre as duas pontas da depuração (o depurador e o depurado). Isso é comumente usado em [depuração remota] e [depuração de kernel], quando o sistema inteiro está congelado. O objetivo aqui é conseguir os dois: depurar remotamente um processo em um sistema que está travado.
+Os depuradores do pacote Debugging Tools (especialmente o ntsd e o cdb) suportam o funcionamento em modo proxy, ou seja, eles apenas redirecionam a saída e os comandos entre as duas pontas da depuração (o depurador e o depurado). Isso é comumente usado em "depuração remota" e "depuração de kernel", quando o sistema inteiro está congelado. O objetivo aqui é conseguir os dois: depurar remotamente um processo em um sistema que está travado.
 
 Para isso podemos nos utilizar do parâmetro -d, que manda o depurador redirecionar toda saída e controle para o depurador de kernel. Para que isso funcione o depurador já deve estar atachado no sistema-alvo. A coisa funciona mais ou menos assim:
 
@@ -13686,8 +13560,6 @@ input> l+* $$ habilita uso de código-fonte no ntsd
 
 Um tipo de problema que só pode ser depurado dessa maneira enfatiza a importância do uso de unit tests, além de um controle de qualidade mais aguçado antes de liberar uma versão para o cliente.
 
-[depuração remota]: windbg_a_distancia
-[depuração de kernel]: http://www.driverentry.com.br
 
 # Aquele do-while engraçado
 date: 2008-05-15
@@ -13908,7 +13780,7 @@ Existem algumas outras opções como arrastar-e-soltar e clique-duplo, ambas dis
 
 O MouseTool originalmente foi uma ferramente de fonte aberto. Isso significa que a última versão do código-fonte está disponível, certo? Errado. Na verdade, eu não consegui, por mais que tentasse achar,  a versão para baixar do código.
 
-Felizmente meu amigo [Marcio Andrey] já havia baixado o fonte algum tempo atrás e, assim como eu, ele gostaria de torná-lo disponível para todos que gostassem de usá-lo e alterá-lo. Por isso que estou publicando-o aqui. Ele é gratuito e aberto. Façam o que quiserem com ele =).
+Felizmente meu amigo Marcio Andrey já havia baixado o fonte algum tempo atrás (update 2026-06-06 mas não mais disponível) e, assim como eu, ele gostaria de torná-lo disponível para todos que gostassem de usá-lo e alterá-lo. Por isso que estou publicando-o aqui. Ele é gratuito e aberto. Façam o que quiserem com ele =).
 
 Vamos aproveitar o código-fonte e mostrar como explorar um código não escrito por nós. Normalmente as primeiras coisas a fazer são: baixar o arquivo compactado e descompactá-lo dentro de uma nova pasta. Dessa forma encontramos o arquivo de projeto (nesse caso, MouseTool.dsw) e tentamos abri-lo. Falhando de início miseravelmente porque acredito que ninguém mais utilize a versão do Visual Studio que abre isso.
 
@@ -13916,10 +13788,8 @@ Normalmente programadores de projetos de fonte aberto estão acostumados a obter
 
 Por exemplo, dados os arquivos-fonte, nós podemos explorar algumas partes interessantes de coisas que gostaríamos de fazer em nossos próprios programas. São trechos pequenos de código que fazem coisas úteis que gastaríamos algumas horas/dias para pesquisar na internet e achar a resposta procurada. Através de um projeto de fonte aberto, conseguimos usar um programa e ao mesmo tempo aprender seu funcionamento. E a principal parte é: nós temos o fonte, mas não os direitos autorais.
 
-PS: MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nome é [GMouseTool], projeto criado por Márcio de Oliveira.
+PS: MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nome é "GMouseTool", projeto criado por Márcio de Oliveira.
 
-[Marcio Andrey]: http://marcioandreyoliveira.blogspot.com/search/label/GMouseTool
-[GMouseTool]: http://gmousetool.sourceforge.net
 
 # Aprendendo rapidamente conceitos essenciais do WinDbg
 date: 2008-05-23
@@ -13929,7 +13799,7 @@ tags: computer windbg blog
 
 Todo o poder e flexibilidade do pacote Debugging Tools da Microsoft pode ser ofuscado pela sua complexidade e curva de aprendizagem. Afinal de contas, usar o depurador do Visual Studio é muito fácil, quando se começa a usar, mas mesmo assim conheço muitos programadores que relutam em depurar passo-a-passo, preferindo a depuração por meio de "MessageBoxes" ou saídas na tela. Imagine, então, a dificuldade que não é para quem conseguiu às duras penas aprender a tornar um hábito a primeira passada do código novo em folha através do F10 começar a fazer coisas como configurar símbolos e digitar comandos esdrúxulos em uma tela em modo texto. Para piorar a questão, existem aqueles que defendem o uso unificado de uma ferramenta que faça tudo, como um telefone celular. Eu discordo. Quando a vantagem competitiva de uma ferramenta sobre outra é notável, nada pior que ficar preso em um ambiente legalzinho que faz o mínimo para você, mas não resolve o seu problema de deadlock.
 
-Foi pensando nessa dificuldade que foi escrita esta [apresentação nota dez] por Robert Kuster que explica todas as minúcias importantes para todo programador iniciante e experiente na arte de "WinDbgear". "WinDbg. From A to Z!" é uma ferramenta tão útil quanto o próprio WinDbg, pois explica desde coisas simples que deve-se saber desde o início, como configurar símbolos, quanto assuntos mais avançados, como depuração remota. Até para quem já está no nível avançado vale a pena relembrar detalhes.
+Foi pensando nessa dificuldade que foi escrita esta "apresentação nota dez" por Robert Kuster que explica todas as minúcias importantes para todo programador iniciante e experiente na arte de "WinDbgear". "WinDbg. From A to Z!" é uma ferramenta tão útil quanto o próprio WinDbg, pois explica desde coisas simples que deve-se saber desde o início, como configurar símbolos, quanto assuntos mais avançados, como depuração remota. Até para quem já está no nível avançado vale a pena relembrar detalhes.
 
 Mesmo tentando ser sucinto, o assunto ocupou um conjunto de 111 transparências que demoram de uma a duas horas de leitura cuidadosa, se você não fizer testes durante o trajeto. Entre as coisas que eu li e reli, segue uma lista importante para nunca ser esquecida (entre parênteses o número das transparências que considero mais importantes):
 
@@ -13969,22 +13839,20 @@ No final, duas dicas importantíssimas do autor para quem deseja se aventurar ne
 
 Se você ainda não teve tempo de se dedicar à depuração avançada em Windows e pensa que nunca terá, dedique duas horinhas divididas em períodos de 15 minutos por dia para explorar esse fantástico tutorial, que com certeza, se bem aplicado, reduzirá exponencialmente seu tempo de resolução de problemas.
 
-Existe uma [tradução para inglês] desse texto no saite do próprio Robert Kuster, que usou-o como uma espécie de introdução.
+Existe uma "tradução para inglês" desse texto no saite do próprio Robert Kuster, que usou-o como uma espécie de introdução.
 
-[apresentação nota dez]: http://windbg.info/download/doc/pdf/WinDbg_A_to_Z_color.pdf
-[tradução para inglês]: http://windbg.info/doc/2-windbg-a-z.html
 
 # How to run anything as a service
 date: 2008-05-27
 tags: computer english blog
 
-Update 2026-02-20: Many years ago I switched from this solution to [NSSM], which I highly recommend. It has been used in robust products and avoids having to maintain redundant code to support programs that weren't designed to be services, but need to run independently of the user's account.
+Update 2026-02-20: Many years ago I switched from this solution to "NSSM", which I highly recommend. It has been used in robust products and avoids having to maintain redundant code to support programs that weren't designed to be services, but need to run independently of the user's account.
 
 The biggest advantage running an application as a service, interactive or not, is to allow its start before a logon be performed. An example that happens to me is the need of debugging a "GINA". In order to do this, I need the Visual Studio remote debugger be started before logon. The easiest and fastest solution is to run Msvcmon, the server part of debugging, as a service.
 
 Today I've figured out a pretty interesting shortcut to achieve it.
 
-An [Alex Ionescu article] talks about this command line application used to create, initiate and remove services. Even not being the article focus, I found the information pretty useful, since I didn't know such app. Soon some ideas starting to born in my mind:
+An "Alex Ionescu article" talks about this command line application used to create, initiate and remove services. Even not being the article focus, I found the information pretty useful, since I didn't know such app. Soon some ideas starting to born in my mind:
 
 "What if I used this guy to run notepad?"
 
@@ -14002,7 +13870,7 @@ The service is not responding to the control function.
 More help is available by typing NET HELPMSG 2186.
 ```
 
-As would say my friend [Thiago], "not good".
+As would say my friend "Thiago", "not good".
 
 "Yet however", SCM doesn't kill the child processes from the service-process. Bug? Feature? Workaround? Whatever it is, it can be used to initiate our beloved msvcmon:
 
@@ -14015,9 +13883,6 @@ Now, when we start Msvcmon service, the process cmd.exe will be create, that on 
 
 ![MsvcMon Service](how_to_run_anything_as_a_service_msvcmon_service.png)
 
-[Alex Ionescu article]: http://www.alex-ionescu.com/?p=59
-[Thiago]: http://codebehind.wordpress.com
-[NSSM]: https://nssm.cc/
 
 # Como criar uma LIB no Visual Studio
 date: 2008-05-29
@@ -14140,13 +14005,13 @@ Isso resolve o problema de organização e compilação quando temos dezenas de 
 
 #### // Comments
 
-2008-05-30 [Bruno Sanches]:
+2008-05-30 "Bruno Sanches":
 
 Bela explicação de como criar uma lib. Um outro detalhe que server de estimulo é que no visual 2005 as libs são compiladas em paralelo se a sua maquina for multicore (se tiver dois cores, por exemplo, vai compilar duas libs ao mesmo tempo). No visual 2008 isso parece que ocorre para arquivos do projeto tambem. Sei que esse nao eh um real motivo para se criar uma lib, mas acelera bastante a compilacao.
 
 ---
 
-2008-05-30 [Daniel Quadros]:
+2008-05-30 "Daniel Quadros":
 
 A grande motivação para gerar uma lib é facilitar o reaproveitamento de código, usando a mesma lib em vários projetos. Um outro uso frequente (mais comum com a prima dinâmica da lib, a dll) é para fornecer uma interface (API) para outros programadores.
 
@@ -14190,8 +14055,6 @@ Fico contente que o tutorial tenha sido útil para quem está começando. Essa f
 
 []s
 
-[Bruno Sanches]: http://bcsanches.wordpress.com
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # Resultado do Seminário CCPP
 date: 2008-06-03
@@ -14306,9 +14169,9 @@ Boa pergunta, Tiago!
 
 Geralmente fica sob responsabilidade dos próprios palestrantes a divulgação de suas apresentações. Portanto, fique de olho em seus blogues ou na própria lista CCPP. Seguem os linques que conheço:
 
-- [Fábio Gallupo]
+- "Fábio Gallupo"
 
-- [Rodrigo Strauss]
+- "Rodrigo Strauss"
 
 []s
 
@@ -14332,8 +14195,6 @@ Fico feliz também que tenha gostado do encontro. Eu também gostei muito e acre
 
 []s
 
-[Fábio Gallupo]: http://fabiogaluppo.spaces.live.com
-[Rodrigo Strauss]: http://www.1bit.com.br
 
 # Launchpad e a democracia do código-fonte
 date: 2008-06-04
@@ -14359,7 +14220,7 @@ bzr branch lp:project_name
 
 Assim como é possível usar comandos de repositório, também é possível navegar pelo histórico de mudanças do projeto simplesmente usando os linques acima no navegador de sua preferência. E é nessa hora que começa a ficar interessante publicar seu projeto na web. Por falar nisso, que tal aprender como criar seu próprio projeto no Launchpad?
 
-Tudo que precisamos é de um login, facilmente obtido na página principal, e de registrar um projeto. Para criar o primeiro branch e fazermos alterações precisaremos também de um par de chaves pública e privada para a conexão SSH criada automaticamente pelo Bazaar. Tudo isso é facilmente possível com o uso das ferramentas do [Putty], um cliente SSH para Windows.
+Tudo que precisamos é de um login, facilmente obtido na página principal, e de registrar um projeto. Para criar o primeiro branch e fazermos alterações precisaremos também de um par de chaves pública e privada para a conexão SSH criada automaticamente pelo Bazaar. Tudo isso é facilmente possível com o uso das ferramentas do "Putty", um cliente SSH para Windows.
 
 Dessa forma os passos são os seguintes:
 
@@ -14379,7 +14240,6 @@ Simples e direto. E funciona!
 
 Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador de chaves em vez de copiar diretamente do arquivo da chave pública para o cadastro no saite. Guarde bem essas chaves com você, pois você as usará sempre que necessário fazer uma modificação no projeto.
 
-[Putty]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
 # Declaração x definição
 date: 2008-06-06
@@ -14488,7 +14348,7 @@ Se vermos pelo lado prático, de qualquer forma seria impossível definir uma va
 
 #### // Comments
 
-2008-06-19 [Marcio Andrey Oliveira]:
+2008-06-19 "Marcio Andrey Oliveira":
 
 Nunca vi uma explicação mais didática. A analogia com o hardware / software é ótima. Parabéns.
 
@@ -14502,7 +14362,6 @@ Considero essa diferença uma das coisas mais difíceis para o iniciante entende
 
 []s
 
-[Marcio Andrey Oliveira]: http://marcioandreyoliveira.blogspot.com
 
 # Guia básico de repositórios no Bazaar
 date: 2008-06-10
@@ -14670,7 +14529,7 @@ Na verdade, o Bazaar vai além, e permite que um branch/checkout específico sej
 
 #### // Comments
 
-2008-06-12 [Mounter]:
+2008-06-12 "Mounter":
 
 Muito interessante o tutorial, atualmente ando procurando um programa para gerenciar meus projetos e quem sabe comece a usa-lo!
 
@@ -14684,7 +14543,6 @@ Dê uma olhada também no "Mercurial", para ver qual dos dois cabe melhor no tip
 
 []s
 
-[Mounter]: http://www.codimark.com/blog/
 
 # Primeiro ano do novo Caloni.com.br
 date: 2008-06-13
@@ -14692,7 +14550,7 @@ tags: archive
 
 Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o meu dia-a-dia real.
 
-No dia 14 de junho de 2007 foram publicadas as [boas vindas], e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse jogo de xadrez tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de 130 artigos e 182 comentários dentro de 29 categorias.
+No dia 14 de junho de 2007 foram publicadas as "boas vindas", e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse jogo de xadrez tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de 130 artigos e 182 comentários dentro de 29 categorias.
 
 E por falar em variedade, falamos de vários assuntos desde o início. Entre um devaneio e outro, conseguimos explorar algumas particularidades das linguagens C/C++, o funcionamento obscuro do Windows, algumas dicas sobre programação e ferramentas, e até tivemos tempo de explorar coisas mais específicas, como depuração, engenharia reversa, controle de fonte e C++ Builder.
 
@@ -14730,7 +14588,6 @@ Das novidades que aconteceram durante esse ano, a maior e mais interessante foi 
 
 Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interessadas em C++ do que eu mesmo, até porque isso me dá muito mais tempo para escrever sobre outras coisas que não seja C++ que, admiro humildemente, não chego a usar 20% no meu dia-a-dia.
 
-[boas vindas]: hello_world2
 
 # Como fazer merge de projetos distintos no Bazaar
 date: 2008-06-16
@@ -14990,7 +14847,7 @@ E essa é a melhor parte de descobrir um padrão em um tipo: o template nasce qu
 
 #### // Comments
 
-2008-06-26 [Daniel Quadros]:
+2008-06-26 "Daniel Quadros":
 
 Caloni,
 
@@ -15014,7 +14871,6 @@ PS-reply: Mmmmm... bolo ou torta, ambos são deliciosos. Mamão eu não curto mu
 
 []s
 
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # É possível carregar duas DLLs gêmeas no mesmo processo?
 date: 2008-06-21
@@ -15203,7 +15059,7 @@ bar branch \\desenvolvedor\src\novo-projeto\novo-projeto novo-projeto\novo-proje
 
 O Bazzar possui um esquema de servidor embutido nele, que fica escutando em uma porta e se comunica em um protocolo otimizado. Nós gostamos desse esquema, pois protege os projetos de acidentes de usuários que podem apagar uma pasta sem querer.
 
-Para manter o Bazaar eternamente rodando, usamos [o programa do DriverEntry] que transforma qualquer coisa no formato de um serviço [de gelo].
+Para manter o Bazaar eternamente rodando, usamos "o programa do DriverEntry" que transforma qualquer coisa no formato de um serviço "de gelo".
 
 ```
 prog2svc -add Bazaar "c:\program files\Bazaar\bzr.exe serve --allow-writes --diretory=c:\src"
@@ -15297,8 +15153,6 @@ Existem diversas outras formas de usar o Bazaar, e isso está sob o controle do 
 
 Para os "SourceSafers" de plantão: o Bazaar funciona como o Subversion sem locks, ou seja, todo mundo pode alterar qualquer fonte a qualquer hora. Isso significa que para começar a trabalhar basta começar a programar. Os commits podem ser feitos a qualquer hora, resolvidos os poucos conflitos que podem ocorrer se existirem pessoas mexendo nos mesmos fontes que você.
 
-[o programa do DriverEntry]: http://www.driverentry.com.br/blog/2007/02/prog2svc-servio-sem-trabalho.html
-[de gelo]: http://en.wikipedia.org/wiki/Wonder_Twins
 
 # Primeiros passos na documentação de código-fonte usando Doxygen
 date: 2008-06-26
@@ -15513,7 +15367,7 @@ Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornan
 
 #### // Comments
 
-2008-10-21 [Bruno Moreira Guedes]:
+2008-10-21 "Bruno Moreira Guedes":
 
 Muito interessante o post!!
 
@@ -15535,14 +15389,12 @@ Abraços
 
 ---
 
-2008-09-02 [Felipe Silveira]:
+2008-09-02 "Felipe Silveira":
 
 Sim, esta técnica é muito interessante. E se aplica não só ao pattern MVC, mas também a alguns patterns do GoF, que podem ser implementados usando esta técnica.
 
 Parabéns pelo artigo.
 
-[Felipe Silveira]: http://www.felipesilveira.com.br
-[Bruno Moreira Guedes]: http://brunildz.blogspot.com/
 
 # Pesquisas sobre a GINA
 date: 2008-07-02
@@ -15595,13 +15447,13 @@ Pause Momentâneo   Não     Sim.
 
 #### // Comments
 
-2008-07-07 [Marcio Andrey Oliveira]:
+2008-07-07 "Marcio Andrey Oliveira":
 
 Wanderley, até um tempo atrás, estas funcionalidades só estavam disponíveis em uma versão paga do VirtualBox.
 
 Como deves ter baixado a versão OSE (Open Source Edition), creio que elas não estarão funcionando mesmo.
 
-Se fores em [VirtualBox and open source] verás quais características só estão disponíveis para os pagante$.
+Se fores em "VirtualBox and open source" verás quais características só estão disponíveis para os pagante$.
 
 ---
 
@@ -15615,8 +15467,6 @@ Tudo bem essas funcionalidades não funcionarem por estarem desabilitadas na ver
 
 []s
 
-[Marcio Andrey Oliveira]: http://marcioandreyoliveira.blogspot.com
-[VirtualBox and open source]: http://www.virtualbox.org/wiki/Editions
 
 # Projeto-modelo
 date: 2008-07-08
@@ -15775,7 +15625,7 @@ A versão beta do Houaiss2Babylon está para sair. Não estarei mais atualizando
 
 #### // Comments
 
-2008-07-14 [Daniel Quadros]:
+2008-07-14 "Daniel Quadros":
 
 Caloni,
 
@@ -15791,7 +15641,7 @@ Daniel
 
 ---
 
-2008-07-15 [Daniel Quadros]:
+2008-07-15 "Daniel Quadros":
 
 Caloni,
 
@@ -15893,7 +15743,6 @@ No momento, parabenizo-o pelo seu empenho e peço que dê uma garimpada no algor
 
 []s
 
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # O caso da função desaparecida
 date: 2008-07-16
@@ -16218,7 +16067,7 @@ void ExecutionThread()
 
 The execution thread algorithm is the same. Just the point where each instruction is executed depends to the exception throw system. Note that this exception has to be thrown in order to the next instruction run. This is fundamental, since this way nobody can just rip of the int 3 code to avoid the exception. If one does that, so no instruction will be executed at all.
 
-In practice, if one tries to debug such a program one will have to deal with tons of exceptions until find out what's happening. Of course, as in every software protection, is's not definitive; it has as a purpose to make hard the reverse engineering understanding. That's not going to stop those who are [really good] doing that stuff.
+In practice, if one tries to debug such a program one will have to deal with tons of exceptions until find out what's happening. Of course, as in every software protection, is's not definitive; it has as a purpose to make hard the reverse engineering understanding. That's not going to stop those who are "really good" doing that stuff.
 
 Nothing is for free
 
@@ -16392,7 +16241,6 @@ The strength in this protection is to annoy the attacker easily in the first ste
 
 In the next part we will se an alternative to make the code clearer and easy to use in the every day by a security software developer.
 
-[really good]: https://archive.org/details/codebreakers_journal_vol1no2_7
 
 # Antidebugging using exceptions (part two)
 date: 2008-07-30
@@ -16883,7 +16731,7 @@ Agora só falta começar =).
 
 #### // Comments
 
-2008-08-11 [AF.]:
+2008-08-11 "AF.":
 
 Olá, Caloni.
 
@@ -16893,7 +16741,7 @@ Que mancada! Felizmente, aprendi algo  com esta gafe.
 
 ---
 
-2008-08-08 [AF.]:
+2008-08-08 "AF.":
 
 Realmente a idéia do guia é excelente, mas um livro que também não está na lista do Vostokov, que eu também gosto muito e recomendo  é o Windows NT Device Driver Development do Viscarola. Acho ele melhor que o livro do Art Baker e do Lozano.
 
@@ -16921,7 +16769,6 @@ Na verdade, esse livro está, sim, só que infelizmente não com a mesma capa, e
 
 []s
 
-[AF.]: http://techberto.wordpress.com
 
 # Guia para iniciantes no DriverEntry
 date: 2008-08-11
@@ -16968,7 +16815,7 @@ Tudo isso aliado aos exemplos e à teoria latente do Windows 2000 Device Driver 
 
 #### // Comments
 
-2008-08-11 [AF.]:
+2008-08-11 "AF.":
 
 Olá, Caloni.
 
@@ -16992,7 +16839,6 @@ Meu Deus, eu sou cego!"
 
 Fonte: http://www.driverentry.com.br/blog/2007/06/comear-de-novo.html (2026-03-21 link quebrado)
 
-[AF.]: http://techberto.wordpress.com
 
 # Quando o navegador não quer largar um arquivo
 date: 2008-08-13
@@ -17050,7 +16896,7 @@ E agora posso voltar a armazenar meus vídeos favoritos.
 
 #### // Comments
 
-2008-08-13 [AF.]:
+2008-08-13 "AF.":
 
 Salve Caloni!
 
@@ -17074,7 +16920,7 @@ E para finalizar, curti o sistema de antispam... :D
 
 ---
 
-2008-08-13 [Daniel Quadros]:
+2008-08-13 "Daniel Quadros":
 
 Caloni,
 
@@ -17094,8 +16940,6 @@ De qualquer forma, esse exercício no WinDbg foi bom para não enferrujar ;)
 
 []s
 
-[AF.]: http://techberto.wordpress.com
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # Duas pequenas dicas para programar no caos
 date: 2008-08-15
@@ -17580,7 +17424,7 @@ E a propósito da discussão livros pequenos x livros gigantes, posso afirmar qu
 date: 2008-09-19
 tags: computer blog
 
-Tudo começou com o [artigo de Roberto Farah] sobre o comando "escondido" do WinDbg .cmdtree. Logo depois meus outros colegas do fã-clube do WinDbg [Volker von Einem] e [Dmitry Vostokov] (link apenas para membros) comentaram sobre a imensa utilidade desse comando. E não é pra menos. É de longe o melhor comando não-documentado do ano. Tão bom que sou obrigado a comentar em português sobre ele, apesar dos três artigos já citados.
+Tudo começou com o "artigo de Roberto Farah" sobre o comando "escondido" do WinDbg .cmdtree. Logo depois meus outros colegas do fã-clube do WinDbg "Volker von Einem" e "Dmitry Vostokov" (link apenas para membros) comentaram sobre a imensa utilidade desse comando. E não é pra menos. É de longe o melhor comando não-documentado do ano. Tão bom que sou obrigado a comentar em português sobre ele, apesar dos três artigos já citados.
 
 #### Comandos repetitivos
 
@@ -17600,16 +17444,12 @@ O resultado:
 
 ![.cmdtree](reuna_seus_comandos_mais_usados_no_windbg_com_cmdtree_cmdtree.png)
 
-E podemos usar essa janela no nosso WinDbg, cada vez mais bonitinho e cada vez mais [WYSIWYG]:
+E podemos usar essa janela no nosso WinDbg, cada vez mais bonitinho e cada vez mais "WYSIWYG":
 
 ![.cmdtree2.png](reuna_seus_comandos_mais_usados_no_windbg_com_cmdtree_cmdtree2.png)
 
 Realmente não há segredos em seu uso. Esse artigo foi apenas um patrocínio do clube do WinDbg.
 
-[artigo de Roberto Farah]: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/special-commandexecute-commands-from-a-customized-user-interface-with-cmdtree
-[Volker von Einem]: http://voneinem-windbg.blogspot.com/2008/09/amazing-helper-cmdtree.html
-[Dmitry Vostokov]: http://www.dumpanalysis.org/blog/index.php/2008/09/18/cmdtreetxt-for-cda-checklist/
-[WYSIWYG]: http://pt.wikipedia.org/wiki/Wysiwyg
 
 # V
 date: 2008-09-23
@@ -17672,7 +17512,7 @@ Se repararam, o número de palestras aumentou e o tempo para cada uma delas foi 
 
 #### Impressões do quinto encontro de CCPP (2008-10-07)
 
-Pois é, passou, acabou... e foi muito bom! E dessa vez me abstenho de fazer os comentários de sempre, visto que já está rolando uma discussão muito produtiva [em nosso grupo] sobre o resultado desse último encontro, opiniões que, sinceramente, já refletem os pensamentos de todos que participaram desse magnânimo encontro de usuários.
+Pois é, passou, acabou... e foi muito bom! E dessa vez me abstenho de fazer os comentários de sempre, visto que já está rolando uma discussão muito produtiva "em nosso grupo" sobre o resultado desse último encontro, opiniões que, sinceramente, já refletem os pensamentos de todos que participaram desse magnânimo encontro de usuários.
 
 #### // Comments
 
@@ -17680,7 +17520,6 @@ Pois é, passou, acabou... e foi muito bom! E dessa vez me abstenho de fazer os 
 
 Cada vez melhores esses eventos. Meu sonho é um evento com o Raymond Chen como palestrante.
 
-[em nosso grupo]: https://groups.google.com/g/ccppbrasil
 
 # Windows Jobs com Completion Port
 date: 2008-09-23
@@ -17688,9 +17527,9 @@ tags: computer blog
 
 Ou "Como esperar o término de todos os processos-filho criados a partir de um conjunto de processos".
 
-Dessa vez confesso que esperava um pouco mais de documentação do MSDN, ou pelo menos um sistema de referências cruzadas eficiente. Outro dia demorei cerca de duas horas para conseguir [criar um job], anexar o processo desejado e, a pior parte, esperar que todos os processos (o principal e seus filhos e netos) terminassem.
+Dessa vez confesso que esperava um pouco mais de documentação do MSDN, ou pelo menos um sistema de referências cruzadas eficiente. Outro dia demorei cerca de duas horas para conseguir "criar um job", anexar o processo desejado e, a pior parte, esperar que todos os processos (o principal e seus filhos e netos) terminassem.
 
-Além da pouca documentação, parece que não são muitas as pessoas que fazem isso e publicam na web, ou eu [não sei procurar direito].
+Além da pouca documentação, parece que não são muitas as pessoas que fazem isso e publicam na web, ou eu "não sei procurar direito".
 
 Update 2026-02-17: hoje você segue o link do Google acima e a IA já te explica como deve proceder. Entre no modo IA e ele te joga o código completo.
 
@@ -17708,7 +17547,7 @@ Entre as funções mais úteis de um job estão limitar o tempo de execução do
 
 Para informações básicas de como criar um job e anexar processos recomendo o ótimo artigo de Jeffrey Richter (se você conseguir encontrar, meu último link está quebrado).
 
-No final desse artigo ele chega a citar o controle mais refinado dos processos através de uma [completion port], que permitirá receber eventos que ocorrem dentro de um job durante sua vida útil. Apesar de citar, não há código de exemplo que faça isso.
+No final desse artigo ele chega a citar o controle mais refinado dos processos através de uma "completion port", que permitirá receber eventos que ocorrem dentro de um job durante sua vida útil. Apesar de citar, não há código de exemplo que faça isso.
 
 Bom, agora há:
 
@@ -17811,9 +17650,6 @@ Além desse evento, que era o que eu estava procurando, esse método permite obt
 
 Enfim, jobs não terminam por aí. Dê mais uma olhada no MSDN e veja se encontra mais alguma utilidade interessante para o nosso amigo job. Eu encontrei e fiquei feliz.
 
-[criar um job]: https://learn.microsoft.com/en-us/windows/win32/procthread/job-objects
-[não sei procurar direito]: http://www.google.com.br/search?q=wait+all+processes+inside+job+object
-[completion port]: https://learn.microsoft.com/en-us/windows/win32/fileio/i-o-completion-ports
 
 # O que acontece com um programador com pressa
 date: 2008-10-05
@@ -17846,7 +17682,7 @@ Esse pequeno chamado foi apenas um reforço do apelo que Rodrigo Strauss fez em 
 
 #### // Comments
 
-2008-10-20 [Bruno Moreira Guedes]:
+2008-10-20 "Bruno Moreira Guedes":
 
 Olá!! Muito bom o POST!!
 
@@ -17862,9 +17698,9 @@ Abraços!! Vou linkar este post no meu blog.
 
 ---
 
-2009-01-13 [Daniel Quadros]:
+2009-01-13 "Daniel Quadros":
 
-Menos de uma semana para acabar o prazo do rapaz... O erro foi tentar aprender a programar em 6 meses, quando todo mundo sabe que [são precisos 10 anos]!
+Menos de uma semana para acabar o prazo do rapaz... O erro foi tentar aprender a programar em 6 meses, quando todo mundo sabe que "são precisos 10 anos"!
 
 ---
 
@@ -17884,9 +17720,6 @@ Sua noção de que as idéias sempre "voltam à tona" faz muito sentido para mim
 
 []s
 
-[Bruno Moreira Guedes]: http://brunildz.blogspot.com/
-[Daniel Quadros]: http://dqsoft.blogspot.com.br
-[são precisos 10 anos]: http://www.norvig.com/21-days.html
 
 # Impressões do quinto encontro de CCPP
 date: 2008-10-07
@@ -17913,7 +17746,7 @@ A.F.
 
 ---
 
-2008-10-14 [Daniel Quadros]:
+2008-10-14 "Daniel Quadros":
 
 Eu levei máquina, mas as pilhas estavam descarregadas :(
 
@@ -17921,7 +17754,7 @@ Estou contando com as fotos do "fotógrafo oficial".
 
 ---
 
-2008-10-08 [Fernando Roberto]:
+2008-10-08 "Fernando Roberto":
 
 Como assim não tem foto?
 
@@ -17937,8 +17770,6 @@ Porém, provavelmente nosso amigo DQ irá publicar os flashes do dia. É só agu
 
 []s
 
-[Daniel Quadros]: http://dqsoft.blogspot.com
-[Fernando Roberto]: http://www.driverentry.com.br
 
 # Cnasi, geração Y e seus gastos em TI
 date: 2008-09-25
@@ -17977,7 +17808,7 @@ Não que isso seja uma falha de segurança muito grave, mas imagine uma empresa 
 
 #### // Comments
 
-2008-09-25 [Daniel Quadros]:
+2008-09-25 "Daniel Quadros":
 
 Interessante esta coisa de gerações... acabo de descobrir que sou um "Baby Boomer"! Sobre o Mark Russinovich, acho que ele foi levemente sarcástico (como você, certo?);
 
@@ -17995,14 +17826,13 @@ Então, na verdade eu continuo ainda do lado dos que fazem. O ocorrido foi que e
 
 []s
 
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # Como usar WTL com o ATL do DDK
 date: 2008-10-15
 slug: como_usar_wtl_com_atl_ddk
 tags: computer archive
 
-Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o [ATL] era distribuído junto com o SDK, e dessa forma conseguíamos usar o [WTL] sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
+Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o "ATL" era distribuído junto com o SDK, e dessa forma conseguíamos usar o "WTL" sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
 
 No entanto, num belo dia, qual não foi minha surpresa ao notar umas pastinhas chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
 
@@ -18096,13 +17926,13 @@ E pronto! Agora temos todo o poder das 500 milhões de classes da ATL aliadas à
 
 #### Para aprender a usar WTL
 
-- [Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL]
+- C++ para Windows: WTL]/C++ para Windows: WTL]
 
-- [WTL for MFC Programmers]
+- "WTL for MFC Programmers"
 
 #### // Comments
 
-2008-10-15 [Daniel Quadros]:
+2008-10-15 "Daniel Quadros":
 
 Falando no servidores em Seatle, você viu a foto em
 
@@ -18116,11 +17946,6 @@ Amazing! 0_0
 
 []s
 
-[WTL for MFC Programmers]: http://www.codeproject.com/KB/wtl/wtl4mfc1.aspx
-[ATL]: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL
-[WTL]: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl
-[Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL]: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl
-[Daniel Quadros]: http://dqsoft.blogspot.com
 
 # A Alça Dentro do Fio Gerou um Bloqueio da Morte
 date: 2008-10-21
@@ -18135,7 +17960,7 @@ Um bom exemplo são ponteiros. Ler em um dado capítulo "(...) é muito importan
 
 Um exemplo notável é o famoso livro de algoritmos em C da O'Reilly, que mesmo na nova edição com uma errata de 49 itens foi possível detectar mais erros. Um exemplo que me lembro era de uma função do algoritmo bitree. Nele havia uma variável com o nome orig que três linhas abaixo estava "traduzida" para original. É importante aqui diferenciar que no original não consta esse erro da troca do nome da variável.
 
-Isso acaba sendo pior do que não colocar a versão em inglês, pois dá a impressão que não existe significado a ser explicado. Por exemplo, ver antes do capítulo sobre threads a passagem "... quando um fio espera o outro e vice-versa, acontece o terrível bug da trava da morte". Para quem não descobriu o que foi escrito no original, se trata de duas threads (fios) causando um deadlock (trava da morte), cujo termo inclusive é usado no seu original na [Wikipédia em português].
+Isso acaba sendo pior do que não colocar a versão em inglês, pois dá a impressão que não existe significado a ser explicado. Por exemplo, ver antes do capítulo sobre threads a passagem "... quando um fio espera o outro e vice-versa, acontece o terrível bug da trava da morte". Para quem não descobriu o que foi escrito no original, se trata de duas threads (fios) causando um deadlock (trava da morte), cujo termo inclusive é usado no seu original na "Wikipédia em português".
 
 Esses exemplos, salvo o exemplo do livro de algoritmos, foram criados para ilustrar os tipos de erros mais comuns em traduções de livros técnicos, e não estão relacionados com qualquer livro em específico. Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
 
@@ -18147,7 +17972,7 @@ O fato é que não há escapatória para quem trabalha nessa área, e no fundo i
 
 #### // Comments
 
-2008-10-22 [Daniel Quadros]:
+2008-10-22 "Daniel Quadros":
 
 Na minha pequena experiência como autor e menor ainda como tradutor (somente 1 livro), eu diria que achar uma forma de colocar termos técnicos estrangeiros é uma coisa complicada e sem possibilidade de vitória... Me irrita muito o uso desnecessário do inglês quando existem termos equivalentes em português. "Aportuguesar" soa bem na hora de falar, mas fica estranho quando escrito (ressetar é com um s ou dois?). É também um processo contínuo, a cada ano uma expressão em português se consolida. Sobre os exemplos citados: "linha de execução" no lugar de thread até me soa poético, porém alça como tradução de handle me dá calafrios. Gabarito no lugar de template não é totalmente incorreto pois gabarito também pode ser usado para se referir a um modelo usado na produção/reprodução de alguma coisa.
 
@@ -18185,7 +18010,7 @@ Parabéns, suas opniões são espelhos das minhas!
 
 ---
 
-2008-10-21 [ViniGodoy]:
+2008-10-21 "ViniGodoy":
 
 Aliás, algo que sempre me chamou atenção é que esses livros geralmente tem revisores técnicos! Sinceramente, erros tão grotescos podem passar se gente da área ajuda na tradução?
 
@@ -18209,9 +18034,6 @@ De fato, no meu dia-a-dia proclamo e reclamo sobre tudo em inglês, gastando tod
 
 []s
 
-[Wikipédia em português]: https://pt.wikipedia.org/wiki/Deadlock
-[Daniel Quadros]: http://dqsoft.blogspot.com
-[ViniGodoy]: http://vinigodoy.wordpress.com
 
 # Como funciona o PsExec
 date: 2008-10-29
@@ -18801,15 +18623,12 @@ Nada é bem aprendido se não for apreendido. Algumas tarefas programáticas que
 
 #### Outros faz-de-conta bem famosos
 
-- O problema Little Endian e Big Endian em [ordenação de extremidades].
+- O problema Little Endian e Big Endian em "ordenação de extremidades".
 
-- O [UNICODE] por um conjunto de letras universal.
+- O "UNICODE" por um conjunto de letras universal.
 
-- A [base numérica], o que são binário e hexadecimal e como eles afetam nossa vida.
+- A "base numérica", o que são binário e hexadecimal e como eles afetam nossa vida.
 
-[base numérica]: http://pt.wikipedia.org/wiki/Convers%C3%A3o_de_base_num%C3%A9rica
-[ordenação de extremidades]: http://pt.wikipedia.org/wiki/Extremidade_(ordena%C3%A7%C3%A3o)
-[UNICODE]: http://pt.wikipedia.org/wiki/UNICODE
 
 # Básico do básico: binário
 date: 2008-12-18
@@ -19145,12 +18964,8 @@ jne | jae | ...
 
 Desmonte programas, chamadas API. Veja que funções internas elas chamam para realizar determinada tarefa. Tente mudar o comportamento do programa para provar que suas observações sobre o funcionamento estavam corretas.
 
-PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um [conjunto] [bem] [mais] [detalhado] de artigos estava sendo publicado pelo DQ. Recomendo veementemente sua leitura.
+PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um "conjunto" "bem" "mais" "detalhado" de artigos estava sendo publicado pelo DQ. Recomendo veementemente sua leitura.
 
-[conjunto]: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-14.html
-[bem]: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-24.html
-[mais]: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-34.html
-[detalhado]: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-44.html
 
 # As funções-polegar
 date: 2009-01-30
@@ -19203,11 +19018,11 @@ A.F.
 
 ---
 
-2009-01-31 [Fernando Roberto]:
+2009-01-31 "Fernando Roberto":
 
 Muito bem explicado Lesma.
 
-Uma coisa importante a se notar na documentação da função a ser usada, é se esta oferece uma função-polegar. Nem todas oferecem esse recurso. É o exemplo da [SysAllocString].
+Uma coisa importante a se notar na documentação da função a ser usada, é se esta oferece uma função-polegar. Nem todas oferecem esse recurso. É o exemplo da "SysAllocString".
 
 Somente a função-polegar indicada na documentação poderá silanizar a causa da falha de uma rotina.
 
@@ -19235,27 +19050,25 @@ Contudo, bem observado que nem toda função guarda o último erro para o chamad
 
 []s
 
-[Fernando Roberto]: http://www.driverentry.com.br
-[SysAllocString]: http://msdn.microsoft.com/en-us/library/ms221458.aspx
 
 # WinDbg.info
 date: 2009-02-10
 slug: windbg_info
 tags: computer blog
 
-Para os perdidos e desatualizados como eu, notei hoje que [Robert Kuster possui um saite] onde mantém diversas informações sobre o WinDbg; uma espécie de continuação de sua famosa transparência WinDbg. From A to Z.
+Para os perdidos e desatualizados como eu, notei hoje que "Robert Kuster possui um saite" onde mantém diversas informações sobre o WinDbg; uma espécie de continuação de sua famosa transparência WinDbg. From A to Z.
 
-Como eu descobri? Bom, ele me mandou um e-mail perguntando se poderia deixar sua [tradução para inglês] do meu artigo como Foreword para os slides =)
+Como eu descobri? Bom, ele me mandou um e-mail perguntando se poderia deixar sua "tradução para inglês" do meu artigo como Foreword para os slides =)
 
 #### // Comments
 
-2009-02-10 [Fernando Roberto]:
+2009-02-10 "Fernando Roberto":
 
 Nooooooossa...
 
 ---
 
-2009-03-03 [SergioCBJ]:
+2009-03-03 "SergioCBJ":
 
 Ótimo cara!
 
@@ -19277,17 +19090,12 @@ Valeu a dica, Werner. Na verdade, ele me disse que fez alguns ajustes, mas o dea
 
 ---
 
-2009-02-12 [Werner]:
+2009-02-12 "Werner":
 
 Excelente a dica, e agradeço.
 
 Agora o alerta vai para a tradução em inglês do seu prefácio - obviamente, ele deve ter passado o seu original em um tradutor automático, sem que nenhuma revisão fosse feita. Caso que se percebe ao se ler deadlock "traduzido" como spirituality...
 
-[Robert Kuster possui um saite]: http://windbg.info/
-[tradução para inglês]: http://windbg.info/doc/2-windbg-a-z.html
-[Fernando Roberto]: http://www.driverentry.com.br
-[SergioCBJ]: http://sergaralho.blogspot.com/
-[Werner]: http://www.wernermoecke.tk
 
 # Resolvendo bugs quase impossíveis
 date: 2009-03-05
@@ -19372,11 +19180,10 @@ olá, parabens muito interressante o assunto abordado, bem mais tenho uma duvida
 
 ---
 
-2009-03-05 [Daniel Quadros]:
+2009-03-05 "Daniel Quadros":
 
 Para mim a coisa fica cabeluda quando surge o "em momentos aparentemente aleatórios". A minha teoria de depuração é que o primeiro passo é achar uma sequência, por mais longa e doida que seja, que provoque o erro. A partir daí, você vai simplificando a sequência para cercar a causa e vai "instrumentando" o código para achar o culpado. Eu acredito que uma vez que você consegue reproduzir à vontade um problema está bem perto de resolvê-lo.
 
-[Daniel Quadros]: http://dqsoft.blogspot.com.br
 
 # Construindo provas de conceito (PoC)
 date: 2009-03-19
@@ -19472,7 +19279,7 @@ Para te citar dois exemplos práticos (que me fizeram lembrar de você):
 
 Depois de começar a ler o seu blogue, me atentei para o fato de que poderia talvez buscar formas de "capturar" chamadas feitas às APIs Win32 (pois só posso imaginar que esses programas de "Setup" dos aplicativos buscam informações da versão do Sistema Operacional dentro de algum método específico que é fornecido pela API), e tentar alterar o seu valor de retorno, antes do mesmo ser lido pelo aplicativo.
 
-Nessa brincadeira, depois de quebrar a cabeça com o SoftICE (sem entender muito o que eu estava fazendo), acabei me deparando com a ferramenta [SpyStudio], que se parece bastante com um "debugger for dummies"... no momento, estou brincando com ele. Já consegui, graças a ele, localizar quais os métodos que estão nas DLLs kernel32 e user32, e que têm por função fornecer informações sobre o Sistema. Para mim, o maior problema até agora, está em localizar quais as chamadas que são feitas, para interceptar as corretas (já interceptei um só aplicativo fazendo várias chamadas para métodos diferentes, porém ao interceptar o retorno das mesmas e alterar os parâmetros corretos, ainda não consegui alcançar o meu objetivo).
+Nessa brincadeira, depois de quebrar a cabeça com o SoftICE (sem entender muito o que eu estava fazendo), acabei me deparando com a ferramenta "SpyStudio", que se parece bastante com um "debugger for dummies"... no momento, estou brincando com ele. Já consegui, graças a ele, localizar quais os métodos que estão nas DLLs kernel32 e user32, e que têm por função fornecer informações sobre o Sistema. Para mim, o maior problema até agora, está em localizar quais as chamadas que são feitas, para interceptar as corretas (já interceptei um só aplicativo fazendo várias chamadas para métodos diferentes, porém ao interceptar o retorno das mesmas e alterar os parâmetros corretos, ainda não consegui alcançar o meu objetivo).
 
 Citei esses dois casos para que veja como, apesar de minha expressa dificuldade em entender seus textos avançados, eu estou dando pequenos passos.
 
@@ -19486,7 +19293,7 @@ Um abraço e continue sempre!
 
 ---
 
-2009-04-01 [Fernando Roberto]:
+2009-04-01 "Fernando Roberto":
 
 Isso me faz lembrar de um trecho que li do Windows Driver Model, onde Walter Oney descreve que certa vez teve que depurar um driver que apresentava problemas com os eventos de gerenciamento de energia durante a transição para o Standby.
 
@@ -19506,7 +19313,7 @@ Olá, Mr. Ferdinando.
 
 Essa história foi de tirar lágrima das olhos!
 
-Você me lembrou de mais um caso extremo de depuração: microcontroladores! Lembro-me do [DQ] (ou outro "old-timer") comentar em um dos encontros de C++ como ele fazia para "depurar" aquelas caixinhas dos infernos: usando um led. A cada passada da rotina depurada, o led era aceso e apagado. Dessa forma, era possível saber qual a parte do código que fazia com que o dispositivo travasse.
+Você me lembrou de mais um caso extremo de depuração: microcontroladores! Lembro-me do "DQ" (ou outro "old-timer") comentar em um dos encontros de C++ como ele fazia para "depurar" aquelas caixinhas dos infernos: usando um led. A cada passada da rotina depurada, o led era aceso e apagado. Dessa forma, era possível saber qual a parte do código que fazia com que o dispositivo travasse.
 
 []s
 
@@ -19554,7 +19361,7 @@ Quanto ao "Math Tester", acredito ter se tratado de alguma questão referente a 
 
 Abraços!!
 
-(Em tempo: Se você é carabão mesmo, quero vê-lo "debugar" [este código-fonte]...)  :-)
+(Em tempo: Se você é carabão mesmo, quero vê-lo "debugar" "este código-fonte"...)  :-)
 
 ---
 
@@ -19580,7 +19387,7 @@ Abraços! :-)
 
 ---
 
-2009-04-09 [Alan]:
+2009-04-09 "Alan":
 
 O que seria o math tester enterprise edition??? Fiquei curioso agora... :D
 
@@ -19598,11 +19405,6 @@ O que seria o math tester enterprise edition??? Fiquei curioso agora... :D
 
 Ufa, me causou tremendo alívio essa informação... meu buffer não comporta mais do que um small integer...   :-P
 
-[SpyStudio]: http://www.nektra.com/products/spystudio/
-[Fernando Roberto]: http://www.driverentry.com.br
-[DQ]: http://dqsoft.blogspot.com
-[este código-fonte]: http://en.wikipedia.org/wiki/Whitespace_(programming_language)
-[Alan]: http://jumpi.wordpress.com
 
 # A fila das threads
 date: 2009-04-07
@@ -19814,7 +19616,7 @@ Fora isso, o resto é perfumaria, perda de tempo e enchimento de saco. Os bons p
 
 #### // Comments
 
-2009-04-10 [Alan]:
+2009-04-10 "Alan":
 
 Ahahahahahahahhahahaa... se eu nao estivesse junto no tal almoco, pensaria que realmente eram amigos imaginarios... :D
 
@@ -19832,7 +19634,6 @@ Calado, amigo imaginário =)
 
 []s
 
-[Alan]: http://jumpi.wordpress.com
 
 # A sala da fila das threads
 date: 2009-04-17
@@ -19951,7 +19752,7 @@ Espero que tenha ficado claro nossa breve explanação de como podemos controlar
 date: 2009-05-25
 tags: computer blog
 
-Uma das primeiras perguntas do [teste do Joel] é saber se você pode compilar todo o projeto em apenas um passo. Essa é uma questão essencial e um desafio para muitas equipes. Perdem-se horas sagradas para gerar um novo Release.
+Uma das primeiras perguntas do "teste do Joel" é saber se você pode compilar todo o projeto em apenas um passo. Essa é uma questão essencial e um desafio para muitas equipes. Perdem-se horas sagradas para gerar um novo Release.
 
 Compilação automática geralmente está disponível nas ferramentas de desenvolvimento. Se você estiver usando o Visual Studio, por exemplo, é possível fazer isso com uma linha:
 
@@ -19959,7 +19760,7 @@ Compilação automática geralmente está disponível nas ferramentas de desenvo
 devenv minha-solução.sln /Rebuild Release
 ```
 
-Se não for exatamente o que você precisa, basta fazer uma [pesquisa de quinze minutos] e encontrar os parâmetros corretos. O objetivo é: eu rodo esse comando em cima do projeto inteiro em uma máquina zerada e ele simplesmente compila.
+Se não for exatamente o que você precisa, basta fazer uma "pesquisa de quinze minutos" e encontrar os parâmetros corretos. O objetivo é: eu rodo esse comando em cima do projeto inteiro em uma máquina zerada e ele simplesmente compila.
 
 #### Múltiplas soluções
 
@@ -19988,11 +19789,8 @@ Aos poucos você pode ir colocando "frescurinhas" em seu build (executa Debug e 
 
 - Deve ser possível usar qualquer máquina de desenvolvimento para isso
 
-Regras simples de ser seguidas se você usar sempre a máxima do [KISS].
+Regras simples de ser seguidas se você usar sempre a máxima do "KISS".
 
-[teste do Joel]: http://brazil.joelonsoftware.com/Articles/TheJoelTest.html
-[pesquisa de quinze minutos]: http://www.google.com/search?q=visual%20studio%20automatic%20build
-[KISS]: http://en.wikipedia.org/wiki/KISS_principle
 
 # Bugs Difíceis de Achar
 date: 2009-06-18
@@ -20001,7 +19799,7 @@ tags: computer blog
 
 Saiu um artigo na Wired News sobre os piores bugs da história (2026-02-22 apenas para assinantes). Entre eles estão a explosão de um oleoduto soviético em plena guerra-fria (como se não bastasse chernobyl), o primeiro worm da Internet (que se aproveita de um buffer overflow da função gets) e o famoso erro de divisão em ponto flutuante do Pentium; um erro de cálculo de cerca de 0,006% que causou um prejuízo de 457 milhões de dólares para a Intel.
 
-Mas o que achei mais legal, apesar de não estar na lista, estava relacionado com o [Mariner 1], primeira espaçonave de um programa da NASA para pesquisar Marte, Vênus e Mercúrio em võos automatizados. Mariner 1 não chegou a sair de órbita, pois houve uma falha na antena de comunicação entre módulos e um bug no programa do computador de bordo.
+Mas o que achei mais legal, apesar de não estar na lista, estava relacionado com o "Mariner 1", primeira espaçonave de um programa da NASA para pesquisar Marte, Vênus e Mercúrio em võos automatizados. Mariner 1 não chegou a sair de órbita, pois houve uma falha na antena de comunicação entre módulos e um bug no programa do computador de bordo.
 
 Falava-se que o bug havia sido gerado ao trocar uma vírgula por um ponto em um loop escrito em FORTRAN. Apesar de não ter sido esse o causador da falha do computador da nave do projeto Mariner, ele existiu de fato em outro projeto da NASA, o Mercury. A linha fatal no caso era essa:
 
@@ -20127,7 +19925,6 @@ list<list<int>>  // inválido no caso, é assumido o operador de stream ">>"
 list<list<int> > // válido
 ```
 
-[Mariner 1]: http://en.wikipedia.org/wiki/Mariner_1
 
 # Programadores de verdade não usam Java
 date: 2009-06-18
@@ -20676,9 +20473,9 @@ Se o NTLDR não conseguir ser encontrado, o seguinte erro será exibido:
 
 Que usuário merece ver isso?
 
-Bom, se ele soubesse analisar o assembly do setor de boot, seria fácil entender essa mensagem. E analisar o assembly é simples demais, quase tão simples quanto entender a mensagem acima. Tudo que precisamos é do programa Debug 16 bits, como o que já vem com o Windows ou [aquele mais turbinado do FreeDOS].
+Bom, se ele soubesse analisar o assembly do setor de boot, seria fácil entender essa mensagem. E analisar o assembly é simples demais, quase tão simples quanto entender a mensagem acima. Tudo que precisamos é do programa Debug 16 bits, como o que já vem com o Windows ou "aquele mais turbinado do FreeDOS".
 
-Podemos usar o Debug 16 bits para abrir o setor de boot salvo em algum arquivo e analisá-lo. Esse "salvo em algum arquivo" nós podemos obter usando o [HxD], um sofware bom demais que eu uso quase todos os dias da minha vida, ou para analisar os primeiros setores do disco ou ler arquivos binários que caem na minha caixa de e-mails.
+Podemos usar o Debug 16 bits para abrir o setor de boot salvo em algum arquivo e analisá-lo. Esse "salvo em algum arquivo" nós podemos obter usando o "HxD", um sofware bom demais que eu uso quase todos os dias da minha vida, ou para analisar os primeiros setores do disco ou ler arquivos binários que caem na minha caixa de e-mails.
 
 Eu não vou explicar como salvar um setor do disco em um arquivo. Pelamordedeus, isso é fácil demais. É só fuçar que se acha um jeito.
 
@@ -20811,7 +20608,7 @@ Se fuçarmos por um tempo esse código podemos encontrar várias coisas interess
 
 ![error_checking_part_sect_signature.png](o_boot_no_windows_pre_ntldr_7dZZZag.png)
 
-Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da [interrupção 0x13 função 0x42]: a leitura estendida!
+Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da "interrupção 0x13 função 0x42": a leitura estendida!
 
 ```
 
@@ -20854,9 +20651,6 @@ Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos d
 
 Enfim, todo esse assembly para fazer apenas uma coisa: achar o NTLDR na diretório-raiz da partição onde estamos, carregá-lo na memória e executá-lo. O que se passa a partir daí é o que iremos abordar na futura continuação. Não perca!
 
-[aquele mais turbinado do FreeDOS]: https://www.freedos.org/
-[HxD]: http://mh-nexus.de/en/hxd/
-[interrupção 0x13 função 0x42]: http://www.ctyme.com/intr/rb-0708.htm
 
 # O boot no Windows: NTLDR
 date: 2009-11-26
@@ -20867,7 +20661,7 @@ Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de r
 
 ![Galinha Preta](o_boot_no_windows_ntldr_galinha_preta.jpg)
 
-O nosso amigo NT Loader pode ser entendido através da leitura do já citado Windows Internals ou através de uma outra leitura que estou fazendo atualmente e que [pouquíssimos amigos blogueiros] irão se lembrar: o [livro da galinha preta]; formalmente conhecido como Windows Nt File System Internals.
+O nosso amigo NT Loader pode ser entendido através da leitura do já citado Windows Internals ou através de uma outra leitura que estou fazendo atualmente e que "pouquíssimos amigos blogueiros" irão se lembrar: o "livro da galinha preta"; formalmente conhecido como Windows Nt File System Internals.
 
 Para os sabichões de plantão, inclusive os que me criticaram (?) no meu último texto humorístico sobre como Java é podre, eu sei que o bicho da capa não é uma galinha, mas um urubu. A troca de urubu por galinha vem do requisito básico para você fazer trabalhos esotéricos, como macumba e desenvolvimento de drivers: uma galinha preta na encruzilhada. Alguns usam um papel dentro da boca de um sapo, mas vai do gosto de cada um. =)
 
@@ -20875,7 +20669,7 @@ E, para os que leram o livro, devem entender que para explicar sobre o funcionam
 
 Podemos aprender, por exemplo, que ele é carregado logo depois do NT Detect, que é o executável que dá uma olhada no hardware e ajusta a configuração do boot de acordo com o ambiente encontrado. Após esse ajuste, o nosso amigo NT Loader faz algumas coisas pra lá de interessantes.
 
-O NTLDR é um executável "híbrido" que possui tanto código em modo real quanto código em modo protegido. Com isso podemos supor que é ele o responsável por entrar em modo protegido, uma tarefa que exige [alguns conhecimentos da arquitetura].
+O NTLDR é um executável "híbrido" que possui tanto código em modo real quanto código em modo protegido. Com isso podemos supor que é ele o responsável por entrar em modo protegido, uma tarefa que exige "alguns conhecimentos da arquitetura".
 
 ![ntldr_phase.png](o_boot_no_windows_ntldr_mRuFXJA.png)
 
@@ -20883,7 +20677,7 @@ Além disso, como o próprio nome diz, ele tecnicamente "sobe" o sistema operaci
 
 Esses dois arquivos, juntos dos drivers de boot, são carregados pelo NTLDR.
 
-Depois de todo aquele trabalhão do setor de boot para analisar o sistema de arquivos, achar o NTLDR, carregá-lo na memória e executá-lo, o controle passa para o nosso amigo híbrido, ainda em modo real. Ele então abre a partição de boot e procura pelo arquivo boot.ini (estamos falando de um boot antes de bcdedit, mas o funcionamento seria aproximado). Como o driver do sistema de arquivos ainda não subiu, isso quer dizer que o NTLDR usa o próprio código embutido para interpretar uma FAT, NTFS ou outros sistemas suportados (um dos motivos por que não é possível instalar o Windows em um [ReiserFS]).
+Depois de todo aquele trabalhão do setor de boot para analisar o sistema de arquivos, achar o NTLDR, carregá-lo na memória e executá-lo, o controle passa para o nosso amigo híbrido, ainda em modo real. Ele então abre a partição de boot e procura pelo arquivo boot.ini (estamos falando de um boot antes de bcdedit, mas o funcionamento seria aproximado). Como o driver do sistema de arquivos ainda não subiu, isso quer dizer que o NTLDR usa o próprio código embutido para interpretar uma FAT, NTFS ou outros sistemas suportados (um dos motivos por que não é possível instalar o Windows em um "ReiserFS").
 
 Nesse ponto o nosso amigo loader faz o que todo mundo já fez na infância (não fez?): trocar o modo de tela fazendo uma chamada para a BIOS para modo texto 80x50 em 16 cores. Ah, ele também faz algo que eu adorava fazer (você não?): encher a memória de vídeo de pixels pretos para limpar a tela!
 
@@ -20893,7 +20687,7 @@ Como ele leu a lista de kernels bootáveis, é isso que ele exibe naquela famosa
 
 Escolheu seu boot, é a partir daí que ele acha o executável do kernel: ntoskrnl.exe. Ele deve estar na pasta system32 (em ambientes 32 bits). Também é nesse momento que é carregada a HAL (hal.dll) e isola-se o hardware do software a partir daí. As DLLs que esses dois componentes dependem são identificadas e carregadas na memória.
 
-Agora é hora de abrir o registro. Quer dizer, parte dele. Dentro da pasta system32/config deve estar a [hive] SYSTEM, que é onde ficam os drivers que devem ser carregados a partir daí em vários níveis. Inicialmente são carregados os que possuem o valor Start igual a zero, como o driver Atapi (controlador de disco):
+Agora é hora de abrir o registro. Quer dizer, parte dele. Dentro da pasta system32/config deve estar a "hive" SYSTEM, que é onde ficam os drivers que devem ser carregados a partir daí em vários níveis. Inicialmente são carregados os que possuem o valor Start igual a zero, como o driver Atapi (controlador de disco):
 
 ![driver_atapi.png](o_boot_no_windows_ntldr_2ewkFhs.png)
 
@@ -20941,11 +20735,6 @@ ntoskrnl!KiInitializeKernel:
 
 Veremos nos próximos capítulos como podemos nos aproveitar do ntoskrnl.exe para poder depurar o código a partir daí. Até lá.
 
-[pouquíssimos amigos blogueiros]: https://www.linkedin.com/in/driverentry/
-[livro da galinha preta]: https://www.amazon.com/Windows-File-System-Internals-Developers/dp/1565922492
-[alguns conhecimentos da arquitetura]: http://en.wikipedia.org/wiki/Protected_mode
-[ReiserFS]: http://pt.wikipedia.org/wiki/ReiserFS
-[hive]: http://en.wikipedia.org/wiki/Windows_Registry#Hives
 
 # O boot no Windows: Kernel
 date: 2009-12-04
@@ -21251,7 +21040,7 @@ PS: Mensagens de feliz aniversário serão devidamente descartadas. Ah, e feliz 
 date: 2009-12-30
 tags: computer blog
 
-Para quem já analisou os dados de uma tela azul sabe que, quando o Windows acha um culpado (vulgo driver) a data de sua compilação é exibida em um formato conhecido como DateStamp ou TimeStamp. Nesse formato o que temos é um número hexadecimal que segue o [formato de tempo do Unix], que no caso é o número de segundos desde o dia primeiro de Janeiro de 1970. Isso, por curiosidade, nos dá uma margem de 140 anos antes dos número se repetirem se usarmos 32 bits nessa contagem.
+Para quem já analisou os dados de uma tela azul sabe que, quando o Windows acha um culpado (vulgo driver) a data de sua compilação é exibida em um formato conhecido como DateStamp ou TimeStamp. Nesse formato o que temos é um número hexadecimal que segue o "formato de tempo do Unix", que no caso é o número de segundos desde o dia primeiro de Janeiro de 1970. Isso, por curiosidade, nos dá uma margem de 140 anos antes dos número se repetirem se usarmos 32 bits nessa contagem.
 
 O comando .formats do WinDbg nos consegue trazer desse número a hora exata em que determinado componente foi compilado. Se, por exemplo, um driver faltoso apresentou um DateStamp igual a 49EE9758, podemos concluir que ele foi compilado no dia 22 de abril de 2009, uma linda quarta-feira.
 
@@ -21285,13 +21074,10 @@ Evaluate expression:
   Double:  6.63124e-315
 ```
 
-Pois é, meus amigos. O DateStamp para a virada do contador Unix se fará numa manhã de sexta. Para ser preciso, uma [sexta-feira 13].
+Pois é, meus amigos. O DateStamp para a virada do contador Unix se fará numa manhã de sexta. Para ser preciso, uma "sexta-feira 13".
 
-Curioso, não? Mais curioso que isso, só sabendo que o ano que isso vai ocorrer é o igualmente fatídico [2012]. Felizmente antes de dezembro.
+Curioso, não? Mais curioso que isso, só sabendo que o ano que isso vai ocorrer é o igualmente fatídico "2012". Felizmente antes de dezembro.
 
-[formato de tempo do Unix]: http://en.wikipedia.org/wiki/Unix_timestamp
-[sexta-feira 13]: http://pt.wikipedia.org/wiki/Sexta_Feira_13
-[2012]: https://en.wikipedia.org/wiki/2012_phenomenon
 
 # Importando tipos de outros projetos
 date: 2010-01-11
@@ -21329,7 +21115,7 @@ PROCESS 89068700  SessionId: 0  Cid: 0ec4    Peb: 7ffda000  ParentCid: 0b0c
     Image: notepad.exe
 ```
 
-O comando [!peb] traz inúmeras informações sobre essa estrutura. Mas talvez estivéssemos interessados em coisas não mostradas por esse comando, mas [que existem na estrutura].
+O comando "!peb" traz inúmeras informações sobre essa estrutura. Mas talvez estivéssemos interessados em coisas não mostradas por esse comando, mas "que existem na estrutura".
 
 ![PEB ¿não-documentado¿](importando_tipos_de_outros_projetos_L3E4KSS.png)
 
@@ -21385,7 +21171,7 @@ start    end        module name
 bac60000 bac66700   USBSTOR  M (private pdb symbols)  C:\Tests\KernelTypes\Debug\usbstor.pdb
 ```
 
-Depois que o símbolo foi carregado em nosso módulo de mentirinha, tudo que temos a fazer é alterar o contexto do processo atual (para que os endereços de user mode façam sentido) e moldar nossa memória com o comando [dt], usando o tipo importado do símbolo carregado.
+Depois que o símbolo foi carregado em nosso módulo de mentirinha, tudo que temos a fazer é alterar o contexto do processo atual (para que os endereços de user mode façam sentido) e moldar nossa memória com o comando "dt", usando o tipo importado do símbolo carregado.
 
 ```
 lkd> .process 89068700
@@ -21418,9 +21204,6 @@ Para que isso funcione, a estrutura definida tem que bater offset por offset com
 
 Acho que não é preciso dizer que isso não serve apenas para kernel mode =)
 
-[!peb]: http://windbg.info/doc/1-common-cmds.html#11_process
-[que existem na estrutura]: http://undocumented.ntinternals.net/UserMode/Undocumented%20Functions/NT%20Objects/Process/PEB.html
-[dt]: http://windbg.info/doc/1-common-cmds.html#17_variables
 
 # Passagem por valor e emails com anexo
 date: 2010-01-18
@@ -21605,7 +21388,7 @@ tags: computer archive
 
 Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do "Bazaar" ~~para boiolas~~ user-friendly!
 
-Ele é leve, vem ~~enrustido~~ embutido na última versão e pode economizar alguns page ups/downs no prompt do DOS. Ah, sim, antes que comentem, eu não uso o [Tortoise for Bazaar] porque instalar [shell extensions], só os muito bem feitos. (Do contrário, bem-feito para quem instalou.)
+Ele é leve, vem ~~enrustido~~ embutido na última versão e pode economizar alguns page ups/downs no prompt do DOS. Ah, sim, antes que comentem, eu não uso o "Tortoise for Bazaar" porque instalar "shell extensions", só os muito bem feitos. (Do contrário, bem-feito para quem instalou.)
 
 Para exibir a lista de comandos "amigáveis", digite no prompt os comandos do Bazaar filtrando-os para os que começam com "q":
 
@@ -21661,8 +21444,6 @@ Uma desvantagem desse comando é que ele oculta o resto das linhas do fonte e n�
 Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Extensions, deem uma olhada no REG exportado.  Bom proveito.
 
 "Bazaar": http://www.caloni.com.br/guia-basico-de-repositorios-no-bazaar
-[Tortoise for Bazaar]: http://wiki.bazaar.canonical.com/TortoiseBzr
-[shell extensions]: http://en.wikipedia.org/wiki/Shell_extension#Extensibility
 
 # Convivendo entre TodoList e Microsoft Project
 date: 2010-03-15
@@ -21706,7 +21487,7 @@ Isso só é possível, é claro, com os símbolos corretamente carregados. E é 
 
 #### Edit and Continue
 
-Sim! Agora se o [ddkbuild]  estiver no path do WinDbg e você editar o código-fonte do seu driver durante a depuração (na próxima versão a visualização não será apenas read-only) e der um step-into, automaticamente o depurador irá perguntar se deseja recompilar o projeto. Depois de ativar o processo de build, através das conexões serial/firewire/usb-debug, a nova imagem irá parar diretamente na memória kernel da máquina target.
+Sim! Agora se o "ddkbuild"  estiver no path do WinDbg e você editar o código-fonte do seu driver durante a depuração (na próxima versão a visualização não será apenas read-only) e der um step-into, automaticamente o depurador irá perguntar se deseja recompilar o projeto. Depois de ativar o processo de build, através das conexões serial/firewire/usb-debug, a nova imagem irá parar diretamente na memória kernel da máquina target.
 
 Algumas ressalvas são colocadas pela equipe da Microsoft, no entanto. Se existirem mudanças que dizem respeito a alocação dinâmica de memória em nonpaged-pool, o Edit and Continue não será possível naquele momento, apenas depois do reboot.
 
@@ -21846,10 +21627,8 @@ Followup: MachineOwner
 ---------
 ```
 
-Existem um pouco de polêmica em torno dessa funcionalidade. Alguns dizem que ela vai mais atrapalhar do que ajudar os programadores de kernel com a vinda de [analistas de sistemas Júnior programando filtros de file system] sem a menor discrepância entre o que é um IRP assíncrono e uma ISR. Outros dizem que existirá uma versão paga do WinDbg com essa funcionalidade, nos mesmos moldes do Visual Studio 2010, que virá com a depuração reversa no Enterprise. Essas especulações só o tempo dirá se são verdade ou não. Se eu tiver que pagar mais caro por essas features, o lobby na empresa onde eu trabalho está garantido.
+Existem um pouco de polêmica em torno dessa funcionalidade. Alguns dizem que ela vai mais atrapalhar do que ajudar os programadores de kernel com a vinda de "analistas de sistemas Júnior programando filtros de file system" sem a menor discrepância entre o que é um IRP assíncrono e uma ISR. Outros dizem que existirá uma versão paga do WinDbg com essa funcionalidade, nos mesmos moldes do Visual Studio 2010, que virá com a depuração reversa no Enterprise. Essas especulações só o tempo dirá se são verdade ou não. Se eu tiver que pagar mais caro por essas features, o lobby na empresa onde eu trabalho está garantido.
 
-[ddkbuild]: http://www.osronline.com/article.cfm?article=43
-[analistas de sistemas Júnior programando filtros de file system]: http://groups.google.com/group/ccppbrasil/msg/f1f6d52aa167c1ab?dmode=source
 
 # Antigo bem-vindo do Cine Tênis Verde
 date: 2010-04-01
@@ -21946,7 +21725,7 @@ date: 2010-04-20
 slug: typedef_arcaico
 tags: computer blog
 
-A [API do Windows] geralmente prima pela excelência em maus exemplos. A [Notação Húngara] e o Typedef Arcaico são duas técnicas que, por motivos históricos, são usados a torto e a direito pelos códigos de exemplo.
+A "API do Windows" geralmente prima pela excelência em maus exemplos. A "Notação Húngara" e o Typedef Arcaico são duas técnicas que, por motivos históricos, são usados a torto e a direito pelos códigos de exemplo.
 
 Já foi escrito muita coisa sobre os prós e contras da notação húngara. Já o typedef arcaico, esse pedacinho imprestável de código, ficou esquecido, e hoje em dia traz mais dúvidas na cabeça dos principiantes em C++ do que deveria. Para tentar desobscurecer os mitos e fatos, vamos tentar explicar o que significa essa construção tão atípica, mas comum no dia-a-dia.
 
@@ -22220,8 +21999,6 @@ De acordo com o leitor Adriano dos Santos Fernandes, a obrigatoriedade do nome 
 
 Eu não fiz meus testes, mas confio no diagnóstico de nosso amigo. A maior falha do artigo, no entanto, é usar a linguagem C como base, quando na verdade ele deveria falar sobre o uso desses typedefs em C++. Esse erro também foi corrigido no original.
 
-[API do Windows]: https://learn.microsoft.com/pt-br/
-[Notação Húngara]: http://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_h%C3%BAngara
 
 # Por que Long Pointer
 date: 2010-04-21
@@ -22722,7 +22499,7 @@ O significado do volatile teoricamente muda de implementação para implementaç
 
 ![Se concentre! Não é esse tipo de volatile!](const_e_volatile_carbzjo.jpg)
 
-O exemplo clássico da API Win32 é o [InterlockedIncrement], que realiza operações atômicas em valores inteiros. Para fazer isso é necessário usar um recurso interno disponível pelo processador que irá modificar a memória sem intrusão de outras threads/processadores.
+O exemplo clássico da API Win32 é o "InterlockedIncrement", que realiza operações atômicas em valores inteiros. Para fazer isso é necessário usar um recurso interno disponível pelo processador que irá modificar a memória sem intrusão de outras threads/processadores.
 
 ![interlocked_increment.png](const_e_volatile_3mqVrqA.png)
 
@@ -22743,7 +22520,6 @@ const volatile int* g_systemClock = (const volatile int*) 0x7689B9D4;
 
 A definição de *g_systemClock é de uma memória que não pode ser alterada; só que ela é, pelo sistema. Então a variável também é volatile. No entanto, independente de ser const ou volatile, o tipo nunca será alterado, apenas qualificado. São duas coisas diferentes na linguagem.
 
-[InterlockedIncrement]: https://learn.microsoft.com/en-us/windows/win32/api/winnt/nf-winnt-interlockedincrement
 
 # O Golpista do Ano (Glenn Ficarra, John Requa, 2009)
 date: 2010-06-04
@@ -22824,7 +22600,7 @@ Agora a parte mais divertida: experimente com outro notepad, ou com o explorer =
 date: 2010-07-26
 tags: ccppbr blog
 
-Mais um fim-de-semana no ócio e na vadiagem. Tenho que manter minhas [qualidades de bom programador] que sou: preguiçoso, impaciente e pretensioso.
+Mais um fim-de-semana no ócio e na vadiagem. Tenho que manter minhas "qualidades de bom programador" que sou: preguiçoso, impaciente e pretensioso.
 
 Mas nem por isso deixei de terminar uma primeira versão do aplicativo que irei usar como base na minha palestra do nosso próximo encontro C++: Crash Dump Analysis. Se alguém tiver dicas de quais os problemas mais difíceis do Universo para analisar em um dump de memória, comente a respeito e veremos o que dá pra fazer.
 
@@ -22840,7 +22616,6 @@ bp user32!MessageBoxW
 
 Mas devaneio. Talvez outra boa qualidade de um bom programador.
 
-[qualidades de bom programador]: http://c2.com/cgi/wiki?LazinessImpatienceHubris
 
 # Twitter, eu?
 date: 2010-07-28
@@ -23138,9 +22913,8 @@ E, agora sim, encontramos o culpado!
 
 ![](como_achar_o_codigo_fonte_sem_simbolos_gUfPM5Q.jpg)
 
-Mais para a frente em minha análise consegui encontrar o objeto pelo qual todas as threads esperavam. Não tive tanta sorte, pois se tratava de um mutex, e [mutexes não conseguem ser rastreados tão facilmente em user mode]. Mas isso não vem ao caso. O que tentei descrever aqui foi mais ou menos o processo que você deverá seguir caso tenha que analisar um binário compilado em outras vidas. Espero que você tenha tanta sorte quanto eu.
+Mais para a frente em minha análise consegui encontrar o objeto pelo qual todas as threads esperavam. Não tive tanta sorte, pois se tratava de um mutex, e "mutexes não conseguem ser rastreados tão facilmente em user mode". Mas isso não vem ao caso. O que tentei descrever aqui foi mais ou menos o processo que você deverá seguir caso tenha que analisar um binário compilado em outras vidas. Espero que você tenha tanta sorte quanto eu.
 
-[mutexes não conseguem ser rastreados tão facilmente em user mode]: http://www.debuginfo.com/articles/easywindbg.html#debugdeadlocks
 
 # Novas diferenças no Bazaar
 date: 2010-08-04
@@ -23367,7 +23141,7 @@ tags: computer blog
 
 Agora que a temporada das telas azuis passou estou às voltas com o nosso sistema de detecção de crashes, além de alguns dumps e logs pra relaxar de vez em quando.
 
-Fiquei impressionado com a simplicidade com que podemos capturar qualquer exceção que ocorra em um programa, independente da thread, e gravar um minidump com o contexto exato em que o problema ocorreu. O uso da função API [SetUnhandledExceptionFilter] aliado com a já citada na palestra [MiniDumpWriteDump] pode agilizar muito a correção de crashes triviais como Access Violation.
+Fiquei impressionado com a simplicidade com que podemos capturar qualquer exceção que ocorra em um programa, independente da thread, e gravar um minidump com o contexto exato em que o problema ocorreu. O uso da função API "SetUnhandledExceptionFilter" aliado com a já citada na palestra "MiniDumpWriteDump" pode agilizar muito a correção de crashes triviais como Access Violation.
 
 A mágica é tão bela que resolvi gravar um vídeo do que ocorreu quando compilei e testei o programa abaixo. Note que o tamanho do arquivo de dump ficou em torno dos 10 KB, ridículos nessa era de barateamento de espaço.
 
@@ -23431,8 +23205,6 @@ int main()
 
 Espero com isso aliviar a carga pesada de A.V.s que sempre aparece quando menos se espera. Cuidar de toneladas de código legado exige algumas pitadas de automatização nos lugares certos. Como já dizia meu primeiro chefe, que nem era de TI: a mente não pensa, o corpo paga.
 
-[SetUnhandledExceptionFilter]: https://learn.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-setunhandledexceptionfilter
-[MiniDumpWriteDump]: https://learn.microsoft.com/en-us/windows/win32/api/minidumpapiset/nf-minidumpapiset-minidumpwritedump
 
 # Karate Kid
 date: 2010-08-27
@@ -23602,7 +23374,7 @@ tags: computer archive
 
 Que vergonha passar tanto tempo sem postar nada. Parece que não fiz nada que valesse a pena comentar por aqui.
 
-Na verdade, não fiz tanto, mesmo. Muitas mensagens do Outlook, gráficos UML e reuniões de alinhamento depois, sobrou um tempinho pra programar. Aprendi algumas coisas que tinha o desejo de saber há tanto tempo... Agora eu sei, quem diria, criar linques suspensos nas janelas Win32! Que novidade, não? Pois é, isso exige, [de acordo com o SDK], algumas artimanhas pra fazer funcionar. Para quem está de Visual Studio 2008/2010 na mão basta seguir os passos seguintes.
+Na verdade, não fiz tanto, mesmo. Muitas mensagens do Outlook, gráficos UML e reuniões de alinhamento depois, sobrou um tempinho pra programar. Aprendi algumas coisas que tinha o desejo de saber há tanto tempo... Agora eu sei, quem diria, criar linques suspensos nas janelas Win32! Que novidade, não? Pois é, isso exige, "de acordo com o SDK", algumas artimanhas pra fazer funcionar. Para quem está de Visual Studio 2008/2010 na mão basta seguir os passos seguintes.
 
 Definir que estamos programando para XP ou superior:
 
@@ -23663,10 +23435,8 @@ BOOL WINAPI ShutdownBlockReasonDestroy(
 
 Quando ao receber a famigerada WM_QUERYENDSESSION, basta retornar FALSE. O Windows faz o resto.
 
-PS: E com uma ajudinha do Windows Internals ainda fiquei sabendo que dá pra [se colocar na frente da fila] para receber essa mensagem.
+PS: E com uma ajudinha do Windows Internals ainda fiquei sabendo que dá pra "se colocar na frente da fila" para receber essa mensagem.
 
-[de acordo com o SDK]: http://msdn.microsoft.com/en-us/library/bb760706%28v=VS.85%29.aspx
-[se colocar na frente da fila]: http://msdn.microsoft.com/en-us/library/ms686227%28VS.85%29.aspx
 
 # Machete
 date: 2010-10-10
@@ -23767,7 +23537,7 @@ No final do drama, a câmera foge do foco em Macu agonizando, fazendo uma voador
 date: 2010-10-26
 tags: computer blog
 
-Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API [FormatMessage] é uma das criaturas mais bizarras já criadas.
+Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API "FormatMessage" é uma das criaturas mais bizarras já criadas.
 
 O objetivo da FormatMessage é formatar uma string, assim como sprintf, mas voltado mais a escrever uma descrição de um código de erro. Sendo assim ela é essencial para que o usuário não receba um número no lugar de uma explicação de por que a operação falhou.
 
@@ -23793,7 +23563,7 @@ DWORD WINAPI FormatMessage(
 
 #### Flags
 
-As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o que me lembra de outra figura bizarra: o [realloc da biblioteca padrão].
+As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o que me lembra de outra figura bizarra: o "realloc da biblioteca padrão".
 
 No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
 
@@ -23983,8 +23753,6 @@ int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
 
 Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!
 
-[FormatMessage]: https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-formatmessage
-[realloc da biblioteca padrão]: https://en.cppreference.com/w/c/memory/realloc
 
 # O Mágico (Sylvain Chomet, 2010)
 date: 2010-10-27
@@ -24076,23 +23844,23 @@ Começamos essa história sobre um jogador de vídeo-games profissional dentro d
 date: 2010-11-02
 tags: computer archive
 
-Graças aos antigos [SCMs], muitos programadores hoje em dia evitam ter que configurar um controle de fonte mínimo para seus projetos. E por um bom motivo: temos que programar e resolver problemas reais no dia-a-dia e não ficar configurando servidores de controle de fonte e lidando com conflitos na calada da noite. Isso vale tanto para o pessoal do Windows e o seu Visual Source Safe (eu que o diga) quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
+Graças aos antigos "SCMs", muitos programadores hoje em dia evitam ter que configurar um controle de fonte mínimo para seus projetos. E por um bom motivo: temos que programar e resolver problemas reais no dia-a-dia e não ficar configurando servidores de controle de fonte e lidando com conflitos na calada da noite. Isso vale tanto para o pessoal do Windows e o seu Visual Source Safe (eu que o diga) quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
 
 Não há nada de errado nisso. Projetos robustos com uma equipe moderada ¿ 5 a 10 programadores ¿ precisam desse tipo de organização, e tornam a resolução dos problemas do dia-a-dia mais problemática sem esse controle. A questão reside para o programador solitário ou a equipe minúscula ¿ 2 a 4 programadores. Esses geralmente questionam o custo-benefício de terem o trabalho de configurar e manter mais um sistema. Além disso, isso implica em uma mudança de grandes proporções em cada membro da equipe: uma mudança cultural.
 
-Portanto, a primeira decisão que deve ser tomada pelo programador que quer mudar as coisas é instalar um controle de fonte moderno para seus projetos caseiros. Quando digo moderno, digo [distribuído].Distribuído porque 1) é possível começar desde já com três comandos simples, 2) quando alguém copia a pasta do projeto está levando todo o histórico junto e 3) pastas duplicadas são branches distintos que podem interagir no futuro.
+Portanto, a primeira decisão que deve ser tomada pelo programador que quer mudar as coisas é instalar um controle de fonte moderno para seus projetos caseiros. Quando digo moderno, digo "distribuído".Distribuído porque 1) é possível começar desde já com três comandos simples, 2) quando alguém copia a pasta do projeto está levando todo o histórico junto e 3) pastas duplicadas são branches distintos que podem interagir no futuro.
 
 Os três comandos simples não são nada do outro mundo: criar o repositório, adicionar arquivos e fazer commit.
 
 Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o que tinha pra modificar, então mande tudo que tenho de novo para o controle".
 
-Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que [uso no dia-a-dia] com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta [baixá-lo], next next e finish.
+Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que "uso no dia-a-dia" com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta "baixá-lo", next next e finish.
 
 ![Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.](entao_voce_ainda_nao_usa_controle_de_fonte_BcRIM4W.png)
 
 Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.
 
-Apesar de existirem [firulas gráficas], gosto de usar o Bazaar na linha de comando porque faz você pensar direito antes de fazer commits, mas esteja livre para experimentar a maneira que achar melhor.
+Apesar de existirem "firulas gráficas", gosto de usar o Bazaar na linha de comando porque faz você pensar direito antes de fazer commits, mas esteja livre para experimentar a maneira que achar melhor.
 
 #### Botando a mão na massa
 
@@ -24148,11 +23916,6 @@ Committed revision 2.
 
 Basicamente, sim. É claro que um controle de fonte não se baseia apenas em commits. Existem arquivos a serem ignorados (os obj da vida) e eventualmente algum trabalho paralelo ou com mais programadores. No futuro poderá comparar versões diferentes do código. Porém, apenas seguindo essa simples receita acima você já pode se gabar de ter um controle de fontes confiável em seus projetos. Já estará se aproveitando desse controle no futuro, quando aprender mais sobre ele.
 
-[SCMs]: http://en.wikipedia.org/wiki/Software_configuration_management
-[distribuído]: http://en.wikipedia.org/wiki/Distributed_revision_control
-[uso no dia-a-dia]: http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar
-[baixá-lo]: http://wiki.bazaar.canonical.com/Download
-[firulas gráficas]: http://www.caloni.com.br/bazaar-grafico
 
 # O Atleta
 date: 2010-11-04
@@ -24220,7 +23983,7 @@ var win = window.open( 'minha_url_do_coracao.htm' );
 win.focus(); // aqui dá o erro
 ```
 
-A primeira coisa que se faz nesse caso é pesquisar no Google por pessoas que já tiveram esse problema. A [maioria] dizia ser necessária registrar novamente as DLLs do navegador/shell, coisa que fizemos à exaustão e não resolveu o problema. Também imaginamos haver relação com a versão da SDocVw.dll que estava alocada na lista de assemblies .NET cacheados, o chamado GAC. Ou seja, já estávamos viajando geral.
+A primeira coisa que se faz nesse caso é pesquisar no Google por pessoas que já tiveram esse problema. A "maioria" dizia ser necessária registrar novamente as DLLs do navegador/shell, coisa que fizemos à exaustão e não resolveu o problema. Também imaginamos haver relação com a versão da SDocVw.dll que estava alocada na lista de assemblies .NET cacheados, o chamado GAC. Ou seja, já estávamos viajando geral.
 
 No meio dos procedimentos batidos que todos fazem a lista abaixo resume bem:
 
@@ -24282,7 +24045,7 @@ Essa série de passos foi reproduzida em menos de uma hora até chegarmos a apen
 [-HKEY_CLASSES_ROOT\CLSID\{C5598E60-B307-11D1-B27D-006008C3FBFB}]
 ```
 
-Que se revelou pertencer à DLL [dispex.dll]:
+Que se revelou pertencer à DLL "dispex.dll":
 
 "dispex.dll is a module that contains COM interfaces used by Visual Basic scripts"
 
@@ -24301,8 +24064,6 @@ Realizei o mesmo teste com nossa DLL que gerou o problema inicial e descobri que
 
 Fica assim indefinida a origem do "corrompimento" dessa parte do registro, apesar de localizada.
 
-[maioria]: http://www.google.com/search?q=class+does+not+support+automation
-[dispex.dll]: http://www.google.com.br/search?q=dispex.dll
 
 # As Quatro Voltas
 date: 2010-11-06
@@ -25750,7 +25511,7 @@ date: 2011-03-01
 slug: vtable
 tags: computer blog
 
-Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um [hookzinho nos métodos de um componente COM]. Mas só.
+Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um "hookzinho nos métodos de um componente COM". Mas só.
 
 Não encontro uma analogia simples, assim, de cabeça. Então vou contar no cru, mesmo. Talvez seja até mais divertido.
 
@@ -25837,7 +25598,6 @@ windbg vtable3.exe
 
 ![vtable2.png](vtable_vtable2.png)
 
-[hookzinho nos métodos de um componente COM]: hook_de_com_no_windbg
 
 # Projeto DayToDay
 date: 2011-03-03
@@ -25863,9 +25623,9 @@ tags: computer blog
 
 No meio dos meus artigos pendentes, encontrei esse, de Luiz Rocha, que fala sobre a dificuldade de entender o que seria Base64:
 
-"Salve Caloni. Já leio o seu site a algum tempo. Realmente acho complicado, alguns eu nem entendo =D.  Mais eh o seguinte, eu estou montando um projeto, mas eu não entendo nada de trabalhar com binários. Então pesquisei na internet, e achei um algoritmo que pode me ajudar, [na lógica]. É o base64 mas eu não entendi como ele converte e desconverte em binário. Será que vc pode me ajudar, obrigado!!"
+"Salve Caloni. Já leio o seu site a algum tempo. Realmente acho complicado, alguns eu nem entendo =D.  Mais eh o seguinte, eu estou montando um projeto, mas eu não entendo nada de trabalhar com binários. Então pesquisei na internet, e achei um algoritmo que pode me ajudar, "na lógica". É o base64 mas eu não entendi como ele converte e desconverte em binário. Será que vc pode me ajudar, obrigado!!"
 
-Não é a primeira pessoa que pede informações sobre algo específico demais para explicar (para isso existe a [Wikipedia] e o [Google], não?). No meio da minha escrita, percebi que já havia escrito sobre os fundamentos do conhecimento por trás da criação do Base64, conhecimento esse, acredito eu, todo programador que quer sair do lugar com os próprios pés deve ter.
+Não é a primeira pessoa que pede informações sobre algo específico demais para explicar (para isso existe a "Base64 da Wikipedia" e o Google, não?). No meio da minha escrita, percebi que já havia escrito sobre os fundamentos do conhecimento por trás da criação do Base64, conhecimento esse, acredito eu, todo programador que quer sair do lugar com os próprios pés deve ter.
 
 - "Básico do básico: assembly"
 
@@ -25895,7 +25655,7 @@ Até porque na programação, 90% não se cria, se copia.
 
 Imaginemos o cenário para a criação do Base64:
 
-Alguns meios de comunicação, notadamente [envio de e-mails] e a [navegação web], por incrível que pareça, trabalham em um protocolo totalmente em modo texto. É até fácil de entender, pois quando essas tecnologias nasceram as limitações de velocidade e estabilidade das conexões permitiam apenas o envio de texto puro de uma ponta a outra.
+Alguns meios de comunicação, notadamente "envio de e-mails" e a "navegação web", por incrível que pareça, trabalham em um protocolo totalmente em modo texto. É até fácil de entender, pois quando essas tecnologias nasceram as limitações de velocidade e estabilidade das conexões permitiam apenas o envio de texto puro de uma ponta a outra.
 
 Isso quer dizer que, na prática, os anexos de um e-mail e as imagens de uma página trafegam, pelo protocolo definido, em modo texto.
 
@@ -25907,16 +25667,10 @@ Tudo que é necessário fazer é o contrário, mas usando a mesma lógica: monta
 
 A forma mais básica binária de comunicação é um byte, constituído por 8 bits, que combinados darão 2^8 entradas em nossa tabela, que precisaria de 256 caracteres diferentes. Como isso ultrapassa o limite dos protocolos que estamos lidando, que em sua maioria utilizam a tabela ascii básica, que possui 128 posições, sendo que algumas posições não possuem caracteres imprimíveis, decidiu-se usar o múltiplo anterior: 64 posições, o que nos dá a chance de codificar 6 bits de cada vez (2^6).
 
-Esse padrão de codificação se chama Base64. Se quiser mais detalhes, basta ler a [RFC], que é pequena e muito simples de se ler.
+Esse padrão de codificação se chama Base64. Se quiser mais detalhes, basta ler a "RFC 989", que é pequena e muito simples de se ler.
 
 Agora, como codificar essa solução? Só entendendo o básico, é claro.
 
-[na lógica]: http://base64.sourceforge.net/b64.c
-[Wikipedia]: http://en.wikipedia.org/wiki/Base64
-[Google]: http://www.google.com/search?q=base64
-[envio de e-mails]: http://pt.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
-[navegação web]: http://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-[RFC]: http://tools.ietf.org/html/rfc989
 
 # Esposa de Mentirinha (Dennis Dugan, 2011)
 date: 2011-03-09
@@ -26026,11 +25780,10 @@ Com uma invejável escolha da trilha sonora durante toda a narrativa, é igualme
 
 Com uma direção firme, Baldini reforça a introspecção da personagem buscando, sempre que possível, deixá-la em foco completo, com o cenário aparecendo muitas vezes embaçado e difuso, como quando Raquel aparece pela primeira vez sozinha nas ruas, mas que em outros momentos funciona como reforçador de que o que estamos vendo são memórias de acontecimentos de um passado já distante.
 
-A passagem maior do tempo, como quando Bruna narra a rotina e as diversas aventuras com seus clientes, é feita com o uso de cortes que transitam com uma fluidez elegante. Da mesma forma, há a consciência que uma história maior está sendo contada, e mais uma vez é acertada a decisão de não se reter mais que o necessário em momentos de sexo, passando sempre o essencial para o espectador, sem exibicionismo gratuito; isto não é uma [pornochanchada].
+A passagem maior do tempo, como quando Bruna narra a rotina e as diversas aventuras com seus clientes, é feita com o uso de cortes que transitam com uma fluidez elegante. Da mesma forma, há a consciência que uma história maior está sendo contada, e mais uma vez é acertada a decisão de não se reter mais que o necessário em momentos de sexo, passando sempre o essencial para o espectador, sem exibicionismo gratuito; isto não é uma "pornochanchada".
 
 Aliás, não é sempre que vemos decisões corajosas como essa em uma produção notadamente comercial, e é sempre uma agradável surpresa notar como o cinema brasileiro tem se tornado aos poucos resgatador das discussões mais pertinentes de nossa sociedade atual.
 
-[pornochanchada]: https://pt.wikipedia.org/wiki/Pornochanchada
 
 # Loucuras multithreading
 date: 2011-03-18
@@ -26096,7 +25849,7 @@ Por fim, confesso que fiquei extremamente satisfeito pela forma sóbria que os c
 date: 2011-03-23
 tags: computer archive
 
-Para pessoas que ficaram viciadas em commits curtos e todo o histórico do fonte na própria máquina, foi uma surpresa descobrir que com o uso do plugin [bzr-svn] (já incluso no pacote de instalação), consigo ainda utilizar o Bazaar, mesmo que agora esteja trabalhando com um branch do Subversion.
+Para pessoas que ficaram viciadas em commits curtos e todo o histórico do fonte na própria máquina, foi uma surpresa descobrir que com o uso do plugin "bzr-svn" (já incluso no pacote de instalação), consigo ainda utilizar o Bazaar, mesmo que agora esteja trabalhando com um branch do Subversion.
 
 Na verdade, melhor ainda: o bzr-svn baixa o SVN trunk com todo o histórico na máquina local, como se fosse um branch do próprio Bazaar, e permite a criação de branches desconectados para pequenos commits e o merge final para o servidor SVN.
 
@@ -26143,7 +25896,6 @@ C:\Projetos\caloni>bzr qlog
 
 ![](bazaar_com_subversion_bazaar_subversion.png)
 
-[bzr-svn]: http://doc.bazaar.canonical.com/latest/en/user-guide/svn_plugin.html
 
 # A Arca Russa
 date: 2011-03-28
@@ -26764,13 +26516,12 @@ Por fim, alguns detalhes chegam a ser até interessantes. É curioso, por exempl
 date: 2011-05-29
 tags: computer archive
 
-Reestruturei meus projetos caseiros e coloquei todos em um branch no repositório do Assembla. A partir dele começarei a reestruturas os códigos de exemplo do saite, o deve facilitar o acesso. Para usuários do Bazaar, como eu, basta puxar o branch usando [seu endereço] usando o comando `bzr get`:
+Reestruturei meus projetos caseiros e coloquei todos em um branch no repositório do Assembla. A partir dele começarei a reestruturas os códigos de exemplo do saite, o deve facilitar o acesso. Para usuários do Bazaar, como eu, basta puxar o branch usando "seu endereço" usando o comando `bzr get`:
 
 ![](novo_branch_para_projetos_do_caloni_com_br_nova_branch_bazaar_assembla.png)
 
 Para os usuários do Subversion, ou qualquer outro controle de fonte que consiga ler um branch feito em SVN, google for it.
 
-[seu endereço]: http://subversion.assembla.com/svn/caloni/trunk
 
 # Singularidades de uma Rapariga Loura
 date: 2011-05-29
@@ -26819,7 +26570,7 @@ Infelizmente, apenas isso não sustenta uma narrativa no mínimo interessante.
 date: 2011-06-04
 tags: essays blog
 
-"Já falei sobre cronogramas" por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP e Scrum] (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
+"Já falei sobre cronogramas" por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que "li um pouco mais sobre técnicas XP e Scrum" (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
 
 Vejamos o texto original (auto-plágio):
 
@@ -26883,7 +26634,6 @@ Note que, se quiser, pode fazer a análise contrária também, tanto de um quant
 
 O número de horas ficou muito maior que o esperado? Não me admira que os projetos geralmente atrasem, então. Por pior que pareça o cálculo final, ele foi construído com base na realidade. E não há nada melhor do que nos basearmos na realidade para estimar seriamente o quanto pode custar à empresa um projeto qualquer.
 
-[li um pouco mais sobre técnicas XP e Scrum]: http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches
 
 # X-Men: Primeira Classe (Matthew Vaughn, 2011)
 date: 2011-06-07
@@ -27155,7 +26905,7 @@ Nos vemos lá.
 
 #### // Comments
 
-2008-02-27 [Daniel Quadros]:
+2008-02-27 "Daniel Quadros":
 
 Esta "criptografia" lembra a que eu sugiro sempre que alguem fala para usar qualquer coisa bem simples: trocar maiúsculas por minúsculas.
 
@@ -27171,7 +26921,7 @@ Antecipadamente agradeço
 
 ---
 
-2008-07-18 [Marcio Wesley Borges]:
+2008-07-18 "Marcio Wesley Borges":
 
 Caracas, amigo! Este post sim, eu gostei! Du caralho seu artigo!
 
@@ -27183,7 +26933,7 @@ Marcio Wesley Borges
 
 ---
 
-2008-07-09 [Nicolau Werneck]:
+2008-07-09 "Nicolau Werneck":
 
 Sensacional trabalho, meus parabéns! Estou morrendo de inveja. Kudos pra vc! :)
 
@@ -27209,7 +26959,7 @@ Olá, Marcio.
 
 Fico feliz que tenha gostado bastante. Ultimamente estou meio parado com as reversa, mas espero escrever mais artigos com esse tema (e prática).
 
-Interessante o [StarDict] que você recomendou em seu blogue. Vou testá-lo nos próximos dias.
+Interessante o "StarDict" que você recomendou em seu blogue. Vou testá-lo nos próximos dias.
 
 []s
 
@@ -27223,10 +26973,6 @@ Aguarde, por favor, que está para ser lançada a versão com interface com usu�
 
 []s
 
-[Daniel Quadros]: http://dqsoft.blogspot.com
-[Marcio Wesley Borges]: https://marciowb.dev/
-[Nicolau Werneck]: http://philogroky.blogspot.com/
-[StarDict]: http://stardict.sourceforge.net/
 
 # A Árvore
 date: 2011-07-01
@@ -27439,7 +27185,7 @@ Depurando diretamente, vemos que a stream, de fato, contém o que esperávamos. 
 
 ![](cuidado_com_variaveis_temporarias_x3n9FXS.png)
 
-O porquê isso ocorre só fica óbvio quando vemos [a ajuda] (ou a assinatura) da função str da classe stringstream:
+O porquê isso ocorre só fica óbvio quando vemos "a ajuda" (ou a assinatura) da função str da classe stringstream:
 
 "Get/set the associated string object The first version returns a copy of the string object currently associated with the string stream buffer."
 
@@ -27494,7 +27240,6 @@ LogError(ss.str().c_str());
 
 Particularmente, gosto de instruções simples que me permitam ver claramente o que está acontecendo de forma simples pelo depurador (até porque sei que o compilador irá otimizar tudo no final em versão Release, ainda mais se estiver quebrado em instruções simples). Porém, toda solução que evita o uso da variável temporária após a execução do método str é válida.
 
-[a ajuda]: https://cplusplus.com/reference/sstream/stringstream/str/
 
 # Depuração de emergência
 date: 2011-07-26
@@ -29241,13 +28986,12 @@ date: 2011-12-20
 slug: licoes_da_vida
 tags: cinema movies
 
-Filme estrelado por Rupert Grint, e quem está acostumado com seus trejeitos na [saga Harry Potter] não vai se decepcionar. Para os que esperavam uma atuação mais envolvida com um projeto apartado dos livros dos bruxinhos, vai.
+Filme estrelado por Rupert Grint, e quem está acostumado com seus trejeitos na "saga Harry Potter" não vai se decepcionar. Para os que esperavam uma atuação mais envolvida com um projeto apartado dos livros dos bruxinhos, vai.
 
 No entanto, as participações de Laura Linney e Julie Walter (essa última, também dos filmes dos bruxinhos) conseguem elevar o filme a um drama digno de nota. Ambas desempenham papéis complexos: Laura é a mãe de Ben Marshall (Grint), esposa do pároco da comunidade e religiosa fervorosa, aplica regras rígidas na educação de Ben, além de tomar decisões autoritárias na casa, como abrigar um viúvo desamparado.
 
 Fora isso, temos Julie Walters no papel de Evie Walton, uma atriz aposentada cuja vida é um misto de realidade e encenação. Esse é o papel que faz toda a diferença.
 
-[saga Harry Potter]: harry_potter_e_a_pedra_filosofal
 
 # Matrix (Lana Wachowski, Lilly Wachowski, 1999)
 date: 2011-12-20
@@ -29425,12 +29169,11 @@ date: 2012-01-08
 slug: dumbo
 tags: cinema movies
 
-Um dos trabalhos mais esquecidos da Disney das décadas passadas, e um dos poucos que conseguiu arrecadar bilheteria o suficiente para manter a empresa de animação nos eixos durante a Segunda Guerra, Dumbo possui uma leveza e doçura que não existe em trabalhos mais sombrios da época, como "Branca de Neve" e Pinóquio (sem contar o extremamente cruel Bambi). No entanto, não é apenas isso que se nota no curto longa-metragem: surrealismo ([Pink Elephants on Parade]), regionalismo (os corvos que usam até uma música descaradamente plagiada em "A Princesa e o Sapo") e preciosismo nos movimentos são alguns traços que mantém este trabalho como uma das grandes animações já feitas no Cinema.
+Um dos trabalhos mais esquecidos da Disney das décadas passadas, e um dos poucos que conseguiu arrecadar bilheteria o suficiente para manter a empresa de animação nos eixos durante a Segunda Guerra, Dumbo possui uma leveza e doçura que não existe em trabalhos mais sombrios da época, como "Branca de Neve" e Pinóquio (sem contar o extremamente cruel Bambi). No entanto, não é apenas isso que se nota no curto longa-metragem: surrealismo ("Pink Elephants on Parade"), regionalismo (os corvos que usam até uma música descaradamente plagiada em "A Princesa e o Sapo") e preciosismo nos movimentos são alguns traços que mantém este trabalho como uma das grandes animações já feitas no Cinema.
 
 No entanto, nada disso é o que faz dele um dos meus favoritos do estúdio. Munido da paleta clássica de cartoons, Dumbo ainda consegue trazer drama para a tela em seu momento climático mesmo depois de termos visto a mesma cena várias vezes. O quadro-a-quadro aqui é um exemplo de Cinema a ser copiado e estudado.
 
 "Branca de Neve": branca_de_neve_e_os_sete_anoes
-[Pink Elephants on Parade]: https://en.wikipedia.org/wiki/Pink_Elephants_on_Parade
 
 # Adeus, Primeiro Amor
 date: 2012-01-09
@@ -30101,7 +29844,7 @@ OK, não estou admitindo aqui o famigerado Rebuild All. Se você mantém projeto
 
 Acontece que existe uma árvore de dependências que o Visual Studio mantém para saber se seu projeto foi atualizado com tudo que tem mais de novo no que diz respeito ao File System, mas às vezes se esquece de checar o FS com o que está na solution. Por conta disso, o HeaderInutil e o CppInutil continuam dentro da árvore de dependência como zumbis.
 
-O que pode ser feito nesse caso (além do que os personagens de The Walking Dead costumam fazer) é configurar o arquivo devenv.exe.config (presente em %programfiles(x86)%\Microsoft Visual Studio 10.0\Common7\IDE) e adicionar as seguintes linhas após a seção configSections. (Esses passos [estão descritos no blogue da equipe do VC] (2026-03-28 link quebrado).)
+O que pode ser feito nesse caso (além do que os personagens de The Walking Dead costumam fazer) é configurar o arquivo devenv.exe.config (presente em %programfiles(x86)%\Microsoft Visual Studio 10.0\Common7\IDE) e adicionar as seguintes linhas após a seção configSections. (Esses passos "estão descritos no blogue da equipe do VC" (2026-03-28 link quebrado).)
 
 ```
 <system.diagnostics>
@@ -30113,7 +29856,7 @@ O que pode ser feito nesse caso (além do que os personagens de The Walking Dead
 
 ![](header_inutil_header_inutil3.png)
 
-Depois de modificar o arquivo, reinicie o Visual Studio e tente novamente apertar F5 no mesmo projeto, mas com o [DebugView] aberto.
+Depois de modificar o arquivo, reinicie o Visual Studio e tente novamente apertar F5 no mesmo projeto, mas com o "DebugView" aberto.
 
 ![](header_inutil_header_inutil4.png)
 
@@ -30121,8 +29864,6 @@ Como um amigo meu diria: "AHÁ!!". Descobrimos o culpado.
 
 A solução? Nesse caso não tem jeito: dar um clean no projeto e build novamente para que o VS reconstrua a árvore de dependências. Porém, agora sabemos por que precisamos do Rebuild All. Não é RebuildAllMania.
 
-[estão descritos no blogue da equipe do VC]: http://blogs.msdn.com/b/vsproject/archive/2009/07/21/enable-c-project-system-logging.aspx
-[DebugView]: http://technet.microsoft.com/en-us/sysinternals/bb896647
 
 # Raul: O Início, o Fim e o Meio
 date: 2012-03-28
@@ -30710,7 +30451,7 @@ O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024 + QUEUES_SIZE - 
  0059de58 0(...)
 ```
 
-A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do [GFlags]:
+A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do "GFlags":
 
 ![](consumo_abusivo_de_memoria_JeqoBju.png)
 
@@ -30766,23 +30507,15 @@ Outra informação relevante é o que está gravado na memória, que pode nos da
 
 Não é o caso, mas vamos supor que fosse um objeto/tipo conhecido. Poderíamos simplesmente "importar" o tipo diretamente do PDB que estamos para modelar a memória que encontramos em volta. Mais detalhes em outro artigo.
 
-Funções/classes usadas nesse artigo: [CreateThread] (cria uma nova linha de execução), [WaitForMultipleObjects] (pode aguardar diferentes linhas de execução terminarem), [std::list] (lista na STL para inserir/remover objetos na frente e atrás (ui)), [Initialize], [Enter] e [LeaveCriticalSection] (uma maneira simples de criar blocos de entrada atômica, ou seja, apenas uma thread entra por vez) e [memset]. Se você não sabe usar memset, provavelmente não entendeu nada desse artigo.
+Funções/classes usadas nesse artigo: "CreateThread" (cria uma nova linha de execução), "WaitForMultipleObjects" (pode aguardar diferentes linhas de execução terminarem), "std::list" (lista na STL para inserir/remover objetos na frente e atrás (ui)), "Initialize", "Enter" e "LeaveCriticalSection" (uma maneira simples de criar blocos de entrada atômica, ou seja, apenas uma thread entra por vez) e "memset". Se você não sabe usar memset, provavelmente não entendeu nada desse artigo.
 
-[GFlags]: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags
-[CreateThread]: https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread
-[WaitForMultipleObjects]: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitformultipleobjects
-[std::list]: https://en.cppreference.com/w/cpp/container/list.html
-[Initialize]: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-initializecriticalsection
-[Enter]: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-entercriticalsection
-[LeaveCriticalSection]: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-leavecriticalsection
-[memset]: https://en.cppreference.com/w/cpp/string/byte/memset
 
 # Sobrecarga de função às avessas
 date: 2012-05-20
 slug: sobrecarga_de_funcao_as_avessas
 tags: computer ccpp blog
 
-Nota do autor: navegando pelo Archive.org, que possibilita viajar no tempo e encontrar coisas enterradas que seria melhor deixar por lá, consegui encontrar um post que se perdeu na dobra espaço-temporal entre o old-fashioned Caloni.com.br (com direito à velha joaninha psicodélica, desenho do meu amigo que uso até hoje no blogue) e um finado outro domínio meu, o CThings. No final, consegui matar a marmota, chegar a [80 milhas por hora] e voltar para o presente. Enjoy!
+Nota do autor: navegando pelo Archive.org, que possibilita viajar no tempo e encontrar coisas enterradas que seria melhor deixar por lá, consegui encontrar um post que se perdeu na dobra espaço-temporal entre o old-fashioned Caloni.com.br (com direito à velha joaninha psicodélica, desenho do meu amigo que uso até hoje no blogue) e um finado outro domínio meu, o CThings. No final, consegui matar a marmota, chegar a "80 milhas por hora" e voltar para o presente. Enjoy!
 
 Alguém já se perguntou se é possível usar sobrecarga de função quando a diferença não está nos parâmetros recebidos, mas no tipo de retorno? Melhor dizendo, imagine que eu tenha o seguinte código:
 
@@ -30850,7 +30583,6 @@ struct CreateNewGUID
 
 E isso conclui a solução meio esquizofrênica de nossa sobrecarga às avessas. E voltando à pergunta original, penso que, com criatividade e C++, nada é impossível. =)
 
-[80 milhas por hora]: https://en.wikipedia.org/wiki/Back_to_the_Future
 
 # O Corvo
 date: 2012-05-24
@@ -30876,9 +30608,9 @@ Ainda assim, seu desfecho desperta uma atenção que até então estava adormeci
 # Problemas comuns no WinDbg e suas soluções
 date: 2012-05-27
 
-Depois de uma agradável manhã e tarde acompanhando o [curso de desenvolvimento de drivers do meu amigo Ferdinando] voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.
+Depois de uma agradável manhã e tarde acompanhando o "curso de desenvolvimento de drivers do meu amigo Ferdinando" voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.
 
-Pesquisando por um problema específico envolvendo PDBs reencontrei o [blogue do Ken Johnson], MVP Microsoft e analista por profissão e diversão, é conhecido por suas excelentes contribuições no mundo da depuração de sistema (notadamente WinDbg). Existe um post específico que ele escreveu para economizar tempo com problemas que ocorrem de vez em quando em uma sessão ou outra de depuração, mas nunca paramos tempo o suficiente para resolver.
+Pesquisando por um problema específico envolvendo PDBs reencontrei o "blogue do Ken Johnson", MVP Microsoft e analista por profissão e diversão, é conhecido por suas excelentes contribuições no mundo da depuração de sistema (notadamente WinDbg). Existe um post específico que ele escreveu para economizar tempo com problemas que ocorrem de vez em quando em uma sessão ou outra de depuração, mas nunca paramos tempo o suficiente para resolver.
 
 Além de outros, ele lista alguns que particularmente já aconteceram comigo ou com colegas de depuração:
 
@@ -30900,11 +30632,8 @@ E, como brinde, um grande aliado da produtividade: como evitar que o WinDbg bloq
 
 .reload -u modulo
 
-Fonte: Blog do [Nynaeve].
+Fonte: Blog do "Nynaeve".
 
-[curso de desenvolvimento de drivers do meu amigo Ferdinando]: http://driverentry.com.br/blog/?page_id=16
-[blogue do Ken Johnson]: http://www.nynaeve.net/
-[Nynaeve]: http://www.nynaeve.net/?p=164
 
 # Meus repositórios no GitHub
 date: 2012-06-04
@@ -31107,7 +30836,7 @@ tags: cinema movies
 
 Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.
 
-É preciso dar créditos às verossímeis interpretações de Amy Adams ("O Vencedor", Os Muppets), James Marsden ("Hop: Rebelde Sem Páscoa") e Timothy Spall (da [série Harry Potter]), que caracterizam perfeitamente suas contrapartes em desenho (ou vice-versa), além, é claro, de efeitos extremamente eficientes com os animais, que oferecem um encantamento adicional necessário para que compremos, de fato, a história que vai se passar.
+É preciso dar créditos às verossímeis interpretações de Amy Adams ("O Vencedor", Os Muppets), James Marsden ("Hop: Rebelde Sem Páscoa") e Timothy Spall (da "série Harry Potter"), que caracterizam perfeitamente suas contrapartes em desenho (ou vice-versa), além, é claro, de efeitos extremamente eficientes com os animais, que oferecem um encantamento adicional necessário para que compremos, de fato, a história que vai se passar.
 
 Porém, a grande virtude da direção é abraçar sem reservas o tema inicial, recriando sem tornar clichê cenas clássicas do imaginário Disney, como em um inspiradíssimo baile que consegue unir composições tão distintas como A Bela e a Fera, "Branca de Neve e os Sete Anões" e Cinderela sem soar banal.
 
@@ -31119,7 +30848,6 @@ O que não se pode dizer do sistema de pistas e recompensas com que o filme sabi
 
 Dessa forma, podemos dizer que o esforço narrativo sobre o absurdo da história, assim como a eterna batalha entre o bem e o mal, prevalece.
 
-[série Harry Potter]: harry_potter_e_o_prisioneiro_de_azkaban
 
 # Sede de Paixões
 date: 2012-06-15
@@ -34402,7 +34130,7 @@ date: 2013-11-07
 slug: ponto_flutuante_afundando
 tags: computer blog
 
-Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 ([até a Calc do Windows] (2026-03-28 link quebrado) e [o Excel] funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
+Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 ("até a Calc do Windows" (2026-03-28 link quebrado) e "o Excel" funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
 
 ```
 #include <iostream>
@@ -34447,7 +34175,7 @@ Na comparação com o valor redondo aparece a falha, mas note que isso não ocor
 
 ##### Corrigindo o incorrigível
 
-Há uma forma de arredondamento [já disponível no C99] (mas não no Visual Studio 2010) que pode ser útil para esses casos. A única coisa que é preciso fazer é arredondar os valores antes do cálculo:
+Há uma forma de arredondamento "já disponível no C99" (mas não no Visual Studio 2010) que pode ser útil para esses casos. A única coisa que é preciso fazer é arredondar os valores antes do cálculo:
 
 ```
 #include <iostream>
@@ -34480,12 +34208,8 @@ Não estou de acordo com o armazenamento de valores monetários em doubles em ve
 
 UPDATE 2
 
-Existe uma discussão exatamente sobre isso no [Grupo C/C++ Brasil] (2026-03-28 link quebrado), que recomendo a leitura, o que me levou a escrever o post. Particularmente, sigo o raciocínio do Pedro Lamarão.
+Existe uma discussão exatamente sobre isso no C++ Brasil]/C++ Brasil] (2026-03-28 link quebrado), que recomendo a leitura, o que me levou a escrever o post. Particularmente, sigo o raciocínio do Pedro Lamarão.
 
-[até a Calc do Windows]: http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html
-[o Excel]: http://dqsoft.blogspot.com.br/2007/09/ser-que-o-excel-2007-desaprendeu.html
-[já disponível no C99]: http://stackoverflow.com/questions/8316509/difference-dev-cpp-and-microsoft-visual-c-math-h
-[Grupo C/C++ Brasil]: https://groups.google.com/forum/#!topic/ccppbrasil/uzn6i0PJi8UEu
 
 # Elvira, a Rainha das Trevas
 date: 2013-11-08
@@ -34944,7 +34668,7 @@ Isso ocorre porque o comportamento do remove_if é copiar todos os elementos que
 
 ![RemoveIfComportamento](remove_if_ate_remove_so_que_diferente_JHucsWz.png)
 
-De acordo com [o saite cplusplus.com], o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
+De acordo com "o saite cplusplus.com", o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
 
 ```
 template <class ForwardIterator, class UnaryPredicate>
@@ -35016,7 +34740,6 @@ int main()
 
 Esse C++... intuitivo como nunca!
 
-[o saite cplusplus.com]: http://www.cplusplus.com/reference/algorithm/remove_if/
 
 # Boy Meets Girl
 date: 2014-01-23
@@ -35247,7 +34970,7 @@ date: 2014-02-27
 slug: houaiss_para_babylon_python
 tags: computer projects blog
 
-O [Fabio Montefuscolo] expandiu mais ainda o acesso do conversor Houaiss para Babylon implementando uma versão em Python, uma linguagem que estou aprendendo a adorar. Tudo é mais simples, rápido e direto em Python, e o código que ele escreveu utiliza todo esse potencial:
+O "Fabio Montefuscolo" expandiu mais ainda o acesso do conversor Houaiss para Babylon implementando uma versão em Python, uma linguagem que estou aprendendo a adorar. Tudo é mais simples, rápido e direto em Python, e o código que ele escreveu utiliza todo esse potencial:
 
 ```
 #!/usr/bin/python2
@@ -35285,7 +35008,6 @@ for arq in files:
     target.close()
 ```
 
-[Fabio Montefuscolo]: https://gist.github.com/fabiomontefuscolo
 
 # A Hora da Zona Morta
 date: 2014-03-01
@@ -35757,7 +35479,7 @@ Mas além da empolgante história o que cativa mesmo o espectador é a qualidade
 # Geleia de Código
 date: 2014-04-15
 
-Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual [Google Code Jam], que pretende levar a categoria de código ofuscado para um novo patamar.
+Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual "Google Code Jam", que pretende levar a categoria de código ofuscado para um novo patamar.
 
 No entanto, esse ano apareceram dois motivos que me levaram a gastar cinco minutos de paciência com as historinhas bestas da equipe do Google. Primeiro o Python, que desde 2013 tem renovado em mim a sensação que programar ainda é divertido (e que o pessoal da Microsoft e do padrão C++ tinham tirado de mim há muito tempo com seus compiladores cada vez mais complexos/lentos e as IDEs que demoram o tempo do cafezinho para abrir). Segundo o que move o mundo: a concorrência. Minha digníssima esposa, levada por alguns pontos-extra na faculdade (uma iniciativa até que louvável do professor), resolveu participar da primeira fase (a classificação desta fase também dava pontos).
 
@@ -36112,7 +35834,6 @@ Não, eu não usei o Google para descobrir a lógica por trás do problema. Vai 
 
 PS: Bom, estou na próxima fase. Veremos o que o futuro nos espera. Esse programador foi fisgado pelo campeonato de pastéis.
 
-[Google Code Jam]: https://code.google.com/codejam/contest/2974486/dashboard
 
 # Gigantes de Aço
 date: 2014-04-16
@@ -36211,11 +35932,11 @@ No entanto, existem momentos "picantes" entre os meninos, o suficiente para faze
 date: 2014-04-24
 tags: code
 
-Pronto, posso programar em paz. O jogo 2048 é uma lástima para todos os trabalhadores intelectuais que dependem de suas mentes para produzir algo que preste. Ele gerou mais posts no Hacker News do que a moda dos bitcoins (talvez não) e mais projetos no GitHub do que a busca para a cura do câncer (talvez não). Obviamente que este post vai gerar mais um [gist Python] para minha coleção.
+Pronto, posso programar em paz. O jogo 2048 é uma lástima para todos os trabalhadores intelectuais que dependem de suas mentes para produzir algo que preste. Ele gerou mais posts no Hacker News do que a moda dos bitcoins (talvez não) e mais projetos no GitHub do que a busca para a cura do câncer (talvez não). Obviamente que este post vai gerar mais um "gist Python" para minha coleção.
 
 Não sou fã de jogos, e dos poucos que participei logo parei (exceções honrosas: Portal e Portal 2, esses malditos). Posso dizer o mesmo de 2048, a versão de uma espécie de jogo já conhecido feita pelo italiano Gabriele Cirulli em um fds para descobrir se seria capaz de fazê-lo. Ele o fez e de brinde também fez o índice de produtividade mundial desabar.
 
-Houve pelo menos dois projetos de I.A. para resolver o problema, que consiste em dobrar números múltiplos de 2 em um quadrado 4 x 4 até que se consiga o quadrado com o valor 2048 (e além). O artigo de Nicola Pezzotti, [An Artificial Intelligence for the 2048 game], explica o mais efetivo deles, de autoria de Robert Xiao (eu acho). O programa desenvolvido por Xiao otimiza o tabuleiro do jogo guardando-o em um inteiro de 64 bits, deixando 4 bits para cada casa, mais que o suficiente para que seja armazenada a potência de 2 localizada no quadrado (o limite fica sendo de 2  16, ou 65536). Ao rodar a versão executável console ele imprime cada posição do tabuleiro em um formato "fácil" de ser lido.
+Houve pelo menos dois projetos de I.A. para resolver o problema, que consiste em dobrar números múltiplos de 2 em um quadrado 4 x 4 até que se consiga o quadrado com o valor 2048 (e além). O artigo de Nicola Pezzotti, "An Artificial Intelligence for the 2048 game", explica o mais efetivo deles, de autoria de Robert Xiao (eu acho). O programa desenvolvido por Xiao otimiza o tabuleiro do jogo guardando-o em um inteiro de 64 bits, deixando 4 bits para cada casa, mais que o suficiente para que seja armazenada a potência de 2 localizada no quadrado (o limite fica sendo de 2  16, ou 65536). Ao rodar a versão executável console ele imprime cada posição do tabuleiro em um formato "fácil" de ser lido.
 
 <https://youtu.be/GVTCej6zwAk>
 
@@ -36290,8 +36011,6 @@ def ProcessGame(filePath):
 
 A estratégia do programa de IA é ordenar as casas em um lado e, assim que acumular valores o suficiente, consolidar tudo na última casa. Nem sempre isso é possível, pois uma virada de jogo pode deixar a casa com o maior valor no meio de um dos lados. Nesse caso, é interessante ver como a I.A. se sai, já que com apenas uma execução ela foi até 8192 e mais um 4096. Dá-lhe, computador!
 
-[gist Python]: https://gist.github.com/Caloni/ef21412075c5600c9700d967702419be
-[An Artificial Intelligence for the 2048 game]: https://gsurma.medium.com/2048-solving-2048-with-monte-carlo-tree-search-ai-2dbe76894bab
 
 # Abel
 date: 2014-04-26
@@ -36343,7 +36062,7 @@ A primeira bateria de problemas da segunda fase do Code Jam me mostrou o porquê
 
 ![cowblet_cover](que_geleia_de_mocoto_iqT5sSy.jpg)
 
-De qualquer forma, esse final de semana que passou foi dedicado a resolver o primeiro problema e quem sabe escrever um post a respeito. Imagino que todos tenham acesso ao [enunciado] (2026-03-28 link quebrado) e aos casos de teste, mas, por via das dúvidas, aqui vai uma descrição adaptada:
+De qualquer forma, esse final de semana que passou foi dedicado a resolver o primeiro problema e quem sabe escrever um post a respeito. Imagino que todos tenham acesso ao "enunciado" (2026-03-28 link quebrado) e aos casos de teste, mas, por via das dúvidas, aqui vai uma descrição adaptada:
 
 Você é um fazendeiro hi-tech com uma vaca que tem um tablet. Não especifica se esse cowblet é um iPad, mas é uma possibilidade, já que como nenhum plugue parece encaixar nas tomadas de sua fazenda, é muito provável que você seja um Applemaníaco com um monte de gadgets que precisam de conversor vindos direto do eBay.
 
@@ -36467,7 +36186,6 @@ O que aprendi dessa pequena aventura foi: não importa o quanto um problema pare
 
 Que venha a segunda bateria de problemas!
 
-[enunciado]: http://code.google.com/codejam/contest/2984486/dashboard#s=p0
 
 # O Mistério das Duas Irmãs
 date: 2014-05-01
@@ -36520,7 +36238,7 @@ A diferença entre o bom e o ruim é que o bom pega aleatoriamente apenas os ele
 
 ![Gráfico dos Algoritmos de Embaralhamento](poker_face_OL0hpLv.jpg)
 
-O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encontrar um detector de aleatoriedade (aliás, encontrei um bem interessante chamado [ent]), tanto "na mão" quanto pesquisando. O que eu não imaginava foi que o teste que eu tinha feito no início usando uma simples planilha Excel era a solução óbvia (naquelas de é óbvio só depois que você vê). E foi essa a solução adotada por Kaizero.
+O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encontrar um detector de aleatoriedade (aliás, encontrei um bem interessante chamado "ent"), tanto "na mão" quanto pesquisando. O que eu não imaginava foi que o teste que eu tinha feito no início usando uma simples planilha Excel era a solução óbvia (naquelas de é óbvio só depois que você vê). E foi essa a solução adotada por Kaizero.
 
 ```
 /** @author Kaizero
@@ -36630,7 +36348,6 @@ O que ele basicamente faz é acumular os resultados de três milhões de embaral
 
 Tão óbvio, tão simples, tão elegante.
 
-[ent]: http://www.fourmilab.ch/random/
 
 # Amante a Domicílio
 date: 2014-05-08
@@ -37132,7 +36849,7 @@ A primeira mudança técnica entre o Windows XP para o Windows Vista/7/8 que me 
 
 Seja no formato Home Computer (a telinha de boas vindas) ou no tradicional "Pressione Ctrl+Alt+Del" do Windows NT -- quando a máquina está no domínio -- quem gerencia essa tela é o processo de sistema iniciado a partir do WinLogon.exe. O WINLOGON carrega a nossa amiga gina.dll que é quem realiza a autenticação dos usuários.
 
-Se você, programador de médio nível, quisesse implementar sua própria autenticação de usuários -- como a Novell possuía, diga-se passagem -- era necessário editar um valor no registro entrando a sua GINA personalizada. Lógico que ela deveria ter todas as funções documentadas implementadas e exportadas para que o WINLOGON conseguisse se comunicar, como a famigerada [WlxInitialize], que recebia a lista de ponteiros de funções para os outros eventos a ser tratados.
+Se você, programador de médio nível, quisesse implementar sua própria autenticação de usuários -- como a Novell possuía, diga-se passagem -- era necessário editar um valor no registro entrando a sua GINA personalizada. Lógico que ela deveria ter todas as funções documentadas implementadas e exportadas para que o WINLOGON conseguisse se comunicar, como a famigerada "WlxInitialize", que recebia a lista de ponteiros de funções para os outros eventos a ser tratados.
 
 ```
 // Essa funcao sobrescreve a original do Windows no momento do logon.
@@ -37189,7 +36906,6 @@ A solução foi capturar detalhes do login através das fases subsequentes do lo
 
 Nem sempre o que estava rodando já há anos é a solução mais bonita. Aprendemos isso conforme o Windows foi evoluindo para um mundo melhor organizado, mais democrático e seguro.
 
-[WlxInitialize]: http://msdn.microsoft.com/en-us/library/windows/desktop/aa380567%28v=vs.85%29.aspx
 
 # Malévola
 date: 2014-06-11
@@ -37425,13 +37141,12 @@ link: https://www.linkedin.com/company/671883/admin/dashboard/
 slug: bitforge
 tags: blog
 
-BitForge é minha empresa principal e onde eu trabalho resolvendo os problemas mais difíceis de computação; nos contrate para resolver seu problema [pelo Linkedin] ou enviando um email para wanderley.caloni@gmail.com. Conversar sobre seu projeto e até gastar uma horinha entendendo ele faz parte do nossa forma de se aproximar de você sem precisar da burocracia de um contrato ou pagamento de consultoria. Marque um café ou uma call conosco =)
+BitForge é minha empresa principal e onde eu trabalho resolvendo os problemas mais difíceis de computação; nos contrate para resolver seu problema "pelo Linkedin" ou enviando um email para wanderley.caloni@gmail.com. Conversar sobre seu projeto e até gastar uma horinha entendendo ele faz parte do nossa forma de se aproximar de você sem precisar da burocracia de um contrato ou pagamento de consultoria. Marque um café ou uma call conosco =)
 
 Somos especialistas em software que já ajudamos dezenas de empresas a alcançar seus objetivos. Nós podemos fazer o mesmo por você desde a concepção, estudo de viabilidade e escolha de tecnologia até a solução de problemas de produção, como performance insuficiente ou bugs intermitentes. Se sua empresa precisa de um apoio na área de software para plataformas Windows e Linux (e outros nixes), nós podemos ajudá-lo.
 
 Nosso foco é oferecer consultoria, suporte e desenvolvimento especializado para ajudar sua empresa com problemas técnicos que parecem insolúveis. Contamos com know-how completo em sistemas operacionais Linux e MS Windows, e nas linguagens C/C++/C#, Python, Java, Rust e até Assembly!
 
-[pelo Linkedin]: https://www.linkedin.com/company/bit-forge
 
 # TDC 2014
 date: 2014-07-08
@@ -37463,13 +37178,12 @@ tags: ccppbr blog
 
 Nesse TDC, além da minha palestra usual na trilha C/C++ irei participar da trilha de segurança, voltando às minhas origens, quando programava em empresas de segurança da informação. Foram 10 anos!
 
-Estão marcadas duas palestras nesse dia (quinta-feira, 7 de agosto de 2014): uma já ministrada outras vezes sobre o processo de engenharia reversa do dicionário Houaiss, que gerou tantas discussões nos comentários e versões alternativas (inclusive uma [em Python]!) do código. Aqui, além de já explicar o processo que me fez abrir o dicionário Houaiss para uso no Babylon, pularei a parte do uso no Babylon e irei focar mais nas técnicas de segurança que podemos utilizar para tornar essa engenharia reversa não impossível, mas pelo menos um pouco mais difícil.
+Estão marcadas duas palestras nesse dia (quinta-feira, 7 de agosto de 2014): uma já ministrada outras vezes sobre o processo de engenharia reversa do dicionário Houaiss, que gerou tantas discussões nos comentários e versões alternativas (inclusive uma "em Python"!) do código. Aqui, além de já explicar o processo que me fez abrir o dicionário Houaiss para uso no Babylon, pularei a parte do uso no Babylon e irei focar mais nas técnicas de segurança que podemos utilizar para tornar essa engenharia reversa não impossível, mas pelo menos um pouco mais difícil.
 
 Já a segunda palestra é bem rápida -- espero! -- e fala sobre um artigo que li de Laura Diane Hamilton sobre algoritmo de embaralhamento de cartas para saites de pôquer. Esse artigo, que irei demonstrar, explica diversas falhas do código de um saite e eu tentarei explicar brevemente maneiras de se aproveitar dessas falhas, além -- é claro -- de como se proteger contra isso!
 
 Então é isso aí, mais um dia, mais uma trilha, mais bits e bytes. Nos vemos por lá!
 
-[em Python]: houaiss_para_babylon_python
 
 # Integrando BitBucket e GitHub com Trello
 date: 2014-07-22
@@ -37478,7 +37192,7 @@ tags: computer blog
 
 Eu nem acredito que estou escrevendo sobre desenvolvimento web, mas como foi algo que me fez dedicar algumas horas do meu fim-de-semana, e não encontrei facilmente uma solução já feita, acredito que pode ser útil para mais alguém que usa Trello e GitHub (ou BitBucket).
 
-Mas o que é [Trello]? Basicamente é um TodoList feito da maneira mais inteligente possível: uma lista de listas de listas! Os espaços, ou desktops, onde você organiza suas tarefas são chamados de Boards. Em cada board vivem L listas, e em cada lista vivem C cards. Cada card pode conter comentários, histórico de mudanças, labels, checklists, due dates e todas as tranqueiras que geralmente existe em uma lista de tarefas. É um sistema online, desenvolvido pela empresa do Joel Spolsky (o mesmo do excelente blogue de programador [Joel on Software] e que contém algo que eu adoro em sistemas web: atalhos!
+Mas o que é "Trello"? Basicamente é um TodoList feito da maneira mais inteligente possível: uma lista de listas de listas! Os espaços, ou desktops, onde você organiza suas tarefas são chamados de Boards. Em cada board vivem L listas, e em cada lista vivem C cards. Cada card pode conter comentários, histórico de mudanças, labels, checklists, due dates e todas as tranqueiras que geralmente existe em uma lista de tarefas. É um sistema online, desenvolvido pela empresa do Joel Spolsky (o mesmo do excelente blogue de programador [Joel on Software] e que contém algo que eu adoro em sistemas web: atalhos!
 
 ![Atalhos do Trello](integrando_bitbucketgithub_com_trello_747UasT.png)
 
@@ -37488,9 +37202,9 @@ E por que PHP? Bom, PHP é uma linguagem fácil de mexer (se parece com C, mas �
 
 ## Comentando no Trello
 
-Vamos começar pelo mais difícil que o resto vai fácil: comentar pela API do Trello. Sua [API é beta], assim como sua documentação, então tive que extrair significado inexistente em seu help, mas acabou funcionando. Como qualquer API web, você precisa de uma chave, segredo e a permissão do usuário. Com essa permissão é possível comentar em todas as boards que esse usuário específico tem acesso.
+Vamos começar pelo mais difícil que o resto vai fácil: comentar pela API do Trello. Sua "API é beta", assim como sua documentação, então tive que extrair significado inexistente em seu help, mas acabou funcionando. Como qualquer API web, você precisa de uma chave, segredo e a permissão do usuário. Com essa permissão é possível comentar em todas as boards que esse usuário específico tem acesso.
 
-Pelo menos a parte de [geração de chave/segredo é simples], tanto que se você clicou nesse linque, já conseguiu gerar uma =). (2026-04-02 ou não, link quebrado)
+Pelo menos a parte de segredo é simples]/segredo é simples], tanto que se você clicou nesse linque, já conseguiu gerar uma =). (2026-04-02 ou não, link quebrado)
 
 Depois disso, mesmo nessa página já é possível conseguir uma chave de acesso para o seu usuário.
 
@@ -37538,13 +37252,13 @@ Muito bem. Primeira parte da missão concluída.
 
 ## Terminando com GitHub
 
-Como o [GitHub] é um dos serviços de repositório de fontes mais famoso, vamos torná-lo nosso caso de sucesso. Basicamente você deve ir no seu repositório do coração (essa é a parte ruim: se você tem mais de um coração, vai ter que repetir esse mesmo procedimento para todos os outros repositórios dos seus outros corações), Settings, Webhooks & Services.
+Como o "GitHub" é um dos serviços de repositório de fontes mais famoso, vamos torná-lo nosso caso de sucesso. Basicamente você deve ir no seu repositório do coração (essa é a parte ruim: se você tem mais de um coração, vai ter que repetir esse mesmo procedimento para todos os outros repositórios dos seus outros corações), Settings, Webhooks & Services.
 
 ![Adicionando um WebHook ao GitHub](integrando_bitbucketgithub_com_trello_4Lph9w6.png)
 
 Lembre-se de colocar seu código PHP em um servidor visível na web. Lembre-se também de usar o método de envio urlencoded do payload para simplificar seu tratamento. Para simplificar ainda mais o processo, coloque qualquer coisa no segredo (não validaremos neste post, mas #ficadica de segurança se você não quer que outros acessem seu PHP inadvertidamente).
 
-Pois bem. No código que irá receber o payload do GitHub precisamos de duas coisas: saber qual [a estrutura que vai ser recebida] e como localizar o id do card onde iremos enviar a informação. Nesse caso, mais uma vez, para simplificar, vamos procurar pelo próprio linque permanente do cartão na mensagem do commit. Aliás, dos commits (sendo um push, é provável que o evento seja gerado com diversos commits aninhados).
+Pois bem. No código que irá receber o payload do GitHub precisamos de duas coisas: saber qual "a estrutura que vai ser recebida" e como localizar o id do card onde iremos enviar a informação. Nesse caso, mais uma vez, para simplificar, vamos procurar pelo próprio linque permanente do cartão na mensagem do commit. Aliás, dos commits (sendo um push, é provável que o evento seja gerado com diversos commits aninhados).
 
 ```
 <?php
@@ -37595,7 +37309,7 @@ E o negócio é rápido, viu?
 
 ## Adendo: BitBucket
 
-A única coisa que muda no caso do [BitBucket] é a tela onde deve ser inserido seu webhook (método POST, sempre) e a estrutura JSON que é enviada. De lambuja, eis o que deve ser feito com esse payload:
+A única coisa que muda no caso do "BitBucket" é a tela onde deve ser inserido seu webhook (método POST, sempre) e a estrutura JSON que é enviada. De lambuja, eis o que deve ser feito com esse payload:
 
 ```
 <?php
@@ -37635,12 +37349,6 @@ foreach( $bitData->commits as $c )
 ?>
 ```
 
-[Trello]: http://www.trello.com
-[API é beta]: https://trello.com/docs/
-[geração de chave/segredo é simples]: https://trello.com/1/appKey/generate
-[GitHub]: http://www.github.com
-[a estrutura que vai ser recebida]: https://developer.github.com/webhooks/
-[BitBucket]: http://www.bitbucket.org
 
 # As Bicicletas de Belleville
 date: 2014-07-23
@@ -37751,9 +37459,8 @@ A boa nova, pelo menos para o Visual Studio 2013, é que agora é possível, se 
 
 Eu não sei qual vai ser a próxima novidade do step into, mas para mim, já está bem ótimo.
 
-Fonte: [Andy Pennell's Blog] (2026-04-02 link quebrado)
+Fonte: "Andy Pennell's Blog" (2026-04-02 link quebrado)
 
-[Andy Pennell's Blog]: http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx
 
 # TDC 2014 e a trilha de C/C++ com palestras para todos os gostos
 date: 2014-08-11
@@ -37968,7 +37675,7 @@ VS2003 - 37 error(s), 1 warning(s)
 
 Pois é, 37 erros. Depois perguntam por que as pessoas ficam com medo de programar em C++...
 
-Porém, a correção é mais simples do que parece: baixar o [boost] e trocar o nome do namespace.
+Porém, a correção é mais simples do que parece: baixar o "boost" e trocar o nome do namespace.
 
 ```
 #include <boost/shared_ptr.hpp>
@@ -38061,7 +37768,6 @@ typedef shared_ptr<Person> PersonRef;
 
 E é isso. A lição de hoje é: quem quer, arruma um jeito. Quem não quer, uma desculpa.
 
-[boost]: http://www.boost.org/
 
 # A Garota Ideal
 date: 2014-09-07
@@ -38305,11 +38011,10 @@ tags: projects
 
 O projeto Houaiss2Babylon, iniciado há mais de 6 anos, já devia estar ultrapassado. Porém, cada vez mais pessoas compartilham seus usos e desusos do que foi um dia uma base de dados ofuscada e presa a apenas uma interface Windows. Agora, além de já ter sido convertido para Kindle, em Python e agora através do nodejs para o MySql!
 
-O jornalista e programador [Arthur da Paz] desenvolveu esta última novidade no programa e gentilmente compartilhou conosco direto no repositório original do HouaissParaBabylon, colaborando felizmente para que esse nome perdesse um pouco mais do sentido (Babylon já está meio ultrapassado, não?). Além disso ele encontrou a solução para um bug que invertia a ordem de apresentação das Rubricas, cujos detalhes ele explica nos comentários do post sobre a última versão.
+O jornalista e programador "Arthur da Paz" desenvolveu esta última novidade no programa e gentilmente compartilhou conosco direto no repositório original do HouaissParaBabylon, colaborando felizmente para que esse nome perdesse um pouco mais do sentido (Babylon já está meio ultrapassado, não?). Além disso ele encontrou a solução para um bug que invertia a ordem de apresentação das Rubricas, cujos detalhes ele explica nos comentários do post sobre a última versão.
 
 Muito obrigado ao Da Paz e a todos que colaboram e compartilham melhorias para esse projeto. Um dicionário não é nada sem as pessoas que o utilizam.
 
-[Arthur da Paz]: https://github.com/arthurdapaz
 
 # Dexter - Sétima Temporada
 date: 2014-11-09
@@ -39423,7 +39128,7 @@ date: 2015-01-26
 slug: origem_do_tipo_char
 tags: computer ccpp blog
 
-Programadores C e C++, preparem-se para explodir as cabeças! No princípio... não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados srs. dos Laboratórios Bell, K. Thompson e [D. Ritchie], criaram uma linguagem chamada B. E B era bom.
+Programadores C e C++, preparem-se para explodir as cabeças! No princípio... não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados srs. dos Laboratórios Bell, K. Thompson e "D. Ritchie", criaram uma linguagem chamada B. E B era bom.
 
 O bom de B estava em sua rica expressividade. Sua gramática extremamente simples. Teoricamente a evolução da linguagem BCPL criada por Martin Richards, ela era tão simples que o manual da linguagem B consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de if's e goto's e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a palavra da plataforma, que utilizada em expressões definiam seu tipo; esse padrão de bits era chamado rvalue.
 
@@ -39457,7 +39162,6 @@ void *memset( void *dest,
   size_t count );
 ```
 
-[D. Ritchie]: https://www.bell-labs.com/usr/dmr/www/
 
 # Querida, Encolhi a Gente
 date: 2015-01-26
@@ -40440,7 +40144,7 @@ tags: computer blog
 
 As ferramentas da SysInternals fazem a gente economizar um tempo considerável na resolução de problemas. Não que elas sejam indispensáveis. Tudo que elas fazem é encurtar o caminho entre a análise de um bug e sua resolução, o que acaba sendo muito se considerarmos que programação é 20% codificação e 80% transpiração. Ela é um atalho para muitas coisas, desde achar uma ordem errada de includes no header durante a compilação ou descobrir que por que um processo morreu durante o login.
 
-Curiosamente ambos os exemplos que citei são de uma mesma ferramenta: [Process Monitor], ou carinhosamente chamado de procmon. Ele é um filho de duas ferramentas hoje extintas, FileMon e RegMon (acho que não preciso explicar o que ambas faziam). Todas são baseadas em drivers que escutam eventos do sistema operacional e um aplicativo que mastiga essa informação e as filtra de diferentes e criativas formas. Vamos utilizá-lo depurando um instalador muito sacana.
+Curiosamente ambos os exemplos que citei são de uma mesma ferramenta: "Process Monitor", ou carinhosamente chamado de procmon. Ele é um filho de duas ferramentas hoje extintas, FileMon e RegMon (acho que não preciso explicar o que ambas faziam). Todas são baseadas em drivers que escutam eventos do sistema operacional e um aplicativo que mastiga essa informação e as filtra de diferentes e criativas formas. Vamos utilizá-lo depurando um instalador muito sacana.
 
 A SoSo Company é uma empresa criada na China e que possui programadores muito bons. Eles são altamente especializados em fazer instaladores, e nas horas vagas ainda fritam pastéis de frango (ou "flango", como os nativos costumam chamar). Porém, alguma coisa está acontecendo com uma nova versão do instalador que está dando erro ao rodar o aplicativo após atualizado. Isso só acontece em algumas máquinas, na maioria delas tudo funciona perfeitamente. Tanto que esse erro só foi encontrado depois de centenas de máquinas terem sido atualizadas (oh, não).
 
@@ -40459,7 +40163,7 @@ print("All light =)");
 
 O instalador copia tudo e não verifica erro nenhum; afinal de contas, o que pode dar errado, não é mesmo? Haja o que houver, o mundo continua maravilhoso. Porém, depois da atualização esse erro explodiu na máquina do diretor. E agora?
 
-Sem saber muito bem o que fazer, mas com a possibilidade de testar a situação em uma nova máquina (de outro diretor), Juquinha resolveu rodar novamente o instalador, mas dessa vez com a companhia do ProcMon. Depois disso, para efeitos de comparação, rodou o instalador em uma máquina qualquer onde a atualização funciona. Ciente de que o ProcMon por padrão captura centenas de milhares de eventos e mostra na tela, Juquinha filtra os eventos pelos quais mais interessam e exporta-os para um arquivo CSV. Com isso ele pode agora usar um comparador de arquivos como o [WinMerge] para terminar o serviço. No entanto, para conseguir comparar muitas informações de máquinas distintas, tenha em mente que algumas colunas precisam ser eliminadas, como o horário de execução dos eventos e o PID dos processos.
+Sem saber muito bem o que fazer, mas com a possibilidade de testar a situação em uma nova máquina (de outro diretor), Juquinha resolveu rodar novamente o instalador, mas dessa vez com a companhia do ProcMon. Depois disso, para efeitos de comparação, rodou o instalador em uma máquina qualquer onde a atualização funciona. Ciente de que o ProcMon por padrão captura centenas de milhares de eventos e mostra na tela, Juquinha filtra os eventos pelos quais mais interessam e exporta-os para um arquivo CSV. Com isso ele pode agora usar um comparador de arquivos como o "WinMerge" para terminar o serviço. No entanto, para conseguir comparar muitas informações de máquinas distintas, tenha em mente que algumas colunas precisam ser eliminadas, como o horário de execução dos eventos e o PID dos processos.
 
 Depois de muito fuçar nessa comparação eis que nosso herói encontra um evento-chave, que ocorre apenas na máquina do diretor:
 
@@ -40483,13 +40187,10 @@ E voilà! Parece que alguém está bloqueando a atualização de soso.dll, embor
 
 Se Juquinha é analista de nível 1 ele precisará compartilhar suas descobertas com outras pessoas da equipe. Para isso, basta duplo-clicar o evento no ProcMon e usar o botão de cópia. O resultado será um texto com todas as informações necessárias para uma análise mais aprofundada.
 
-OK, mas onde está o problema? Bom, aqui começa a pesquisa, mas se você já programou para Windows API já há algum tempo sabe que alguém abriu esse arquivo antes com um modo de compartilhamento incompatível com uma escrita (que é o que o nosso instalador tenta fazer). Para saber quem é o culpado, mais uma ferramenta da SysInternals vem a calhar: [Process Explorer] (eu ia dizer handle.exe, mas ele não funcionou em meus testes).
+OK, mas onde está o problema? Bom, aqui começa a pesquisa, mas se você já programou para Windows API já há algum tempo sabe que alguém abriu esse arquivo antes com um modo de compartilhamento incompatível com uma escrita (que é o que o nosso instalador tenta fazer). Para saber quem é o culpado, mais uma ferramenta da SysInternals vem a calhar: "Process Explorer" (eu ia dizer handle.exe, mas ele não funcionou em meus testes).
 
 No Process Explorer existe uma opção no menu chamada Find, Find Handle or DLL, onde o culpado se mostra rapidamente. No caso em questão (fictício, mas com uma ponta de verdade) o culpado foi o soso_ui.exe, que fica bloqueando a dll no momento da atualização! Na verdade, o grande culpado foi mesmo o programador desse instalador, que sequer tem ideia das centenas de erros que podem ocorrer durante uma atualização. Azar do suporte técnico desse produto.
 
-[Process Explorer]: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
-[Process Monitor]: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
-[WinMerge]: http://winmerge.org
 
 # Segunda Chance
 date: 2015-05-10
@@ -40678,7 +40379,7 @@ date: 2015-05-26
 slug: depurando_ate_o_fim_do_mundo_e_de_volta_de_novo_source_server_com_github
 tags: computer blog
 
-Semana passada fiquei sabendo que o vídeo da [minha palestra] "Depurando até o fim do mundo" do TDC 2014 estava disponível online. Resolvi assistir para ver se aprendia alguma coisa. A despeito do palestrante não ser lá aquelas coisas, ele disse uma coisa interessante: com o Debugging Tools (WinDbg para os íntimos) seria possível além de indexar os símbolos (PDBs para os íntimos) usando o esquema de Symbol Server que a própria Microsoft adota: usar ferramentas do pacote para conseguir obter o fonte através de um símbolo indexado.
+Semana passada fiquei sabendo que o vídeo da "minha palestra" "Depurando até o fim do mundo" do TDC 2014 estava disponível online. Resolvi assistir para ver se aprendia alguma coisa. A despeito do palestrante não ser lá aquelas coisas, ele disse uma coisa interessante: com o Debugging Tools (WinDbg para os íntimos) seria possível além de indexar os símbolos (PDBs para os íntimos) usando o esquema de Symbol Server que a própria Microsoft adota: usar ferramentas do pacote para conseguir obter o fonte através de um símbolo indexado.
 
 E de onde viria esse fonte? Bom, a priori é necessário que exista algum controle de fonte para que as versões estivessem já "indexadas" nesse controle e fossem mapeados com strings internas no PDB. Através dessas strings o WinDbg ao analisar um crash dump ou até mesmo depurando um processo com o uso do PDB conseguiria baixar os fontes automagicamente desse controle de fonte, desde que ele estivesse acessível (na internet, na intranet da própria empresa, na rede, em um disco rígido externo ou na própria máquina do desenvolvedor que não quer se matar para conseguir obter a versão exata dos fontes daquele binário).
 
@@ -40702,7 +40403,6 @@ Um detalhe importante: o revno que será usado é o HEAD do repositório local. 
 
 2026-04-03 Este foi um projeto embrião de onde surgiu a ideia da palestra, mas isso acabou nunca indo para a frente. Houve um momento que eu configurei um symbol server e indexei os símbolos para baixar do controle de fonte, mas os resultados ainda estavam muito crus para ser levado a sério. Hoje onde trabalho os executáveis lançados conseguem baixar os símbolos, mas fica a seu critério selecionar a versão dos fontes que melhor encaixam com essa versão. Eu diria que é a solução mais sana.
 
-[minha palestra]: https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/
 
 # Mr. Vingança
 date: 2015-05-26
@@ -40812,7 +40512,7 @@ Não requer configuração de arquivo, debug output, named pipe, etc. Isso tem a
 
 Se for executado em um prompt já exibe as informações para serem filtradas; se for executado como um serviço encapsulo a saída.
 
-Encapsular a saída e o comportamento de um serviço hoje em dia é algo banal. Há diversos programas que fazem isso para você, sendo desnecessário programar toda aquela parte de comunicação com o Windows. O cara do DriverEntry  fez um aplicativo que faz isso (2026-04-03 ops, link quebrado), que é simples de usar e continua funcionando no Windows 8.1. Atualmente uso um outro encontrado pelo igualmente fodástico [Rodrigo Strauss]: o Non Sucking Service Manager (seu nome já explica por que defendo utilizar o mínimo possível das firulas da Microsoft).
+Encapsular a saída e o comportamento de um serviço hoje em dia é algo banal. Há diversos programas que fazem isso para você, sendo desnecessário programar toda aquela parte de comunicação com o Windows. O cara do DriverEntry  fez um aplicativo que faz isso (2026-04-03 ops, link quebrado), que é simples de usar e continua funcionando no Windows 8.1. Atualmente uso um outro encontrado pelo igualmente fodástico "Rodrigo Strauss": o Non Sucking Service Manager (seu nome já explica por que defendo utilizar o mínimo possível das firulas da Microsoft).
 
 Além de ser extremamente flexível e não ter falhado nas vezes que o utilizei, o NSSM consegue redirecionar a saída do aplicativo que encapsula como um serviço para um arquivo e rotacionar o arquivo por tamanho ou data (ou reexecução do serviço):
 
@@ -40863,7 +40563,6 @@ inline void LogHeader(std::ostringstream& os)
 }
 ```
 
-[Rodrigo Strauss]: https://www.1bit.com.br
 
 # Amaldiçoado
 date: 2015-06-07
@@ -41612,11 +41311,10 @@ E aí, existem ou não existem programadores C/C++ no Rio de Janeiro?
 date: 2015-07-27
 tags: antidebug
 
-Esse fim-de-semana, quer dizer, contando com a sexta-feira (dia 24/07/2015), tivemos a trilha de segurança no TDC 2015, e eu [palestrei] pela segunda vez, dessa vez com um material mais antigo ainda, mas que parece ter agradado alguns: técnicas antidebugging.
+Esse fim-de-semana, quer dizer, contando com a sexta-feira (dia 24/07/2015), tivemos a trilha de segurança no TDC 2015, e eu "palestrei" pela segunda vez, dessa vez com um material mais antigo ainda, mas que parece ter agradado alguns: técnicas antidebugging.
 
 O que vocês acham de uma versão em áudio? Tenho algumas anotações que costumo fazer para treinar, mas não sei até quando uma palestra no estilo vídeo com áudio poderá agradar. Os que tiverem interesse, por favor, se manifestem, para eu ter algum ânimo de usar minha voz =)
 
-[palestrei]: http://pt.slideshare.net/slideshow/embedcode/key/g5lKLH15KTcenu
 
 # Derek
 date: 2015-07-28
@@ -42071,10 +41769,8 @@ Abaixo a chamada do suporte em inglês, se alguém achar o mesmo problema em alg
 
 ![](o_estranho_caso_do_pdb_mal_formado_uDmJxtB.png)
 
-Minha próxima tarefa, aparentemente, é ver como sendo sócio da [BitForge] e da [Intelitrader], e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/
+Minha próxima tarefa, aparentemente, é ver como sendo sócio da "BitForge" e da "Intelitrader", e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/
 
-[BitForge]: https://www.linkedin.com/company/bit-forge
-[Intelitrader]: http://www.intelitrader.com.br
 
 # A Vida de Outra Mulher
 date: 2015-08-23
@@ -42950,7 +42646,7 @@ A respeito do deploy e manutenção, um dos principais é manter o código sempr
 
 Porém, voltando ao mundo Windows, os fontes não são apenas a única fonte de preocupação e zelo. Os binários também são importante. Binários eu digo os EXEs, DLLs geradas, além dos seus símbolos (PDBs), que contém o mapa entre aquele monte de 1s e 0s e o código-fonte de onde ele saiu.
 
-Nós da [BitForge] costumamos pelo menos indexar binários com fonte, através dos resources do binário. Como isso é feito? Basicamente editando o arquivo RC na parte da versão do binário e inserindo o hash do commit usado para gerar aquele binário. Com isso qualquer binário produzido possui seu pai ("use the source, Luke!"). Usamos um script em Python muito simples e muito eficaz para isso, que indexa .NET e C++ (através do Visual Studio, mas não está com muitas amarras de ambiente):
+Nós da "BitForge" costumamos pelo menos indexar binários com fonte, através dos resources do binário. Como isso é feito? Basicamente editando o arquivo RC na parte da versão do binário e inserindo o hash do commit usado para gerar aquele binário. Com isso qualquer binário produzido possui seu pai ("use the source, Luke!"). Usamos um script em Python muito simples e muito eficaz para isso, que indexa .NET e C++ (através do Visual Studio, mas não está com muitas amarras de ambiente):
 
 ```
 rc_new_content = re.sub(u'^.*ProductVersion.*$', product_version_string,
@@ -42973,14 +42669,14 @@ Você também pode exibir a versão dos binários em uma pasta através das colu
 
 Outro detalhe de binários é que eles vivem sendo sobrescritos. Todo "Project, Build" sobrescreve o binário anterior, que pode ter sido justamente o enviado para o cliente. Se o cliente não possuir nenhum procedimento de armazenamento de versões dos binários gerados (às vezes ele nem precisa, essa é nossa função) não há como obter os símbolos de binários que podem gerar problemas futuros (todo software tem bug).
 
-Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil: crie uma pasta em algum lugar, nomeie essa pasta seu servidor de símbolos, a cada novo binário que será entregue, indexe o binário e os seus símbolos. Como? Com o [Debugging Tools for Windows], como dizia um amigo meu, é mamão com açúcar:
+Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil: crie uma pasta em algum lugar, nomeie essa pasta seu servidor de símbolos, a cada novo binário que será entregue, indexe o binário e os seus símbolos. Como? Com o "Debugging Tools for Windows", como dizia um amigo meu, é mamão com açúcar:
 
 ```
 "c:\Tools\DbgTools(x86)\symstore" add /r /f <MINHA-PASTA-COM-BINÁRIOS>
   /s c:\Tools\Symbols /t "IndexSymbols"
 ```
 
-Essa e outra técnicas de indexar fontes e binário você pode ver no meu artigo, na palestra e [vídeo de demonstração]. Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
+Essa e outra técnicas de indexar fontes e binário você pode ver no meu artigo, na palestra e "vídeo de demonstração". Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
 
 ### Simplificando
 
@@ -43003,9 +42699,6 @@ Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo pa
 
 Procedimentos como esse devem ser uma coisa simples, não difícil. Programadores e pessoas são preguiçosas, e precisam de algum incentivo. E nesse caso, o incentivo é: o que você vai fazer quando der um crash com um binário que você não sabe de onde veio nem qual fonte foi usado para compilá-lo? Pois é.
 
-[BitForge]: https://www.linkedin.com/company/bit-forge
-[Debugging Tools for Windows]: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools
-[vídeo de demonstração]: https://www.youtube.com/watch?v=mZewxqlFShA
 
 # Kung Fury
 date: 2015-10-29
@@ -43997,7 +43690,7 @@ void MinhaClasse::MeuMetodo()
 }
 ```
 
-E contexto nesse sentido nada mais é que um endereço na memória para alguma coisa que nos interessa. Tal qual uma função API do Windows -- tal qual [FindFirstFile] -- que recebe ou retorna uma struct com o que precisamos, esse geralmente é o contexto procurado.
+E contexto nesse sentido nada mais é que um endereço na memória para alguma coisa que nos interessa. Tal qual uma função API do Windows -- tal qual "FindFirstFile" -- que recebe ou retorna uma struct com o que precisamos, esse geralmente é o contexto procurado.
 
 ```
 WIN32_FIND_DATA findData;
@@ -44039,7 +43732,6 @@ void MinhaClasse_MeuMetodo(MinhaClasse* pThis)
 
 Em um próximo post vamos ver como fazer para chamar MeuOutroMetodo a partir de uma estrutura em C.
 
-[FindFirstFile]: https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findfirstfilea
 
 # Classe, objeto, contexto, método
 date: 2016-01-11
@@ -44327,16 +44019,14 @@ Continuando nosso tema de fazer as mesmas coisas em C, templates não é tão si
 #define MACRO(x, y) x < y
 ```
 
-Eu não recomendaria usar macros em C++, assim como não recomendo em C. Porém, em C é a única opção para reciclar algoritmos de maneira estática. Exceto se você usar ponteiros de função, o que adiciona pouco overhead, mas se perde, assim como a técnica de macro, a informação dos tipos. A própria libc contém uma função, [qsort], que é "genérica" através do uso de ponteiros sem tipo (void*) e ponteiro de função. A função ordena elementos de uma lista, mas para isso depende da função de comparação que é passada por parâmetro. Essa função recebe dois void* que deve comparar. Além disso, o leiaute na memória tem que ser fixo, contínuo, pois é assim que a função consegue mover os elementos. Ou seja, bem limitado.
+Eu não recomendaria usar macros em C++, assim como não recomendo em C. Porém, em C é a única opção para reciclar algoritmos de maneira estática. Exceto se você usar ponteiros de função, o que adiciona pouco overhead, mas se perde, assim como a técnica de macro, a informação dos tipos. A própria libc contém uma função, "qsort", que é "genérica" através do uso de ponteiros sem tipo (void*) e ponteiro de função. A função ordena elementos de uma lista, mas para isso depende da função de comparação que é passada por parâmetro. Essa função recebe dois void* que deve comparar. Além disso, o leiaute na memória tem que ser fixo, contínuo, pois é assim que a função consegue mover os elementos. Ou seja, bem limitado.
 
 ![](gabaritos_3TkGFkN.png)
 
-Dessa forma, não pretendo ensinar a usar "templates" em C, mas a usá-los em C++ com foco em C. Um amigo conhecido de vocês, o [Fernando/DriverEntry], utilizou essa técnica com maestria em alguns códigos kernel-mode que ele desenvolveu, e é uma maneira válida de se aproveitar de uma linguagem mais "alto nível" como C++ em ambientes limitados como o código que trabalha com o S.O.. Como a API do kernel lida com abstrações em C, seus objetos necessariamente não são objetos no sentido C++, mas os famigerados "ponteiros opacos".
+Dessa forma, não pretendo ensinar a usar "templates" em C, mas a usá-los em C++ com foco em C. Um amigo conhecido de vocês, o DriverEntry]/DriverEntry], utilizou essa técnica com maestria em alguns códigos kernel-mode que ele desenvolveu, e é uma maneira válida de se aproveitar de uma linguagem mais "alto nível" como C++ em ambientes limitados como o código que trabalha com o S.O.. Como a API do kernel lida com abstrações em C, seus objetos necessariamente não são objetos no sentido C++, mas os famigerados "ponteiros opacos".
 
 Mais sobre isso em um próximo post.
 
-[qsort]: http://www.cplusplus.com/reference/cstdlib/qsort/
-[Fernando/DriverEntry]: http://driverentry.com.br/
 
 # Pegando Fogo
 date: 2016-01-14
@@ -44361,7 +44051,7 @@ tags: computer blog
 
 A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizmente, eles não existem na linguagem C, mas podem ser usados em construções C feitas com a linguagem C++, como ocorre com quem desenvolve device drivers para Windows.
 
-Imagine, por exemplo, a estrutura [LIST_ENTRY], que é uma tentativa de generalizar não só o tipo de uma lista ligada, como seu posicionamento:
+Imagine, por exemplo, a estrutura "LIST_ENTRY", que é uma tentativa de generalizar não só o tipo de uma lista ligada, como seu posicionamento:
 
 ```
 typedef struct _LIST_ENTRY {
@@ -44473,7 +44163,6 @@ int main()
 
 "Nossa, tudo isso para substituir uma macro já consagrada no WDK??" Sim, nesse post o objetivo não ficou muito útil. É apenas uma ideia de substituição possível de ser feita em macros em geral. Pode ser bem documentada, usada há 30 anos, mas ainda é uma macro. Meu conselho: se funciona bem, use. Se vai fazer algo novo, tente sempre templates.
 
-[LIST_ENTRY]: https://learn.microsoft.com/en-us/windows/win32/api/ntdef/ns-ntdef-list_entry
 
 # Veludo Azul
 date: 2016-01-14
@@ -44736,7 +44425,7 @@ date: 2016-01-27
 slug: bazaar_to_git
 tags: computer blog
 
-Enquanto estudava sobre [controle de fontes distribuído], experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.
+Enquanto estudava sobre "controle de fontes distribuído", experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.
 
 Hoje com o Git sendo praticamente o mainstream das conversões do SubVersion, e funcionando razoavelmente bem em ambientes Windows (64 ou 32), sobraram apenas os repositórios do Mercurial e do Bazaar. Na verdade, mais do Bazaar, pois eu havia migrado já do Hg pelo Bazaar possuir algo que hoje o Git emula, mas antes era um diferencial no projeto da Canonical: detecção de rename completo (com histórico e tudo). Isso para refatoração era vital, e suporte à refatoração pesada era o que eu precisava no momento.
 
@@ -44744,7 +44433,7 @@ Agora é hora de manter esse histórico vivo, mas convertido para o que todos us
 
 ### A migração
 
-A primeira coisa a ser feita é converter o repositório. Depois de convertido, como todas as operações estarão no universo Git, há uma de [entradas] no StackOverflow para nos ajudar a reunir os repositórios em um só, meu objetivo, já que o Git é mais leve e mais versátil nesse quesito.
+A primeira coisa a ser feita é converter o repositório. Depois de convertido, como todas as operações estarão no universo Git, há uma de "entradas" no StackOverflow para nos ajudar a reunir os repositórios em um só, meu objetivo, já que o Git é mais leve e mais versátil nesse quesito.
 
 No Windows, nas últimas versões do Bazaar o comando fast-export não estava mais funcionando. Parado desde 2012, não há previsão de correções. No entanto, para essa operação, a versão 2.4.2 atendeu bem. O comando é um pouco diferente, mas ele é rápido e rodou sem problemas em conjunto com o fast-import do Git.
 
@@ -44854,9 +44543,7 @@ Tive alguns problemas em rastrear o histórico utilizando a estratégia de fazer
 
 Depois de um tempo testando essa técnica, descobri que o Git se perde novamente e não encontra mais todos os logs, mesmo com --follow  mesmo movendo os arquivos. O meu problema está relacionado com mesmos paths dos arquivos em repositórios diferentes. Paciência.
 
-[controle de fontes distribuído]: https://en.wikipedia.org/wiki/Distributed_version_control
 uma: http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories
-[entradas]: http://stackoverflow.com/questions/13040958/merge-two-git-repositories-without-breaking-file-history
 
 # Não Atualize seu Sistema
 date: 2016-01-28
@@ -45896,11 +45583,11 @@ Brincando com piadas inocentes bem ao estilo filme italiano, e lembrando a estru
 # Testando sistema de postagem
 date: 2016-04-10
 
-Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu blogue de Cinema (update 2026-02-28: o finado Cine Tênis Verde), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge] e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
+Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu blogue de Cinema (update 2026-02-28: o finado Cine Tênis Verde), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a "BitForge" e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
 
 O problema mesmo é publicar nas redes sociais.
 
-Um detalhe típico do funcionamento dessas redes bem apontou o blogger veterano [Hossein Derakhshan], que ficou preso por seis anos e descreveu a mudança que a web sofreu nesse pouquíssimo tempo para a história, mas muitíssimo para a internet. De acordo com ele, postar apenas links não farão muito efeito, mesmo que você seja um escritor conhecido (o caso dele). Para fazer efeito, você precisa de imagens. Pessoas gostam de imagens. De gatinhos, melhor ainda.
+Um detalhe típico do funcionamento dessas redes bem apontou o blogger veterano "Hossein Derakhshan", que ficou preso por seis anos e descreveu a mudança que a web sofreu nesse pouquíssimo tempo para a história, mas muitíssimo para a internet. De acordo com ele, postar apenas links não farão muito efeito, mesmo que você seja um escritor conhecido (o caso dele). Para fazer efeito, você precisa de imagens. Pessoas gostam de imagens. De gatinhos, melhor ainda.
 
 Porém, qual imagem que pode ser usada para um blogue técnico e que chame a atenção?
 
@@ -45949,7 +45636,7 @@ def PublishToTwitter(postInfo):
 
 ### Postando no Facebook
 
-Já postar no Facebook é mais ou menos uma tortura. As chaves de acesso costumam expirar, e para conseguir uma que não expira este [tutorial] é femonenal, pois economiza muito, muito tempo de pesquisa.
+Já postar no Facebook é mais ou menos uma tortura. As chaves de acesso costumam expirar, e para conseguir uma que não expira este "tutorial" é femonenal, pois economiza muito, muito tempo de pesquisa.
 
 Curiosamente, o código para postar é muito semelhante ao do Twitter, até mais simples, talvez:
 
@@ -45967,9 +45654,6 @@ def PublishToFacebook(postInfo):
     post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
 ```
 
-[BitForge]: https://www.linkedin.com/company/bit-forge
-[Hossein Derakhshan]: http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web
-[tutorial]: http://nodotcom.org/python-facebook-tutorial.html
 
 # O Maravilhoso Agora
 date: 2016-04-13
@@ -46039,13 +45723,13 @@ Há momentos engraçadinhos, momentos WTF e momentos pseudo-solenes que tentam e
 date: 2016-04-16
 tags: computer draft
 
-Passou o Round 1A do Code Jam, e para variar, fui muito mal, só respondendo a primeira questão. A [segunda] me fez ficar pensando um tempo desproporcional sobre como encaixar as diferentes linhas e colunas para achar a linha restante.
+Passou o Round 1A do Code Jam, e para variar, fui muito mal, só respondendo a primeira questão. A "segunda" me fez ficar pensando um tempo desproporcional sobre como encaixar as diferentes linhas e colunas para achar a linha restante.
 
 Basicamente, o problema pede que, dado um quadrado de tamanho N, e 2*N-1 linhas fornecidas (que podem ser linhas ou colunas), imprimir a Nésima linha. A regra das linhas é que ela possui números crescentes.
 
 Nota 2026-05-07: buscar o problema original e usar a IA para incrementar este post.
 
-Bom, não consegui chegar numa solução para o problema errado (encaixar as linhas), mas fui, como sempre, dar uma espiada nas respostas dos competidores, em especial a do [primeiro colocado]. O grande barato de competições como essa é aprender com a inteligência e genialidade dos outros. Para mim, esse é um exemplo de genialidade:
+Bom, não consegui chegar numa solução para o problema errado (encaixar as linhas), mas fui, como sempre, dar uma espiada nas respostas dos competidores, em especial a do "primeiro colocado". O grande barato de competições como essa é aprender com a inteligência e genialidade dos outros. Para mim, esse é um exemplo de genialidade:
 
 2026-05-07 Melhorar este código.
 
@@ -46075,8 +45759,6 @@ Simples, rápido, eficiente. E correto.
 
 É esse tipo de coisa que faz valer a pena uma competição dessas.
 
-[segunda]: https://code.google.com/codejam/contest/4304486/dashboard#s=p1
-[primeiro colocado]: https://code.google.com/codejam/contest/4304486/scoreboard#vf=1
 
 # Se Beber, Não Case! Parte II
 date: 2016-04-17
@@ -46590,7 +46272,7 @@ Pelo menos com uma trilha sonora bem escolhida, mas com uma direção de arte ge
 date: 2016-06-04
 tags: computer draft
 
-Há umas semanas (sim, estava enrolado para falar sobre isso) ministrei uma [nova palestra] lá em Sorocaba. Cheguei no meio de uma greve de ônibus, o que atrasou o evento em uma hora e me deu tempo de sobra para pensar nas desgraças que serão cidades próximas da capital crescendo desordenadamente.
+Há umas semanas (sim, estava enrolado para falar sobre isso) ministrei uma "nova palestra" lá em Sorocaba. Cheguei no meio de uma greve de ônibus, o que atrasou o evento em uma hora e me deu tempo de sobra para pensar nas desgraças que serão cidades próximas da capital crescendo desordenadamente.
 
 Mas divago.
 
@@ -46600,7 +46282,7 @@ Meu público era muito, muito jovem, e foquei erroneamente em conceitos muito, m
 
 O conteúdo e a palestra está no GitHub e a palestra em si pode ser vista logo abaixo; a apresentação do conteúdo está mais abaixo, (2026-05-07 nenhum desses links deve estar disponível, marquei usar a IA pra aprimorar) e peço desculpas por não ter tido tempo de apresentar todo ele (mesmo com quase duas horas):
 
-Também fiz um [vídeo] para complementar o conteúdo da palestra.
+Também fiz um "vídeo" para complementar o conteúdo da palestra.
 
 Um StackOverflow é definido pela escrita em uma região não autorizada de memória. Stack overflow, overrun, etc, não interessando a nomenclatura "oficial", o importante aqui é como um bug de acesso à memória pode permitir acesso exclusivo a regiões de memória que não estariam disponíveis para um atacante se não fosse por esse bug.
 
@@ -46708,8 +46390,6 @@ Para explorar esse tipo de falha, primeiro devemos entender a execução do cód
 
 - 0xCCCCCCCCCCCCCCCCCCCCC (2026-05-07 hein?)
 
-[nova palestra]: http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
-[vídeo]: https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW
 
 # Ninfomaníaca Vols 1 e 2
 date: 2016-06-06
@@ -47834,7 +47514,7 @@ public:
 };
 ```
 
-Sua função é abstrair a abertura de um banco de dados, sua execução e sua saída. Para isso ele cria uma interface simples que usa STL. Por debaixo dos panos, usa OLEDB, que abstrai qualquer coisa, só precisando de instalar o driver e aprender qual [das 500 mil combinações] é a string de conexão correta. Para não ter que usar outras funções para coisas simples como sqlite, foi incluído seu suporte (que é mais uma tradução entre interfaces), necessitando para seu uso daquele projeto do sqlite que contém um header e um .c (pelo jeito o pessoal desse projeto também gosta de simplificar as coisas).
+Sua função é abstrair a abertura de um banco de dados, sua execução e sua saída. Para isso ele cria uma interface simples que usa STL. Por debaixo dos panos, usa OLEDB, que abstrai qualquer coisa, só precisando de instalar o driver e aprender qual "das 500 mil combinações" é a string de conexão correta. Para não ter que usar outras funções para coisas simples como sqlite, foi incluído seu suporte (que é mais uma tradução entre interfaces), necessitando para seu uso daquele projeto do sqlite que contém um header e um .c (pelo jeito o pessoal desse projeto também gosta de simplificar as coisas).
 
 O código que trata o OLEDB é um pouco grande (umas 300 linhas) por conta da manipulação dos componentes COM. Porém, feito decentemente, faça uma vez e use um milhão (ainda falta fazer alguns unit tests, aliás).
 
@@ -47849,10 +47529,8 @@ IDBCreateCommand* pIDBCreateCommand;
 
 Além disso, observe como o uso de interface permite que os headers específicos do que tem que ser feito (e.g. oledb.h, atlbase.h, msdasc.h, sqlite.h e até windows.h) não precisa necessariamente estar presente no header da interface (oledb.h), e como o uso de um factory em um método estático da interface permite que a junção das tecnologias envolvidas fique apenas no oledb.cpp. Dessa forma, para retirar ou acrescentar novas formas de comunicação com um banco de dados é muito simples.
 
-PS: A publicação do DBAccess foi inspirada na thread iniciada por Spagiari no [nosso grupo C/C++].
+PS: A publicação do DBAccess foi inspirada na thread iniciada por Spagiari no C++]/C++].
 
-[das 500 mil combinações]: https://www.connectionstrings.com/
-[nosso grupo C/C++]: https://groups.google.com/forum/#!topic/ccppbrasil/3qtvxelVrdc
 
 # Electrum: uma opção simples e rápida de manter bitcoins seguros
 date: 2016-08-16
@@ -48062,7 +47740,7 @@ Esse método chama-se: Programa, Filho da Chuva
 
 Ou, do inglês, PMF.
 
-E o que o PMF tem a oferecer? [Esse cara] parece ter o esboço da resposta:
+E o que o PMF tem a oferecer? "Esse cara" parece ter o esboço da resposta:
 
 Como nós iremos resolver problemas?
 
@@ -48112,7 +47790,6 @@ Mas adivinha, só? Seu cliente está defecando qual é a linguagem, a ferramenta
 
 Então o jeito é: "Puroguramingu, Mazaafakkaa!" =)
 
-[Esse cara]: http://c00kiemon5ter.github.io/code/2011/04/16/Development-Methodologies.html
 
 # Resolvendo problemas em projetos desleixados
 date: 2016-09-01
@@ -48190,7 +47867,7 @@ Este é um filme interessante pela sua premissa e pelo sua narração histórica
 date: 2016-09-05
 tags: computer
 
-Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfadonho se você precisa baixar e compilar uma lib do Google ou do Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu nesses CodeProject da vida, mas que hoje está, até onde eu vi, no [GitHub].
+Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfadonho se você precisa baixar e compilar uma lib do Google ou do Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu nesses CodeProject da vida, mas que hoje está, até onde eu vi, no "GitHub do Gregory Crosswhite".
 
 E como se faz para começar a montar os testes unitários? Bom, suponha que você tenha um projeto qualque que já compila, roda e faz alguma coisa de útil:
 
@@ -48241,7 +47918,6 @@ Press any key to continue . . .
 
 E voilà! Sistema de teste unitário pronto e rodando. Agora cada nova situação de erro ou que você precise validar, basta escrever um novo teste. Se esse projeto ir se tornando algo muito maior, a transição para testes unitários mais parrudos é apenas um regex. No momento, foque em codificar e testar muito bem o que está fazendo.
 
-[GitHub]: https://github.com/gcross/unit--
 
 # Star Trek: Sem Fronteiras
 date: 2016-09-07
@@ -48418,9 +48094,8 @@ Na época o Raio-X havia sido descoberto e a criatividade já começava a aflora
 
 <https://www.youtube.com/embed/3gMCkFRMJQQ>
 
-Fonte: [A.V. Club - The 10 best films of the 1890s]
+Fonte: "A.V. Club - The 10 best films of the 1890s"
 
-[A.V. Club - The 10 best films of the 1890s]: https://www.avclub.com/the-10-best-films-of-the-1890s-1798234254
 
 # Pets: A Vida Secreta dos Bichos
 date: 2016-09-11
@@ -48669,9 +48344,8 @@ map <F7> :set makeprg=devenv\ %\ /build\ Debug<CR>
 map <S-F7> :set makeprg=msbuild\ /nologo\ /v:q\ /property:GenerateFullPaths=true<CR>
 ```
 
-Para alguém curioso para ver minhas configurações do Vim (quem quiser compartilhar também, fique à vontade), [segue].
+Para alguém curioso para ver minhas configurações do Vim (quem quiser compartilhar também, fique à vontade), "segue".
 
-[segue]: https://github.com/Caloni/vim
 
 # Demônio de Neon
 date: 2016-09-23
@@ -48779,7 +48453,7 @@ E por isso mesmo é um trabalho curioso. Ele depende de personagens que se torna
 # Guardando senhas com Vim
 date: 2016-10-05
 
-Eu já sabia que havia um sistema de criptografia de arquivos no Vim. Isso pode ser útil para textos secretos, ou para enviar qualquer bobagem para outra pessoa que sabe de uma senha que só vocês conhecem. Porém, o método default de criptografia dele não me animava. O pkzip é usa um algoritmo fraco, e os inúmeros programas que quebram zips encriptados estão aí para demonstrar. Além do mais, o blowfish da versão 7 do Vim tem problemas em gerar seu salt que favorece ataques de força bruta [tão baratos quanto um XOR]. E é aí que entra em cena o Vim 8.
+Eu já sabia que havia um sistema de criptografia de arquivos no Vim. Isso pode ser útil para textos secretos, ou para enviar qualquer bobagem para outra pessoa que sabe de uma senha que só vocês conhecem. Porém, o método default de criptografia dele não me animava. O pkzip é usa um algoritmo fraco, e os inúmeros programas que quebram zips encriptados estão aí para demonstrar. Além do mais, o blowfish da versão 7 do Vim tem problemas em gerar seu salt que favorece ataques de força bruta "tão baratos quanto um XOR". E é aí que entra em cena o Vim 8.
 
 A nova versão do meu editor favorito não apresenta o defeito do algoritmo blowfish anterior, ou apresenta, mas dessa vez fornece uma versão atualizada (claro que, por razões de compatibilidade, foram mantidos os algoritmos anteriores).
 
@@ -48801,10 +48475,8 @@ Se você gostou desse modelo, seguem os comandos para pesquisar (:help comando):
 :X
 ```
 
-Este post foi inspirado em meu próprio uso do Vim, mas mais inspirado ainda depois de ler [o artigo da invert].
+Este post foi inspirado em meu próprio uso do Vim, mas mais inspirado ainda depois de ler "o artigo da invert".
 
-[tão baratos quanto um XOR]: https://dgl.cx/2014/10/vim-blowfish
-[o artigo da invert]: https://invert.svbtle.com/using-vim-as-a-password-manager
 
 # Sin City: A Cidade do Pecado
 date: 2016-10-09
@@ -50211,7 +49883,7 @@ E como fazer para descobrir esse tipo de leak?
 
 #### HandleLeaker
 
-O HandleLeaker é apenas um exemplo de aplicação que realiza o leak de um handle por segundo. Ele tenta (e consegue) abrir um handle para seu próprio processo, e deixa o handle aberto (programas em Win32 API não são muito bons em [RAII]).
+O HandleLeaker é apenas um exemplo de aplicação que realiza o leak de um handle por segundo. Ele tenta (e consegue) abrir um handle para seu próprio processo, e deixa o handle aberto (programas em Win32 API não são muito bons em "RAII").
 
 ```
 int main()
@@ -50267,7 +49939,6 @@ Se seu programa for um handle hog, vai conseguir até ver esse leak acontecendo 
 
 E como encontrar o código-fonte responsável por esse leak? Mais detalhes em um próximo post.
 
-[RAII]: https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization
 
 # Saneamento Básico, O Filme
 date: 2016-11-30
@@ -50910,13 +50581,13 @@ E é justamente isso que vemos em A Assassina na maioria do tempo, embora ela po
 date: 2017-01-05
 slug: entrando_na_zona_com_vim
 
-Se você é programador é bem provável que já tenha ouvido falar em "Flow" ou [The Zone]. Se for leitor assíduo do Hacker News, então, nem se fala. De qualquer forma, uma das maneira mais produtivas do programador programar é entrar na famosa "zona". É lá que muito de nós nascemos. Lembra a primeira vez que mexeu em um computador ou afim e ficou tão obcecado que não viu o tempo passar? Pois bem. Você esteve na zona. E estar nela é um bom lugar para trabalhar.
+Se você é programador é bem provável que já tenha ouvido falar em "Flow" ou "The Zone". Se for leitor assíduo do Hacker News, então, nem se fala. De qualquer forma, uma das maneira mais produtivas do programador programar é entrar na famosa "zona". É lá que muito de nós nascemos. Lembra a primeira vez que mexeu em um computador ou afim e ficou tão obcecado que não viu o tempo passar? Pois bem. Você esteve na zona. E estar nela é um bom lugar para trabalhar.
 
 Na zona, principalmente resolvendo problemas complexos, o importante é poder construir uma estrutura em sua mente com a ajuda de alguns aparatos, como um caderno de anotações, stickers, lousa ou seu editor preferido. Meu editor preferido para navegar (flow) por um código é sem sombra de dúvida o Vim, pois ele é apenas uma tela que preenche todo meu campo de visão e possui comandos em que eu consigo facilmente acessar o conteúdo que preciso relembrar. Quando estou obtendo o diagnóstico de um log, por exemplo, posso rapidamente ir construindo um modelo mental da solução navegando entre arquivos de log e código-fonte através de tags e buscas em regex.
 
 A primeira vantagem do Vim em relação a outros editores é sua capacidade de abrir arquivos grandes. Um log de 1GB pode ser um desafio para um Notepad da vida, e até para um Visual Studio, mas no Vim tudo que você precisa é de memória disponível. E mesmo que não tenha, o Windows se vira bem no gerenciamento de swap (ou Linux, tanto faz).
 
-Para navegar no código, existem duas técnicas que não necessitam de nenhum plugin. A primeira é a busca por regex, que pode ser feita com os comandos [:vimgrep] ou [:grep], sendo que o primeiro busca em um padrão de arquivos (usando wildcard) e o segundo dentro dos buffers já abertos (útil se você já tiver uma sessão ativa; mais sobre isso depois).
+Para navegar no código, existem duas técnicas que não necessitam de nenhum plugin. A primeira é a busca por regex, que pode ser feita com os comandos ":vimgrep" ou ":grep", sendo que o primeiro busca em um padrão de arquivos (usando wildcard) e o segundo dentro dos buffers já abertos (útil se você já tiver uma sessão ativa; mais sobre isso depois).
 
 ```
 " No Vim não é necessário digitar o comando completo;
@@ -50929,7 +50600,7 @@ Para navegar no código, existem duas técnicas que não necessitam de nenhum pl
 
 O bom é que, no caso de logs, se você buscar por expressões unívocas, isso já fica no histórico de seus comandos e você pode usar quando quiser para voltar para esses logs (ou se você for maluco e guardar de cabeça seus marks, pode criar um mark de vez).
 
-A segunda técnica de navegar no código é através das tags que são montadas pela ferramenta ctags. Ela é genérica o suficiente para suportar várias linguagens, mas pode ser usada até para qualquer sequência de palavras. Há plugins que realizam essa varredura do fonte automática, mas particularmente não gosto de encher meu Vim de plugins, sendo que o único que uso que me lembro é o [MRU] (porque o Vim ainda não suporta algo do gênero internamente). De qualquer forma, tudo que eu preciso fazer para atualizar as tags de um projeto é abrir o readme do projeto (que geralmente fica na pasta raiz) e rodar meu atalho.
+A segunda técnica de navegar no código é através das tags que são montadas pela ferramenta ctags. Ela é genérica o suficiente para suportar várias linguagens, mas pode ser usada até para qualquer sequência de palavras. Há plugins que realizam essa varredura do fonte automática, mas particularmente não gosto de encher meu Vim de plugins, sendo que o único que uso que me lembro é o "MRU" (porque o Vim ainda não suporta algo do gênero internamente). De qualquer forma, tudo que eu preciso fazer para atualizar as tags de um projeto é abrir o readme do projeto (que geralmente fica na pasta raiz) e rodar meu atalho.
 
 ```
 " Roda recursivamente e otimiza para C++ e Python.
@@ -50949,7 +50620,7 @@ map <C-K> <C-]>
 map <C-J> :tnext<CR>
 ```
 
-Depois de dar uma olhada no log, encontrar os métodos que você precisa analisar, seu fluxo, etc, você terá um monte de buffers relevantes abertos nas linhas relevantes. Seria muito bom se tudo isso pudesse ser guardado em um estado para que você continue amanhã ou em sua próxima sessão de flow. Para isso existe o comando [:mksession].
+Depois de dar uma olhada no log, encontrar os métodos que você precisa analisar, seu fluxo, etc, você terá um monte de buffers relevantes abertos nas linhas relevantes. Seria muito bom se tudo isso pudesse ser guardado em um estado para que você continue amanhã ou em sua próxima sessão de flow. Para isso existe o comando ":mksession".
 
 ```
 " Salva estado atual dos buffers
@@ -50958,16 +50629,10 @@ Depois de dar uma olhada no log, encontrar os métodos que você precisa analisa
 :so \temp\analise.vim
 ```
 
-O comando [:source] roda um script vim que possui comandos guardados. Ele é um arquivo texto semelhante ao vimrc.
+O comando ":source" roda um script vim que possui comandos guardados. Ele é um arquivo texto semelhante ao vimrc.
 
 Basicamente é isso. Tudo o que você precisa em sua análise de fonte e de log se encontra na ponta de seus dedos. Não é necessário abrir nenhuma pasta nem terminal. Simplesmente navegue através do Vim para descobrir o problema e seja feliz em sua zona.
 
-[The Zone]: https://hn.algolia.com/?query=the%20zone
-[:vimgrep]: http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:vimgrep
-[:grep]: http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:grep
-[MRU]: http://www.vim.org/scripts/script.php?script_id=521
-[:mksession]: http://vimdoc.sourceforge.net/htmldoc/starting.html#:mksession
-[:source]: http://vimdoc.sourceforge.net/htmldoc/repeat.html#:source
 
 # Sully: O Herói do Rio Hudson
 date: 2017-01-05
@@ -51164,7 +50829,7 @@ tags: computer blog
 
 Ano passado tive alguns problemas em um projeto que se comunicava com um dispositivo em firmware pela USB. Estávamos utilizando uma biblioteca open source do GitHub que parecia estar bem testada e mantida. Porém, não exatamente para nossos objetivos.
 
-O problema da lib [hidapi] era que a comunicação usb era feita de forma assíncrona. Isso no Windows é feito com a mesma função de I/O (ReadFile/WriteFile) só que passando um argumento opcional chamado de overlapped. Esse argumento é um ponteiro para uma estrutura que irá ser preenchida assim que o I/O for concluído. E quando é isso? Deve-se esperar pelo handle ser sinalizado (em outras palavras, dando um Sleep ou WaitForSingleObject neste handle).
+O problema da lib "hidapi" era que a comunicação usb era feita de forma assíncrona. Isso no Windows é feito com a mesma função de I/O (ReadFile/WriteFile) só que passando um argumento opcional chamado de overlapped. Esse argumento é um ponteiro para uma estrutura que irá ser preenchida assim que o I/O for concluído. E quando é isso? Deve-se esperar pelo handle ser sinalizado (em outras palavras, dando um Sleep ou WaitForSingleObject neste handle).
 
 O funcionamento padrão via overlapped é bem simples: faça a operação de I/O (passando a estrutura) e verifique o retorno. Ele deve ser FALSE e o retorno do próximo GetLastError deve ser ERROR_IO_PENDING. Bom, descrevendo a operação ela não parece ser tão intuitiva. Mas funciona:
 
@@ -51192,11 +50857,11 @@ A questão que nós encontramos nesse projeto apenas aconteceu porque após a op
 
 O motivo da thread nunca retornar (ou dar timeout), porém, não estava em nenhuma dessas situações. Ao monitorar o tráfego usb se verificou que o device respondia em tempo hábil. O problema estava mais embaixo (ou mais em cima): a hidapi não se comportava conforme o MSDN mandava. Há uma situação não-mapeada nessa lib.
 
-Erros ao chamar a API do Win32 são comuns exatamente porque esta é uma lib arcaica, pouco intuitiva com diferentes tipos de exceções. No caso de uma operação assíncrona com overlapped, se você ler as tantas páginas da [função ReadFile], por exemplo, vai acabar encontrando um adendo escondido no meio da documentação:
+Erros ao chamar a API do Win32 são comuns exatamente porque esta é uma lib arcaica, pouco intuitiva com diferentes tipos de exceções. No caso de uma operação assíncrona com overlapped, se você ler as tantas páginas da "função ReadFile", por exemplo, vai acabar encontrando um adendo escondido no meio da documentação:
 
 ![](readfile_assincrono_pode_ser_sincrono_quando_voce_menos_espera_sJDJHii.png)
 
-Este [adendo] possui a informação que ninguém ainda sabia porque... porque a Microsoft é uma chuva oras =)
+Este "adendo" possui a informação que ninguém ainda sabia porque... porque a Microsoft é uma chuva oras =)
 
 "If, on the other hand, an operation is completed immediately, then &NumberOfBytesRead passed into ReadFile is valid for the number of bytes read. In this case, ignore the OVERLAPPED structure passed into ReadFile; do not use it with GetOverlappedResult or WaitForSingleObject."
 
@@ -51245,12 +50910,8 @@ Uma colinha da M$ de como deve ser feito o tratamento:
 
 Após essa correção no projeto as coisas começaram a funcionar normalmente.
 
-A BitForge fez a alteração em [um fork próprio] da hidapi e enviou o pull request para os mantenedores oficiais da hidapi, a signal11. Esta é mais uma lição de que, em se tratando de I/O, as coisas difíceis que o kernel às vezes faz lá embaixo acabam refletindo aqui em cima. Às vezes até na própria API!
+A BitForge fez a alteração em "um fork próprio" da hidapi e enviou o pull request para os mantenedores oficiais da hidapi, a signal11. Esta é mais uma lição de que, em se tratando de I/O, as coisas difíceis que o kernel às vezes faz lá embaixo acabam refletindo aqui em cima. Às vezes até na própria API!
 
-[hidapi]: https://github.com/signal11/hidapi
-[função ReadFile]: https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-readfile
-[adendo]: https://support.microsoft.com/en-us/kb/156932
-[um fork próprio]: https://github.com/bitforgebr/hidapi/commit/132e03f37e8ab8c95ee264e1cfbeef6b2ed39a5b
 
 # O Ring
 date: 2017-01-17
@@ -51307,7 +50968,7 @@ Você já colocou aquele seu projeto favorito em /W4? Por padrão, o Visual Stud
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 ```
 
-OK, este foi o nível 3 do tioserver, o projeto principal do [tiodb], uma ferramenta para manter contêineres assináveis na memória e acessíveis via socket. Note que já existe um warning, mas vamos ignorar por enquanto. O objetivo aqui é descobrir quais os warnings mais comuns do projeto que você vai escolher. Vejamos o meu:
+OK, este foi o nível 3 do tioserver, o projeto principal do "tiodb", uma ferramenta para manter contêineres assináveis na memória e acessíveis via socket. Note que já existe um warning, mas vamos ignorar por enquanto. O objetivo aqui é descobrir quais os warnings mais comuns do projeto que você vai escolher. Vejamos o meu:
 
 ![](warning_de_nivel_4_XjbqVh9.png)
 
@@ -51412,7 +51073,7 @@ C4458: declaration of 'identifier' hides class member
 C4701: potentially uninitialized local variable 'name' used
 ```
 
-Apenas quatro. Tão comuns que [a maioria] está até em ordem numérica e diz respeito a repetição de nomes em escopos diferentes, o que esconde os nomes do escopo anterior, mais amplo. O outro, o [C4701], pode ser mais problemático, já que ele representa uma variável que potencialmente não foi inicializada, fonte comum daqueles erros de "como é que essa variável virou isso?".
+Apenas quatro. Tão comuns que "a maioria" está até em ordem numérica e diz respeito a repetição de nomes em escopos diferentes, o que esconde os nomes do escopo anterior, mais amplo. O outro, o "C4701", pode ser mais problemático, já que ele representa uma variável que potencialmente não foi inicializada, fonte comum daqueles erros de "como é que essa variável virou isso?".
 
 Felizmente só temos em um ponto do código:
 
@@ -51469,9 +51130,6 @@ OK, isso é meio feio. A variável handle tinha acabado de ser criada logo antes
 
 E aqui termina mais uma sessão de "e se eu abrir mais os warnings do meu código". Espero que tenha aproveitado.
 
-[a maioria]: https://msdn.microsoft.com/en-us/library/mt694070.aspx
-[C4701]: https://msdn.microsoft.com/en-us/library/1wea5zwe.aspx
-[tiodb]: https://github.com/tiodb
 
 # Champagne
 date: 2017-01-18
@@ -51987,7 +51645,7 @@ tags: computer blog
 
 É muito bom (para quem gosta) usar a IDE e viver feliz sem precisar se preocupar em digitar comandos estranhos no prompt. Porém, essa vida acaba quando ocorre o primeiro erro inexplicável, aquele tipo de erro que não importa onde você olhe, não há nada para olhar. Até você apelar para ferramentas de macho.
 
-Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do [tiodb] e após baixar todos os pacotes do [NuGet], o gerenciador de pacotes do Visual Studio (inclusive para C++, agora) acusou a falta do boost, sendo que ele havia acabado de baixá-lo:
+Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do "tiodb" e após baixar todos os pacotes do "NuGet", o gerenciador de pacotes do Visual Studio (inclusive para C++, agora) acusou a falta do boost, sendo que ele havia acabado de baixá-lo:
 
 ![](pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_HUp5S4K.png)
 
@@ -52063,8 +51721,6 @@ gvim server\tio\tioserver.vcxproj
 
 Recarregado o projeto no Visual Studio após a intervenção cirúrgica, tudo voltou a funcionar. A lição de hoje é: nunca confie completamente em uma IDE. Às vezes o bom e velho grep e o bom e velho editor de sua escolha podem resolver uma situação.
 
-[tiodb]: https://github.com/tiodb/tiodb
-[NuGet]: https://docs.microsoft.com/pt-br/nuget/consume-packages/overview-and-workflow
 
 # Native Floripa 2017: Palestras
 date: 2017-02-09
@@ -52476,9 +52132,8 @@ Agora imagine que exista um cliente da tiocoin que está monitorando as transaç
 
 Voilà! Agora temos um sistema inicial com um contêiner que irá manter os IDs de supostas transações de nossa moeda digital. Está compilando e está rodando, e em cima disso poderemos ir adicionando as funcionalidades.
 
-Atenção: você poderá encontrar o repositório do tiocoin [aqui].
+Atenção: você poderá encontrar o repositório do tiocoin no "GitHub da BitForge".
 
-[aqui]: https://github.com/bitforgebr/tiocoin
 
 # O velho problema do project out of date do Visual Studio
 date: 2017-02-20
@@ -52696,7 +52351,7 @@ O nome do arquivo é autoexp.dat e ele fica em uma pasta no estilo Program Files
 ; "format specifiers/watch variable"
 ```
 
-Felizmente (e também obviamente) o pessoal do Qt já fez [uma entrada na wiki] que explica como fazer para interpretar corretamente uma QString. Eles mesmos admitem que a coisa ficou difícil desde a última versão (Qt 5), mas ainda assim é possível. E, se tudo falhar, ainda é possível usar a janela de Watch:
+Felizmente (e também obviamente) o pessoal do Qt já fez "uma entrada na wiki" que explica como fazer para interpretar corretamente uma QString. Eles mesmos admitem que a coisa ficou difícil desde a última versão (Qt 5), mas ainda assim é possível. E, se tudo falhar, ainda é possível usar a janela de Watch:
 
 ```
 (char*)str.d + str.d->offset,su
@@ -52706,7 +52361,6 @@ Mas não foi o caso dessa vez. Tudo funcionou perfeitamente assim que incluí os
 
 ![](visualizando_qstring_no_visual_studio_3dnGwGK.gif)
 
-[uma entrada na wiki]: https://wiki.qt.io/IDE_Debug_Helpers
 
 # Silêncio
 date: 2017-02-22
@@ -53062,10 +52716,8 @@ Por fim, seus últimos capítulos são mais voltados para a prática esportista 
 
 "To love the plateau is to love the eternal now, to enjoy the inevitable spurts of progress and the fruits of accomplishment, then serenely to accept the new plateau that waits just beyond them. Ultimately, the master and the master's path are one. In terms of energy, it's better to make a wrong choice than none at all. Ultimately, nothing in this life is "commonplace," nothing is "in between." The threads that join your every act, your every thought, are infinite. All paths of mastery eventually merge. Are you willing to wear your white belt?"
 
-"Mastery" está disponível [em formato físico] na Amazon e outras livrarias, e no formato ebook em [coleções particulares]. Não sei se há tradução em português.
+"Mastery" está disponível "em formato físico" na Amazon e outras livrarias, e no formato ebook em "coleções particulares". Não sei se há tradução em português.
 
-[em formato físico]: https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560
-[coleções particulares]: https://drive.google.com/drive/folders/0B5raq27YbkvOZHN0a2xmOFhON0U?usp=sharing
 
 # qt5.natvis
 date: 2017-03-15
@@ -53205,7 +52857,7 @@ Do lado cliente há ferramentas GNU como curl e wget para conseguir baixar rapid
 powershell wget http://127.0.0.1:8000/Procmon.exe -OutFile Procmon.exe
 ```
 
-Porém, caso não seja possível usar o Power Shell o [pacote básico do wget do GnuWin32], de 2MB, já consegue realizar o download.
+Porém, caso não seja possível usar o Power Shell o "pacote básico do wget do GnuWin32", de 2MB, já consegue realizar o download.
 
 ```
 c:\Temp\bitforge\wget>dir
@@ -53240,7 +52892,6 @@ c:\Temp\bitforge\wget>
 
 E assim com poucas linhas de código já é possível iniciar um client/servidor via http que fornece arquivos de atualização. A própria versão do pacote e detalhes podem estar disponíveis na mesma pasta.
 
-[pacote básico do wget do GnuWin32]: http://gnuwin32.sourceforge.net/packages/wget.htm
 
 # Angel-A
 date: 2017-03-26
@@ -54260,9 +53911,9 @@ Note que isso não irá interferir em nada no repositório localizado remotament
 date: 2017-05-28
 tags: computer
 
-Há diversas distros Linux capazes de bootar via CD e com uma penca de ferramentas. Conheci há alguns anos uma delas: a [SystemRescueCd]: um disco de recuperação de HDs com diversas ferramentas embutidas. Dentro dele pode ser inserido outras ferramentas que achar interessante, e o mais importante, desenvolver através do próprio CD suas ferramentas.
+Há diversas distros Linux capazes de bootar via CD e com uma penca de ferramentas. Conheci há alguns anos uma delas: a "SystemRescueCd": um disco de recuperação de HDs com diversas ferramentas embutidas. Dentro dele pode ser inserido outras ferramentas que achar interessante, e o mais importante, desenvolver através do próprio CD suas ferramentas.
 
-A modificação do CD pode ser feita bootando com ele mesmo, seguinto o [tutorial da própria SystemRescueCd]. No entanto, para facilitar o uso, é possível utilizá-lo em um ambiente virtualizado (criar uma VMWare que boote pelo CD, por exemplo, e depois instalar no HD virtual).
+A modificação do CD pode ser feita bootando com ele mesmo, seguinto o "tutorial da própria SystemRescueCd". No entanto, para facilitar o uso, é possível utilizá-lo em um ambiente virtualizado (criar uma VMWare que boote pelo CD, por exemplo, e depois instalar no HD virtual).
 
 Outra opção interessante é montar outras partições partindo do próprio CD. Ao bootar com o CD da SystemRescue, após ter acesso ao terminal pela primeira vez, detecte e formate o HD Linux usando a ferramenta fdisk. Dentro da ferramenta use as opções padrão e crie uma particão Linux. Ao final, escreva com 'w', formate a partição (ex: mkfs.ext4) e a partição já deverá estar disponível no próximo boot.
 
@@ -54326,8 +53977,6 @@ cp /mnt/custom/customcd/isofile/*.iso /mnt/windows
 
 Desligue a máquina virtual e volte a montar o HD na máquina real. O ISO do novo CD estará disponível.
 
-[SystemRescueCd]: http://www.system-rescue-cd.org/SystemRescueCd_Homepage
-[tutorial da própria SystemRescueCd]: http://www.system-rescue-cd.org/Sysresccd-manual-en_How_to_personalize_SystemRescueCd
 
 # Bolo de Cenoura
 date: 2022-07-09
@@ -54843,7 +54492,7 @@ Iniciei um novo projeto no GitHub que tem por objetivo ser minha prancheta de tr
 
 Depende.
 
-Dei uma olhada nas [últimas modificações adicionadas no Visual Studio 2017] (versão 15.3 preview 1, mas o último lançado é o preview 5), e há muitos elementos IMHO supérfluos, mas que tendem a ser integrados aos poucos (I hope).
+Dei uma olhada nas "últimas modificações adicionadas no Visual Studio 2017" (versão 15.3 preview 1, mas o último lançado é o preview 5), e há muitos elementos IMHO supérfluos, mas que tendem a ser integrados aos poucos (I hope).
 
 A lista que achei interessante (com seu projeto):
 
@@ -54861,7 +54510,7 @@ A lista que achei interessante (com seu projeto):
 
 - nodiscard_test. Essa é uma das features mais curiosas para escrita de código robusta.
 
-- sfinae_test. O [SFINAE] é um dos pilares do C++, e ele vem melhorando cada vez mais.
+- sfinae_test. O "SFINAE" é um dos pilares do C++, e ele vem melhorando cada vez mais.
 
 - static_assert_test. O que estava faltando que no Boost é macaco velho.
 
@@ -54881,8 +54530,6 @@ Para que a compilação dessa opção funcione no Visual Studio 2017 15.3 é nec
 
 Todos (ou a maioria) deles ainda está em teste. Acabei de baixar o preview 5, conforma um dos membros da ML dos MVPs C++ me informou que saiu quentinha do forno. Em breve novidades.
 
-[últimas modificações adicionadas no Visual Studio 2017]: https://blogs.msdn.microsoft.com/vcblog/2017/05/10/c17-features-in-vs-2017-3/
-[SFINAE]: https://en.wikipedia.org/wiki/Substitution_failure_is_not_an_error
 
 # Dunkirk
 date: 2017-07-25
@@ -54946,7 +54593,7 @@ No caso o comando maroto é o seguinte:
 msvsmon.exe /timeout 999999 /anyuser /silent /noauth
 ```
 
-E para transformar em um serviço podemos usar o [NSSM], já visto em outros artigos.
+E para transformar em um serviço podemos usar o "NSSM", já visto em outros artigos.
 
 ```
 nssm.exe install Msvsmon msvsmon.exe /timeout 999999 /anyuser /silent /noauth
@@ -55035,7 +54682,6 @@ Depois que houver o attach você irá continuar a execução. Portanto, coloque 
 
 Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.
 
-[NSSM]: https://nssm.cc/
 
 # Outlander - Segunda Temporada
 date: 2017-07-27
@@ -55058,7 +54704,7 @@ E estão longe de entregar uma season finale decente, que termine de uma vez sua
 # Migrando Imagens Para Imgur
 date: 2017-07-28
 
-Depois de migrar meus blogues para o [Hugo] decidi deixar o repositório mais magro migrando as imagens para um serviço de imagens. O [imgur] me pareceu uma solução simples com uma interface rápida (e uma API Python). Para realizar essa tarefa você vai precisar das ferramentas de sempre: grep, sed, python, vim. E lá vamos nós.
+Depois de migrar meus blogues para o "Hugo" decidi deixar o repositório mais magro migrando as imagens para um serviço de imagens. O "imgur" me pareceu uma solução simples com uma interface rápida (e uma API Python). Para realizar essa tarefa você vai precisar das ferramentas de sempre: grep, sed, python, vim. E lá vamos nós.
 
 Meu primeiro passo foi realmente limpar a pasta de imagens, eliminando as que não estavam sendo usadas. A pasta de imagens ficou se acumulando por anos, e muitas imagens foram sendo carregadas através dos Wordpress da vida e plugins que deram resize nas imagens, gerando várias cópias no processo. Tudo inútil e dispendioso.
 
@@ -55101,8 +54747,6 @@ sed -i "s/<nome-original-do-arquivo>
 
 Lembrar de apagar o all.md. Ele só foi usado para gerar a saída mais simples do grep.
 
-[Hugo]: https://gohugo.io
-[imgur]: http://imgur.com/
 
 # A Minha Casa Caiu
 date: 2017-07-31
@@ -55736,7 +55380,7 @@ A direção de Erik Shirai é poética, usa tomadas em câmera lenta e trilha so
 date: 2017-09-26
 tags: ccpp
 
-Um dos [últimos posts] no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
+Um dos "últimos posts" no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
 
 Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e biblioteca, como *move semantics*, não cabe mais em exemplos de livrinhos de C++ para iniciantes da década de 90:
 
@@ -55771,7 +55415,7 @@ int main()
 
 Neste singelo exemplo, que está errado by design, a classe X não se preocupa em proteger-se de cópias simples. Mas o programador também não se protege da ignorância e usa std::move como se ele magicamente movesse referências const, o que é absurdo.
 
-![Imgur](cpp_arranca_os_cabelos_por_voce_zi5GJxE.png)
+!"imgur"(cpp_arranca_os_cabelos_por_voce_zi5GJxE.png)
 
 A questão, porém, não é sobre qual é o problema no código, mas os aspectos de design de C++ que podem levar futuros programadores a se depararem com o mesmo problema em versões multicamadas de complexidade. Este é um exemplo óbvio, mas até quando será?
 
@@ -55785,7 +55429,6 @@ C++, assim como o Brasil, desde o começo nunca foi para amadores. Hoje em dia e
 
 Mas talvez com C++ 17+ os cabelos passem a cair sozinho...
 
-[últimos posts]: https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg
 
 # Detroit em Rebelião
 date: 2017-09-27
@@ -56987,7 +56630,7 @@ public:
 
 Então eu me pergunto: qual a função da classe em um código desses?
 
-Bjarne Stroustrup desde o começo, em seu livro [The C++ Programming Language], sugere que C++ não é uma linguagem unicamente orientada a objetos, mas multi-paradigmas. Hoje, em 2017, ela é uma linguagem genérica e até funcional. Na época poderia ser usada como orientada a objetos, mas também como estruturada e imperativa comum. O goto funciona até hoje.
+Bjarne Stroustrup desde o começo, em seu livro "The C++ Programming Language", sugere que C++ não é uma linguagem unicamente orientada a objetos, mas multi-paradigmas. Hoje, em 2017, ela é uma linguagem genérica e até funcional. Na época poderia ser usada como orientada a objetos, mas também como estruturada e imperativa comum. O goto funciona até hoje.
 
 Então o erro no código acima é supor mecanicamente que como é C++ precisa ter classe.
 
@@ -57022,7 +56665,6 @@ HRESULT cmd2();
 
 E note que eu disse funções, não classe. E é possível ter classe sem classes.
 
-[The C++ Programming Language]: https://www.google.com.br/search?q=the+c%2B%2B+programming+language
 
 # Cmd e o encoding fake
 date: 2017-12-26
@@ -57044,7 +56686,7 @@ Até aí tudo bem, certo?
 
 Não! Não! Não!
 
-O [codepage 437] não possui ã. Nem õ.
+O "codepage 437" não possui ã. Nem õ.
 
 ![CodePage437](cmd_e_o_encoding_fake_lcVG0ak.png)
 
@@ -57088,7 +56730,7 @@ int main(int argc, char* argv[])
 }
 ```
 
-Simples, bonito e prático. Quando executamos Redirector.exe ele executa um cmd.exe, com a diferença que a saída dele vai parar no arquivo cmd.log, que podemos observar com um [BareTail] da vida.
+Simples, bonito e prático. Quando executamos Redirector.exe ele executa um cmd.exe, com a diferença que a saída dele vai parar no arquivo cmd.log, que podemos observar com um "BareTail" da vida.
 
 ![Redirector](cmd_e_o_encoding_fake_92WFz8J.gif)
 
@@ -57121,8 +56763,6 @@ goto beg
 
 E com isso constatamos que não necessariamente no Windows, What You See Is What You Get. Ou, em termos mais filosóficos, "What I see is not necessarily what you see".
 
-[codepage 437]: https://en.wikipedia.org/wiki/Code_page_437#Character_set
-[BareTail]: https://www.baremetalsoft.com/baretail/
 
 # Erased: Piloto
 date: 2017-12-27
@@ -57570,10 +57210,8 @@ Dr John Watson: Fun? There's a woman lying dead.
 
 Sherlock Holmes: Perfectly sound analysis but I was hoping you'd go deeper.
 
-Claro que este modo fácil de jogar irá acontecer apenas neste piloto oficial. O piloto não-oficial nunca foi ao ar depois que a BBC pediu por mudanças drásticas no ritmo e abordagem da história, inflando os episódios de uma hora para 90 minutos. Essa pegada mais [canon], pautada no conteúdo original de Sir Arthur Donan Doyle, é brilhante em resgatar a mesma atmosfera dos [filmes das décadas de 30 e 40], com a dupla na pele de Basil Rathbone e Nigel Bruce, em versão contemporânea do detetive mais famoso de todos os tempos. O resto da série toma uma crescente que se torna mais e mais profunda, afastando o espectador médio e fidelizando os poucos com cérebro e paciência para se dar o prazer de se envolver em algo, e não apenas zapear os streamings.
+Claro que este modo fácil de jogar irá acontecer apenas neste piloto oficial. O piloto não-oficial nunca foi ao ar depois que a BBC pediu por mudanças drásticas no ritmo e abordagem da história, inflando os episódios de uma hora para 90 minutos. Essa pegada mais "canon", pautada no conteúdo original de Sir Arthur Donan Doyle, é brilhante em resgatar a mesma atmosfera dos "filmes das décadas de 30 e 40", com a dupla na pele de Basil Rathbone e Nigel Bruce, em versão contemporânea do detetive mais famoso de todos os tempos. O resto da série toma uma crescente que se torna mais e mais profunda, afastando o espectador médio e fidelizando os poucos com cérebro e paciência para se dar o prazer de se envolver em algo, e não apenas zapear os streamings.
 
-[canon]: https://en.wikipedia.org/wiki/Canon_(fiction)
-[filmes das décadas de 30 e 40]: https://en.wikipedia.org/wiki/Sherlock_Holmes_(1939_film_series)
 
 # Como Parsear Argc Argv para um map STL
 date: 2018-01-26
@@ -58538,11 +58176,10 @@ int main()
 }
 ```
 
-Note que estamos obtendo o endereço do primeiro elemento do nosso vector STL porque, desde o padrão C++0x03, [vetores são garantidos que serão contínuos]. Essa garantia de leiaute de memória pode facilitar muitos usos de vector que estavam dependentes da implementação. O exemplo acima é apenas o mais simples deles, mas imagine que qualquer tipo de memória contígua cujo tamanho é desconhecido em tempo de compilação pode ser deixado seu gerenciamento para a STL cuidar.
+Note que estamos obtendo o endereço do primeiro elemento do nosso vector STL porque, desde o padrão C++0x03, "vetores são garantidos que serão contínuos". Essa garantia de leiaute de memória pode facilitar muitos usos de vector que estavam dependentes da implementação. O exemplo acima é apenas o mais simples deles, mas imagine que qualquer tipo de memória contígua cujo tamanho é desconhecido em tempo de compilação pode ser deixado seu gerenciamento para a STL cuidar.
 
 Ah, e a partir do C++11 podemos usar vector::data() para obter os dados sem deferenciar o primeiro elemento. Particularmente acho mais expressiva a sintaxe dos arrays, mas fica a gosto do freguês.
 
-[vetores são garantidos que serão contínuos]: https://herbsutter.com/2008/04/07/cringe-not-vectors-are-guaranteed-to-be-contiguous/
 
 # Lady Bird: A Hora de Voar
 date: 2018-03-13
@@ -60708,7 +60345,7 @@ sort calibre_entries.txt > calibre_entries_sorted.txt
 
 ### Apagar duplicatas
 
-Ao final do processo com o wget percebi que algumas entradas foram baixadas mais de uma vez. Várias delas. Por isso eliminei as duplicatas usando um programa Windows chamado [doublekiller.exe], mas basta você usar qualquer ferramenta que encontra os .html da mesma pasta que possuem o mesmo hash e eliminar as duplicadas. Isso deve ser feito nesse passo antes de:
+Ao final do processo com o wget percebi que algumas entradas foram baixadas mais de uma vez. Várias delas. Por isso eliminei as duplicatas usando um programa Windows chamado "doublekiller.exe", mas basta você usar qualquer ferramenta que encontra os .html da mesma pasta que possuem o mesmo hash e eliminar as duplicadas. Isso deve ser feito nesse passo antes de:
 
 ### calibre_entries_to_template.bat (converte entradas da enciclopédia para o template do Calibre)
 
@@ -60741,7 +60378,6 @@ Após abrir pelo Calibre ele insere na biblioteca e é só converter para MOBI (
 
 E por hoje é só. Se tudo der certo você poderá copiar e colar dentro do seu leitor todas as entradas de uma enciclopédia indispensável para quem está estudando filosofia. Enjoy.
 
-[doublekiller.exe]: https://www.bigbangenterprises.de/en/doublekiller/
 
 # Escrevendo Curtas
 date: 2018-07-16
@@ -61302,21 +60938,19 @@ Considerando todas as infomações coletadas em diversas fontes é possível per
 
 Fontes citadas:
 
-- [Intermittent Fasting 101 — The Ultimate Beginner’s Guide]
+- "Intermittent Fasting 101 — The Ultimate Beginner’s Guide"
 
-- [Google]
+- "11 Myths About Fasting and Meal Frequency"
 
-- [11 Myths About Fasting and Meal Frequency]
+- "Fasting: molecular mechanisms and clinical applications"
 
-- [Fasting: molecular mechanisms and clinical applications]
+- "Why fasting bolsters brain power: Mark Mattson at TED"
 
-- [Why fasting bolsters brain power: Mark Mattson at TED]
+- "Glycogen in Four Parts"
 
-- [Glycogen in Four Parts]
+- "Jejum intermitente “24 por 24” horas aumenta risco de diabete em ratos"
 
-- [Jejum intermitente “24 por 24” horas aumenta risco de diabete em ratos]
-
-- [expert reaction to unpublished poster presentation on diabetes and fasting as presented at the European Society of Endocrinology annual meeting, ECE 2018]
+- "expert reaction to unpublished poster presentation on diabetes and fasting as presented at the European Society of Endocrinology annual meeting, ECE 2018"
 
 ## Outros links
 
@@ -61328,14 +60962,6 @@ Fontes citadas:
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355425/>
 
-[Intermittent Fasting 101 — The Ultimate Beginner’s Guide]: https://www.healthline.com/nutrition/intermittent-fasting-guide
-[Google]: https://www.google.com.br/search?q=intermittent+fasting
-[11 Myths About Fasting and Meal Frequency]: https://www.healthline.com/nutrition/11-myths-fasting-and-meal-frequency
-[Fasting: molecular mechanisms and clinical applications]: https://www.ncbi.nlm.nih.gov/pubmed/24440038
-[Why fasting bolsters brain power: Mark Mattson at TED]: https://youtu.be/4UkZAwKoCP8
-[Glycogen in Four Parts]: https://youtu.be/0xj4etF0wkw
-[Jejum intermitente “24 por 24” horas aumenta risco de diabete em ratos]: https://jornal.usp.br/ciencias/ciencias-biologicas/jejum-intermitente-24-por-24-horas-aumenta-risco-de-diabete-em-ratos/
-[expert reaction to unpublished poster presentation on diabetes and fasting as presented at the European Society of Endocrinology annual meeting, ECE 2018]: http://www.sciencemediacentre.org/expert-reaction-to-unpublished-poster-presentation-on-diabetes-and-fasting-as-presented-at-the-european-society-of-endocrinology-annual-meeting-ece-2018/
 
 # O Centenário Que Fugiu Pela Janela e Desapareceu
 date: 2018-08-19
@@ -61391,7 +61017,7 @@ date: 2018-08-21
 slug: meu_novo_parseador_de_argc_argv
 tags: computer ccpp blog
 
-Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que [minha função] bonita e completa de parseamento de argumentos argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Ele basicamente percorre o array argv em busca do nome do parâmetro enviado para a função. Uma vez que ele encontre ele retorna o próximo elemento. Na falta de próximo elemento ele simplesmente retorna uma string vazia que não é nulo, mas já indica que há o parâmetro na lista de argumento.
+Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que "minha função" bonita e completa de parseamento de argumentos argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Ele basicamente percorre o array argv em busca do nome do parâmetro enviado para a função. Uma vez que ele encontre ele retorna o próximo elemento. Na falta de próximo elemento ele simplesmente retorna uma string vazia que não é nulo, mas já indica que há o parâmetro na lista de argumento.
 
 ```
 /** Interpreta argumentos da linha de comando (versão raiz).
@@ -61436,7 +61062,6 @@ Essa função é tão simples, e tem tão poucas dependências (strcmp) que voc�
 
 Uma última observação: dependendo do uso você pode ou não usar o retorno, e ele possui semântica booleana, pois caso o argumento não exista o retorno é NULL e por isso não cai dentro do if (pois NULL traduzido em booleano é false). Eis uma função para copiar e colar abusivamente.
 
-[minha função]: https://gist.github.com/Caloni/5b9ccc66722a1b235f4aab8251822cdb
 
 # Histórias que Nosso Cinema (Não) Contava
 date: 2018-08-23
@@ -61730,7 +61355,7 @@ O arquivo vcpkg\installed\vcpkg\status contém em formato texto simples o status
 
 ### Triplets
 
-No gerenciador de pacotes há um conceito chamado de [triplet], que não é uma novidade; é uma forma de especificar um conjunto de elementos do ambiente para cross compiling utilizando um simples nome.
+No gerenciador de pacotes há um conceito chamado de "triplet", que não é uma novidade; é uma forma de especificar um conjunto de elementos do ambiente para cross compiling utilizando um simples nome.
 
 ```
 c:\Libs\vcpkg>vcpkg help triplet
@@ -61764,7 +61389,7 @@ O vcpkg já vem com alguns triplets de fábrica, mas você pode criar os seus pr
 
 - VCPKG_VISUAL_STUDIO_PATH. Onde está a instalação do Visual Studio (é, o vcpkg tem uma certa tendência pro Zwindows).
 
-- VCPKG_CHAINLOAD_TOOLCHAIN_FILE. Esse não é do Zwindows, mas do [CMake]; a possibilidade de escolher outro toolchain (diferente de scripts/toolchains) para o CMake.
+- VCPKG_CHAINLOAD_TOOLCHAIN_FILE. Esse não é do Zwindows, mas do "CMake"; a possibilidade de escolher outro toolchain (diferente de scripts/toolchains) para o CMake.
 
 #### VCPKG_CXX_FLAGS
 
@@ -61852,7 +61477,7 @@ No exemplo estou usando um vcpkg disponível na pasta c:\libs (que é basicament
 
 Note como as pastas de instalação dos pacotes do triplet selecionado são incluídas na configuração de um projeto do Visual Studio. As libs ficam na subpasta installed/triplet/lib, os binários em installed/triplet/bin, os includes em installed/triplet/include e assim por diante. A ramificação dos pacotes está de acordo com o basename de cada um deles.
 
-A mágica ocorre já na hora de dar include. E é mágica desde o autocomplete até o link. Por exemplo, digamos que vamos fazer um embedded de Python usando o [exemplo do help]:
+A mágica ocorre já na hora de dar include. E é mágica desde o autocomplete até o link. Por exemplo, digamos que vamos fazer um embedded de Python usando o "exemplo do help":
 
 ![](vcpkg_internals_7XMj026.png)
 
@@ -61913,9 +61538,9 @@ Se você prestou atenção ao conteúdo de msbuild\vcpkg.targets lá em cima vai
 
 É isso que resolve o problema de saber qual o nome da lib resultante de um pacote instalado. Porém, isso não é o ideal, principalmente por dois motivos:
 
-1. Os nomes de configuração do projeto tem que ser Debug ou Release (maneiras de melhorar já está sendo discutido [no GitHub 1]).
+1. Os nomes de configuração do projeto tem que ser Debug ou Release (maneiras de melhorar já está sendo discutido "no GitHub 1").
 
-2. O usuário final não tem qualquer controle do que adicionar como dependência; simplesmente vai todos os pacotes instalados (mais uma discussão [no GitHub 2]).
+2. O usuário final não tem qualquer controle do que adicionar como dependência; simplesmente vai todos os pacotes instalados (mais uma discussão "no GitHub 2").
 
 Porém, no momento é assim que funciona. Para o problema #1 a solução paliativa é o próprio usuário adicionar em seu msbuild as condições de sua configuração. A sugestão da thread é boa:
 
@@ -62269,11 +61894,6 @@ E voilá! Agora o include está disponível, as funções estão disponíveis, o
 
 ![](vcpkg_internals_XeeD4Se.png)
 
-[CMake]: https://cmake.org/cmake/help/v3.11/manual/cmake-toolchains.7.html
-[exemplo do help]: https://docs.python.org/3/extending/embedding.html
-[no GitHub 1]: https://github.com/Microsoft/vcpkg/issues/1638
-[no GitHub 2]: https://github.com/Microsoft/vcpkg/issues/306
-[triplet]: https://github.com/Microsoft/vcpkg/blob/master/docs/users/triplets.md
 
 # Receita de café no Reddit
 date: 2018-09-13
@@ -62631,7 +62251,7 @@ Filmes de bandas sempre possuem a vantagem da trilha sonora e da dinâmica do v�
 # Native Floripa 2018
 date: 2018-09-28
 
-O [Native Floripa] desse ano foi um evento de nerds que adoro e também uma viagem e encontro de nerds (que também adoro). Isso quer dizer que este é um post duplo, onde analiso tanto a viagem quanto o evento.
+O "Native Floripa" desse ano foi um evento de nerds que adoro e também uma viagem e encontro de nerds (que também adoro). Isso quer dizer que este é um post duplo, onde analiso tanto a viagem quanto o evento.
 
 Como viagem Floripa é uma cidade que se divide em ilha e continente. Na ilha há um emaranhado de rodovias que circulam pelos morros e que se cruzam onde percebemos que a prefeitura não tem o mínimo de cuidado e investimento em fazer conexões decentes. Há dois elevados em obras que facilitaram a transição entre rodovias. Vimos um no caminho do aeroporto para Barra da Lagoa, e o motorista do Uber comentou que está há dez anos em obras, já tendo gasto todo o dinheiro em um amontoado de madeira e concreto inúteis, o que resume o que tenho a dizer sobre a organização da cidade como um todo.
 
@@ -62639,7 +62259,7 @@ Felizmente o povo do sul é um povo decente, de respeito e que graças a Deus n�
 
 ![](native_floripa_2018_nBLf4ZB.png)
 
-O evento teve lugar, como no ano passado, na [Acate], uma incubadora de startups, nos dias 22 e 23 de setembro de 2018 (sábado e domingo). Houve em alguns momentos duas trilhas, que eu condeno por ser um evento pequeno, mas no salão principal houve a filmagem para publicação na internet, que eu invejo, pois logo teremos disponível para todos as palestras da trilha principal. Essa filmagem se torna ainda mais especial quando se percebe que houve muitos poucos participante no evento, girando em torno de 20 no sábado e 10 no domingo. As palestras do ano passado já se encontram publicadas, mas como houve uma demora de alguns meses talvez esse ano teremos a mesma espera.
+O evento teve lugar, como no ano passado, na "Acate", uma incubadora de startups, nos dias 22 e 23 de setembro de 2018 (sábado e domingo). Houve em alguns momentos duas trilhas, que eu condeno por ser um evento pequeno, mas no salão principal houve a filmagem para publicação na internet, que eu invejo, pois logo teremos disponível para todos as palestras da trilha principal. Essa filmagem se torna ainda mais especial quando se percebe que houve muitos poucos participante no evento, girando em torno de 20 no sábado e 10 no domingo. As palestras do ano passado já se encontram publicadas, mas como houve uma demora de alguns meses talvez esse ano teremos a mesma espera.
 
 Confesso que fazia um bom tempo que não participava de um evento como esses. Nossa tentativa de realizar o próximo encontro em sp miou por falta de público em um momento em que C++ está em obras e com discussões importantíssimas sobre a linguagem e bibliotecas necessárias. O Native Floripa atendeu essa necessidade em pelo menos algumas palestras.
 
@@ -62663,14 +62283,10 @@ Native Floripa virou já uma tradição. Ano que vem nos vemos de novo.
 
 #### Minhas palestras
 
-- [Vcpkg e vc td a ver]
+- "Vcpkg e vc td a ver"
 
-- [Co co-co-co-co-corrotinas]
+- "Co co-co-co-co-corrotinas"
 
-[Native Floripa]: http://www.nativefloripa.com.br/
-[Acate]: https://www.acate.com.br/
-[Vcpkg e vc td a ver]: https://www.slideshare.net/WanderleyCaloni/vcpkg-e-vc-td-a-ver
-[Co co-co-co-co-corrotinas]: https://www.slideshare.net/WanderleyCaloni/co-cococococorrotinas
 
 # Maniac
 date: 2018-09-30
@@ -64597,9 +64213,8 @@ Essas correções dizem respeito ao sample de uso do winsock como modelo server/
 
 Já para o Boost.Asio será necessário um estudo de impacto e o envio de uma proposta de correção (ou uso de um patch em que a criação do socket cliente deve ser feita sem herança). Isso pode potencialmente quebrar o funcionamento de outros tipos de programas que dependem direta ou indiretamente da herança de todos os sockets, ou talvez o Boost.Asio tenha uma maneira educada de entregar o controle da criação de sockets dependente de implementação. Eu não sei. Este é um próximo passo da pesquisa.
 
-Update (2019-01-07): Embora use a função WSASocketW o Boost.Asio não suporta a parametrização das flags, e sua implementação não é sobrecarregável, fazendo parte do namespace socket_opt. Foi criado [um issue] no GitHub do projeto Boost.Asio para ver os comentários e colocações da equipe. No aguardo.
+Update (2019-01-07): Embora use a função WSASocketW o Boost.Asio não suporta a parametrização das flags, e sua implementação não é sobrecarregável, fazendo parte do namespace socket_opt. Foi criado "um issue" no GitHub do projeto Boost.Asio para ver os comentários e colocações da equipe. No aguardo.
 
-[um issue]: https://github.com/chriskohlhoff/asio/issues/665
 
 # Minecraft: O Jogo
 date: 2019-01-06
@@ -64671,7 +64286,7 @@ Uma última anotação, importante como sempre: a massa mais uma vez não deu. P
 
 ### 2023-02-18
 
-Usando 60% do peso da carne de farinha ainda faltou massa para cerca de 4 empanadas. Considerando que foram feitas 26 o aumento deve ser de 10 a 20%. Vamos de 70% na próxima. Para a gordura foi usado 40%. O resultado ficou gorduroso como uma empada, mas não muito pesado. Ficou menos seco. Parece um ponto ideal para tentar colocar mais água, uns 40%, para ver se retém a umidade. Nessa noite tive insônia e acabei achando o [vídeo de empanadas do cara do Amo Pão Caseiro] onde ele usa o mesmo peso de cebola e carne e o mesmo peso de farinha e carne (mas vai batata e uva passa a mais). Achei simples e posso testar na próxima. Outras diferenças na proporção: 20% de banha de porco, 48% de água. No recheio 10% do peso da carne em banha de porco. Uma dica interessante dos comentários é que alguém usou um ovo para a massa, o que deu mais elasticidade. E eu vi um outro vídeo na mesma noite de algum argentino usando ovo também. Vale a pena o experimento. E, por fim: não precisa sovar a massa, só misturar e guardar na geladeira.
+Usando 60% do peso da carne de farinha ainda faltou massa para cerca de 4 empanadas. Considerando que foram feitas 26 o aumento deve ser de 10 a 20%. Vamos de 70% na próxima. Para a gordura foi usado 40%. O resultado ficou gorduroso como uma empada, mas não muito pesado. Ficou menos seco. Parece um ponto ideal para tentar colocar mais água, uns 40%, para ver se retém a umidade. Nessa noite tive insônia e acabei achando o "vídeo de empanadas do cara do Amo Pão Caseiro" onde ele usa o mesmo peso de cebola e carne e o mesmo peso de farinha e carne (mas vai batata e uva passa a mais). Achei simples e posso testar na próxima. Outras diferenças na proporção: 20% de banha de porco, 48% de água. No recheio 10% do peso da carne em banha de porco. Uma dica interessante dos comentários é que alguém usou um ovo para a massa, o que deu mais elasticidade. E eu vi um outro vídeo na mesma noite de algum argentino usando ovo também. Vale a pena o experimento. E, por fim: não precisa sovar a massa, só misturar e guardar na geladeira.
 
 ### 2022-11-13
 
@@ -64705,7 +64320,6 @@ Usei banha de porco dessa vez na empanada, deixei descansar a massa no pano para
 
 Empanadas com a minha receita de massa, mas com farinha de trigo italiana tipo 00 para massa fresca. O resultado após uma hora na geladeira dentro da tigela coberta com pano ficou mais difícil de quebrar (muito difícil), mas difícil de dobrar para fechar também. Porém, não abriu nenhuma, mas continuou seca como a última, quase uma mistura de pão e biscoito. Talvez um pouco mais de água (ou gordura) e o processo de embrulhar no papel filme. Usando banha de porco.
 
-[vídeo de empanadas do cara do Amo Pão Caseiro]: https://youtu.be/jDSh7fBigPU
 
 # Vidro
 date: 2019-01-08
@@ -65864,7 +65478,7 @@ Copie essa pasta para a máquina onde estará os processos que deseja depurar e 
 
 ![](debug_remoto_visual_studio_2010_superior_bA4u3NZ.png)
 
-Mas este artigo não é sobre isso, é um pouco mais fundo: depurar serviços. Eles rodam na conta de sistema e muitas vezes é preciso depurá-los antes ou depois do logon na máquina. Às vezes é um teste sob as condições de sistema, o que é igualmente importante. Seja como for a maneira de fazer isso com o msvsmon.exe é transformá-lo também em um serviço. Para isso usaremos o [NSSM]: o Non_Sucking Service Manager. Copie ele para a mesma máquina e o executa com o comando install <nome_do_serviço>. Os campos principais são os mais importantes.
+Mas este artigo não é sobre isso, é um pouco mais fundo: depurar serviços. Eles rodam na conta de sistema e muitas vezes é preciso depurá-los antes ou depois do logon na máquina. Às vezes é um teste sob as condições de sistema, o que é igualmente importante. Seja como for a maneira de fazer isso com o msvsmon.exe é transformá-lo também em um serviço. Para isso usaremos o "NSSM": o Non_Sucking Service Manager. Copie ele para a mesma máquina e o executa com o comando install <nome_do_serviço>. Os campos principais são os mais importantes.
 
 ![](debug_remoto_visual_studio_2010_superior_bU6sq33.png)
 
@@ -65876,7 +65490,6 @@ Se você digitar msvsmon.exe /h ou algo do gênero irá encontrar os parâmetros
 
 Obs.: Eu costumo executar sem segurança alguma, pois minhas máquinas de teste são VMs locais e o perigo de vulnerabilidade não é menor do que minha própria máquina real.
 
-[NSSM]: https://nssm.cc/
 
 # O Rei Leão 3 Hakuna Matata
 date: 2019-03-06
@@ -67066,9 +66679,9 @@ date: 2019-04-29
 
 O Secure Shell (SSH) é um protocolo de sucesso nos unixes da vida para terminal remoto e seguro por décadas, mas no Windows nunca houve uma forma simples e protegida de abrir um terminal ou copiar arquivos. A opção é instalar um cygwin com esse componente ou tentar compilar um protocolo SSL e em cima dele o SSH. Porém, há detalhes na autenticação que estão relacionadas com o Sistema Operacional e que precisa ser feito. O OpenSSH é uma maneira de compilar tudo isso e ainda funcionar no Windows.
 
-O software WinSCP, um client SFTP para Windows, possui [um guia] sobre como instalar essa opção no Windows. A partir do Windows Server 2019 e Windows 10 1809 isso não será mais necessário, pois já estará disponível entre as ferramentas opcionais instaláveis do SO (Apps > Apps & features > Manage optional features, "OpenSSH server"). Para os que ainda precisam manter o passado há uma maneira.
+O software WinSCP, um client SFTP para Windows, possui "um guia" sobre como instalar essa opção no Windows. A partir do Windows Server 2019 e Windows 10 1809 isso não será mais necessário, pois já estará disponível entre as ferramentas opcionais instaláveis do SO (Apps > Apps & features > Manage optional features, "OpenSSH server"). Para os que ainda precisam manter o passado há uma maneira.
 
-Se você preferir não compilar [a partir dos fontes] você pode baixar um pacote dos [binários] pelo GitHub. Basta extrair tudo para uma pasta e rodar o script PowerShell de instalação e o serviço sshd estará instalado no modo manual . O local indicado para conter os arquivos é em `C:\Program Files\OpenSSH`, conforme [o tutorial do WinSCP].
+Se você preferir não compilar "a partir dos fontes" você pode baixar um pacote dos "binários" pelo GitHub. Basta extrair tudo para uma pasta e rodar o script PowerShell de instalação e o serviço sshd estará instalado no modo manual . O local indicado para conter os arquivos é em `C:\Program Files\OpenSSH`, conforme "o tutorial do WinSCP".
 
 ![](openssh_windows_7qdGAFB.png)
 
@@ -67076,7 +66689,7 @@ Após instalado você deve abrir a porta 22 pelo firewall do Windows (há uma ma
 
 Menos a parte de mudar o `sshd_config`.
 
-Como nos informa [um post do Stack Overflow], é preciso comentar no arquivo `c:\programdata\ssh\ssh_config`, próximo do final, essas duas linhas:
+Como nos informa "um post do Stack Overflow", é preciso comentar no arquivo `c:\programdata\ssh\ssh_config`, próximo do final, essas duas linhas:
 
 ```
 Match Group administrators
@@ -67102,11 +66715,6 @@ Os programas `ssh.exe` (shell remoto) e `scp.exe` (cópia remota de arquivos) ta
 
 Se seu objetivo é realizar backups remotos silenciosos e para isso você instalar um serviço que irá executar o `scp.exe` de tempos em tempos é preciso tomar cuidado com as credenciais usadas e onde estarão as chaves de criptografia. O padrão usado pelo OpenSSH no Windows é na pasta `C:\Users\Usuário\.ssh`, mas para um processo na conta de sistema esse valor deve ser diferente. No caso de um terminal executando pelo `psexec.exe` ele ficou apontando para `c:\windows\system32\.ssh`, mas para serviços rodando como `SYSTEM` é capaz que seja outro valor. Enfim, é necessário testar e verificar os resultados dos testes.
 
-[um guia]: https://winscp.net/eng/docs/guide_windows_openssh_server
-[a partir dos fontes]: https://github.com/PowerShell/openssh-portable
-[binários]: https://github.com/PowerShell/Win32-OpenSSH/releases
-[o tutorial do WinSCP]: https://winscp.net/eng/docs/guide_windows_openssh_server
-[um post do Stack Overflow]: https://stackoverflow.com/questions/16212816/setting-up-openssh-for-windows-using-public-key-authentication
 
 # Requiém Para Um Sonho
 date: 2019-04-29
@@ -67318,7 +66926,7 @@ tags: computer blog
 
 Desde o Visual Studio 2015 há suporte a unit tests em C++ automatizado na IDE. Porém, a partir do VS 2017 15.5 o suporte aumentou drasticamente, vindo embutidos os suportes para as bibliotecas de teste Google Test, Boost.Test e CTest. Além, é claro, do Microsoft Unit Testing Framework for C++, o caseiro da M$.
 
-Além disso, é possível você mesmo integrar o Visual Studio com outra lib de testes. Mas para que gastar tempo? Várias integrações já estão disponíveis no [Visual Studio Marketplace]. Ligue já!
+Além disso, é possível você mesmo integrar o Visual Studio com outra lib de testes. Mas para que gastar tempo? Várias integrações já estão disponíveis no "Visual Studio Marketplace". Ligue já!
 
 OK, parei com o merchan. Até porque não ganho nada com isso. Vamos ao código.
 
@@ -67459,7 +67067,6 @@ namespace Microsoft{ namespace VisualStudio {namespace CppUnitTestFramework
 
 É uma lib pequena e elegante que permite uma interação não apenas com a IDE, como poderia ser automatizada por um script, uma vez que sabe-se o funcionamento interno e algumas interfaces.
 
-[Visual Studio Marketplace]: https://marketplace.visualstudio.com/
 
 # A Espiã Vermelha
 date: 2019-05-08
@@ -67489,7 +67096,7 @@ Tantas linguagens hoje em dia tentando implementar a abstração de corrotinas e
 
 E aqui está a linguagem C com sua elegância, minimalismo e a filosofia "just works", por mais ou menos 50 anos.
 
-Estava pesquisando sobre bibliotecas de corrotinas em C e encontrei a [Picoro], de Tony Finch. Três coisas me encantaram nela:
+Estava pesquisando sobre bibliotecas de corrotinas em C e encontrei a "Picoro", de Tony Finch. Três coisas me encantaram nela:
 
 1. portabilidade (fácil de testar em qualquer arquitetura).
 
@@ -67544,7 +67151,6 @@ int main()
 
 É importante observar que o uso de troca de contexto pode facilmente consumir a pilha, pois ela está sendo compartilhada com muitas funções em paralelo. Para reservar espaço a `coroutine_start` aloca um array de 16 KB (fixo). Esses detalhes de implementação podem ser alterados, pois a biblioteca é tão mínima e simples de entender que construir qualquer coisa em cima dela é trivial.
 
-[Picoro]: http://dotat.at/cgi/~fanf/dotat/~fanf/dotat/git/picoro.git
 
 # Deep Work => Flow
 date: 2019-05-09
@@ -67998,7 +67604,7 @@ static bar_instance bar = { "bar" };
 
 ~~As estruturas estão usando STL. O quê? Mas não era C? Sim, você tem toda razão. Porém, estou usando uma lib mais conhecida. Há milhares de libs containers em C para você escolher para trocar a implementação. Lembre-se que o mais importante não é ser purista, mas atingir os objetivos. Como eventualmente veremos nessa série de artigos, o próprio C++ e toda a sua biblioteca pode ser implementada em C. Este é apenas um atalho para fins didáticos e de produtividade (como eu já falei, produtividade não é o foco aqui, mas enxergar por debaixo dos panos).~~
 
-Inicialmente feito em STL pela produtividade, a solução atual no GitHub é feita inteiramente em C usando a [glib] (lib comum em Linux com estrutura de dados, etc). O legal dessa biblioteca é que ela tem 20 anos (desde 1998) e já foi muito usada e testada, além de possuir estruturas e algoritmos simples que fazem parte do pacote básico de qualquer programador, como arrays, strings, hash tables.
+Inicialmente feito em STL pela produtividade, a solução atual no GitHub é feita inteiramente em C usando a "glib" (lib comum em Linux com estrutura de dados, etc). O legal dessa biblioteca é que ela tem 20 anos (desde 1998) e já foi muito usada e testada, além de possuir estruturas e algoritmos simples que fazem parte do pacote básico de qualquer programador, como arrays, strings, hash tables.
 
 ```
 #include "cclos.h"
@@ -68311,7 +67917,6 @@ int main()
 
 Futuros posts sobre C Resolve Tudo poderão utilizar a glib ou qualquer outra. Uma outra vantagem da linguagem C é que sua biblioteca padrão é muito enxuta, sendo fácil de ter disponível em seu ambiente um compilador C com a clib, e em cima dela você pode utilizar qualquer biblioteca de sua escolha para estruturas e algoritmos mais complexos. Ou fazer a sua própria.
 
-[glib]: https://developer.gnome.org/glib/
 
 # O Demônio das Onze Horas
 date: 2019-05-17
@@ -68850,7 +68455,7 @@ E por falar em fazer do jeito certo, eu termino voltando a esta nova diretora, q
 
 Esta revisita, como geralmente acontece em filmes que vão se datando aos poucos, me gerou um pouco de decepção. Beanie Feldstein, a.k.a. a gordinha do filme, não está tão diva quando parecia quando assisti este filme na cabine de imprensa. E é Kaitlyn Dever quem de fato segura a bronca. O que é sintomático, pois a personagem da gordinha seria a protagonista. Mas a gordinha não consegue levantar toda essa bola em muitos momentos que repete sua cara com olhos esbugalhados. E eu já disse quantas vezes a palavra gordinha? Bom, estou usando o termo gordinha, pois foi justamente este filme que deu início à piada "nome da atriz". Explico.
 
-Quando postei [este texto para o CinemAqui] ele foi lapidado pelo editor retirando o termo "gordinha" quando me referi a esta atriz. No lugar ele usou... o próprio nome da atriz. A piada nasceu pronta. Assim como brincadeiras saudáveis com o tom da pele das pessoas em tempos onde alguns manipulam e muitos seguem as instruções à risca, considerando os comentários sobre tom da pele extremamente sérios. E isso é ultrassério. Verdade. Assim como quando falei sobre nazismo em uma série que já ia me esquecendo exceto pela parte que Sandra Oh cai do objeto-título.
+Quando postei "este texto para o CinemAqui" ele foi lapidado pelo editor retirando o termo "gordinha" quando me referi a esta atriz. No lugar ele usou... o próprio nome da atriz. A piada nasceu pronta. Assim como brincadeiras saudáveis com o tom da pele das pessoas em tempos onde alguns manipulam e muitos seguem as instruções à risca, considerando os comentários sobre tom da pele extremamente sérios. E isso é ultrassério. Verdade. Assim como quando falei sobre nazismo em uma série que já ia me esquecendo exceto pela parte que Sandra Oh cai do objeto-título.
 
 Mas divago. Booksmart (o título original) hoje não é tão smart assim. Sua virtude é conseguir narrar uma comédia colegial sob a censura do politicamente correto, sob a cartilha social militante vigente e ainda assim ser engraçado. Quase tocante.
 
@@ -68862,7 +68467,6 @@ Hoje tudo isso é datado, pois parte do princípio que jovens são inofensivos n
 
 Não me leve a mal: o filme continua bom. Apenas não é mais memorável. Não é mais um dos melhores do ano como eu escrevi na época. Mas é engraçado. Continua respeitando a inteligência do espectador, mas não sua sensibilidade. Hoje percebemos se tratar de personagens feitos com pressa, sem intensidade, sem realismo. Sem compaixão. Eles castram a verdadeira diversidade de opiniões, essa selva de adolescentes tresloucados, em troca de risadas de eventos bobinhos, de um tour inofensivo de duas jovens em uma noite nada selvagem. É entretenimento de qualidade, mas está ficando velho bem rápido.
 
-[este texto para o CinemAqui]: https://cinemaqui.com.br/fora-de-serie/
 
 # Feliz! S02
 date: 2019-06-09
@@ -69225,7 +68829,7 @@ date: 2019-06-23
 slug: pao_de_queijo
 tags: food cooking
 
-O pão de queijo é polvilho em pó, a decantação da fécula de mandioca, escaldado em uma mistura de água, leite e óleo ferventes sovado junto de ovos, e misturado com queijo ralado (sal a gosto) para ir ao forno em bolinhas feitas à mão dos mais diversos tamanhos. De acordo com o poste [Química do pão de queijo] cada ingrediente tem sua função:
+O pão de queijo é polvilho em pó, a decantação da fécula de mandioca, escaldado em uma mistura de água, leite e óleo ferventes sovado junto de ovos, e misturado com queijo ralado (sal a gosto) para ir ao forno em bolinhas feitas à mão dos mais diversos tamanhos. De acordo com o poste "Química do pão de queijo" cada ingrediente tem sua função:
 
 - Água: dissolve materiais e favorece uma melhor distribuição da temperatura;
 
@@ -69283,7 +68887,6 @@ Preparo: ferver leite, água, óleo e sal; escaldar no polvilho quando estiver f
 
 - 2022-01-30 Pão de queijo. Lições aprendidas nas férias com as meninas: pão de queijo sem gema fica mais duro, ou deixar no forno após desligar o deixa seco demais. Sem leite vira biscoito de polvilho sabor queijo.
 
-[Química do pão de queijo]: https://brasilescola.uol.com.br/quimica/quimica-pao-queijo.htm
 
 # Traídos pelo Desejo
 date: 2019-06-23
@@ -69481,7 +69084,7 @@ Mas estou sendo parcial como nosso amigo diretor. Uma resposta mais honesta seri
 date: 2019-07-10
 tags: projects computer blog
 
-Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do [Hugo], o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.
+Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do "Hugo", o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.
 
 A primeira coisa a ser feita é preparar um tema para formatar seu html. Segue um exemplo atual que uso. Ele possui índice alfabético, inclusão de um arquivo-diário que mantenho, listagem das categorias (com índices para cada uma delas) e listagem cronológica (e link para pular direto para o conteúdo).
 
@@ -69594,7 +69197,6 @@ popd
 
 Importante lembrar que a codificação do hugo (utf8) deve bater com a codificação esperada pelo gerador de ebook. Que me lembre não há muito mais segredos. Basta escrever e de vez em quando rodar o script novamente =)
 
-[Hugo]: https://gohugo.io/
 
 # O Professor Substituto
 date: 2019-07-11
@@ -73273,15 +72875,15 @@ tags: computer
 
 O protocolo DTLS, grosso modo, é um addon do TLS, que é a versão mais nova e segura do SSL. Só que em vez de usar por baixo o TCP, que garante entrega na ordem certa dos pacotes, além de outras garantias, o UDP é permitido. Ou seja, datagramas. Em teoria essa forma de usar TLS é uma versão mais light, com menos overhead e menos tráfico de banda. E a pergunta que tento responder aqui é: será que isso é verdade?
 
-A primeira tarefa é conseguir compilar e rodar um sample DTLS. Estou usando Windows como sistema operacional alvo (requisitos de projeto). Para criar um sample client/server de DTLS usando a biblioteca OpenSSL (no momento na versão 1.1.1d) precisei de alguns passos de setup, conforme especificados no [tutorial do próprio OpenSSL]. O repositório [DTLS-Examples], disponível no GitHub, possui alguns starts para começarmos a compilar e rodar um pouco de código, mas nem tudo são flores na hora de rodar para Windows.
+A primeira tarefa é conseguir compilar e rodar um sample DTLS. Estou usando Windows como sistema operacional alvo (requisitos de projeto). Para criar um sample client/server de DTLS usando a biblioteca OpenSSL (no momento na versão 1.1.1d) precisei de alguns passos de setup, conforme especificados no "tutorial do próprio OpenSSL". O repositório "DTLS-Examples", disponível no GitHub, possui alguns starts para começarmos a compilar e rodar um pouco de código, mas nem tudo são flores na hora de rodar para Windows.
 
-O exemplo que peguei, [dtlsudpecho.c], como diz o nome, usa DTLS em cima de UDP. As funções de setup e de definição de callbacks e settings do OpenSSL são configuradas de acordo com o esperado, mas por algum motivo quando a conexão entre um server e um client é estabelecida o server dispara vários listenings e a conexão estabelecida pelo client permanece sem escrita e leitura.
+O exemplo que peguei, "dtlsudpecho.c", como diz o nome, usa DTLS em cima de UDP. As funções de setup e de definição de callbacks e settings do OpenSSL são configuradas de acordo com o esperado, mas por algum motivo quando a conexão entre um server e um client é estabelecida o server dispara vários listenings e a conexão estabelecida pelo client permanece sem escrita e leitura.
 
 Após compilar o OpenSSL e antes de iniciar os testes gerei os certificados, e analisando a troca de pacotes pelo Wire Shark descobri um erro no handshake envolvendo fragmentação. Tentando descobrir o motivo encontrei alguns issues no GitHub a respeito de problemas no OpenSSL, e a solução era definir um MTU (Maximum Transmission Unit) em vez de deixar o OpenSSL usar o default, que é pequeno demais para poder enviar as mensagens do handshake de uma só vez, requisito do protocolo.
 
-Isso corrigiu o envio do ClientHello, mas após isso o handshake entrou em loop no envio do resto das mensagens até retornar com erro. Do roteiro descrito pela [RFC] faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, mas por algum motivo o Finished nunca chega em nenhum dos lados, e as mensagens a partir de ServerHello se repetem até o retorno de erro de conexão (SSLERRORSSL). O Sequence Number do server e client indicam que apesar da troca de mensagens estar ocorrendo existe um loop.
+Isso corrigiu o envio do ClientHello, mas após isso o handshake entrou em loop no envio do resto das mensagens até retornar com erro. Do roteiro descrito pela "RFC 6347" faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, mas por algum motivo o Finished nunca chega em nenhum dos lados, e as mensagens a partir de ServerHello se repetem até o retorno de erro de conexão (SSLERRORSSL). O Sequence Number do server e client indicam que apesar da troca de mensagens estar ocorrendo existe um loop.
 
-Encontrei um gist que acompanha passo a passo o setup necessário da biblioteca. Ao pesquisar mais a respeito encontrei um artigo de [Christopher A. Wood], que também está explorando esse protocolo usando OpenSSL e que é o autor do primeiro repositório de exemplo de DTLS, que falha não por não funcionar, mas por estar usando TCP em vez de UDP ao usar a flag SOCKSTREAM em vez de SOCKDGRAM na criação do socket.
+Encontrei um gist que acompanha passo a passo o setup necessário da biblioteca. Ao pesquisar mais a respeito encontrei um artigo de "Christopher A. Wood", que também está explorando esse protocolo usando OpenSSL e que é o autor do primeiro repositório de exemplo de DTLS, que falha não por não funcionar, mas por estar usando TCP em vez de UDP ao usar a flag SOCKSTREAM em vez de SOCKDGRAM na criação do socket.
 
 Depois de muito analisar o protocolo desenhando cada pacote na janela do escritório resolvi abandonar essa miríade de detalhes e dar um passo atrás, usando o próprio openssl.exe compilado com os parâmetros abaixo. E, surpreso, mas nem tanto (afinal de contas, a compilação do OpenSSL passou pelos testes pós-build) eu consigo executar o protocolo DTLS em UDP IPV4 sem nenhuma falha.
 
@@ -73291,11 +72893,6 @@ Mas nenhuma dessas mudanças fez efeito no projeto de teste. O próximo passo se
 
 O próximo e último passo é customizar o código-fonte base no qual a OpenSSL valida o protocolo DTLS para o uso que pretendo fazer para ele: um executador de processos remoto.
 
-[Christopher A. Wood]: https://datatracker.ietf.org/person/Christopher%20A.%20Wood
-[DTLS-Examples]: https://github.com/nplab/DTLS-Examples
-[RFC]: https://tools.ietf.org/html/rfc6347
-[dtlsudpecho.c]: https://github.com/nplab/DTLS-Examples/blob/master/src/dtls_udp_echo.c
-[tutorial do próprio OpenSSL]: https://wiki.openssl.org/index.php/Compilation_and_Installation#Windows
 
 # O Exterminador do Futuro 2: O Julgamento Final
 date: 2019-11-14
@@ -73791,7 +73388,7 @@ A ideia por trás de um sistema multipath de rede é fornecer mais de um caminho
 
 O projeto MPTunnel é uma implementação em user space de UDP multipath. Assim como a contraparte em sua versão TCP, você pode estabilizar várias conexões entre o servidor local e o remoto.
 
-[MPTCP] (MultiPath TCP) é uma boa ideia para tornar a conexão de rede mais robusta, mas apenas funciona em TCP, e em um ambiente multiplataforma não há soluções em kernel mode exceto o ECMP desenvolvido no último Linux, cujos [artigos de Jakub Sitnicki] explicam os detalhes. E foi através da minha busca por uma implementação de MPUDP que encontrei essa ferramenta feita por [greensea], um usuário do GitHub.
+"MPTCP" (MultiPath TCP) é uma boa ideia para tornar a conexão de rede mais robusta, mas apenas funciona em TCP, e em um ambiente multiplataforma não há soluções em kernel mode exceto o ECMP desenvolvido no último Linux, cujos "artigos de Jakub Sitnicki" explicam os detalhes. E foi através da minha busca por uma implementação de MPUDP que encontrei essa ferramenta feita por "greensea", um usuário do GitHub.
 
 ## Concepção
 
@@ -73899,12 +73496,8 @@ Atualmente você pode especificar apenas um único host alvo. Alguém sabe se ex
 
 Mptunnel não encripta os pacotes por padrão, apesar de ter essa opção, pois isso irá diminuir o throughput. Em alguns testes o throughput atual é 3Mbps enquanto usando três túneis com criptografia, e após desabilitar a criptografia o throughput sobe para 300Mbps. Se você ainda quiser que o mptunnel encripte os pacotes, defina a variável de ambiente MPTUNNELENCRYPT=1.
 
-Para compilar o mptunnel, a biblioteca libev é um requisito. Para uma uma solução similar para multipath UDP em TCP dê uma olhada no projeto [mlvpn].
+Para compilar o mptunnel, a biblioteca libev é um requisito. Para uma uma solução similar para multipath UDP em TCP dê uma olhada no projeto "mlvpn".
 
-[MPTCP]: https://www.multipath-tcp.org/
-[artigos de Jakub Sitnicki]: http://codecave.cc/multipath-routing-in-linux-part-1.html
-[greensea]: https://github.com/greensea
-[mlvpn]: https://github.com/zehome/MLVPN.
 
 # Panetone
 date: 2019-12-11
@@ -75672,7 +75265,7 @@ tags: computer debugging
 
 A MBConf@Home2020 foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).
 
-[Minha palestra] foi a seguinte: dei uma pincelada no que é o WinDbg para os que ainda não conhecem e realizei algumas manobras pouco usuais de depuração, tentando fugir um pouco da rotina do programador e me enfiando no que seriam minhas sessões antigas de hacking ou cracking da época que analisava trojans ou depurava serviços que saíam depois que meu depurador remoto já tinha ido embora. Segue mais ou menos o roteiro e os pontos levantados.
+"Minha palestra" foi a seguinte: dei uma pincelada no que é o WinDbg para os que ainda não conhecem e realizei algumas manobras pouco usuais de depuração, tentando fugir um pouco da rotina do programador e me enfiando no que seriam minhas sessões antigas de hacking ou cracking da época que analisava trojans ou depurava serviços que saíam depois que meu depurador remoto já tinha ido embora. Segue mais ou menos o roteiro e os pontos levantados.
 
 Hoje em dia o caminho mais fácil é pelo Visual Studio Community, que instala por padrão um Windows SDK. Nessa instalação é possível modificar os itens checando o "Debugging Tools for Windows", que é o pacote que contém o ecossistema do WinDbg.
 
@@ -75704,13 +75297,10 @@ Não. Para depurar a BIOS local há o caminho do debug.com (um depurador bem sim
 
 Já para debug de BIOS em rede. Bem... esse é um nível hackudo. Sei que a Intel tem desenvolvido chips para diagnóstico e obtenção de dados de hardware pela rede antes mesmo do SO estar ligado, mas não cheguei a pesquisar a fundo.
 
-Sim. Como o [Mercês] me ajudou a lembrar, existe um rundll32.exe, um executável que já vem no Windows e que pode carregar a DLL para você. Daí tudo que você precisa fazer é colocar o breakpoint das funções exportadas que deseja chamar. Dá para especificar essas funções pelo rundll32.exe também: rundll32.exe project.dll,chama_eu
+Sim. Como o "Mercês" me ajudou a lembrar, existe um rundll32.exe, um executável que já vem no Windows e que pode carregar a DLL para você. Daí tudo que você precisa fazer é colocar o breakpoint das funções exportadas que deseja chamar. Dá para especificar essas funções pelo rundll32.exe também: rundll32.exe project.dll,chama_eu
 
-Recomendo sempre o [WinDbg.info] como cheat sheet e docs.microsoft.com em seus artigos "Getting Started with WinDbg (User-Mode)" e "Getting Started with WinDbg (Kernel-Mode)" (sorry, m$, vcs mudam os links demais para eu colocar aqui).
+Recomendo sempre o "WinDbg.info" como cheat sheet e docs.microsoft.com em seus artigos "Getting Started with WinDbg (User-Mode)" e "Getting Started with WinDbg (Kernel-Mode)" (sorry, m$, vcs mudam os links demais para eu colocar aqui).
 
-[Minha palestra]: https://www.papobinario.com.br/v1/
-[Mercês]: https://twitter.com/mer0x36
-[WinDbg.info]: http://windbg.info/
 
 # Quanto mais Quente Melhor
 date: 2020-04-18
@@ -75822,7 +75412,7 @@ int operator();
 date: 2020-04-22
 tags: cinema movies
 
-Primeiro filme do Truffaut, meio biográfico (o cineasta foi um delinquente juvenil), exemplo de [Nouvelle Vague]. Esse foi o começo da desconstrução da narrativa burguesa opressora.
+Primeiro filme do Truffaut, meio biográfico (o cineasta foi um delinquente juvenil), exemplo de "Nouvelle Vague". Esse foi o começo da desconstrução da narrativa burguesa opressora.
 
 Mas nada disso importa muito, pois o filme funciona porque mostra a verdade, que está nessa relação pais e filho, nas trocas de frases que todo filho já ouviu. Abortar ou não abortar, adoção, um pai brincalhão e uma mãe entediada e nervosa por ter um filho e viver em lugar apertado na capital com ela trabalhando. Esta é uma das "Parises" mais realistas, tanto que me sinto em São Paulo da minha infância. Isso porque algo acontece com a verdade quando ela é transparente: se torna universal. E toda cidade grande se parece. Toda vida humana tem em parte o drama da incompreensão.
 
@@ -75832,7 +75422,6 @@ Mas isso não importa também. O filme funciona. Na escola vemos esse professor 
 
 Não é um filme para sentirmos dó do seu protagonista, mas para transmitir a sensação de sua vida. E a vida passa independente do que vemos... esta é a vida filmada, o proto neo-realismo criado por este diretor francês e seus companheiros da época.
 
-[Nouvelle Vague]: https://en.wikipedia.org/wiki/French_New_Wave
 
 # Sid & Nancy, o Amor Mata
 date: 2020-04-22
@@ -75905,7 +75494,7 @@ A constante é a religião e a puberdade do garoto, que precisa de uma menina ur
 date: 2020-04-28
 tags: cinema series
 
-Não há muitos motivos por trás de quem deseja assistir à continuação de uma série como Westworld. Exceto a falta do que fazer, talvez. As ambições da série terminaram na [primeira temporada] e agora ela se estende pelas suas ideias que deixaram de ser filosoficamente ambiciosas e passaram a retroalimentar o sistema moralista vigente. A introdução do novo personagem da classe trabalhadora interpretado por Aaron Paul (ótimo casting) e a vida lá fora, com seus arranha-céus ecologicamente corretos, seriam motivo suficiente para assistirmos a mais uma temporada? Apenas pela computação? Esses jardim suspensos da Babilônia futuristas lembram e referenciam o império bizantino, tanto em seu esplendor quanto em sua grande derrocada, mas não há história no contorno desse fundo verde.
+Não há muitos motivos por trás de quem deseja assistir à continuação de uma série como Westworld. Exceto a falta do que fazer, talvez. As ambições da série terminaram na "primeira temporada" e agora ela se estende pelas suas ideias que deixaram de ser filosoficamente ambiciosas e passaram a retroalimentar o sistema moralista vigente. A introdução do novo personagem da classe trabalhadora interpretado por Aaron Paul (ótimo casting) e a vida lá fora, com seus arranha-céus ecologicamente corretos, seriam motivo suficiente para assistirmos a mais uma temporada? Apenas pela computação? Esses jardim suspensos da Babilônia futuristas lembram e referenciam o império bizantino, tanto em seu esplendor quanto em sua grande derrocada, mas não há história no contorno desse fundo verde.
 
 A filosofia original, com as ideias ambiciosas por trás da criação de uma inteligência artificial e suas implicações, fica para trás. A atual mal chega a arranhar as questões profundas sobre o destino dessa nova civilização a alcançar a singularidade, pois continua narrando o mundo futuro com ares de semana que vem, com carros autômatos e ausência de empregados humanos. Não se vê uma alma nas ruas que não seja a alta classe e os malandros e viciados, na maioria das vezes fazendo parte do mesmo grupo. A sutileza de não tornar isso uma bandeira, mas apenas a consequência natural do capitalismo acelerado pela tecnologia da informação do século 21, é um dos traços de respeito da série comandada por Jonathan Nolan e produzida por J. J. Abrams, mas apesar das sutilezas a produção não está fora dos nossos tempos.
 
@@ -75915,7 +75504,6 @@ Os personagens de Bernard, Tandy e a moça de Thor: Ragnarok (Tessa Thompson) se
 
 Eu só não tenho certeza se gostaria de ver um Westworld Reloaded. A segunda temporada já tinha deixado um gosto insosso e artificial. Gosto de cartilha moralista reciclada.
 
-[primeira temporada]: westworld
 
 # As Luzes de um Verão
 date: 2020-04-29
@@ -76256,9 +75844,9 @@ tags: computer
 
 ## Introduction
 
-Meu amigo sugeriu que aprender awk poderia ser útil de várias maneiras. Uma delas para organizar finanças pessoais. Dei uma lida em alguns tutoriais, sendo que o melhor custo benefício foi o [Awk in 20 Minutes], de Fred Hebert (ele é o mesmo autor de um livro sobre erlang). Gostei. É sobre tratamento de texto como sed, mas em uma versão estendida e criada na época com a mesma sintaxe de C.
+Meu amigo sugeriu que aprender awk poderia ser útil de várias maneiras. Uma delas para organizar finanças pessoais. Dei uma lida em alguns tutoriais, sendo que o melhor custo benefício foi o "Awk in 20 Minutes", de Fred Hebert (ele é o mesmo autor de um livro sobre erlang). Gostei. É sobre tratamento de texto como sed, mas em uma versão estendida e criada na época com a mesma sintaxe de C.
 
-Agora que vou [palestrar sobre] no Native Floripa de 2022 eu dei uma olhada em outro tutorial muito bom que eu vou chamar de [Tutorial from an Experient Mind], de Bruce Barnett. Ele vai um pouco além porque é de alguém interessado em contar alguns macetes que dão uma visão mais interna da linguagem. E para referência eu considero o [Gawk Guide] como um ótimo compilado.
+Agora que vou "palestrar sobre" no Native Floripa de 2022 eu dei uma olhada em outro tutorial muito bom que eu vou chamar de "Tutorial from an Experient Mind", de Bruce Barnett. Ele vai um pouco além porque é de alguém interessado em contar alguns macetes que dão uma visão mais interna da linguagem. E para referência eu considero o "Gawk Guide" como um ótimo compilado.
 
 ## 1977
 
@@ -76358,16 +75946,12 @@ END { print " - DONE -" }
 
 ## Reference
 
-- [Awk in 20 Minutes], de Fred Hebert.
+- "Awk in 20 Minutes", de Fred Hebert.
 
-- [Tutorial from an Experient Mind], de Bruce Barnett.
+- "Tutorial from an Experient Mind", de Bruce Barnett.
 
-- [Gawk Guide].
+- "Gawk Guide".
 
-[palestrar sobre]: https://github.com/Caloni/lectures/blob/master/awk.pdf
-[Awk in 20 Minutes]: https://ferd.ca/awk-in-20-minutes.html
-[Tutorial from an Experient Mind]: https://www.grymoire.com/Unix/Awk.html
-[Gawk Guide]: https://www.gnu.org/software/gawk/manual/gawk.html
 
 # Batalha
 date: 2020-06-07
@@ -77563,7 +77147,7 @@ Bom, quase aleatoriamente. Obras muito populares não me interessam, assim como 
 
 Sendo assim, segue a lista desse primeiro fim-de-semana. Os textos estão horríveis e são muito pequenos, mas foi praticamente um binge-watching. Juntando com minha lista de uma dezenas de obras que ainda não havia escrito, a consequência da minha falta de disciplina, caro leitor, é "o que tem pra hoje" style.
 
-(1) tudo começou com meu amigo sugerindo assistir "Steins;Gate" e após isso me recomendou o vídeo [How to Recognize a Great Anime] (in just one episode).
+(1) tudo começou com meu amigo sugerindo assistir "Steins;Gate" e após isso me recomendou o vídeo "How to Recognize a Great Anime" (in just one episode).
 
 - "Keep Your Hands Off Eizouken!"
 
@@ -77583,7 +77167,6 @@ Sendo assim, segue a lista desse primeiro fim-de-semana. Os textos estão horrí
 
 - "Tonari no Seki-kun: The Master of Killing Time"
 
-[How to Recognize a Great Anime]: https://youtu.be/0kQrT8S2Mrw
 
 # Gaintus Radical
 date: 2020-10-04
@@ -78082,39 +77665,28 @@ História sobre uma família da cidade turística de Bobbio, na Itália. A famí
 date: 2020-11-08
 tags: lists
 
-Segue a lista de [palestras que ministrei ao longo dos anos] que possuem alguns slides úteis (os com slides inúteis não estão disponíveis e devem estar na memória dos que assistiram ou em algum post perdido por aí). Have fun =)
+Segue a lista de "palestras que ministrei ao longo dos anos" que possuem alguns slides úteis (os com slides inúteis não estão disponíveis e devem estar na memória dos que assistiram ou em algum post perdido por aí). Have fun =)
 
-- [Antidebugging: Eu Não Quero que Você Mexa no Meu Código]
+- "Antidebugging: Eu Não Quero que Você Mexa no Meu Código"
 
-- [AWK]
+- "AWK"
 
-- [Depurando até o Fim do Mundo]
+- "Depurando até o Fim do Mundo"
 
-- [Engenharia Reversa para Principiantes]
+- "Engenharia Reversa para Principiantes"
 
-- [Entendendo a Compilação]
+- "Entendendo a Compilação"
 
-- [Patch de Emergência]
+- "Patch de Emergência"
 
-- [Pôquer Online]
+- "Pôquer Online"
 
-- [Resumo de Debug Remoto]
+- "Resumo de Debug Remoto"
 
-- [Stack Overflow]
+- "Stack Overflow"
 
-- [Troubleshooting em Equipes Remotas com Debugging Tools]
+- "Troubleshooting em Equipes Remotas com Debugging Tools"
 
-[palestras que ministrei ao longo dos anos]: https://www.slideshare.net/WanderleyCaloni
-[Antidebugging: Eu Não Quero que Você Mexa no Meu Código]: https://github.com/Caloni/lectures/blob/master/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf
-[AWK]: https://github.com/Caloni/lectures/blob/master/awk.pdf
-[Depurando até o Fim do Mundo]: https://github.com/Caloni/lectures/blob/master/depurandofimdomundo.pdf
-[Engenharia Reversa para Principiantes]: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
-[Entendendo a Compilação]: https://github.com/Caloni/lectures/blob/master/entendendo-a-compilacao.pdf
-[Patch de Emergência]: https://github.com/Caloni/lectures/blob/master/patchdeemergencia.pdf
-[Pôquer Online]: https://github.com/Caloni/lectures/blob/master/poqueronline.pdf
-[Resumo de Debug Remoto]: https://github.com/Caloni/lectures/blob/master/debug-remoto-resumo.pdf
-[Stack Overflow]: https://github.com/Caloni/lectures/blob/master/stack-overflow.pdf
-[Troubleshooting em Equipes Remotas com Debugging Tools]: https://github.com/Caloni/lectures/blob/master/troubleshooting-em-equipes-remotas-com-debugging-tools-for-windows.pdf
 
 # Anuska, Manequim e Mulher
 date: 2020-11-14
@@ -78151,13 +77723,12 @@ Quando você pensa em escrever sobre um filme esquecível e irrelevante como  En
 
 O que merece ser refletido ao vemos um filme como Enola Holmes é como as estruturas do sistema transformam ideias com boas intenções em mecanismos de opressão.
 
-Você conhece o [Teste de Bechdel]? Foi um conceito criado para rotular filmes a partir de uma métrica simples que irei expandir conceitualmente aqui: há personagens femininas nesse filme que não são apenas instrumentos do protagonismo masculino?
+Você conhece o "Teste de Bechdel"? Foi um conceito criado para rotular filmes a partir de uma métrica simples que irei expandir conceitualmente aqui: há personagens femininas nesse filme que não são apenas instrumentos do protagonismo masculino?
 
 A popularidade dessa ideia nos faz refletir em quão poucos filmes passam nesse simples teste, e a brincadeira era como se fosse um teste. Hoje é um mecanismo de seleção de quais obras podem ou não ser produzidas.
 
 E o que isso tem relação com mecanismos de opressão e Enola Holmes? Tudo. Este romance adaptado poderia, assim como os milhares de romances lançados todo ano, a maioria com qualidade duvidosa, ser esquecido nas prateleiras, virtuais ou não, de uma livraria. A categoria: mulheres empoeiradas.
 
-[Teste de Bechdel]: https://pt.wikipedia.org/wiki/Teste_de_Bechdel
 
 # O Gambito da Rainha
 date: 2020-11-14
@@ -78192,7 +77763,7 @@ Ironicamente existe uma análise feita por Tristan Harris, ex-eticista do Google
 
 No livro "Deep Work", de Cal Newport, o autor apresenta uma defesa de que é cada vez mais preocupante a escassez de pessoas no mercado com a habilidade de conseguir se concentrar por muito tempo em tarefas que exigem total atenção. Três trabalhos citados no livro, de William Powers, John Freemans e Alex Soojung-Kin, concordam que ferramentas de networking estão monopolizando nossa atenção, ao mesmo tempo que degradando nossa capacidade de permanecer focados.
 
-Apesar de sabermos desse efeito desde o nascimento da TV e dos vídeo-games, é agora que a causa científica da epidemia dos devaneios crônicos está chegando em um consenso. A resposta estaria ligada a uma camada gordurosa de tecido que envolve a conexão entre axônios no cérebro chamada [mielina]. Sua função é proteger e melhorar a comunicação entre as células cerebrais, e melhora aqui se traduz em trocas mais rápidas de informação dentro do cérebro (e com menos ruído).
+Apesar de sabermos desse efeito desde o nascimento da TV e dos vídeo-games, é agora que a causa científica da epidemia dos devaneios crônicos está chegando em um consenso. A resposta estaria ligada a uma camada gordurosa de tecido que envolve a conexão entre axônios no cérebro chamada "mielina". Sua função é proteger e melhorar a comunicação entre as células cerebrais, e melhora aqui se traduz em trocas mais rápidas de informação dentro do cérebro (e com menos ruído).
 
 Essa camada é construída naturalmente em torno das conexões mais usadas pela repetição de seu uso. As responsáveis por construí-las são outras células que mantêm o sistema neurológico. Elas detectam o uso repetido de neurônios e produzem camadas de mielina para proteger essas conexões.
 
@@ -78200,15 +77771,12 @@ A tradução leiga dessa descoberta científica já é de conhecimento comum há
 
 O importante a se lembrar desse processo no cérebro é que ele é permanente. A pessoa não consegue mais absorver melhor novo conhecimento sobre um assunto com o mesmo potencial de estar aprendendo pela primeira vez. Claro que com mais prática sabemos ser possível melhorar em qualquer área, mas a própria habilidade em aprender está sujeita a essa dinâmica de fortalecimento cerebral, e portanto abalada pelas constantes interrupções e multitarefa da vida moderna.
 
-Paradoxalmente, por outro lado, é conhecido que a melhor maneira de relembrar um conhecimento obtido anteriormente é interrompê-lo sem concluí-lo. O [efeito Zeigarnik], nomeado por causa da cientista soviética que o descobriu, é o motivo pelo qual é muito mais simples continuar o trabalho do dia anterior se ele estiver com lacunas a ser preenchidas. Exemplos seriam um escritor que deixa um parágrafo pela metade ou um estudante que deixa um cálculo matemático a terminar. É importante lembrar, porém, que houve tentativas mais recentes de tentar reproduzir este efeito sem sucesso. Acredite com cautela.
+Paradoxalmente, por outro lado, é conhecido que a melhor maneira de relembrar um conhecimento obtido anteriormente é interrompê-lo sem concluí-lo. O "efeito Zeigarnik", nomeado por causa da cientista soviética que o descobriu, é o motivo pelo qual é muito mais simples continuar o trabalho do dia anterior se ele estiver com lacunas a ser preenchidas. Exemplos seriam um escritor que deixa um parágrafo pela metade ou um estudante que deixa um cálculo matemático a terminar. É importante lembrar, porém, que houve tentativas mais recentes de tentar reproduzir este efeito sem sucesso. Acredite com cautela.
 
-Por fim, a tecnologia crescente pode estar desempenhando uma mudança mais significativa do que imaginamos na concepção do que é ser humano. Essa afirmação não está pautada em estudos, mas em observação humana. Daniel, o autor do texto [Technology is Heroin], relaciona o uso passivo da evolução em comunicação e entretenimento com a evolução do uso de drogas como heroína e ópio na época que eram comprados na farmácia da esquina. Na época a sociedade diminuiu sua produtividade, a economia começou a sofrer e a função humana nas relações sociais e de trabalho estava colapsando como um todo (carece de fontes). E a tecnologia poderia ser a segunda onda a destruir essas mesmas relações, ou transformá-las de maneira radical.
+Por fim, a tecnologia crescente pode estar desempenhando uma mudança mais significativa do que imaginamos na concepção do que é ser humano. Essa afirmação não está pautada em estudos, mas em observação humana. Daniel, o autor do texto "Technology is Heroin", relaciona o uso passivo da evolução em comunicação e entretenimento com a evolução do uso de drogas como heroína e ópio na época que eram comprados na farmácia da esquina. Na época a sociedade diminuiu sua produtividade, a economia começou a sofrer e a função humana nas relações sociais e de trabalho estava colapsando como um todo (carece de fontes). E a tecnologia poderia ser a segunda onda a destruir essas mesmas relações, ou transformá-las de maneira radical.
 
 O surgimento do gramofone, do rádio, da TV e dos video-games, segundo o autor, está tornando as relações dos indivíduos com sua realidade cada vez mais um ato passivo, e não mais ativo, como era quando os tempos eram mais difíceis ou manuais, e até visitar um amigo ou ouvir sua música favorita era um esforço e tanto. Claro que o texto parte de um ponto de vista mais bucólico e talvez possa ser descartado em seu todo, mas sua mensagem parece possui algo inerentemente verdadeiro nos tempos de hoje: observamos jovens e adultos cada vez mais passivos e alheios à sua realidade, cada um criando sua própria bolha para se proteger do mundo cruel que um dia existiu lá fora.
 
-[efeito Zeigarnik]: https://en.wikipedia.org/wiki/Zeigarnik_effect
-[mielina]: https://pt.wikipedia.org/wiki/Bainha_de_mielina
-[Technology is Heroin]: http://tiny-giant-books.com/Entry1.html?EntryId=recgcpfuOFUesUpRy
 
 # Borat: Fita de Cinema Seguinte
 date: 2020-11-22
@@ -78408,7 +77976,7 @@ Bem decepcionante esse início de temporada. Esta é uma série de uma tacada s�
 # Resoluções 2021
 date: 2021-01-02
 
-Inspirado no [post que vi] de meu amigo DQ sobre resoluções de ano-novo, algo que ele já vem fazendo desde 2007 (impressionante), resolvi compartilhar um pouco neste post sobre minhas resoluções de 2020. Na verdade não costumo fazer isso, mas ao passar a virada de 2019 para 2020 na casa de outro amigo, ele e sua esposa vieram com um presente e uma ideia para todo o grupo na ocasião: um caderno e uma caneta. Cada um deveria preencher nas primeiras folhas do caderno o que pretendia fazer durante o ano que se inicia. Algo mais ou menos assim, eu provavelmente já estava bêbado o suficiente para não me lembrar dos detalhes.
+Inspirado no "post que vi" de meu amigo DQ sobre resoluções de ano-novo, algo que ele já vem fazendo desde 2007 (impressionante), resolvi compartilhar um pouco neste post sobre minhas resoluções de 2020. Na verdade não costumo fazer isso, mas ao passar a virada de 2019 para 2020 na casa de outro amigo, ele e sua esposa vieram com um presente e uma ideia para todo o grupo na ocasião: um caderno e uma caneta. Cada um deveria preencher nas primeiras folhas do caderno o que pretendia fazer durante o ano que se inicia. Algo mais ou menos assim, eu provavelmente já estava bêbado o suficiente para não me lembrar dos detalhes.
 
 Hoje abro nesse momento o caderno cuja primeira página havia preenchido e nunca mais olhado. Eis a minha pequena lista:
 
@@ -78448,7 +78016,6 @@ Sim, continua basicamente o mesmo, exceto o foco no item 2 para revisão em vez 
 
 Não irei adicionar mais tarefas, pois estas estão em andamento e devem continuar consumindo um tempo que é possível se comprometer.
 
-[post que vi]: http://dqsoft.blogspot.com/2021/01/resolucoes-de-ano-novo-edicao-2021.html
 
 # Villa do Luca
 date: 2021-01-07
@@ -78618,7 +78185,7 @@ tags: computer
 
 Em 2014 eu palestrei na trilha de segurança do TDC em São Paulo um tema que me deixou muito animado: um exploit baseado em falhas de programação em um código de 10 linhas. O código era tão simples que achei válido traduzir para C e demonstrar como atacar uma simulação de cassino online.
 
-Esta palestra (e o código) se perdeu no tempo, mas eu anotei o nome da pesquisadora que escreveu o post pelo qual me baseei: Laura Diane Hamilton (que também estuda Machine Learning em seu blog). [Seu post] comenta sobre uma história de 1990 quando hackers se aproveitaram de falhas básicas no algoritmo de embaralhamento de cartas de pôquer.
+Esta palestra (e o código) se perdeu no tempo, mas eu anotei o nome da pesquisadora que escreveu o post pelo qual me baseei: Laura Diane Hamilton (que também estuda Machine Learning em seu blog). "Seu post" comenta sobre uma história de 1990 quando hackers se aproveitaram de falhas básicas no algoritmo de embaralhamento de cartas de pôquer.
 
 O código original estava escrito em Pascal, mas é facilmente traduzido para C:
 
@@ -78838,7 +78405,6 @@ do you know which cards have player #1? 6 12
 acerto, miseravi!
 ```
 
-[Seu post]: http://www.lauradhamilton.com/random-lessons-online-poker-exploit
 
 # A Ilusão Viaja de Trem
 date: 2021-03-03
@@ -78992,7 +78558,7 @@ Agora que você já sabe o suficiente sobre as diferentes fases na produção de
 
 As variáveis envolvidas na extração são muitas, então é melhor pensar primeiro no processo para depois extrair as variáveis, mais ou menos como o café é feito. Nós sabemos que as propriedades do café são extraídas pela água em contato com a superfície dos grãos torrados. Com isso em mente, imagine que pode-se usar mais ou menos café para a mesma quantidade de água (uma variável), a água pode ser usada em diferentes temperaturas (outra variável), ela pode entrar em contato por mais ou menos tempo (outra variável), ela pode ser agitada ou pressionada durante esse tempo (outra variável), pode haver mais ou menos superfície dependendo do nível de moagem utilizada que, como vimos, é responsável por aumentar a superfície dos grãos (outra variável).
 
-Existem duas famílias principais de métodos de extração do café de baixa concentração. Antes que você pergunte, o de alta concentração é o espresso. Os de baixa são dois: aqueles que mergulham o café por completo na água e os que passam um fluxo de água por uma cama de café. Existe uma diferença entre as duas famílias no nível físico, como aponta [Christopher H. Hendon] em The Chemistry and Physics Behind the Perfect Cup of Coffee:
+Existem duas famílias principais de métodos de extração do café de baixa concentração. Antes que você pergunte, o de alta concentração é o espresso. Os de baixa são dois: aqueles que mergulham o café por completo na água e os que passam um fluxo de água por uma cama de café. Existe uma diferença entre as duas famílias no nível físico, como aponta "Christopher H. Hendon" em The Chemistry and Physics Behind the Perfect Cup of Coffee:
 
 "From a physical perspective, the major difference is that the temperature of the coffee particulates is higher in the full immersion system. The slowest part of coffee extraction is not the rate at which compounds dissolve from the particulate surface. Rather, it's the speed at which coffee flavor moves through the solid particle to the water-coffee interface, and this speed is increased with temperature." - Christopher H. Hendon (2017).
 
@@ -79024,7 +78590,6 @@ A minha dica para quem está começando a prestar atenção, além de saber de c
 
 O que me faz lembrar que você também é uma variável. O degustador precisa entender de si próprio para saber o que deseja do seu café. Às vezes você está tomando a bebida muito quente e isso impede que você sinta melhor todas suas propriedades. E para constar, há muitos sabores interessantes depois de alguns minutos que o café esfria; vale a pena esperar. Às vezes você está tomando apressado ou tenso demais e não adianta quais variáveis mudam na extração o café: ele continua o mesmo. Pare, respire, aproveite. Café sempre é bom. Então aproveite. Este guia é para tornar o que já é bom em algo ainda melhor.
 
-[Christopher H. Hendon]: https://www.smithsonianmag.com/science-nature/science-behind-brewing-great-cup-coffee-180965049/
 
 # Nostalgia
 date: 2021-03-14
@@ -79289,7 +78854,7 @@ Foi nessas que eu comecei a gravar um vídeo para o post onde eu ensino a depura
 
 No vídeo original comecei na inocência seguindo o tutorial da Microsoft para configurar o kdnet, mas acabei gastando quase uma hora nesse esforço, e foi em vão. Eu não consegui usar os passos descritos no tutorial para fazer o boot finalmente conectar no kd.exe.
 
-Pesquisando sobre pessoas que tiveram o mesmo problema encontro um [post da Ophir Harpaz] no Medium dizendo que irá ensinar o porquê de cada comando na configuração desse tipo de debug. O título do post é apenas um chamariz, pois também é um passo-a-passo sem explicação nenhuma dos motivos por trás de cada comando. Porém, os passos são diferentes do da Microsoft, e esses funcionaram. Então vou gravar o vídeo, e de brinde segue o passo-a-passo:
+Pesquisando sobre pessoas que tiveram o mesmo problema encontro um "post da Ophir Harpaz" no Medium dizendo que irá ensinar o porquê de cada comando na configuração desse tipo de debug. O título do post é apenas um chamariz, pois também é um passo-a-passo sem explicação nenhuma dos motivos por trás de cada comando. Porém, os passos são diferentes do da Microsoft, e esses funcionaram. Então vou gravar o vídeo, e de brinde segue o passo-a-passo:
 
 Com uma VM de Windows 10 criada no Hyper-V, desabilite o Secure Boot pelas configurações da VM:
 
@@ -79342,7 +78907,6 @@ Ele vai ficar nessa de aguardar até a máquina target estar disponível, ou sej
 
 Depois de algumas horas eu finalmente consegui. Agora é hora de começar a gravar o vídeo para o post antigo. Ou outro dia.
 
-[post da Ophir Harpaz]: https://medium.com/@ophirharpaz/kdnet-tutorial-for-noobs-68669778bbd4
 
 # Lista de Listas Sobre Cinema
 date: 2021-05-02
@@ -79434,7 +78998,7 @@ Ao introduzir personagens já no terceiro ato, Tudo Por Ela nos confessa não te
 date: 2021-05-13
 tags: computer
 
-O primeiro exercício pedido ao candidato para a vaga de programação na [Intelitrader] é fazer uma função que receba três números e informe entre eles qual o maior, o menor e a média dos três. Sim, eu sei, absurdamente fácil, não? Porém, mesmo assim, a grande maioria dos "programadores" que entrevisto perde mais de meia-hora em um exercício simples desse. O motivo, acredito eu, é que a lógica de programação está cada vez mais em baixa. Pensar se tornou tristemente um requisito opcional em uma vaga de programação.
+O primeiro exercício pedido ao candidato para a vaga de programação na "Intelitrader" é fazer uma função que receba três números e informe entre eles qual o maior, o menor e a média dos três. Sim, eu sei, absurdamente fácil, não? Porém, mesmo assim, a grande maioria dos "programadores" que entrevisto perde mais de meia-hora em um exercício simples desse. O motivo, acredito eu, é que a lógica de programação está cada vez mais em baixa. Pensar se tornou tristemente um requisito opcional em uma vaga de programação.
 
 No meio de uma entrevista, entediado, resolvi eu mesmo ir resolvendo enquanto aguardava o candidato. Imaginei o que eu, como hipotético candidato, faria para resolver esse exercício da maneira mais rápida. Meu objetivo não era apenas cuspir código, mas entender qual o raciocínio envolvido na obtenção de uma lógica simples dessa.
 
@@ -79486,7 +79050,6 @@ def func(a, b, c):
 
 Não precisa ser a melhor solução do mundo, mas já é uma solução boa o suficiente. Justamente o que a Intelitrader pede aos seus candidatos e funcionários. =)
 
-[Intelitrader]: http://www.intelitrader.com.br
 
 # A Família Mitchell e a Revolta das Máquinas
 date: 2021-05-15
@@ -79627,7 +79190,7 @@ Vamos lá:
 
 - Caloni 2021-05-22 (3.0): Vinho doce, liquoroso. Talvez seja de sobremesa, mas mais provável colheita tardia. Agradável, mas talvez enjoativo com uma taça inteira. Malbec?
 
-E o vinho é... [Virtus Reservado Suave Cabernet Sauvignon 2020]: "Apresenta coloração vermelho rubi de tonalidade intensa e viva. No aroma é franco, apresentando frutas negras e frutas vermelhas como amoras, mirtilo, morango, terroso e especiarias como a pimenta preta. Sem utilização de madeira de carvalho. Em boca apresenta paladar leve, agradável, corpo médio, taninos sedosos e sabor adocicado."
+E o vinho é... "Virtus Reservado Suave Cabernet Sauvignon 2020": "Apresenta coloração vermelho rubi de tonalidade intensa e viva. No aroma é franco, apresentando frutas negras e frutas vermelhas como amoras, mirtilo, morango, terroso e especiarias como a pimenta preta. Sem utilização de madeira de carvalho. Em boca apresenta paladar leve, agradável, corpo médio, taninos sedosos e sabor adocicado."
 
 - Acertos: corpo médio, taninos (leve vs sedoso), ameixa.
 
@@ -79641,7 +79204,7 @@ E o vinho é... [Virtus Reservado Suave Cabernet Sauvignon 2020]: "Apresenta col
 
 - Caloni 2021-05-22 (2.5): Encorpado, mistura de doce com amargo, não é alcoólico, mas é vibrante demais. Cor escura.
 
-E o vinho é... [Cavic Meio Seco 2020]: "Vinho tinto elaborado pelas castas Bequignol, Sangiovese, Lambrusco Maestri, Meunier e Caberinta. De cor vermelho rubi brilhante e nariz muito vinoso. Em boca é suave, meio seco com leve presença de taninos, características que o tornam um vinho bem harmonioso."
+E o vinho é... "Cavic Meio Seco 2020": "Vinho tinto elaborado pelas castas Bequignol, Sangiovese, Lambrusco Maestri, Meunier e Caberinta. De cor vermelho rubi brilhante e nariz muito vinoso. Em boca é suave, meio seco com leve presença de taninos, características que o tornam um vinho bem harmonioso."
 
 - Acertos: amadeirado e/ou envelhecido vs "nariz muito vinoso" (?) e/ou leve presença de taninos.
 
@@ -79655,7 +79218,7 @@ E o vinho é... [Cavic Meio Seco 2020]: "Vinho tinto elaborado pelas castas Bequ
 
 - Caloni 2021-05-22 (3.0): Cor de envelhecido, mas corpo fraco e sabor lembram um Pinot Noir. Fácil de tomar, levemente vibrante, frutado e azedinho.
 
-E o vinho é... [Tierra Sur 2019]: "Este vinho segue é aromático, leve e versátil, com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
+E o vinho é... "Tierra Sur 2019": "Este vinho segue é aromático, leve e versátil, com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
 
 - Acertos: ácido vs acidez média, sabores sem fruta vs aromas florais (violetas) e especiarias, quente vs álcool mediano.
 
@@ -79669,7 +79232,7 @@ E o vinho é... [Tierra Sur 2019]: "Este vinho segue é aromático, leve e vers�
 
 - Caloni 2021-05-22 (2.5): Tânico, amargo, corpo médio, quente. Agradável, mas amargor é mais persistente que os outros sabores; já perdeu o aroma.
 
-E o vinho é... [Vecchia Cantina Chianti 2019]: "Apresenta coloração vermelho rubi, aromas de frutas vermelhas como amora, framboesa e cereja, apresenta corpo médio e acidez equilibrada, álcool mediano e grande persistência com taninos marcantes e sedosos. É um vinho equilibrado e agradável de se tomar."
+E o vinho é... "Vecchia Cantina Chianti 2019": "Apresenta coloração vermelho rubi, aromas de frutas vermelhas como amora, framboesa e cereja, apresenta corpo médio e acidez equilibrada, álcool mediano e grande persistência com taninos marcantes e sedosos. É um vinho equilibrado e agradável de se tomar."
 
 - Acertos: alcoólico vs álcool mediano.
 
@@ -79683,7 +79246,7 @@ E o vinho é... [Vecchia Cantina Chianti 2019]: "Apresenta coloração vermelho 
 
 - Caloni 2021-05-22 (3.5): Esse manteve o aroma e é muito bom; o corpo é mais leve mas lembra as cavas de vinícolas. Frutado para azedo, meio amargo, ainda quente. Cor é bem agradável.
 
-E o vinho é... [Sunrise Cabernet Sauvignon 2020]: "Apenas as vinhas mais ensolaradas podem produzir este vinho de intensidade deslumbrante. De cor vermelho rubi, com notas de amora, groselha preta e chocolate, acompanha pratos de cordeiro e carnes vermelhas grelhadas e acompanha excepcionalmente queijos maduros como Gruyère ou Parmesão, bem como pratos picantes como fajitas de carne. Como um raio de sol na sua taça, este vinho é equilibrado e firme, intenso e harmonioso, com um sabor persistente no paladar."
+E o vinho é... "Sunrise Cabernet Sauvignon 2020": "Apenas as vinhas mais ensolaradas podem produzir este vinho de intensidade deslumbrante. De cor vermelho rubi, com notas de amora, groselha preta e chocolate, acompanha pratos de cordeiro e carnes vermelhas grelhadas e acompanha excepcionalmente queijos maduros como Gruyère ou Parmesão, bem como pratos picantes como fajitas de carne. Como um raio de sol na sua taça, este vinho é equilibrado e firme, intenso e harmonioso, com um sabor persistente no paladar."
 
 - Acertos: frutado vs (amora, groselha preta), corpo médio para forte e tânico x intensidade deslumbrante.
 
@@ -79697,7 +79260,7 @@ E o vinho é... [Sunrise Cabernet Sauvignon 2020]: "Apenas as vinhas mais ensola
 
 - Caloni 2021-05-22 (3.5): Gostoso de beber. Tem um frutado azedo, um corpo leve, provavelmente um vinho jovem ou com pouco tempo de reserva. Pode ser um Malbec ou um blend.
 
-E o vinho é... [French Dog Merlot 2019]: "Vinho de cor vermelho rubi brilhante. Apresenta no aroma notas de frutas vermelhas negras como ameixa e amora, framboesa, groselha e mirtilo. Em boca, apresenta corpo médio, com taninos sedosos, acidez média e teor alcoólico equilibrado, sendo equilibrado e muito macio no paladar."
+E o vinho é... "French Dog Merlot 2019": "Vinho de cor vermelho rubi brilhante. Apresenta no aroma notas de frutas vermelhas negras como ameixa e amora, framboesa, groselha e mirtilo. Em boca, apresenta corpo médio, com taninos sedosos, acidez média e teor alcoólico equilibrado, sendo equilibrado e muito macio no paladar."
 
 - Acertos: semi-frutado vs frutas vermelhas negras (ameixa, amora, framboesa, groselha, mirtilo), Mitiko Merlot, ácido vs acidez média.
 
@@ -79711,7 +79274,7 @@ E o vinho é... [French Dog Merlot 2019]: "Vinho de cor vermelho rubi brilhante.
 
 - Caloni 2021-05-22 (3.0): Bem azedo, cheiro característico, pouco alcoólico, tânico. Pode ser um reserva ainda jovem. Há um certo amargor na textura. Uma cor mais escura. Não é ruim, é apenas peculiar.
 
-E o vinho é... [Rio Sol Reserva 2015]: "O Vinho apresenta coloração vermelho rubi intenso, com aromas de frutas vermelhas e negras maduras, como ameixa, cereja, figo framboesa e groselha, conciliadas com as notas de especiarias, como cravo e pimenta, e notas de cacau, café e tabaco provenientes da maturação em barricas de carvalho. Em boca, é encorpado, com acidez equilibrada, taninos sedosos e álcool mediano com grande persistência em boca."
+E o vinho é... "Rio Sol Reserva 2015": "O Vinho apresenta coloração vermelho rubi intenso, com aromas de frutas vermelhas e negras maduras, como ameixa, cereja, figo framboesa e groselha, conciliadas com as notas de especiarias, como cravo e pimenta, e notas de cacau, café e tabaco provenientes da maturação em barricas de carvalho. Em boca, é encorpado, com acidez equilibrada, taninos sedosos e álcool mediano com grande persistência em boca."
 
 - Acertos: amadeirado vs maturação em barricas de carvalho, ácido vs acidez equilibrada, tânico vs taninos sedosos, aroma doce vs aromas de frutas vermelhas e negras maduras (ameixa, cereja, figo, framboesa, groselha), super-encorpado vs encorpado.
 
@@ -79725,7 +79288,7 @@ E o vinho é... [Rio Sol Reserva 2015]: "O Vinho apresenta coloração vermelho 
 
 - Caloni 2021-05-22 (3.5): Desses amadeirados envelhecidos. Ainda alcoólico. Pouco frutado, mas não é vegetal nem mineral. Cor bonita.
 
-E o vinho é... [San Valentin Garnacha 2018]: "Cor vermelho cereja escuro com brilho violeta. Aromas de frutas vermelhas, ameixas suculentas, figos secos e discretas notas de especiarias do Mediterrâneo. Generoso no álcool mas sem desequilíbrio, taninos macios, acidez correta e corpo médio."
+E o vinho é... "San Valentin Garnacha 2018": "Cor vermelho cereja escuro com brilho violeta. Aromas de frutas vermelhas, ameixas suculentas, figos secos e discretas notas de especiarias do Mediterrâneo. Generoso no álcool mas sem desequilíbrio, taninos macios, acidez correta e corpo médio."
 
 - Acertos: envelhecido pelo tanino vs taninos macios, quente vs generoso no álcool.
 
@@ -79739,7 +79302,7 @@ E o vinho é... [San Valentin Garnacha 2018]: "Cor vermelho cereja escuro com br
 
 - Caloni 2021-05-22 (4.5): Amadeirado, sim, mas mais amargor e envelhecimento se sente. A cor é de envelhecido. Há tons de madeira no sabor (tostado). Corpo médio para leve. Elegante. Muito bom.
 
-E o vinho é... [Rio Claro Reserva Organico Carménère 2018]: "Este Rio Claro Reserva exemplifica muito bem as características da variedade. Com vermelho_rubi intenso, apresenta aromas de frutas vermelhas e negras maduras, como ameixa, amora, groselhas e cassis, que se integram com os aromas vegetais e herbáceos como manjericão e pimentão, e notas de baunilha e chocolate provenientes da maturação em barricas de carvalho."
+E o vinho é... "Rio Claro Reserva Organico Carménère 2018": "Este Rio Claro Reserva exemplifica muito bem as características da variedade. Com vermelho_rubi intenso, apresenta aromas de frutas vermelhas e negras maduras, como ameixa, amora, groselhas e cassis, que se integram com os aromas vegetais e herbáceos como manjericão e pimentão, e notas de baunilha e chocolate provenientes da maturação em barricas de carvalho."
 
 - Acertos: parece envelhecido e amadeirado vs maturação em barricas de carvalho.
 
@@ -79753,7 +79316,7 @@ E o vinho é... [Rio Claro Reserva Organico Carménère 2018]: "Este Rio Claro R
 
 - Caloni 2021-05-22 (4.0): Que vinho fácil de beber. O corpo é leve pra médio, o sabor é gostosinho, frutado vermelho ou algo do tipo.
 
-E o vinho é... [Joliesse Cabernet Sauvignon 2018]: "Apresenta coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras maduras, como ameixa, amora, cereja preta e figo, além de notas de cravo e pimenta, e notas de baunilha, café, cacau, tabaco e couro, provenientes da maturação em barricas de carvalho. Em boca, é seco, com acidez média, taninos marcantes, encorpado e com álcool equilibrado. Apresenta grande persistência."
+E o vinho é... "Joliesse Cabernet Sauvignon 2018": "Apresenta coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras maduras, como ameixa, amora, cereja preta e figo, além de notas de cravo e pimenta, e notas de baunilha, café, cacau, tabaco e couro, provenientes da maturação em barricas de carvalho. Em boca, é seco, com acidez média, taninos marcantes, encorpado e com álcool equilibrado. Apresenta grande persistência."
 
 - Acertos: amadeirado e envelheceu muito bem vs maturação em barricas de carvalho, buquê fantástico vs aromas de frutas negras maduras (ameixa, amora, cereja preta, figo) e notas de cravo e pimenta e notas de baunilha, café, cacau, tabaco e couro, Cabernet.
 
@@ -79767,7 +79330,7 @@ E o vinho é... [Joliesse Cabernet Sauvignon 2018]: "Apresenta coloração verme
 
 - Caloni 2021-05-22 (5.0): Nossa, esse está muito bom ainda. Frutado (ameixa?) e envelhecido em barrica, seu sabor amadeirado é inebriante. Seu corpo está equilibradíssimo. Quente sem agredir o paladar, mas abraçá-lo. Me dá vontade de beber mais e mais. Este é senhor vinho.
 
-E o vinho é... [Solar Viejo Crianza 2016]: "Coloração vermelho rubi de média intensidade. Toques de baunilha, caramelo, cacau, com notas de carvalho e frutas vermelhas como cereja, amora, framboesa e morango. Vinho estruturado e equilibrado com agradáveis notas de madeira e frutos silvestres maduros, com acidez média, taninos marcantes, médio corpo e álcool equilibrado."
+E o vinho é... "Solar Viejo Crianza 2016": "Coloração vermelho rubi de média intensidade. Toques de baunilha, caramelo, cacau, com notas de carvalho e frutas vermelhas como cereja, amora, framboesa e morango. Vinho estruturado e equilibrado com agradáveis notas de madeira e frutos silvestres maduros, com acidez média, taninos marcantes, médio corpo e álcool equilibrado."
 
 - Acertos: corpo médio vs médio corpo, levemente alcoólico vs álcool equilibrado, tanino vs taninos marcantes, aromático vs toques de baunillha, cacau, notas de carvalho, frutas vermelhas (cereja, amora, framboesa, morango), notas de madeira e frutos silvestres maduros, amadeirado vs notas de madeira.
 
@@ -79781,7 +79344,7 @@ E o vinho é... [Solar Viejo Crianza 2016]: "Coloração vermelho rubi de média
 
 - Caloni 2021-05-22 (3.5): Quente, encorpado, frutas maduras. Agradável, mas levemente enjoativo. Cor rubi escura.
 
-E o vinho é... [Coutada Velha Signature 2019]: "Este Coutada velha Signature evidencia as características do terroir local, com coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras em compota, como ameixa, amora, cereja preta, figo, romã e groselha, além de notas de amêndoas, baunilha, chocolate e tabaco, provenientes da maturação em barricas de carvalho. Em boca, o vinho é seco, com acidez média, taninos marcantes, corpo médio para alto e álcool equilibrado."
+E o vinho é... "Coutada Velha Signature 2019": "Este Coutada velha Signature evidencia as características do terroir local, com coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras em compota, como ameixa, amora, cereja preta, figo, romã e groselha, além de notas de amêndoas, baunilha, chocolate e tabaco, provenientes da maturação em barricas de carvalho. Em boca, o vinho é seco, com acidez média, taninos marcantes, corpo médio para alto e álcool equilibrado."
 
 - Acertos: cor rubi escura vs coloração vermelha-rubi, frutas maduras vs frutas negras em compota (ameixa, amora, cereja preta, figo, romã, groselha), quente vs álcool equilibrado.
 
@@ -79795,7 +79358,7 @@ E o vinho é... [Coutada Velha Signature 2019]: "Este Coutada velha Signature ev
 
 - Caloni 2021-05-22 (3.5): Não parece mais tão envelhecido; mas um pouco. Pode ser um reserva no meio do caminho. Ainda bem quente e vibrante, mas com sabores mais maduros. Amadeirado e cor rubi.
 
-E o vinho é... [Valle Austral Reserva Malbec 2018]: "Este vinho evidencia as características do terroir local, sendo robusto, complexo e intenso com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
+E o vinho é... "Valle Austral Reserva Malbec 2018": "Este vinho evidencia as características do terroir local, sendo robusto, complexo e intenso com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
 
 - Acertos: corpo forte vs robusto, reserva no meio do caminho vs Reserva Malbec.
 
@@ -79809,7 +79372,7 @@ E o vinho é... [Valle Austral Reserva Malbec 2018]: "Este vinho evidencia as ca
 
 - Caloni 2021-05-22 (3.5): Nota-se de cara que esse é dos envelhecidos, com corpo bem forte. Daqueles de tomar fumando um charuto. Vários sabores e aromas fortes. Especiarias. Pimenta. Dá para gastar pelo menos uma hora com meia-taça dessa criança.
 
-E o vinho é... [Château Marjosse Rouge 2018]: "Bordeaux, talvez a mais celebrada e conhecida região vinícola do mundo, é a terra dos grandes Châteaux, que, em geral, fazem jus à fama de produzir vinhos muito elegantes, longevos e encorpados."
+E o vinho é... "Château Marjosse Rouge 2018": "Bordeaux, talvez a mais celebrada e conhecida região vinícola do mundo, é a terra dos grandes Châteaux, que, em geral, fazem jus à fama de produzir vinhos muito elegantes, longevos e encorpados."
 
 - Acertos: corpo fortíssimo vs encorpado.
 
@@ -79823,27 +79386,12 @@ E o vinho é... [Château Marjosse Rouge 2018]: "Bordeaux, talvez a mais celebra
 
 - Caloni 2021-05-22 (2.5): Encorpadíssimo, chega a ser azedo e amargo tudo junto por conta disso. Se fosse cerveja seria IPA. Os sabores são fortes (não picantes, outra coisa).
 
-E o vinho é... [Piantaferro Primitivo Di Manduria D.O.C 2017]: "Este Primitivo, não foge à regra, tendo coloração vermelho rubi intenso, com reflexos violáceos, aromas de frutas vermelhas e negras, como ameixa, groselha preta, amora e jabuticaba, em compota, seguida de notas de especiarias como baunilha e pimenta, e de torrefação, decorrentes da maturação em barricas. Em boca, é agradável e intenso ao paladar, apresenta taninos marcantes e presentes, acidez equilibrada, teor alcoólico de 14,0%, condizente com o perfil do vinho; com grande persistência e retrogosto."
+E o vinho é... "Piantaferro Primitivo Di Manduria D.O.C 2017": "Este Primitivo, não foge à regra, tendo coloração vermelho rubi intenso, com reflexos violáceos, aromas de frutas vermelhas e negras, como ameixa, groselha preta, amora e jabuticaba, em compota, seguida de notas de especiarias como baunilha e pimenta, e de torrefação, decorrentes da maturação em barricas. Em boca, é agradável e intenso ao paladar, apresenta taninos marcantes e presentes, acidez equilibrada, teor alcoólico de 14,0%, condizente com o perfil do vinho; com grande persistência e retrogosto."
 
 - Acertos: amadeiradíssimo vs maturação em barricas, encorpadíssimo vs grande persistência, frutado quase estragado vs frutas vermelhas e negras (ameixa, groselha preta,amora e jabuticaba) em compota.
 
 - Erros: nenhum.
 
-[Virtus Reservado Suave Cabernet Sauvignon 2020]: https://www.eniwine.com/vitrine/detalhes/13f47ad6-e05d-41ab-a8cb-1c73e17bc3dd
-[Cavic Meio Seco 2020]: https://www.eniwine.com/vitrine/detalhes/f3089ff0-c04c-4a1d-991f-a9d38963f616
-[Tierra Sur 2019]: https://www.eniwine.com/vitrine/detalhes/a4bfbdf9-18d5-4c21-9bd8-7c5a71b74476
-[Vecchia Cantina Chianti 2019]: https://www.eniwine.com/vitrine/detalhes/a52e5151-824a-40e0-b43c-17238717aa6e
-[Sunrise Cabernet Sauvignon 2020]: https://www.eniwine.com/vitrine/detalhes/0d994185-a072-4bbc-857b-39b69fe29bba
-[French Dog Merlot 2019]: https://www.eniwine.com/vitrine/detalhes/f447edac-056b-467b-8cce-52a5a480bbf2
-[Rio Sol Reserva 2015]: https://www.eniwine.com/vitrine/detalhes/10ea84da-21a4-4640-96ea-19382cead35f
-[San Valentin Garnacha 2018]: https://www.eniwine.com/vitrine/detalhes/2d13bb93-d593-42c3-b431-68d806eeb6e1
-[Rio Claro Reserva Organico Carménère 2018]: https://www.eniwine.com/vitrine/detalhes/7df1d0fa-c898-4d76-b593-c3a479d571d6
-[Joliesse Cabernet Sauvignon 2018]: https://www.eniwine.com/vitrine/detalhes/11191e91-5603-4d02-9d45-52fec1e19f90
-[Solar Viejo Crianza 2016]: https://www.eniwine.com/vitrine/detalhes/7e88e1ba-2b85-4a97-b863-0490f3b3b586
-[Coutada Velha Signature 2019]: https://www.eniwine.com/vitrine/detalhes/de2a9c2e-a57a-4b90-b7b8-60ed6f651c99
-[Valle Austral Reserva Malbec 2018]: https://www.eniwine.com/vitrine/detalhes/6acb3876-bc01-432d-af84-eda64ff0ec8e
-[Château Marjosse Rouge 2018]: https://www.eniwine.com/vitrine/detalhes/e0ba59ef-e270-4a4e-816a-b75ee265fae6
-[Piantaferro Primitivo Di Manduria D.O.C 2017]: https://www.eniwine.com/vitrine/detalhes/08ceee9a-49bd-4213-92fb-b100c1bef787
 
 # Truques e Macetes na Hora de Programar
 date: 2021-05-20
@@ -79987,7 +79535,7 @@ Como diria, edw519, um dos membros mais populares do Hacker News:
 
 ### Git
 
-- Leia [o livro] na segunda vez que ficar confuso usando Git fazendo a mesma coisa.
+- Leia "o livro" na segunda vez que ficar confuso usando Git fazendo a mesma coisa.
 
 - Encanamento: Git é um map de chave/valor em arquivo.
 
@@ -79997,7 +79545,6 @@ Como diria, edw519, um dos membros mais populares do Hacker News:
 
 ### Perguntas?
 
-[o livro]: https://git-scm.com/book/en/v2
 
 # Castlevania
 date: 2021-05-22
@@ -82221,7 +81768,7 @@ Não digo apenas pelo tom da trama, mas também os elementos físicos nesse univ
 
 Para começar, os planetas. Eles não são lugares que se visitam de Uber em uma corrida com taxa extra. É extremamente caro mover pessoas entre esses lugares distantes entre si. Imagine então o custo de mover tropas inteiras. Por isso não nos é permitido chamar de planetas. A palavra mundos está mais correta. Na história existem as Casas de diferentes famílias da nobreza espacial, o que também serve muito bem. Oito mil anos à frente do nosso tempo o pós-feudalismo assume essa feição interestelar. Faz sentido, ainda por cima.
 
-Mas não termina nos planetas. Olhe essas aeronaves, máquinas voadoras que emulam um inseto. Apesar de não ser exatamente idêntico, mas por ser um inseto de quatro asas, nos faz lembrar de um [gafanhoto]. Por quê? Ora, as pragas do Egito. E estamos em Duna, um deserto escaldante e relações de exploração (como o Egito de José, personagem bíblico).
+Mas não termina nos planetas. Olhe essas aeronaves, máquinas voadoras que emulam um inseto. Apesar de não ser exatamente idêntico, mas por ser um inseto de quatro asas, nos faz lembrar de um "gafanhoto". Por quê? Ora, as pragas do Egito. E estamos em Duna, um deserto escaldante e relações de exploração (como o Egito de José, personagem bíblico).
 
 E não é rápido e simples colocar essas aeronaves no ar, assim como não há milagres para se salvar dentro de uma delas se estiver dentro também de uma mega-tempestade de areia. Você pode não ter percebido durante o filme, mas sempre que uma nave dessas precisava decolar você se lembrava da primeira vez que viu isso no filme, e todo o processo obrigatório para colocar aquelas asas em movimento. Tudo isso gera tensão e pé-no-chão por nos fazer lembrar da dificuldade. Não é só ativar um jato propulsor para nos catapultar neste mundo. As leis da física são parte integrante da aventura.
 
@@ -82233,7 +81780,6 @@ Duna realiza o milagre dos ótimos sci-fi, ainda que a saga tenha que batalhar p
 
 Estou fisgado. E é bom voltar ao cinema.
 
-[gafanhoto]: https://youtu.be/MYtXUVf74zA
 
 # Sarazanmai
 date: 2021-11-23
@@ -82520,7 +82066,7 @@ O pão clássico é resultado da fermentação de leveduras numa mistura de fari
 
 A farinha é alimento para o fermento e estrutura. A estrutura se forma quando se adiciona água, pois duas proteínas na farinha se juntam no processo: a gliadina, responsável pela extensibilidade, e a glutenina, responsável pela elasticidade. A união dessas duas é o que chamamos de glúten. O crescimento da massa tem relação direta no equilíbrio entre essas duas proteínas e suas duas propriedades principais. A extensibilidade permite à massa expandir seu tamanho. A elasticidade permite que ela retraia seu tamanho. Se muito extensa a massa se desfaz. Se muito elástica ela resiste ao crescimento.
 
-Há dois processos principais na formação dessas propriedades: a [autólise] e a tensão, criada por dobras, sova ou ambos. A autólise é farinha mais água mais tempo, de 10 minutos a 8 horas. Sova é farinha mais água mais fricção, de 5 a 15 minutos. Dobras é modelar a massa realizando voltas nela mesma para gerar tensão, muito usado para massas com alta hidratação, onde a sova torna-se impraticável.
+Há dois processos principais na formação dessas propriedades: a "autólise" e a tensão, criada por dobras, sova ou ambos. A autólise é farinha mais água mais tempo, de 10 minutos a 8 horas. Sova é farinha mais água mais fricção, de 5 a 15 minutos. Dobras é modelar a massa realizando voltas nela mesma para gerar tensão, muito usado para massas com alta hidratação, onde a sova torna-se impraticável.
 
 Durante a autólise a extensibilidade da massa vai sendo desenvolvida. Quando começa a sova é que vem a elasticidade. A autólise, graças ao menor tempo de sova, torna o miolo da massa mais leve. O motivo químico para isso é porque há uma menor oxidação da farinha e melhor retenção de uns pigmentos chamados carotenóides cremosos.
 
@@ -82560,7 +82106,7 @@ Pizza é um tipo de pão com uma boa e longa fermentação onde boa parte do ar 
 
 O pão francês é uma versão brasileira do pão de sal com farinha refinada. Além dos ingredientes básicos de um pão vai um pouquinho de açúcar e gordura, ambos para dar as características que tornam este um pão francês brasileiro: casca fina e rachada, miolo leve e macio no estilo redemoinho. Pelo seu caráter uniforme ele exige um controle melhor do seu tamanho, de sua sova, dos períodos de fermentação e da umidificação do forno. Na prática o segredo é fermentar pouco e crescer muito para manter boa extensibilidade com certa elasticidade para aguentar o crescimento. São feitas várias dobras ou rolagens desse pão durante a moldagem, o que gera um miolo estilo redemoinho bem leve.
 
-Já testei as receitas dos canais [Pão da Casa], [Amo Pão Caseiro], [Isamara Amâncio] e [Chefe Mancuzo], todos com resultados próximos. Depois de ver alguns vídeos sobre o processo e pegar o jeito não há muito segredo fora o que já foi dito no parágrafo anterior.
+Já testei as receitas dos canais "Pão da Casa", "Amo Pão Caseiro", "Isamara Amâncio" e "Chefe Mancuzo", todos com resultados próximos. Depois de ver alguns vídeos sobre o processo e pegar o jeito não há muito segredo fora o que já foi dito no parágrafo anterior.
 
 ## Pão de forma
 
@@ -82578,11 +82124,6 @@ Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este form
 
 Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paciência e dedicação, delicioso. Minha receita oficial tem melhorado a cada ano. Não confunda com a versão de pobre (nunca faça a versão de pobre; melhor comprar).
 
-[autólise]: https://www.madrepaesartesanais.com.br/autolise/
-[Pão da Casa]: https://youtu.be/KCe85lhkfOg
-[Amo Pão Caseiro]: https://amopaocaseiro.com.br/receita/pao-frances/
-[Isamara Amâncio]: https://youtu.be/Uhy3gGR2d6s
-[Chefe Mancuzo]: https://youtu.be/PLDdc5CLKko
 
 # Bigbug
 date: 2022-02-15
@@ -83134,11 +82675,10 @@ Dona Matilde
 
 Esse é bom mesmo, safra 2016. Acho que encontrei naquele teste do eniwine. Não é absurdamente caro, mas é um Gran Reserve. Em outubro desse ano provo a segunda garrafa. Ainda acho um custo/benefício muito bom. Encorpado e frutado. Não há madeira, mas há taninos. Parece evoluído.
 
-Agora descubro que este vinho é produzido na [região do Douro], em Portugal. A história da vinícola é peculiar. Um empresário preparou o terreno cheio de xisto para o plantio na década de 1920. Há uma pirâmide feita desse xisto retirado onde está gravado o nome da vinícola. Através de algumas gerações manteve a produção de vinho.
+Agora descubro que este vinho é produzido na "região do Douro", em Portugal. A história da vinícola é peculiar. Um empresário preparou o terreno cheio de xisto para o plantio na década de 1920. Há uma pirâmide feita desse xisto retirado onde está gravado o nome da vinícola. Através de algumas gerações manteve a produção de vinho.
 
 A reserva desse Dona Matilde é de 12 meses em barrica de parte das uvas. As castas são tradicionais da região: Touriga Nacional, Touriga Franca, Tinta Roriz, Tinto Cão e Tinta Francisca.
 
-[região do Douro]: https://goo.gl/maps/73Uw2FUKkYFcYGE47
 
 # Bolo de Chocolate Fofo
 date: 2022-05-14
@@ -83258,7 +82798,7 @@ tags: cinema series
 
 Estou revendo essa série médica onde na época encontrei a metáfora perfeita para debugging: diagnosticar "doenças" do software. A maioria delas bem comum; mas algumas bem raras.
 
-Há inclusive [um texto da época] onde este era um blog apenas técnico onde demonstro minha empolgação com essa analogia. Hoje é a vez de analisar como série.
+Há inclusive "um texto da época" onde este era um blog apenas técnico onde demonstro minha empolgação com essa analogia. Hoje é a vez de analisar como série.
 
 E House não possui nada demais como trama ou história, exceto seu núcleo. O protagonista vivido por Hugh Laurie é o centro desse drama sobre um médico brilhante e seus métodos não convencionais de diagnosticar seus pacientes, geralmente casos raros.
 
@@ -83272,12 +82812,10 @@ A dinâmica da descoberta das doenças dos pacientes passa pela análise de sua 
 
 Tudo no primeiro episódio é feito para explicar qual será a fórmula dos próximos. Os personagens importantes se apresentam inicialmente pelo roteiro (a versão televisionada cortou essas cenas). Em menos de uma hora entendemos parcialmente este mundo que se abre; a impressão é de assistir a um Sherlock Holmes em um universo paralelo. Porém, Hugh Laurie não imita o personagem secular de Conan Doyle, decidindo criar uma nova persona, conhecedora da mente humana como ninguém, mas sob os olhos frios da ciência e o julgamento sarcástico de quem está eternamente com tédio e dor.
 
-Lendo comentários feitos [neste site que possui uma visão técnica dos episódios] é possível encontrar pontos importantes para quem é de fora da área. Por exemplo, alguém observa que não há outros médicos realizando os exames pedidos para a equipe, e às vezes são procedimentos simples, como um exame de sangue ou raio-X. E o motivo é claro, embora sutil: House não confia em outros médicos.
+Lendo comentários feitos "neste site que possui uma visão técnica dos episódios" é possível encontrar pontos importantes para quem é de fora da área. Por exemplo, alguém observa que não há outros médicos realizando os exames pedidos para a equipe, e às vezes são procedimentos simples, como um exame de sangue ou raio-X. E o motivo é claro, embora sutil: House não confia em outros médicos.
 
 Como o próprio protagonista vive dizendo, as pessoas não mudam. E no caso da série nem sua narrativa central: surge um novo caso, o primeiro diagnóstico nunca funciona, abre-se o primeiro ato e cria-se uma atmosfera de mistério, que efetivamente gera alguma tensão. Nós leigos apenas imaginamos o que poderá ser, sendo que na realidade não conseguimos sequer mensurar a dificuldade dessa tarefa de adivinhação, embora a série se lembre eventualmente que House é o melhor de sua área. Isso implica que nem o especialista mor consegue acertar de primeira um diagnóstico. Com esses parâmetros em mente essa ciência "exata" de diagnosticadores se torna mais empolgante para alguém com um olhar de fora.
 
-[um texto da época]: house
-[neste site que possui uma visão técnica dos episódios]: https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html
 
 # Programando bash script
 date: 2022-05-20
@@ -83343,9 +82881,9 @@ No começo dos scripts em geral você irá notar a seguinte linha:
 set -e
 ```
 
-O uso do parâmetro `-e` é para sair imediatamente caso qualquer comando dê ruim. Além disso, há a possibilidade de setar funções de saída para limpar coisas deixadas pelo caminho. É o garbage collector do script. Há [outras opções] para modificar o comportamento do shell.
+O uso do parâmetro `-e` é para sair imediatamente caso qualquer comando dê ruim. Além disso, há a possibilidade de setar funções de saída para limpar coisas deixadas pelo caminho. É o garbage collector do script. Há "outras opções" para modificar o comportamento do shell.
 
-A opção de limpeza pode ser setada através do [comando trap]. O comando trap permite associar chamadas de funções aos diferentes tipos de sinais que o programa pode receber. Por exemplo, abaixo é setada a função de limpeza para quando o script sair.
+A opção de limpeza pode ser setada através do "comando trap". O comando trap permite associar chamadas de funções aos diferentes tipos de sinais que o programa pode receber. Por exemplo, abaixo é setada a função de limpeza para quando o script sair.
 
 ```sh
 trap cleanup EXIT
@@ -83434,7 +82972,7 @@ Você deve estar se perguntando se é possível usar outros file descriptors al�
 
 ## Condições
 
-Uma condição em bash pode ser feita entre colchetes simples, duplos e parênteses, cada uma dessas formas [sendo inventada] para adicionar mais formas de expressar condições. É importante ter sempre em mãos também as [diferentes checagens] que podem ser feitas dentro de um if.
+Uma condição em bash pode ser feita entre colchetes simples, duplos e parênteses, cada uma dessas formas "sendo inventada" para adicionar mais formas de expressar condições. É importante ter sempre em mãos também as "diferentes checagens" que podem ser feitas dentro de um if.
 
 ### ifs
 
@@ -83780,16 +83318,10 @@ maior=3, menor=1, media=2.00
 
 ## Referências
 
-- [Bash Reference Manual]
+- "Bash Reference Manual"
 
-- [Advanced Bash-Scripting Guide]
+- "Advanced Bash-Scripting Guide"
 
-[Bash Reference Manual]: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
-[Advanced Bash-Scripting Guide]: https://tldp.org/LDP/abs/html/index.html
-[outras opções]: https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html
-[comando trap]: https://linuxhint.com/bash_trap_command/
-[sendo inventada]: https://acloudguru.com/blog/engineering/conditions-in-bash-scripting-if-statements
-[diferentes checagens]: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Bash-Conditional-Expressions
 
 # Os Opostos Sempre se Atraem
 date: 2022-05-24
@@ -84087,7 +83619,7 @@ select * from intensityData where snp = 'rs123456';
 
 - Don't sleep on the basics. Someone probably solved your problem in the 80s.
 
-- [gnu parallel] is magic and everyone should use it.
+- "gnu parallel" is magic and everyone should use it.
 
 - Associative arrays in AWK are super powerful.
 
@@ -84105,7 +83637,6 @@ parallel --block 100M --pipe  \
         "awk -F '\t' '{print \$1\",...\"$30\">\"chunked/{#}_chr\"\$15\".csv\"}'"
 ```
 
-[gnu parallel]: https://www.gnu.org/software/parallel/
 
 # AWK and Stack Overflow
 date: 2022-06-25
@@ -84219,7 +83750,7 @@ time gawk '/:SubNetwork/{a++}END{print a}' bigsample.txt
 
 ## Mawk
 
-No meio das minhas pesquisas também encontrei este projeto chamado [mawk], que é uma versão otimizada do AWK. Instalei pelos fontes do projeto na minha máquina e fiz os mesmos testes do post do Stack Overflow com resultados absurdamente mais rápidos. Ou seja, vale uma visita.
+No meio das minhas pesquisas também encontrei este projeto chamado "mawk", que é uma versão otimizada do AWK. Instalei pelos fontes do projeto na minha máquina e fiz os mesmos testes do post do Stack Overflow com resultados absurdamente mais rápidos. Ou seja, vale uma visita.
 
 ## Final conclusion
 
@@ -84229,7 +83760,6 @@ No meio das minhas pesquisas também encontrei este projeto chamado [mawk], que 
 
 - Mawk is fast as hell.
 
-[mawk]: https://invisible-island.net/mawk/
 
 # Boa Sorte
 date: 2022-06-25
@@ -84920,13 +84450,13 @@ No entanto, como tudo o que nos é empurrado goela abaixo, existe uma forma de s
 
 ## Links
 
-- [Want to stop craving chocolate? Here are two options]
+- "Want to stop craving chocolate? Here are two options"
 
-- [Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers]
+- "Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers"
 
-- [Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire]
+- "Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire"
 
-- [Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression]
+- "Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression"
 
 “Cravings start with a trigger. This could be external, such as the scent of chocolate chip cookies. Or it could be internal, such as being angry or bored. Second, you elaborate on these thoughts by using mental imagery, and this is what turns it into a full-fledged craving.” To banish the craving, you need to interrupt this process. One approach is to practise mindfulness, accept the thoughts and move on. Another is to try to suppress the thoughts altogether by distracting yourself.
 
@@ -85006,10 +84536,6 @@ The elaborated-intrusion theory of desire proposes that craving is a two-stage p
 
 Guided imagery reduced chocolate-related thoughts, intrusiveness, vividness and craving intensity for chocolate cravers (Experiment 2), but not for the general sample (Experiment 1).
 
-[Want to stop craving chocolate? Here are two options]: https://www.washingtonpost.com/lifestyle/wellness/want-to-stop-craving-chocolate-here-are-two-options/2018/06/25/48a0e698-7407-11e8-805c-4b67019fcfe4_story.html
-[Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers]: https://pubmed.ncbi.nlm.nih.gov/29518469/
-[Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire]: https://pubmed.ncbi.nlm.nih.gov/28196711/
-[Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression]: https://pubmed.ncbi.nlm.nih.gov/29665461/
 
 # Lenda (Legend)
 date: 2022-07-31
@@ -85232,7 +84758,7 @@ A bíblia é um conjunto de livros muito velhos, e este é o mais velho deles. E
 
 "Se você fizer o que é certo, será aceito. Mas, se não o fizer, tome cuidado! O pecado está à porta, à sua espera, e deseja controlá-lo, mas é você quem deve dominá-lo."
 
-Esse é o primeiro livro de cinco, que compõem o [Pentateuco], ou Torá entre os judeus. Neles há histórias que remetem à Lei, regras de conduta deste povo que devem ser obedecidas a ferro e fogo, por mais bizarras que pareçam.
+Esse é o primeiro livro de cinco, que compõem o "Pentateuco", ou Torá entre os judeus. Neles há histórias que remetem à Lei, regras de conduta deste povo que devem ser obedecidas a ferro e fogo, por mais bizarras que pareçam.
 
 Tome, por exemplo, Abrão, antes de seu nome ter dois as. Esse pobre coitado que não conseguiu ter filhos por mais de cem anos. Depois que ele consegue deus chega lá e manda sacrificar o menino. E Abrão vai lá sacrificar o primogênito. No último minuto deus manda um anjo dizer que é pegadinha do malandro (sorte que ele chegou a tempo). Esse tipo de brincadeira entre sacrifícios e a busca por sermos uma versão melhor de nós mesmos através do sagrado e do divino é uma das partes mais inspiradoras dessa literatura. Ela não está relativizando nada. Ela afirma que existe uma verdade, um bem, uma moral correta. A virtude suprema. E ela afirma isso por meio de histórias impactantes, absurdas, que pegam no âmago de nós, seres humanos. Olhando para os dias de hoje é como se houvesse uma verdade que era muito óbvia entre nossos antepassados, algo inquestionável, o que tornava a vida mais simples, e que no decorrer das gerações foi se tornando algo complexo, algo "tudo depende". Hoje é algo "nada é certo", "não existe apenas uma verdade". Você já ouviu alguém comentar frases semelhantes a essas? E como está a mente e a paz espiritual dessas pessoas que comentaram? Um lixo, certo?
 
@@ -85242,7 +84768,6 @@ A Bíblia não é leitura fácil, e quanto mais antigo o livro menos fácil é p
 
 E você nem precisa cortar seu pingulim.
 
-[Pentateuco]: https://pt.wikipedia.org/wiki/Pentateuco
 
 # Sandman
 date: 2022-08-28
@@ -85392,7 +84917,7 @@ date: 2022-10-09
 link: https://youtu.be/k6iBmUSPEzY
 tags: food cooking
 
-Meialunas são como croissants mais doces e com mais sabor. Vou usar como base a receita do canal CUKit! (link principal), embora irei usar também como referência um pior, o [vídeo da Paulina Cocina], onde ela faz meialunas bem nas coxas, mas é justamente o que me dará forças para quando a minha também ficar meia-boca, e o [vídeo de Isabel Vermal], que me pareceu um bom meio termo entre os dois vídeos, e de brinde com mais explicações do processo.
+Meialunas são como croissants mais doces e com mais sabor. Vou usar como base a receita do canal CUKit! (link principal), embora irei usar também como referência um pior, o "vídeo da Paulina Cocina", onde ela faz meialunas bem nas coxas, mas é justamente o que me dará forças para quando a minha também ficar meia-boca, e o "vídeo de Isabel Vermal", que me pareceu um bom meio termo entre os dois vídeos, e de brinde com mais explicações do processo.
 
 Para a massa de 25 meialunas vamos usar 500g de farinha de trigo da mais fina (na Argentina 0000, no Brasil peneira bem o Tipo 1). Junte 40g de açúcar, 5g de sal, raspas de laranja a gosto e misture. Acrescente 8g de fermento seco, 300ml de leite frio, 15g de mel e 1 colher de sopa de essência de baunilha. Misture novamente para incorporar e em seguida amasse um pouco na bancada até conseguir uma massa uniforme e ativar um pouco a rede de glúten. Coloque dentro de um recipiente fechado ou plástico filme, cubra e leve à geladeira por pelo menos meia-hora.
 
@@ -85426,8 +84951,6 @@ Pronto!
 
 2022-11-17 Segunda fornada da semana de meialunas e segunda vez que estoura a manteiga, mas acho que fiz uma dobra a mais. De qualquer forma a massa não parece estar ficando muito firme. O glúten não está ajudando. E descobri por quê: precisa sovar. Nem que seja um pouco para ganhar uniformidade. Outra questão é conseguir medir as proporções da manteiga e da massa corretamente para que consiga envelopar a manteiga de maneira ordenada. O foco é um retângulo com meio centímetro de espessura, tanto a manteiga quanto a massa, mas a largura deve ser próxima para conseguir envelopar certinho.
 
-[vídeo da Paulina Cocina]: https://youtu.be/N_PcT2diLcM
-[vídeo de Isabel Vermal]: https://youtu.be/gpVHElzSebg
 
 # O Demônio de Ohio
 date: 2022-10-09
@@ -85911,7 +85434,7 @@ O que chama a atenção é que essa é a parte com a edição mais rica e uma pa
 # Luiz Carlos Merten
 date: 2022-10-22
 
-Tem um crítico de cinema chamado Luiz Carlos Merten que foi [demitido do Estadão em 2020] depois de décadas trabalhando com eles. Motivo: salário muito alto. Agora ele escreve em [um blog] e a cada post durante a Mostra desse ano ele fala sobre Bolsonaro. Chega a ser doentio essa fascinação pelo sujeito. Talvez através dele eu esteja desvendando por que a esquerda é tão tarada em falar sobre esse tiozinho que calhou de ser o presidente.
+Tem um crítico de cinema chamado Luiz Carlos Merten que foi "demitido do Estadão em 2020" depois de décadas trabalhando com eles. Motivo: salário muito alto. Agora ele escreve em "um blog" e a cada post durante a Mostra desse ano ele fala sobre Bolsonaro. Chega a ser doentio essa fascinação pelo sujeito. Talvez através dele eu esteja desvendando por que a esquerda é tão tarada em falar sobre esse tiozinho que calhou de ser o presidente.
 
 Merten sempre escreveu de maneira bem despojada sobre cinema. Seu estilo lembra uma Pauline Kael sem muita cultura. É gostoso de ler, fácil porque é para a classe média brasileira. Kael nem sempre, pois havia devaneios filosóficos que Merten apenas arrisca. Seu conhecimento sobre cinema é enciclopédico e sua forma de destrinchar o que está rolando no cenário mundial é pretensioso e muitas vezes autoritário disfarçado de vitimesco.
 
@@ -85919,8 +85442,6 @@ Eu gosto muito de alguns textos desse senhorzinho que vejo de vez em quando nas 
 
 Isso acontece porque no circuito de imprensa global é raro a figura de pessoas pensantes, que vão no âmago do assunto e tentam desvendá-lo com sinceridade. Muitas vezes acontece o que aconteceu com o Merten: ficou à deriva. Fala de política mais que Pablo Villaça e sem propriedade. Se tornaria trágico, se não fosse cômico. Hoje em dia quem liga para política está perdido.
 
-[demitido do Estadão em 2020]: https://archive.is/Uw8Fm
-[um blog]: https://oblogdomerten.wordpress.com
 
 # Camila Vieira
 date: 2022-10-23
@@ -85933,10 +85454,8 @@ Esta é uma escritora séria sobre cinema. Em seus textos da última Mostra de S
 date: 2022-10-23
 tags: mostrasp
 
-Da leva desse ano de contatos encontrados no grupo de imprensa da mostra está Vanessa Panerari. Encontrei dois sites onde ela escreve(u): o [Francamente, Querida] e o [Era Uma Vez na América Latina]. No "Era Uma Vez" ainda não há textos sobre a cobertura do evento, apenas uma nota jornalística. No "Francamente" há um texto sobre Tantas Almas que revela ser de fato uma escritora jornalística, e não crítica. Ela entrevista os realizadores. Seu texto é eficiente. Vanessa resgata detalhes da produção e, sucinta, traça um panorama usando poucos parágrafos.
+Da leva desse ano de contatos encontrados no grupo de imprensa da mostra está Vanessa Panerari. Encontrei dois sites onde ela escreve(u): o "Francamente, Querida" e o "Era Uma Vez na América Latina". No "Era Uma Vez" ainda não há textos sobre a cobertura do evento, apenas uma nota jornalística. No "Francamente" há um texto sobre Tantas Almas que revela ser de fato uma escritora jornalística, e não crítica. Ela entrevista os realizadores. Seu texto é eficiente. Vanessa resgata detalhes da produção e, sucinta, traça um panorama usando poucos parágrafos.
 
-[Francamente, Querida]: http://francamentequerida.com.br/
-[Era Uma Vez na América Latina]: https://eraumavezamericalatina.substack.com
 
 # A História de Um Lenhador
 date: 2022-10-24
@@ -86181,13 +85700,12 @@ tags: wine
 
 Essa primeira garrafa da noite tem aquele gosto de Chianti. Fácil de beber, levemente alcoólico e frutado. Bom vinho de entrada. Precedeu a Anita que eu tinha trazido para a reunião dos sócios. Acho que a Dani que havia escolhido.
 
-Chianti é o nome de uma região da Toscana onde se produz esse tipo de vinho. A uva mesmo, ou uns 70 a 80% da garrafa, é a principal produzida na Itália hoje. Cerca de 10% da produção do país. O nome da uva é Sangiovese e já havia registros históricos do século 16 sobre a produção dessa uva. Hoje EUA e Austrália também produzem bastante. O nome vem do latim, Sanguis Jovis, ou [Sangue de Jupíter].
+Chianti é o nome de uma região da Toscana onde se produz esse tipo de vinho. A uva mesmo, ou uns 70 a 80% da garrafa, é a principal produzida na Itália hoje. Cerca de 10% da produção do país. O nome da uva é Sangiovese e já havia registros históricos do século 16 sobre a produção dessa uva. Hoje EUA e Austrália também produzem bastante. O nome vem do latim, Sanguis Jovis, ou "Sangue de Jupíter".
 
 Curioso que esta uva nem sempre foi sinônimo de bons vinhos. Com alta acidez e casca fina, o que pode gerar vinhos azedos se ela não for bem tratada, pois como a casca é fina é muito fácil elas apodrecerem pela umidade. Pelo alto valor dos cuidados com a Sangiovese a produção estava historicamente marcada como de baixa qualidade, até cerca de 30 anos atrás, quando um tratamento diferenciado foi aplicado à casta-ícone da Toscana.
 
 Além disso, a guarda em barrica para maior estrutura e o uso de blends com uva francesa, Cabernet Sauvignon e Merlot por exemplo, deu origem aos chamados Supertoscanos, que ganharam fama no mundo afora.
 
-[Sangue de Jupíter]: http://mondovinho.blogspot.com/2010/08/uva-de-jupiter-emblema-da-italia.html
 
 # Montanhas do Cafundó
 date: 2022-11-07
@@ -86264,11 +85782,10 @@ date: 2022-11-20
 slug: chateau_tamagne_superavi
 tags: wine
 
-Ao oeste da Georgia, o país com o [registro histórico mais antigo do mundo de produção de vinho], existe a Península de Taman, na Rússia. É a região mais ao sul do país e mantém um clima semelhante ao da Georgia para a produção de vinhos. Nela está localizada esta vinícola, a Château Tamagne, com uma produção industrial absurda para quem nunca ouviu falar em vinho russo. São tanques gigantescos e um laboratório novinho em folha.
+Ao oeste da Georgia, o país com o "registro histórico mais antigo do mundo de produção de vinho", existe a Península de Taman, na Rússia. É a região mais ao sul do país e mantém um clima semelhante ao da Georgia para a produção de vinhos. Nela está localizada esta vinícola, a Château Tamagne, com uma produção industrial absurda para quem nunca ouviu falar em vinho russo. São tanques gigantescos e um laboratório novinho em folha.
 
 Esta uva é a Superavi, conhecida da Georgia. Sua característica mais marcante é seu alto potencial de guarda, mesmo sem ser reserva. Isso se deve a uma presença muito alta de fenóis e sua suculência. Geralmente se mistura essa uva com outras, mas nesse caso este 2017 é 100%, vindo de vinhedos jovens de 21 anos em média. Ficou 12 meses em barricas de carvalho caucasiano, francês e americano. Há taninos e um corpo médio prolongado. Requer um pouco de respiro para se sentir todos seus sabores aprisionados e equilibrados em uma bela taça de vinho para ser apreciada sozinha ou acompanhado de pratos com carnes.
 
-[registro histórico mais antigo do mundo de produção de vinho]: https://www.bbc.com/news/world-europe-41977709
 
 # Cléo das 5 às 7
 date: 2022-11-20
@@ -86439,7 +85956,7 @@ Isso quer dizer que nós escritores podemos, a princípio, colocar tudo no papel
 
 Mas devaneio. O que eu gostaria de falar neste post é mais sobre o operacional, do ponto de vista deste blog, que pertence a um programador, e portanto contém um roteiro para automatizar as partes chatas.
 
-Vou começar descrevendo o que eu faço para publicar novos posts. Bem, eu utilizo o [publicador hugo], que transforma meus arquivos texto em páginas html estáticas, o que permite colocar em qualquer servidor de arquivos. A partir daí é apenas a boa e velha navegação Web 1.0 com alguns poucos scripts para auxiliar nas buscas.
+Vou começar descrevendo o que eu faço para publicar novos posts. Bem, eu utilizo o "publicador hugo", que transforma meus arquivos texto em páginas html estáticas, o que permite colocar em qualquer servidor de arquivos. A partir daí é apenas a boa e velha navegação Web 1.0 com alguns poucos scripts para auxiliar nas buscas.
 
 Para começar um novo post no hugo existe um comando. Este comando é automatizado por mim em um script em que ele já usa um modelo de arquivo com a marcação de rascunho ligada, o que quer dizer que o post se publicado nesse momento não irá aparecer na lista de novidades, já que eu retiro os rascunhos de lá. No entanto, eu mantenho uma lista apenas para esses rascunhos, por comodidade e porque eu acredito que o processo de escrever texto é muito próximo de escrever código: não há versão final. O que chamamos de final é a melhor versão que conseguimos publicar neste momento, mas sempre é possível melhorar. É por isso que os rascunhos ficam publicados. Não que alguém mereça lê-los. Considere esses textos como minha branch de desenvolvimento, que no caso de um escritor solitário se confunde com a master. Se houvesse um grupo de escritores trabalhando para este blog provavelmente teríamos uma develop e uma master.
 
@@ -86453,7 +85970,6 @@ Os pedidos que eu faço são anotações de trechos do texto. Essas anotações 
 Journal do Caloni (Wanderley Caloni)
 - Highlight Loc. 66342  | Added on Saturday, 3 December 22 00:26:00 GMT-03:00
 
-[publicador hugo]: https://gohugo.io/
 
 minhas anotações de leitura. [^1]
 ==========
@@ -86518,13 +86034,12 @@ A advogada em seu tempo livre escreve sobre cinema para o saite Coletivo Crític
 
 É curioso observar as falhas no raciocínio de Bocanera ao esmiuçar uma obra sob o filtro ideológico, algo muito comum para os que abraçam uma causa. Eu já fui muito e ainda sou eventualmente vítima desse engodo de escrever sem retirar minhas vestes egoístas da forma radical como enxergo o mundo. Sabendo disso, não quero apontar dedos. Apenas observar.
 
-Veja, por exemplo, [seu texto sobre A Febre do Mediterrâneo], um dos melhores filmes dessa mostra. A escritora está obcecada em listar as questões referentes à inversão de papéis, já que o protagonista é homem e fica em casa cuidando dos filhos, pois abandonou seu emprego para virar um escritor sem livros, muito semelhante a nós, críticos sem imprensa, já que ninguém liga mais para leitura. Este é um homem desempregado, sem função na família. Um inútil. Faz sentido ter depressão.
+Veja, por exemplo, "seu texto sobre A Febre do Mediterrâneo", um dos melhores filmes dessa mostra. A escritora está obcecada em listar as questões referentes à inversão de papéis, já que o protagonista é homem e fica em casa cuidando dos filhos, pois abandonou seu emprego para virar um escritor sem livros, muito semelhante a nós, críticos sem imprensa, já que ninguém liga mais para leitura. Este é um homem desempregado, sem função na família. Um inútil. Faz sentido ter depressão.
 
 A mulher do protagonista é quem sustenta a casa. Do ponto de vista do texto de Bocanera, a depressão do marido seria também a causa de muitas mulheres que são donas de casa e possuem jornadas duplas. Ela também cita jornadas não remuneradas, provavelmente se referindo ao trabalho doméstico. Ou seja, a observação até pertinente caberia apenas às mulheres, mas não ao marido, e principalmente ao personagem, que não vive nada do que é descrito. Nesse caso é até irônico constatar que ele e a família são de boa vida, de classe média. O trabalho que ele tem com os filhos não é praticamente nada se não fosse seu estado clínico.
 
 Bocanera é uma escritora com um pé na erudição e outro na narrativa. Preocupada em contextualizar o leitor sobre as camadas dos filmes que analisa, talvez até mais para si mesma, seus textos não são tão inacessíveis quanto saites que não se lê por aí. Porém, também não são de jovens despreocupados com o conteúdo e que mal sabem compor um parágrafo que não seja estendendo a sinopse. De qualquer forma, tenho minhas dúvidas se aproveitaria ler algo que ela produz. Um tradutor de ideologias ou o material compilado para a imprensa é muito próximo, e já está pronto no dia da cabine de imprensa.
 
-[seu texto sobre A Febre do Mediterrâneo]: https://coletivocritico.com/2022/10/22/46a-mostra-febre-do-mediterraneo/
 
 # Wandinha
 date: 2022-12-04
@@ -86697,7 +86212,7 @@ Meu padrão alimentar está claro para mim. Ficar em jejum por um tempo é um ex
 
 Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir conteúdo de cunho científico formatado para leigos sobre como mulheres podem se aproveitar de jejum intermitente para diminuir a incidência de doenças relacionadas ao desequilíbrio alimentar. É um grupo focado para mulheres, mas ainda melhor, pois mulheres sofrem mais para fazer jejum (isso é fato), o que pode ajudar os mais fracos de força de vontade também, mulheres ou não. Segue abaixo os recortes dessas leituras, o que pode ser usado mais tarde para o meu texto de como jejum funciona.
 
-## [Say Goodbye To Sugar Cravings With Intermittent Fasting]
+## "Say Goodbye To Sugar Cravings With Intermittent Fasting"
 
 Insulin regulates blood sugar levels. When you eat, blood sugar levels rise, and insulin is released. The food consumed is converted to energy for the body. But if you consume more than your body needs, the excess is stored as fat. When your body is in a fasted state, insulin levels are very low, and the body turns to the stored fat to burn for energy.
 
@@ -86709,7 +86224,7 @@ Women may find it difficult to overcome leptin resistance because they naturally
 
 Here are a few tips to help you with sugar cravings until your body can normalize leptin levels and the desires go away: Drink sugar-free liquids allowed during the fast. Use peppermint essential oil that is safe for ingestion in your water during the fast. Chew sugar-free gum during your eating window. Make sure to eat enough unprocessed foods during your eating window that include healthy carbohydrates such as fruits and quinoa. Stay busy and out of the kitchen. Keep your hands occupied, and your mind distracted. Dig deep and remember all the healthy reasons you want to reduce your sugar consumption.
 
-## [How Intermittent Fasting can help you Sleep better]
+## "How Intermittent Fasting can help you Sleep better"
 
 Insulin is produced by the pancreas. The pancreas is highly sensitive to melatonin. Because you are fasting when you sleep, the body doesn't need high insulin levels to deal with rising blood sugar. Melatonin binds to receptors in the pancreas, slowing down insulin production.
 
@@ -86717,7 +86232,7 @@ One of the bonuses of intermittent fasting is that it triggers the production of
 
 One study showed that after a week of intermittent fasting, people woke up in the night less frequently, moved around in their sleep less, spent more time in the deep REM stage of sleep, and reported better overall sleep quality.
 
-## [Intermittent Fasting And Hormones For A Better Balance]
+## "Intermittent Fasting And Hormones For A Better Balance"
 
 There are a few main hormones, which you can “fix” with intermittent fasting and help yourself to achieve better health conditions: Insulin. Leptin. Growth hormone. Ghrelin. Sex hormones. Thyroid hormones.
 
@@ -86731,7 +86246,7 @@ Opposite to satiety hormone leptin, our body releases the “hunger hormone”-g
 
 Human growth hormone (HGH) is essential for cell regeneration and reproduction, bone density, strong immune system and speed of metabolism. We lose the ability to produce this hormone with ageing, but studies show that intermittent fasting dramatically triggers an increase in HGH as a protective mechanism for bone and tissue.
 
-## [How does intermittent fasting help with insulin resistance]
+## "How does intermittent fasting help with insulin resistance"
 
 When you eat something, your blood sugar rises. The pancreas then secretes insulin to lower your blood sugar. Muscle cells take sugar from the blood for immediate use. But the muscles and liver can also store sugar (as glycogen) for later use.
 
@@ -86763,10 +86278,6 @@ Intermittent fasting breaks the vicious cycle: increasing the time between meals
 
 The downside is that insulin resistance makes fasting more difficult. If you have signs of insulin resistance, you should slowly increase the time between meals when starting with intermittent fasting. For instance, you could start fasting for 12 hours, then proceed to 13 hours, then 14, and so on. Depending on the degree of your insulin resistance, it may take a few weeks or even months before you are able to fast for 16 hours (16/8-fasting).
 
-[Say Goodbye To Sugar Cravings With Intermittent Fasting]: https://www.wefast.care/articles/intermittent-fasting-sugar-cravings
-[How Intermittent Fasting can help you Sleep better]: https://www.wefast.care/articles/fasting-and-sleep
-[Intermittent Fasting And Hormones For A Better Balance]: https://www.wefast.care/articles/intermittent-fasting-and-hormones
-[How does intermittent fasting help with insulin resistance]: https://www.wefast.care/articles/intermittent-fasting-insulin-resistance
 
 # A Lição (The Glory)
 date: 2023-01-08
@@ -86836,13 +86347,12 @@ A história do jogo caminha pelo mesmo esmero. Pautada em uma guerra entre as ra
 
 Até a trilha sonora merece elogios. Compostas por Glenn Stafford e Derek Duke como que para um longa-metragem, as músicas favorecem nossa imersão neste universo. É feito para quem vai ouvir por horas sem enjoar. Ela contém nuances que evocam obras de referência no sci-fi espacial. Alien, por exemplo. Depois de zerar o jogo vai fazer parte de sua memória musical como um repertório que contém uma história, textura, peso e profundidade. Vai te fazer jogar de novo.
 
-Existem três grandes divisões da campanha do jogo, uma por raça, teoricamente independentes, onde você pode começar por qualquer uma. Porém, se tentar inverter a ordem o jogo vai te sugerir seguir o caminho mais natural, que é primeiro Terrans, depois Zergs e por final os Protoss. Cada episódio te ajuda a usar melhor um tipo de tática com novos soldados da guerra e alguns ensinam um pouco sobre estratégia e economia de recursos. Aliás, jogar SC é uma verdadeira aula sobre gerenciar sua tropa em um ambiente escasso, além de base para entender a dinâmica de uma guerra. Foi usado, inclusive, como [disciplina] na universidade U.C. Berkeley.
+Existem três grandes divisões da campanha do jogo, uma por raça, teoricamente independentes, onde você pode começar por qualquer uma. Porém, se tentar inverter a ordem o jogo vai te sugerir seguir o caminho mais natural, que é primeiro Terrans, depois Zergs e por final os Protoss. Cada episódio te ajuda a usar melhor um tipo de tática com novos soldados da guerra e alguns ensinam um pouco sobre estratégia e economia de recursos. Aliás, jogar SC é uma verdadeira aula sobre gerenciar sua tropa em um ambiente escasso, além de base para entender a dinâmica de uma guerra. Foi usado, inclusive, como "disciplina" na universidade U.C. Berkeley.
 
 Na campanha, uma fase anterior não necessariamente é mais fácil que uma mais avançada. Tudo depende de como você joga. Você pode se habituar melhor com uma raça específica ou estratégia específica, mas nem sempre ela vai funcionar. Outra função das fases de campanha é te mostrar isso na prática.
 
 Aliás, a maior problemática no desenvolvimento deste jogo é exigir que o equilíbrio das forças entre as raças seja algo constante. Após lançado houve vários patches de correção. Além de correções de bugs, esses patches continham uma ou outra mudança nas regras do jogo com o objetivo de diminuir a vantagem de uma raça em uma situação específica. Houve um esforço significativo para evitar também aqueles jogadores que investem tudo na tática do rush, ou seja, construir que nem louco o mesmo tipo de infantaria e atacar com tudo. Hoje essas tentativas acabam falhando se você souber se defender direito. É esse tipo de detalhe que torna a obra um exemplo de esmero na arte da guerra.
 
-[disciplina]: https://web.archive.org/web/20160305115449/http://www.wired.com/2009/01/uc-berkeley-int/
 
 # A Profecia do Mal
 date: 2023-01-16
@@ -87180,9 +86690,8 @@ Na Aeropress a torra intensa da casa ficou muito massa. Baixa acidez e corpo mé
 
 Outro café que peguei de lá e abri recentemente foi o Fazenda Sant'ana, que teoricamente seria mais intenso. Porém, achei menos equilibrado que os resultados da torra de Villela. Ele realmente sabe das coisas ao abrir uma lojinha no centro onde vende apenas café, ao lado de sua torrefadora.
 
-Ao pesquisar novamente descobri uma [loja online] que entrega em São Paulo direto do produtor. Nice. Também descobrir que o sr. Pereira é um peregrino na arte da microtorrefação da região. Existe uma cidade próximo de São Lourenço, a uma hora de Itajubá, chamada Carmo de Minas, que é de onde vêm esses cafés maravilindos.
+Ao pesquisar novamente descobri uma "loja online" que entrega em São Paulo direto do produtor. Nice. Também descobrir que o sr. Pereira é um peregrino na arte da microtorrefação da região. Existe uma cidade próximo de São Lourenço, a uma hora de Itajubá, chamada Carmo de Minas, que é de onde vêm esses cafés maravilindos.
 
-[loja online]: https://pereiravillela.com.br/shop/
 
 # O Banheiro do Papa
 date: 2023-01-31
@@ -87376,7 +86885,7 @@ Fui ingênuo em minha primeira entrevista técnica depois de muito tempo sem faz
 
 Até aí tudo bem, fui fazendo. Depois de umas três retentativas de compilar, rodar, depurar no "passou por aqui" (não havia depurador no ambiente web), estava quase pronto, faltando um detalhe recursivo no método pedido. Esse último detalhe que não deu tempo.
 
-O mais curioso é que fiquei com isso na cabeça. Após a entrevista fui ao dentista. Na sala de espera acessei o [replit] pelo celular, refiz o código e consegui resolver. Mas já era tarde. Eu estava na sala de espera do dentista, meia-hora depois da entrevista ter terminado.
+O mais curioso é que fiquei com isso na cabeça. Após a entrevista fui ao dentista. Na sala de espera acessei o "replit" pelo celular, refiz o código e consegui resolver. Mas já era tarde. Eu estava na sala de espera do dentista, meia-hora depois da entrevista ter terminado.
 
 ```
 #include <iostream>
@@ -87465,7 +86974,6 @@ int main()
 
 Incrível como as ideias vêm quando menos esperamos. E elas não vêm na meia-hora que você mais precisa. Uma eternidade, agora pensando melhor.
 
-[replit]: https://replit.com/@Caloni/Compress#compress_numbers_in_strings.cpp
 
 # Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca
 date: 2023-02-24
@@ -87850,9 +87358,8 @@ Quis que o título deste poste fosse o contrário do anterior onde falo que não
 
 Este foi um teste de uma hora e meia com 20 e tantas perguntas de C++ moderno, a maioria sobre obtenção de tipos por expressão e algumas maluquices com código criativo, e dois problemas de fazer código. Tudo feito pelo site. Você começava a fazer e um contador de 90 minutos dizia quando você deveria parar.
 
-Infelizmente não copiei os exercícios e seus links não servem mais. Agora resta [o código]. Então o jeito é continuar praticando.
+Infelizmente não copiei os exercícios e seus links não servem mais. Agora resta "o código". Então o jeito é continuar praticando.
 
-[o código]: https://github.com/Caloni/interview/tree/issue-3-hacker-rank-preparation/hackerrank/flow_traders
 
 # As Leis de Lídia Poët
 date: 2023-03-20
@@ -88185,7 +87692,7 @@ tags: debugging videos
 
 Recomendo a leitura do artigo "X64 Deep Dive" para se habituar às idiossincrasias sobre o formato assembly do x64, especialmente se você costuma depurar assembly para Windows. O artigo descreve as novas funcionalidades que suportam os 64 bits do formato do executável Windows, o Portable Executable, além de explicar em detalhes o funcionamento de mecanismos que mudaram, como o tratamento de exceção (e o unwinding no código).
 
-Criei [um repositório] para praticar alguns desses assuntos e recriar algum código-fonte para mostrar como o Visual Studio gera código em x64 e como depurar este código. Através deste repo e do [vídeo que pretendo gravar] a respeito caminharemos pelas mudanças desde o x86 para aumentarmos nossas habilidades em debugging de código x64. Entre algumas mudanças segue uma lista do que considerei mais importante:
+Criei "um repositório" para praticar alguns desses assuntos e recriar algum código-fonte para mostrar como o Visual Studio gera código em x64 e como depurar este código. Através deste repo e do "vídeo que pretendo gravar" a respeito caminharemos pelas mudanças desde o x86 para aumentarmos nossas habilidades em debugging de código x64. Entre algumas mudanças segue uma lista do que considerei mais importante:
 
 - Fastcall é a convenção de chamada default para x64.
 
@@ -88543,8 +88050,6 @@ Determine if the parameters are loaded from non-volatile registers and if those 
 
 "It is important to examine the instructions up to the call to the next function (...) to ascertain that these non-volatile registers are not being overwritten."
 
-[um repositório]: https://github.com/Caloni/x64-deep-dive
-[vídeo que pretendo gravar]: https://youtu.be/wp7-BD9pOOc
 
 # Cracking the code interview
 date: 2023-04-07
@@ -89155,7 +88660,7 @@ Here I am doing interview exercise tests at Hacker Rank. I am trying to recap wh
 
 ## Counting Valleys
 
-To solve the [counting valleys problem] keep a valley counter that only increments when the hiker is coming up to the sea level. Monitor the altitude and the new altitude and compare. If the altitude was negative (into a valley) and the new altitude is zero (sea level) then that's a new valley to count. This strategy avoid to count valleys inside valleys before the hiker gets up to sea level.
+To solve the "counting valleys problem" keep a valley counter that only increments when the hiker is coming up to the sea level. Monitor the altitude and the new altitude and compare. If the altitude was negative (into a valley) and the new altitude is zero (sea level) then that's a new valley to count. This strategy avoid to count valleys inside valleys before the hiker gets up to sea level.
 
 This solution has a complexity of O(n).
 
@@ -89182,7 +88687,7 @@ int countingValleys(int steps, string path) {
 
 ## Cloud Jump
 
-To solve the [cloud jump problem] create a loop and advance current position until finished. Try the double jump at first and ordinary jump else by incrementing position by 1 or 2 and incrementing jump counter. If in the end position just increment and get out of the loop. Return the jump counter.
+To solve the "cloud jump problem" create a loop and advance current position until finished. Try the double jump at first and ordinary jump else by incrementing position by 1 or 2 and incrementing jump counter. If in the end position just increment and get out of the loop. Return the jump counter.
 
 This solution has a complexity of O(n).
 
@@ -89211,7 +88716,7 @@ int jumpingOnClouds(vector<int> c) {
 
 ## Repeated Strings
 
-To solve the [repeated string problem] we count the 'a' occurrences for the full unique string and divide n by the size of the unique string size, getting the number of times we need to multiply the full occurrences.
+To solve the "repeated string problem" we count the 'a' occurrences for the full unique string and divide n by the size of the unique string size, getting the number of times we need to multiply the full occurrences.
 
 For the partial string after the number of full unique strings we format this string and count independently this last part.
 
@@ -89231,7 +88736,7 @@ long repeatedString(string s, long n) {
 
 ## Sales by Match
 
-To solve the [sales by match] problem we traverse all the array of socks and keep inserting and deleting a set of colors. If the current color is not found in the set we insert it. If the current color is found we increase a pair counter and remove the color from the set. The next time the same color appears it will be inserted again waiting for its pair.
+To solve the "sales by match" problem we traverse all the array of socks and keep inserting and deleting a set of colors. If the current color is not found in the set we insert it. If the current color is found we increase a pair counter and remove the color from the set. The next time the same color appears it will be inserted again waiting for its pair.
 
 The complexity of this solution is O(N), since we have to traverse all array of socks.
 
@@ -89256,10 +88761,6 @@ int sockMerchant(int n, vector<int> ar)
 }
 ```
 
-[cloud jump problem]: https://www.hackerrank.com/challenges/jumping-on-the-clouds
-[counting valleys problem]: https://www.hackerrank.com/challenges/counting-valleys
-[repeated string problem]: https://www.hackerrank.com/challenges/repeated-string
-[sales by match]: https://www.hackerrank.com/challenges/sock-merchant
 
 # Hunger (Fome de Sucesso)
 date: 2023-04-17
@@ -89726,7 +89227,7 @@ when tackling a top-down problem, it helps to think the following three thoughts
 date: 2023-04-28
 tags: computer
 
-Mexendo em um projeto legado encontro encontro [esta pérola]. Será que ainda fazem essas coisas hoje em dia?
+Mexendo em um projeto legado encontro encontro "esta pérola". Será que ainda fazem essas coisas hoje em dia?
 
 Eu sabia que existia um neste programa porque o código deste aplicativo foi 100% feito por mim, desde o começo até passar das dez mil linhas de código. No entanto, eu me lembro que a primeira versão deste cheat era no formato de créditos de filme, com os nomes da equipe descendo. Isso estamos falando de 20 anos atrás. Não me lembrava que ele foi readaptado para nossa minúscula equipe nessa fase do projeto, o que me gerou um saudosismo gostoso ao ver esta imagem.
 
@@ -89734,23 +89235,21 @@ Lá estava Taz, o nosso membro mais antigo, que começou como beta tester e cont
 
 Também na "foto" estava Rosamaria, a membro mais recente e que aprendeu sobre C++ e baixarias no Windows de sopetão. Para quem nem desconfiava que estaria entrando na área eu me lembro que ela se saiu super bem. O ponto alto para mim sempre será quando ela fez a engenharia reversa de um thin client descobrindo como fazer o inventário da solução e adaptando o código e suas sei lá quantas linhas e módulos distintos, para funcionar com a versão mais enxuta e cheia de idiossincrasias do Windows CE. Desnecessário dizer, Rosamaria é uma programadora de verdade.
 
-E no meio, estava eu, no papel do que hoje seria tipo um tech lead, mas sem a menor vocação ou maturidade para tal. Não me lembro de mim mesmo nessa época como um bom profissional. Mas também não sei se faria diferente. Eu nem sei bem como faria. As memórias de experiências recentes com SCRUM e reflexões em retrospecto estão me levando a crer que nessa área ou você quer muito fazer as coisas funcionar e irá desenvolver as habilidades para tal com muito suor e lágrimas, ou você será um estorvo, ou em outras palavras: o motivo pelo qual essas metodologias são criadas em primeiro lugar. É a analogia do Joel e a maravilhosa história d[o chefe de cozinha que virou administrador de fast food] ou algo assim. Pesquise para você ler no Joel on Software, caro leitor.
+E no meio, estava eu, no papel do que hoje seria tipo um tech lead, mas sem a menor vocação ou maturidade para tal. Não me lembro de mim mesmo nessa época como um bom profissional. Mas também não sei se faria diferente. Eu nem sei bem como faria. As memórias de experiências recentes com SCRUM e reflexões em retrospecto estão me levando a crer que nessa área ou você quer muito fazer as coisas funcionar e irá desenvolver as habilidades para tal com muito suor e lágrimas, ou você será um estorvo, ou em outras palavras: o motivo pelo qual essas metodologias são criadas em primeiro lugar. É a analogia do Joel e a maravilhosa história d"o chefe de cozinha que virou administrador de fast food" ou algo assim. Pesquise para você ler no Joel on Software, caro leitor.
 
 Pois é, esse Easter Egg é muito mais que um desenho simpático e as memórias que chegam. É um convite de reflexão sobre a vida de computeiro e como ela passa por seus ciclos. Será que ainda fazem Easter Eggs nos escritórios ou nos home-offices, ou as pessoas simplesmente trabalham?
 
-[o chefe de cozinha que virou administrador de fast food]: https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/
-[esta pérola]: https://youtu.be/YYnARNh-Z0s
 
 # Hacker Rank Array - Part 1
 date: 2023-04-28
 link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags: computer interview english
 
-The next step after [the Warm Up challenges] are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
+The next step after "the Warm Up challenges" are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
 
 ## Array Manipulation
 
-To solve the [array manipulation problem] ChatGPT helped me with the code. Now in the review I realized how segment trees work and how binary trees can be implemented using arrays.
+To solve the "array manipulation problem" ChatGPT helped me with the code. Now in the review I realized how segment trees work and how binary trees can be implemented using arrays.
 
 The issue about this problem is that summing up intervals costs too much processing to large intervals. In order to do that, segment trees help, since its nodes contain the sum of all its nodes bellow. This way, to get the sum of determined intervals all we need to do is to get the bigger intervals and sum it up.
 
@@ -89813,7 +89312,7 @@ long arrayManipulation(int n, vector<vector<int>> queries) {
 
 ## Left Rotation
 
-To solve the [left rotation problem] in C++ is somewhat easy, since there is already an algorithm in STL to do that: `std::rotate`. Anyway, I didn't know that before my first implementation, that was to create a new vector and copy the old vector to the new one obeying the new positions.
+To solve the "left rotation problem" in C++ is somewhat easy, since there is already an algorithm in STL to do that: `std::rotate`. Anyway, I didn't know that before my first implementation, that was to create a new vector and copy the old vector to the new one obeying the new positions.
 
 However, the last version of the solution of this issue was using the `std::rotate` function, that is a simple, elegant algorithm:
 
@@ -89865,9 +89364,6 @@ vector<int> rotLeft(vector<int> a, int d) {
 }
 ```
 
-[array manipulation problem]: https://www.hackerrank.com/challenges/crush
-[left rotation problem]: https://www.hackerrank.com/challenges/ctci-array-left-rotation
-[the Warm Up challenges]: hacker_rank_warm_up
 
 # Listas de Cinema
 date: 2023-05-05
@@ -90146,7 +89642,7 @@ date: 2023-06-05
 link: https://ewintr.nl/posts/2020/why-i-built-my-own-shitty-static-site-generator/
 tags: essays english computer
 
-After reading about the purpose and [current implementation of asciidoctor] I realize that asciidoc is the best text standard for the future of the blog. I say that based on the structure care of the format, the embebbed metadata into its own format and the clear objective of being a unique and formalized standard, what could simplify a lot the necessity of writers and publishers of keeping a text  base as the original and yet keep the structure inside with almost no effort in the side of the writers.
+After reading about the purpose and "current implementation of asciidoctor" I realize that asciidoc is the best text standard for the future of the blog. I say that based on the structure care of the format, the embebbed metadata into its own format and the clear objective of being a unique and formalized standard, what could simplify a lot the necessity of writers and publishers of keeping a text  base as the original and yet keep the structure inside with almost no effort in the side of the writers.
 
 Based also on the article Why I Built My Own Shitty Static Site Generator I also realized hugo is not the best tool to convert my texts to publish, despite being the best for so many years. I need to implement this tool, for my single oriented purpose. Being that, the use of Hugo will be temporarily.
 
@@ -90164,7 +89660,6 @@ The final solution for the blog is a single folder with a bunch of asciidoc file
 
 I expect to keep or reconstruct the text history based in this single folder, but I am not sure yet if it is worth it.
 
-[current implementation of asciidoctor]: https://docs.asciidoctor.org/asciidoc/latest/
 
 # O Quarto Verde (ou Ignorem meus textos fáceis)
 date: 2023-06-05
@@ -90197,10 +89692,8 @@ Com dois comentaristas que nos fazem ter saudades dos de Terrace House porque er
 date: 2023-06-06
 link: http://www.numaboa.com.br
 
-Segue aqui uma pequena nota de arrependimento por não saber da existência [deste saite] até o Fernando Mercês do [Mente Binária] me informar. A Vovó Vick era uma médica formada e começou a se interessar por computação e nunca mais parou. Ela publicou um livro sobre criptografia. Ela escreveu artigos e mais artigos sobre programação, sistema operacional, linguagem assembly e muito mais. Ela viveu o boom dos PCs como nós, jovens, mas ela já estava na terceira idade, o que se tornou um mero detalhe e curiosidade, já que o conteúdo de seu saite dá de dez a zero em muitos jovens apenas curiosos com a área ou querendo ganhar dinheiro. A Vovó mergulhou fundo na tecnologia. E é muito bom apenas saber disso. Uma pena não conhecê-la a tempo. Que faça boa viagem. E que nos encontremos em outras configurações da matéria e da energia.
+Segue aqui uma pequena nota de arrependimento por não saber da existência "deste saite" até o Fernando Mercês do "Mente Binária" me informar. A Vovó Vick era uma médica formada e começou a se interessar por computação e nunca mais parou. Ela publicou um livro sobre criptografia. Ela escreveu artigos e mais artigos sobre programação, sistema operacional, linguagem assembly e muito mais. Ela viveu o boom dos PCs como nós, jovens, mas ela já estava na terceira idade, o que se tornou um mero detalhe e curiosidade, já que o conteúdo de seu saite dá de dez a zero em muitos jovens apenas curiosos com a área ou querendo ganhar dinheiro. A Vovó mergulhou fundo na tecnologia. E é muito bom apenas saber disso. Uma pena não conhecê-la a tempo. Que faça boa viagem. E que nos encontremos em outras configurações da matéria e da energia.
 
-[deste saite]: http://www.numaboa.com.br
-[Mente Binária]: https://www.mentebinaria.com.br
 
 # El Porvenir: Laborum Malbec 2020
 date: 2023-06-06
@@ -90214,9 +89707,8 @@ date: 2023-06-06
 slug: el_porvenir_laborum_tannat
 tags: wine
 
-É revoltante o quão bom são os vinhos da El Porvenir. A agressividade dos taninos que lembram as uvas regadas a conta-gotas no meio de um deserto árido, arenoso e praticamente infértil se traduz em uma taça sempre memorável, e que de brinde remete a memórias da própria vinícola. A garrafa que bebo agora é um Tannat de 2019, ou seja, não traumatizado pela pandemia. A Finca é a El Retiro, a mais antiga da vinícola, plantada em 1945. Se trata de um terreno arenoso com poucas rochas. Pela idade das parreiras elas foram plantadas no [esquema pérgola]. Ele é ríspido, mas ainda frutado. O tanino raspa na boca e a envolve em um abraço que acolhe o paladar. Há tons vegetais e minerais na mesma taça. O teor alcoólico ainda é forte, mas faz parte da experiência completa.
+É revoltante o quão bom são os vinhos da El Porvenir. A agressividade dos taninos que lembram as uvas regadas a conta-gotas no meio de um deserto árido, arenoso e praticamente infértil se traduz em uma taça sempre memorável, e que de brinde remete a memórias da própria vinícola. A garrafa que bebo agora é um Tannat de 2019, ou seja, não traumatizado pela pandemia. A Finca é a El Retiro, a mais antiga da vinícola, plantada em 1945. Se trata de um terreno arenoso com poucas rochas. Pela idade das parreiras elas foram plantadas no "esquema pérgola". Ele é ríspido, mas ainda frutado. O tanino raspa na boca e a envolve em um abraço que acolhe o paladar. Há tons vegetais e minerais na mesma taça. O teor alcoólico ainda é forte, mas faz parte da experiência completa.
 
-[esquema pérgola]: https://pt.wikipedia.org/wiki/P%C3%A9rgula
 
 # OnBoarding no baixo nível
 date: 2023-06-06
@@ -90241,55 +89733,55 @@ O WDK é o SDK para kernel mode. Lá haverá libs e headers também, mas mais fo
 
 Sem WinDbg a vida fica um pouco mais triste. Dentro do pacote Debugging Tools há ele e suas variantes, como o kd, ntsd e cdb. Também há o gflags, para setar várias flags importantíssimas na depuração do sistema operacional, e uma documentação bem extensa para desenvolver scripts e extensões para depuração, além de outras coisas mais, como um servidor de símbolos.
 
-## [x64dbg]
+## "x64dbg"
 
 Não conhecia este depurador. Ele é fonte aberto, o que já é interessante. Baixei e pretendo olhar mais de perto. Jurava que iriam me sugerir o OllyDbg pelo livro que estou lendo de reversa. Este carinha deve ter sido lançado após o livro.
 
-## [PeTools]
+## "PeTools"
 
 Uma ferramenta de análise de PE, ou Portable Executable, o formato dos EXEs e DLLs do Windows. Eu particularmente uso o DumpBin, mas vou dar uma olhada nesta recomendação que deve agilizar um pouco as análises.
 
-## [Resource Hacker]
+## "Resource Hacker"
 
 Usava esse carinha há muitíssimo tempo atrás, para uma tarefa não-nobre: editar na mão os resources pós-compilados do C++ Builder porque ele vivia cheio de bugs. Ah, e também manipular chaves criptográficas guardadas nos resources. Ele também é bem legal para achar novos ícones e incrementar seu computador, além de um ótimo editor de strings.
 
-## [WinMerge]
+## "WinMerge"
 
 Eu já tentei usar o Vim no modo de comparação, mas WinMerge para Windows não se compara. Ele é simples e eficiente. Mantenho apenas o executável no meu cinto de utilidades e ele consegue se virar para pastas inteiras. Suas configurações permitem ignorar detalhes como final de linha e indentação.
 
-## [HxD]
+## "HxD"
 
 Um editor hexa que virou queridinho depois que um colega da Open me apresentou. Ele é daqueles um executável apenas que faz todo o serviço de mostrar dados em hexadecimal de qualquer arquivo ou mesmo da memória (ou do disco).
 
-## [Sysinternals Suite]
+## "Sysinternals Suite"
 
 Não vou perder tempo descrevendo cada uma das fantásticas ferramentas da SysInternals, então tomaí: um toolkit cheio delas.
 
-## [RegShot]
+## "RegShot"
 
 Não conhecia este aqui e fiquei muito empolgado. Ele faz comparação entre registros! Imagina a maravilha que isso será para alguns de meus projetos que envolvem diretivas de acesso...
 
-## [Wireshark]
+## "Wireshark"
 
 Essencial para analisar tráfego de rede no detalhe, já me quebrou muitos galhos quando precisava entender erros de comunicação com a bolsa de valores. Sim, eles também erram. Quem diria.
 
-## [ArtMoney]
+## "ArtMoney"
 
 Este é um scanner de memória feito para aplicar patches em jogos. Que feio! Porém, para um reverseiro pode ser útil para encontrar padrões e reconhecer comportamento.
 
-## [Guidra] (update 2023-07-13)
+## "Guidra" (update 2023-07-13)
 
-Guidra é uma suite de ferramentas de engenharia reversa desenvolvida pela NSA (agência americana de segurança). Ele é [fonte aberto] e permite desenvolver programas acessórios para análise dos programas incluídos em um projeto. No entanto, com o que já está disponível é possível escarafunchar o Portable Executable, diversas estruturas de dados e um decompilador simples e intuitivo de se mexer.
+Guidra é uma suite de ferramentas de engenharia reversa desenvolvida pela NSA (agência americana de segurança). Ele é "fonte aberto" e permite desenvolver programas acessórios para análise dos programas incluídos em um projeto. No entanto, com o que já está disponível é possível escarafunchar o Portable Executable, diversas estruturas de dados e um decompilador simples e intuitivo de se mexer.
 
-## [IDA]
+## "IDA"
 
 IDA é um disassembler que brilha na análise estática. Ele ajuda muito a reconstruir código-fonte ou entender comportamento de funções inteiras apenas lendo o assembly e os nomes sugestivos dos calls e jumps que a ferramenta lhe fornece.
 
-## [ComOleViewDotNet]
+## "ComOleViewDotNet"
 
 Para quem faz reversa de componentes COM ou WinRT e até UWP apps essa ferramenta vai ser muito útil. Ela lista as classes, interfaces e tipos registrados na máquina.
 
-## [ShareX]
+## "ShareX"
 
 Esta é uma ferramenta para gerar screenshots e vídeos, ou seja, gerar evidência. Qualquer uma na verdade serve, mas essa foi a sugestão do colega e pretendo guardar aqui.
 
@@ -90297,7 +89789,7 @@ Esta é uma ferramenta para gerar screenshots e vídeos, ou seja, gerar evidênc
 
 Virtualizar o Windows é essencial para instalar drivers instáveis, analisar telas azuis e o comportamento do sistema como um todo, do user mode ao kernel. Portanto, trate de arrumar algumas das soluções disponíveis. Eu uso VMWare desde que foi lançada e já comprei algumas licenças de novas versões dos caras, porque eles são foda. Você pode usar também VirtualBox ou outras por aí. O importante é virtualizar.
 
-Por falar nisso, é importante lembrar que o Windows 11 requer um chip de TPM 2.0 disponível para ser instalado, e por isso você irá precisar do VMWare 17 ou superior. Se atente a [este guia de instalação] para conseguir rodar o Win11 virtualizado.
+Por falar nisso, é importante lembrar que o Windows 11 requer um chip de TPM 2.0 disponível para ser instalado, e por isso você irá precisar do VMWare 17 ou superior. Se atente a "este guia de instalação" para conseguir rodar o Win11 virtualizado.
 
 ## Remote Debugging
 
@@ -90311,7 +89803,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\Rem
 
 Para instalar na máquina guest tudo que você precisa é copiar essas pastas e rodar qualquer um dos msvsmon.exe disponíveis. Rode pelo menos uma vez para acertar a porta no Firewall do Windows. Depois disso pode rodar como tarefa automática.
 
-Eu acho muito útil configurar um serviço que rode o msvsmon, de forma que mesmo antes de logar já é possível depurar programas. Para isso eu uso uma outra ferramenta fantástica, o [NSSM], mas qualquer outra ferramenta que transforme um programa em serviço já serve.
+Eu acho muito útil configurar um serviço que rode o msvsmon, de forma que mesmo antes de logar já é possível depurar programas. Para isso eu uso uma outra ferramenta fantástica, o "NSSM", mas qualquer outra ferramenta que transforme um programa em serviço já serve.
 
 Usando o NSSM configure o programa Msvsmon para rodar como um serviço. Aqui está uma configuração bem direta, sem autenticação, para usar o msvsmon através do nssm:
 
@@ -90339,22 +89831,6 @@ Isso irá criar uma segunda opção de boot que irá aparecer quando ligar a má
 
 Agora começa a diversão =).
 
-[este guia de instalação]: https://www.digitalcitizen.life/install-windows-11-virtual-machine/
-[x64dbg]: https://x64dbg.com/
-[PeTools]: https://github.com/petoolse/petools/releases
-[Resource Hacker]: http://angusj.com/resourcehacker/
-[WinMerge]: https://winmerge.org/
-[HxD]: https://mh-nexus.de/en/hxd/
-[Sysinternals Suite]: https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
-[RegShot]: https://sourceforge.net/projects/regshot/
-[Wireshark]: https://www.wireshark.org/
-[ArtMoney]: https://artmoney.ru/
-[Guidra]: https://ghidra-sre.org/
-[fonte aberto]: https://github.com/NationalSecurityAgency/ghidra
-[IDA]: https://hex-rays.com/ida-free/
-[ComOleViewDotNet]: https://github.com/tyranid/oleviewdotnet
-[ShareX]: https://getsharex.com/
-[NSSM]: https://nssm.cc/download
 
 # Usando Awk para gerar sites e medidas de performance
 date: 2023-06-15
@@ -90437,7 +89913,7 @@ LockSemaphore      = 0xFFFFFFFF
 SpinCount          = 0x00000000020007d0
 ```
 
-The moment the dump was generated the thread that had acquired this cs was inside the same function `OsfIdentityManager::EnsureInit` and several frames above was calling the native API `ntdll!NtQueryFullAttributesFile`, when I discovered that this application is using [Microsoft Application Virtualization] based on the hook it was installed:
+The moment the dump was generated the thread that had acquired this cs was inside the same function `OsfIdentityManager::EnsureInit` and several frames above was calling the native API `ntdll!NtQueryFullAttributesFile`, when I discovered that this application is using "Microsoft Application Virtualization" based on the hook it was installed:
 
 ```
 . 58  Id: 661c.18e9c Suspend: -1 Teb: 0000003c`34078000 Unfrozen
@@ -90468,7 +89944,6 @@ Considering that that is the thread that is locking the cs that is freezing othe
 
 Two main commands used in WinDbg for the analysis was `!uniqstack` to show the... unique stacks in the process, and `!cs`, to show all critical sections and its states.
 
-[Microsoft Application Virtualization]: https://learn.microsoft.com/en-us/windows/application-management/app-v/appv-getting-started
 
 # Debugging a non signed driver in Windows 10
 date: 2023-06-15
@@ -90504,11 +89979,10 @@ Este causo contém mais insights sobre a sociedade em que vivemos do que este fi
 date: 2023-06-15
 tags: english
 
-This is the VPN solution used in the project I am working on, a simple and secure packet distribution and controlled by the IP addresses configured for each peer. There is a very nice example in [the home of WireGuard project].
+This is the VPN solution used in the project I am working on, a simple and secure packet distribution and controlled by the IP addresses configured for each peer. There is a very nice example in "the home of WireGuard project".
 
 "In other words, when sending packets, the list of allowed IPs behaves as a sort of routing table, and when receiving packets, the list of allowed IPs behaves as a sort of access control list. This is what we call a Cryptokey Routing Table: the simple association of public keys and allowed IPs."
 
-[the home of WireGuard project]: https://www.wireguard.com/
 
 # Multiple peers Wireguard calculation
 date: 2025-04-30
@@ -91193,30 +90667,22 @@ Grãos torrados de forma lenta mostram uma intensidade maior nos atributos senso
 
 - The Craft and Science of Coffee (Folmer, Britta)
 
-- [What Happens During Coffee Roasting: The Chemical Changes]
+- "What Happens During Coffee Roasting: The Chemical Changes"
 
-- [A Beginner’s Guide to Roasting Great Coffee at Home]
+- "A Beginner’s Guide to Roasting Great Coffee at Home"
 
-- [Honey processing: everything you need to know]
+- "Honey processing: everything you need to know"
 
-- [Washed, Natural, Honey: Coffee Processing 101]
+- "Washed, Natural, Honey: Coffee Processing 101"
 
-- [Acidic Coffees: A Brew & Roast Guide]
+- "Acidic Coffees: A Brew [Acidic Coffees: A Brew & Roast Guide] Roast Guide"
 
-- [A Roaster’s Guide to Creating Coffee Blends]
+- "A Roaster’s Guide to Creating Coffee Blends"
 
-- [Blending Coffee Through Molecular Analysis]
+- "Blending Coffee Through Molecular Analysis"
 
-- [Physical changes coffee beans experience during roasting]
+- "Physical changes coffee beans experience during roasting"
 
-[What Happens During Coffee Roasting: The Chemical Changes]: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-chemical-changes/
-[A Beginner’s Guide to Roasting Great Coffee at Home]: https://perfectdailygrind.com/2020/05/a-beginners-guide-to-roasting-great-coffee-at-home/
-[Honey processing: everything you need to know]: https://perfectdailygrind.com/2015/09/everything-you-need-to-know-about-honey-processing/
-[Washed, Natural, Honey: Coffee Processing 101]: https://perfectdailygrind.com/2016/07/washed-natural-honey-coffee-processing-101/
-[Acidic Coffees: A Brew & Roast Guide]: https://perfectdailygrind.com/2018/05/why-are-some-coffees-more-acidic-than-others-a-brew-roast-guide/
-[A Roaster’s Guide to Creating Coffee Blends]: https://perfectdailygrind.com/2018/05/a-roasters-guide-to-creating-coffee-blends/
-[Blending Coffee Through Molecular Analysis]: https://perfectdailygrind.com/2018/07/blending-coffee-through-molecular-analysis/
-[Physical changes coffee beans experience during roasting]: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-physical-changes/
 
 # Black Mirror: Peidada na Farofa
 date: 2023-07-01
@@ -91276,18 +90742,14 @@ Com base nisso foi montada esta mostra, com parceria da Fundação Japão.
 
 Alguns textos sobre alguns filmes:
 
-- [Assunto de Família]
+- "Assunto de Família"
 
-- [Depois da Tempestade]
+- "Depois da Tempestade"
 
-- [Era uma Vez em Tóquio]
+- "Era uma Vez em Tóquio"
 
-- [Ninguém Pode Saber]
+- "Ninguém Pode Saber"
 
-[Assunto de Família]: http://www.caloni.com.br/assunto-de-familia/
-[Depois da Tempestade]: http://www.caloni.com.br/depois-da-tempestade/
-[Era uma Vez em Tóquio]: http://www.caloni.com.br/era-uma-vez-em-toquio/
-[Ninguém Pode Saber]: http://www.caloni.com.br/ninguem-pode-saber/
 
 # El Porvenir Laborum de Parcela Malbec 2020
 date: 2023-07-15
@@ -91347,9 +90809,9 @@ link: https://youtu.be/HYkG4ZG7lxU
 slug: reversing_no_telegram
 tags: computer reversing_tag blog
 
-Olá, pessoas do Telegrão que entraram [no canal]. Bora começar a fazer baixarias pra ver se anima? Bom, acho que a primeira coisa que todo reversing de computador precisa fazer é gerar sua primeira telinha azul com uma poesia. Vamos lá?
+Olá, pessoas do Telegrão que entraram "no canal". Bora começar a fazer baixarias pra ver se anima? Bom, acho que a primeira coisa que todo reversing de computador precisa fazer é gerar sua primeira telinha azul com uma poesia. Vamos lá?
 
-Primeiro passo: configurar para [gerar tela azul em seu computador].
+Primeiro passo: configurar para "gerar tela azul em seu computador".
 
 Segundo passo: na hora de gerar a tela azul é importante que seja gerado um dump de memória (no português: despejo de memória). E é importante que seja gerado da memória completa. Do contrário nossa poesia pode não estar lá.
 
@@ -91392,13 +90854,13 @@ Bom, é o que eu acho. Para saber se isso é verdade podíamos digitar algum tex
 
 Veremos.
 
-O arquivo de dump gerado deverá ter o mesmo tamanho da memória RAM. Com a ajuda de algum programa que encontre strings em binários vamos fazer uma busca pela poesia. Pode ser o programa [Strings], da SysInternals.
+O arquivo de dump gerado deverá ter o mesmo tamanho da memória RAM. Com a ajuda de algum programa que encontre strings em binários vamos fazer uma busca pela poesia. Pode ser o programa "Strings", da SysInternals.
 
 ```
 strings.exe MEMORY.DMP
 ```
 
-Uma outra opção seria abrir o arquivo em um editor hexadecimal como o [HxD] e buscar pela string.
+Uma outra opção seria abrir o arquivo em um editor hexadecimal como o "HxD" e buscar pela string.
 
 É, no meu caso a busca do HxD deu mais boa. Pera...
 
@@ -91408,10 +90870,6 @@ Achou.
 
 Acho que é isso. Bem-vindo ao grupo! E se quiser conversar sobre o assunto, outros assuntos, dúvidas técnicas, etc. Fique à vontade. De bits e bytes até moléculas de café, reversing é sobre isso =)
 
-[no canal]: https://t.me/reversingclubc
-[gerar tela azul em seu computador]: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/forcing-a-system-crash-from-the-keyboard
-[Strings]: https://learn.microsoft.com/en-us/sysinternals/downloads/strings
-[HxD]: https://mh-nexus.de/en/hxd/
 
 # Bom Dia
 date: 2023-07-21
@@ -91669,7 +91127,7 @@ Esse foi o maior economizador de tempo. Gerar 4000 novas entradas no file system
 
 A tradução do site para awk levou no total uns dois dias. A ideia foi copiar o HTML gerado pelo Hugo e fazer os mapeamentos de data, tags e estruturas de listagem no awk, que lida com isso através de seus arrays dinâmicos com muita facilidade e rapidez.
 
-Um ponto de atenção aos novatos do awk que eu destacaria dessa experiência é sobre as variáveis. Exceto os argumentos de funções, todas as variáveis são globais, o que pode dar alguns pesadelos quando há mais de um uso do mesmo nome, especialmente quando há diferença entre tipos escalares e arrays. Se eu fosse fazer do zero novamente eu não economizaria na largura dos nomes e nos prefixos, como g_ para denotar as globais. Um truque muito bom do awk também é declarar variáveis da função como parâmetros que não são recebíveis pelo chamador. Há [uma convenção] de separar por espaços os parâmetros reais dos locais.
+Um ponto de atenção aos novatos do awk que eu destacaria dessa experiência é sobre as variáveis. Exceto os argumentos de funções, todas as variáveis são globais, o que pode dar alguns pesadelos quando há mais de um uso do mesmo nome, especialmente quando há diferença entre tipos escalares e arrays. Se eu fosse fazer do zero novamente eu não economizaria na largura dos nomes e nos prefixos, como g_ para denotar as globais. Um truque muito bom do awk também é declarar variáveis da função como parâmetros que não são recebíveis pelo chamador. Há "uma convenção" de separar por espaços os parâmetros reais dos locais.
 
 De resto, agora tenho a liberdade de renderizar meu blogue em questão de segundos. Aposentei a estrutura do Hugo e estou usando awk para gerar tanto o blogue quanto o ebook.
 
@@ -91677,7 +91135,6 @@ Não achei justo fazer benchmarks de comparação com o Hugo pelo motivo do file
 
 Além disso, awk me dará a liberdade que gostaria de indexar pesadamente meus textos com o poder dos arrays associativos de awk. Já conhecia eles do PHP, mas agora que conheci os do awk estou pensando seriamente em adotar para outros tipos de tratamento de texto. Talvez até use para minhas finanças pessoais.
 
-[uma convenção]: https://www.gnu.org/software/gawk/manual/gawk.html#Variable-Scope
 
 # Explorando a HSTRING
 date: 2023-08-21
@@ -91766,9 +91223,8 @@ struct HSTRING {
 };
 ```
 
-Para mais detalhes do uso dessa string dê uma olhada no ótimo [artigo de Raymond Chen].
+Para mais detalhes do uso dessa string dê uma olhada no ótimo "artigo de Raymond Chen".
 
-[artigo de Raymond Chen]: https://devblogs.microsoft.com/oldnewthing/20160615-00/?p=93675
 
 # Muitos animes, lugares e séries
 date: 2023-08-28
@@ -91910,7 +91366,7 @@ tags: cinema animes
 
 A Mitiko começou a assistir este anime e dei uma olhada rápida. Minha primeira impressão foi que ele emula trabalhos clássicos com um estilo que se torna chato rápido, mas para espectadores medíocres pode ser muito bom (eu sou um deles). E tá na moda! A trilha sonora dos créditos finais lembra a de "Odd Táxi" higienizada ou mais elegante por ser menos boêmia.
 
-Quando fui comentar no Telegrão ficou confuso diferenciar um meme que mandei junto do meu comentário, que era mais sobre o meme brincar com a narrativa slice of life e menos sobre minhas impressões, que acreditava não se encaixar no gênero (o que explicaria o meme). Porém, como me fizeram lembrar, no anime e no mangá slice of life é mais que um método narrativo: [é de fato um gênero]. E de quebra descobri que eu gosto muito desse gênero!
+Quando fui comentar no Telegrão ficou confuso diferenciar um meme que mandei junto do meu comentário, que era mais sobre o meme brincar com a narrativa slice of life e menos sobre minhas impressões, que acreditava não se encaixar no gênero (o que explicaria o meme). Porém, como me fizeram lembrar, no anime e no mangá slice of life é mais que um método narrativo: "é de fato um gênero". E de quebra descobri que eu gosto muito desse gênero!
 
 - "Don't Toy with Me, Miss Nagatoro"
 
@@ -91930,7 +91386,6 @@ Por exemplo, não chega a ser uma referência 100% britânica, porque os automó
 
 Os personagens principais bastam para manter a ação se desenrolando ad infinitum. As caras que a menininha faz são engraçadas na medida certa. Nós somos levados a enxergar o mundo sob o viés de uma criança muito nova, e se torna divertidíssimo ainda que óbvio. A mãe é charmosa, linda e classuda. Seu drama é a insegurança que sente em não conseguir ser a mãe e esposa perfeita; suas expressões são mais esquemáticas, mas nunca repetitivas. O pai é um recluso distraído que está apenas fazendo seu trabalho; à beira de virar poeira pelos becos e esquinas, sua ignorância é sua piada recorrente.
 
-[é de fato um gênero]: https://pt.wikipedia.org/wiki/Slice_of_life#Na_cultura_japonesa
 
 # Tire 5 Cartas
 date: 2023-09-04
@@ -91979,7 +91434,7 @@ Se você está nesse passo ótimo, quer dizer que consegue, pelo menos algumas v
 
 E quando eu digo automatizar não quero que você faça um programa que faça o bug aparecer. Basta uma lista com um passo a passo em que o comportamento que não deveria estar no sistema consegue ser gerado.
 
-Se houver muitos passos fica difícil entender onde está o problema, e é por isso que nesta tarefa além de automação está o item simplificar. Um estudo sobre o princípio da [Navalha de Ockham] deve ajudar.
+Se houver muitos passos fica difícil entender onde está o problema, e é por isso que nesta tarefa além de automação está o item simplificar. Um estudo sobre o princípio da "Navalha de Ockham" deve ajudar.
 
 ## 4. [F]ind infection Origins
 
@@ -92007,7 +91462,6 @@ Claro que pode se tratar de um bug conceitual, de arquitetura, o que vai exigir 
 
 Obrigado, e até o próximo bug.
 
-[Navalha de Ockham]: https://pt.wikipedia.org/wiki/Navalha_de_Ockham
 
 # UWP apps não funcionam com proxy de loopback (resolvido)
 date: 2023-09-07
@@ -92269,9 +91723,8 @@ tags: reversing_tag windbg
 
 Esta dica é para começar uma análise de reversa quando você deseja entender quais informações estão sendo trafegadas por uma chamada COM remota, ou seja, entre processos distintos. Isso vale para WinRT e para o COM tradicional. De uma forma ou de outra a chamada irá passar por `combase!NdrExtpProxySendReceive` e outras funções de RPC relacionadas, além das novas funções de ALPC, em especial `ntdll!NtAlpcSendWaitReceivePort`. Existem várias de marshaling e unmarshaling, mas o mais importante é centralizar na função que envia e recebe bytes e analisar estes bytes. Eles são a versão serializada dos parâmetro sendo trafegados.
 
-Outra informação útil ao colocar um breakpoint nesta função é a stack, que vai informar de onde veio a construção ou descontrução dos parâmetros. Existe a informação do número da procedure também, que aliada ao interface ID sendo chamado pode junto com "OleViewDotNet" dar informações de qual a assinatura do método sendo chamada. Uma passada pelo [IDA] pode ajudar também em entender o código. Exige conhecimentos de assembly e convenção de chamada.
+Outra informação útil ao colocar um breakpoint nesta função é a stack, que vai informar de onde veio a construção ou descontrução dos parâmetros. Existe a informação do número da procedure também, que aliada ao interface ID sendo chamado pode junto com "OleViewDotNet" dar informações de qual a assinatura do método sendo chamada. Uma passada pelo "IDA" pode ajudar também em entender o código. Exige conhecimentos de assembly e convenção de chamada.
 
-[IDA]: https://hex-rays.com/ida-free/
 
 # Beginning Mathematical Logic: A Study Guide, de Peter Smith
 date: 2023-10-03
@@ -92411,7 +91864,7 @@ Ou mude o RIP diretamente ☠️
 date: 2023-10-05
 tags: reversing_tag windbg
 
-Quando analisando o comportamento de programas Windows que usam winrt é sempre útil dar uma olhada nas classes sendo ativadas. Uma função-chave para isso é a [RoGetActivationFactory]:
+Quando analisando o comportamento de programas Windows que usam winrt é sempre útil dar uma olhada nas classes sendo ativadas. Uma função-chave para isso é a "RoGetActivationFactory":
 
 ```
 // Gets the activation factory for the specified runtime class.
@@ -92423,7 +91876,7 @@ HRESULT RoGetActivationFactory(
 );
 ```
 
-Sabendo como [obter a string raw de uma HSTRING] basta colocar um breakpoint no WinDbg que imprima esta string e siga vazando:
+Sabendo como "obter a string raw de uma HSTRING" basta colocar um breakpoint no WinDbg que imprima esta string e siga vazando:
 
 ```
 bp combase!_RoGetActivationFactory "du poi(@rcx+0x10) ; g"
@@ -92477,8 +91930,6 @@ Windows.Storage.Streams.DataReader
 
 Note que há classes internas e classes documentadas. Ou seja, há diversão dos dois lados.
 
-[RoGetActivationFactory]: https://learn.microsoft.com/en-us/windows/win32/api/roapi/nf-roapi-rogetactivationfactory
-[obter a string raw de uma HSTRING]: hstring
 
 # Uma Fada Veio me Visitar
 date: 2023-10-06
@@ -92699,7 +92150,7 @@ Com essa informação podemos colocar um breakpoint na NtLoadKeyEx e saber onde 
 breakpoint hit!
 ```
 
-Vendo algumas definições em [docs] na net:
+Vendo algumas definições em "docs" na net:
 
 ```
 NTSYSCALLAPI NTSTATUS NTAPI NtLoadKeyEx(POBJECT_ATTRIBUTES TargetKey,
@@ -92749,7 +92200,6 @@ ActivationStore.dat"
 
 Podemos copiar este arquivo em um Windows com direitos de administração, abrir o regedit, abrir a chave USERS e escolher a opção "Load hive". Selecione o arquivo e voilà.
 
-[docs]: https://processhacker.sourceforge.io/doc/ntregapi_8h.html#aa4c6abc699a9c60acbfdc0fd4a229215
 
 # Winnie the Pooh: Blood and Honey
 date: 2023-11-04
@@ -93792,22 +93242,18 @@ tags: wine
 
 Na última viagem à Argentina fiquei interessado em variar de casta e portanto abandonei o Malbec por um tempo. Pedi nas casas de vinhos alguns exemplares de Bonarda para entender melhor a fruta.
 
-O primeiro que abri foi este da [Paso a Paso], 2019, da linha Vinos de Garage. São microlotes pensados aos poucos por enólogos que desejam produzir vinhos com o mínimo de intervenção, como a adição do carvalho. O Bonarda desse vinho é bem azedo, mas ao decorrer dos dias ele foi ficando mais azedo ainda, apesar de menos alcoólico. Ele é gostoso para beber sozinho. Ele lembra o azedo do Burbujas de Altura, de Cafayate, mas que azedou, que acho que estava estragado, mas tudo bem. Nesse da Paso a Paso há um frescor além do azedo, e tons muito vibrantes.
+O primeiro que abri foi este da "Paso a Paso", 2019, da linha Vinos de Garage. São microlotes pensados aos poucos por enólogos que desejam produzir vinhos com o mínimo de intervenção, como a adição do carvalho. O Bonarda desse vinho é bem azedo, mas ao decorrer dos dias ele foi ficando mais azedo ainda, apesar de menos alcoólico. Ele é gostoso para beber sozinho. Ele lembra o azedo do Burbujas de Altura, de Cafayate, mas que azedou, que acho que estava estragado, mas tudo bem. Nesse da Paso a Paso há um frescor além do azedo, e tons muito vibrantes.
 
-A segunda garrafa foi este [Las Tortugas Estate], de 2020, da Nieto Senetiner, mais conhecida no Brasil por vinhos industriais. Este Bonarda é completamente diferente do anterior. Não é azedo e seu aroma é enebriante, muito mais que o sabor, que lembra coisas que são mais cheiradas que bebidas, como charuto, mas também embutidos. Há um equilíbrio de acidez perene na boca e uma personalidade forte. Não é para amadores. Aroma e paladar são distintos. Ficou 12 meses em carvalho francês e 6 meses em guarda na garrafa. A safra deste ano foi atípica por causa dos fatores climáticos e hídricos com a antecipação da colheita em 10 a até quase um mês (4 de abril). Da região de Agrelo da Finda Las Tortugas (daí o nome). O fechamento em cera da rolha me fez cortar o dedo.
+A segunda garrafa foi este "Las Tortugas Estate", de 2020, da Nieto Senetiner, mais conhecida no Brasil por vinhos industriais. Este Bonarda é completamente diferente do anterior. Não é azedo e seu aroma é enebriante, muito mais que o sabor, que lembra coisas que são mais cheiradas que bebidas, como charuto, mas também embutidos. Há um equilíbrio de acidez perene na boca e uma personalidade forte. Não é para amadores. Aroma e paladar são distintos. Ficou 12 meses em carvalho francês e 6 meses em guarda na garrafa. A safra deste ano foi atípica por causa dos fatores climáticos e hídricos com a antecipação da colheita em 10 a até quase um mês (4 de abril). Da região de Agrelo da Finda Las Tortugas (daí o nome). O fechamento em cera da rolha me fez cortar o dedo.
 
-[Paso a Paso]: https://pasoapasowines.com.ar
-[Las Tortugas Estate]: https://www.nietosenetiner.com.ar/vinos/single-vineyard/las-tortugas-estate-bonarda/
 
 # Os dividendos do café
 date: 2024-03-30
 slug: dividendo_cafe
 tags: coffee
 
-O café da [Dividendo Café], que achamos no dia do aniversário da Mitiko [em Mauá], está um pouco mais azedo essa semana. Ele não era tanto semana passada. Agora veio uma doçura bem agradável. Foram dias interessantes passando este café. O bom do lugar é que é uma microtorrefação e o dono faz as torras. Os dois espressos provados por lá estavam sensacionais. Para mim este é o novo crème de la crème dos cafés especiais: ir em uma microtorrefação em que as torras são pequenas e precisas, de acordo com a personalidade do mestre torrador. Os cafezes que conheci de marca ou dos mais popularzinhos como Coffee Lab ou Por Um Punhado de Dólares não chegam próximo do cuidado desses lugares menores. Café é um assunto que exige detalhes além da capacidade de um simples negócio. Não adianta jogar um monte de funcionários para trabalhar uma torra, por melhor que ela seja. Talvez apenas com bons e dedicados baristas, o que é difícil de achar se você precisa escalar os negócios. Coffee Lab é gigante se comparado a uma microtorrefação e Por Um Punhado é uma franquia. Eu vi os barris de café disponíveis na cafeteria do centro, mas o espresso que provei de lá não chegava próximo de um especial, mas de um comunzinho de rede. Possui as notas de azedo que tanto as pessoas gostam hoje em dia, mas insosso no corpo e um amargor desagradável. Achei o mesmo quando fui no Coffe Lab apenas pelo espresso. Da série de bons lugares porque têm bons baristas vem um café próximo da estação Fradique Coutinho, o Coffee Walk. Bom pão de queijo e café bem sincero. Revisitaria.
+O café da "Dividendo Café", que achamos no dia do aniversário da Mitiko "em Mauá", está um pouco mais azedo essa semana. Ele não era tanto semana passada. Agora veio uma doçura bem agradável. Foram dias interessantes passando este café. O bom do lugar é que é uma microtorrefação e o dono faz as torras. Os dois espressos provados por lá estavam sensacionais. Para mim este é o novo crème de la crème dos cafés especiais: ir em uma microtorrefação em que as torras são pequenas e precisas, de acordo com a personalidade do mestre torrador. Os cafezes que conheci de marca ou dos mais popularzinhos como Coffee Lab ou Por Um Punhado de Dólares não chegam próximo do cuidado desses lugares menores. Café é um assunto que exige detalhes além da capacidade de um simples negócio. Não adianta jogar um monte de funcionários para trabalhar uma torra, por melhor que ela seja. Talvez apenas com bons e dedicados baristas, o que é difícil de achar se você precisa escalar os negócios. Coffee Lab é gigante se comparado a uma microtorrefação e Por Um Punhado é uma franquia. Eu vi os barris de café disponíveis na cafeteria do centro, mas o espresso que provei de lá não chegava próximo de um especial, mas de um comunzinho de rede. Possui as notas de azedo que tanto as pessoas gostam hoje em dia, mas insosso no corpo e um amargor desagradável. Achei o mesmo quando fui no Coffe Lab apenas pelo espresso. Da série de bons lugares porque têm bons baristas vem um café próximo da estação Fradique Coutinho, o Coffee Walk. Bom pão de queijo e café bem sincero. Revisitaria.
 
-[Dividendo Café]: https://www.instagram.com/dividendocafe/
-[em Mauá]: https://maps.app.goo.gl/x5QRhWMSdzB8h9h28
 
 # Mantendo carteiras BTC de forma segura
 date: 2024-03-30
@@ -94918,7 +94364,7 @@ PS: eita, lembrei que cheguei a fazer na italiana:
 date: 2024-07-11
 tags: books body quotes
 
-Lendo este livro indicado em algum [podcast da Tribo Forte]. Também coletando outras opiniões, como o famoso [artigo do The Guardian] desbancando 18 argumentos a favor de comer carne; este assunto parece espinhoso na comunidade científica ou é apenas fumaça da mídia?
+Lendo este livro indicado em algum podcast da "Tribo Forte". Também coletando outras opiniões, como o famoso "artigo do The Guardian" desbancando 18 argumentos a favor de comer carne; este assunto parece espinhoso na comunidade científica ou é apenas fumaça da mídia?
 
 ## Como medir a força de uma pesquisa:
 
@@ -95146,7 +94592,6 @@ The problem is not technological, moral, or even genetic (although some hardwire
 
 - We have outlined in chapter seventeen what our recommendations are for an optimal diet template, but for a deeper dive on nutrient density, comparing meat-rich, omnivore, and vegan diets, please visit https://www.sacredcow.info/blog/what-if-we-all-went-plant-based.
 
-[artigo do The Guardian] https://www.theguardian.com/environment/2020/jun/19/why-you-should-go-animal-free-arguments-in-favour-of-meat-eating-debunked-plant-based[podcast da Tribo Forte]: https://triboforte.com.br/podcasts/
 
 # Petnat Rosado Malbed (Burbujas de Altura)
 date: 2024-05-25
@@ -95184,15 +94629,11 @@ tags: cinema animes food
 
 Pensei que havia escrito um post sobre este anime. Devo ter me entretido demais comendo lámen durante os episódios. Bom, agora é importante delinear onde estão esses locais.
 
-O artigo "Visiting the Real Life Ramen Restaurants from Ms. Koizumi Loves Ramen Noodles [Part 1]" traça um paralelo entre o desenho e a fachada e detalhes das casas de rámen visitadas no anime. Ele criou [um mapa] para se localizar na região metropolitana de Tóquio. E existe uma parte 2, também. E com [outro mapa].
+O artigo "Visiting the Real Life Ramen Restaurants from Ms. Koizumi Loves Ramen Noodles [Part 1]" traça um paralelo entre o desenho e a fachada e detalhes das casas de rámen visitadas no anime. Ele criou "um mapa" para se localizar na região metropolitana de Tóquio. E existe uma parte 2, também. E com "outro mapa".
 
-Agora deixe-me atualizar este texto e dizer que eu fui em algum desses lugares. Eu fiz um outro mapa com [o roteiro dos lámens] e uma [planilha com os lámens-alvo de cada visita]. Foi o experimento mais importante para mim na visita ao Japão. Visitei várias regiões e delas extraí o melhor que o anime (ou o mangá) de Koizumi San nos apresentou.
+Agora deixe-me atualizar este texto e dizer que eu fui em algum desses lugares. Eu fiz um outro mapa com "o roteiro dos lámens" e uma "planilha com os lámens-alvo de cada visita". Foi o experimento mais importante para mim na visita ao Japão. Visitei várias regiões e delas extraí o melhor que o anime (ou o mangá) de Koizumi San nos apresentou.
 
-[um mapa]: https://www.google.com/maps/d/u/0/viewer?mid=11clYUiTza6RsYE27SvO8tstlGIbPNZcC&femb=1&ll=35.868893993265885%2C139.84198475&z=10
 parte 2: https://www.crunchyroll.com/news/features/2018/3/20/visiting-the-real-life-ramen-restaurants-from-ms-koizumi-loves-ramen-noodles-part-2
-[outro mapa]: https://www.google.com/maps/d/u/0/edit?mid=1ofPI9mpynO0DgyXc6rVY2Q9hbUGwSOk&ll=35.86694435620668%2C139.84198475&z=10
-[o roteiro dos lámens]: https://maps.app.goo.gl/xxx5SnQKkkjBj29J7
-[planilha com os lámens-alvo de cada visita]: https://docs.google.com/spreadsheets/d/e/2PACX-1vTwAsEAy-27xOWPokzSt49oUhnyAx0UW2npQAOi6dgTU5hkOOhvDhvD5POJMteyYuQfVcrQfyrRRsU3/pubhtml
 
 # Confissões sobre jejum
 date: 2024-05-31
@@ -95861,7 +95302,7 @@ date: 2024-07-15
 
 Tentei por um tempo assimilar a ideia de usar o formato asciidoc como o padrão para meu novo arquivo-fonte do blog e de futuros livros. O racional era óbvio: feito para a escrita de documentos mais complexos, Asciidoc seria uma mudança para longo prazo, muito mais robusta que Markdown e suas mil e uma versões.
 
-No entanto, minha última leitura do padrão para começar a transformar o texto me fez realizar que este padrão está bem longe de ser adotado de fato. Ele é bom apenas na teoria, mas na prática todas ferramentas e ambientes usam Markdown como o idioma franco. Não exatamente à toa. Ele já estava sendo construído ao longo de milhares de mensagens na usenet antes mesmo do HTML ter sido criado. Ele é simples e pode ser implementado em apenas um arquivo perl (como foi no início). E ele está pronto para ter uma definição não-ambígua, o [CommonMark].
+No entanto, minha última leitura do padrão para começar a transformar o texto me fez realizar que este padrão está bem longe de ser adotado de fato. Ele é bom apenas na teoria, mas na prática todas ferramentas e ambientes usam Markdown como o idioma franco. Não exatamente à toa. Ele já estava sendo construído ao longo de milhares de mensagens na usenet antes mesmo do HTML ter sido criado. Ele é simples e pode ser implementado em apenas um arquivo perl (como foi no início). E ele está pronto para ter uma definição não-ambígua, o "CommonMark".
 
 O que ele não tem que é necessário para a construção de um livro são metadados, notas de rodapé e referências cruzadas para índices remissivos. A boa notícia é que isso nem é tão difícil assim de integrar graças à flexibilidade do uso de links:
 
@@ -95873,7 +95314,7 @@ tags: books
 Tentei por um tempo assimilar a ideia de usar o formato asciidoc como
 o padrão para meu novo arquivo-fonte do blog e de futuros livros.
 
-Markdown já está pronto para ter uma definição não-ambígua, o [CommonMark].
+Markdown já está pronto para ter uma definição não-ambígua, o "CommonMark".
 
 O que ele não tem que é necessário para a construção de um livro são
 metadados (como a data e as tags vista acima), notas de rodapé
@@ -95881,7 +95322,6 @@ metadados (como a data e as tags vista acima), notas de rodapé
 remissivos. A boa notícia é que isso nem é tão difícil assim de integrar
 graças à flexibilidade do uso de links:
 
-[CommonMark]: https://commonmark.org/
 (1):# "Esta é a única maneira quase universal dessas notas em MD,
 mas até que não é tão ruim assim."
 [referências]:#
@@ -95891,16 +95331,14 @@ uma entrada em um índice remissivo com outras menções à mesma palavra."
 
 As vantagens do Markdown como lingua franca ultrapassam em muito a teórica robustez de um padrão como Asciidoc que está muito longe de ser suportado amplamente. E há um motivo para isso: ele abrange muitas formas de estruturar texto e dá muito trabalho para textos curtos. MD acaba sendo um equilíbrio sensato entre o que é usado no dia-a-dia da comunicação textual da internet e alguma forma de escalar formatação e estrutura em textos maiores e complexos.
 
-[CommonMark]: https://commonmark.org/
 
 # Mielina
 date: 2024-07-15
 link: https://pt.wikipedia.org/wiki/Bainha_de_mielina
 tags: body self
 
-Quando nos esforçamos para aprender algo novo uma nova conexão sináptica é criada, uma nova "perninha" em um neurônio. Essa atividade comumente é cansativa, pois além de tentativa e erro, energia, tempo e repetidos esforços para construir um comportamento ou assimilar uma informação são necessários. A criação de apenas uma dessas perninhas já é um esforço significativo, aprender algo novo exige muitas repetições e muitas dessas perninhas se tornam mais fortes se coberturas de lipídios (gordura) forem construídas em volta, o que agiliza e potencializa o tráfego de elétrons. Este fenômeno realmente existe para cobrir os axônios, os canais de comunicação entre neurônios, fortalecido por repetição. Esses canais de gordura são chamados de [bainha de mielina] e acontecem naturalmente quando a pessoa está envolvida repetidamente na mesma tarefa, sem troca de foco, por mais tempo. O cérebro "entende" que o canal sendo criado é mais importante e constrói as estruturas de mielina que irá privilegiar e proteger o novo comportamento e informação em detrimento de outros caminhos.
+Quando nos esforçamos para aprender algo novo uma nova conexão sináptica é criada, uma nova "perninha" em um neurônio. Essa atividade comumente é cansativa, pois além de tentativa e erro, energia, tempo e repetidos esforços para construir um comportamento ou assimilar uma informação são necessários. A criação de apenas uma dessas perninhas já é um esforço significativo, aprender algo novo exige muitas repetições e muitas dessas perninhas se tornam mais fortes se coberturas de lipídios (gordura) forem construídas em volta, o que agiliza e potencializa o tráfego de elétrons. Este fenômeno realmente existe para cobrir os axônios, os canais de comunicação entre neurônios, fortalecido por repetição. Esses canais de gordura são chamados de "bainha de mielina" e acontecem naturalmente quando a pessoa está envolvida repetidamente na mesma tarefa, sem troca de foco, por mais tempo. O cérebro "entende" que o canal sendo criado é mais importante e constrói as estruturas de mielina que irá privilegiar e proteger o novo comportamento e informação em detrimento de outros caminhos.
 
-[bainha de mielina]: https://pt.wikipedia.org/wiki/Bainha_de_mielina
 
 # Mock de Timer em Moq
 date: 2024-07-17

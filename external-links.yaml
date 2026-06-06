@@ -1,0 +1,1476 @@
+# External links for Publisher
+# Each entry maps a "Quoted Title" found in post text to an external URL.
+# When text like "My Favorite Tool" appears quoted in a post and no internal
+# post with that exact title exists, it will be linked to the URL below.
+#
+# Fields:
+#   title: "the exact quoted text as it appears in the source markdown (case-sensitive)"
+#   url:   the external URL to link to
+
+- title: "!peb"
+  url: http://windbg.info/doc/1-common-cmds.html#11_process
+
+- title: "mother-fucker livro"
+  url: http://advancedwindowsdebugging.com/
+
+- title: "11 Myths About Fasting and Meal Frequency"
+  url: https://www.healthline.com/nutrition/11-myths-fasting-and-meal-frequency
+
+- title: "1999 september edition"
+  url: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
+
+- title: "2012"
+  url: https://en.wikipedia.org/wiki/2012_phenomenon
+
+- title: "80 milhas por hora"
+  url: https://en.wikipedia.org/wiki/Back_to_the_Future
+
+- title: ":grep"
+  url: http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:grep
+
+- title: ":mksession"
+  url: http://vimdoc.sourceforge.net/htmldoc/starting.html#:mksession
+
+- title: ":source"
+  url: http://vimdoc.sourceforge.net/htmldoc/repeat.html#:source
+
+- title: ":vimgrep"
+  url: http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:vimgrep
+
+- title: "A Beginner’s Guide to Roasting Great Coffee at Home"
+  url: https://perfectdailygrind.com/2020/05/a-beginners-guide-to-roasting-great-coffee-at-home/
+
+- title: "A Roaster’s Guide to Creating Coffee Blends"
+  url: https://perfectdailygrind.com/2018/05/a-roasters-guide-to-creating-coffee-blends/
+
+- title: "A.V. Club - The 10 best films of the 1890s"
+  url: https://www.avclub.com/the-10-best-films-of-the-1890s-1798234254
+
+- title: "AF."
+  url: http://techberto.wordpress.com
+
+- title: "API do Windows"
+  url: https://learn.microsoft.com/pt-br/
+
+- title: "API é beta"
+  url: https://trello.com/docs/
+
+- title: "ATL"
+  url: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL
+
+- title: "AWK"
+  url: https://github.com/Caloni/lectures/blob/master/awk.pdf
+
+- title: "Acate"
+  url: https://www.acate.com.br/
+
+- title: "Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire"
+  url: https://pubmed.ncbi.nlm.nih.gov/28196711/
+
+- title: "Acidic Coffees: A Brew & Roast Guide"
+  url: https://perfectdailygrind.com/2018/05/why-are-some-coffees-more-acidic-than-others-a-brew-roast-guide/
+
+- title: "Advanced Bash-Scripting Guide"
+  url: https://tldp.org/LDP/abs/html/index.html
+
+- title: "Alan"
+  url: http://jumpi.wordpress.com
+
+- title: "Alberto Fabiano"
+  url: http://techberto.wordpress.com
+
+- title: "Alex Ionescu article"
+  url: http://www.alex-ionescu.com/?p=59
+
+- title: "Amo Pão Caseiro"
+  url: https://amopaocaseiro.com.br/receita/pao-frances/
+
+- title: "An Artificial Intelligence for the 2048 game"
+  url: https://gsurma.medium.com/2048-solving-2048-with-monte-carlo-tree-search-ai-2dbe76894bab
+
+- title: "Andy Pennell's Blog"
+  url: http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx
+
+- title: "Antidebugging: Eu Não Quero que Você Mexa no Meu Código"
+  url: https://github.com/Caloni/lectures/blob/master/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf
+
+- title: "ArtMoney"
+  url: https://artmoney.ru/
+
+- title: "Arthur da Paz"
+  url: https://github.com/arthurdapaz
+
+- title: "Assunto de Família"
+  url: http://www.caloni.com.br/assunto-de-familia/
+
+- title: "Ataliba"
+  url: http://www.ataliba.eti.br
+
+- title: "Awk in 20 Minutes"
+  url: https://ferd.ca/awk-in-20-minutes.html
+
+- title: "BareTail"
+  url: https://www.baremetalsoft.com/baretail/
+
+- title: "Base64 da Wikipedia"
+  url: http://en.wikipedia.org/wiki/Base64
+
+- title: "Bash Reference Manual"
+  url: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+
+- title: "BitBucket"
+  url: http://www.bitbucket.org
+
+- title: "BitForge"
+  url: https://www.linkedin.com/company/bit-forge
+
+- title: "Blending Coffee Through Molecular Analysis"
+  url: https://perfectdailygrind.com/2018/07/blending-coffee-through-molecular-analysis/
+
+- title: "Bleno"
+  url: http://www.bleno.org
+
+- title: "Bruno Moreira Guedes"
+  url: http://brunildz.blogspot.com/
+
+- title: "Bruno Sanches"
+  url: http://bcsanches.wordpress.com
+
+- title: "C4701"
+  url: https://msdn.microsoft.com/en-us/library/1wea5zwe.aspx
+
+- title: "CMake"
+  url: https://cmake.org/cmake/help/v3.11/manual/cmake-toolchains.7.html
+
+- title: "Caixa Econômica Federal"
+  url: http://loterias.caixa.gov.br
+
+- title: "Cavic Meio Seco 2020"
+  url: https://www.eniwine.com/vitrine/detalhes/f3089ff0-c04c-4a1d-991f-a9d38963f616
+
+- title: "Chefe Mancuzo"
+  url: https://youtu.be/PLDdc5CLKko
+
+- title: "Christopher A. Wood"
+  url: https://datatracker.ietf.org/person/Christopher%20A.%20Wood
+
+- title: "Christopher H. Hendon"
+  url: https://www.smithsonianmag.com/science-nature/science-behind-brewing-great-cup-coffee-180965049/
+
+- title: "Château Marjosse Rouge 2018"
+  url: https://www.eniwine.com/vitrine/detalhes/e0ba59ef-e270-4a4e-816a-b75ee265fae6
+
+- title: "CinemAqui"
+  url: https://cinemaqui.com.br/author/wanderley-caloni/
+
+- title: "Co co-co-co-co-corrotinas"
+  url: https://www.slideshare.net/WanderleyCaloni/co-cococococorrotinas
+
+- title: "CodeBehind"
+  url: http://codebehind.wordpress.com
+
+- title: "ComOleViewDotNet"
+  url: https://github.com/tyranid/oleviewdotnet
+
+- title: "CommonMark"
+  url: https://commonmark.org/
+
+- title: "Como ser um bom programador"
+  url: http://www.1bit.com.br/content.1bit/bom_programador
+
+- title: "Como ser um programador"
+  url: http://www.1bit.com.br/content.1bit/programador
+
+- title: "Coutada Velha Signature 2019"
+  url: https://www.eniwine.com/vitrine/detalhes/de2a9c2e-a57a-4b90-b7b8-60ed6f651c99
+
+- title: "CppPreference"
+  url: http://www.cppreference.com/operator_precedence.html
+
+- title: "CreateThread"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread
+
+- title: "Creative Commons"
+  url: http://creativecommons.org\
+
+- title: "D. Ritchie"
+  url: https://www.bell-labs.com/usr/dmr/www/
+
+- title: "DQ"
+  url: http://dqsoft.blogspot.com
+
+- title: "DTLS-Examples"
+  url: https://github.com/nplab/DTLS-Examples
+
+- title: "Daniel Quadros"
+  url: http://dqsoft.blogspot.com
+
+- title: "DebugView"
+  url: http://technet.microsoft.com/en-us/sysinternals/bb896647
+
+- title: "Debugging Tools for Windows"
+  url: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools
+
+- title: "Depois da Tempestade"
+  url: http://www.caloni.com.br/depois-da-tempestade/
+
+- title: "Depurando até o Fim do Mundo"
+  url: https://github.com/Caloni/lectures/blob/master/depurandofimdomundo.pdf
+
+- title: "Derneval Cunha"
+  url: https://absoluta.org/barata/
+
+- title: "Dividendo Café"
+  url: https://www.instagram.com/dividendocafe/
+
+- title: "Dmitry Vostokov"
+  url: http://www.dumpanalysis.org/blog/index.php/2008/09/18/cmdtreetxt-for-cda-checklist/
+
+- title: "DriverEntry"
+  url: http://www.driverentry.com.br
+
+- title: "Edgard Soares"
+  url: http://groups.google.com/group/ccppbrasil/msg/6139413a375cfcd0
+
+- title: "Engenharia Reversa para Principiantes"
+  url: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
+
+- title: "Entendendo a Compilação"
+  url: https://github.com/Caloni/lectures/blob/master/entendendo-a-compilacao.pdf
+
+- title: "Enter"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-entercriticalsection
+
+- title: "Era Uma Vez na América Latina"
+  url: https://eraumavezamericalatina.substack.com
+
+- title: "Era uma Vez em Tóquio"
+  url: http://www.caloni.com.br/era-uma-vez-em-toquio/
+
+- title: "Esse cara"
+  url: http://c00kiemon5ter.github.io/code/2011/04/16/Development-Methodologies.html
+
+- title: "Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL"
+  url: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl
+
+- title: "Fabio Montefuscolo"
+  url: https://gist.github.com/fabiomontefuscolo
+
+- title: "Fasting: molecular mechanisms and clinical applications"
+  url: https://www.ncbi.nlm.nih.gov/pubmed/24440038
+
+- title: "Felipe Silveira"
+  url: http://www.felipesilveira.com.br
+
+- title: "Fernando Roberto da Silva"
+  url: http://www.driverentry.com.br
+
+- title: "Fernando Roberto"
+  url: http://www.driverentry.com.br
+
+- title: "Fernando/DriverEntry"
+  url: http://driverentry.com.br/
+
+- title: "FindFirstFile"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findfirstfilea
+
+- title: "FormatMessage"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-formatmessage
+
+- title: "Francamente, Querida"
+  url: http://francamentequerida.com.br/
+
+- title: "French Dog Merlot 2019"
+  url: https://www.eniwine.com/vitrine/detalhes/f447edac-056b-467b-8cce-52a5a480bbf2
+
+- title: "Fábio Gallupo"
+  url: http://fabiogaluppo.spaces.live.com
+
+- title: "GFlags"
+  url: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags
+
+- title: "GMouseTool"
+  url: http://gmousetool.sourceforge.net
+
+- title: "Gawk Guide"
+  url: https://www.gnu.org/software/gawk/manual/gawk.html
+
+- title: "Gerenciamento de memória 386"
+  url: https://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-386.html
+
+- title: "GitHub da BitForge"
+  url: https://github.com/bitforgebr/tiocoin
+
+- title: "GitHub do Gregory Crosswhite"
+  url: https://github.com/gcross/unit--
+
+- title: "GitHub"
+  url: http://www.github.com
+
+- title: "Glycogen in Four Parts"
+  url: https://youtu.be/0xj4etF0wkw
+
+- title: "Google Code Jam"
+  url: https://code.google.com/codejam/contest/2974486/dashboard
+
+- title: "Grupo C/C++ Brasil"
+  url: https://groups.google.com/forum/#!topic/ccppbrasil/uzn6i0PJi8UEu
+
+- title: "Guidra"
+  url: https://ghidra-sre.org/
+
+- title: "Honey processing: everything you need to know"
+  url: https://perfectdailygrind.com/2015/09/everything-you-need-to-know-about-honey-processing/
+
+- title: "Hossein Derakhshan"
+  url: http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web
+
+- title: "How Intermittent Fasting can help you Sleep better"
+  url: https://www.wefast.care/articles/fasting-and-sleep
+
+- title: "How does intermittent fasting help with insulin resistance"
+  url: https://www.wefast.care/articles/intermittent-fasting-insulin-resistance
+
+- title: "How to Recognize a Great Anime"
+  url: https://youtu.be/0kQrT8S2Mrw
+
+- title: "Hugo"
+  url: https://gohugo.io
+
+- title: "HxD"
+  url: http://mh-nexus.de/en/hxd/
+
+- title: "IDA"
+  url: https://hex-rays.com/ida-free/
+
+- title: "IOCCC"
+  url: http://www.ioccc.org/
+
+- title: "Initialize"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-initializecriticalsection
+
+- title: "Intelitrader"
+  url: http://www.intelitrader.com.br
+
+- title: "InterlockedIncrement"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/winnt/nf-winnt-interlockedincrement
+
+- title: "Intermittent Fasting 101 — The Ultimate Beginner’s Guide"
+  url: https://www.healthline.com/nutrition/intermittent-fasting-guide
+
+- title: "Intermittent Fasting And Hormones For A Better Balance"
+  url: https://www.wefast.care/articles/intermittent-fasting-and-hormones
+
+- title: "Isamara Amâncio"
+  url: https://youtu.be/Uhy3gGR2d6s
+
+- title: "Jejum intermitente “24 por 24” horas aumenta risco de diabete em ratos"
+  url: https://jornal.usp.br/ciencias/ciencias-biologicas/jejum-intermitente-24-por-24-horas-aumenta-risco-de-diabete-em-ratos/
+
+- title: "Joliesse Cabernet Sauvignon 2018"
+  url: https://www.eniwine.com/vitrine/detalhes/11191e91-5603-4d02-9d45-52fec1e19f90
+
+- title: "KISS"
+  url: http://en.wikipedia.org/wiki/KISS_principle
+
+- title: "LIST_ENTRY"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/ntdef/ns-ntdef-list_entry
+
+- title: "Las Tortugas Estate"
+  url: https://www.nietosenetiner.com.ar/vinos/single-vineyard/las-tortugas-estate-bonarda/
+
+- title: "LeaveCriticalSection"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-leavecriticalsection
+
+- title: "MPTCP"
+  url: https://www.multipath-tcp.org/
+
+- title: "MRU"
+  url: http://www.vim.org/scripts/script.php?script_id=521
+
+- title: "MSDN Magazine"
+  url: https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/may/repel-attacks-with-visual-studio-2005-safe-c-and-c-libraries
+
+- title: "Marcio Andrey Oliveira"
+  url: http://marcioandreyoliveira.blogspot.com
+
+- title: "Marcio Wesley Borges"
+  url: https://marciowb.dev/
+
+- title: "Mariner 1"
+  url: http://en.wikipedia.org/wiki/Mariner_1
+
+- title: "Mente Binária"
+  url: https://www.mentebinaria.com.br
+
+- title: "Mercês"
+  url: https://twitter.com/mer0x36
+
+- title: "Microsoft Application Virtualization"
+  url: https://learn.microsoft.com/en-us/windows/application-management/app-v/appv-getting-started
+
+- title: "Minha palestra"
+  url: https://www.papobinario.com.br/v1/
+
+- title: "MiniDumpWriteDump"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/minidumpapiset/nf-minidumpapiset-minidumpwritedump
+
+- title: "Mounter"
+  url: http://www.codimark.com/blog/
+
+- title: "Márcio Andrey Oliveira"
+  url: http://marcioandreyoliveira.blogspot.com
+
+- title: "NSSM"
+  url: https://nssm.cc/
+
+- title: "Native Floripa"
+  url: http://www.nativefloripa.com.br/
+
+- title: "Navalha de Ockham"
+  url: https://pt.wikipedia.org/wiki/Navalha_de_Ockham
+
+- title: "Nicolau Werneck"
+  url: http://philogroky.blogspot.com/
+
+- title: "Ninguém Pode Saber"
+  url: http://www.caloni.com.br/ninguem-pode-saber/
+
+- title: "Notação Húngara"
+  url: http://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_h%C3%BAngara
+
+- title: "Nouvelle Vague"
+  url: https://en.wikipedia.org/wiki/French_New_Wave
+
+- title: "NuGet"
+  url: https://docs.microsoft.com/pt-br/nuget/consume-packages/overview-and-workflow
+
+- title: "Nynaeve"
+  url: http://www.nynaeve.net/?p=164
+
+- title: "OpenCS"
+  url: https://www.linkedin.com/company/open-communications-security/
+
+- title: "Operators in C and C++ in Wikipedia"
+  url: http://en.wikipedia.org/wiki/Operators_in_C_and_C
+
+- title: "PC Assember Volume I"
+  url: http://dqsoft.blogspot.com/2007/09/pc-assember-volume-i.html
+
+- title: "Paso a Paso"
+  url: https://pasoapasowines.com.ar
+
+- title: "Patch de Emergência"
+  url: https://github.com/Caloni/lectures/blob/master/patchdeemergencia.pdf
+
+- title: "PeTools"
+  url: https://github.com/petoolse/petools/releases
+
+- title: "Pentateuco"
+  url: https://pt.wikipedia.org/wiki/Pentateuco
+
+- title: "Physical changes coffee beans experience during roasting"
+  url: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-physical-changes/
+
+- title: "Piantaferro Primitivo Di Manduria D.O.C 2017"
+  url: https://www.eniwine.com/vitrine/detalhes/08ceee9a-49bd-4213-92fb-b100c1bef787
+
+- title: "Picoro"
+  url: http://dotat.at/cgi/~fanf/dotat/~fanf/dotat/git/picoro.git
+
+- title: "Pink Elephants on Parade"
+  url: https://en.wikipedia.org/wiki/Pink_Elephants_on_Parade
+
+- title: "PopolonY2k"
+  url: http://www.planetamessenger.org
+
+- title: "Process Explorer"
+  url: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
+
+- title: "Process Monitor"
+  url: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
+- title: "Putty"
+  url: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+- title: "Pão da Casa"
+  url: https://youtu.be/KCe85lhkfOg
+
+- title: "Pôquer Online"
+  url: https://github.com/Caloni/lectures/blob/master/poqueronline.pdf
+
+- title: "Química do pão de queijo"
+  url: https://brasilescola.uol.com.br/quimica/quimica-pao-queijo.htm
+
+- title: "RAII"
+  url: https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization
+
+- title: "RFC 6347"
+  url: https://tools.ietf.org/html/rfc6347
+
+- title: "RFC 989"
+  url: http://tools.ietf.org/html/rfc989
+
+- title: "Ralf Brown's Interrupt List na Wikipedia"
+  url: https://en.wikipedia.org/wiki/Ralf_Brown%27s_Interrupt_List
+
+- title: "Ralf Brown"
+  url: http://www.ctyme.com/rbrown.htm
+
+- title: "RegShot"
+  url: https://sourceforge.net/projects/regshot/
+
+- title: "ReiserFS"
+  url: http://pt.wikipedia.org/wiki/ReiserFS
+
+- title: "Renan de Araujo"
+  url: http://www.renanimated.com
+
+- title: "Resource Hacker"
+  url: http://angusj.com/resourcehacker/
+
+- title: "Resumo de Debug Remoto"
+  url: https://github.com/Caloni/lectures/blob/master/debug-remoto-resumo.pdf
+
+- title: "Rio Claro Reserva Organico Carménère 2018"
+  url: https://www.eniwine.com/vitrine/detalhes/7df1d0fa-c898-4d76-b593-c3a479d571d6
+
+- title: "Rio Sol Reserva 2015"
+  url: https://www.eniwine.com/vitrine/detalhes/10ea84da-21a4-4640-96ea-19382cead35f
+
+- title: "RmThread"
+  url: http://www.codeproject.com/threads/RmThread.asp
+
+- title: "RoGetActivationFactory"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/roapi/nf-roapi-rogetactivationfactory
+
+- title: "Robert Kuster possui um saite"
+  url: http://windbg.info/
+
+- title: "Roberto Bechtlufft"
+  url: http://eufedorotufedoraselefedora.wordpress.com
+
+- title: "Rodrigo Strauss"
+  url: https://www.1bit.com.br
+
+- title: "RusKey"
+  url: http://www.codeproject.com/KB/winsdk/ruskey.aspx
+
+- title: "SCMs"
+  url: http://en.wikipedia.org/wiki/Software_configuration_management
+
+- title: "SCUA"
+  url: https://www.linkedin.com/company/scua/
+
+- title: "SFINAE"
+  url: https://en.wikipedia.org/wiki/Substitution_failure_is_not_an_error
+
+- title: "San Valentin Garnacha 2018"
+  url: https://www.eniwine.com/vitrine/detalhes/2d13bb93-d593-42c3-b431-68d806eeb6e1
+
+- title: "Sangue de Jupíter"
+  url: http://mondovinho.blogspot.com/2010/08/uva-de-jupiter-emblema-da-italia.html
+
+- title: "Say Goodbye To Sugar Cravings With Intermittent Fasting"
+  url: https://www.wefast.care/articles/intermittent-fasting-sugar-cravings
+
+- title: "SergioCBJ"
+  url: http://sergaralho.blogspot.com/
+
+- title: "SetUnhandledExceptionFilter"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-setunhandledexceptionfilter
+
+- title: "Seu post"
+  url: http://www.lauradhamilton.com/random-lessons-online-poker-exploit
+
+- title: "ShareX"
+  url: https://getsharex.com/
+
+- title: "Solar Viejo Crianza 2016"
+  url: https://www.eniwine.com/vitrine/detalhes/7e88e1ba-2b85-4a97-b863-0490f3b3b586
+
+- title: "SpyStudio"
+  url: http://www.nektra.com/products/spystudio/
+
+- title: "Stack Overflow"
+  url: https://github.com/Caloni/lectures/blob/master/stack-overflow.pdf
+
+- title: "StarDict"
+  url: http://stardict.sourceforge.net/
+
+- title: "Strings"
+  url: https://learn.microsoft.com/en-us/sysinternals/downloads/strings
+
+- title: "Sunrise Cabernet Sauvignon 2020"
+  url: https://www.eniwine.com/vitrine/detalhes/0d994185-a072-4bbc-857b-39b69fe29bba
+
+- title: "Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers"
+  url: https://pubmed.ncbi.nlm.nih.gov/29518469/
+
+- title: "SysAllocString"
+  url: http://msdn.microsoft.com/en-us/library/ms221458.aspx
+
+- title: "Sysinternals Suite"
+  url: https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
+
+- title: "SystemRescueCd"
+  url: http://www.system-rescue-cd.org/SystemRescueCd_Homepage
+
+- title: "Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression"
+  url: https://pubmed.ncbi.nlm.nih.gov/29665461/
+
+- title: "Technology is Heroin"
+  url: http://tiny-giant-books.com/Entry1.html?EntryId=recgcpfuOFUesUpRy
+
+- title: "Teste de Bechdel"
+  url: https://pt.wikipedia.org/wiki/Teste_de_Bechdel
+
+- title: "The C++ Programming Language"
+  url: https://www.google.com.br/search?q=the+c%2B%2B+programming+language
+
+- title: "The International Obfuscated C Code Contest"
+  url: http://www.ioccc.org
+
+- title: "The Zone"
+  url: https://hn.algolia.com/?query=the%20zone
+
+- title: "Thiago R Adams"
+  url: http://paginas.terra.com.br/informatica/thiago_adams/
+
+- title: "Thiago"
+  url: http://codebehind.wordpress.com
+
+- title: "Tierra Sur 2019"
+  url: https://www.eniwine.com/vitrine/detalhes/a4bfbdf9-18d5-4c21-9bd8-7c5a71b74476
+
+- title: "Tortoise for Bazaar"
+  url: http://wiki.bazaar.canonical.com/TortoiseBzr
+
+- title: "Trello"
+  url: http://www.trello.com
+
+- title: "Troubleshooting em Equipes Remotas com Debugging Tools"
+  url: https://github.com/Caloni/lectures/blob/master/troubleshooting-em-equipes-remotas-com-debugging-tools-for-windows.pdf
+
+- title: "Tutorial from an Experient Mind"
+  url: https://www.grymoire.com/Unix/Awk.html
+
+- title: "UNICODE"
+  url: http://pt.wikipedia.org/wiki/UNICODE
+
+- title: "Valle Austral Reserva Malbec 2018"
+  url: https://www.eniwine.com/vitrine/detalhes/6acb3876-bc01-432d-af84-eda64ff0ec8e
+
+- title: "Vcpkg e vc td a ver"
+  url: https://www.slideshare.net/WanderleyCaloni/vcpkg-e-vc-td-a-ver
+
+- title: "Vecchia Cantina Chianti 2019"
+  url: https://www.eniwine.com/vitrine/detalhes/a52e5151-824a-40e0-b43c-17238717aa6e
+
+- title: "ViniGodoy"
+  url: http://vinigodoy.wordpress.com
+
+- title: "VirtualBox and open source"
+  url: http://www.virtualbox.org/wiki/Editions
+
+- title: "Virtus Reservado Suave Cabernet Sauvignon 2020"
+  url: https://www.eniwine.com/vitrine/detalhes/13f47ad6-e05d-41ab-a8cb-1c73e17bc3dd
+
+- title: "Visual Studio Marketplace"
+  url: https://marketplace.visualstudio.com/
+
+- title: "Volker von Einem"
+  url: http://voneinem-windbg.blogspot.com/2008/09/amazing-helper-cmdtree.html
+
+- title: "WTL for MFC Programmers"
+  url: http://www.codeproject.com/KB/wtl/wtl4mfc1.aspx
+
+- title: "WTL"
+  url: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl
+
+- title: "WYSIWYG"
+  url: http://pt.wikipedia.org/wiki/Wysiwyg
+
+- title: "WaitForMultipleObjects"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitformultipleobjects
+
+- title: "Want to stop craving chocolate? Here are two options"
+  url: https://www.washingtonpost.com/lifestyle/wellness/want-to-stop-craving-chocolate-here-are-two-options/2018/06/25/48a0e698-7407-11e8-805c-4b67019fcfe4_story.html
+
+- title: "Washed, Natural, Honey: Coffee Processing 101"
+  url: https://perfectdailygrind.com/2016/07/washed-natural-honey-coffee-processing-101/
+
+- title: "Werner"
+  url: http://www.wernermoecke.tk
+
+- title: "What Happens During Coffee Roasting: The Chemical Changes"
+  url: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-chemical-changes/
+
+- title: "Why fasting bolsters brain power: Mark Mattson at TED"
+  url: https://youtu.be/4UkZAwKoCP8
+
+- title: "Wikipédia em português"
+  url: https://pt.wikipedia.org/wiki/Deadlock
+
+- title: "WinBoard"
+  url: http://www.tim-mann.org/xboard.html
+
+- title: "WinDbg.info"
+  url: http://windbg.info/
+
+- title: "WinMerge"
+  url: http://winmerge.org
+
+- title: "Wireshark"
+  url: https://www.wireshark.org/
+
+- title: "WlxInitialize"
+  url: http://msdn.microsoft.com/en-us/library/windows/desktop/aa380567%28v=vs.85%29.aspx
+
+- title: "a ajuda"
+  url: https://cplusplus.com/reference/sstream/stringstream/str/
+
+- title: "a documentação da msdn"
+  url: http://msdn2.microsoft.com/en-us/library/z2f3cb7h.aspx
+
+- title: "a estrutura que vai ser recebida"
+  url: https://developer.github.com/webhooks/
+
+- title: "a maioria"
+  url: https://msdn.microsoft.com/en-us/library/mt694070.aspx
+
+- title: "a partir dos fontes"
+  url: https://github.com/PowerShell/openssh-portable
+
+- title: "a série de artigos sobre o Windows"
+  url: historia_do_windows
+
+- title: "a versão eletrônica disponível para download"
+  url: http://www.charlespetzold.com/books.html
+
+- title: "adendo"
+  url: https://support.microsoft.com/en-us/kb/156932
+
+- title: "alguns conhecimentos da arquitetura"
+  url: http://en.wikipedia.org/wiki/Protected_mode
+
+- title: "alguns tratados internacionais"
+  url: https://www.scielo.br/j/ci/a/P46qw5NNYhnyxNb8g7VFq6S/?format=html&lang=pt
+
+- title: "analistas de sistemas Júnior programando filtros de file system"
+  url: http://groups.google.com/group/ccppbrasil/msg/f1f6d52aa167c1ab?dmode=source
+
+- title: "apresentação nota dez"
+  url: http://windbg.info/download/doc/pdf/WinDbg_A_to_Z_color.pdf
+
+- title: "aquele mais turbinado do FreeDOS"
+  url: https://www.freedos.org/
+
+- title: "armadilhas em C"
+  url: http://www.literateprogramming.com/ctraps.pdf
+
+- title: "array manipulation problem"
+  url: https://www.hackerrank.com/challenges/crush
+
+- title: "artigo de Raymond Chen"
+  url: https://devblogs.microsoft.com/oldnewthing/20160615-00/?p=93675
+
+- title: "artigo de Roberto Farah"
+  url: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/special-commandexecute-commands-from-a-customized-user-interface-with-cmdtree
+
+- title: "artigo de Volker von Einem"
+  url: http://voneinem-windbg.blogspot.com/2007/06/scan-full-process-memory-for-pattern.html
+
+- title: "artigo do Alex Ionescu"
+  url: http://www.alex-ionescu.com/?p=59
+
+- title: "artigo do The Guardian"
+  url: ttps://www.theguardian.com/environment/2020/jun/19/why-you-should-go-animal-free-arguments-in-favour-of-meat-eating-debunked-plant-based
+
+- title: "Tribo Forte"
+  url: https://triboforte.com.br/podcasts/
+
+- title: "artigos de Jakub Sitnicki"
+  url: http://codecave.cc/multipath-routing-in-linux-part-1.html
+
+- title: "até a Calc do Windows"
+  url: http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html
+
+- title: "autólise"
+  url: https://www.madrepaesartesanais.com.br/autolise/
+
+- title: "bainha de mielina"
+  url: https://pt.wikipedia.org/wiki/Bainha_de_mielina
+
+- title: "baixá-lo"
+  url: http://wiki.bazaar.canonical.com/Download
+
+- title: "base numérica"
+  url: http://pt.wikipedia.org/wiki/Convers%C3%A3o_de_base_num%C3%A9rica
+
+- title: "bem"
+  url: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-24.html
+
+- title: "binários"
+  url: https://github.com/PowerShell/Win32-OpenSSH/releases
+
+- title: "blogue do Ken Johnson"
+  url: http://www.nynaeve.net/
+
+- title: "boas vindas"
+  url: hello_world2
+
+- title: "boi-corneta"
+  url: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br
+
+- title: "bois-cornetas"
+  url: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br
+
+- title: "boost"
+  url: http://www.boost.org/
+
+- title: "bzr-svn"
+  url: http://doc.bazaar.canonical.com/latest/en/user-guide/svn_plugin.html
+
+- title: "canon"
+  url: https://en.wikipedia.org/wiki/Canon_(fiction)
+
+- title: "cloud jump problem"
+  url: https://www.hackerrank.com/challenges/jumping-on-the-clouds
+
+- title: "codepage 437"
+  url: https://en.wikipedia.org/wiki/Code_page_437#Character_set
+
+- title: "coleções particulares"
+  url: https://drive.google.com/drive/folders/0B5raq27YbkvOZHN0a2xmOFhON0U?usp=sharing
+
+- title: "colocar no site"
+  url: http://www.1bit.com.br/content.1bit/weblog/ode_cpp
+
+- title: "comando trap"
+  url: https://linuxhint.com/bash_trap_command/
+
+- title: "complemento de dois"
+  url: http://en.wikipedia.org/wiki/Twos_complement
+
+- title: "completion port"
+  url: https://learn.microsoft.com/en-us/windows/win32/fileio/i-o-completion-ports
+
+- title: "conjunto"
+  url: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-14.html
+
+- title: "controle de fontes distribuído"
+  url: https://en.wikipedia.org/wiki/Distributed_version_control
+
+- title: "counting valleys problem"
+  url: https://www.hackerrank.com/challenges/counting-valleys
+
+- title: "criar um job"
+  url: https://learn.microsoft.com/en-us/windows/win32/procthread/job-objects
+
+- title: "current implementation of asciidoctor"
+  url: https://docs.asciidoctor.org/asciidoc/latest/
+
+- title: "curso de desenvolvimento de drivers do meu amigo Ferdinando"
+  url: http://driverentry.com.br/blog/?page_id=16
+
+- title: "código do quake"
+  url: https://github.com/id-Software/Quake
+
+- title: "da série"
+  url: historia_do_windows
+
+- title: "das 500 mil combinações"
+  url: https://www.connectionstrings.com/
+
+- title: "ddkbuild"
+  url: http://www.osronline.com/article.cfm?article=43
+
+- title: "de acordo com o SDK"
+  url: http://msdn.microsoft.com/en-us/library/bb760706%28v=VS.85%29.aspx
+
+- title: "de gelo"
+  url: http://en.wikipedia.org/wiki/Wonder_Twins
+
+- title: "demitido do Estadão em 2020"
+  url: https://archive.is/Uw8Fm
+
+- title: "depuração de kernel"
+  url: http://www.driverentry.com.br
+
+- title: "depuração remota"
+  url: windbg_a_distancia
+
+- title: "deste saite"
+  url: http://www.numaboa.com.br
+
+- title: "detalhado"
+  url: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-44.html
+
+- title: "diferentes checagens"
+  url: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Bash-Conditional-Expressions
+
+- title: "disciplina"
+  url: https://web.archive.org/web/20160305115449/http://www.wired.com/2009/01/uc-berkeley-int/
+
+- title: "dispex.dll"
+  url: http://www.google.com.br/search?q=dispex.dll
+
+- title: "disponível na web"
+  url: http://ianclatworthy.files.wordpress.com/2007/10/dvcs-why-and-how3.pdf
+
+- title: "distribuído"
+  url: http://en.wikipedia.org/wiki/Distributed_revision_control
+
+- title: "docs"
+  url: https://processhacker.sourceforge.io/doc/ntregapi_8h.html#aa4c6abc699a9c60acbfdc0fd4a229215
+
+- title: "doublekiller.exe"
+  url: https://www.bigbangenterprises.de/en/doublekiller/
+
+- title: "dquadros"
+  url: http://dqsoft.blogspot.com
+
+- title: "dt"
+  url: http://windbg.info/doc/1-common-cmds.html#17_variables
+
+- title: "dtlsudpecho.c"
+  url: https://github.com/nplab/DTLS-Examples/blob/master/src/dtls_udp_echo.c
+
+- title: "edição de setembro de 1999"
+  url: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
+
+- title: "efeito Zeigarnik"
+  url: https://en.wikipedia.org/wiki/Zeigarnik_effect
+
+- title: "em Mauá"
+  url: https://maps.app.goo.gl/x5QRhWMSdzB8h9h28
+
+- title: "em Python"
+  url: houaiss_para_babylon_python
+
+- title: "em formato físico"
+  url: https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560
+
+- title: "em nosso grupo"
+  url: https://groups.google.com/g/ccppbrasil
+
+- title: "ent"
+  url: http://www.fourmilab.ch/random/
+
+- title: "entradas"
+  url: http://stackoverflow.com/questions/13040958/merge-two-git-repositories-without-breaking-file-history
+
+- title: "enunciado"
+  url: http://code.google.com/codejam/contest/2984486/dashboard#s=p0
+
+- title: "envio de e-mails"
+  url: http://pt.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
+
+- title: "esquema pérgola"
+  url: https://pt.wikipedia.org/wiki/P%C3%A9rgula
+
+- title: "esse artigo"
+  url: http://cc.byexamples.com/20070528/swap-variable-quest/
+
+- title: "esse site"
+  url: http://www.guidebookgallery.org/screenshots/firstrun
+
+- title: "esta pérola"
+  url: https://youtu.be/YYnARNh-Z0s
+
+- title: "este código-fonte"
+  url: http://en.wikipedia.org/wiki/Whitespace_(programming_language)
+
+- title: "este guia de instalação"
+  url: https://www.digitalcitizen.life/install-windows-11-virtual-machine/
+
+- title: "este texto para o CinemAqui"
+  url: https://cinemaqui.com.br/fora-de-serie/
+
+- title: "estão descritos no blogue da equipe do VC"
+  url: http://blogs.msdn.com/b/vsproject/archive/2009/07/21/enable-c-project-system-logging.aspx
+
+- title: "excelente artigo de Matt Pietrek"
+  url: http://msdn.microsoft.com/en-us/magazine/cc301805.aspx
+
+- title: "exemplo do help"
+  url: https://docs.python.org/3/extending/embedding.html
+
+- title: "expert reaction to unpublished poster presentation on diabetes and fasting as presented at the European Society of Endocrinology annual meeting, ECE 2018"
+  url: http://www.sciencemediacentre.org/expert-reaction-to-unpublished-poster-presentation-on-diabetes-and-fasting-as-presented-at-the-european-society-of-endocrinology-annual-meeting-ece-2018/
+
+- title: "expressões regulares"
+  url: http://guia-er.sourceforge.net
+
+- title: "fatorial"
+  url: http://pt.wikipedia.org/wiki/Fatorial
+
+- title: "faça uma busca"
+  url: http://www.caloni.com.br/posts/?q=windbg
+
+- title: "filmes das décadas de 30 e 40"
+  url: https://en.wikipedia.org/wiki/Sherlock_Holmes_(1939_film_series)
+
+- title: "firulas gráficas"
+  url: http://www.caloni.com.br/bazaar-grafico
+
+- title: "fonte aberto"
+  url: https://github.com/NationalSecurityAgency/ghidra
+
+- title: "formato de tempo do Unix"
+  url: http://en.wikipedia.org/wiki/Unix_timestamp
+
+- title: "função ReadFile"
+  url: https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-readfile
+
+- title: "gafanhoto"
+  url: https://youtu.be/MYtXUVf74zA
+
+- title: "gerar tela azul em seu computador"
+  url: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/forcing-a-system-crash-from-the-keyboard
+
+- title: "geração de chave/segredo é simples"
+  url: https://trello.com/1/appKey/generate
+
+- title: "gist Python"
+  url: https://gist.github.com/Caloni/ef21412075c5600c9700d967702419be
+
+- title: "glib"
+  url: https://developer.gnome.org/glib/
+
+- title: "gnu parallel"
+  url: https://www.gnu.org/software/parallel/
+
+- title: "greensea"
+  url: https://github.com/greensea
+
+- title: "guia do usuário"
+  url: http://doc.bazaar-vcs.org/bzr.dev/en/user-guide/#merging-changes
+
+- title: "hidapi"
+  url: https://github.com/signal11/hidapi
+
+- title: "hive"
+  url: http://en.wikipedia.org/wiki/Windows_Registry#Hives
+
+- title: "hookzinho nos métodos de um componente COM"
+  url: hook_de_com_no_windbg
+
+- title: "imgur"
+  url: http://imgur.com/
+
+- title: "interrupção 0x13 função 0x42"
+  url: http://www.ctyme.com/intr/rb-0708.htm
+
+- title: "isso"
+  url: http://kobyk.wordpress.com/2007/07/20/dynamically-linking-with-msvcrtdll-using-visual-c-2005/
+
+- title: "já conhecemos"
+  url: historia_do_windows_parte_30
+
+- title: "já disponível no C99"
+  url: http://stackoverflow.com/questions/8316509/difference-dev-cpp-and-microsoft-visual-c-math-h
+
+- title: "left rotation problem"
+  url: https://www.hackerrank.com/challenges/ctci-array-left-rotation
+
+- title: "li um pouco mais sobre técnicas XP e Scrum"
+  url: http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches
+
+- title: "linguagens de script"
+  url: http://www.python.org/
+
+- title: "livro da galinha preta"
+  url: https://www.amazon.com/Windows-File-System-Internals-Developers/dp/1565922492
+
+- title: "loja online"
+  url: https://pereiravillela.com.br/shop/
+
+- title: "macros de edição"
+  url: http://notepad-plus.sourceforge.net/uk/site.htm
+
+- title: "maioria"
+  url: http://www.google.com/search?q=class+does+not+support+automation
+
+- title: "mais"
+  url: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-34.html
+
+- title: "manual da linguagem"
+  url: http://cm.bell-labs.co/who/dmr/kbman.html
+
+- title: "mawk"
+  url: https://invisible-island.net/mawk/
+
+- title: "memset"
+  url: https://en.cppreference.com/w/cpp/string/byte/memset
+
+- title: "menção desonrosa"
+  url: http://www.ioccc.org/1984/anonymous/anonymous.c
+
+- title: "mielina"
+  url: https://pt.wikipedia.org/wiki/Bainha_de_mielina
+
+- title: "minha função"
+  url: https://gist.github.com/Caloni/5b9ccc66722a1b235f4aab8251822cdb
+
+- title: "minha palestra"
+  url: https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/
+
+- title: "mlvpn"
+  url: https://github.com/zehome/MLVPN.
+
+- title: "mutexes não conseguem ser rastreados tão facilmente em user mode"
+  url: http://www.debuginfo.com/articles/easywindbg.html#debugdeadlocks
+
+- title: "na lógica"
+  url: http://base64.sourceforge.net/b64.c
+
+- title: "navegação web"
+  url: http://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+- title: "nesse artigo"
+  url: historia_da_linguagem_c_parte_1
+
+- title: "neste outro artigo"
+  url: houaissparababylon_beta
+
+- title: "neste site que possui uma visão técnica dos episódios"
+  url: https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html
+
+- title: "netiqueta"
+  url: https://pt.wikipedia.org/wiki/Netiqueta
+
+- title: "no GitHub 1"
+  url: https://github.com/Microsoft/vcpkg/issues/1638
+
+- title: "no GitHub 2"
+  url: https://github.com/Microsoft/vcpkg/issues/306
+
+- title: "no canal"
+  url: https://t.me/reversingclubc
+
+- title: "nossa lei"
+  url: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
+
+- title: "nosso grupo C/C++"
+  url: https://groups.google.com/forum/#!topic/ccppbrasil/3qtvxelVrdc
+
+- title: "nova palestra"
+  url: http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
+
+- title: "num post"
+  url: http://dqsoft.blogspot.com/2006/09/turbo-explorer.html
+
+- title: "não sei procurar direito"
+  url: http://www.google.com.br/search?q=wait+all+processes+inside+job+object
+
+- title: "o Excel"
+  url: http://dqsoft.blogspot.com.br/2007/09/ser-que-o-excel-2007-desaprendeu.html
+
+- title: "o Windows era em preto e branco"
+  url: http://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-windows-16-bits.html
+
+- title: "o artigo da invert"
+  url: https://invert.svbtle.com/using-vim-as-a-password-manager
+
+- title: "o cara do 1bit"
+  url: http://www.1bit.com.br
+
+- title: "o chefe de cozinha que virou administrador de fast food"
+  url: https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/
+
+- title: "o código"
+  url: https://github.com/Caloni/interview/tree/issue-3-hacker-rank-preparation/hackerrank/flow_traders
+
+- title: "o exemplo de GINA stub"
+  url: http://driverentry.com.br/blog/?p=415
+
+- title: "o livro"
+  url: https://git-scm.com/book/en/v2
+
+- title: "o manual"
+  url: https://archive.org/details/richards1979bcpl
+
+- title: "o programa do DriverEntry"
+  url: http://www.driverentry.com.br/blog/2007/02/prog2svc-servio-sem-trabalho.html
+
+- title: "o roteiro dos lámens"
+  url: https://maps.app.goo.gl/xxx5SnQKkkjBj29J7
+
+- title: "o saite cplusplus.com"
+  url: http://www.cplusplus.com/reference/algorithm/remove_if/
+
+- title: "o tutorial do WinSCP"
+  url: https://winscp.net/eng/docs/guide_windows_openssh_server
+
+- title: "obter a string raw de uma HSTRING"
+  url: hstring
+
+- title: "ordenação de extremidades"
+  url: http://pt.wikipedia.org/wiki/Extremidade_(ordena%C3%A7%C3%A3o)
+
+- title: "outras opções"
+  url: https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html
+
+- title: "outro mapa"
+  url: https://www.google.com/maps/d/u/0/edit?mid=1ofPI9mpynO0DgyXc6rVY2Q9hbUGwSOk&ll=35.86694435620668%2C139.84198475&z=10
+
+- title: "pacote básico do wget do GnuWin32"
+  url: http://gnuwin32.sourceforge.net/packages/wget.htm
+
+- title: "padrão da Microsoft"
+  url: https://github.com/tpn/pdfs/blob/master/Microsoft%20Portable%20Executable%20and%20Common%20Object%20File%20Format%20Specification%20-%201999%20(pecoff).pdf
+
+- title: "palestra sobre engenharia reversa"
+  url: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
+
+- title: "palestrar sobre"
+  url: https://github.com/Caloni/lectures/blob/master/awk.pdf
+
+- title: "palestras que ministrei ao longo dos anos"
+  url: https://www.slideshare.net/WanderleyCaloni
+
+- title: "palestrei"
+  url: http://pt.slideshare.net/slideshow/embedcode/key/g5lKLH15KTcenu
+
+- title: "pelo Code Project"
+  url: https://www.codeproject.com/Articles/caloni
+
+- title: "pelo Linkedin"
+  url: https://www.linkedin.com/company/bit-forge
+
+- title: "pesquisa de quinze minutos"
+  url: http://www.google.com/search?q=visual%20studio%20automatic%20build
+
+- title: "planilha com os lámens-alvo de cada visita"
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTwAsEAy-27xOWPokzSt49oUhnyAx0UW2npQAOi6dgTU5hkOOhvDhvD5POJMteyYuQfVcrQfyrRRsU3/pubhtml
+
+- title: "por um dos criadores da linguagem C"
+  url: http://www.cs.bell-labs.com/who/dmr/chist.html
+
+- title: "pornochanchada"
+  url: https://pt.wikipedia.org/wiki/Pornochanchada
+
+- title: "post da Ophir Harpaz"
+  url: https://medium.com/@ophirharpaz/kdnet-tutorial-for-noobs-68669778bbd4
+
+- title: "post que vi"
+  url: http://dqsoft.blogspot.com/2021/01/resolucoes-de-ano-novo-edicao-2021.html
+
+- title: "pouquíssimos amigos blogueiros"
+  url: https://www.linkedin.com/in/driverentry/
+
+- title: "primeira temporada"
+  url: westworld
+
+- title: "primeiro colocado"
+  url: https://code.google.com/codejam/contest/4304486/scoreboard#vf=1
+
+- title: "programador"
+  url: https://github.com/Caloni
+
+- title: "publicador hugo"
+  url: https://gohugo.io/
+
+- title: "qsort"
+  url: http://www.cplusplus.com/reference/cstdlib/qsort/
+
+- title: "qualidades de bom programador"
+  url: http://c2.com/cgi/wiki?LazinessImpatienceHubris
+
+- title: "que existem na estrutura"
+  url: http://undocumented.ntinternals.net/UserMode/Undocumented%20Functions/NT%20Objects/Process/PEB.html
+
+- title: "realloc da biblioteca padrão"
+  url: https://en.cppreference.com/w/c/memory/realloc
+
+- title: "really good"
+  url: https://archive.org/details/codebreakers_journal_vol1no2_7
+
+- title: "realmente bons no que fazem"
+  url: http://www.codebreakers-journal.com
+
+- title: "referência GNU da linguagem C"
+  url: https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.3/html_node/libc_231.html
+
+- title: "referência GNU sobre Null Pointer Constant"
+  url: https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.5/html_node/Null-Pointer-Constant.html
+
+- title: "registro histórico mais antigo do mundo de produção de vinho"
+  url: https://www.bbc.com/news/world-europe-41977709
+
+- title: "região do Douro"
+  url: https://goo.gl/maps/73Uw2FUKkYFcYGE47
+
+- title: "repeated string problem"
+  url: https://www.hackerrank.com/challenges/repeated-string
+
+- title: "replit"
+  url: https://replit.com/@Caloni/Compress#compress_numbers_in_strings.cpp
+
+- title: "resumo profissional"
+  url: https://caloni.com.br/journal/2007-06.html#resume
+
+- title: "saga Harry Potter"
+  url: harry_potter_e_a_pedra_filosofal
+
+- title: "sales by match"
+  url: https://www.hackerrank.com/challenges/sock-merchant
+
+- title: "se colocar na frente da fila"
+  url: http://msdn.microsoft.com/en-us/library/ms686227%28VS.85%29.aspx
+
+- title: "segue"
+  url: https://github.com/Caloni/vim
+
+- title: "seguintes condições"
+  url: http://creativecommons.org/licenses/by-nc-nd/2.5/br/
+
+- title: "segunda"
+  url: https://code.google.com/codejam/contest/4304486/dashboard#s=p1
+
+- title: "sendo inventada"
+  url: https://acloudguru.com/blog/engineering/conditions-in-bash-scripting-if-statements
+
+- title: "seu endereço"
+  url: http://subversion.assembla.com/svn/caloni/trunk
+
+- title: "seu texto sobre A Febre do Mediterrâneo"
+  url: https://coletivocritico.com/2022/10/22/46a-mostra-febre-do-mediterraneo/
+
+- title: "sexta-feira 13"
+  url: http://pt.wikipedia.org/wiki/Sexta_Feira_13
+
+- title: "shell extensions"
+  url: http://en.wikipedia.org/wiki/Shell_extension#Extensibility
+
+- title: "sizeof"
+  url: what_happens_inside_the_sizeof_operator
+
+- title: "std::list"
+  url: https://en.cppreference.com/w/cpp/container/list.html
+
+- title: "são precisos 10 anos"
+  url: http://www.norvig.com/21-days.html
+
+- title: "série Harry Potter"
+  url: harry_potter_e_o_prisioneiro_de_azkaban
+
+- title: "sítio do Charles Petzold"
+  url: http://www.charlespetzold.com
+
+- title: "tail recursion"
+  url: http://en.wikipedia.org/wiki/Tail_recursion
+
+- title: "teste do Joel"
+  url: https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+
+- title: "the Warm Up challenges"
+  url: hacker_rank_warm_up
+
+- title: "the home of WireGuard project"
+  url: https://www.wireguard.com/
+
+- title: "tiodb"
+  url: https://github.com/tiodb/tiodb
+
+- title: "tradução para inglês"
+  url: http://windbg.info/doc/2-windbg-a-z.html
+
+- title: "triplet"
+  url: https://github.com/Microsoft/vcpkg/blob/master/docs/users/triplets.md
+
+- title: "tutorial da própria SystemRescueCd"
+  url: http://www.system-rescue-cd.org/Sysresccd-manual-en_How_to_personalize_SystemRescueCd
+
+- title: "tutorial do próprio OpenSSL"
+  url: https://wiki.openssl.org/index.php/Compilation_and_Installation#Windows
+
+- title: "tutorial"
+  url: http://nodotcom.org/python-facebook-tutorial.html
+
+- title: "tão baratos quanto um XOR"
+  url: https://dgl.cx/2014/10/vim-blowfish
+
+- title: "um artigo do Roberto Farah"
+  url: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/windbg-script-get-portable-executable-headers
+
+- title: "um blog"
+  url: https://oblogdomerten.wordpress.com
+
+- title: "um fork próprio"
+  url: https://github.com/bitforgebr/hidapi/commit/132e03f37e8ab8c95ee264e1cfbeef6b2ed39a5b
+
+- title: "um guia"
+  url: https://winscp.net/eng/docs/guide_windows_openssh_server
+
+- title: "um issue"
+  url: https://github.com/chriskohlhoff/asio/issues/665
+
+- title: "um mapa"
+  url: https://www.google.com/maps/d/u/0/viewer?mid=11clYUiTza6RsYE27SvO8tstlGIbPNZcC&femb=1&ll=35.868893993265885%2C139.84198475&z=10
+
+- title: "um post do Stack Overflow"
+  url: https://stackoverflow.com/questions/16212816/setting-up-openssh-for-windows-using-public-key-authentication
+
+- title: "um post na lista CCPPBRASIL"
+  url: http://groups.google.com/group/ccppbrasil/browse_thread/thread/1e444ab3067baf55
+
+- title: "um repositório"
+  url: https://github.com/Caloni/x64-deep-dive
+
+- title: "um texto da época"
+  url: house
+
+- title: "uma convenção"
+  url: https://www.gnu.org/software/gawk/manual/gawk.html#Variable-Scope
+
+- title: "uma entrada na wiki"
+  url: https://wiki.qt.io/IDE_Debug_Helpers
+
+- title: "uso no dia-a-dia"
+  url: http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar
+
+- title: "vetores são garantidos que serão contínuos"
+  url: https://herbsutter.com/2008/04/07/cringe-not-vectors-are-guaranteed-to-be-contiguous/
+
+- title: "votos de sucesso"
+  url: http://groups.google.com/group/ccppbrasil/msg/64f084207c068689
+
+- title: "vídeo da Paulina Cocina"
+  url: https://youtu.be/N_PcT2diLcM
+
+- title: "vídeo de Isabel Vermal"
+  url: https://youtu.be/gpVHElzSebg
+
+- title: "vídeo de demonstração"
+  url: https://www.youtube.com/watch?v=mZewxqlFShA
+
+- title: "vídeo de empanadas do cara do Amo Pão Caseiro"
+  url: https://youtu.be/jDSh7fBigPU
+
+- title: "vídeo que pretendo gravar"
+  url: https://youtu.be/wp7-BD9pOOc
+
+- title: "vídeo"
+  url: https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW
+
+- title: "writing"
+  url: why_is_my_dll_locked
+
+- title: "x64dbg"
+  url: https://x64dbg.com/
+
+- title: "é de fato um gênero"
+  url: https://pt.wikipedia.org/wiki/Slice_of_life#Na_cultura_japonesa
+
+- title: "ótimo artigo"
+  url: https://www.codeproject.com/articles/Debugging-and-Building-Operating-Systems
+
+- title: "últimas modificações adicionadas no Visual Studio 2017"
+  url: https://blogs.msdn.microsoft.com/vcblog/2017/05/10/c17-features-in-vs-2017-3/
+
+- title: "últimos posts"
+  url: https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg
+
