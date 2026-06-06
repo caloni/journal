@@ -1,6 +1,5 @@
 # Autor
 date: 2005-05-15
-slug: author
 tags: computer blog
 
 Compulsive programmer. Wanderley Caloni Jr, brasileiro de nascença e programador por paixão, começou a se divertir aos 17 anos com seu Microsoft Quick BASIC recém baixado da internet. Depois que fez seu primeiro programa - uma calculadora - e saiu pulando pela casa feliz da vida, nunca mais parou de programar. Após dominar as técnicas básicas do if, while e for (ohhhhh...) passou a estudar uma tal de C, linguagem que o faria ficar mais doidão ainda por programação. Seu primeiro programa in(útil) foi o jogo genius, o único no mundo (que eu conheço) que guardava recordes no próprio executável! Depois que gabaritou no C passou a desenvolver classes templates com funções polimórficas e herança múltipla em C++.
@@ -15,7 +14,6 @@ A idéia do blog é tentar disseminar e esclarecer detalhes no uso das linguagen
 
 # Hello World
 date: 2005-05-16
-slug: hello_world
 tags: computer blog
 
 Ufa! Finalmente consegui publicar alguma coisa aqui no site. Aproveitei minhas poucas horas de folga para procurar um projeto simples de blog no SourceForge, modificá-lo à minha maneira e cá está:
@@ -88,7 +86,6 @@ Sim, essa explicação por si só já explica como os jumps funcionam. Porém , 
 
 # Erros esquisitos (que nenhum principiante deveria enfrentar)
 date: 2006-04-10
-slug: erros_esquisitos
 tags: computer ccpp blog
 
 A tentativa de tornar C++ mais simples de usar para tarefas mundanas deu um grande avanço a partir do padrão de 1998. Veja esse exemplo que lê um inteiro na entrada e escreve ele novamente na saída na base hexadecimal:
@@ -644,7 +641,6 @@ Pois é, deu pra perceber que seu código não era de "produção" =).
 
 # O que muda em C++ no Visual Studio 2005
 date: 2006-05-22
-slug: visual_studio_2005
 tags: computer ccpp blog
 
 Confesso que não estava confiante, nem animado, em usar essa nova versão. Mas, enfim, o dia chegou. Essa semana instalei na minha máquina do serviço para o início da migração de nossos projetos. O processo de conversão ficou por conta de um outro colega, porém todos os problemas eram imediatamente reportados a mim (como se eu fosse o culpado ou algo do tipo pelos caprichos da equipe do VC8). Pra resumir desde o início, a visão geral que tive foi que a nova versão aumenta a compatibilidade com o C++ ISO, porém fornece novas extensões e erra em algumas mudanças que, como explico mais adiante, comprometem o aprendizado do estudante e um dos objetivos do C++.
@@ -922,7 +918,6 @@ Eheheheheheh valeu. Valeu a todos. É bom saber que o movimento está "aceso" e 
 
 # VC++ 2005 e Windows 95 não casam
 date: 2006-05-26
-slug: vcpp_2005_windows_95
 tags: computer blog
 
 Hoje foi mais um dia de surpresas com a nova versão do ambiente de programação da Microsoft. De cara descobrimos que programas que usam a nova CRT não rodam no Windows 95. Eu quero dizer: não é um projeto específico; QUALQUER projeto não irá rodar. Tentamos executar um projeto vazio e existe uma dependência da função IsDebuggerPresent nos executáveis gerados. Essa função API inexiste nessa versão do SO.
@@ -1064,7 +1059,6 @@ Sim, Thiago. Em ambas as configurações não roda no 95 por conta da função I
 
 # História do Windows
 date: 2006-11-11
-slug: historia_do_windows
 tags: computer windows draft veryold
 
 Estava mexendo em uns fontes antigos e no meio deles encontrei um breve relato histórico do sistema operacional Windows que escrevi em uma época distante, quando planejava manter um site sobre ele com um amigo. De acordo com o Source Safe, a última modificação foi feita em abril de 2002. Fora um adendo sobre o Vista e uns leves retoques, o texto se mantém o mesmo, tornando ele o artigo que menos me deu trabalho nesse 1 ano e meio de blog.
@@ -1151,7 +1145,6 @@ Está previsto ainda para o ano que vem a nova versão da plataforma NT, com nov
 
 # About
 date: 2007-06-14
-slug: about
 tags: blog
 
 Quer entrar em contato? Mande o bom e velho email. Quer um "resumo profissional"?
@@ -1273,7 +1266,6 @@ Nos últimos anos voltei para a área de segurança, onde na Venn estou me diver
 
 # Wanderley Caloni
 date: 2007-06-14
-slug: resume
 
 Location: São Paulo, Brazil
 
@@ -1320,7 +1312,6 @@ Tools: Visual Studio, WinDbg, "Git" , SSH+Vim.
 
 # O bom filho à casa retorna
 date: 2007-06-15
-slug: hello_world2
 tags: blog
 
 Depois de seis meses blogueando em um novo domínio, que seria totalmente focado em C++, descobri que não consigo viver escrevendo apenas sobre a linguagem em que programo. Não é que falte assunto. Simplesmente meu dia-a-dia nunca se resume apenas em regras de sintaxe e erros de compilação.
@@ -1335,7 +1326,6 @@ E isso me leva de volta para cá, o cantinho de onde nunca deveria ter saído. M
 
 # A Inteligência do if: Parte 1
 date: 2007-06-18
-slug: a_inteligencia_do_if_parte_1
 tags: computer programming_tag philosophy assembly blog
 
 No nível mais baixo, podemos dizer que as instruções de um computador se baseiam simplesmente em cálculos matemáticos e manipulação de memória. E entre os tipos de manipulação existe aquela que muda o endereço da próxima instrução que será executada. A essa manipulação damos o nome de salto.
@@ -1455,7 +1445,6 @@ Neste artigo vimos como todas as construções de uma linguagem de programação
 
 # Introdução ao Debugging Tools for Windows (usando o Logger para monitorar APIs)
 date: 2007-06-20
-slug: introducao_ao_debugging_tools_for_windows
 tags: computer reversing windbg blog
 
 2025-10-05: Hoje o Logger está desatualizado e não recomendo mais seu uso. Há ferramentas melhores, como API Monitor, além de ser possível você mesmo desenvolver com a lib Detours.
@@ -1603,7 +1592,6 @@ Eu já configurei o WinDbg para baixar os símbolos, conforme está explicado aq
 
 # Disassembling the array operator
 date: 2007-06-22
-slug: disassembling_the_array_operator
 tags: computer ccpp english blog
 
 Arrays are fascinating in C language because they are so simple and so powerful at the same time. When we start to really understand them and realize all its power we are very close to understand another awesome feature of the language: pointers.
@@ -1668,7 +1656,6 @@ Obs.: this kind of "obscure rule" hardly will pass in a code review since it is 
 
 # História do Windows - parte 1.0
 date: 2007-06-26
-slug: historia_do_windows_parte_10
 tags: computer windows archive
 
 Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao "História do Windows".
@@ -1704,7 +1691,6 @@ Para eu matar a curiosidade sobre as telas desses sistemas operacionais, andei f
 
 # A Inteligência do if: Parte 2
 date: 2007-06-29
-slug: a_inteligencia_do_if_parte_2
 tags: computer programming_tag philosophy blog
 
 Vimos na primeira parte desse artigo como o if revolucionou o mundo da computação ao trazer um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de salto condicional. Também vimos como o resto das construções lógicas de uma linguagem são apenas derivações montadas a partir de saltos condicionais e incondicionais. Nesta segunda parte veremos como implementar um saldo condicional baseando-se no fato de que o computador pode apenas realizar operações matemáticas. Afinal de contas, um computador não "pensa".
@@ -1782,7 +1768,6 @@ Lembre-se que essa é apenas uma demonstração de como pode funcionar um salto 
 
 # Introdução ao SoftICE
 date: 2007-07-02
-slug: introducao_ao_softice
 tags: computer blog
 
 O que acontece quando você precisa depurar um programa e não tem o Visual Studio instalado na máquina onde o problema está ocorrendo? Ora, para isso que existe o Remote Debugging. Eu uso direto. Você só precisa rodar um pequeno programa na máquina que vai ser depurada e abrir uma porta ou duas. O resto o Visual Studio da máquina que vai depurar faz.
@@ -1833,7 +1818,6 @@ Essa parece ser uma introdução muito básica ao SoftICE. E na verdade é. Tere
 
 # História do Windows - parte 2.0
 date: 2007-07-04
-slug: historia_do_windows_parte_20
 tags: computer windows archive
 
 Eu seu, eu sei. A maioria dos meus leitores odiou o tema "História do Windows" na era paleozóica. Porém, como eu disse na parte 1.0, estou apenas satisfazendo a outra parte de leitores que procurou no Google por esse tema e acabou caindo no meu antigo blog. Mas vejamos o lado bom: a partir da próxima versão iremos destrinchar a API do sistema, entendendo o porquê das coisas serem como elas são. No momento os deixo apenas com história, pois é desconhecido para mim como funcionavam os primeiros rabiscos do MS-DOS Shell, mais conhecido como Windows/386. Bom divertimento!
@@ -1857,7 +1841,6 @@ A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma
 
 # Precedence difference
 date: 2007-07-10
-slug: precedence_difference
 tags: computer ccpp english blog
 
 Once upon a time my old friend Kabloc wrote this little and "harmless" function in order to print the multiplication table:
@@ -1996,7 +1979,6 @@ int main()
 
 # Desejo insano de programar no kernel
 date: 2007-07-12
-slug: desejo_insano_programar_no_kernel
 tags: essays archive
 
 Muitas vezes meus amigos (um em particular) me perguntam por que não me interesso em programar em kernel mode, como se isso fosse um objetivo a ser alcançado por qualquer programador em user mode. Bom, não é.
@@ -2041,7 +2023,6 @@ Se você tem certeza que é isso o que você quer, e é isso o que você precisa
 
 # What happens inside the sizeof operator
 date: 2007-07-16
-slug: what_happens_inside_the_sizeof_operator
 tags: computer ccpp english blog
 
 The question: how to get the size of a struct member without declaring it as a variable in memory? In pseudocode:
@@ -2106,7 +2087,6 @@ Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítim
 
 # Antidebug: interpretação baseada em exceção (parte 1)
 date: 2007-07-20
-slug: antidebug_interpretacao_baseada_em_excecao_parte_1
 tags: computer projects blog
 
 Um depurador utiliza breakpoints para "paralisar" momentaneamente a execução do programa sendo depurado. Para isso ele se utiliza de uma bem conhecida instrução conhecida como int 3. Essa instrução gera uma exceção -- exceção de breakpoint -- que é capturada pelo sistema operacional e repassada para o código de tratamento dessa exceção. Em programas sendo depurados esse código está localizado no depurador. Em programas "livres" esse código normalmente não existe e ao acontecer essa exceção o aplicativo simplesmente "capota".
@@ -2505,7 +2485,6 @@ Você acha que os atalhos "WinKey + Del", "WinKey + Insert" e "WinKey + End" for
 
 # C and C++ Operators Precedence Table
 date: 2007-07-30
-slug: c_cpp_operators_precedence_table
 tags: computer ccpp english blog
 
 "Wanderley, your explanation about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing. I checked out the Appendix A in the "C ++ - How To Program" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article. I went to the internet and found out in two websites the table and both are equal to the book table. From where did you get the presented C++ table?" "Márcio Andrey Oliveira".
@@ -2623,7 +2602,6 @@ Por falar em se emocionar, imagino que seu comentário estaria mais contextualiz
 
 # História da Linguagem C: Parte 1
 date: 2007-08-01
-slug: historia_da_linguagem_c_parte_1
 tags: computer ccpp blog
 
 Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens BCPL e B. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.
@@ -2664,7 +2642,6 @@ Como é natural, o código-fonte de uma aplicação tende a crescer em muitas li
 
 # História do Windows - parte 3.0
 date: 2007-08-03
-slug: historia_do_windows_parte_30
 tags: computer blog
 
 Em 22 de maio de 1990 a versão 3.0 do Windows foi lançada. Foi melhorado o gerenciador de programas e o sistema de ícones, além de um novo gerenciador de arquivos e suporte a 16 cores. Entre as mudanças internas podemos citar a velocidade e a confiabilidade. Como a partir dessa versão apareceram muitos desenvolvedores que passaram a suportar a plataforma, o número de programas disponíveis aumentou, o que conseqüentemente fez com que as vendas alavancassem. Três milhões de cópias foram vendidas apenas no primeiro ano, e assim o Windows se tornou padrão nos computadores domésticos. Quando a versão 3.1 foi lançada, em 6 de abril de 1992, mais três milhões de cópias foram vendidos em apenas dois meses.
@@ -2827,7 +2804,6 @@ Para saber mais dê uma passada no "sítio do Charles Petzold".
 
 # História do Windows - parte 3.51
 date: 2007-08-07
-slug: historia_do_windows_parte_351
 tags: computer archive
 
 Bem-vindos. Esta é a série "História do Windows". Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. Com tudo combinado entre as grandes corporações, é lógico que esse acordo foi por água abaixo.
@@ -3069,7 +3045,6 @@ Em suma, o VirtualBox tem tudo para arrasar em futuras versões. Se, é claro, c
 
 # GINA x Credential Provider
 date: 2007-08-13
-slug: gina_x_credential_provider
 tags: computer archive
 
 Não fui convidado a participar do tema, mas como já faz algum tempo que o rascunho deste artigo está no molho, e aproveitando que meu amigo Ferdinando resolveu escrever sobre nossa amiga em comum, darei continuidade à minha empolgação sobre o tagging e largarei aqui este pequeno adendo.
@@ -3129,7 +3104,6 @@ Não há necessidade alguma. Foi apenas um exemplo ilustrativo. No entanto, usei
 
 # História da Linguagem C: Parte 2
 date: 2007-08-15
-slug: historia_da_linguagem_c_parte_2
 tags: computer ccpp blog
 
 No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados senhores dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.
@@ -3512,7 +3486,6 @@ Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e faz
 
 # Hook de API no WinDbg
 date: 2007-08-29
-slug: hook_de_api_no_windbg
 tags: computer blog
 
 Basicamente existem duas maneiras de um executável obter o endereço de uma função API do Windows: ou ele usa uma lib de interface com a DLL (o chamado "link estático") ou ele chama a função GetProcAddress explicitamente (1).
@@ -3592,7 +3565,6 @@ Essa é uma maneira rústica, porém eficaz e rápida de obter a lista de execu�
 # Barata Elétrica e o hacker de antigamente
 date: 2007-08-31
 link: https://absoluta.org/barata/
-slug: barata_eletrica
 tags: essays blog
 
 Os artigos escritos por ele estavam em português, mas sempre em suas edições ele disponibilizava artigos de outras partes do mundo em inglês. Praticamente li todos eles, e muitos fiz questão de ler mais de uma vez. A maioria falava de um mundo que existia antes de eu ter um computador, onde existiam vírus e pirataria de programas em disquetes, BBSs e a tal reserva de mercado. Além, é claro, de dicas de como ser um nerd e não perder a sociabilidade (se é que isso é possível quando se é um nerd adolescente). Existe uma página no zine onde estão listados os melhores artigos de todos os tempos da revista.
@@ -3644,7 +3616,6 @@ Adorei o texto. So para acrescentar: O fanzine Barata Eletrica continua, agora c
 
 # História do Windows - parte 4.0
 date: 2007-09-04
-slug: historia_do_windows_parte_40
 tags: computer archive
 
 Em meio a uma febre de consumismo, no dia 24 de agosto de 1995, foi lançado a revolução no sistema gráfico da Microsoft: a interface do Windows 95. Ela foi considerada muito mais amigável que suas versões anteriores. Ainda possuía a vantagem de não necessitar mais de uma instalação prévia do DOS, passou a suportar nomes de arquivos longos, incluir suporte a TCP/IP e dial-up networking integrados. Muitas mudanças foram feitas no sistema em si, como a passagem para 32 bits (como já vimos, parcial) e o novo conceito de threads, que é o que veremos com mais detalhes neste artigo.
@@ -3864,7 +3835,6 @@ Seja qual for a solução escolhida, ao menos temos a vantagem do impacto no sis
 
 # Guia básico de controle de código centralizado
 date: 2007-09-12
-slug: guia_basico_de_controle_de_codigo_centralizado
 tags: computer blog
 
 O primeiro passo para se passar no Teste do Joel é possuir algum tipo de controle de código. E ele está mais do que certo. Não existe nada mais frustrante do que não ter exatamente o código-fonte da versão que está rodando no cliente ou não saber o que mudou desde que a versão foi entregue. Esse tipo de coisa pode acabar com uma empresa ou fazer com que ela fique muito mal vista no mercado.
@@ -3913,7 +3883,6 @@ O resumo da ópera é: cuide bem dos seus fontes. Muito trabalho, tempo e dinhei
 
 # Aquisição de recurso é inicialização
 date: 2007-09-14
-slug: aquisicao_de_recurso_e_inicializacao
 tags: computer ccpp blog
 
 O título desse artigo é uma técnica presente no paradigma da programação em C++, razão pela qual não temos o operador finally. A idéia por trás dessa técnica é conseguirmos usar recursos representados por objetos locais de maneira que ao final da função esses objetos sejam destruídos e, junto com eles, os recursos que foram alocados. Podemos chamar de recursos aquele arquivo que necessita ser aberto para escrita, o bitmap que é exibido na tela, o ponteiro de uma interface COM, etc. O nosso exemplo é sobre arquivos:
@@ -4015,7 +3984,6 @@ A decisão sobre qual solução é a melhor está muito além do escopo desse ar
 
 # Hook de COM no WinDbg
 date: 2007-09-18
-slug: hook_de_com_no_windbg
 tags: computer blog
 
 Continuando com o tema hooks no WinDbg vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás, mas com as opções de pause, rewind, replay e câmera lenta habilitadas.
@@ -4196,7 +4164,6 @@ Com isso termina o nosso pequeno experimento de como é possível interceptar ch
 
 # A mobilidade das variáveis no printf
 date: 2007-09-20
-slug: a_mobilidade_das_variaveis_no_printf
 tags: computer ccpp
 
 O printf (e derivados) tem sérios problemas por conta de sua falta de tipagem. Não vou aqui dizer que cout é a alternativa óbvia e melhorada porque não é. Mas isso é uma discussão que eu não deveria começar aqui. E não começarei. Portanto, ignorem essa linha =).
@@ -4236,7 +4203,6 @@ Ao definir os nomes das funções usadas para nada não haverá a chamada da fun
 
 # Why is my DLL locked?
 date: 2007-09-24
-slug: why_is_my_dll_locked
 tags: computer english blog
 
 The Windows code responsible to call DllMain for each loaded and unloaded DLLs uses an exclusive access object, the so-called mutex, to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.
@@ -4324,7 +4290,6 @@ Among the classic Matt Pietrek posts in Microsoft Journal there is in the "1999 
 
 # Introdução ao C++ Builder...Turbo C++
 date: 2007-09-26
-slug: introducao_ao_c_builderturbo_c
 tags: computer cppbuilder archive
 
 Após mais de um ano de tentativas, finalmente consegui instalar e iniciar com sucesso o Borland Developer Studio. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho C++ Builder e seus parentes, o Delphi e o C# Builder.
@@ -4414,7 +4379,6 @@ Bons tempos em que Borland era sinônimo de qualidade e preço baixo.
 
 # Developer: you need to know English!
 date: 2007-09-28
-slug: you_need_to_know_english
 tags: archive
 
 Eu realmente gostei desse negócio de tagging. =)
@@ -4503,7 +4467,6 @@ Quanto aos livros de vocabulário reduzido... bingo! Eu de fato esqueci de citar
 # Debug da BIOS com o SoftIce 16 bits
 date: 2007-10-02
 link: https://youtu.be/mXDROf0rLkI
-slug: debug_da_bios_com_o_softice_16_bits
 tags: computer blog
 
 Para quem acha que ainda não desceu demais o nível existe um "ótimo artigo" no Code Project de S. Z. Keller (aka ShalomZ) sobre como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o boot loader carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para download e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de load do seu primeiro sistema operacional.
@@ -4561,7 +4524,6 @@ A partir dessa leitura se usa o comando p ret do depurador, que é mais ou menos
 
 # Cronogramas
 date: 2007-10-04
-slug: cronograma
 tags: essays blog
 
 Nunca fui muito bom em definir cronogramas e nunca conheci alguém que fosse. Porém, ultimamente, no conforto do lar (férias), estou me saindo razoavelmente bem ao aplicar no meu dia-a-dia algumas regras que estabeleci como sendo boas pra mim. Não são regras que baixei do sítio do Joel nem é um design pattern, mas já me ajudam um bocado. Gostaria de compartilhá-las com meus pontuais leitores, que sempre entregam seus projetos em dia e nunca se esquecem de comentar uma linha de código sequer. Vocês são meu objetivo de vida e motivo de orgulho deste humilde blogue, que se esmera a cada dia que passa para ser fiel à inegável qualidade do meu público. Quando crescer quero ser igual a vocês.
@@ -4612,7 +4574,6 @@ Bons cronogramas!
 
 # História do Windows - parte 5.0
 date: 2007-10-08
-slug: historia_do_windows_parte_50
 tags: computer blog
 
 Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de Distributed File System, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede. Assim começou a "História do Windows" para redes de gente grande.
@@ -4672,7 +4633,6 @@ E por fim, a não ser que estejamos falando do XBox, o hardware é feito por ter
 
 # Engenharia reversa para principiantes
 date: 2007-10-10
-slug: engenharia_reversa_para_principiantes
 tags: computer blog
 
 Dei uma reformada em minha última "palestra sobre engenharia reversa". O tema escolhido foi tentar abranger os níveis de conhecimento que uma pessoa disposta a se dedicar à engenharia reversa de programas deveria ter, desde programação, passando pelo sistema operacional e terminando no uso de ferramentas. Achei interessante abordar esse tipo de conteúdo pelo fato de existirem pessoas que gostariam de começar ou já começaram e não sabem para onde ir.
@@ -4756,7 +4716,6 @@ Resposta ao PS: porque inicialmente minha intenção foi traduzir fielmente o pa
 
 # A Linguagem de Programação C: O Livro
 date: 2007-10-12
-slug: the_c_programming_language
 tags: ccpp books computer blog
 
 O clássico de Ritchie e Kernighan, criadores da linguagem C, não foi meu primeiro livro de programação. E nem deveria ser. Não o recomendo para iniciantes, pois é necessário possuir algum conhecimento e prática para realmente aproveitar os conceitos desse livro.
@@ -4825,7 +4784,6 @@ Livros vêm, livros vão, mas apenas os clássicos permanecerão. A Linguagem de
 
 # Guia básico para programadores de primeiro int main
 date: 2007-10-16
-slug: guia_basico_para_programadores_de_primeiro_int_main
 tags: computer blog programming_tag
 
 (Vou aproveitar que meu amigo DQ publicou um artigo muito bom sobre [como fazer programas fáceis de manter] (merece ser lido!) e vou republicar um artigo do blogue antigo sobre o básico do básico para quem deseja entender como os programas funcionam. Não é nada sofisticado, apenas alguns conceitos comuns que, se você deseja ser programador, deveria procurar saber.)
@@ -5040,7 +4998,6 @@ Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal
 
 # Guia básico para programadores de primeiro breakpoint
 date: 2007-10-22
-slug: guia_basico_para_programadores_de_primeiro_breakpoint
 tags: computer blog programming_tag
 
 Aproveitando um dos últimos artigos que fala sobre conceitos básicos de programação, lembro que, tão importante quanto programar é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.
@@ -5082,7 +5039,6 @@ Depurar esteve sempre ligado à programação desde os primórdios da humanidade
 
 # Typeid e os perigos do não-polimorfismo
 date: 2007-10-24
-slug: typeid_e_os_perigos_do_nao_polimorfismo
 tags: computer ccpp blog
 
 Quando usamos o operador typeid geralmente desejamos conhecer informações sobre o tipo exato do objeto que temos em mãos, independente da hierarquia de herança a qual seu tipo pertença. Só que por ignorar, assim como o "sizeof", que esse operador possui duas caras, às vezes damos com os burros n'água e compramos gato por lebre. Não é pra menos. Uma sutil diferença entre classes polimórficas e estáticas pode dar aquele susto que só C++ pode proporcionar.
@@ -5173,7 +5129,6 @@ class Deriv
 
 # Proteção dos membros protected
 date: 2007-10-26
-slug: protecao_dos_membros_protected
 tags: computer ccpp blog
 
 Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção protected. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:
@@ -5270,7 +5225,6 @@ Agora a proteção do compilador faz sentido. Parece um detalhe frívolo, mas j�
 
 # Alterando mensagem de erro no Notepad
 date: 2007-10-30
-slug: alterando_mensagem_de_erro_no_notepad
 tags: computer windbg blog
 
 O notepad é uma vítima tradicional de todo programador de Windows. Ele é usado tanto como teste de abertura de arquivo quanto criptografia de disco. É nossa cobaia favorita porque é simples, porém completo. ~~E roda rápido e sem bugs.~~ (2026-02-14 removendo suas qualidades após ele logar no Microsoft Account e ter o Copilot embutido; inclua a calculadora nessa)
@@ -5470,7 +5424,6 @@ Porém, se você prefere algo mais amigável, mais ainda que o WinDbg, você pod
 
 # Ponteiros de método: conceito fundamental
 date: 2007-11-05
-slug: ponteiros_de_metodo_conceito_fundamental
 tags: computer blog
 
 Diferente de ponteiros de função globais ou estáticas, que são a grosso modo ponteiros como qualquer um, os ponteiros de método possuem uma semântica toda especial que costuma intimidar até quem está acostumado com a aritmética de ponteiros avançada. Não é pra menos: é praticamente uma definição à parte, com algumas limitações e que deixa a desejar os quase sempre criativos programadores da linguagem, que vira e mexe estão pedindo mudanças no C++0x.
@@ -5564,7 +5517,6 @@ Esses operadores obrigam o programador a sempre ter um objeto e um ponteiro. Da�
 
 # Ponteiro de método: qual this é usado?
 date: 2007-11-07
-slug: ponteiro_de_metodo_qual_this_e_usado
 tags: computer blog
 
 Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue "CodeBehind", um escovador de bits disfarçado de programador .NET: qual objeto que vale na hora de chamar um método pelo ponteiro?
@@ -5716,7 +5668,6 @@ Como podemos ver, não é nenhuma magia negra a responsável por fazer os pontei
 
 # Detectando hooks globais no WinDbg (SetWindowsHookEx)
 date: 2007-11-09
-slug: detectando_hooks_globais_no_windbg
 tags: computer blog
 
 Nada como um comando prático para aprender rapidamente uma técnica. Nesse caso, tive que usar o seguinte comando para localizar o momento em que um executável instala um hook global: bp user32!SetWindowsHookExA "j poi(esp+4*4) 'g' ; '.echo *** GLOBAL HOOK ***; g'".
@@ -5776,7 +5727,6 @@ Relembrando nosso passeio pela pilha, ao entrar em uma função stdcall, os prim
 
 # MouseTool
 date: 2007-11-13
-slug: mousetool_english
 tags: english projects archive
 
 Well, as most of you already know, I really don't like mice. Nevertheless I respect the users who use it and like it. That is the reason why I am writing a little more about it. This time, I going to show a program I use every day: MouseTool, for the users who does not use the mouse and like it.
@@ -5856,7 +5806,6 @@ O SDelete segue o padrão DOD 5220.22-M, o que quer dizer que ele está dentro d
 
 # História do Windows - parte 5.1
 date: 2007-11-19
-slug: historia_do_windows_parte_51
 tags: computer archive
 
 Chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP, de Windows eXPerience, usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos. Essa é minha versão favorita da "História do Windows" e junto do Windows 7 uma das edições mais robustas já feitas.
@@ -5906,7 +5855,6 @@ Essa organização foi adotada principalmente pela sua grande vantagem de minimi
 
 # Usando a libc nativa do Windows
 date: 2007-11-21
-slug: usando_a_libc_nativa_do_windows
 tags: computer blog
 
 Por padrão, todo projeto no Visual Studio depende da libc. Isso quer dizer que, mesmo que você não use nem um mísero printf em todos os projetos criados, está atrelado a essa dependência. Em tempos onde fazer um "Hello World" pode custar 56 KB em Release - Visual Studio 2005, configuração padrão sem "buffer security check" - vale a pena economizar alguns KBytes que não se vão usar. Principalmente se essa possibilidade existe desde o cavernoso Windows 95.
@@ -6015,7 +5963,6 @@ Sim, trabalho atualmente em São Paulo, Brasil. O mercado? Não sou uma pessoa m
 
 # Carregando DLLs arbitrárias pelo WinDbg
 date: 2007-11-23
-slug: carregando_dlls_arbitrarias_pelo_windbg
 tags: computer blog
 
 Durante meus testes para a correção de um bug me deparei com a necessidade de carregar uma DLL desenvolvida por mim no processo depurado. O detalhe é que o processo depurado é de terceiros e não possuo o fonte. Portanto, as opções para mim mais simples são: 1) Usar o projeto "RmThread" para injetar a DLL (nesse caso iniciando o processo através dele), 2) Fazer um módulo wrapper para uma DLL qualquer e ser carregado de brinde, 3) Usar o WinDbg e brincar um pouco.
@@ -6074,7 +6021,6 @@ Como pudemos ver pela saída, a DLL foi carregada e agora temos a possibilidade 
 
 # Carregando DLLs arbitrárias pelo WinDbg ou como escrever script para WinDbg
 date: 2007-11-27
-slug: carregando_dlls_arbitrarias_pelo_windbg_parte_2
 tags: computer blog
 
 Um script no WinDbg nada mais é que uma execução em batch: um arquivo texto cheio de comandos que poderíamos digitar manualmente, mas que preferimos guardar para poupar nossos dedos. Existem quatro maneiras diferentes de chamar um script no WinDbg, todas muito parecidas, variando apenas se são permitidos espaços antes do nome do arquivo e se os comandos são condensados, isto é, as quebras de linhas substituídas por ponto-e-vírgula para executar tudo em uma linha só.
@@ -6385,7 +6331,6 @@ private:
 
 # Conceitos básicos na programação com C++ Builder
 date: 2007-12-03
-slug: conceitos_basicos_cpp_builder
 tags: computer cppbuilder archive
 
 No projeto que é criado quando iniciamos a IDE três arquivos-fonte são gerados: Project1.cpp, Unit1.cpp e Unit1.h. Desses três, vamos analisar o primeiro:
@@ -6690,7 +6635,6 @@ ntdll!KiFastSystemCallRet:
 
 # Debug remoto no C++ Builder
 date: 2007-12-13
-slug: debug_remoto_no_c_builder
 tags: computer cppbuilder debugging archive
 
 Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
@@ -6721,7 +6665,6 @@ Para os que utilizam o Visual Studio Express, realmente ainda não achei soluç�
 
 # Sizeof (de novo)
 date: 2007-12-17
-slug: sizeof_de_novo
 tags: computer blog
 
 Algumas coisas em C parecem tão simples na programação do dia-a-dia que em alguns momentos podem existir situações confusas e misteriosas. O uso obscuro do operador sizeof, por exemplo, pode dar margem a interpretações erradas a respeito do que está acontecendo por debaixo dos panos. Apesar do padrão ter sido elaborado para tentar tornar a linguagem uma coisa intuitiva e de fácil dedução, isso não acontece todas as vezes.
@@ -6808,7 +6751,6 @@ Na verdade, não. Acho que você está confundindo com a função strlen (string
 
 # Drag and drop no C++ Builder
 date: 2007-12-19
-slug: drag_drop_cpp_builder
 tags: computer archive
 
 O sistema de drag and drop do C++ Builder é muito fácil de usar, integrado que está com o sistema de classes e objetos do framework. Tanto para o objeto de drag quanto para o objeto de drop tudo que temos que fazer é definirmos a propriedade DragMode para dmAutomatic como mostra a figura. Isso fará com que toda a troca de mensagens seja manipulada automaticamente pela VCL.
@@ -6917,7 +6859,6 @@ No entanto, se você já viu algum programa fazer isso, então é porque existe 
 
 # Banco de dados no C++ Builder
 date: 2007-12-21
-slug: banco_de_dados_cpp_builder
 tags: computer cppbuilder archive
 
 Um banco de dados é qualquer lugar onde podemos ler e escrever informação geralmente persistente. Pode ser um arquivo INI, uma estrutura binária ou uma plantação de servidores para fazer busca na internet. O uso de banco de dados em programação é mais que essencial, pois permite que armazenemos os resultados de um processamento e utilizemos esses mesmos resultados em futuras execuções.
@@ -7093,7 +7034,6 @@ Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então
 
 # Curiosidades inúteis: o operador de subscrito em C++
 date: 2007-12-27
-slug: curiosidades_inuteis_o_operador_de_subscrito_em_c
 tags: computer blog
 
 Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!
@@ -7443,7 +7383,6 @@ Errata: na verdade o que ocorreu dia 19 foi um encontro de C++ com direito a pal
 
 # Como ter um melhor blogue em 2008
 date: 2008-01-08
-slug: como_ter_um_melhor_blogue
 tags: archive
 
 Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas algumas dicas que o criador do termo (we)blog deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia-a-dia.
@@ -7529,7 +7468,6 @@ De qualquer forma, não é porque escrevemos sobre coisas técnicas que nossos b
 
 # Analisando Dumps com WinDbg e IDA
 date: 2008-01-10
-slug: analisando_dumps_com_windbg_e_ida
 tags: computer blog
 
 Apesar de ser recomendado que 100% dos componentes de um software esteja configurado corretamente para gerar símbolos na versão release, possibilitando assim a visualização do nome das funções internas através de um arquivo de dump (despejo) gerado na ocorrência de um crash, essa verdade só ocorre em 80% das vezes. Quis Murphy que dessa vez a única parte não "simbolizada" fosse a que gerou a tela azul em um Intel Quad Core que estou analisando esses dias.
@@ -7849,7 +7787,6 @@ Leia a documentação do WinDbg sobre temas (dentro de Themes, Themes.doc). Foi 
 
 # Encontrando as respostas do Flash Pops
 date: 2008-01-16
-slug: encontrando_as_respostas_do_flash_pops
 tags: computer blog
 
 Existia uma série de jogos no sítio da UOL chamado Flash Pops onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da década de 40 até a atualidade. É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o Google e o IMDB até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a trilha sonora do filme, ouvimos faixa a faixa e procuramos o nome da música no Google, para finalmente encontrar o resultado.
@@ -8479,7 +8416,6 @@ int main(int argc, char* argv[])
 
 # Terceiro encontro C++
 date: 2008-01-22
-slug: terceiro_encontro_cpp
 tags: ccppbr blog
 
 Nesse último sábado aconteceu, como previsto, o terceiro encontro de usuários/programadores C++. Foi um sucesso bem maior que o esperado, pelo menos por mim e pelas pessoas com quem conversei. A organização foi fantástica, e o patrocínio muito importante, o que deu abertura para pensamentos mais ousados sobre o futuro de C++ no Brasil. Foi gerada uma lista de resoluções para o futuro (que começa hoje), onde pretendemos, inclusive, fazer reuniões no mesmo estilo trimestralmente.
@@ -8699,7 +8635,6 @@ Um problema chato (que você poderá encontrar) é que, se a DLL não for carreg
 
 # Compartilhando variáveis com o mundo
 date: 2008-01-30
-slug: compartilhando_variaveis_com_o_mundo
 tags: computer blog
 
 Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do crie uma seção compartilhada no seu executável/DLL. Isso funciona desde a época em que "o Windows era em preto e branco". Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do use memória mapeada nomeada misturada com templates.
@@ -9006,7 +8941,6 @@ Existem duas mudanças significativas: 1. a variável sozinha já representa a m
 
 # Process Monitor e o monopólio malcriado
 date: 2008-02-05
-slug: process_monitor_e_o_monopolio_malcriado
 tags: computer blog
 
 Uma das primeiras regras que aprendemos para manter a integridade do Windows é utilizá-lo somente com a conta de usuários restritos, o que evitaria, por exemplo, que um programa mal-intencionado instale um serviço ou driver, que teriam acesso às partes íntimas do sistema operacional.
@@ -9189,7 +9123,6 @@ For me, the first version is enough. It is faster to type, simpler to catch and 
 
 # Desconstruindo IOCCC
 date: 2008-02-11
-slug: desconstruindo_ioccc
 tags: computer blog
 
 Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama "The International Obfuscated C Code Contest" (IOCCC resumidamente) e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".
@@ -9437,7 +9370,6 @@ Olá, Vini. De fato, os dígrafos em C/C++ são uma das características das dua
 
 # Creative Commons
 date: 2026-03-21
-slug: creative_commons
 tags: archive
 
 Update 2026-03-21. Mantive este artigo pelo histórico e pelos comentários. Há muito tempo desconsidero a propriedade imaginária dos meus textos. Faça o que quiser.
@@ -9672,7 +9604,6 @@ while( 0 );
 
 # Os diferentes erros na linguagem C
 date: 2008-02-15
-slug: os_diferentes_erros_na_linguagem_c
 tags: computer ccpp blog
 
 Uma coisa que me espanta de vez em quando é o total desconhecimento por programadores mais ou menos experientes dos níveis de erros que podem ocorrer em um fonte escrito em C ou C++. Desconheço o motivo, mas desconfio que o fato de outras linguagens não terem essa divisão de processos pode causar alguma nivelação entre as linguagens e fazer pensar que o processo de compilação em C é como em qualquer outra linguagem.
@@ -9926,7 +9857,6 @@ Quando se trata de programar em C, clareza é mil vezes mais importante que conc
 
 # Configurando seus projetos no Visual Studio para rodar em outras máquinas
 date: 2008-02-21
-slug: visual_studio_configurar_projetos
 tags: computer blog
 
 Ao iniciar na arte da programação em C no Visual Studio eventualmente o programador irá querer testar seus programas rodando em outra máquina que não seja a de desenvolvimento, mandar uma versão beta para amigos, pra namorada e pro seu cachorro. Geralmente, por padrão, existem algumas dependências do programa compilado com uma DLL de runtime da versão do ambiente em que foi compilado o dito cujo, dificultando um pouco a distribuição do seu motherfucker-program.
@@ -9963,7 +9893,6 @@ Acho que esses são os únicos empecilhos iniciais para testar seu programa em o
 
 # Códigos de entrevista - o ponteiro nulo
 date: 2008-02-25
-slug: codigos_de_entrevista_o_ponteiro_nulo
 tags: computer blog
 
 Bom, parece que o "mother-fucker" wordpress ferrou com meu artigo sobre o Houaiss. Enquanto eu choro as pitangas aqui vai um outro artigo um pouco mais simples, mas igualmente interessante.
@@ -10136,7 +10065,6 @@ A essência do zen consiste em caminhar sobre o fio da navalha do Agora. Eckhart
 
 # Conversor de Houaiss para Babylon - parte 1
 date: 2008-02-27
-slug: conversor_de_houaiss_para_babylon_parte_1
 tags: computer projects blog
 
 Este artigo é sobre desmontar e montar novamente. Iremos descobrir como as entradas do dicionário Houaiss eletrônico estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em outro dicionário de uso mais flexível, o Babylon. Ou seja, este não é um guia de vandalismo. Estava apenas querendo usar um dicionário de qualidade excelente em outro dicionário cuja interface é muito boa.
@@ -10481,7 +10409,6 @@ Parte da mágica já foi feita, talvez a mais importante e divertida. Daqui pra 
 
 # Iteradores não são constantes
 date: 2008-03-04
-slug: iteradores_nao_sao_constantes
 tags: computer blog
 
 Um bug que já encontrei uma dúzia de vezes entre os novatos da STL é a utilização de iteradores como se eles não fossem mudar nunca. Porém, a verdade é bem diferente: iteradores se tornam inválidos sim, e com muito mais freqüência do que normalmente se imagina. Entre as situações em que iteradores podem mudar estão as seguintes:
@@ -10610,7 +10537,6 @@ Valeu o aviso!
 
 # Estranho
 date: 2008-03-06
-slug: estranho
 tags: blog
 
 Bom, é hora de dizer tchau. Essa é minha última semana escovando bits na empresa onde estava por três anos. É estranho e esquisito dizer isso, mas me sinto um tanto aliviado. Nessa empreitada, porém, aprendi algumas coisas que valem a pena colocar na bagagem. Sempre é melhor entender do que criticar.
@@ -10686,7 +10612,6 @@ Seu Ferdinando, seu comentário foi especialmente postergado para evitar confabu
 
 # Sed, Grep e afins
 date: 2008-03-10
-slug: sed_grep
 tags: computer blog
 
 Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
@@ -10986,7 +10911,6 @@ Configure Seus Símbolos Corretamente.
 
 # Influence Board
 date: 2008-03-14
-slug: influence_board
 tags: computer projects archive
 
 Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
@@ -11075,7 +10999,6 @@ Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, qu
 
 # Quarto encontro C++
 date: 2008-03-18
-slug: quarto_encontro_cpp
 tags: ccppbr blog
 
 Para os desavisados de plantão, irá acontecer no dia 29 de março de 2008 o quarto encontro de programadores e aficionados C++. Mais detalhes no link anterior. Em suma, as palestras são estas:
@@ -11143,7 +11066,6 @@ Não sei se a maior parte do pessoal concordaria com a troca de nomes, mas achei
 
 # Depuração da MBR
 date: 2008-03-24
-slug: depuracao_da_mbr
 tags: computer blog
 
 Dando continuidade a um artigo bem antigo sobre depuração da BIOS usando SoftIce, como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de ectoplasma na atmosfera, é possível que a máquina trave após o hot boot iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
@@ -11212,7 +11134,6 @@ Além da MBR, muitas vezes é preciso depurar a própria BIOS para descobrir o q
 
 # WinDbg a distância
 date: 2008-03-26
-slug: windbg_a_distancia
 tags: computer blog
 
 Acho que o que mais me impressionou até hoje a respeito do WinDbg é a sua capacidade de depuração remota. Não há nada como depurar problemas sentado confortavelmente na sua cadeira de programador em frente à sua mesa de programador.
@@ -11284,7 +11205,6 @@ Uma organização mais esperta dos ambientes de teste e desenvolvimento tomaria 
 
 # Backup de pobre
 date: 2008-03-28
-slug: backup_de_pobre
 tags: computer blog
 
 Update de 2026-02-20. Mantive este artigo pelo seu tom histórico, mas hoje em dia com o advento de storage, processamento e memória infinitos, não preciso no meu dia-a-dia me preocupar com estes detalhes na hora de fazer cópias de segurança: simplesmente rodo o 7z e jogo tudo para outro storage. Apenas quando se trata de algo na nuvem mantenho em pastas menores, mas em geral não se trata de binários. No futuro devo pensar em algo mais cloud based para manter backup de binários que irão ser apagados da internet dependendo do seu uso (estou me referindo a mídias, também). Futuro artigo: como usar torrent caseiro.
@@ -11383,7 +11303,6 @@ Fico feliz que tenha sido útil para você o inovador sistema de backup que se u
 
 # EPA-CCPP 4: nossa comunidade ganhando forma
 date: 2008-03-29
-slug: epa_ccpp_4_nossa_comunidade_ganhando_forma
 tags: ccppbr blog
 
 Nesse último sábado ocorreu mais uma vez, como todos sabem, o Encontro de Programadores e Aficionados por C++, (in)formalmente apelidado de EPA-CCPP, de acordo com algumas conversas da nossa lista de discussão.
@@ -11457,7 +11376,6 @@ Vocês fez cada de surpreso incrédulo, foi isto o que vc fez na hora! E confess
 
 # Try-catch flutuante
 date: 2008-04-03
-slug: try_catch_flutuante
 tags: computer ccpp blog
 
 Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue e tive o prazer de conhecer em "EPA-CCPP 4: nossa comunidade ganhando forma".
@@ -11665,7 +11583,6 @@ PlanetaMessenger.org
 
 # Conversor de Houaiss para Babylon - parte 2
 date: 2008-04-08
-slug: conversor_de_houaiss_para_babylon_parte_2
 tags: computer projects blog
 
 Após algumas semanas de suspense, chegamos finalmente à nossa segunda e última parte da saga do dicionário Houaiss.
@@ -12265,7 +12182,6 @@ Se você não é, então terá que esperar pelo menos uns dois meses, depois que
 
 # Linux e o DHCP
 date: 2026-03-21
-slug: linux_dhcp
 tags: computer archive
 
 Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um servidor Linux.
@@ -12322,7 +12238,6 @@ Corrigido.
 
 # Aprendendo assembly com o depurador
 date: 2008-04-11
-slug: aprendendo_assembly_com_o_depurador
 tags: computer blog
 
 Além de servir para corrigir alguns bugs escabrosos o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar assembly! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.
@@ -12473,7 +12388,6 @@ Eu já usei esse método para tirar umas duvidas de asm, geralmente eu escrevo u
 
 # Guia básico de controles de código distribuído
 date: 2008-04-15
-slug: guia_basico_de_controle_de_codigo_distribuido
 tags: computer blog
 
 Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras versões de um projeto desenvolvido fora da empresa: falta de controle de código. Esse tipo de lapso pode consumir de horas a dias de tempo perdido, dependendo de em quantas cópias de máquinas virtuais ficou espalhado o código.
@@ -12582,7 +12496,6 @@ Valeu! Na verdade, agora estou testando também o Bazaar... é uma escolha difí
 
 # Crash Dump Analysis: o livro
 date: 2008-04-17
-slug: crash_dump_analysis_book
 tags: books archive
 
 Para quem acabou de terminar o Advanced Windows Debugging (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu), "seus problemas acabaram-se": acabou de ser lançado o Memory Dump Analysis Volume 1 em hardware! Em modelos portáveis (paperback) e desktop (hardcover).
@@ -12631,7 +12544,6 @@ Thiago
 
 # Ode ao C++
 date: 2008-04-21
-slug: ode_ao_cpp
 tags: computer ccpp blog
 
 Era uma vez em uma troca de emails:
@@ -12769,7 +12681,6 @@ PS: Gostei da contextualização da mensagem de startup que você enviou ao grup
 
 # CSI: Crashed Server Investigation?
 date: 2008-04-23
-slug: csi_crashed_server_investigation
 tags: essays blog
 
 O artigo de Jeff Dailey, The Digital DNA of Bugs Dump Analysis as Forensic Science (2026-02-12: não encontrei mais na web), em que ele compara a nossa atividade de "cientistas do debugging" com a atividade dos profissionais da análise forense, é exatamente o que eu penso sobre nossa profissão. Freqüentemente assisto à série CSI: Las Vegas e mais freqüentemente ainda uso os métodos científicos empregados pela equipe de Gil Grissom para resolver os problemas mais escabrosos que podem ocorrer em um sistema.
@@ -12846,7 +12757,6 @@ Além do aspecto genérico teremos uma pitada de matemática, como o uso de look
 
 # A solução mais simples é usar a fonte, Luke!
 date: 2008-04-29
-slug: use_the_source_luke
 tags: computer blog
 
 Seria bom se as coisas simples da vida fossem simples, não é mesmo? Ontem, sexta passada e quinta passada, no meio de outras tarefas "urgentes", tentava desesperadamente conseguir instalar o "Bazaar" na minha VM de desenvolvimento, um Fedora 8 todinho configurado.
@@ -12964,7 +12874,6 @@ Espero que esse projeto de Python em celulares dê muito certo; pois irá elevar
 
 # Acessando memória física no WinDbg
 date: 2008-05-01
-slug: acessando_memoria_fisica_no_windbg
 tags: computer blog
 
 Como muitos devem saber, acessar memória virtual no WinDbg é coisa de criança, assim como em todo depurador decente. Se estamos falando de kernel mode então, nem se fala! A memória virtual é parte integrante do sistema operacional. Podemos saber mais sobre isso na apresentação do Strauss sobre gerenciamento de memória no Windows (update 2026-02-12: infelizmente não mais disponível).
@@ -13043,7 +12952,6 @@ Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memór
 
 # Projetos no Caloni.com.br
 date: 2026-03-21
-slug: projetos_no_caloni_com_br
 tags: computer archive
 
 Update 2026-03-21. Mantive este artigo pelo histórico e pelos comentários.
@@ -13086,7 +12994,6 @@ Também espero isso. Com relação aos protocolos suportados, o Bazaar possui um
 # Read The Functional Manual
 date: 2008-05-07
 link: http://www.catb.org/esr/faqs/smart-questions.html
-slug: rtfm
 tags: essays blog
 
 Percebi essa semana que talvez boa parte da população informática que não progride em suas habilidades, mas gostaria muito, pode ser impedida pela falta de hábito em ler a ajuda do programa | da linguagem | do sistema com calma para encontrar o que procura. Independente do que você é, e para onde quer chegar, saiba que nem tudo na vida pode ser perguntado ao seu colega de baia. Senão você não evolui!
@@ -13509,7 +13416,6 @@ Enfim, tudo que temos que lembrar durante um merge do Bazaar é ver os conflitos
 # Como Fazer Debug de User Mode pelo Kernel Mode
 date: 2008-05-13
 link: https://youtu.be/j1f7DQkFI5A
-slug: debug_user_mode_in_kernel_mode
 tags: computer windbg blog
 
 Existem algumas situações onde um depurador WYSIWYG é artigo de luxo.
@@ -13563,7 +13469,6 @@ Um tipo de problema que só pode ser depurado dessa maneira enfatiza a importân
 
 # Aquele do-while engraçado
 date: 2008-05-15
-slug: aquele_do_while_engracado
 tags: computer ccpp blog
 
 Nesses últimos dias andei conversando com um amigo que está estudando sistemas operacionais na faculdade. Melhor ainda, vendo o código real de um sistema operacional em funcionamento. A conseqüência é que, além de aprender um bocado de como as coisas funcionam de verdade debaixo dos panos, acaba-se aprendendo alguns truquezinhos básicos e tradicionais da linguagem C.
@@ -13769,7 +13674,6 @@ Ehehehehehe. Bom, felizmente, ou infelizmente, não é. É apenas uma saída gen
 
 # MouseTool: clique automático do seu rato
 date: 2008-05-21
-slug: mousetool
 tags: computer projects archive
 
 Bem, como a maioria de vocês já sabe, eu realmente não gosto de mouses. Apesar disso, respeito os usuário que usam-no e até gostam dele. Essa é a razão por que estou escrevendo mais uma vez sobre isso. Dessa vez, irei mostrar um programa que eu uso todos os dias: MouseTool, para os usuários que  não usam o mouse, mas gostam dele.
@@ -13794,7 +13698,6 @@ PS: MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nom
 # Aprendendo rapidamente conceitos essenciais do WinDbg
 date: 2008-05-23
 link: http://windbg.info/doc/2-windbg-a-z.html
-slug: aprendendo_conceitos_essenciais_do_windbg
 tags: computer windbg blog
 
 Todo o poder e flexibilidade do pacote Debugging Tools da Microsoft pode ser ofuscado pela sua complexidade e curva de aprendizagem. Afinal de contas, usar o depurador do Visual Studio é muito fácil, quando se começa a usar, mas mesmo assim conheço muitos programadores que relutam em depurar passo-a-passo, preferindo a depuração por meio de "MessageBoxes" ou saídas na tela. Imagine, então, a dificuldade que não é para quem conseguiu às duras penas aprender a tornar um hábito a primeira passada do código novo em folha através do F10 começar a fazer coisas como configurar símbolos e digitar comandos esdrúxulos em uma tela em modo texto. Para piorar a questão, existem aqueles que defendem o uso unificado de uma ferramenta que faça tudo, como um telefone celular. Eu discordo. Quando a vantagem competitiva de uma ferramenta sobre outra é notável, nada pior que ficar preso em um ambiente legalzinho que faz o mínimo para você, mas não resolve o seu problema de deadlock.
@@ -13886,7 +13789,6 @@ Now, when we start Msvcmon service, the process cmd.exe will be create, that on 
 
 # Como criar uma LIB no Visual Studio
 date: 2008-05-29
-slug: visual_studio_criar_lib
 tags: computer blog
 
 Quando se está começando no ramo, alguns detalhes nunca vêm à tona para o programador novato. Ele simplesmente vai codando até se sentir satisfeito com o prazer que é proporcionado pela prática da arte dos deuses de silício.
@@ -14058,7 +13960,6 @@ Fico contente que o tutorial tenha sido útil para quem está começando. Essa f
 
 # Resultado do Seminário CCPP
 date: 2008-06-03
-slug: resultado_seminario_ccpp
 tags: ccppbr blog
 
 Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
@@ -14243,7 +14144,6 @@ Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador 
 
 # Declaração x definição
 date: 2008-06-06
-slug: declaracao_x_definicao
 tags: computer blog
 
 Uma diferença que eu considero crucial na linguagem C/C++ é a questão da declaração/definição (em inglês, declaration/definition). É a diferença entre esses dois conceitos que permite, por exemplo, que sejam criadas estruturas prontas para serem conectadas a listas ligadas:
@@ -14365,7 +14265,6 @@ Considero essa diferença uma das coisas mais difíceis para o iniciante entende
 
 # Guia básico de repositórios no Bazaar
 date: 2008-06-10
-slug: guia_basico_de_repositorios_no_bazaar
 tags: computer archive
 
 Alguns conceitos-chave antes de trabalhar com o Bazaar são:
@@ -14757,7 +14656,6 @@ O resultado:
 
 # Alinhamento de Memória Portável
 date: 2008-06-18
-slug: alinhamento_memoria_portavel
 tags: computer blog
 
 Update 2026-02-13. Hoje este post está desatualizado. O padrão C++ já fornece o comando alignas que permite fazer alinhamento de memória de maneira portável. Deixo publicado apenas como curiosidade para ambientes com compiladores menos privilegiados.
@@ -14975,7 +14873,6 @@ Tente evitar a replicação do mesmo arquivo em diversos lugares. Quando eu digo
 
 # Como estou trabalhando com o Bazaar
 date: 2008-06-24
-slug: trabalhando_com_o_bazaar
 tags: computer archive
 
 Depois de alguns ajustes e muitas perguntas do meu amigo-colega desenvolvedor Rafael conseguimos definir alguns usos e costumes em nosso código controlado pelo Bazaar. Este é um guia para Dummies de como é possível organizar um ou mais projetos de forma a favorecer o refactoring e a liberdade de uso.
@@ -15240,7 +15137,6 @@ Existem diversos outros tipos de marcadores e com certeza você encontrará muit
 
 # Reflexão em C++
 date: 2008-06-30
-slug: reflexao_em_c
 tags: computer blog
 
 O termo e conceito de reflection, muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.
@@ -15424,7 +15320,6 @@ E eis que surge uma nova GINA.
 
 # VirtualBox
 date: 2008-07-04
-slug: virtualbox
 tags: computer archive
 
 O VirtualBox parece ser o concorrente mais próximo atualmente da VMWare. Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
@@ -15515,7 +15410,6 @@ Acredito que este esboço esteja muito bom. É o modelo inicial que estou utiliz
 
 # Primeiros passos no VMware Workstation
 date: 2008-07-10
-slug: vmware
 tags: computer blog
 
 Como uma ferramenta essencial que uso todos os dias da minha vida de programador, sou obrigado a falar neste blogue sobre a VMware, ferramenta que tem me salvado algumas centenas de horas de depuração, testes e alguns cabelos brancos (a mais).
@@ -15584,7 +15478,6 @@ Uma das coisas que mais me ajuda no VMware é a possibilidade de colocar 2 ou ma
 
 # Segunda versão do Houaiss2Babylon
 date: 2008-07-14
-slug: segunda_versao_houaiss2babylon
 tags: computer projects archive
 
 Depois de vários comentários de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
@@ -16718,7 +16611,6 @@ Anyway, given the implementation, the main advantage is to isolate the code in o
 
 # Aprendizado em kernel mode
 date: 2008-08-07
-slug: aprendizado_kernel_mode
 tags: computer archive
 
 Hoje terminei minha primeira leitura de Memory Dump Analysis Vol. 1, e qual não foi a minha surpresa ao encontrar entre os últimos posts justamente o que eu estava precisando: um guia de livros que se deve ler para começar a programar em kernel mode.
@@ -16772,7 +16664,6 @@ Na verdade, esse livro está, sim, só que infelizmente não com a mesma capa, e
 
 # Guia para iniciantes no DriverEntry
 date: 2008-08-11
-slug: guia_iniciantes_driverentry
 tags: computer archive
 
 A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem hardcore a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do www.driverentry.com.br, nossa referência kernel mode tupiniquim.
@@ -16842,7 +16733,6 @@ Fonte: http://www.driverentry.com.br/blog/2007/06/comear-de-novo.html (2026-03-2
 
 # Quando o navegador não quer largar um arquivo
 date: 2008-08-13
-slug: quando_programa_nao_quer_largar_arquivo
 tags: computer blog
 
 De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que faço questão de guardar para assistir mais vezes depois. O problema é que o meu Firefox ou, para ser mais técnico, o plugin de vídeo que roda em cima do meu navegador, não permite isso. Ele simplesmente cria um arquivo temporário para exibir o vídeo e logo depois o apaga, utilizando uma técnica muito útil da função CreateFile, que bloqueia o acesso do arquivo temporário e apaga-o logo após o uso:
@@ -17327,7 +17217,6 @@ Aqui termina nossa dúvida sobre o pequenino bug na documentação. E isso nos l
 
 # Todo programador é um filósofo em potencial
 date: 2008-09-12
-slug: todo_programador_filosofo_em_potencial
 tags: essays philosophy blog
 
 Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia e a lógica. O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que qualquer outro que já me surgira na cabeça desde que mexo com essas coisas: O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente.
@@ -17453,7 +17342,6 @@ Realmente não há segredos em seu uso. Esse artigo foi apenas um patrocínio do
 
 # V
 date: 2008-09-23
-slug: v
 tags: ccppbr blog
 
 Parabéns a todos que participaram e ajudaram para que todos nós chegássemos ao quinto encontro de programadores/aficionados C/C++. Parece mentira, mas hoje temos capacidade para lotar um auditório razoável, e temos a ousadia de sempre poder contar com uma grade de palestras pra lá de avançadas. Vejamos o que foi visto até hoje nesses últimos três encontros (III, IV e o seminário):
@@ -17653,7 +17541,6 @@ Enfim, jobs não terminam por aí. Dê mais uma olhada no MSDN e veja se encontr
 
 # O que acontece com um programador com pressa
 date: 2008-10-05
-slug: programador_com_pressa
 tags: archive
 
 Eu já sabia, mas é lógico que não ia falar.
@@ -17723,7 +17610,6 @@ Sua noção de que as idéias sempre "voltam à tona" faz muito sentido para mim
 
 # Impressões do quinto encontro de CCPP
 date: 2008-10-07
-slug: impressoes_quinto_encontro_ccppbr
 tags: ccppbr blog
 
 Pois é, passou, acabou... e foi muito bom!
@@ -17773,7 +17659,6 @@ Porém, provavelmente nosso amigo DQ irá publicar os flashes do dia. É só agu
 
 # Cnasi, geração Y e seus gastos em TI
 date: 2008-09-25
-slug: cnasi_geracao_y_gastos_ti
 tags: archive
 
 Nosso crachá de visitantes dava direito a uma palestra. E haviam muitas. Porém, logo após a hora do almoço, das disponíveis uma era particularmente interessante, pois citava uma expressão que eu e minha colega nunca havíamos escutado: um senhor iria nos falar sobre como lidar com essas novas pessoas que estão cada vez mais invadindo nossas casas e nossos escritórios, pertencentes a esse grupinho, a tão famosa chamada geração Y.
@@ -17829,7 +17714,6 @@ Então, na verdade eu continuo ainda do lado dos que fazem. O ocorrido foi que e
 
 # Como usar WTL com o ATL do DDK
 date: 2008-10-15
-slug: como_usar_wtl_com_atl_ddk
 tags: computer archive
 
 Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o "ATL" era distribuído junto com o SDK, e dessa forma conseguíamos usar o "WTL" sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
@@ -17949,7 +17833,6 @@ Amazing! 0_0
 
 # A Alça Dentro do Fio Gerou um Bloqueio da Morte
 date: 2008-10-21
-slug: a_alca_dentro_do_fio_gerou_um_bloqueio_da_morte
 tags: essays blog
 
 Estava folheando um livro fenomenal que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções no mínimo curiosas. O exemplar em questão era o primeiro Windows Internals, publicado após o lançamento da primeira versão do Windows NT, uma plataforma escrita (quase) inteiramente do zero para suplantar as versões 9x (Windows 95 e 98), que herdaram do DOS algumas partes indesejáveis em sistemas operacionais modernos.
@@ -18037,7 +17920,6 @@ De fato, no meu dia-a-dia proclamo e reclamo sobre tudo em inglês, gastando tod
 
 # Como funciona o PsExec
 date: 2008-10-29
-slug: como_funciona_o_psexec
 tags: computer blog
 
 Semana passada precisei reproduzir o comportamento da ferramenta PsExec em um projeto, o que me fez sentir alguma nostalgia dos tempos em que eu fazia engenharia reversa todo dia. Este breve relato (espero) reproduz os passos que segui para descobrir o que esse programa tão útil quanto perigoso faz.
@@ -18303,7 +18185,6 @@ se puder mande a resposta pro meu email ;d
 
 # HouaissParaBabylon versão beta
 date: 2008-11-15
-slug: houaissparababylon_beta
 tags: projects archive
 
 Depois de muitos fins-de-semana divididos em horas picadinhas de programação de lazer, está disponível em vosso saite a primeira versão para usuários do conversor do dicionário Houaiss para o aplicativo Babylon.
@@ -18466,7 +18347,6 @@ Não, não posso. Isso seria infringir os direitos de copyright do produto Houai
 
 # Básico do básico: ponteiros
 date: 2008-12-06
-slug: basico_do_basico_ponteiros
 tags: computer blog programming_tag
 
 Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da SCUA, aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como variáveis, até as coisas não tão triviais, como símbolos de depuração.
@@ -18521,7 +18401,6 @@ Este vídeo é o mais didático do universo sobre como funcionam ponteiros em C.
 
 # Básico do básico: tipos
 date: 2008-12-12
-slug: basico_do_basico_tipos
 tags: computer blog programming_tag
 
 Um tipo nada mais é que do que uma forma (ô) de bolo, que molda a memória como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito mais básico ainda.
@@ -18632,7 +18511,6 @@ Nada é bem aprendido se não for apreendido. Algumas tarefas programáticas que
 
 # Básico do básico: binário
 date: 2008-12-18
-slug: basico_do_basico_binario
 tags: computer blog programming_tag
 
 Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de representação. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.
@@ -18847,7 +18725,6 @@ Nessa nova versão, além de procurar o caminho do dicionário no registro (desi
 
 # Básico do básico: assembly
 date: 2009-01-26
-slug: basico_do_basico_assembly
 tags: computer blog programming_tag
 
 É lógico que não poderia faltar no cinto de utilidades de todo bom programador C conhecimentos básicos da linguagem assembly, sua mãe espiritual. São tantos conceitos em comum que, uma vez aprendido seu funcionamento, fica difícil não pensar no código-assembly gerado pelo compilador C. E é nesse ponto que as coisas começam a ficar mais claras.
@@ -18969,7 +18846,6 @@ PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um "conjunto" "be
 
 # As funções-polegar
 date: 2009-01-30
-slug: funcoes_polegar
 tags: computer blog
 
 Como já havia dito, não há nada mais prazeroso do que ensinar a alguém os velhos truques da profissão e relembrar o porquê de tantas coisas que guardamos na cabeça sobre programação. Hoje tive a oportunidade de explicar como funcionam as funções-polegar.
@@ -19053,7 +18929,6 @@ Contudo, bem observado que nem toda função guarda o último erro para o chamad
 
 # WinDbg.info
 date: 2009-02-10
-slug: windbg_info
 tags: computer blog
 
 Para os perdidos e desatualizados como eu, notei hoje que "Robert Kuster possui um saite" onde mantém diversas informações sobre o WinDbg; uma espécie de continuação de sua famosa transparência WinDbg. From A to Z.
@@ -19099,7 +18974,6 @@ Agora o alerta vai para a tradução em inglês do seu prefácio - obviamente, e
 
 # Resolvendo bugs quase impossíveis
 date: 2009-03-05
-slug: resolvendo_bugs_quase_impossiveis
 tags: essays blog
 
 Quase todos os problemas do Universo são resolvidos depois de um belo dia de depuração, código comentado, descomentado, recomentado e umas muitas e boas doses de café. Alguns outros problemas mais cabeludos precisam de uma boa noitada na frente do computador, e mais café. E, finalmente, existem aqueles que nem tomando o estoque inteiro de café a coisa anda.
@@ -19187,7 +19061,6 @@ Para mim a coisa fica cabeluda quando surge o "em momentos aparentemente aleató
 
 # Construindo provas de conceito (PoC)
 date: 2009-03-19
-slug: provas_de_conceito
 tags: essays blog
 
 Uma prova de conceito bem feita segue todos os passos em uma forma micro para entender e provar como as coisas irão funcionar no código de produção: a forma macro.
@@ -19224,7 +19097,6 @@ Por isso, desde a estagiária até o mocinho bicentenário merecem mexer em cód
 
 # Depurando até o último segundo
 date: 2009-03-31
-slug: depurando_ate_o_ultimo_segundo
 tags: computer blog
 
 Como depurar um programa que dá pau logo no final do desligamento de uma máquina?
@@ -19408,7 +19280,6 @@ Ufa, me causou tremendo alívio essa informação... meu buffer não comporta ma
 
 # A fila das threads
 date: 2009-04-07
-slug: a_fila_das_threads
 tags: computer blog
 
 Em um ambiente multithreading diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um pedacinho de código cada vez que passam pelo processador.
@@ -19581,7 +19452,6 @@ Esse wait do fluxo, ou seja, deixar a próxima thread aguardando a que chegou pr
 
 # Deixe o programador programar
 date: 2009-04-09
-slug: deixe_programador_programar
 tags: essays blog
 
 Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma série de desventuras (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.
@@ -19637,7 +19507,6 @@ Calado, amigo imaginário =)
 
 # A sala da fila das threads
 date: 2009-04-17
-slug: a_sala_da_fila_das_threads
 tags: computer blog
 
 Quando falei sobre [a fila das threads], e como cada thread espera pacientemente em uma fila até chegar sua vez de ser atendida no guichê das CPUs, também vimos como é fácil fazer caquinhas em um programa que roda paralelamente duas threads ou mais.
@@ -19929,7 +19798,6 @@ list<list<int> > // válido
 # Programadores de verdade não usam Java
 date: 2009-06-18
 link: http://www.pbm.com/~lindahl/real.programmers.html
-slug: programadores_de_verdade_nao_usam_java
 tags: essays blog
 
 Quando era um newbie (e um wanna-be) gostava de ler o "Real Programmers Don't Use Pascal", um texto humorístico que mais me influenciou e encorajou a caminho da iluminação C/C++ do que o livro de K&R. A partir dele, supunha eu, ser um "programador de verdade" era ser tudo. Ser um Quiche Eater (Comedor de Torta) não era nada. Programadores de verdade é que resolvem os problemas de verdade! Quiche Eaters são os losers que estudam os conceitos acadêmicos da ciência da computação e nunca fazem um maldito programa que preste (conhece alguém assim?).
@@ -19970,7 +19838,6 @@ Se você gostou desse texto, talvez goste de eXtreme Go Horse!
 
 # Como funcionam as strings
 date: 2009-07-07
-slug: como_funcionam_as_strings
 tags: computer blog
 
 Como já vimos centenas e centenas de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de dados. E dados são bytes armazenados na memória.
@@ -19991,7 +19858,6 @@ Outras strings que não necessariamente possuem terminador nulo: std::string, UN
 
 # Polimorfismo estático
 date: 2009-07-10
-slug: polimorfismo_estatico
 tags: computer blog
 
 Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:
@@ -20379,7 +20245,6 @@ Perhaps I update this list frequently. Although I guess the rightest choice woul
 
 # O boot no Windows: sem Windows
 date: 2009-08-18
-slug: o_boot_no_windows_sem_windows
 tags: computer blog
 
 Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles fundos lindos de papel de parede existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do boot de uma máquina que possui Windows instalado (plataforma NT).
@@ -20452,7 +20317,6 @@ Se o problema for durante o carregamento do próprio sistema operacional, as men
 
 # O boot no Windows: pré-NTLDR
 date: 2009-09-09
-slug: o_boot_no_windows_pre_ntldr
 tags: computer blog
 
 Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro Windows Internals e escrito pelo nada mais nada menos Mark Russinovich: Boot Process, no capítulo 5, "Startup and Shutdown".
@@ -20654,7 +20518,6 @@ Enfim, todo esse assembly para fazer apenas uma coisa: achar o NTLDR na diretór
 
 # O boot no Windows: NTLDR
 date: 2009-11-26
-slug: o_boot_no_windows_ntldr
 tags: computer blog
 
 Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.
@@ -20738,7 +20601,6 @@ Veremos nos próximos capítulos como podemos nos aproveitar do ntoskrnl.exe par
 
 # O boot no Windows: Kernel
 date: 2009-12-04
-slug: o_boot_no_windows_kernel
 tags: computer blog
 
 Finalmente chegamos em um ponto onde podemos usar o WinDbg.
@@ -21081,7 +20943,6 @@ Curioso, não? Mais curioso que isso, só sabendo que o ano que isso vai ocorrer
 
 # Importando tipos de outros projetos
 date: 2010-01-11
-slug: importando_tipos_de_outros_projetos
 tags: computer blog
 
 A engenharia reversa das entranhas do kernel não tem limites se você sabe o que está fazendo. No entanto, algumas facilidades do depurador podem ajudar a minimizar o tempo que gastamos para analisar uma simples estrutura. Por exemplo, o Process Environment Block de um processo específico.
@@ -21207,7 +21068,6 @@ Acho que não é preciso dizer que isso não serve apenas para kernel mode =)
 
 # Passagem por valor e emails com anexo
 date: 2010-01-18
-slug: passagem_por_valor_e_emails_com_anexo
 tags: computer blog
 
 Mais uma analogia vencedora para ponteiros, chamadas por valor e chamadas por referência: e-mails.
@@ -21224,7 +21084,6 @@ Dessa forma, um e-mail que contenha um arquivo em anexo vai ser muito maior que 
 
 # House
 date: 2010-01-25
-slug: house
 tags: archive
 
 Depois da analogia entre depuração e CSI, nada como fazer o mesmo com o seriado estilo House.
@@ -21271,7 +21130,6 @@ Se o código começa a ser tão mutilado que chegamos quase em uma versão vazia
 
 # Restaurando o registro
 date: 2010-02-08
-slug: restaurando_o_registro
 tags: computer blog
 
 Algumas ferramentas viram essenciais quando o importante é tempo. As minhas favoritas são: Visual Studio e batch. Com esses dois eu faço virtualmente qualquer coisa que preciso em pouquíssimo tempo. É lógico que, na ausência dessas, alternativas são bem-vindas, como Notepad++, viM, grep, cygwin.
@@ -21644,7 +21502,6 @@ Para que tudo isso faça sentido é vital que as pessoas assistam cada vez mais 
 
 # Homem de Ferro 2 (Jon Favreau, 2010)
 date: 2010-04-03
-slug: homem_de_ferro_2
 tags: cinema movies
 
 Se a primeira aventura do até então desconhecido Homem de Ferro impressionou o público, a crítica e a própria Marvel, essa continuação morna é a consolidação de Tony Stark como garoto-propaganda dessa fase. Não só isso, mas serve como o gancho que os produtores precisavam para inserir novos personagens secundários que serão mais ou menos relevantes na teia de eventos (ou colcha de retalhos) criada em torno da tão esperada estreia de Os Vingadores, filme que pretende unir uma série de heróis que terão cada um seus trabalhos solo. Uma aposta inédita que parece ter ganhado força justamente por conta da atuação surpreendente de Robert Downey Jr.
@@ -21707,7 +21564,6 @@ After I researched all this, I just found out the Project won't be necessary any
 
 # Mary e Max - Uma Amizade Diferente (Adam Elliot, 2009)
 date: 2010-04-16
-slug: mary_e_max_uma_amizade_diferente
 tags: cinema movies
 
 Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?
@@ -21722,7 +21578,6 @@ O que nos leva ao impecável terceiro ato, que depois de nos conquistar completa
 
 # Typedef arcaico
 date: 2010-04-20
-slug: typedef_arcaico
 tags: computer blog
 
 A "API do Windows" geralmente prima pela excelência em maus exemplos. A "Notação Húngara" e o Typedef Arcaico são duas técnicas que, por motivos históricos, são usados a torto e a direito pelos códigos de exemplo.
@@ -22214,7 +22069,6 @@ Aqui não é um compêndio teórico sobre a linguagem. Vamos falar particularmen
 
 # O Escritor Fantasma (Roman Polanski, 2010)
 date: 2010-05-28
-slug: o_escritor_fantasma
 tags: cinema movies
 
 Nos leva a desvendar o mistério da trama recriando-o gradualmente em uma série de passos sutis, mas consistentes, que revelam em seu momento final um mosaico diferente na mente de cada espectador.
@@ -22523,14 +22377,12 @@ A definição de *g_systemClock é de uma memória que não pode ser alterada; s
 
 # O Golpista do Ano (Glenn Ficarra, John Requa, 2009)
 date: 2010-06-04
-slug: o_golpista_do_ano
 tags: cinema movies
 
 Personagens que acompanham as personas dos atores, mas desafiam a realidade dos eventos. A vida real desses três sujeitos é uma comédia, mas definitivamente eles possuíam poucos momentos para rir de si mesmos.
 
 # Almas à Venda (Sophie Barthes, 2009)
 date: 2010-06-09
-slug: almas_a_venda
 tags: cinema movies
 
 Esse filme escrito e dirigido pela estreante Sophie Barthes tenta usar o conceito de alma mais ou menos como um órgão transplantado, mas muito mais flexível, já que é possível usar a alma de outras pessoas para potencializar áreas na vida em que se é um zero à esquerda. Aí é que entra Paul Giamatti que interpreta... Paul Giamatti! Ele está com problemas com uma nova peça e resolve trocar de alma por uma que seja compatível com o personagem que tenta interpretar.
@@ -22544,7 +22396,6 @@ Ao ver a técnica de extrair almas é inevitável a comparação com o apagar de
 
 # Breakpoints promíscuos
 date: 2010-07-26
-slug: breakpoints_promiscuos
 tags: computer blog
 
 Eu chamo de breakpoints promíscuos aqueles que topam qualquer processo. Isso é muito simples de se fazer:
@@ -22930,7 +22781,6 @@ Vendo essas coisas fico imaginando como ainda tem gente que usa arquivos zip com
 
 # A Origem (Christopher Nolan, 2010)
 date: 2010-08-06
-slug: a_origem
 tags: cinema movies
 
 O diretor e roteirista Christopher Nolan tem o dom de traduzir para o espectador as experiências de seus personagens na tela. Vimos isso em Amnésia com a montagem invertida fazendo o papel do protagonista que não consegue se lembrar o que estava fazendo cinco minutos atrás. Em O Grande Truque as trucagens do roteiro são tão ágeis que se assemelham a um número de mágica bem conduzido. E agora em A Origem participamos de um exercício narrativo que consegue unir todas as ideias modernas a respeito dos sonhos, mas que ao mesmo tempo se deixa levar pela metalinguagem e faz uma sutil homenagem ao próprio Cinema.
@@ -22945,7 +22795,6 @@ Além disso, A Origem também é um pouco de filosofia. A questão que tortura a
 
 # Não é minha culpa
 date: 2010-08-08
-slug: nao_e_minha_culpa
 tags: computer archive
 
 Recebi a dica de meu amigo kernel-mode sobre o aplicativo NotMyFault, escrito como ferramenta do livro Windows Internals e que basicamente gera telas azuis para análise.
@@ -22993,7 +22842,6 @@ A resposta para esse enigma também contará pontos para nossa brincadeira com o
 
 # Superman: O Filme (Richard Donner, 1978)
 date: 2010-08-12
-slug: superman_o_filme
 tags: cinema movies
 
 Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que "Superman: O Filme" funciona bem exatamente por tudo isso junto, ainda aliado às convincentes interpretações dos personagens, uniformes em suas representações do mundo fantasioso vivido pelo homem de aço, que estranhamente não soa piegas ou exagerado, mas possui o tom cartunesco corretíssimo para manter a lenda e ao mesmo tempo não se levar a sério demais.
@@ -23017,7 +22865,6 @@ Em contraparte, não há como negar os esforços do diretor Richard Donner em te
 
 # Os Mercenários (Sylvester Stallone, 2010)
 date: 2010-08-13
-slug: os_mercenarios
 tags: cinema movies
 
 Usando uma steady cam e iniciando no tom de documentário, Os Mercenários traz uma gangue de atores milionários que, em seus devidos personagens unidimensionais, fazem operações de guerra por uns trocados. A primeira cena, aliás, resume bem o que teremos no resto das cenas de ação: muito sangue. Tanto sangue que, no início, vemos o resto da matança através de uma lente de visão noturno, para não afastar de imediato o espectador que ainda verá muitas cabeças explodindo e corpos rolando.
@@ -23124,7 +22971,6 @@ Uma exceção de breakpoint (int 3, ntdll!DbgBreakPoint) lançada sem um depurad
 
 # Domicilio Conjugal
 date: 2010-08-17
-slug: domicilio_conjugal
 tags: cinema movies
 
 Comédia romântica francesa datada de 70 e conduzida por François Truffaut. Nesse caso temos um casal vivendo sua vida em um condomínio de casas que mais lembra, nos minutos iniciais, um bom cortiço brasileiro. Mas aos poucos os detalhes culturais vão ganhando forma, não prejudicando a mensagem principal, que é contar a história de um casal como outro qualquer que passa por suas felicidades e tristezas, juntos ou separados.
@@ -23208,7 +23054,6 @@ Espero com isso aliviar a carga pesada de A.V.s que sempre aparece quando menos 
 
 # Karate Kid
 date: 2010-08-27
-slug: karate_kid_2010
 tags: cinema movies
 
 Esse é praticamente um remake do original, só que em vez de caratê, como o nome supõe, a luta do filme é o kung-fu, onde o mestre é nada mais nada menos que Jackie Chan, o Sr. Han, que irá treinar Jaden Smith, o filho de Will, para se preparar para o torneio de Kung Fue se livrar das perseguições da escola.
@@ -23223,7 +23068,6 @@ O estilo das lutas finais assume uma caricatura de videogame, com os pontos send
 
 # Um Lugar Chamado Notting Hill
 date: 2010-08-27
-slug: um_lugar_chamado_notting_hill
 tags: cinema movies
 
 Esta é uma história estilo conto de fadas, em que uma famosa atriz, inalcançável pela maioria dos mortais, acaba visitando um pequeno bairro de Londres (o Notting Hill do título) e conhece o dono de uma loja de livros de viagem (e é curioso que provavelmente ela deve ter viajado para muitos dos lugares descritos nos livros de suas estantes) e vivem um inusitado romance.
@@ -23242,7 +23086,6 @@ E se é crível a antipatia e praticidade demonstrada pela protagonista quando d
 
 # Ofuscando strings
 date: 2010-08-30
-slug: ofuscando_strings
 tags: computer blog
 
 Já fiz ofuscamento e embaralhamento de dados acho que umas três ou quatro vezes. Dessa vez, parti para o batidíssimo esquema de fazer o pré-processamento de um header com defines que irão virar estruturas reaproveitadas por uma função padrão que desofusca e ofusca aquela tripa de bytes em algo legível: a string original.
@@ -23317,7 +23160,6 @@ PS: Acho que, além das minhas palestras, meus artigos estão também parecendo 
 
 # Enfim Viúva
 date: 2010-09-03
-slug: enfim_viuva
 tags: cinema movies
 
 Essa é uma comédia francesa em que uma mulher tem seu marido morto em um acidente de carro justo quando está prestes a se despedir deste e fugir com seu amante, um pescador da região, e morar com ele na China. Junto da morte do marido vem toda sua família, inclusive seu filho, que fazem de tudo para "cuidar dela" e impedi-la de "curtir" seus primeiros momentos de viuvez.
@@ -23336,7 +23178,6 @@ Por fim, uma conclusão óbvia e bobinha (os dois se reencontram onde ela gostar
 
 # Kill Bill (Quentin Tarantino, 2003)
 date: 2010-09-09
-slug: kill_bill_volume_1
 tags: cinema movies
 
 Não é preciso dizer que Quentin Tarantino é um diretor pop e cult, e uma coisa o levou à outra. Também não é preciso dizer o quanto filmes de artes marciais são um pedaço importantíssimo na cultura pop/"trash" dos anos 70 e 80. Se juntarmos esses dois universos teremos Kill Bill, um filme feito para ser um só, mas que por motivos comerciais acabou inchando e dividindo-se.
@@ -23355,7 +23196,6 @@ Infelizmente, por ordens comerciais, o filme foi mutilado em dois e lançado em 
 
 # Moscou Bélgica (Christophe Van Rompaey, 2008)
 date: 2010-09-24
-slug: moscou_belgica
 tags: cinema movies
 
 Essa é uma "comédia romântica" dramática que conta a história de uma mulher recém-separada que quer viver uma vida normal, mas bate o carro em um caminhão e conhece um italiano charmoso que a convida para sair. O resto é passado em uma longa história onde veremos, com nossos olhos incrédulos, a maneira deliciosa que a narrativa nos conta a evolução daquela mulher recém-separada que está literalmente acabada na primeira cena, no corredor escuro e fechado, com a câmera mais alta, fazendo compras no supermercado, e a outra, radiante, caminhando em direção ao nascer do sol do lado dos trilhos, abertos e livres.
@@ -23440,7 +23280,6 @@ PS: E com uma ajudinha do Windows Internals ainda fiquei sabendo que dá pra "se
 
 # Machete
 date: 2010-10-10
-slug: machete
 tags: cinema movies
 
 Mais um filme de violência absurda de Robert Rodriguez. Fotografia amarelada, como em todos os filmes que se passam perto do México. Só que em muitos filmes a violência absurda é usada em tons artísticos, como evocando os quadrinhos (Sin City) e sua realidade já absurda e exagerada e as artes marciais (Kill Bill) e suas lendas.
@@ -23455,7 +23294,6 @@ No final ainda dá indícios (mesmo que cômicos) de ter duas continuações. To
 
 # Curva do Destino (Edgar G. Ulmer, 1945)
 date: 2010-10-13
-slug: curva_do_destino
 tags: cinema movies
 
 A história de um homem que busca se encontrar com sua mulher que está do outro lado do país. Para isso ele vai de carona em carona, de NY para LA. No caminho, encontra um homem que morre no carro. Esconde o corpo e encontra uma mulher que se envolveu com ele no caminho, também pedindo carona. Chegando a Hollywood descobrem que o pai do sujeito, milionário, morreu, deixando toda sua fortuna para o filho. Enquanto ela tenta convencê-lo a fingir ser o herdeiro, ele acidentalmente a mata com o fio do telefone. Deixando esse passado para trás, o nosso protagonista vaga sem destino, apenas esperando o momento em que será preso, por nenhuma razão.
@@ -23468,7 +23306,6 @@ Poderia acontecer com qualquer um.
 
 # As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada
 date: 2010-10-21
-slug: as_cronicas_de_narnia_a_viagem_do_peregrino_da_alvorada
 tags: cinema movies
 
 Lembro de ter visto a primeira Crônica de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa. Alguma coisa me dizia para não confiar muito em títulos muito longos, e... dito e feito. Não gostei da frágil história em uma narrativa que supõe-se introduzir personagens importante para as próximas tramas, mas que simplesmente joga seus elementos iniciais em um tabuleiro de xadrez e trata apenas de arrastar preguiçosamente essas peças nada originais, tiradas do fundo do baú da crença cristã com cobertura de mitologia grega.
@@ -23493,7 +23330,6 @@ De qualquer forma, qual não foi minha surpresa quando tentei recompilar o proje
 
 # Suécia Hoje
 date: 2010-10-23
-slug: suecia_hoje
 tags: mostrasp cinema movies
 
 A partir de depoimentos de várias pessoas e suas diferentes rotinas, este documentário traça um panorama dos últimos anos da história desse país. Assim como a maioria das grandes cidades, se antigamente o trabalhador passava a vida inteira empregado em apenas uma empresa, e os shoppings estavam vazios, de acordo com o narrador, porque esses trabalhadores precisavam restaurar as energias para uma nova semana de trabalho, hoje em dia a maioria trabalha como freelancer, e os shoppings estão cheios todos os dias e a economia é pulsante, pois cada vez mais pessoas querem comer, beber e fazer mais coisas com as 24 horas diárias.
@@ -23504,7 +23340,6 @@ No entanto, a história é sobre a vida moderna, e voltamos à questão quando a
 
 # Bróder (Jeferson De, 2010)
 date: 2010-10-26
-slug: broder
 tags: mostrasp cinema movies
 
 A história do estreante diretor Jeferson De, cuja sessão em que estava presente tive o privilégio de participar, inicia com uma grande sequência sem cortes em que Macu desce a ladeira de sua casa pelos becos e ruas do bairro; uma cena que, além de nos mostrar o nível de intimidade do protagonista com seus vizinhos, ainda dá uma ideia muito boa da extensão desse ambiente. A música de abertura, inicialmente não fazendo parte do ambiente, se transforma em música de rádio. Podemos ver essa brincadeira acontecer em quase toda a trilha sonora, que corajosamente escolhe não salpicar as cenas de música, criando tensão em várias cenas simplesmente por diálogos exaltados e movimentos de câmera.
@@ -23756,7 +23591,6 @@ Existem milhares de forma de usar essa função, como você deve ter percebido p
 
 # O Mágico (Sylvain Chomet, 2010)
 date: 2010-10-27
-slug: o_magico
 tags: mostrasp cinema movies
 
 Esse é o novo longa de Sylvain Chomet, o mesmo diretor de "As Bicicletas de Belleville". Foi baseado em um roteiro de Jacques Tati (do filme Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.
@@ -23771,7 +23605,6 @@ Mas é injusto comparar a complexidade dos estereótipos criados em Bicicletas c
 
 # A Suprema Felicidade (Arnaldo Jabor, 2010)
 date: 2010-10-29
-slug: a_suprema_felicidade
 tags: mostrasp cinema movies
 
 [Baarìa - A Porta do Vento], trabalho mais pessoal de Giuseppe Tornatore (Cinema Paradiso), é uma superprodução que tem como característica marcante não definir um foco específico ao contar sua história. Disposto a tornar a Baarìa do título, um vilarejo no interior da Itália, protagonista de tudo que aconteceu no país ao longo de décadas de história, Tornatore sacrifica a clareza narrativa em prol de um bem maior: a absurdamente estonteante rima final, que torna o seu filme, como um todo, uma experiência única e inesperada.
@@ -23794,7 +23627,6 @@ Mesmo com todos seus defeitos narrativos, A Suprema Felicidade poderia muito bem
 
 # Cargo (Ivan Engler, Ralph Etter, 2009)
 date: 2010-11-01
-slug: cargo
 tags: mostrasp cinema movies
 
 Se fosse resumir essa ficção-científica, diria que ela começa como Aliens - O Resgate e termina como Matrix. De fato, muitas características do longa nos lembra esses dois filmes. Porém, longe de se igualar em qualidade narrativa, este cai no lugar comum de passeios contemplativos pelo cenário com trilhas sonoras igualmente batidas.
@@ -23811,7 +23643,6 @@ Infelizmente o final se importa mais em muitas delongas e o batidíssimo artifí
 
 # Cirkus Columbia
 date: 2010-11-01
-slug: cirkus_columbia
 tags: mostrasp cinema movies
 
 A primeira coisa que nota-se em Cirkus Columbia é a deslumbrante fotografia. Criada de forma magistral, torna a história um épico instantâneo pelo simples fato de reapresentar ao mundo um país anteriormente arrasado pela guerra, onde são aproveitadas não só os quadros da tela larga, mas as luzes também.
@@ -23822,7 +23653,6 @@ O filme é uma composição complexa, tanto dos personagens envolvidos quanto a 
 
 # Vamos nos Conformar
 date: 2010-11-01
-slug: vamos_nos_conformar
 tags: mostrasp cinema movies
 
 Esse documentário conta a história de quatro amigas que estão internadas em uma espécie de abrigo para filhas que foram abandonadas por suas famílias. Cada uma delas fala na sua vez sobre sua história, e conseguimos identificar facilmente a personalidade de cada uma: a que tem pena de si, a durona e irritada, a complicada e, por fim, a conformada. É ela que veremos frente a frente com os pais.
@@ -23835,7 +23665,6 @@ Muito embora tenha momentos emocionantes, a narrativa não consegue gerar uma gr
 
 # Vc Tá Aí?
 date: 2010-11-01
-slug: vc_ta_ai
 tags: mostrasp cinema movies
 
 Começamos essa história sobre um jogador de vídeo-games profissional dentro do jogo que este é especialista. Esse artifício será usado mais uma ou duas vezes e transportado para o pseudo-romance que este viverá com uma oriental da cidade para onde vão disputar o campeonato, só que dessa vez o ambiente virtual é o Second Life, lugar feito para conhecer pessoas. Com esse tipo de simbolismo é que somos levados a uma história que poderia ser fascinante, por nos dar a presença de dois personagens igualmente interessantes, bastando para isso que tenhamos um Bill Murray e uma Scarlett Johansson nos papéis principais e teríamos um Encontros e Desencontros 2, menos profundo mas igualmente interessante.
@@ -23919,7 +23748,6 @@ Basicamente, sim. É claro que um controle de fonte não se baseia apenas em com
 
 # O Atleta
 date: 2010-11-04
-slug: o_atleta
 tags: mostrasp cinema movies
 
 O filme começa com a luz do sol, tão presente durante o longa, se transformando na luz do projetor de cinema. Esse projetor fará parte do final, quando voltamos para o mesmo close no início. As tomadas iniciais dele chegando ao interior da Etiópia apresentam uma largura de campo estrondosa para dar a impressão de grandeza e imensidão que não acaba mais. Aliás, esse detalhe pode ser visto no belíssimo zoom out dele correndo do lado de um desfiladeiro. Aos poucos esse desfiladeiro vai sumindo e dando lugar à planície.
@@ -23934,7 +23762,6 @@ Mais interessante é que ao final da corrida na neve temos mais uma transição,
 
 # José e Pilar
 date: 2010-11-05
-slug: jose_e_pilar
 tags: mostrasp cinema movies
 
 Este é um documentário que conta, com imagens caseiras e inusitadas em eventos públicos, os últimos anos do escritor português, ganhador do prêmio Nobel, José Saramago, e sua esposa, Pilar. Por meio de uma intrusão na vida alheia do casal acompanhamos as viagens que ambos fizeram pelo mundo afora após ele ter ganho o prêmio.
@@ -23965,7 +23792,6 @@ Mais uma cena igualmente emocionante, Meirelles e ele vendo o filme juntos.
 
 # Suporte técnico
 date: 2010-11-05
-slug: suporte_tecnico
 tags: computer blog
 
 Esse artigo é pra mostrar que não é só de ifs e elses que vive um programador e que é bom colocar a mão na massa de vez em quando. O cenário: máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEY_CLASSES_ROOT. Resultado: ao rodar um script que abre uma segunda janela e tenta usar seu método focus é exibida a seguinte mensagem:
@@ -24067,14 +23893,12 @@ Fica assim indefinida a origem do "corrompimento" dessa parte do registro, apesa
 
 # As Quatro Voltas
 date: 2010-11-06
-slug: as_quatro_voltas
 tags: mostrasp cinema movies
 
 Há algo de transcendental em As Quatro Voltas. Baseado tão somente em imagens, que mostram inicialmente a rotina de um velho pastor de uma cidadezinha, a narrativa liga fatos que não estariam ligados se não fosse pela capacidade imaginativa da câmera de contar uma história. A fotografia e os enquadramentos encantam pelo deslumbramento e simplicidade com que são focados. Não há muito o que falar, pois a história, como disse, transcende explicações. Vai além da fronteira de arco dramático, protagonista. O visual pelo visual.
 
 # Pink Floyd - The Wall
 date: 2010-11-06
-slug: pink_floyd_the_wall
 tags: mostrasp cinema movies
 
 Reunindo várias filmagens que se assemelham a video-clipes e desenhos psicodélicos, o filme de Alan Parker parece dar um tom surreal à história e às impressões da banda britânica Pink Floyd. Jogando com o silêncio das cenas e da música e das letras de outras, o filme faz paralelo entre o passado, presente e futuro de um garoto que tem o pai morto na guerra, como notamos visualmente na transição entre a luz do lampião e a luz do sol com o garoto correndo ao horizonte.
@@ -24085,7 +23909,6 @@ Um filme para degustar com os olhos e ouvidos sintonizados.
 
 # Atividade Paranormal 2 (Tod Williams, 2010)
 date: 2010-11-07
-slug: atividade_paranormal_2
 tags: cinema movies
 
 Assim como o primeiro filme, essa continuação tenta passar a impressão documental através de uma mensagem da produtora agradecendo os envolvidos pelas cenas que veremos a seguir. Apesar desse aviso deixar sua devida pulga na orelha, não é uma solução que por si só baste, dependendo principalmente da competência da narrativa em introduzir a sensação de que o que estamos vendo são filmagens realizadas de forma caseira e que relatam acontecimentos verdadeiramente inexplicáveis.
@@ -24106,7 +23929,6 @@ E mesmo que a conclusão (que não vou revelar aqui) talvez peque pelo excesso, 
 
 # Patch de emergência
 date: 2010-11-08
-slug: patch_de_emergencia
 tags: computer blog
 
 Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo recorde, você e sua equipe estão aproveitando suas devidas férias nas Bahamas, tomando água de coco na sombra de uma palmeira e apreciando as belezas da região.
@@ -24200,7 +24022,6 @@ Atualizada a função, apenas nos lembramos de renomear o arquivo antigo e atual
 
 # Patch de emergência 2
 date: 2010-11-09
-slug: patch_de_emergencia_2
 tags: computer blog
 
 No [artigo anterior] fizemos um patch rapidinho na memória se aproveitando de um Sleep nojento que o código nos forneceu.
@@ -24327,7 +24148,6 @@ Então é isso aí. Espero que tenhamos uma manhã e uma tarde agradáveis nesse
 
 # RED: Aposentados e Perigosos
 date: 2010-11-12
-slug: red_aposentados_e_perigosos
 tags: cinema movies
 
 O encontro de astros que não deu certo em Mercenários aqui fez um trabalho divertido e descartável. Principalmente com a participação de Malkovich e Helen Mirren, que criam personagens que entretem pelas suas vidas atuais sendo consequência da vida de assassinatos do passado.
@@ -24338,7 +24158,6 @@ Já a participação de Mary-Louise Parker é igualmente divertida até o meio, 
 
 # Harry Potter e as Relíquias da Morte - Parte 1
 date: 2010-11-19
-slug: harry_potter_e_as_reliquias_da_morte_parte_1
 tags: cinema movies
 
 A sensação do final é de que poderíamos muito bem assistir muito mais. Isso porque, com transições equilibradas entre cenas de ação e de reflexão, as quase duas horas e meia não soam cansativas durante a experiência, que é ao mesmo tempo empolgante e visualmente emocionante.
@@ -24349,7 +24168,6 @@ Uma coisa que logo salta aos olhos é o ambiente sombrio de todos os quadros, fe
 
 # Um Homem Misterioso (Anton Corbijn, 2010)
 date: 2010-11-19
-slug: um_homem_misterioso
 tags: cinema movies
 
 A quebra inicial do filme de romance com o casal juntos no quarto, íntimos, e o tiro que ele dá na cabeça da amante, além de impactante, dá o tom exato da vida desse homem do título, que deve sempre se manter fechado a relacionamentos. Cortes rápidos nas cenas de tiro, como o corte dele atirando no segundo sueco que aparece no filme, pelas costas, ou ele virando para atirar no seu contratante, essa cena sem corte. Sem contar as inúmeras vezes em que a neurose do personagem é transmitida diretamente para nós, como na cena da vespa estourando o escapamento, ou o livro caindo da cama no meio da noite, e até mesmo os pés do personagem no escuro, com ele deitado, deixam o espectador sempre em constante tensão. O primeiro diálogo com o padre, sobre o fato dele ser americano e fazer questão de esquecer o passado e tentar viver no presente, é emblemático e tão bem colocado, por possuir um significado oculto, que parece até feito de mentira. Mas convence.
@@ -24362,7 +24180,6 @@ E, finalmente livre, ele consegue chegar no rio, onde sua amada o espera, e lá 
 
 # Muita Calma Nessa Hora (Felipe Joffily, 2010)
 date: 2010-11-20
-slug: muita_calma_nessa_hora
 tags: cinema movies
 
 Mari é constantemente assediada por seu chefe na agência publicitária onde trabalha; cansada de ser confundida com uma mulher fácil, decide não ficar mais com homem nenhum. Tita é a mulher certinha, virgem de um homem só (o marido), mas que encontra seu noivo com outra em seu apartamento e, desacreditada, decide esquecer esse negócio de monogamia e partir pra tirar o atraso. Aninha, uma eterna indecisa, já trancou sete vezes a faculdade por nunca ter certeza do que quer fazer; sim, ela concorda com ambas as amigas; ao mesmo tempo.
@@ -24381,7 +24198,6 @@ E se não existe essa necessidade de dramatizar uma comédia despretensiosa, pra
 
 # O Encouraçado Potemkin (Sergei Eisenstein, 1925)
 date: 2010-11-20
-slug: o_encouracado_potemkin
 tags: cinema movies
 
 Esse é um dos filmes de Eisenstein, propagandista soviético, e que exalta a força do povo quando ele se une contra a opressão czarista. A revolta começa em um navio, e aos poucos se espalha para toda a população. A intensidade com que a ação é filmada faz o filme de ficção se confundir com um documentário em tempo real.
@@ -24390,7 +24206,6 @@ E a cena da escadaria, como não poderia deixar de ser, é belíssima por resumi
 
 # Os Intocáveis
 date: 2010-11-20
-slug: os_intocaveis
 tags: cinema movies
 
 Trilha sonora que nos remete a um solene faroeste, e apesar de não ser um filme desse gênero, o ambiente sem lei que Chicago aparenta torna mais do que adequada a escolha. Com paisagens largas e esbeltas, a fotografia sempre impressiona pelas cores límpidas e cristalinas, criadas para um épico. A cena da escadaria é, além de uma homenagem a Eiseinsten, que fez a sequência em que ela é inspirada em "O Encouraçado Potemkin", cria outra belíssima, memorável, cena.
@@ -24398,7 +24213,6 @@ Trilha sonora que nos remete a um solene faroeste, e apesar de não ser um filme
 
 # Senna (Asif Kapadia, 2010)
 date: 2010-11-26
-slug: senna
 tags: cinema movies
 
 De que são feitos os heróis? Como uma pessoa cresce internamente e transparece externamente, para o resto do mundo, como alguém que faz a diferença? Digo isso tanto pelo lado profissional quanto pelo lado moral, que inspira as pessoas.
@@ -24417,7 +24231,6 @@ E é na rima final, quando perguntado qual piloto com quem havia corrido que adm
 
 # Você Vai Conhecer o Homem dos Seus Sonhos
 date: 2010-11-26
-slug: voce_vai_conhecer_o_homem_dos_seus_sonhos
 tags: cinema movies
 
 Personagens que Allen adora colocar em cena: a cartomante que faz papel de psiquiatra, a velhinha que procura uma cura para sua tensão pós-separação, o ex que está velho demais para recomeçar (e acredita ter os genes da longevidade), o escritor fracassado de um sucesso só, casado com a consultora de artes em um casamento que logo, logo, irá se abalar, e a noivinha pronta para sair do casamento.
@@ -24426,14 +24239,12 @@ Os pontos mais engraçados do longa são o esforço cego que as pessoas fazem pa
 
 # A Rede Social
 date: 2010-12-03
-slug: a_rede_social
 tags: mostrasp cinema movies miniviews fragments
 
 Não é determinar quem está com a razão, mas sim em demonstrar como as relações sociais podem ser frágeis.
 
 # Megamente
 date: 2010-12-03
-slug: megamente
 tags: cinema movies
 
 Uma troca de papéis eficiente que faz repensar a dicotomia do bem contra o mal, ainda mais que hoje em dia, em que mais pessoas se livram das superstições antigas (religiões) que pregam essa dicotomia como algo inerente à existência, o filme transporta essa realidade para uma animação leve, mas que esconde algum drama mais complexo, quase que existencial.
@@ -24445,14 +24256,12 @@ A caricatura de Marlon Brando é óbvia, engraçada e necessária em um filme qu
 
 # O Garoto de Liverpool
 date: 2010-12-03
-slug: o_garoto_de_liverpool
 tags: cinema movies
 
 Na primeira cena temos apenas o primeiro acorde de "A Hard Day's Night", que nunca irá se completar, pois Nowhere Boy narra apenas a história do Beatle antes de efetivamente formar o grupo. Várias referências ao mundo Beatleniano, como Strawberry Fields, Walrus. Uma viagem em torno do relacionamento entre John Lennon e sua mãe, e o que levou com que sua personalidade fosse como é. Quer dizer, essa pelo menos é a teoria do filme de Sam Taylor-Johnson.
 
 # Skyline - A Invasão
 date: 2010-12-03
-slug: skyline_a_invasao
 tags: cinema movies
 
 As histórias são profundas o suficiente para nos preocuparmos um pouquinho com o destino dos personagens (rapaz com acordo promissor com melhor amigo e sua mulher grávida, o amigo rico que é gente boa e sua esposa fiel e paciente, e a agente do amigo rico, o que faz com que ela seja a primeira a ser esmagada e nem nos darmos conta) e joviais o suficiente para não sentirmos muito pela perda de cada um deles (ou pelo menos por muito tempo).
@@ -24465,7 +24274,6 @@ Se os efeitos são eficazes justamente por serem descobertos aos poucos, o mesmo
 
 # Tron: Uma Odisséia Eletrônica
 date: 2010-12-04
-slug: tron
 tags: cinema movies
 
 Mesmo assistindo hoje, 28 anos depois, Tron ainda parece um filme dedicado principalmente a vender vídeo-games.
@@ -24480,7 +24288,6 @@ Se houver alguma tentativa de traçar um paralelo entre os programas que são mo
 
 # Enterrado vivo
 date: 2010-12-10
-slug: enterrado_vivo
 tags: cinema movies
 
 O trabalho final em cima de um filme de um cenário só evoca uma trilha de suspense dos anos 60, além de ter seu design gráfico lembrando pequenos caixões que vão descendo a tela.
@@ -24491,7 +24298,6 @@ O final é apelativo, e igualmente óbvio. Ainda assim, a linguagem inovadora do
 
 # Tetro
 date: 2010-12-10
-slug: tetro
 tags: cinema movies
 
 O aspecto teatral do longa já é exibido em sua introdução, numa espécie de pôster suspenso, além do próprio P&B, evocando seu tom artístico e expressivo ao contar a história da família Tetrocini. A introdução é mais do que efetiva, pois em parcas quatro cenas já sabemos tudo que precisamos saber para aos poucos ir desvendando a relação passada da família do ponto de vista dos irmãos.
@@ -24502,7 +24308,6 @@ O último trabalho de Francis Ford Coppola (O Poderoso Chefão) conclui sempre c
 
 # A Sétima Alma
 date: 2010-12-14
-slug: a_setima_alma
 tags: cinema movies
 
 Aquela velha maldição que atordoa as pessoas de um vilarejo.
@@ -24513,7 +24318,6 @@ Talvez um filme para rever com calma depois de alguns anos.
 
 # Aparecida: O Milagre
 date: 2010-12-19
-slug: aparecida_o_milagre
 tags: cinema movies
 
 Tizuka Yamasaki está acostumada a realizar trabalhos "globais" como O Noviço Rebelde, Xuxa Requebra e... arght! Lua de Cristal. Seus quatro roteiristas, incluindo Paulo Halm e Carlos Gregório, desenvolvem histórias como Pequeno Dicionário Amoroso, Guerra de Canudos e arght! Se Eu Fosse Você (1 e 2!). Aparecida, A Revanche Católic... quer dizer, O Milagre, é um filme maniqueísta (como deve ser) e cafona (como esperado), mas inesperadamente bem conduzido, que tenta desviar ao máximo da narrativa vergonhosamente novelística e se focar na mensagem mais importante do projeto: milagres são possíveis e é por isso que nunca devemos desistir da vida.
@@ -24522,7 +24326,6 @@ A trilha sonora, especialmente a de abertura e de fechamento (Ave Maria), são u
 
 # A Ilha dos Mortos (George A. Romero, 2009)
 date: 2010-12-20
-slug: a_ilha_dos_mortos
 tags: cinema movies
 
 Em uma introdução ultra-rápida em off temos o cenário e o resumo do que irá acontecer durante o filme inteiro, em uma síntese cuja forma também será usada por toda a história, mostrando a segurança de Romero em estabelecer as ligações primordiais e avançar ideologicamente em pontos mais aprofundados do tema "mortos-vivos".
@@ -24561,7 +24364,6 @@ O final não poderia ser mais irônico, pois o mesmo patriarca que nos parecia e
 
 # Concorrência Desleal
 date: 2010-12-20
-slug: concorrencia_desleal
 tags: cinema movies
 
 Mais um filme político de Scola. Dessa vez o foco da história é a concorrência entre um alfaiate e um lojista, que dividem a fachada de suas lojas e suas casas, a amizade de seus filhos menores e um romance entre seu filho e sua filha maiores. Possuem muitas coisas em comum, menos uma: uma família é de judeus; a outra, não.
@@ -24594,7 +24396,6 @@ Por fim, quando o quadro final está completo, com a despedida da família judia
 
 # Fôlego (Kim Ki-duk, 2007)
 date: 2020-06-12
-slug: folego
 tags: cinema movies
 
 Em um período mais inocente da minha vida de cinéfilo Kim Ki Duk estava entre os poucos dos meus diretores favoritos, em uma lista que hoje em dia está esparsa demais para fazer algum sentido. Mas o diretor coreano continua sendo para mim um exemplo de contar histórias que chamam a atenção do seu público, sempre utilizando o chamariz das situações bizarras que nos prendem e nos impedem de desgrudar os olhos da tela até o final do filme.
@@ -24617,7 +24418,6 @@ Quantos filmes conseguem abordar temas tão delicados com tamanha propriedade? E
 
 # Meu Malvado Favorito
 date: 2010-12-20
-slug: meu_malvado_favorito
 tags: cinema movies
 
 Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?
@@ -24638,7 +24438,6 @@ O final, que termina com com todos dançando (inclusive seu vilão) lembra filme
 
 # Micmacs - Um Plano Complicado
 date: 2010-12-20
-slug: mic_macs_um_plano_complicado
 tags: mostrasp cinema movies
 
 A fotografia fabulosa de "O Fabuloso Destino de Amélie Poulain" também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida: a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio. Então ele resolve se vingar de ambas com o mesmo plano.
@@ -24651,7 +24450,6 @@ A capacidade do filme de entreter é tanta que até nos esquecemos do real objet
 
 # Primavera, Verão, Outono, Inverno... e Primavera (Kim Ki-duk, 2003)
 date: 2010-12-20
-slug: primavera_verao_outono_inverno_e_primavera
 tags: cinema movies
 
 Este é o filme mais poderoso do diretor e roteirista Kim Ki Duk e ele é o único cineasta capaz de contar essa história sem resistir à tentação das respostas fáceis. Enquanto outros dos seus filmes -- Casa Vazia, Fôlego, Time, Pietá -- apresentam um conceito-chave que será explorado à exaustão até nos darmos por rendidos e aceitarmos aquele novo escopo de sentimentos, em "Primavera, Verão" não existe novidade, e o que nos prende durante e após o filme é a nossa tentativa fugaz de captar algum significado. Este é um filme simples, mas que você precisa interpretar. E no preciso momento em que o estiver vendo saberá do que se trata, mesmo que ninguém diga isso verbalmente. Palavras são inúteis frente a imagens poderosas. Simples, mas poderosas.
@@ -24666,7 +24464,6 @@ Nada está à toa neste filme, e tudo, mesmo o mais mundano, como um totem que n
 
 # Sem Medo: As Canções De Luciano Ligabue
 date: 2010-12-20
-slug: sem_medo_as_cancoes_de_luciano_ligabue
 tags: mostrasp cinema movies
 
 Esse é um documentário que, em um tom misto de atualidade e nostalgia, conta a história dos italianos pelos olhos de sua Constituição, criada após a Segunda Guerra, e como esses ideais foram (ou não) evoluindo na passagem das gerações.
@@ -24685,7 +24482,6 @@ A semelhança acaba no momento que vemos que o engajamento político do cantor, 
 
 # Sobre Café e Cigarros
 date: 2010-12-20
-slug: sobre_cafe_e_cigarros
 tags: cinema movies
 
 Esse é um filme extremamente deprimente, pelas características dos cenários, pela estática das cenas, pela conversinha dos personagens, pelo princípio que os protagonistas, de fato, são os nomes do título.
@@ -24772,7 +24568,6 @@ Seguem minhas anotações quando o assisti quando estudava para ser crítico (po
 
 # Três Homens em Conflito (Sergio Leone, 1966)
 date: 2010-12-20
-slug: tres_homens_em_conflito
 tags: cinema movies
 
 Esse faroeste de Leone foi narrado em um contexto histórico e, por isso mesmo, com muitas pitadas de realismo nas cenas, mesmo com os absurdos hilários a que estamos acostumados em filmes do gênero. Nesse longa de quase três horas de duração teremos três pistoleiros decididos a encontrar uma fortuna escondida, mas para isso terão que passar por várias provações na época da guerra da Sessesão.
@@ -24813,7 +24608,6 @@ O enquadramento da forca, quando Tuco olha para cima, é hilária e simples, poi
 
 # Um Dia Muito Especial (Ettore Scola, 1977)
 date: 2010-12-20
-slug: um_dia_muito_especial
 tags: cinema movies
 
 Um drama de um relacionamento de um dia entre uma dona-de-casa e seu vizinho homossexual que mostra de diversas formas como a Itália fascista estava se transformando. O dia em questão calha com a visita de Hitler à Roma. O filme conta com Sophia Loren e Marcelo Mastroiana nos papéis principais, e é dirigido por Ettore Scola.
@@ -24840,7 +24634,6 @@ A câmera sempre escolhe os melhores ângulos; quando ela avança a mão para ci
 
 # Pós-II Seminário Portabilidade e Performance
 date: 2010-12-21
-slug: pos_ii_seminario_portabilidade_e_performance
 tags: ccppbr blog
 
 O nosso seminário da semana retrasada sobre portabilidade e performance teve um clima mais familiar, lembrando os antigos eventos. O tamanho menor da sala, aliado ao fato dos palestrantes não precisarem usar microfone, como foi da última vez, fez com que houvesse mais interação com o público, com destaque para minha própria palestra, onde tivemos um hiato significativo para falar sobre o desempenho da classe std::string e outros assuntos mais obscuros.
@@ -24853,7 +24646,6 @@ Deixarei disponibilizado para download minha transparência, onde infelizmente n
 
 # O Concerto (Radu Mihaileanu, 2009)
 date: 2010-12-24
-slug: o_concerto
 tags: cinema movies
 
 Trama principal: o próprio concerto; trama secundária: a relação de Andrey e sua solista, Anne-Marie.
@@ -24878,7 +24670,6 @@ Como se não bastasse, há ainda uma transição entre o futuro e presente, já 
 
 # O Mundo Encantado de Gigi
 date: 2010-12-24
-slug: o_mundo_encantado_de_gigi
 tags: cinema movies
 
 O que mais me incomodou nesse filme foi o gráfico, nem tanto pela sua limitação, mas por não existir uma história suficientemente interessante para esquecermos das limitações da técnica usada, como foi com Wallace e Gromit: A Batalha dos Vegetais, ou até mesmo A Fuga das Galinhas. Simplesmente temos uma história batida, com poucos diálogos inspiradores que atravessam os seus 87 minutos de duração em um estado de quase chatice.
@@ -24959,7 +24750,6 @@ Terminado o trabalho naquela máquina, geralmente gero um branch novo (para limp
 
 # De Pernas pro Ar (Roberto Santucci, 2010)
 date: 2010-12-30
-slug: de_pernas_pro_ar
 tags: cinema movies
 
 Alice é uma mulher que se dedica inteiramente ao trabalho. Boa parte do tempo a vemos usando seu celular e seu notebook. Apesar de excelente profissional, ela ignora sua família, cuidando dos afazeres caseiros e profissionais como se fizessem parte de uma mesma agenda. A triste consequência é que, apesar de terem uma vida invejável de classe média alta, ela acaba conhecendo pouco de seu próprio filho e quase não nota a existência do marido, que aparece distante em sua vida (sua cara de fato não aparece no início do filme).
@@ -24972,7 +24762,6 @@ Com uma história coerente em sua introdução e conclusão, mesmo com seu forma
 
 # Elsa e Fred (Marcos Carnevale, 2005)
 date: 2010-12-30
-slug: elsa_e_fred
 tags: cinema movies
 
 A noção de felicidade na sociedade atual acaba a tornando inalcançável. Quanto mais busca-se o mundo ideal, mais perde-se a satisfação do real. Sendo assim, é difícil não se emocionar com a praticidade de Elsa, uma mulher em torno dos seus 80 anos bem vividos que só tem um desejo em mente e que o coloca em prática o mais rápido possível: viver mais, não importando os defeitos e os obstáculos que o mundo real lhe apresenta.
@@ -25175,7 +24964,6 @@ Coloquem as sugestões nos comentários e quando a gente fechar alguma coisa eu 
 
 # 72 horas
 date: 2011-01-14
-slug: 72_horas
 tags: cinema movies
 
 Um drama contado em um ritmo adequado, que consegue avançar para um filme de ação em seu terceiro ato de forma surpreendentemente competente, visto que o filme consegue uma identificação com o drama de seus personagens, mesmo que perifericamente, e extrai disso uma emoção maior da perseguição final, pois não estamos assistindo mais um filme de perseguição qualquer.
@@ -25253,7 +25041,6 @@ Fora isso, curta o que está fazendo. Isso é o primordial. Arrebenta com qualqu
 
 # Incontrolável (Tony Scott, 2010)
 date: 2011-01-19
-slug: incontrolavel
 tags: cinema movies
 
 Ontem fui ver o novo filme de ação de Denzel Washington. É sobre um trem desgovernado e os esforços para segurar o bicho antes que ele destrua alguma coisa. Confesso que fiquei impressionado com a atuação acima de Denzel no papel de Frank, um condutor de trens de carga que trabalhou a vida toda nisso. Seu sotaque e seus gestos condizem de alguma forma com o personagem, enquanto seu companheiro de viagem Will (Chris Pine) fica com seus dramazinhos de família tão bobinhos que passam despercebidos.
@@ -25266,14 +25053,12 @@ Uma experiência interessante, se você não se importar em esquecer do enredo a
 
 # Garotas do Calendário (Nigel Cole, 2003)
 date: 2011-01-27
-slug: garotas_do_calendario
 tags: cinema movies
 
 Chegando em casa, a Net Movies pegou o denso Munique e deixou no lugar Garotas do Calendário. Triste troca. Uma história que tem como centro um vilarejo na inglaterra em que senhoras de meia-idade posam nus artísticos para um calendário a fim de angariar fundos de caridade mereceria um pano de fundo mais bem tratado. No entanto, o que vemos é uma sucessão de pequenos conflitos que são logo resolvidos e nunca ocupam muito espaço na tela, impossibilitando até mesmo a caracterização das personagens. Onde fica até difícil reconhecer um pouco de ação (como a briga no Conselho das Mulheres que acaba sendo resolvido de forma tão insossa quanto começara) também é difícil reconhecer seu desenlace e a consequente satisfação. Infelizmente, o filme parece realmente ter um ano de duração.
 
 # Enrolados
 date: 2011-01-30
-slug: enrolados
 tags: cinema movies
 
 A história clássica de Rapunzel é recriada com o novo senso se humor Disney/Pixar, em que o príncipe é um ladrão procurado, e a frágil princesa não é tão frágil assim. Temos aí os mesmos elementos que tornaram a Disney tão amada pelas crianças e adultos: números de música inspirados (com destaque para o bar do patinho) e uma história sem muitos conflitos e um final feliz.
@@ -25286,7 +25071,6 @@ Destaque para a movimentação dos personagens e suas expressões, uma marca Dis
 
 # Inverno da Alma
 date: 2011-01-30
-slug: inverno_da_alma
 tags: cinema movies
 
 O filme todo gira em torno da história da filha mais velha de uma família problemática que ainda por cima precisa encontrar o pai, pois este afiançou a casa onde moram e, se não comparecer ao tribunal no dia estabelecido, eles serão despejados.
@@ -25299,7 +25083,6 @@ Com dois momentos de tensão não muito arrebatadores, somos levados à conclus�
 
 # Lixo Extraordinário (Lucy Walker, Karen Harley, João Jardim, 2010)
 date: 2011-01-30
-slug: lixo_extraordinario
 tags: cinema movies
 
 O início e no programa do Jô possui um sentido maior por causa da mensagem de que, no final, o lixo de todas as pessoas que assistem a televisão vai parar no mesmo lugar?
@@ -25320,7 +25103,6 @@ O impacto final, quando os quadros criados são entregues aos seus respectivos "
 
 # Perfume: A História de um Assassino
 date: 2011-01-31
-slug: perfume_a_historia_de_um_assassino
 tags: cinema movies
 
 Jean-Baptiste Grenouille é um personagem atípico. Abandonado pela mãe logo após o parto, sua maior (única?) destreza são suas capacidades olfativas: capaz de sentir o cheiro até mesmo de elementos normalmente inodoros como vidro e cobre, e isso nos submete imediatamente ao conceito de fábula, ele segue seu destino tendo como única obsessão na vida criar o perfume perfeito.
@@ -25335,7 +25117,6 @@ Com uma narrativa surreal do começo ao fim, mas que se sustenta em sua coesão 
 
 # Amor e Outras Drogas
 date: 2011-02-05
-slug: amor_e_outras_drogas
 tags: cinema movies
 
 Jake Gyllenhaal mostra que não sabe apenas fazer um romance caubói gay. Em um filme recheado de diálogos interessantes (síndrome do pênis menor que do irmão), orgânicos (você diz uma coisa e seu corpo diz outro) e piegas (eu gosto de ouvir sua voz), a atuação do trio principal encanta em um filme que não nos leva muito longe do lugar-comum, que no caso é um romance melodramático.
@@ -25344,7 +25125,6 @@ Com o uso eficiente das câmeras (em planos abertos que vão se fechando conform
 
 # Caça às Bruxas (Dominic Sena, 2011)
 date: 2011-02-05
-slug: caca_as_bruxas
 tags: cinema movies
 
 Nicholas Cage estreia mais um filme com feitiçarias. Depois do inofensivo Aprendiz de Feiticeiro, podemos considerar Caça como uma versão inserida histórica e politicamente em um contexto mais sério: a campanha das Cruzadas da época medieval e o extermínio de centenas (milhares?) de mulheres acusadas de bruxaria, enquanto a famigerada Peste matava 75% da população.
@@ -25387,7 +25167,6 @@ Segue a descrição da vaga, feita por mim mesmo, sozinho. Interessados: sem tim
 
 # Biutiful
 date: 2011-02-13
-slug: biutiful
 tags: cinema movies
 
 Este é mais um filme que flerta com o mundo após a morte, como o Além da Vida de Eastwood, mas com uma interpretação tensa de Javier Bardem (Vicky Cristina Barcelona), que faz Uxbal, um pai separado que tem que tomar conta dos dois filhos pequenos e de seus negócios escusos, como produtos falsificados por chineses semi-escravos.
@@ -25398,7 +25177,6 @@ Com uma fotografia tensa, câmera tremida e um estudo de personagem que poderia 
 
 # Pagando Bem, que Mal Tem?
 date: 2011-02-13
-slug: pagando_bem_que_mal_tem
 tags: cinema movies
 
 Embora Seth Rogen possua um carisma que transforma as piadas de sua boca, por mais insossas que sejam, como a coisa mais divertida do mundo, o fato é que "Pagando Bem" mal consegue se segurar em sua narrativa confusa e embaraçosa.
@@ -25409,7 +25187,6 @@ Isso não seria tão estranho para uma comédia escrachada que se supõe ser est
 
 # Um Segredo entre Nós
 date: 2011-02-13
-slug: um_segredo_entre_nos
 tags: cinema movies
 
 "Fireflies in the Garden" começa de uma forma incisiva, demonstrando já em sua primeira cena a ignorância e infantilidade do pai do protagonista, Michael (Ryan Reynolds), quando este o manda ir embora para casa a pé, o expulsando do carro por ter perdido os óculos e atrasado a família para buscar a tia no aeroporto.
@@ -25420,7 +25197,6 @@ Como se não bastasse, ainda precisamos ir e voltar no tempo para entendermos as
 
 # Deixe-me Entrar (Matt Reeves, 2010)
 date: 2011-02-17
-slug: deixe_me_entrar
 tags: cinema movies
 
 Apesar de ser um remake, e os diálogos, os cenários e muitos ângulos se assemelharem ao original sueco de 2008, o filme estabelece seu próprio estilo baseado principalmente na trilha sonora, na fotografia e na maneira peculiar do diretor Matt Reeves contar um romance-terror entre dois jovens. Eu diria mais: o filme, do ponto de vista estético, empolga em um nível suficiente para renovar o defasado gênero de terror.
@@ -25437,7 +25213,6 @@ Com a única cena insuperável no original sendo a conclusão na piscina (que no
 
 # A Noiva Perfeita
 date: 2011-02-20
-slug: a_noiva_perfeita
 tags: cinema movies
 
 Luis Costa (Chabat) é um solteirão que vive com a mãe e suas inúmeras irmãs e que não deseja se casar tão cedo, apesar de já estar na casa dos 30. Pressionada pela família, que não aguenta mais os mimos que ele recebe, ele tem que encontrar uma pretendente o quanto antes. Não aguentando tanto assédio, resolve então "contratar" uma noiva para estragar o casamento e lhe dar um tempo de sossego.
@@ -25448,7 +25223,6 @@ Com muitos erros de continuidade no ritmo da narrativa (além de deslizes bobos 
 
 # O Turista (Florian Henckel von Donnersmarck, 2010)
 date: 2011-02-20
-slug: o_turista
 tags: cinema movies
 
 Há filmes que enriquecem ainda mais em uma revisita (O Sexto Sentido, Donnie Darko, Cidade dos Sonhos). Porém, ter um segredo final que pode mudar tudo o que vínhamos assistindo desde o início nem sempre se revela uma boa ideia (Os Esquecidos, A Caixa, A Passagem). Infelizmente, O Turista se encaixa nessa segunda situação.
@@ -25461,7 +25235,6 @@ Ponto forte: Angeline Jolie.
 
 # Simplesmente Feliz (Mike Leigh, 2008)
 date: 2011-02-20
-slug: simplesmente_feliz
 tags: cinema movies
 
 Personagem carismática, a professora de primário Poppy faz de tudo para fazer as outras pessoas felizes e faz todo o tipo de piada e gracinha porque ela mesma deseja estar feliz o tempo todo. Morando aos 30 anos com uma amiga de longa data, ela renega os padrões convencionais que determinam o que seria uma vida feliz: casar, ter filhos, etc. Mais importante do que isso é tentar sempre melhorar o dia, nem que isso custe se aventurar pela discrição e mau humor das pessoas londrinas.
@@ -25470,7 +25243,6 @@ Aparentemente, a ideia do longa era passar o valor de toda essa felicidade atrav
 
 # 127 Horas (Danny Boyle, 2010)
 date: 2011-02-23
-slug: 127_horas
 tags: cinema movies
 
 Com uma introdução em tela cortada em três partes, mostrando diversos cenários que evocam o dia-a-dia das pessoas e, principalmente, a correria dessas pessoas para quem o tempo é um bem cada vez mais escasso, o novo longa de Danny Boyle (Quem Quer Ser Um Milionário?) nos apresenta Aaron, sem muita distinção do resto da multidão. Na verdade, ele não é muito diferente de nenhum de nós.
@@ -25493,7 +25265,6 @@ Por fim, com o uso das habilidosas expressões de James Franco, que consegue tra
 
 # Cisne Negro (Darren Aronofsky, 2010)
 date: 2011-02-23
-slug: cisne_negro
 tags: cinema movies
 
 Nina é uma dançarina de balé que, assim como muitas, devota toda sua vida a essa arte. Perfeccionista ao extremo e apoiada pela mãe controladora, ela está prestes a participar da escolha de quem será a nova protagonista de uma nova versão do clássico O Lago dos Cisnes, dirigida pelo seu controverso diretor Thomas Leroy (Cassel).
@@ -25508,7 +25279,6 @@ Dono de um invejável controle sobre a profundidade crescente com que trata os d
 
 # VTable
 date: 2011-03-01
-slug: vtable
 tags: computer blog
 
 Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um "hookzinho nos métodos de um componente COM". Mas só.
@@ -25674,7 +25444,6 @@ Agora, como codificar essa solução? Só entendendo o básico, é claro.
 
 # Esposa de Mentirinha (Dennis Dugan, 2011)
 date: 2011-03-09
-slug: esposa_de_mentirinha
 tags: cinema movies
 
 "(...) o filme se baseie provavelmente em um fim-de-semana que ele mesmo tirou com seus amigos (...)"
@@ -25691,7 +25460,6 @@ Com a participação de Jenifer Aniston como sua secretária, é possível compa
 
 # Gnomeu e Julieta (Kelly Asbury, 2011)
 date: 2011-03-10
-slug: gnomeu_e_julieta
 tags: cinema movies
 
 Como diz a introdução dessa nova animação, a história que será contada já foi contada várias vezes. Porém, e continua a introdução, nunca foi contada da maneira que será nesse filme. É uma pena, portanto, constatar que a única coisa que muda nessa recriação de fato são a técnica (animação) e o apelo infantil (gnomos de jardim). Porém, pior do que isso, esse "remake" chega à proeza de tornar enfadonho acompanhar uma das mais populares histórias de William Shakespeare.
@@ -25744,7 +25512,6 @@ Idéias?
 
 # Mistério da Rua 7
 date: 2011-03-14
-slug: misterio_da_rua_7
 tags: cinema movies
 
 Mensagem de cunho católico no mesmo molde de O Nevoeiro, porém, determinado a sacrificar a história pelo bem de um contra-ataque nada elegante?
@@ -25761,7 +25528,6 @@ Por fim, pagando o preço por não ter desenvolvido seus unidimensionais persona
 
 # Bruna Surfistinha (Marcus Baldini, 2011)
 date: 2011-03-15
-slug: bruna_surfistinha
 tags: cinema movies
 
 Observação de 2026-03-13: para quem nunca me viu sob outras influências, eu estava moralista assim quando comecei a escrever sobre cinema. E falando sobre pxxx crítica social. Felizmente o tempo passa, o tempo voa...
@@ -25799,7 +25565,6 @@ Mas confesso que, de vez em quando, depurar múltiplas threads fica parecendo co
 
 # Os Fantasmas de Scrooge (Robert Zemeckis, 2009)
 date: 2011-03-21
-slug: os_fantasmas_de_scrooge
 tags: cinema movies
 
 Jim Carrey em Motion Capture é, em poucas palavras, inusitadamente fabuloso. O trabalho feito em seu personagem, protagonista do clássico conto de Charles Dickens, que se mantém homônimo no título original, é, de longe, um trabalho rebuscado tanto nas expressões quanto nos movimentos do boneco através dos cenários igualmente trabalhados à exaustão.
@@ -25812,7 +25577,6 @@ Para os fãs do livro, a caracterização das cenas não perde em nada no aspect
 
 # Sexo Sem Compromisso (Ivan Reitman, 2011)
 date: 2011-03-21
-slug: sexo_sem_compromisso
 tags: cinema movies
 
 Seguindo a tendência libertária de nossas relações sociais, que "evoluíram" sensivelmente nos últimos dez anos, "Sexo sem Compromisso" adota como pano de fundo a moderna relação de "amigos com benefícios", ou seja, o que o título do filme de fato sugere.
@@ -25834,7 +25598,6 @@ De uma maneira simples e efetiva, ele cita o passo-a-passo para a conversão da 
 
 # Passe Livre
 date: 2011-03-22
-slug: passe_livre
 tags: cinema movies
 
 Seguindo o exemplo de Rango, temos mais um filme com referências sutis que funcionam a maior parte do tempo. Com uma fotografia saudosista, de um granulado quase apático, e trilhas selecionadas a dedo (e não são muitas, já que apenas são inseridas em momentos pontuais), o novo trabalho dos irmãos Farrely (Quem Vai Ficar com Mary; Eu, Eu Mesmo e Irene) se posiciona acima da média das comédias românticas exatamente pela narrativa contida que evita o besteirol já cansativo na maioria das obras do gênero.
@@ -25899,7 +25662,6 @@ C:\Projetos\caloni>bzr qlog
 
 # A Arca Russa
 date: 2011-03-28
-slug: arca_russa
 tags: cinema movies
 
 Arca Russa é uma experiência que, como cinéfilos que somos, devemos assistir para aprender o que uma técnica como o plano-sequência consegue em termos de narrativa.
@@ -25914,7 +25676,6 @@ Atrevo-me, até, a tentar ver mais vezes esse delírio cinematográfico contado 
 
 # Atividade Paranormal Tóquio (Toshikazu Nagae, 2010)
 date: 2011-03-28
-slug: atividade_paranormal_toquio
 tags: cinema movies
 
 Verdade seja dita: os asiáticos sabem fazer terror como nunca.
@@ -25931,7 +25692,6 @@ Da mesma forma, as partes mais "movimentadas" do longa passam esse medo através
 
 # O Julgamento do Diabo
 date: 2011-03-28
-slug: o_julgamento_do_diabo
 tags: cinema movies
 
 Existe uma relação entre esse primeiro (e único) longa de Baldwin e um filme de 1941 chamado "The Devil and Daniel Webster": o protagonista é o mesmo Daniel Webster. Ambos possuem dois títulos: são chamados "The Devil and Daniel Webster", porém o de 1941 também possui o título "All That Money Can Buy", enquanto esse de 2007 é chamado também de "Shortcut to Happiness".
@@ -25944,7 +25704,6 @@ Contanto a história em um misto de drama, ficção e comédia moderada nos mold
 
 # Sucker Punch: Mundo Surreal
 date: 2011-03-29
-slug: sucker_punch_mundo_surreal
 tags: cinema movies
 
 Cenas de ação cheias de adrenalina e perfeição técnica, uma fotografia e direção de arte extremamente competentes e uma trilha sonora que parece que foi feita para cada cena.
@@ -25957,7 +25716,6 @@ Com um grupo de garotas obviamente sensuais, porém imaturas (como é demonstrad
 
 # O Vencedor
 date: 2011-04-02
-slug: o_vencedor
 tags: cinema movies
 
 O filme começa como um documentário, mas corta para outro documentário sobre o vício do irmão. Isso acaba derrubando nossa visão inicial, mas o tom documental dá realismo ao filme.
@@ -25976,14 +25734,12 @@ O passado de Dicky sempre é mostrado com o que restou na vida real: relatos do 
 
 # A ironia de O Senhor das Armas
 date: 2011-04-07
-slug: o_senhor_das_armas
 tags: cinema movies fragments
 
 É irônico o fato dos produtores do filme trabalharem realmente com gunrunners de armas ilegais para conseguir as armas, e ser mais barato as armas reais do que se falsificassem. O filme foi financiado por instituições internacionais (nenhuma produtora dos Estados Unidos bancaram o filme). Aos poucos nos sentimos cada vez mais como ele: morto por dentro, onde a única excitação é negociar as armas.
 
 # A Minha Versão do Amor
 date: 2011-04-27
-slug: a_minha_versao_do_amor
 tags: cinema movies
 
 Paul Giamatti é uma das melhores surpresas que se poderia esperar desse início de século para o cinema (2026-03-13 nesta época estava afeito a exageros, a la Pauline Kael talvez). Sempre envolvido em história no mínimo curiosas (Sideways) e em no máximo transcendentais (Sinédoque), temos aqui um conjunto das duas coisas espelhadas em um personagem desde os primeiros minutos de projeção que nos fascina pela sua mente conturbada e sua alma acuada, tão humano quanto qualquer um de nós foi em um dado período da vida.
@@ -25996,7 +25752,6 @@ Para os que acham que o filme é lento e contém partes desnecessárias de sua h
 
 # A Revolução dos Bichos (John Stephenson, 1999)
 date: 2011-04-27
-slug: a_revolucao_dos_bichos
 tags: cinema movies
 
 Nunca recomendo a ninguém que leia um livro antes de assistir à sua adaptação cinematografia. Por motivos óbvios. É grande a chance que a pessoa irá se decepcionar com relação a detalhes ou omissões do roteiro, construção de personagens e cenários que já estavam dentro do imaginário do espectador antes mesmo dele vislumbrar a primeira cena do filme. Isso pode ser maléfico em muitos casos, e benéfico em raríssimas exceções, das quais lembro de cabeça apenas Contato.
@@ -26007,7 +25762,6 @@ De forma que temos, no exemplo de 99, uma aparente deformação na forma de cont
 
 # Amor e Inocência (Julian Jarrold, 2007)
 date: 2011-04-27
-slug: amor_e_inocencia
 tags: cinema movies
 
 Depois de acompanharmos as divertidas adaptações dos romances de Jane Austen (Razão e Sensibilidade, Emma, Orgulho e Preconceito), chegou a hora de vermos a história da própria Jane, e como ela se tornou a escritora dos romances de época.
@@ -26020,7 +25774,6 @@ Com uma participação inspirada de James McAvoy, que interpreta o interesse amo
 
 # As Mães de Chico Xavier (Glauber Filho, Halder Gomes, 2011)
 date: 2011-04-27
-slug: as_maes_de_chico_xavier
 tags: cinema movies
 
 Como grande sucesso do primeiro longa metragem que mostra a vida do famoso espírita Chico Xavier, vemos uma tentativa de realizar uma franquia com um seriado de televisão e, agora, com histórias alternativas que giram em torno dos poderes do aclamado médium.
@@ -26033,7 +25786,6 @@ Mas é inegável que a qualidade na construção da narrativa decai em vários m
 
 # Instinto Secreto (Bruce A. Evans, 2007)
 date: 2011-04-27
-slug: instinto_secreto
 tags: cinema movies
 
 Falarei brevemente deste que, para mim, é uma das maiores surpresas em Home Vídeo em muito tempo (2026-03-13 novamente, Kael). A princípio, o filme emprega uma dinâmica inovadora com um mesmo personagem representado por duas psiques/atores, e o uso de atores que conseguem passar a impressão de serem a mesma pessoa (Kevin Costner e William Hurt) é mecanicamente a melhor coisa do filme.
@@ -26044,7 +25796,6 @@ Apresentando-nos uma visão irônica e arrebatadora dos matadores em série, o f
 
 # Invasão do Mundo: Batalha de Los Angeles (Jonathan Liebesman, 2011)
 date: 2011-04-27
-slug: invasao_do_mundo_batalha_de_los_angeles
 tags: cinema movies
 
 Cloverfield abriu o portal de obras de ficção filmados em estilo documental, mesmo em uma produção cara e mais aprimorada que o experimento primordial de Bruxa de Blair.
@@ -26061,7 +25812,6 @@ De forma que, se por um lado o desenvolvimento da história fica prejudicado em 
 
 # Jumper (Doug Liman, 2008)
 date: 2011-04-27
-slug: jumper
 tags: cinema movies
 
 Em vários momentos de Jumper, principalmente na sua conclusão, podemos sentir o desperdício completo de uma boa ideia, melhor aproveitada em um filme mais intrigante do que este.
@@ -26076,7 +25826,6 @@ Sem contar a falta de imaginação, pois os dramas dos dois únicos Jumpers vist
 
 # Polaróides Urbanas (Miguel Falabella, 2008)
 date: 2011-04-27
-slug: polaroides_urbanas
 tags: cinema movies
 
 O único exemplo cinematográfico de Miguel Falabela como diretor demonstra o talento de seu idealizador no formato tão conhecido por ele e praticado por anos a fio: o teatro.
@@ -26089,7 +25838,6 @@ O final, contudo, não só define, como desmascara, literalmente, a origem teatr
 
 # Um Conto Chinês (Sebastián Borensztein, 2011)
 date: 2018-07-14
-slug: um_conto_chines
 tags: cinema movies
 
 (Adaptado de texto original de 2011-04-27.)
@@ -26126,7 +25874,6 @@ Agora é só esperar pelo próximo bug =)
 
 # Bebês
 date: 2011-05-01
-slug: bebes
 tags: cinema movies
 
 O filme mostra a história de quatro bebês espalhados em quatro lugares do planeta bem diferentes entre si. O que mais impressiona é o fato de que, apesar das culturas serem tão diferentes, o filme enfoca justamente o que é comum a todo bebê: mamar, chorar, a curiosidade, as primeiras engatinhadas...
@@ -26141,7 +25888,6 @@ Fora isso, o filme merece ser visto porque é muito fofinho.
 
 # Hop Rebeldes sem Páscoa
 date: 2011-05-01
-slug: hop_rebeldes_sem_pascoa
 tags: cinema movies
 
 A cada cinco minutos do filme, a cada cena obviamente maquiada e implantada na narrativa da maneira mais artificial possível, eu me fazia uma nota mental que dizia sempre a mesma coisa: "É um filme feito pra Páscoa; pra ESSA Páscoa".
@@ -26150,7 +25896,6 @@ E no fundo, essa é uma maneira sensata de classificar Hop, que agora faz parte 
 
 # Coincidências do Amor (Will Speck, Josh Gordon, 2010)
 date: 2011-05-16
-slug: coincidencias_do_amor
 tags: cinema movies
 
 Kassie (Jenifer Aniston) deseja ser mãe, mas não possui nenhum parceiro nem deseja ter um, se contentando com os ombros amigos de Wally (Jason Bateman, de Juno), que sempre está por perto. Porém, sua idade avançando a deixa preocupada a ponto de pensar em ter o filho por conta própria, usando o já não tão modernoso método de inseminação artificial. Para isso, decide procurar um candidato que se encaixe em seus padrões de homem bem-sucedido (Patrick Wilson, em uma aparição apagada) e anuncia em uma festa que será fecundada pelo esperma do tal sujeito que será, acreditem, gerado naquela mesma noite durante a festa.
@@ -26163,7 +25908,6 @@ O mais incrível é que Loeb acredita realmente que apenas a piada recorrente de
 
 # Scott Pilgrim Contra o Mundo (Edgar Wright, 2010)
 date: 2011-05-16
-slug: scott_pilgrim_contra_o_mundo
 tags: cinema movies
 
 Scott Pilgrim é o tipo de filme que abraça um conceito até o fim. Melhor: começa como um filme comum, mas vai apresentando o seu conceito de forma orgânica e cada vez mais intensa. E intensidade é uma palavra que resume muito bem toda a experiência que esse filme proporciona.
@@ -26266,7 +26010,6 @@ Essa solução não é exatamente um reflection, mas apenas parte do que o verda
 
 # Os Agentes do Destino (George Nolfi, 2011)
 date: 2011-05-19
-slug: os_agentes_do_destino
 tags: cinema movies
 
 Em uma época em que religião e economia precisam ser reinventadas, a visão mesclada de ambas em uma organização fria e calculista não deixa de ser no mínimo curiosa. Porém, mais do que isso é constatarmos que os homens sisudos do filme têm por função coordenar algo que para nós, seres humanos, especialmente em tempos de crise, é sabidamente a única coisa de que realmente somos donos: o livre arbítrio.
@@ -26287,7 +26030,6 @@ Porém, não seria essa a finalização metalinguística do seu próprio criador
 
 # Garota Infernal (Karyn Kusama, 2009)
 date: 2011-05-21
-slug: garota_infernal
 tags: cinema movies
 
 Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
@@ -26454,7 +26196,6 @@ Com isso, economizamos alguns minutos de puro tédio, verificando os nomes um a 
 
 # Wall Street: Poder e Cobiça (Oliver Stone, 1987)
 date: 2011-05-23
-slug: wall_street_poder_e_cobica
 tags: cinema movies
 
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
@@ -26477,7 +26218,6 @@ O mundo de Wall Street como é retratado poderia ser visto como um documentário
 
 # Velozes & Furiosos 5: Operação Rio
 date: 2011-05-25
-slug: velozes_e_furiosos_5_operacao_rio
 tags: cinema movies
 
 O Rio de Janeiro está em alta no cinema mundial esse ano: palco de duas produções internacionais de prestígio, a uma vez chamada Cidade Maravilhosa começa a mostrar aos poucos sua nova cara para o mundo, mesmo que sob a ótica distorcida das produções de Hollywood.
@@ -26494,7 +26234,6 @@ Mas é no asfalto que a direção enérgica de Justin Lin mostra por que voltou 
 
 # Elucubrações sobre Star Wars, Episódio I: A Ameaça Fantasma
 date: 2011-05-27
-slug: elucubracoes_sobre_star_wars_episodio_i_a_ameaca_fantasma
 tags: cinema movies
 
 Quando se mexe com algo sagrado como a trilogia clássica de Star Wars ou alguém está produzindo uma sátira ou essa pessoa é George Lucas. Por mais que os fãs apontem defeitos ou sugestões, o Criador da saga sempre teve palavra final. Portanto, não é de se admirar que a nova trilogia comece com seu roteiro, direção, e autoridade.
@@ -26525,7 +26264,6 @@ Para os usuários do Subversion, ou qualquer outro controle de fonte que consiga
 
 # Singularidades de uma Rapariga Loura
 date: 2011-05-29
-slug: singularidades_de_uma_rapariga_loura
 tags: cinema movies
 
 O filme 9 - A Salvação se baseia em um curta anteriormente produzido. O resultado é que temos uma história curta o suficiente para ser contada em 10 minutos ser expandida em tediosos 79 minutos.
@@ -26538,7 +26276,6 @@ Ainda assim, se apenas isso significasse algo mais na surpresa final do "conto d
 
 # Elucubrações sobre Star Wars: Episódio II – Ataque dos Clones (George Lucas, 2002)
 date: 2011-05-29
-slug: elucubracoes_sobre_star_wars_episodio_ii_ataque_dos_clones
 tags: cinema movies
 
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
@@ -26553,7 +26290,6 @@ Aliás, a presença de Yoda é o que realmente dá tom ao clima da história com
 
 # Piratas do Caribe: Navegando em Águas Misteriosas (Rob Marshall, 2011)
 date: 2011-06-01
-slug: piratas_do_caribe_4_navegando_em_aguas_misteriosas
 tags: cinema movies
 
 A direção de Bob Marshall resgata o antigo objetivo da Disney em transformar a atração do seu parque de diversões em um longa-metragem que tenha as mesmas características do seu brinquedo: um passeio que diverte em pontos estratégicos, localizados em cenários dedicados e com piratas que se parecem com os de verdade, porém, é claro, inofensivos. Talvez não uma mera coincidência, os trabalhos do diretor também navegam em águas mornas: acostumado com eventos episódicos típicos do gênero musical (Nine e Chicago estão em sua lista), Marshall repete o feito de nos levar por um simples passeio turístico por sets de filmagem que mal conseguem se unir para contar uma história coesa, tudo sob o rótulo de aventura.
@@ -26637,7 +26373,6 @@ O número de horas ficou muito maior que o esperado? Não me admira que os proje
 
 # X-Men: Primeira Classe (Matthew Vaughn, 2011)
 date: 2011-06-07
-slug: x_men_primeira_classe
 tags: cinema movies
 
 Como sugeria o cineasta e crítico Eric Rohmer, todo filme acaba sendo um documentário de sua própria época. Em "X-Men: Primeira Classe", essa premissa ganha força através da ficção científica: as liberdades do gênero permitem alegorias e caracterizações que nos levam a viajar para outro universo e, ali, debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
@@ -26674,7 +26409,6 @@ O que nos faz voltar ao mais dramático dos personagens, em uma participação a
 
 # Minhas Mães e Meu Pai (Lisa Cholodenko, 2010)
 date: 2011-06-08
-slug: minhas_maes_e_meu_pai
 tags: cinema movies
 
 Annete Bening é uma atriz talentosa. Seu único trabalho que acompanhei de perto, Beleza Americana, foi um exercício de neurose formidável, ainda que equivocado em sua exagerada conclusão final (culpa do roteiro?). Porém, através dele é possível ter uma noção muito boa das capacidades de Bening interpretando pessoas com algum descontrole emocional que a leve a influenciar negativamente a vida dos seus próximos.
@@ -26708,7 +26442,6 @@ Para se aquecer enquanto a trilha de C++ do TDC não acontece, o Grupo C/C++ pas
 
 # A Queda! As Últimas Horas de Hitler (Oliver Hirschbiegel, 2004)
 date: 2011-06-12
-slug: a_queda_as_ultimas_horas_de_hitler
 tags: cinema movies
 
 A proposta de evitar criar-se um microcosmos do ambiente onde Hitler passou seus últimos dias, enclausurado em um bunker com seu alto escalão e suas pessoas mais próximas, é digno de nota, pois, no decorrer da projeção, temos a sensação que muitas coisas estão acontecendo com o povo da Alemanha, não apenas em suas crescentes baixas de exércitos e civis, mas, principalmente, em sua moral.
@@ -26721,7 +26454,6 @@ Dentro dessa ótica surreal é possível entender a desilusão nos olhos das cri
 
 # Kung Fu Panda 2 (Jennifer Yuh Nelson, 2011)
 date: 2011-06-12
-slug: kung_fu_panda_2
 tags: cinema movies
 
 A continuação das aventuras de Po, agora o Dragão Guerreiro, e os cinco furiosos, contém em sua essência os mesmos elementos que fizeram do original um sucesso como filme: as piadas irreverentes em torno da figura de um panda lutando Kung Fu (e Po é um personagem irreverente não apenas por natureza, mas em sua própria concepção de personalidade divertida), as sequências de luta orquestradas pela animada trilha sonora (que aqui já se torna um pouco mais confusa, e desafina um pouco se revermos o primeiro filme) e os primorosos efeitos visuais, que aqui ainda contém o interessante efeito da água no pelo de Po.
@@ -26732,7 +26464,6 @@ Com um trabalho criativo em alguns detalhes da trama (como a forma encontrada pe
 
 # O Pai dos Meus Filhos (Mia Hansen-Løve, 2009)
 date: 2011-06-12
-slug: o_pai_dos_meus_filhos
 tags: cinema movies
 
 A diretora-roteirista Mia Hansen-Løve consegue prender a atenção mesmo em um filme cujo assunto fica vago do começo ao fim. O mais irritante, contudo, em O Pai dos Meus Filhos, é a maneira covarde com que ele flerta com o nosso próprio sentido de narrativa.
@@ -26743,7 +26474,6 @@ Porém, covarde não é o filme pela falta de certezas pelas quais podemos nos g
 
 # Star Wars: Episódio III – A Vingança dos Sith (George Lucas, 2005)
 date: 2011-06-12
-slug: star_wars_episodio_iii_a_vinganca_dos_sith
 tags: cinema movies
 
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os dois filmes iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus antecessores.
@@ -26761,7 +26491,6 @@ E se, por fim, a maioria do filme prever o final não-feliz é uma atitude coraj
 
 # Um Gato em Paris (Jean-Loup Felicioli, Alain Gagnol, 2010)
 date: 2011-06-12
-slug: um_gato_em_paris
 tags: cinema movies
 
 A trilha sonora fantasiosa que evoca tanto os Batman de atualmente ("Batman Begins") como, de uma forma mais lúdica, os policiais infantis que líamos quando crianças, abre as cortinas para o novo trabalho de Alain Gagnol, projeto de mais de cinco anos onde, debruçado com sua equipe de 60 pessoas sobre os mais de 40.000 desenhos criados à mão, revela uma estética curiosa e ao mesmo tempo divertida.
@@ -26775,7 +26504,6 @@ Além disso, o filme conta com um bando de gângsteres que conseguem divertir na
 
 # O Homem que Sabia Demais (Alfred Hitchcock, 1934)
 date: 2011-06-16
-slug: o_homem_que_sabia_demais_1934
 tags: cinema movies
 
 Para Hitchcock, aparentemente, não houve nenhum outro trabalho de destaque antes de O Homem que Sabia Demais. Digo pelos famosos títulos de "Psicose", "Janela Indiscreta" e "Os Pássaros". Até porque, de acordo com o IMDB, Hitchcock começou sua carreira em 22, o que quer dizer que temos aí cerca de 12 anos de amadurecimento do uso de sua técnica indiscutivelmente coesa em sua capacidade de gerar tensão.
@@ -26793,7 +26521,6 @@ Aliás, um detalhe artístico que merece nota é o uso de câmeras que tentam re
 
 # Circo dos Horrores: O Aprendiz de Vampiro (Paul Weitz, 2009)
 date: 2011-06-20
-slug: cirque_du_freak_o_assistente_de_vampiro
 tags: cinema movies
 
 Darren (Massoglia) é um garoto estilo certinho, mas é amigo do problemático Steve (Hutcherson). Ambos acabam indo a um circo de horrores e lá conhecem um homem misterioso, Lasten Crepsley (Reilly), que se revela um vampiro secular. Após uma série de eventos, como o título já denuncia, Darren será obrigado a deixar sua vida normal e se tornar seu assistente. Porém, para complicar as coisas, ele irá descobrir que existem algumas escolhas a ser feitas no mundo dos vampiros.
@@ -26811,7 +26538,6 @@ O que é uma pena, pois mesmo com atores tão talentosos quanto Reilly e Hutcher
 
 # Quebrando o Tabu
 date: 2011-06-23
-slug: quebrando_o_tabu
 tags: cinema movies
 
 Existem filmes que não são apenas interessantes de se assistir como mais uma manifestação de arte. Os documentários, por natureza, quase sempre tentam nos envolver em algum tipo de realidade que, por muitas vezes não fazer parte da nossa, é preciso ser escancarada e dissecada da maneira como os idealizadores do projeto acreditam ser importante.
@@ -26828,7 +26554,6 @@ Abaixo minhas observações iniciais.
 
 # Guerra nas Estrelas
 date: 2011-06-23
-slug: star_wars_guerra_nas_estrelas
 tags: cinema movies
 
 Sem modelos anteriores além dos arquétipos narrativos como a clássica jornada do herói, o primeiro Guerra nas Estrelas brilha pela sua produção inusitada. Flertando entre o trash e o onírico fantasioso precursor da era das superproduções, o trabalho de George Lucas transita sem avisar entre o risível e o épico. Ele pode ser entendido como a mescla perfeita que gera o pop, esse sentimento de auto-importância criado na base do berro que fascinou e fascina gerações.
@@ -26845,7 +26570,6 @@ Nesse quesito, Star Wars consegue não só criar planetas, raças e as relaçõe
 
 # O Segredo dos Seus Olhos
 date: 2011-06-26
-slug: o_segredo_dos_seus_olhos
 tags: cinema movies
 
 Juan José Campanella ("O Filho da Noiva", Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
@@ -26865,7 +26589,6 @@ O fato é que O Segredo dos Seus Olhos contém mais segredos em sua composição
 
 # Psicose
 date: 2011-06-30
-slug: psicose
 tags: cinema movies
 
 A sensação de assistir Psicose na telona do cinema se compara a voltar ao próprio tempo em que o filme estreou. Ainda considerando que a última vez que o assisti estava eu abaixo da regra dos 15 anos e, portanto, livre do meu senso crítico, me fez revisitar as sequências mais importantes do longa como se agora sim eu tivesse algo a dizer. Ledo engano. Saí do cinema sem saber mentalizar uma frase sequer. Nem de efeito. Estava sem palavras diante de uma obra de arte. Petrificado. Extasiado. Feliz.
@@ -26878,7 +26601,6 @@ Meu único pensamento é o testemunho de que, mesmo hoje vista como supervaloriz
 
 # TDC 2011
 date: 2011-06-30
-slug: tdc_2001
 tags: ccppbr blog
 
 Se você gosta do tema e possui dúvidas a respeito, ou gostaria de mais detalhes sobre outros projetos, não deixe de comparecer. Antes e depois da palestra estarei disponível para conversarmos. O mais interessante de termos uma trilha em C++ é reunir pessoas envolvidas em torno da linguagem, não importando muito a área. Somos um grupo pequeno, e é importante que tenhamos um contato mais próximo de vez em quando.
@@ -26976,14 +26698,12 @@ Aguarde, por favor, que está para ser lançada a versão com interface com usu�
 
 # A Árvore
 date: 2011-07-01
-slug: a_arvore
 tags: cinema movies
 
 Estava aguardando ansioso por esse dia. E confesso que foi exatamente como eu esperava. Com uma direção focada em contar sobre uma família que vive às sombras de uma gigantesca árvore que serve de confessionário, com direito a cenas de pseudo-terror (com reflexo no vidro do carro seguido por câmera lateral) e com uma visão bem peculiar sobre como conduzir a vida, apesar dos infortúnios que atingem todo mundo.
 
 # Além da Vida
 date: 2011-07-01
-slug: alem_da_vida
 tags: cinema movies
 
 Para quem não havia assistido o trailer do novo trabalho de Clint Eastwood (Menina de Ouro) tem a impressão que os conflitos do primeiro ato são apresentados de uma maneira mais impactante do que um drama seria capaz. Como o exemplo mais marcante, escolho a situação em que se encontra Marie LeLay (Cécile de France), uma jornalista de sucesso e que passa o momento mais claustrofóbico do longa.
@@ -27004,7 +26724,6 @@ Interpretações competentes na média, com especial destaque para os irmãos Mc
 
 # Entrando Numa Fria Maior Ainda com a Família
 date: 2011-07-01
-slug: entrando_numa_fria_maior_ainda_com_a_familia
 tags: cinema movies
 
 Filme um pouco mais recatado que os outros da série, traz piadas mais contidas, um senso mais família, com De Niro no automático e Ben Stiller pouco inspirado em suas caretas.
@@ -27013,7 +26732,6 @@ Ainda sai de tom com conflitos montados e desmontados na mesma hora, como a part
 
 # Os Pinguins do Papai
 date: 2011-07-04
-slug: os_pinguins_do_papai
 tags: cinema movies
 
 Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
@@ -27031,7 +26749,6 @@ Dito isto, que venha "Happy Feet 2".
 
 # Transformers: O Lado Oculto da Lua (Michael Bay, 2011)
 date: 2011-07-06
-slug: transformers_o_lado_oculto_da_lua
 tags: cinema movies
 
 É muito difícil para quem começa a estudar aos poucos os segredos do cinema descobrir o que faz um filme ruim. Apenas o fato de não gostar do que se vê não é argumento satisfatório para entender quais mecanismos estão ali (ou não) para sabotar por completo uma experiência cinematográfica tão bem sucedida tecnicamente, como para mim foi esse Transformers 3.
@@ -27062,7 +26779,6 @@ Infelizmente, alguns compromissos inadiáveis me fizeram ter que sair pela esque
 
 # The Housemaid (Kim Ki-young, 1960)
 date: 2011-07-08
-slug: the_housemaid
 tags: cinema movies
 
 O longa possui algumas reviravoltas que podem soar esquisito à cultura ocidental, mas a base do drama, que são os acontecimentos macabros rodeando a honrada família do professor de piano, criam um clima, se não de tensão, definitivamente macabro e sexy.
@@ -27073,7 +26789,6 @@ Quando a empregada se veste de preto tudo começa a se acelerar em direção ao 
 
 # Operação Presente (Sarah Smith e Barry Cook, 2011)
 date: 2011-07-12
-slug: operacao_presente
 tags: cinema movies
 
 A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
@@ -27089,7 +26804,6 @@ Nesse sentido, a forma espontânea, embora atrapalhada de seu filho mais novo fa
 
 # Carros 2
 date: 2011-07-20
-slug: carros_2
 tags: cinema movies
 
 O ponto mais forte no longa original eram as ideias por trás do conceito de carros se comportando como humanos. E até os pequenos detalhes de produção, como o fato dos mosquitos voando serem pequenos carrinhos com asas, contribuíam para tornar aquele universo todo especial.
@@ -27102,7 +26816,6 @@ O fato é que apenas com a dublagem de Mate o filme é divertido do começo ao f
 
 # Harry Potter e as Relíquias da Morte - Parte 2
 date: 2011-07-22
-slug: harry_potter_e_as_reliquias_da_morte_parte_2
 tags: cinema movies
 
 ## Prólogo
@@ -27243,7 +26956,6 @@ Particularmente, gosto de instruções simples que me permitam ver claramente o 
 
 # Depuração de emergência
 date: 2011-07-26
-slug: depuracao_de_emergencia
 tags: computer blog
 
 O programa está rodando no servidor do cliente, que é acessível por sessão remota do Windows, mas de repente ele capota. Existem aí duas possibilidades fora o debug remoto (que, nesse caso, não é possível):
@@ -27379,7 +27091,6 @@ E boa sorte =)
 
 # A Serbian Film - Terror sem Limites (Srdjan Spasojevic, 2010)
 date: 2011-07-31
-slug: a_serbian_film
 tags: cinema movies
 
 Segundo um relatório sobre a Guerra da Bósnia feito pela Agência Central de Inteligência americana, 90% dos crimes de guerra foram cometidos pelos sérvios. Em uma região conturbada política e religiosamente por mais de um século, o povo sérvio se acostumou a um ambiente instável. A grande questão é como isso afeta a moral dessas pessoas.
@@ -27394,7 +27105,6 @@ E não por coincidência, o trabalho do diretor iniciante Srdjan Spasojevic carr
 
 # Apenas o Fim (Matheus Souza, 2008)
 date: 2011-07-31
-slug: apenas_o_fim
 tags: cinema movies
 
 Geralmente as condições em que ocorrem a produção de um filme não importam muito, e servem somente a título de curiosidade. Nesse caso, o diretor (e roteirista?) Matheus Souza, estudante de cinema ainda, conseguiu com a ajuda dos colegas o dinheiro necessário para realizar este longa ainda com 19 anos, o que se tornou um exercício de cinema no mínimo competente.
@@ -27407,7 +27117,6 @@ Por outro lado, são visíveis as tentativas inseguras do diretor de nunca mante
 
 # Edward Mãos de Tesoura
 date: 2011-07-31
-slug: edward_maos_de_tesoura
 tags: cinema movies
 
 Mesmo mais de 20 anos depois de produzido, o conto do homem inacabado com tesouras no lugar de dedos continua se sustentando bem, e por vários motivos que fazem hoje de Tim Burton ainda um diretor de destaque.
@@ -27422,7 +27131,6 @@ Ainda assim, o filme acaba por cair em velhos clichês dos anos 80, preferindo u
 
 # Meia-Noite em Paris (Woody Allen, 2011)
 date: 2011-07-31
-slug: meia_noite_em_paris
 tags: cinema movies
 
 Quando sabemos estar admirando o último enquadramento de Meia-Noite em Paris, é de doer o coração. O longa de Allen não só empolga, e muito, no início, como mantém suspenso o interesse pelos personagens (que não são poucos). Acredito que, se fosse possível, assistiríamos mais duas, três, ou até quatro horas de filmagem nesse universo criado por Allen.
@@ -27437,7 +27145,6 @@ Com uma conclusão talvez atabanada demais, Allen conclui um dos mais belos trab
 
 # Melancolia (Lars von Trier, 2011)
 date: 2011-08-07
-slug: melancolia
 tags: cinema movies
 
 Lars von Trier é um realizador corajoso. Especialista em explorar as facetas menos nobres de nossos sentimentos, já ousou colocar Bjork em Dançando no Escuro, um musical sem final feliz, e Nicole Kidman no vilarejo de Dogville, onde mora o que existe de mais desprezível nas relações sociais. De uma maneira geral, a decadência humana sempre foi retratada em seus trabalhos de uma forma emblemática, porém, visual, que é onde reside a força do seu cinema.
@@ -27470,7 +27177,6 @@ O final, não é preciso dizer, é extremamente melancólico, e foge obviamente 
 
 # Capitão América: O Primeiro Vingador (Joe Johnston, 2011)
 date: 2011-08-09
-slug: capitao_america_o_primeiro_vingador
 tags: cinema movies
 
 A Marvel parece que resolveu esquecer de vez a construção de histórias com profundidade dramática para dar vazão aos seus heróis secundários. O objetivo maior é o lançamento dos Vingadores, seu ambicioso projeto que exigiu a criação de diversos filmes, cada um retratando um personagem diferente que fará parte dessa equipe de super-heróis.
@@ -27493,7 +27199,6 @@ Após o terceiro ato fica muito clara a construção do filme como catapulta par
 
 # G.I. Joe: A Origem de Cobra (Stephen Sommers, 2009)
 date: 2011-08-14
-slug: g_i_joe_a_origem_de_cobra
 tags: cinema movies
 
 G.I. Joe é um filme tão ruim assim como muitos têm falado? Talvez sim. O fato é que, baseado em uma franquia de action figure produzida pela empresa de brinquedos Hasbro (e vendido no Brasil sob o codinome Comandos em Ação), o filme tenta se firmar nessa superfície frágil e infantil usando conceitos mais infantis ainda que acabam por estabelecer relações entre os personagens absurdamente ilógicas e pedestres.
@@ -27506,7 +27211,6 @@ Porém, mesmo assim, o diretor Stephen Sommers (A Múmia, Van Helsing) e seu hab
 
 # Super 8 (J.J. Abrams, 2011)
 date: 2011-08-15
-slug: super_8
 tags: cinema movies miniviews fragments
 
 A exploração do desconhecido fantasioso funcionando como um reflexo da própria família acaba empolgando mesmo em seus créditos finais.
@@ -27535,7 +27239,6 @@ Enfim, existe muito para se refletir e aproveitar em A Árvore da Vida. Se você
 
 # Quero Matar Meu Chefe (Seth Gordon, 2011)
 date: 2011-08-17
-slug: quero_matar_meu_chefe
 tags: cinema movies
 
 Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
@@ -27554,7 +27257,6 @@ Após esse exercício de futilidade que poderia muito bem passar no sábado à n
 
 # Como Enlouquecer seu Chefe (Mike Judge, 1999)
 date: 2011-08-22
-slug: como_enlouquecer_seu_chefe
 tags: cinema movies
 
 Depois de ter visto Como Matar seu Chefe, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse Como Enlouquecer seu Chefe, ou mais corretamente no original, Office Space (Ambiente de Escritório?).
@@ -27571,7 +27273,6 @@ Com um final menor, que resolve de maneira muito maniqueísta um dilema apresent
 
 # Mulher Nota Mil (John Hughes, 1985)
 date: 2011-08-22
-slug: mulher_nota_mil
 tags: cinema movies
 
 Mulher Nota Mil representa precisamente a época em que foi produzido, bem no meio da década de 80. E, ao mesmo tempo, serve como um belo reflexo de produções recentes, como American Pie, que demonstram que no que tange à síndrome dos garotos impopulares que nunca conseguem namoradas no colégio, o cinema não avançou quase nada: foi apenas atualizado para os padrões modernos.
@@ -27589,7 +27290,6 @@ Apesar de não passar do teste dos 15 anos, fica claro que este era o exemplo de
 
 # O Solista (Joe Wright, 2009)
 date: 2011-08-22
-slug: o_solista
 tags: cinema movies
 
 Seguindo o filme de duplas, dessa vez com Robert Downey Jr. e Jamie Foxx, o drama O Solista é baseado em livro homônimo escrito pelo jornalista-personagem Steve Lopez, que se torna obcecado pela vida de Nathaniel Ayers, um sem-teto que tinha tudo para ser um grande músico, mas devido aos seus problemas mentais, acaba se refugiando da sociedade nas ruas.
@@ -27604,7 +27304,6 @@ Patinando em vários momentos, e sem ter muito o que contar, o longa se segura n
 
 # Um Parto de Viagem (Todd Phillips, 2010)
 date: 2011-08-22
-slug: um_parto_de_viagem
 tags: cinema movies
 
 Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
@@ -27617,7 +27316,6 @@ Não há muito o que falar do roteiro em si, que sempre se aproveita de um ou ou
 
 # Assalto ao Banco Central (Marcos Paulo, 2011)
 date: 2011-08-23
-slug: assalto_ao_banco_central
 tags: cinema movies
 
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.
@@ -27634,7 +27332,6 @@ Por fim, é triste constatar que o cinema brasileiro ainda caminhe por caminhos 
 
 # Diário de Uma Busca (Flávia Castro, 2010)
 date: 2011-08-29
-slug: diario_de_uma_busca
 tags: cinema movies
 
 Assistir a filmes constantemente e por muito tempo te dá, aos poucos, a capacidade de discernir a linguagem de cada autor e, o que eu acho mais interessante de tudo, extrair as técnicas usadas de forma inconsciente, apenas deixando fluir a percepção comum de um espectador assistindo a uma sessão de cinema. É uma sensação meio que mágica.
@@ -27651,7 +27348,6 @@ O documentário de Castro estreia em uma época que parece tentar evocar o desej
 
 # Lanterna Verde (Martin Campbell, 2011)
 date: 2011-08-29
-slug: lanterna_verde
 tags: cinema movies
 
 Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.
@@ -27666,7 +27362,6 @@ Infelizmente, nem o anel conseguiu materializar uma história que o valha. A tra
 
 # Planeta dos Macacos: A Origem (Rupert Wyatt, 2011)
 date: 2011-08-31
-slug: planeta_dos_macacos_a_origem
 tags: cinema movies
 
 Esse texto não é indicado para os que já viram algum filme da série Planeta dos Macacos, iniciada em 68. (Na verdade, nem o atual de 2011: leia depois de assistir.)
@@ -27689,7 +27384,6 @@ São questões que o filme nunca enfoca, e também nunca tenta solucionar. Mas, 
 
 # Viagem à Lua (Georges Méliès, 1902)
 date: 2011-09-01
-slug: viagem_a_lua
 tags: cinema movies
 
 O francês Georges Méliès foi um dos privilegiados que assistiu à famosa primeira projeção (coletiva) de Cinema da história: A chegada do trem na estação.
@@ -27708,7 +27402,6 @@ Nada que um filme de 100 anos atrás não faça pensar. Como diz o crítico de c
 
 # Watchmen: O Filme (Zack Snyder, 2009)
 date: 2011-09-04
-slug: watchmen
 tags: cinema movies
 
 Watchmen seria uma história sobre anti-heróis ou heróis como eles seriam no mundo real? Desde o começo do filme, nos vemos embarcados nestes pensamentos, ajudados pela magnífica introdução que mostra, em câmera lenta, os vigilantes do filme posando para fotos jornalísticas, em uma fotografia super-sensível que, utilizando tons de sépia para identificar o passado, demonstra, desde já, o apuro estético de uma produção que está claramente acima do gênero "adaptação de quadrinhos".
@@ -27729,14 +27422,12 @@ Apenas pela descrição dos personagens e de suas relações o filme já se dist
 
 # O Rei Leão
 date: 2011-09-05
-slug: o_rei_leao
 tags: cinema movies miniviews fragments
 
 Simples o suficiente para que os espectadores infantis entendam o destino de Simba, mas complexo o suficiente para que entendamos toda a filosofia por trás da alegoria com animais, como o reino decadente e o significado da nobreza.
 
 # A Viagem de Lucia
 date: 2011-09-07
-slug: a_viagem_de_lucia
 tags: cinema movies
 
 Uma produção ítalo-argentina obscura que conta a história de Lúcia e Lea, duas mulheres com visões completamente diferentes da vida que acabam se encontrando e compartilham momentos que irão transformar a vida de uma delas.
@@ -27749,7 +27440,6 @@ Enfim, um filme que valoriza as atuações não-tão-inspiradas das desconhecida
 
 # Medianeras: Buenos Aires da Era do Amor Virtual (Gustavo Taretto, 2011)
 date: 2011-09-11
-slug: medianeras_buenos_aires_da_era_do_amor_digital
 tags: cinema movies
 
 Estreia de Gustavo Taretto na direção de longas, Medianeras inicia já com uma proposta criativa e que funciona muito bem: com dois narradores em off, temos a impressão de assistir a dois filmes interlaçados que aos poucos se aproximam, o que por si só já revela muito sobre as ideias por trás da história.
@@ -27770,7 +27460,6 @@ Talvez uma discussão necessária sobre o mundo cada vez mais virtual e paradoxa
 
 # O Homem do Futuro
 date: 2011-09-11
-slug: o_homem_do_futuro
 tags: cinema movies
 
 O novo longa de Cláudio Torres (dos divertidos A Mulher do Meu Amigo e A Mulher Invisível) flerta com mais um tema que faz parte do imaginário coletivo: quem nunca desejou mudar algo que fez no passado, principalmente se isso teve implicações negativas por toda sua vida?
@@ -27785,7 +27474,6 @@ Tendo o controle narrativo da trama nas mãos dos aspectos visuais, o filme cons
 
 # Os Smurfs
 date: 2011-09-11
-slug: os_smurfs
 tags: cinema movies
 
 É difícil dizer isso, mas o filme dos Smurfs diverte bem mais que seu primo ilegítimo: Alvin e os Esquilos (e continuações). A ideia de pegar elementos de CG para fazer gracinhas junto com personagens de carne e osso (e cor de pele) quase sempre termina em tragédia premeditada, e isso explica em parte o desânimo dos meus amigos, que sequer cogitaram ir ver o filme nos cinemas.
@@ -27799,7 +27487,6 @@ Portanto, dadas as devidas proporções, e ignorando uma ou outra falha de rotei
 
 # Cowboys e Aliens (Jon Favreau, 2011)
 date: 2011-09-18
-slug: cowboys_e_aliens
 tags: cinema movies
 
 Não há muito o que falar da história em Cowboys & Aliens, novo filme de Jon Favreau (dos dois "Homem de Ferro" e Zathura - Uma Aventura Espacial). O título já torna tudo muito óbvio, por mais bizarro que isso seja. No entanto, acredito que a definição desse gênero misto acabe sendo o principal motivo do filme não conseguir "decolar" em nenhum momento, sendo constantemente cozinhado em forno brando.
@@ -27842,7 +27529,6 @@ Como bônus, dessa vez tivemos nossas palestras filmadas. Apenas peço paciênci
 
 # Pronta Para Amar (Nicole Kassell, 2011)
 date: 2011-09-21
-slug: pronta_para_amar
 tags: cinema movies
 
 Nessa simpática comédia romântica que tenta fugir de vários clichês (não só do seu gênero), Kate Hudson encarna Marley, uma garota que teme relacionamentos mais que a morte (embora seja adepta do sexo casual), mas ao ser confrontada com esta ao descobrir ter um câncer incurável, resolve mudar radicalmente sua forma de viver, aproximando seus entes queridos, evitando encarar sua doença com seriedade e, quem sabe, conseguir um relacionamento com seu próprio médico.
@@ -27855,7 +27541,6 @@ Portanto, para que tudo isso funcione, é primordial a química que ocorre no el
 
 # Confiar (David Schwimmer, 2010)
 date: 2011-09-27
-slug: confiar
 tags: cinema movies
 
 Dirigido e escrito pelos estreante no cinema David Schwimmer e Andy Bellin (esta co-roteirizada por Robert Festinger, do excelente Entre Quatro Paredes), este drama de tons realistas e de caráter emergencial conta a história de Annie, uma jovem colegial que acaba de completar 14 anos e que pertence a uma família tranquila e estruturada. Como todas as jovens de sua idade, costuma passar o tempo alheia à vida em sua volta, se comunicando com amigos virtuais através do celular e de seu computador (presente de aniversário de seu pai, um detalhe sutil, mas trágico).
@@ -27874,7 +27559,6 @@ Porém, ao mesmo tempo, o filme nos deixa uma pequena-grande reflexão sobre o q
 
 # Incêndios (Denis Villeneuve, 2010)
 date: 2011-09-28
-slug: incendios
 tags: cinema movies
 
 Os melhores filmes, ou os que merecem revisitas mesmo depois de conhecermos o seu desfecho, geralmente são aqueles que permitem múltiplas interpretações e que conseguem impressionar pela sua engenhosa criação. Ou seja, ao mesmo tempo emocionam e possuem um prazer intelectual implícito em sua estrutura. Esse é sem dúvida o caso de Incêndios, que não apenas apresenta uma história arrebatadora do começo ao fim em seu nível emocional (personagens) como também permite análises em camadas mais racionais, sem com isso diminuir o impacto de sua história.
@@ -27897,7 +27581,6 @@ Ao final, o olhar catatônico da mâe, parada em frente à piscina, é exatament
 
 # O Filme dos Espíritos (Joel Pizzini, 2011)
 date: 2011-10-08
-slug: o_filme_dos_espiritos
 tags: cinema movies
 
 O Filme dos Espíritos é mais uma tentativa de "catequizar" (com o perdão da palavra) ou talvez educar os fiéis dessa crença religiosa da vida após a morte, dando sequência ao bom "Chico Xavier" e o desastroso As Mães de Chico Xavier. Aqui, porém, a alçada propagandista ganha contornos bem maiores que sua qualidade como filme, o que, de certa forma, lembra Olga, uma obra com o mesmo estigma. Dessa forma, o uso do cinema como ferramenta "educativa" se torna um completo desastre quando constatamos que toda essa ambição ideológica anti-aborto não se justifica em uma produção de caráter e gosto duvidosos.
@@ -27914,7 +27597,6 @@ Não há nada no verdadeiro Cinema contra filmes religiosos que defendam seus do
 
 # Cartas Para Julieta (Gary Winick, 2010)
 date: 2011-10-10
-slug: cartas_para_julieta
 tags: cinema movies
 
 Sophie e Victor estão noivos e vão passar uma "pré-lua-de-mel" na Itália, onde Victor (García Bernal) pretende conseguir contatos com fornecedores para o restaurante que pretende abrir. Enquanto isso, Sophie (Seyfried) se desilude com as supostas férias e procura algo melhor para fazer: escrever respostas para as mulheres que lotam a frente da casa de Julieta, a mesma da peça de Shakespeare, com cartas românticas.
@@ -27927,7 +27609,6 @@ Porém, o forte acaba sendo mesmo a atuação de Vanessa Redgrave que constrói,
 
 # Copacabana (Marc Fitoussi, 2010)
 date: 2011-10-11
-slug: copacabana
 tags: cinema movies
 
 O novo trabalho do diretor-roteirista Marc Fitoussi faz um paralelo entre o estado de espírito de uma pessoa e o lugar onde esta vive. Para chegar a seus objetivos, rege de maneira impecável uma história em que as apostas que uma pessoa precisa fazer para chegar aonde quer não estão relacionadas com sua situação aparente, mas muito mais com seu estado interior e sua capacidade de transformar o mundo ao seu redor.
@@ -27944,7 +27625,6 @@ Por isso mesmo é que seus triunfos possuem um gostinho de rebeldia delicioso, q
 
 # Os Goonies (Richard Donner, 1985)
 date: 2011-10-13
-slug: os_goonies
 tags: cinema movies
 
 "'Um grupo de meninos embarcam em uma aventura após encontrar o mapa de um suposto tesouro escondido.' É com esse argumento simples que se constrói um dos filmes mais empolgantes e divertidos dos anos 80. Essa é a união do roteirista Chris Columbus, de O Enigma da Pirâmide, do diretor Richard Donner, de "Superman", e do idealizador Steven Spielberg, de... precisa dizer algo? Essa união produziu uma espécie de esfera criativa nunca antes vista, e que até produz ecos na filmografia contemporânea, em que o exemplo mais recente é o filme-homenagem "Super 8", de J.J. Abrams."
@@ -28002,7 +27682,6 @@ E isso é tudo que guardarei deste livro. Talvez o revisite daqui a algumas déc
 
 # Família Vende Tudo
 date: 2011-10-16
-slug: familia_vende_tudo
 tags: cinema movies
 
 É fato que Lima Duarte está no estado de gênio, e cada novela que participa é um desperdício do Cinema. Semelhantes comparações podem ser feitas em boa parte do elenco de Família Vende Tudo, novo longa de Alain Fresnot. Este é um filme adiado em suas interpretações, por mais que não façam sentido ou soem deslocadas. E é aí que temos outro indício de desperdício, dessa vez no próprio Cinema: a capacidade de vender uma ideia divertida e fácil em uma história que sequer consegue chegar a uma conclusão sobre seu assunto central, e que desperdiça interpretações primorosas em um projeto sem pé nem cabeça.
@@ -28017,7 +27696,6 @@ Se, por um lado, mostrar a pobreza e a malandragem de uma família que tenta faz
 
 # Qual Seu Número? (Mark Mylod, 2011)
 date: 2011-10-17
-slug: qual_seu_numero
 tags: cinema movies
 
 Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o "Capitão América" (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
@@ -28037,7 +27715,6 @@ Bobo e infantil do começo ao fim, ao menos possui coerência interna, e uma sel
 
 # Depuração de emergência: receita de bolo
 date: 2011-10-18
-slug: depuracao_de_emergencia_receita_de_bolo
 tags: computer blog
 
 Continuando o papo sobre o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg, na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
@@ -28148,7 +27825,6 @@ E essa situação, caro leitor, é 10% de tudo o que você precisa saber sobre W
 
 # Trabalhar Cansa (Juliana Rojas, 2011)
 date: 2011-10-18
-slug: trabalhar_cansa
 tags: cinema movies
 
 Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é exatamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
@@ -28165,7 +27841,6 @@ A participação inspirada e apática de Helena comprova nossos pensamentos mais
 
 # Despedida em Las Vegas (Mike Figgis, 1995)
 date: 2011-10-22
-slug: despedida_em_las_vegas
 tags: cinema movies
 
 Talvez eu seja vítima da regra dos 15 anos -- a que reza que qualquer filme visto antes dos 15 anos continua em nossa memória como bom -- mas Ben e Sera foram dois dos personagens mais queridos da minha juventude de cinéfilo. Adorava a entrega completa de Nicholas Cage e de Elizabech Shue em seus papéis que ainda considero os melhores de ambos, em um filme deprimente do começo ao fim. Essa minha revisita continua a confirmar o fato de que, se Cage costuma ser criticado por overacting, aqui praticamente esquecemos que existe algum ator por trás do divertido, patético e trágico Ben Sanderson.
@@ -28203,7 +27878,6 @@ De uma forma ou de outra, como toda atividade humana, escrever código nos defin
 
 # O Manuscrito Perdido (José Barahona, 2010)
 date: 2011-10-23
-slug: o_manuscrito_perdido
 tags: cinema movies
 
 Fradique Mendes, um poeta e aventureiro português, amigo de Eça de Queiroz, viveu na região que foi primeiro abordada pelos portugueses no começo do século XVI, evento esse que nós brasileiros conhecemos como "Descobrimento do Brasil". Esse evento, e muitos outros na história do país, no entanto, possuem ecos diversos na sociedade brasileira, como bem demonstra esse documentário de José Barahona. O mais relevante desse trabalho, porém, é constatar que esses ecos do passado continuam influenciando boa parte da nossa sociedade, e como ela é estruturada em torno da terra herdada.
@@ -28220,7 +27894,6 @@ E para terminar o caldo, indígenas e sem-terra disputam a posse de terras na me
 
 # Roubando Vidas (D. J. Caruso, 2004)
 date: 2011-10-23
-slug: roubando_vidas
 tags: cinema movies
 
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
@@ -28237,7 +27910,6 @@ Ao final, pelo menos ficamos com os olhos e os lábios de Angelina Jolie, o que 
 
 # A Morte de Pinochet (Bettina Perut, Iván Osnovikoff, 2011)
 date: 2011-10-24
-slug: a_morte_de_pinochet
 tags: cinema movies
 
 O superzoom inicial das rugas (passado) e dos lábios (testemunho) das pessoas entrevistadas no documentário sobre o ditador sanguinário possuem dois motivos igualmente inteligentes e controversos: primeiro, impede que olhemos diretamente para os que dizem ter um profundo sentimento de admiração e orgulho por um ser responsável por uma das ditaduras mais cruéis que já se ouviu falar, o que evita nossa repulsa imediata por essa gente; segundo, admite que o testemunho dessas pessoas é fiel e honesto, dito diretamente de suas bocas, que muitas vezes sofreram inconscientemente os infortúnios de um regime que, para elas, não tem qualquer relação com o amado general.
@@ -28254,7 +27926,6 @@ Pois é. A realidade, de fato, muitas vezes está nos olhos do que apenas querem
 
 # Aleksander Sokurov: Uma Questão de Cinema (Aleksandr Sokurov, 2011)
 date: 2011-10-24
-slug: aleksander_sokurov_questao_de_cinema
 tags: cinema movies
 
 Quando o diretor de "A Arca Russa" tem algo a falar sobre movimento e sonoridade no cinema, ou da própria questão do cinema em si, deve haver algo de importante, ou até mesmo essencial, para se captar. No entanto, Alexandre Sokurov (ou a montagem de Anne Gigleux) não é exatamente didática. É necessário, assim como o trabalho do próprio diretor-tema, sentir a ação antes dela acontecer. O resultado, como um todo, é no mínimo inspirador.
@@ -28267,7 +27938,6 @@ Esse controle que ele se refere, porém, consegue ser visto na maioria dos seus 
 
 # Nervos à Flor da Pele
 date: 2011-10-24
-slug: nervos_a_flor_da_pele
 tags: cinema movies
 
 Da minha limitada (põe limitada nisso) experiência, o que já vi do cinema islandês é que ele foca muito na relação e nas descobertas dos seus jovens, e este, acredite, não foge nem um pouco da fórmula. Apresentando desde o início a descoberta de um jovem de ser gay, esse pequeno segredo dele permeia todo o longa, servindo de contraponto com a relação dos outros personagens e seus anseios. Por exemplo, a melhor amiga desse jovem, encontra suporte em seu jeito doce, mas, equivocada, não sabe se está afim dele ou não.
@@ -28276,7 +27946,6 @@ De maneira semelhante, vemos festas da adolescência salpicadas com esse tipo de
 
 # O Desaparecimento do Gato (Carlos Sorín, 2011)
 date: 2011-10-24
-slug: o_desaparecimento_do_gato
 tags: cinema movies
 
 Diferente da ótica tão comum nos filmes de encarar a loucura como uma doença trágica, Carlos Sorín dedica seus esforços em sua nova película para entreter o espectador e deixá-lo ver com seus próprios olhos que a loucura, de uma maneira geral, pode estar em todos nós, da maneira mais corriqueira e cotidiana que for. De maneira brilhante, O Desaparecimento do Gato consegue transmitir essa sensação através de inúmeras facetas.
@@ -28296,7 +27965,6 @@ Mantendo o controle absoluto da história, a conclusão tensa enriquece novament
 
 # As Flores de Kirkuk
 date: 2011-10-25
-slug: as_flores_de_kirkuk
 tags: cinema movies
 
 A aparente originalidade desse filme situado na história do Iraque sob o comando do ditador Saddam Hussein, que promoveu uma matança de povos que não apoiavam seu regime, reside no seu diretor italiano e em sua estrutura formulaica, que lembra romances novelescos, mas que aparece erroneamente embutido em uma atmosfera de drama e desolação.
@@ -28309,7 +27977,6 @@ Talvez a intenção original tenha sido mesmo tornar o filme uma espécie de con
 
 # Là-bas: Educação Criminal
 date: 2011-10-25
-slug: la_bas_educacao_criminal
 tags: cinema movies
 
 Um filme não necessariamente precisa ter um excelente roteiro para levar o espectador a pensar muito a respeito. Algumas vezes, bastam pequenos detalhes que levem em consideração: 1) a inteligência de quem assiste e 2) a motivação narrativa por trás da informação, que o filme fluirá e trará algo de novo para a gaveta de conhecimentos do cinéfilo.
@@ -28326,7 +27993,6 @@ No final, toda essa simbologia de cores se esvai em um terno branco esquecido na
 
 # Laços Humanos
 date: 2011-10-27
-slug: lacos_humanos
 tags: cinema movies
 
 É até sacanagem querer escrever um pouco sobre Laços Humanos, trabalho impecável de Elia Kazan (que, acabei de descobrir, é seu primeiro longa!). De certa forma, não parece correto apontar virtudes técnicas em um filme que fale direto com o coração. Não é raro para mim assistir filmes que me faça lacrimejar compulsivamente uma ou duas vezes durante a sessão, mas nesse caso o filme inteiro tem algo de mágico e esperançoso, que deixa o espectador com o coração apertado boa parte do tempo.
@@ -28349,7 +28015,6 @@ E eu até gostaria de terminar este texto com uma das muitas frases memoráveis 
 
 # Cerejeiras em Flor
 date: 2011-10-29
-slug: hanami_cerejeiras_em_flor
 tags: cinema movies
 
 Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha enquanto mantém uma relação distante com seus três filhos, especialmente o caçula, que vive em Tóquio. O sonho da esposa é poder visitá-lo, pois, além da saudade, é visivelmente encantada pela cultura japonesa, como pode-se perceber pelos detalhes de decoração da casa deles e pelo seu interesse no butô, um estilo de dança teatral que utiliza a expressão do corpo e seu efeito na sombra formada pelos movimentos.
@@ -28365,7 +28030,6 @@ Não é assim com a própria vida, tão efêmera, mas tão valiosa?
 
 # Jovens Modernos
 date: 2011-10-29
-slug: jovens_modernos
 tags: cinema movies
 
 Qual a visão de um crítico musical sobre a música contemporânea de vanguarda? Ou, uma pergunta ainda melhor: o que esse crítico pensa sobre os jovens dessa nova era, tão acomodados a ouvirem músicas de diversas correntes, muitas delas auto-proclamadas futuristas, e se limitarem a apertar o botão de curtir e compartilhar em sua rede social?
@@ -28383,7 +28047,6 @@ O único resquício de atualidade repousa no último ato, onde crítico e seguid
 
 # Demônio
 date: 2011-10-30
-slug: demonio
 tags: cinema movies
 
 O filme começa com uma narração em off (que nunca é revelada) a respeito de uma história contada pela avó do sujeito que dizia que o demônio, às vezes, "sobe à superfície" para pegar algumas almas desprevenidas. De acordo com a mesma avó, o demônio segue algumas regras, que se iniciam com um suicídio (nunca explicado no filme), que permite que ele entre e apronte mais uma das suas.
@@ -28399,7 +28062,6 @@ Com uma conclusão boba, que sequer era esperada pelo espectador, Demônio acaba
 
 # Fora do Figurino
 date: 2011-11-01
-slug: fora_do_figurino
 tags: cinema movies
 
 Às vezes um filme pode ajudar a consolidar um conhecimento que fica na cabeça das pessoas, flutuando, inconsciente, mas que nem nos damos conta de que ele existe. Por exemplo: quantas vezes ao comprar uma peça de roupa (ou calçado) não nos damos conta que o tamanho anteriormente escolhido já não serve mais? Esse pequeno detalhe, que parece tão corriqueiro, no fundo é resultado de uma falta de padronização nas medidas do vestuário do brasileiro, e à adaptação (errada) do uso de medidas feitas com base no corpo de pessoas completamente diferentes, como um europeu ou um norte-americano.
@@ -28412,7 +28074,6 @@ Pior ainda, conclui que a solução está muito mais distante do que poderíamos
 
 # Maria My Love
 date: 2011-11-01
-slug: maria_my_love
 tags: cinema movies
 
 Existem filmem que costumam martelar um mesmo conceito por um motivo qualquer. No caso de Maria My Love, projeto independente filmado em um discutível digital (mas "assistível"), o amadorismo no uso do foco é o tal conceito, pois pode-se perceber durante todo o filme sua insistência irritante em nunca manter a lente focada, não importando se o que estamos vendo é um personagem ou objeto.
@@ -28427,7 +28088,6 @@ No entanto, embora seja justificável e até louvável essa forma de contar uma 
 
 # Bravura Indômita
 date: 2011-11-02
-slug: bravura_indomita
 tags: cinema movies
 
 Com uma trilha sonora repetitiva mas sutil o suficiente para não notarmos, surge a caracterização de um tema, assim como Morricone fez em "Três Homens em Conflito", só que sem o espetáculo.
@@ -28443,14 +28103,12 @@ Há, sobretudo nos aspectos técnicos, uma quase obsessão pelo perfeccionismo, 
 
 # O Discurso do Rei
 date: 2011-11-02
-slug: o_discurso_do_rei
 tags: cinema movies
 
 O uso de lente claustrofóbica para identificar o nervosismo e o sentimento de aflição do protagonista. Ao final, troca-se essa lente por outra em que o cenário finalmente se abre horizontalmente, o rei respira, o povo está em paz. Há o uso da câmera subjetiva em boa parte do tempo, que acompanha o rei pelas costas, ou, no caso inverso, com artifícios em seu caminhar que nos causam tontura. Os discursos que são interrompidos pela gagueira nunca continuam, e são cortados para uma cena de reclusão, o que aumenta significativamente o discurso final. O enquadramento do rei fica predominantemente do lado esquerdo da tela, em posição de subjulgado pela ação. Isso apenas muda nos momentos decisivos e finais da história.
 
 # O Ritual
 date: 2011-11-02
-slug: o_ritual
 tags: cinema movies
 
 Um "noviço" que, desistindo da vocação de padre, resolve dar uma última chance ao seu superior fazendo um curso de exorcismo no Vaticano. Há um diálogo estranho do superior insistindo no rapaz. Com o uso de uma cena forçada do superior causando a morte de uma ciclista, parece que o filme irá jogar suas causas de uma maneira não-orgânica.
@@ -28467,7 +28125,6 @@ Com caracterizações nada marcantes em um exorcismo que chega a ser patético, 
 
 # Pedaço de Papel
 date: 2011-11-03
-slug: pedaco_de_papel
 tags: cinema movies
 
 Esse curta de 18 minutos fez sua publicidade internacional com o uso inteligente da narração fluida (quase um plano-sequência completo, encoberto por cortes de cenário), ausência de diálogos (para evitar legendas) e, o mais importante, a ausência de identidade. Não é possível afirmar ou até mesmo sugerir onde a história do filme é passada. Sabemos que tudo o que acontece na narrativa existe no Brasil, e sabemos do triste círculo vicioso da violência através de trabalhos mais cerebrais como Tropa de Elite.
@@ -28478,7 +28135,6 @@ Para concluir, arrisco-me a dizer que o curta não seria nem a metade do que é 
 
 # Shocking Blue
 date: 2011-11-03
-slug: shocking_blue
 tags: cinema movies
 
 Com um elenco coeso e uma direção segura, o filme holandês da safra do ano passado conseguem empolgar demasiadamente correto em seus 82 minutos de projeção. A única limitação acaba sendo a própria narrativa, que ganha ares despretensiosos, mas que evoca exatamente isso em sua maioria, tornando-se enfadonho, embora nunca desinteressante.
@@ -28489,7 +28145,6 @@ No entanto, o que incomoda acaba sendo a auto-sabotagem de seu roteiro, tão sut
 
 # O Palhaço (Selton Mello, 2011)
 date: 2011-11-06
-slug: o_palhaco
 tags: cinema movies
 
 É muito difícil escrever sobre filmes ruins, atacando conteúdos sem sentido e muitas vezes com uma visão precipitada ou exacerbada. Por outro lado, falar de um filme virtuoso em tantos aspectos como O Palhaço pode ser uma atividade prazerosa e ao mesmo tempo um ato de injustiça, por deixar tantos detalhes do lado de fora do texto.
@@ -28506,7 +28161,6 @@ Alheio a tudo isso, a história ainda conta com o suporte das agruras que a trup
 
 # Planeta 51
 date: 2011-11-06
-slug: planeta_51
 tags: cinema movies
 
 A grande impressão ao assistir a introdução e o desenvolvimento de Planeta 51 é que, enquanto argumento, alguém lá no fundo pensou que poderia dar certo (talvez Joe Stillman, que aqui assina apenas como escritor, não roteirista). Talvez o fato de ter sido feito por uma produtora ainda sem experiência para a animação e dirigido e co-dirigido por três pessoas sem muito currículo tenha influenciado nos tropeços do desenvolvimento criativo da ideia e no uso funesto de trilhas sonoras batidas em sequências claramente sem merecimento.
@@ -28517,7 +28171,6 @@ Aproveitando o argumento original para expor o protagonista no velho clichê de 
 
 # Alice no País das Maravilhas (Clyde Geronimi, 1951)
 date: 2011-11-13
-slug: alice_no_pais_das_maravilhas_1951
 tags: cinema movies
 
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.
@@ -28536,7 +28189,6 @@ Alice é o filme favorito de minha sobrinha, e um dos meus favoritos da cinegraf
 
 # O Retorno de Johnny English
 date: 2011-11-13
-slug: o_retorno_de_johnny_english
 tags: cinema movies
 
 Não assisti ao original, mas a impressão geral desse novo trabalho de Rowan Atkinson, que aqui veste a pele de mais uma paródia de filmes do 007, é que, apesar do roteiro não se importar quase nada com a lógica da sua trama, esse não é motivo que impeça que o longa tenha momentos inspirados, criados principalmente pela boa performance do ator, que consegue flexibilidade para criar outro personagen caricato além de seu mundialmente famoso Mr. Bean.
@@ -28551,7 +28203,6 @@ O importante aqui é evitar se levar a sério demais, coisa que o diretor Oliver
 
 # A Casa dos Sonhos
 date: 2011-11-16
-slug: a_casa_dos_sonhos
 tags: cinema movies
 
 Vendido como uma história de terror/suspense, a história gira em torno de Will Atenton (Craig) que, depois de anos dedicado ao seu emprego, se aposenta e volta a morar junto de sua família em um bairro afastado, onde terá todo o tempo para, além de curtir sua amada esposa (Weisz) e suas adoráveis filhas (ambas irmãs na vida real, que já fizeram ponta em A Origem), terminar o romance que vinha escrevendo nas horas vagas.
@@ -28566,7 +28217,6 @@ A conclusão óbvia é que, para conseguir a segunda reviravolta, não há outra
 
 # O Preço do Amanhã (Andrew Niccol, 2011)
 date: 2011-11-17
-slug: o_preco_do_amanha
 tags: cinema movies
 
 A grande sacada do gênero de ficção-científica, tanto no cinema quanto na literatura, é conseguir discutir alguma questão da sociedade atual sob a ótica de um mundo fantasioso. Para isso, as pessoas são colocadas em situações em que normalmente não existiriam, mas que lembram ou simbolizam uma questão do mundo real, ainda que encoberto de uma aura futurista.
@@ -28589,7 +28239,6 @@ Depois da sessão, confesso que não consegui pensar em como desenvolver o argum
 
 # Se Não Nós, Quem? (Andreas Veiel, 2011)
 date: 2011-11-17
-slug: se_nao_nos_quem
 tags: cinema movies
 
 Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.
@@ -28612,7 +28261,6 @@ De certa forma, o filme cumpre o que se propõe ao desenvolver uma estrutura irr
 
 # A Pele que Habito (Pedro Almodóvar, 2011)
 date: 2011-11-18
-slug: a_pele_que_habito
 tags: cinema movies
 
 É fascinante acompanhar a carreira de um diretor habilidoso como Almodóvar. Ele possui aquela flexibilidade rara que permite que entre em qualquer projeto mantendo a sua marca, mas ao mesmo tempo contribuindo positivamente para a narrativa, sem torná-la autoral. Ou pelo menos tenta.
@@ -28637,7 +28285,6 @@ Não fica claro se o plano em câmera alta do ato final passa a usar o ponto de 
 
 # Hackers (Iain Softley, 1995)
 date: 2011-11-19
-slug: hackers
 tags: cinema movies
 
 O mundo dos computadores na década de 90 poderia parecer muito intimidador para a pessoa leiga. Com a internet ainda engatinhando, as raras pessoas que sabiam mexer com esses dispositivos modernos eram considerados gênios incompreendidos, pois quase ninguém realmente entendia o que as pessoas faziam digitando naquela máquina de escrever eletrônica. O fato de ser incompreendido também gerava a desconfiança, pois quem controlaria essas pessoas dotadas do raro dom de conversar com as máquinas? Ao mesmo tempo, havia uma sensação de "perigo invisível", pois a priori qualquer pessoa dessas poderia ter controle nos sistemas que aos poucos estavam sendo entregues à informatização.
@@ -28665,7 +28312,6 @@ E que possuem um nickname.
 
 # Amores Imaginários (Xavier Dolan, 2010)
 date: 2011-11-20
-slug: amores_imaginarios
 tags: cinema movies
 
 Primeiro trabalho de Xavier Dolan na direção, roteiro e atuação depois de chamar a atenção com "Eu Matei a Minha Mãe", Amores Imaginários é sobre exatamente o que o título sugere: aquele sentimento de idolatria por uma pessoa que nunca é correspondido à altura, porque no fundo esse sentimento é puramente imaginário. É como uma paixão, em qualquer grau e gênero.
@@ -28687,7 +28333,6 @@ Consegue. E, ainda que traga uma certa ansiedade o fato de nunca caminharmos par
 
 # Ratatouille
 date: 2011-11-20
-slug: ratatouille
 tags: cinema movies
 
 Ratatouille na época representou a capacidade grandiosa que um bom roteiro e uma excepcional produção conseguiam fazer, na animação computadorizada, como limite máximo de expressão na arte cinematográfica.
@@ -28704,7 +28349,6 @@ Por outro lado, Remy simboliza todas as pessoas que, independente de sua origem,
 
 # Atividade Paranormal 3 (Henry Joost, Ariel Schulman, 2011)
 date: 2011-11-24
-slug: atividade_paranormal_3
 tags: cinema movies
 
 Usando ainda a velha fórmula de câmeras caseiras que registram eventos aparentemente sobrenaturais, essa é a quarta edição de Atividade Paranormal, já que houve um spin-off japonês, em contrapartida ao que houve na série Velozes e Furiosos; algo como A.P. : Desafio em Tóquio. Continua funcionando muito bem como terror ao gerar medo tanto pelas situações comuns pelos quais todos nós passamos (como a sensação de ter o cobertor puxado no meio da noite) quanto o caráter documental do filme, sem contar a tensão sempre crescente por estarmos, obviamente, aguardando por sustos. Este último ingrediente da série, aliás, chega a ser o tempero especial, pois os sustos geralmente são entregues aos poucos e de maneira caprichosa, o que acaba gerando mais tensão ainda para o grand finale.
@@ -28726,7 +28370,6 @@ Apesar das novas invencionices o novo exemplar mais uma vez cai no conceito ao a
 
 # Ensina-me a Viver
 date: 2011-11-27
-slug: ensina_me_a_viver
 tags: cinema movies
 
 Harold é um garoto problemático para sua idade. Obcecado em fingir suicídios e sentindo prazer em frequentar enterros, não possui outra pretensão na vida. Introspecto e de poucas palavras, o uso de músicas existencialistas em torno dos seus atos aprofunda ainda mais seus sentimentos.
@@ -28741,7 +28384,6 @@ Piegas talvez em seu final, mas forte em sua mensagem de amor à vida e a aceita
 
 # Assalto em Dose Dupla
 date: 2011-11-28
-slug: assalto_em_dose_dupla
 tags: cinema movies
 
 Apenas o fato da direção de arte de Assalto em Dose Dupla tentar fazer lembrar os detalhes do banco de Um Dia de Cão chega a parecer uma ofensa, pois enquanto o clássico de Sidney Lumet tenta fazer rir através do inusitado em um assalto, mas sempre se lembrando que todos os envolvidos são seres humanos, o roteiro de Jon Lucas e Scott Moore (ambos de Se Beber Não Case) cria constrangimentos a partir de estereótipos que cria, como se apenas isso fosse motivo de risadas, o que de fato se comprova, pois a maioria das piadas se limita a apenas isso.
@@ -28756,7 +28398,6 @@ Com uma conclusão que provavelmente irá se gabar de imprevisível, de fato a h
 
 # Domingos (Maria Ribeiro, 2011)
 date: 2011-11-28
-slug: domingos
 tags: cinema movies
 
 Parafraseando o Chefe Gusteau de "Ratatouille", "qualquer um pode dirigir", ou seja, o bom diretor pode vir de qualquer lugar. Dessa vez veio de Maria Ribeiro, a Rosane esposa do Capitão Nascimento em [Tropa de Elite], que faz aqui um apanhado brilhante de gravações, depoimentos e tomadas capturadas durante o convívio com o cineasta Domingos de Oliveira que buscam ilustrar e homenagear a pessoa e o diretor, ator e roteirista, ao mesmo tempo que mostra seus inúmeros trabalhos no cinema e teatro.
@@ -28768,7 +28409,6 @@ Em um certo momento, após tantos relatos expositivos, o próprio Domingos confe
 
 # Bonequinha de Luxo (Blake Edwards, 1961)
 date: 2011-11-29
-slug: bonequinha_de_luxo
 tags: cinema movies
 
 Curiosamente esse filme ficou conhecido como um clássico, ainda que tenha traços de um verdadeiro cult, tanto pela sua excentricidade quanto pela direção inusitada de Blake Edwards (A Pantera Cor de Rosa), que ilustra a vida de Holly Golightly de uma maneira quase surreal.
@@ -28783,7 +28423,6 @@ Apesar de venerado, fica óbvio que possui várias partes datadas, mas felizment
 
 # Coraline e o Mundo Secreto
 date: 2011-11-29
-slug: coraline_e_o_mundo_secreto
 tags: cinema movies
 
 Existem filmes que encantam apenas pelo seus esforços periféricos (direção de arte, música, fotografia) e existem os que apenas chamam a atenção pelo seu desenvolvimento central (roteiro e direção). No caso de Coraline é difícil não ficar deslumbrado com o apuro técnico de todo um mundo criado e que ganhou movimento graças ao tradicional uso do stop motion, onde a ação é montada quadro-a-quadro. Além disso, é o primeiro filme desse estilo ao ser rodado em 3D, o que levanta alguns aspectos interessantes da sua narrativa, como o uso das agulhas.
@@ -28800,7 +28439,6 @@ De qualquer forma, a moral implícita na história é válida independente da id
 
 # Inquietos
 date: 2011-11-29
-slug: inquietos
 tags: cinema movies
 
 História de amor de dois jovens que se conhecem em um memorial. Ela, logo se descobre, possui câncer e tem três meses de vida. Ele, tem um amigo imaginário que logo descobrimos ser um fantasma. Ela adora Darwin e estudar sobre pássaros marinhos. Ele, adora ela, e coisas simples da vida. Aos poucos, os detalhes da história vão se cruzando. Diálogos vão enriquecendo com isso, e ganhando significados mais profundos. O diretor Gus van Sant (e o roteirista Jason Lew, estreante) não revela tudo de uma vez: prefere que degustemos os detalhes enquanto conhecemos Hiroshi (Ryo Kase), Annabela (Mia Wasikowska) e Enoq (Henry Hopper, também estreante). Nos tornamos íntimos dessas pessoas, suas histórias. Aprendemos a respeitar os limites de cada um, e assim aprendemos nossos próprios limites nessa vida. Agradecemos por ela, cantando ao acordarmos cada manhã, mesmo que ela esteja pintada por uma palheta descolorida, desde que tenhamos doces coloridos e apetitosos para depois (embalados em uma luz mais quente e agradável). E nos sentimos gratos por mais tempo, nem que usemos esse tempo para coisas mais simples, como jogar pedras em trens ou só sair pra conversar.
@@ -28809,7 +28447,6 @@ Ou, quem sabe, tocar um pouco de xilofone.
 
 # Alien - O Oitavo Passageiro
 date: 2011-12-04
-slug: alien_o_oitavo_passageiro
 tags: cinema movies
 
 Falar de "Alien - O Oitavo Passageiro" é falar de ficção científica, terror e suspense. Todos esses gêneros estão em um grau quase equivalente na produção de 1979. Dirigido por Ridley Scott ("Blade Runner", 1492, Hannibal, Gladiador) e com roteiro e história de Dan O'Bannon (A Volta dos Mortos Vivos, "O Vingador do Futuro"), o filme inicia no momento em que a nave Nostromo, inicialmente programada para retornar à Terra, decide acordar seus tripulantes da hibernação para averiguar um possível sinal de vida inteligente em um planeta inóspito. Sem muitas informações do que possa existir na origem do sinal é montado um grupo de exploração.
@@ -28833,7 +28470,6 @@ Nesse desenrolar, um personagem se destaca de forma praticamente natural e inusi
 
 # Antes do Amanhecer
 date: 2011-12-04
-slug: antes_do_amanhecer
 tags: cinema movies miniviews
 
 Os personagens de Jesse e Celine são adoráveis desde o começo, e é agradável vê-los conversando sobre temas tão universais e constantemente abordados por casais que nós mesmos formamos na vida. O mais interessante, porém, é a forma natural e (aparentemente) despropositada que o roteiro e direção de Richard Linklater nos apresenta seus personagens, criando mais ou menos um pacto com o espectador, que aceita aquela situação em prol da poesia e da mágica daqueles momentos.
@@ -28846,7 +28482,6 @@ Não poupando-nos do realismo nem em seu doce final, Linklater ainda flerta com 
 
 # Happy Feet 2: O Pinguim
 date: 2011-12-04
-slug: happy_feet_2_o_pinguim
 tags: cinema movies
 
 Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, "A Marcha dos Pinguins", o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
@@ -28861,14 +28496,12 @@ Porém, esse deve ser o filme que vai impressionar mais as plateias pela maneira
 
 # Top Secret!: Superconfidencial
 date: 2011-12-04
-slug: top_secret
 tags: cinema movies
 
 Ao contar uma paródia dos filmes de espionagem e guerra em que um astro do rock (Val Kilmer) se envolve com um grupo da Resistência Francesa para libertar um cientista preso pela Alemanha Oriental (Michael Gough), a direção tripla resolve brincar com trucagens comuns em filmes do gênero e de todo o cinema. Dessa forma, até um telefone no canto da tela pode ser motivo de chacota, ou a batidíssima piada dos olhos atrás da lupa funcionar tão bem na melhor sequência do filme, onde os atores contracenam uma cena invertida de trás pra frente, incluindo os diálogos, lembrando o dialeto sueco. Note como aos poucos o diretor vai dando dicas do que realmente está acontecendo, até o derradeiro movimento do cachorro.
 
 # Aliens, o Resgate
 date: 2011-12-08
-slug: aliens_o_resgate
 tags: cinema movies
 
 James Cameron parece ter uma dedicação especial com as continuações. Tanto a série iniciada por "Alien - O Oitavo Passageiro" quanto "O Exterminador do Futuro" (essa iniciada por ele mesmo) expandem seus universos justamente no primeiro sequel.
@@ -28888,7 +28521,6 @@ A própria psique do alienígena é posta na hora de queimar os ovos, quando a r
 
 # Aliens 3
 date: 2011-12-10
-slug: alien_3
 tags: cinema movies
 
 Oito anos após "Aliens, o Resgate" (James Cameron), continuação do filme original de Ridley Scott, "Alien - O Oitavo Passageiro", o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, "Clube da Luta", "A Rede Social"), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
@@ -28908,7 +28540,6 @@ Enfim, um filme mediano que pode ter seus méritos próprios, mas que, por aqui 
 
 # Alien, a Ressurreição
 date: 2011-12-12
-slug: alien_a_ressureicao
 tags: cinema movies
 
 Dando continuidade ao "terror biológico" iniciado pelo antecessor "Aliens 3", quando um cachorro foi infectado por um alien que ganha suas feições ao nascer, o novo filme da franquia reabre a caixa de Pandora se aproveitando da discussão contemporânea de clonagem e "ressuscitando" a Tenente Ripley através de amostras de seu sangue já modificado pelo seu parasita espacial.
@@ -28930,7 +28561,6 @@ O significado da chegada ao planeta Terra, enquanto remete à esperança, també
 
 # Os Nomes do Amor (Michel Leclerc, 2010)
 date: 2011-12-12
-slug: os_nomes_do_amor
 tags: cinema movies
 
 Ele, um esquerdista especialista em epidemias nos animais. Ela, uma libertária tão libertária que às vezes se esquece de colocar a roupa para sair de casa. Ambos, uma relação que mescla tanto as visões políticas quanto sexuais da França atual. Porém, mais importante, levanta a sensível questão da imigração, que vem engrossando caldo desde o movimento anti-terrorista liderado pelo governo Bush e evidenciado na crise europeia.
@@ -28941,14 +28571,12 @@ Com uma trilha sonora leve, que acompanha o ritmo de seus personagens, e uma fot
 
 # Cidade dos Sonhos
 date: 2011-12-20
-slug: cidade_dos_sonhos
 tags: cinema movies
 
 Um filme com história surrealista, pois os personagens mudam de identidade na metade final, e os nomes são trocados. Ainda a analisar (e talvez assistir de novo).
 
 # Escravas do Desejo
 date: 2011-12-20
-slug: escravas_do_desejo
 tags: cinema movies
 
 Depois de uma pausa assisti por completo Escravas do Desejo, uma história de vampiras lésbicas com um cunho erótico, mas que ao mesmo tempo evoca um clima de mistério.
@@ -28957,7 +28585,6 @@ A história começa com dois jovens, recém-casados, que se hospedam em um hotel
 
 # Feitiço do Tempo
 date: 2011-12-20
-slug: feitico_do_tempo
 tags: cinema movies
 
 Bill Murray em um papel que é a cara dele: Phil Connor é o homem do tempo de uma emissora de televisão e precisa cobrir o tradicional "Dia da Marmota", uma cerimônia de uma cidadezinha secular cuja lenda uma marmota (ironicamente também chamada Phil) faz a previsão se haverá mais inverno.
@@ -28972,7 +28599,6 @@ A ideia genial do longa é justamente representar a história do resto do mundo 
 
 # Julie e Julia
 date: 2011-12-20
-slug: julie_e_julia
 tags: cinema movies
 
 Paralelo interessante entre as duas histórias, não fica óbvio que passam em épocas diferentes, mas o espectador vai percebendo isso aos poucos. Interpretação de Meryl Streep fica sendo a principal, apesar da protagonista talvez não ser ela (será?).
@@ -28983,7 +28609,6 @@ Fotografia mais clara na França de época, tom escuro na nova casa de Julie.
 
 # Lições de Vida
 date: 2011-12-20
-slug: licoes_da_vida
 tags: cinema movies
 
 Filme estrelado por Rupert Grint, e quem está acostumado com seus trejeitos na "saga Harry Potter" não vai se decepcionar. Para os que esperavam uma atuação mais envolvida com um projeto apartado dos livros dos bruxinhos, vai.
@@ -28995,7 +28620,6 @@ Fora isso, temos Julie Walters no papel de Evie Walton, uma atriz aposentada cuj
 
 # Matrix (Lana Wachowski, Lilly Wachowski, 1999)
 date: 2011-12-20
-slug: matrix
 tags: cinema movies
 
 Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?
@@ -29015,7 +28639,6 @@ Cada vez que entramos a fundo, hoje, na análise de Matrix, são tantas as analo
 
 # Munique
 date: 2011-12-20
-slug: munique
 tags: cinema movies
 
 Fotografia escura, personagens quase sempre aparecem na penumbra das janelas e paredes, evidenciando sua característica de "não existirem" oficialmente.
@@ -29026,7 +28649,6 @@ Não há final feliz.
 
 # Os Pássaros
 date: 2011-12-20
-slug: os_passaros
 tags: cinema movies
 
 A cena que mais evidencia a tensão presente na casa da família Brenner após um ataque-relâmpago de pássaros ensandecidos é quando vemos a câmera focar a matriarca da família olhando para o teto, assustada. Então a câmera se afasta, e, no mesmo quadro, é possível ver que os outros dois adultos estão fazendo a mesma coisa. Ao final desse quadro tão emblemático, sabemos que o diretor conseguiu o total controle sobre nossa atenção e sentidos, que, naquele momento, teimam em se comportar irracionalmente e exatamente como aquelas pessoas.
@@ -29042,14 +28664,12 @@ Por fim, chega a ser inacreditável comentar que hoje, com toda a tecnologia dis
 
 # O Garoto
 date: 2011-12-25
-slug: o_garoto
 tags: cinema movies
 
 Uma trilha musical surpreendentemente encantadora para a época, com uma narrativa coesa que favorece seu desenvolvimento um tanto episódico ao mesmo tempo que nunca perde as rédeas de sua história maior (e é de se notar a quase ausência dos textos explicativos). O garoto escalado para o filme é tão encantador quanto sua história, e é igualmente louvável a participação menos overacting de Chaplin como o vagabundo que o adota, favorecendo a interação entre eles e não simplesmente as cenas cômicas de forma isolada.
 
 # Um Natal Muito Muito Louco
 date: 2011-12-25
-slug: um_natal_muito_muito_louco
 tags: cinema movies
 
 Tim Allen, de Meu Papai é Noel (1 e 2), em mais um filme de natal, dessa vez com Jamie Lee Curtis (True Lies) e roteiro de, quem diria, Chris Columbus! (Os Goonies, Gremlins, Nove Meses)
@@ -29060,7 +28680,6 @@ Porém, quando um plot twist esmagador ocorre praticamente no terceiro ato da hi
 
 # Um Sonho de Amor
 date: 2011-12-25
-slug: um_sonho_de_amor
 tags: cinema movies
 
 Essa história sobre a mudança dos valores sob vários aspectos é uma abordagem quase idílica do novo cinema italiano. Assistimos com certa solenidade o sisudo jantar em família (evidenciado pelo exagero de sombras) em que o patriarca, já debilitado, transfere o controle da empresa para seu filho e neto. O inusitado e refrescante dessa nova história é que nos bastidores (ou para ser mais direto, na cozinha) encontra-se a origem de mudanças radicais naquela forma de funcionar o mundo.
@@ -29069,7 +28688,6 @@ Com detalhes que mesclam realidade e sonho, o filme acaba realizando um entrecor
 
 # Tá Dando Onda
 date: 2011-12-30
-slug: ta_dando_onda
 tags: cinema movies
 
 O teste da nova televisão e novo tocador de Blu-Ray do quarto foi com essa primorosa animação. A história gira em torno de Cody Maverick, um pinguim que deseja se tornar um ás do surfe, mesmo sem ter treinado muito, confiando apenas nas mensagens de auto-ajuda de Big Z, uma lenda do esporte que desapareceu misteriosamente durante um campeonato. Para quem deseja experimentar as diversas nuances de sua TV esse é um ótimo filme, pois além de ser uma animação e contar com contornos precisos e movimentos "realistas", ainda possui inúmeras tonalidades de cores e de luzes, pois a história se passa não apenas na praia, mas na floresta, durante a noite fria e o dia ensolarado ou nublado. Filmado com um tom documental, existem cenas que frequentemente voltam no tempo e que possuem o efeito de vídeo envelhecido cheio de ruídos.
@@ -29078,7 +28696,6 @@ A dublagem nacional ajuda muito a contar a história, que não é original e pos
 
 # Tudo pelo Poder
 date: 2011-12-30
-slug: tudo_pelo_poder
 tags: cinema movies
 
 Geralmente filmes que tentam revelar os bastidores da política soam pretensiosos e bobinhos em suas conjecturas infantis e roteiros confusos e incompletos. Esse não é o caso de Tudo Pelo Poder, que consegue, de maneira didática e assustadora, revelar muito mais sobre o pano de fundo de influências do que gostaríamos de saber ou de admitir.
@@ -29093,7 +28710,6 @@ Quando o jogo começa a virar é que a direção segura de Clooney arrebata o es
 
 # Star Wars, Episódio V: O Império Contra-Ataca
 date: 2011-12-31
-slug: o_imperio_contra_ataca
 tags: cinema movies
 
 O filme inicial, auto-contido, sobre o conto de fadas nunca antes contado, ganha uma nova dobra, e tenta ao mesmo tempo contar uma nova história no mesmo molde e estender esse universo com explicações sobre os Jedis, a Força e ainda um pouco de mistério a respeito das origens do Império e, principalmente, do seu ícone maior: Darth Vader.
@@ -29107,7 +28723,6 @@ Mais uma vez com uma precipitada conclusão, o filme passa a ideia de ser apenas
 
 # Star Wars, Episódio VI: O Retorno do Jedi
 date: 2011-12-31
-slug: o_retorno_de_jedi
 tags: cinema movies
 
 Hora de assistir novamente a conclusão da saga de George Lucas, dessa vez após ter visto a nova trilogia e o significado que ela insere na antiga (em especial "Star Wars: Episódio III – A Vingança dos Sith"). Uma direção de arte cada vez mais impecável, que consegue equilibrar o tema espacial com a fantasia por trás da história. Quando C3PO narra a aventura épica dos personagens em torno da fogueira é o momento mais icônico e que melhor representa o conceito por trás das lendas filmadas de Star Wars. Parece não haver mais o que acrescentar a este universo, embora a direção aqui se mostre mais pausada, madura e consciente de seu final mais trágico que de costume.
@@ -29117,7 +28732,6 @@ Apesar de nossos heróis, é inegável que tudo converge para Darth Vader, e é 
 
 # Tudo Sobre Minha Mãe
 date: 2011-12-31
-slug: tudo_sobre_minha_mae
 tags: cinema movies
 
 Tudo Sobre Minha Mãe é o exemplo perfeito sobre a que veio Almodóvar. Com uma sensibilidade ímpar para contar os dramas das mulheres, o diretor-roteirista emplaca uma história cheio de reviravoltas e sobre diversas mulheres e suas vidas, mas que gira principalmente em torno de Manuela (Cecilia Roth), uma enfermeira que é mãe de um filho de 18 anos que mantém um mistério acerca de seu pai, mas que possui em comum sua obsessão pelo enredo da peça Um Bonde Chamado Desejo, onde se identifica com Stella, uma personagem dominada e abusada pela figura masculina. Cenas da peça são mostradas conforme a narrativa do próprio filme avança, enriquecendo a história principal.
@@ -29128,7 +28742,6 @@ O que importa mais no longa é que é fascinante acompanhar a história de cada 
 
 # A Liga Extraordinária
 date: 2012-01-01
-slug: a_liga_extraordinaria
 tags: cinema movies
 
 O filme pretende contar a história de pessoas que, dotadas de alguma capacidade especial para sobreviver, são reunidos pelo Império Britânico para tentar evitar que seja instaurada uma possível guerra mundial, tentativas de um ganancioso sujeito que usa uma máscara e simula ataque entre nações. Isso na virada para o século XX em uma Era Vitoriana alternativa.
@@ -29139,7 +28752,6 @@ Como fator ainda negativo, os efeitos de encher os olhos quase nunca conseguem s
 
 # Antes do Pôr do Sol
 date: 2012-01-03
-slug: antes_do_por_do_sol
 tags: cinema movies
 
 A continuação do terno romance de um dia entre Jesse e Celine é assinada não apenas pelo diretor Richard Linklater, mas também pelos próprios atores Ethan Hawke e Julie Delpy, o que dá o tom de filme casual que tenta fechar um arco iniciado nove anos atrás, usando o mesmo espaço de tempo entre os lançamentos dos filmes.
@@ -29155,7 +28767,6 @@ Ironicamente, torcemos pelo mesmo, permitindo que o casal se encontre novamente 
 
 # Românticos Anônimos
 date: 2012-01-04
-slug: romanticos_anonimos
 tags: cinema movies
 
 Como bom tímido que fui (sou?) posso com autoridade dizer que Românticos Anônimos ao mesmo tempo que permite nos identificarmos com o casal protagonizado por dois tímidos irremediáveis também nos permite identificar as diferenças peculiares de cada um, evitando assim estereotipar o termo e manter-se engraçado.
@@ -29166,7 +28777,6 @@ Porém, e mais uma vez voltando ao roteiro, as cartas são jogadas de maneira qu
 
 # Dumbo
 date: 2012-01-08
-slug: dumbo
 tags: cinema movies
 
 Um dos trabalhos mais esquecidos da Disney das décadas passadas, e um dos poucos que conseguiu arrecadar bilheteria o suficiente para manter a empresa de animação nos eixos durante a Segunda Guerra, Dumbo possui uma leveza e doçura que não existe em trabalhos mais sombrios da época, como "Branca de Neve" e Pinóquio (sem contar o extremamente cruel Bambi). No entanto, não é apenas isso que se nota no curto longa-metragem: surrealismo ("Pink Elephants on Parade"), regionalismo (os corvos que usam até uma música descaradamente plagiada em "A Princesa e o Sapo") e preciosismo nos movimentos são alguns traços que mantém este trabalho como uma das grandes animações já feitas no Cinema.
@@ -29177,14 +28787,12 @@ No entanto, nada disso é o que faz dele um dos meus favoritos do estúdio. Muni
 
 # Adeus, Primeiro Amor
 date: 2012-01-09
-slug: adeus_primeiro_amor
 tags: cinema movies
 
 Apesar de toda a sutileza e competência visual ao contar o romance de dois jovens, primeiro amor de ambos, e a posterior separação e amadurecimento de ambos, acaba se tornando vazia quando percebemos que a experiência não oferece mais nada senão uma trilha sonora bem escolhida e enquadramentos sublimes (sobretudo se aliado à competente fotografia, que não se intimida pelas diversas luzes escolhidas para os cenários). Além disso, temos surpreendentes três atuações medíocres, que não oferecem nada além do óbvio, o que é um assombro, principalmente ao notarmos o tempo de tela da protagonista Lola Créton, que constrói uma Camille convincentemente apaixonada no início para tornar-se insuportavelmente apática por todo o resto, como se o sinal óbvio de amadurecimento fosse se tornar um tédio.
 
 # Missão: Impossível - Protocolo Fantasma
 date: 2012-01-09
-slug: missao_impossivel_protocolo_fantasma
 tags: cinema movies
 
 Versão mais leve que [o anterior] (no sentido de censura e tensão), embora mais divertido. Não tem vilão tão memorável nem conflitos dignos de nota, mas a interação entre os participantes e as situações criativas conseguem balancear a ação durante todo o trajeto. Infelizmente a parte em Dubai é a melhor, e está um ato antes do final que desaquece um pouco. A direção fluida de Brad Bird confere um espelho significativo com seu trabalho anterior "Ratatouille", pois as cenas de ação lembram, por exemplo, a perseguição pelo Rio Sena (apesar da animação não ter esse enfoque), enquanto M:I 4 herda a estranha sensação de estar assistindo uma brincadeira (à moda antiga) de mocinho e bandido.
@@ -29192,7 +28800,6 @@ Versão mais leve que [o anterior] (no sentido de censura e tensão), embora mai
 
 # O Gato de Botas
 date: 2012-01-09
-slug: o_gato_de_botas
 tags: cinema movies
 
 Direção de arte nova que dá um novo respiro ao gato. Sequências e sacadas inspiradas na intro (como o fato dele ser um gato implica em problemas de estatura, ou como segue luzinha no chão). Até a história do passado, apesar de não convencer, é contada de forma convincente, e a inclusão de Humpty Dumpt é muito bem vinda ao adicionar um caráter mais adulto e contraditório. Já se a intro da gata e dos dois vilões é primorosa, o mesmo não se pode dizer do seu desenvolvimento, esquecido, já que suas funções são pontuais/artificiais e nunca fazem muita diferença na narrativa.
@@ -29201,14 +28808,12 @@ O fato é que, com exceção dos dois, não existe aqui nenhuma criação primor
 
 # Toy Story
 date: 2012-01-09
-slug: toy_story
 tags: cinema movies
 
 Achei melhor do que as vezes anteriores que tinha assistido. A direção se esforça ao enfocar a ação e o uso de ângulos criativos que inibem a ainda falta de tecnologia que torna as texturas simplórias, apesar de bem trabalhadas. A dublagem nacional mais uma vez empolga, com menção honrosa ao Sr. Cabeça de Batata.
 
 # Mãe e Filho
 date: 2012-01-11
-slug: mae_e_filho
 tags: cinema movies
 
 Para aqueles que possuem prazer estético pelo Cinema e possuem paciência para narrativas não-convencionais como o recente e polêmico "A Árvore da Vida", vale a pena uma olhada nesse Mãe e Filho, do diretor Aleksandr Sokurov, o mesmo do igualmente "arrastado" (mas belíssimo) "A Arca Russa".
@@ -29219,7 +28824,6 @@ Não há trilha sonora, quase não há efeitos sonoros ou diálogos. Porém, há
 
 # RValue é o novo LValue
 date: 2012-01-11
-slug: rvalue_e_o_novo_lvalue
 tags: ccppbr
 
 As grandes discussões filosóficas que participei durante meu estudo da linguagem C, e mais tarde de C++, muitas vezes convergiam para o significado místico daquela figura que nós da gramática da linguagem conhecemos como lvalue, ou l-value, ou left-value. Enfim, a definição de uma expressão que representa um lugar na memória e, portanto, pode ocupar o lado esquerdo de uma atribuição/cópia/passagem de argumentos qualquer. Porém, os "grandes" embates daquela época hoje parecem brincadeira de criança, como a diferença sutil entre ++x e x++ ou convergência de tipos em templates.
@@ -29252,7 +28856,6 @@ Faça sua incrição!
 
 # Depois da Vida
 date: 2012-01-15
-slug: depois_da_vida
 tags: cinema movies
 
 Pense rápido: se você morrer hoje escolha de toda sua vida apenas uma memória para guardar para toda a eternidade. No filme de Hirokazu Koreeda, o mundo pós-vida possui um sistema de acompanhamento das pessoas que recentemente faleceram e cujo objetivo é exatamente esse.
@@ -29273,7 +28876,6 @@ E você, já pensou sobre isso?
 
 # Tomboy
 date: 2012-01-15
-slug: tomboy
 tags: cinema movies
 
 Tomboy de início possui uma inusitada premissa: narrar a vida e as dificuldades de Laure, uma garota que, andrógina, possui a aparência de menino. Focando-se nisso de maneira sutil, ainda que nos deixe perceber as intenções e pensamentos da jovem Laure, ainda que sem diálogos, o filme faz questão de sempre nos fornecer aconchego externo, de forma que nunca nos sentimos realmente desamparados pela condição da garota, que possui pais compreensivos e atenciosos, além de uma adorável irmã mais nova.
@@ -29284,7 +28886,6 @@ Nunca impressionando ou indo fundo demais nos questionamentos filosóficos da hi
 
 # O Espião Que Sabia Demais
 date: 2012-01-17
-slug: o_espiao_que_sabia_demais
 tags: cinema movies
 
 Confuso, confuso, confuso.
@@ -29299,7 +28900,6 @@ Para quem começa e termina o filme tendo essa sensação o final não ajuda mui
 
 # Clube dos Cinco
 date: 2012-01-24
-slug: clube_dos_cinco
 tags: cinema movies
 
 Apesar de parecer mais um filme sessão da tarde, Howard Hughes desafia o raciocínio em cima dos estereótipos dos jovens de sua época, mostrando como cada um deles no fundo é uma peça única, e que não podem ser rotulados pelos adultos.
@@ -29308,7 +28908,6 @@ Tecnicamente, o que mais impressiona são os enquadramentos que sempre tentam fo
 
 # XXY
 date: 2012-01-24
-slug: xxy
 tags: cinema movies
 
 Mais um filme com tema sexual polêmico (como o recente, leve e em cartaz Tomboy), mas que nesse caso, assim como o Minhas Mães e Meu Pai, se recusa a apresentar uma história que utilize seus personagens e seus conflitos de forma coerente ou pelo menos interessante. Não, a única coisa que faz é sempre focar na condição de Alex, um garoto que nasceu com ambos os genes, o masculino e o feminino , o que faz com que, entre outras coisas, ele/ela tenha ambos os órgãos sexuais. Uma aberração, certo? Errado. Alex é um ser humano qualquer, ou melhor dizendo, um adolescente qualquer, mas independente disso o filme tenta de todas as formas apresentar o conflito físico do personagem como sendo o único evento digno de nota, a única coisa na história que valha a pena ser contada.
@@ -29317,7 +28916,6 @@ Dessa forma, até mesmo Alex fica em segundo plano, parecendo tão unidimensiona
 
 # Babe O Porquinho Atrapalhado
 date: 2012-01-30
-slug: babe_o_porquinho_atrapalhado
 tags: cinema movies
 
 Babe tem ares de ser um filme bonitinho e família. Afinal de contas, por quase todo o tempo vemos animais falantes interagindo e contando a história do porquinho e suas "trapalhadas". Porém, escondido nessa fábula moderna, e como toda fábula que se preza, o pano de fundo nos remete a discussões muito mais profundas e adultas, como o preconceito e a aceitação do diferente, além de também remeter ao Revolução dos Bichos, de George Orwell, por estabelecer também uma sociedade de animais com funções pré-definidas de acordo com sua espécie e uma certa pressão para a imobilidade social.
@@ -29330,7 +28928,6 @@ Com uma das sequências mais memoráveis, terminando em um plano-detalhe das mã
 
 # Babe O Porquinho Atrapalhado na Cidade
 date: 2012-01-30
-slug: babe_o_porquinho_atrapalhado_na_cidade
 tags: cinema movies
 
 Se "Babe, o Porquinho Atrapalhado" era fofinho do começo ao fim, e continha um roteiro elegante que fechava suas pontas, aqui parece que inverteram feio a ordem dos eventos, gerando o que é devidamente nomeado por um dos capítulos em que se divide como A Teoria do Caos. Não é à toa: se no primeiro filme tínhamos já um pano de fundo que nos remetia à visão de A Revolução dos Bichos sob o aspecto da mobilidade social, aqui temos a cidade grande como palco, e os animais, assim como as pessoas, vivem uma espécie de anarquia não-solidária, onde a ajuda geralmente vem de onde menos se espera.
@@ -29345,7 +28942,6 @@ Ainda que com um roteiro não tão redondo ou criativo quanto o original, "Babe 
 
 # A Marca da Maldade
 date: 2012-01-31
-slug: a_marca_da_maldade
 tags: cinema movies
 
 Orson Welles aparentemente sempre esteve preocupado com a questão da lei, da justiça e da verdade. Tudo isso a partir de uma grande questão: os que zelam pela ordem e segurança são realmente de confiança? Ou quem vigia os que nos vigiam? Se formos considerar que a questão do poder foi tratada exaustivamente em seu clássico Cidadão Kane, esse A Marca da Maldade consegue desviar um pouco da rota sem perder a essência.
@@ -29370,7 +28966,6 @@ Aliás, de várias formas, podemos dizer, o filme nos tenta mostrar algo diferen
 
 # A primeira coisa bela
 date: 2012-02-15
-slug: a_primeira_coisa_bela
 tags: cinema movies
 
 Esse filme, junto com o recente cult Um Sonho de Amor, evidencia um Cinema Italiano mais interessante e inovador, ainda que mantenha sua clássica dramaticidade de novelão, estilo que paradoxalmente o acaba engrandecendo.
@@ -29381,7 +28976,6 @@ Com uma direção que aproveita cada quadro com precisão milimétrica, além de
 
 # Alvin e os Esquilos 3
 date: 2012-02-15
-slug: alvin_e_os_esquilos_3
 tags: cinema movies
 
 Tenho a nítida impressão que a série Alvin pode ser repetida à exaustão graças à empatia do público com números musicais de sucessos atuais realizados pelo sexteto de esquilinhos. E é necessário apontar: eles são engraçados e fofinhos quase todo o tempo.
@@ -29392,7 +28986,6 @@ Cenas de ação tão divertidas quanto as músicas, esse capítulo sai ileso, re
 
 # Dirty Dancing: Ritmo Quente
 date: 2012-02-15
-slug: dirty_dancing_ritmo_quente
 tags: cinema movies
 
 Para os filhos da década de 50/60 a era Disco representou uma mudança radical de apreciar música. Essa mudança não ocorreu obviamente apenas na música, mas na maneira de pensar e agir, sobretudo na adolescência, época conturbada tão bem representada nos trabalhos de John Hughes (Curtindo a Vida Adoidado, O "Clube dos Cinco").
@@ -29408,7 +29001,6 @@ E a dança, maneira universal de comunicação física entre pessoas de qualquer
 
 # Juan e Evita, Uma História de Amor
 date: 2012-02-15
-slug: juan_y_eva
 tags: cinema movies
 
 Supostamente idealizado para narrar a relação entre o futuro líder argentino, Juan Domingo Perón, e sua agraciada amada Eva (a Evita de Madonna), aos poucos entendemos o filme como um conjunto de mini-episódios políticos da época que giram direta ou indiretamente em torno da figura de Juan, mas que são ligados apenas perifericamente com a cortejada Eva, de forma que nunca é possível inferir sua influência com o até então vice-presidente argentino, ou pior, o amadurecimento da relação de ambos. Essa ausência fica mais claro na segunda metade do filme, quando esperamos por um Juan e Eva mais íntimos.
@@ -29419,7 +29011,6 @@ De forma que é uma pena que falte ousadia no roteiro, pois a direção merecia 
 
 # Muppets: O Filme
 date: 2012-02-15
-slug: muppets_o_filme
 tags: cinema movies
 
 O potencial dos bonecos é evidente no filme, pois todos possuem personalidades marcantes que geram diversas situações ingenuamente engraçadas. E é de modo ingênuo que a história inicia, e a forma de narrar a vida dos irmãos, em que um deles é um boneco que portanto nunca cresce, já denota de modo inconsciente que a interação entre humanos e muppets é algo completamente comum naquele universo fabuloso.
@@ -29430,14 +29021,12 @@ Enfim, um bom filme com promessas de continuações. Apenas aguardemos por rotei
 
 # Nanny McPhee A Babá Encantada
 date: 2012-02-15
-slug: nanny_mcphee_a_baba_encantada
 tags: cinema movies
 
 Uma produção com um toque britânico (e atores) que consegue entreter mais pela curiosidade das próximas ações da babá mágica para controlar os sete diabinhos do desafortunado viúvo, que ainda depende de uma tia impiedosa para a sobrevivência da família, do que pela história em si, que é bobinha e previsível. O filme ainda emociona por situações naturalmente emotivas (como a decisão de escolher uma filha para entregar à tia), mas por algum motivo "mágico", consegue caminhar até sua conclusão pelo menos ileso de apelações maiores. Talvez uma última da babá pós-créditos?
 
 # Penumbra
 date: 2012-02-15
-slug: penumbra
 tags: cinema movies
 
 O roteiro é uma bobagem, que brinca com o julgamento da protagonista de uma forma, mas faz questão de nos avisar muito antes o que está acontecendo. Não contente com isso, seu final comprova não apenas o delírio de complexidade (quando na verdade temos um desfecho simplista).
@@ -29448,7 +29037,6 @@ De fato, Tarantino não está sendo boa influência para seus fãs cineastas.
 
 # Professora Sem Classe
 date: 2012-02-15
-slug: professora_sem_classe
 tags: cinema movies
 
 Se me dissessem que todo o roteiro de Professora sem Classe foi construído tendo apenas como argumento inicial a ideia da Cameron Diaz lavando carrões com um shorts minúsculo, eu acreditaria. O filme utiliza-se de personagens unidimensionais (incluindo a própria protagonista!) para narrar a história de uma caça-maridos (ricos, claro) que precisa voltar a lecionar (embora todo o dia apenas se limite a ligar uma TV para os alunos) enquanto ajunta dinheiro para colocar silicone em seus seios e assim se tornar mais atrativa no "mercado". Sim, com uma premissa dessa, não há muito o que esperar além da já citada cena da lavagem de carros.
@@ -29457,7 +29045,6 @@ Porém, sejamos justos: é possível acompanhar as aventuras da anti-herói inte
 
 # Selkirk el verdadero Robinson Crusoe
 date: 2012-02-15
-slug: selkirk_el_verdadero_robinson_crusoe
 tags: cinema movies
 
 Impressionante essa animação argentina sobre o livro de Robinson Crusoé que, salvo alguns momentos difíceis tecnicamente, possui efeitos e direção dignos de outras produções mas conhecidas, como Wallace e Gromit (que também estreia recentemente com um filme de piratas).
@@ -29470,7 +29057,6 @@ Com ares de lição de moral, às vezes se confundindo com moral religiosa, Selk
 
 # Sherlock Holmes e o Jogo das Sombras
 date: 2012-02-15
-slug: sherlock_holmes_e_o_jogo_das_sombras
 tags: cinema movies
 
 Guy Ritchie adora estilização via câmera lenta. Fora isso, as novas aventuras do famoso detetive de Baker Street parece ganhar fôlego extra graças a um vilão, se não memorável, digno das capacidades cognitivas de Holmes.
@@ -29479,7 +29065,6 @@ Ainda dentro do espírito dos livros de Sir Conan Doyle, direção de arte, foto
 
 # O Artista
 date: 2012-02-16
-slug: o_artista
 tags: cinema movies
 
 Logo no início do filme, me senti acompanhando uma digna e merecida reverência ao Cinema Mudo, presente nos primórdios da arte e que acabou durante a década de 30 (mesmo ainda com defensores ferrenhos e influentes, como Chaplin). Porém, mesmo que você não entenda nada de arte cinematográfica vale a pena acompanhar o arco dramático de George Valentin, que vivia seu auge no cinema ainda não-falado (apenas com músicas de fundo, geralmente tocadas ao vivo por uma orquestra), e que subitamente foi afastado pela novidade dos personagens que agora falavam diretamente, e não com a ajuda dos cartões de falas colocados após alguma declaração importante.
@@ -29494,7 +29079,6 @@ Revendo mais uma vez O Artista (terceira vez em menos de um ano) é possível pe
 
 # Millennium: Os Homens que Não Amavam as Mulheres
 date: 2012-02-19
-slug: millennium_os_homens_que_nao_amavam_as_mulheres
 tags: cinema movies
 
 O filme é um remake do sueco homônimo de dois anos atrás, sendo que ambos foram criados a partir da mesma fonte: o primeiro livro da trilogia escrita por Stieg Larsson que se tornou um best-seller póstumo (Larsson faleceu um ano antes da primeira publicação). Dadas essas condições, me parece que o projeto possui uma missão particularmente difícil: adaptar um livro complexo por conter uma trama cheio de detalhes que se debruça sobre a psique de seus personagens (e são muitos) e sair-se melhor do que o filme original (do contrário, para que fazer de novo?).
@@ -29513,7 +29097,6 @@ Até mesmo a conclusão conturbada, por reunir diversos eventos em pouco espaço
 
 # Monstros S/A
 date: 2012-02-20
-slug: monstros_sa
 tags: cinema movies
 
 Interessante notar como a Pixar em seus primeiros filmes costumava inserir brincadeiras que, de certa forma, acusavam o espírito jovem e experimentador daqueles tempos. Mais impressionante, porém, é perceber como esse deve ter sido a semente para o amadurecimento da técnica antes de filmarem jovens clássicos como Os Incríveis, Wall-E, "Ratatouille" e "Up!".
@@ -29525,7 +29108,6 @@ Outro detalhe admirável é entender que entre os princípios de criação do es
 
 # O Corajoso Ratinho Despereaux
 date: 2012-02-20
-slug: o_corajoso_ratinho_despereaux
 tags: cinema movies
 
 Essa animação de 2008 passou meio que despercebida dos cinemas, apesar de possuir uma invejável direção de arte. Narrando uma fábula ocorrida na França antiga que relaciona sopa, princesas e ratos (dividindo-se em camundongos e ratazanas), o principal fator que move o filme é a pseudo-grandiosidade da história, onde um simples e pequeno camundongo recebe a missão de acabar com o luto interminável do rei, causado tempos atrás por um acidente causado por uma ratazana. A grande sacada da história é que o Despereaux do título é um camundongo que, além de ter duas gigantescas orelhas, diferente de todos os outros, nunca sente medo. Esse traço de sua personalidade irá permitir que ele transite entre os três mundos (dos humanos, das ratazanas e dele mesmo) e junte as peças da fábula.
@@ -29534,7 +29116,6 @@ Sustentando-se com apenas essa premissa, a história do ratinho pode-se tornar t
 
 # Pinóquio
 date: 2012-02-20
-slug: pinoquio_2002
 tags: cinema movies
 
 Essa versão da obra literária de Carlo Collodi (e cuja história foi eternizada por Disney em 1940) foi dirigida, co-roteirizada e atuada pelo ator circense Roberto Benigni (A Vida é Bela). Embora o uso da abordagem literal, ou seja, sem nenhuma ressalva ao possível choque para o público infantil, poderia ter sido a grande diferença do filme em relação às suas contrapartes, desde os primeiros quinze minutos fica óbvio que se trata de um projeto desnecessário, ainda mais se considerarmos os poucos recursos utilizados, que limitam sim a imaginação dos espectadores, considerando que se trata de um filme contemporâneo, e não estamos acostumados a fazer ressalvas como no caso de "O Mágico de Oz", obra mais antiga e, portanto, limitada tecnicamente (note que falo apenas dos efeitos visuais, pois existem obras seculares que até hoje impressionam pelas técnicas de filmagem empregadas).
@@ -29544,7 +29125,6 @@ Dito isso, é inegável que o filme possui seu próprio formato que funciona dad
 
 # A Invenção de Hugo Cabret
 date: 2012-02-25
-slug: a_invencao_de_hugo_cabret
 tags: cinema movies
 
 Hugo é o primeiro filme em 3D do mestre Scorsese ("Os Bons Companheiros", "Táxi Driver") e nesse caso o uso da tecnologia é totalmente justificado. Abordando uma história que gira em torno do cinema e seus primórdios, a ideia de "separar" a criação de filmes antigos do próprio filme cria um exercício metalinguístico admirável e uma aventura extremamente emocionante. O uso da tecnologia, além de ser aplicada com competência, difere de filmes anteriores principalmente pela já velha questão do foco. Em "Avatar", por exemplo, o primeiro grande exemplo de 3D "de verdade", James Cameron ainda aplica o foco de maneira binária nos personagens, se esquecendo que estamos em um cenário com profundidade de campo variável. Já em Hugo o que ocorre é uma perda gradual de foco, com o fundo ficando aos poucos "embaçado", ou seja, uma simulação de mais ou menos como nossos olhos funcionam em um ambiente como no mundo real. O uso de engrenagens e cenários internos com longos corredores consegue ajudar a nos ambientar nessa profundidade de campo facilmente, e embora esse recurso seja repetido meio à exaustão ele é importante para nos situar no universo do protagonista. Mesmo os cenários "externos", ainda sofrendo a limitação da tecnologia em planos aéreos, pois faz com que os objetos pareçam maquetes, dentro do espírito fabuloso da narrativa encaixa-se perfeitamente.
@@ -29558,7 +29138,6 @@ Por fim, mesmo com esses óbvios problemas de caráter burocrático para que o f
 
 # O Mariachi
 date: 2012-02-26
-slug: o_mariachi
 tags: cinema movies
 
 A estreia do diretor Robert Rodriguez ("Sin City", "Machete") foi com este El Mariachi, que lhe custou, de acordo com a lenda, $7000, gastos quase todo para o filme da câmera.
@@ -29568,7 +29147,6 @@ Valeu a pena. Com o uso da película e de uma impressionante realidade alternati
 
 # Psicopata Americano
 date: 2012-02-26
-slug: psicopata_americano
 tags: cinema movies
 
 Existem vários exemplos de serial killers organizados na literatura e no cinema e tv, como Kevin Costner em Mr. Brooks ("Instinto Secreto") e o mais famoso Michael C. Hall como "Dexter" Morgan. Porém, pouco se vê dos assassinos que são facilmente pegos exatamente porque não possuem disciplina e ordem: matam as pessoas de qualquer forma. Não possuem método: possuem impulso.
@@ -29578,7 +29156,6 @@ Christian Bale é esse exemplo nesse Psicopata Americano, que deixa muitas quest
 
 # As Mulheres do Sexto Andar
 date: 2012-03-01
-slug: as_mulheres_do_sexto_andar
 tags: cinema movies
 
 Filme flerta com um evento interessante ocorrido na França dos anos 60 e que curiosamente está ocorrendo nesse momento na esfera da "sofrida" classe média brasileira: o abandono cada vez maior das empregadas domésticas locais e a ascenção de alternativas, como imigrantes de países vizinhos, notadamente em situação econômica mais fragilizada. Pior: flerta, assim como o recente premiado "Histórias Cruzadas", com a figura de um empresário que começa a se preocupar com a classe que o serve. Principalmente, é mérito dizer, com a beleza e eficiência da nova empregada, a espanhola María Gonzalez (Natalia Verbeke).
@@ -29590,7 +29167,6 @@ Com um final mais longo do que deveria, As Mulheres do 6o. Andar é um filme agr
 
 # A Dama de Ferro
 date: 2012-03-04
-slug: a_dama_de_ferro
 tags: cinema movies
 
 Ao terminar o filme temos a nítida impressão que ele foi dirigido por alguém que possui ideias completamente repulsivas a respeito da figura de Margaret Thatcher e/ou sobre a ideia de uma mulher governando uma nação. Ou isso ou não temos aí um estudo de personagem (histórico), mas simplesmente um pseudo-documentário que tenta ilustrar tanto a vida pessoal quanto política de uma das mulheres mais significativas do nosso século, mas sem conseguir unificá-la em um ser inteligível, sugerindo de uma forma covarde e inescrupulosa que, bem, se as coisas aconteceram daquela maneira, foi porque estávamos falando de uma mulher que não soube o seu lugar.
@@ -29604,7 +29180,6 @@ A direção de Phyllida Lloyd, já conhecida pela quase-catástrofe chamada "Mam
 
 # A Mulher de Preto
 date: 2012-03-04
-slug: a_mulher_de_preto
 tags: cinema movies
 
 Vamos falar primeiro sobre a fotografia: ela é escura, até demais, mas consegue criar tomadas internas que estabelecem com primor um clima tanto de luz natural (muito pouca), quanto de fantasia. E mesmo com tão pouca luz, conseguimos enxergar toda a ação ou falta dela. Existem tomadas, por exemplo, onde só dá pra ver a face do protagonista, mas graças à ótima lógica geográfica da casa é possível entender a dinâmica da cena.
@@ -29620,7 +29195,6 @@ Me fez pensar que as cenas de susto forçado não devem funcionar mesmo sem o au
 
 # Leur morale... et la nôtre
 date: 2012-03-04
-slug: leur_morale_et_la_notre
 tags: cinema movies
 
 Nessa comédia de humor negro francesa é difícil identificar-se com os protagonistas, um casal de meia-idade que vive sozinho às custas de promoções de supermercados e uma vendinha clandestina em sua própria casa e preocupados com a crescente onda de bandidagem no bairro que residem. Isso porque eles são tão vigaristas quanto os supostos "bandidos" que o casal de meia-idade tanto teme.
@@ -29631,7 +29205,6 @@ Mesmo assim é possível sairmos quase ilesos dessa pequena experiência de com�
 
 # Os 7 Suspeitos
 date: 2012-03-04
-slug: os_7_suspeitos
 tags: cinema movies
 
 Já faz algumas décadas que não revia essa comédia ambientada nos anos 50 que mistura elementos de suspense, terror e policial de uma maneira particularmente competente. De certa forma, quando eu tinha cerca de 10 anos já sabia que a graça do filme residia tanto em sua história quanto na dinâmica do grupo, os suspeitos do título.
@@ -29643,7 +29216,6 @@ Hoje em dia poderia constar como uma comédia bobinha dos anos 80 para muito dos
 
 # Marty
 date: 2012-03-06
-slug: marty
 tags: cinema movies
 
 O que faz Marty ser um filme tão marcante parece ser os mesmos motivos que fizeram com que "Laços Humanos", clássico de Elia Kazan, hoje fosse imortalizado. O fato é que, apesar do dramalhão quase mexicano envolvendo a família e os amigos do personagem-título, as atuações e os diálogos, principalmente entre Ernest Borgnine e Betsy Blair, tornam muito difícil não gostar de uma história tão humana e tão sensível.
@@ -29657,7 +29229,6 @@ Da mesma forma ocorre com todos os outros personagens e com as situações, o qu
 
 # O Homem Que Mudou o Jogo
 date: 2012-03-06
-slug: o_homem_que_mudou_o_jogo
 tags: cinema movies
 
 Brad Pitt é um ator com um controle de personagem invejável. Podemos acompanhar sua trajetória em papéis mais exóticos como o do vampiro Louis (Entrevista com o Vampiro), do maníaco Jeffrey Goines (Os 12 Macacos), do inconsequente Tyler Durden (Clube da Luta) e do cômico Tenente Aldo Raine (Bastardos Inglórios) e compararmos com papéis mais contidos ou dramáticos como o pai de família em "A Árvore da Vida", o detetive David Mills em Seven e o gerente de um time de beisebol Billy Beane, papel que desempenha em O Homem que Mudou o Jogo que faz ficarmos em dúvida se existem dois, três ou mais clones do ator escondidos e revelados em momentos pontuais de sua carreira.
@@ -29684,7 +29255,6 @@ Fora isso tivemos uma telepalestra com um dos membro do time do Visual Studio. M
 
 # Filhos do Paraíso
 date: 2012-03-11
-slug: filhos_do_paraiso
 tags: cinema movies
 
 Existe algo que vale a pena em Filhos do Paraíso. Se você notar, de repente acompanhamos uma história que não tem nada de original ou espetacular. Mas acompanhamos atentos. Existe algo de mágico em entrar dentro da vida dessa família. De entender seus conflitos, seu modo de viver e o problema que a perda de um par de sapatos representam.
@@ -29699,7 +29269,6 @@ Esse teve garra e aguentou até o fim.
 
 # Drive
 date: 2012-03-13
-slug: drive
 tags: cinema movies
 
 A filmagem no estilo homenagem aos anos 80 cativa e ao mesmo tempo cria uma atmosfera que aceitamos exatamente pelas inúmeras referências da época, como os créditos estilosos ou as frequentes mas elegantes transições em que o personagem de Ryan Gosling ("Tudo pelo Poder") aparece em um plano detalhe e se "esfumaça" para outra cena.
@@ -29713,7 +29282,6 @@ Porém, definitivamente algo novo e digno de assistir na telona.
 
 # Poder sem Limites
 date: 2012-03-14
-slug: poder_sem_limites
 tags: cinema movies
 
 Entrando na onda dos filmes gravados como documentários, só que sem os problemas técnicos presentes no gênero, como a qualidade de vídeo, Poder Sem Limites explora a descoberta de três jovens de uma caverna escondida dentro de um buraco e que acaba lhes dando poderes tele cinéticos. Os motivos para isso nunca são revelados, pois o objetivo do longa é mostrar os rapazes explorando esse poder gradativamente, e como cada um deles o usa de forma particular.
@@ -29730,7 +29298,6 @@ Eu diria um pouco mais: a presença da câmera na vida de Andrew é uma ideia t�
 
 # A Troca
 date: 2012-03-18
-slug: a_troca
 tags: cinema movies
 
 Impressionante como é possível admirar uma direção competente e experiente mesmo sem conhecê-la. Foi assim com A Troca, um drama de época envolvendo a história de vida de uma mulher que tem seu filho desaparecido e sua luta contra o sistema corrupto da polícia de Los Angeles da década de 20 e 30. Foi só nos créditos que descobri se tratar mais uma vez do trabalho sempre constante de Clint Eastwood (Menina de Ouro, "Sobre Meninos e Lobos"), que, diferente do seu passado de ator com uma cara só, vem se preocupando com temáticas mais humanistas sem deixar de lado uma discussão mais profunda sobre a sociedade onde isso ocorre. Nesse sentido é possível comparar este belo trabalho com Menina de Ouro. Em todos os outros sentidos, porém, é uma história completamente diferente.
@@ -29742,7 +29309,6 @@ Ainda que o tema inicial da história seja o desaparecimento do filho de Christi
 
 # Shame
 date: 2012-03-18
-slug: shame
 tags: cinema movies
 
 A princípio Shame não parece um filme que fuja do lugar-comum. Com um ritmo mais lento e, portanto, reflexivo, ele nos leva a conhecer aos poucos a vida de Brandon Sullivan (Michael Fassbender), um rapaz comum que mora sozinho, tem um belo emprego, mas que é um inveterado por sexo, solitário ou com prostitutas. Paradoxalmente, Brandon não consegue ter relacionamentos duradouros, e nem a presença de sua irmã Sissy (Carey Mulligan) faz com que ele consiga se conectar com o mundo. Alheio a tudo que não seja relativo ao ato sexual, Brandon sabe que possui um tipo de doença, e essa consciência é que torna tudo muito mais humano em sua história.
@@ -29753,14 +29319,12 @@ Tampouco é um filme com um arco dramático satisfatório. Porém, que me perdoe
 
 # 2 Filhos de Francisco: A História De Zezé di Camargo & Luciano
 date: 2012-03-25
-slug: 2_filhos_de_francisco
 tags: cinema movies miniviews fragments
 
 A direção empenhada de Breno Silveira cria um Francisco, o real protagonista do filme, convincente, mesmo a história se tratando de uma pequena fábula.  Cada pequena conquista é celebrada por todo o contexto, e não apenas como meras historietas isoladas.
 
 # Paprika
 date: 2012-03-25
-slug: paprika
 tags: cinema movies
 
 Paprika funciona muito bem como cinema experimental, onde boas ideias costumam nascer. A ideia central da história, a manipulação e compartilhamento dos sonhos de uma pessoa, deu origem, por exemplo à "A Origem"! No entanto, diferente da experiência racional de Christopher Nolan, Paprika não se preocupa em desenvolver muito seus personagens ou mesmo sua história, em que não temos muita certeza das ameaças por trás da invenção dos sonhos ter caído em mãos erradas. De certa forma, o filme é tão poético ou tão caótico quanto os próprios sonhos que estamos acostumados a ter. Sem algo que prenda as atenções, o subconsciente é importante para apreciarmos um filme de sensações e, principalmente, de conexões não sempre lógicas ou mastigadas.
@@ -29769,7 +29333,6 @@ Paprika funciona muito bem como cinema experimental, onde boas ideias costumam n
 
 # Cliente Morto Não Paga
 date: 2012-03-27
-slug: cliente_morto_nao_paga
 tags: cinema movies
 
 O filme começa com um horizonte de papelão e com uma chuva mais falsa que o próprio horizonte: está pronta referência dos filmes noir, gênero clássico que mistura um clima opressivo, uma fotografia escura e um detetive desiludido apaixonado por uma estereotipada femme-fatale. Nesse caso, o detetive é Steve Martin, que quando é enfocado pela primeira vez dispensa explicações sobre o teor cômico do filme: inebriado pelo tom solene dos filmes que homenageia, o detetive Rigby Reardon parece não perceber que é uma caricatura de ícones da história do cinema, que reencarnavam o mesmo personagem, mas sem sua desenvoltura cômica.
@@ -29780,7 +29343,6 @@ Engraçado mais pela situação do que pelas tiradas cômicas, ainda que elas ex
 
 # Header Inútil
 date: 2012-03-27
-slug: header_inutil
 tags: computer blog
 
 O Visual Studio é uma ótima ferramenta para depurar rapidamente programas sendo desenvolvidos e ~~para editar vários arquivos ao mesmo tempo~~ para o resto usamos Vim. No entanto, a versão 2010 do ambiente (ainda não testei a 2011 beta) possui um pequeno deslize com sua árvore de dependências que não chega a prejudicar o desenvolvedor, mas o deixa com um bug atrás da orelha.
@@ -29867,7 +29429,6 @@ A solução? Nesse caso não tem jeito: dar um clean no projeto e build novament
 
 # Raul: O Início, o Fim e o Meio
 date: 2012-03-28
-slug: raul_o_inicio_o_fim_e_o_meio
 tags: cinema movies
 
 "Raul" é um tipo de experiência cinematográfica que faz pensar em muitas coisas, mas que ao mesmo tempo consegue extrair a essência do Maluco Beleza em todos os sentidos de sua vida e de sua filosofia. Dessa forma, temos um protagonista forte, ainda que ausente.
@@ -29892,7 +29453,6 @@ Acredito, sinceramente, que Raul esteja escutando.
 
 # Jogos Vorazes
 date: 2012-04-01
-slug: jogos_vorazes
 tags: cinema movies
 
 Há ótimas ideias em Jogos Vorazes, produção baseada no romance homônimo de Suzanne Collins (que também participa do roteiro) e que deve ser o primeiro de uma trilogia. Ambientado em um mundo futurista, mas devidamente verossímil, apresenta a delicada situação de 12 distritos que, após perderem uma tentativa de revolução contra o governo dominante, se veem sujeitos a sacrificar um casal de jovens anualmente em uma batalha por sobrevivência em uma floresta "criada" de maneira inóspita cujo objetivo é condecorar o último ser humano que restar.
@@ -29914,7 +29474,6 @@ Feliz fico com o fato de tudo ser um filme, fruto da imaginação de produtores 
 
 # A Greve
 date: 2012-04-02
-slug: a_greve
 tags: cinema movies
 
 A Greve é um belíssimo ensaio do crítico, montador, diretor, roteirista Sergei M. Eisenstein antes de sua dita obra-prima "O Encouraçado Potemkin", do mesmo ano. Digno de nota, porém, é saber que é seu primeiro longa, e já nesse trabalho notam-se as invencionices e montagem usadas de maneiras tão originais quanto a novidade da sétima arte poderia desejar. Rodado sem diálogos, mas com uma trilha sonora que evoca a urgência e a dramaticidade dos acontecimentos, Eisenstein conta a história de uma greve entre operários usando para isso de 6 diferentes estágios, ou historietas, que didaticamente exploram a mente das massas pró-revolução.
@@ -29924,7 +29483,6 @@ Ainda que fosse mestre no drama, o filme extrai momentos cômicos que conseguem 
 
 # Insônia
 date: 2012-04-02
-slug: insonia
 tags: cinema movies
 
 Em um momento em que Hollywood se esqueceu que os bons policiais/suspenses quase sempre vem dotados de uma carga dramática e multidimensional em seus personagens, o segundo trabalho de Christopher Nolan na direção vem lembrar aos cinéfilos que é possível construir uma narrativa inteligente e ainda assim ser envolvente pela sua ação.
@@ -29936,7 +29494,6 @@ Sem revelar spoilers fica difícil falar sobre a trama, mas podemos dizer que a 
 
 # O Lorax, em Busca da Trúfula Perdida
 date: 2012-04-02
-slug: o_lorax_em_busca_da_trufula_perdida
 tags: cinema movies
 
 O Lorax parte de uma premissa bonitinha e se esquece que em um roteiro, mesmo de animação, há muito mais do que piadinhas isoladas e ótimos efeitos visuais. Tudo começa com Ted, jovem morador de uma cidade feliz por ter conseguido dominar o plástico como solucionador de todos os problemas. A consequência é que a única forma de vida existente na cidade são seus moradores humanos; nem gatos ou cachorros têm vez. Querendo conquistar a garota dos seus sonhos, Ted parte em busca de uma jornada para conseguir o que não existe mais na paisagem onde mora: uma árvore.
@@ -29950,7 +29507,6 @@ De qualquer forma, é sempre bom poder ver ideias novas de uma outra produtora q
 
 # Le mystère du Snæfellsjökull
 date: 2012-04-02
-slug: the_mysteries_of_snafellsjokull
 tags: cinema movies
 
 Esse média-metragem islandês procura mostrar a história de uma região no país em que, de acordo com "relatos" e com a declaração de Júlio Verne de que ali seria o ponto de entrada para o centro da Terra, é um lugar de concentração de energias e poderia muito bem ser o ponto de contato com extraterrestres.
@@ -29961,7 +29517,6 @@ Parecendo um pouco canalhesco em suas opiniões unilaterais, no fundo pode ser c
 
 # Thor
 date: 2012-04-02
-slug: thor
 tags: cinema movies
 
 Não há nada para se ver em Thor. É bobinho, está na direção automática e possui uma fotografia e uma trilha sonora que combinam com sua falta de personalidade. Ou seja, a Marvel pode levar a sério seus cronogramas e personagens, mas não o Cinema em si.
@@ -29977,7 +29532,6 @@ As tomadas abertas, por fim, acabam comprovando que os efeitos visuais do filme 
 
 # Pina
 date: 2012-04-04
-slug: pina
 tags: cinema movies
 
 Nada como diretores como Wim Wenders e "Martin Scorsese" para resgatar a esperança do Cinema no 3D. Inicialmente usado para aumentar o rendimento das bilheterias e forçar o espectador a ir às salas ver algo que não poderia ver em sua própria casa, o 3D foi massacrado inúmeras vezes em seus primeiros anos, ou com brincadeiras adolescentes de jogar objetos na "cara" do espectador ou com as terríveis versões convertidas. Agora, aos poucos, diretores que conhecem Cinema em sua essência se arriscam a experimentar novos caminhos para a Sétima Arte, e quem ganha com isso obviamente somos nós, cinéfilos.
@@ -29993,7 +29547,6 @@ Apesar de haver talvez um abuso aqui e ali envolvendo um trem suspenso e não ha
 
 # Beleza Adormecida
 date: 2012-04-07
-slug: beleza_adormecida
 tags: cinema movies
 
 Quadros episódicos e geralmente com a câmera parada foram a forma da diretora e roteirista aumentar nossa cumplicidade com a protagonista absoluta Lucy (Emily Browing, de "Desventuras em Série" e "X-Men: Primeira Classe"). O fato do ritmo do filme ser mais lento não é para que fiquemos com sono, mas que olhemos com mais atenção ao que está acontecendo de fato, e não apenas na superfície. Assim como as paredes invisíveis de Dogville estamos testemunhando essas cenas que poderiam muito bem ter acontecido na vida real, com a diferença que na vida real ninguém ficaria sabendo. A fotografia triste e que ao mesmo tempo evoca um ambiente onírico parece querer dizer que essa realidade, ainda que triste, não pode mudar por causa de seus personagens e não de suas situações.
@@ -30005,7 +29558,6 @@ Quem sabe, talvez, estar dormindo não seja o estado normal de Lucy, e nós é q
 
 # Tá Rindo do Que?
 date: 2012-04-09
-slug: ta_rindo_de_que
 tags: cinema movies
 
 Funny People, aqui no Brasil conhecido como "Tá Rindo do Que?" e lançado diretamente para as locadoras por não ser um filme típico para o grande, mas limitado, público de Adam Sandler, é uma mescla entre drama e comédia, que está presente exatamente por ser esta uma história em torno de um comediante de sucesso que, como muitos no ramo, iniciou sua carreira na comédia de stand-up (entre eles, Jim Carrey, Robin Williams e Eddie Murphy).
@@ -30022,7 +29574,6 @@ No entanto, a história move-se pelo drama e é uma pena sentir a duração maio
 
 # Três Tempos
 date: 2012-04-11
-slug: tres_tempos
 tags: cinema movies
 
 "Dê seu preço. Eu quero vender minha alma. Sem passado. Sem futuro. Apenas um ganancioso presente."
@@ -30037,7 +29588,6 @@ Porém, a verdadeira maestria da montagem reside no ato final, onde temos exatam
 
 # O Buraco
 date: 2012-04-12
-slug: o_buraco
 tags: cinema movies
 
 O Buraco é muito mais sobre nossa posição como seres humanos e como nos relacionamos com ambientes e situações que quase sempre nos diz mais do que ela mesma. Após a descoberta de uma epidemia de um vírus que levava à loucura e à morte em uma região de Taiwan o governo ordena a retirada das pessoas e deixa o local em estado de quarentena. No entanto, vários moradores fazem questão ainda de sobreviver no bairro onde antes viviam normalmente, só que com o passar do tempo o estado mental e seu ânimo estavam muito diferentes do usual. O aparecimento de um vazamento no chão entre os apartamentos de um rapaz e uma moça, que vivem em torno de goteiras e vazamentos, representa não só o estado de calamidade do local como o próprio estado de espírito.
@@ -30048,7 +29598,6 @@ A direção de arte é opressiva. A fotografia parece ampliar a imundice de um c
 
 # Star Trek
 date: 2012-04-16
-slug: star_trek
 tags: cinema movies
 
 Baseado em um seriado dos anos 60 escrito por Gene Roddenberry (1921-1991) onde a nave U.S. Enterprise comandada pelo Cap. Kirk explora o espaço e tenta manter a paz entre os Planetas Confederados, Star Trek já começa o projeto com um enorme desafio. Juntos, tanto a pressão dos fãs para que o reboot da saga seguisse os mesmos rumos da série original, focada no intelecto das situações, quanto a pressão comercial para que o filme não fizesse as pessoas acostumadas às explosões no espaço de Star Wars e derivados bocejassem na sala de projeção conspiravam para seu fracasso completo.
@@ -30086,7 +29635,6 @@ Tudo isso, contudo, depende do grupo dos focados professores e organizadores do 
 
 # Moloch
 date: 2012-04-20
-slug: moloch
 tags: cinema movies
 
 Aleksandr Sokurov tem um estilo próprio para contar histórias. Quase sempre apostando na imersão do espectador pelos longos quadros e movimentos exóticos de seus personagens, muitas vezes a situação é propícia e gera grandes trabalhos (como "Mãe e Filho"), e em outras, como este Moloch, fica aquém do impressionante, mas mesmo assim é uma imersão que vale a pena ser vivida.
@@ -30104,7 +29652,6 @@ Porém, muito diferente do que vemos no brilhante "A Queda!", aqui há uma intro
 
 # Xingu
 date: 2012-04-20
-slug: xingu
 tags: cinema movies
 
 É um sintoma relevante do Cinema no Brasil que os temas mais polêmicos, salvo jovens clássicos como "Cidade de Deus" e [Tropa de Elite], sofram uma obliteração criativa. Xingu, novo trabalho de Cao Hamburguer na direção (O Ano em Que Meus Pais Saíram de Férias), com produção de Fernando Meirelles (que dispensa apresentações), não consegue fugir desse estigma completamente, embora tenha seus bons momentos.
@@ -30116,14 +29663,12 @@ Porém, em troca dos ótimos momentos silenciosos entre dois povos no meio da ma
 
 # A Marvada Carne
 date: 2012-04-24
-slug: a_marvada_carne
 tags: cinema movies
 
 Totó só queria comer carne de boi no país que mais exporta e ele não conseguir é o termômetro da desigualdade social brasileira. Para tornar seu sonho realidade ele se compromete com uma Fernanda Torres de 20 e poucos aninhos de trejeitos exagerados enquanto verossímeis. Aí, sim, Totó conseguirá comer (carne) na festa do casório, nessa comédia de costumes cheia de subtextos. Com edição ritmada de Alain Fresnot e participação especial da dupla de música caipira Tonico e Tinoco, que criam o contraponto dramático para o terceiro ato.
 
 # Conta Comigo
 date: 2012-04-25
-slug: conta_comigo
 tags: cinema movies
 
 Mais um filme dos anos 80 que envelheceu muito bem. Leveza e ingenuidade caminham juntos na história dos quatro amigos que partem em uma jornada com o objetivo de se tornarem heróis. E por mais piegas que pareça a argumentação de Conta Comigo, ela é levada a sério, o que faz toda a diferença no desenvolvimento dos personagens (que não são crianças genéricas).
@@ -30134,7 +29679,6 @@ No entanto, o que garante uma atenção e carinho pela história não poderia se
 
 # Os Vingadores - The Avengers
 date: 2012-04-28
-slug: os_vingadores
 tags: cinema movies
 
 Há um momento na nova produção da Marvel em que o personagem central Nick Fury (Samuel L. Jackson) comenta que o conceito de super-heróis é antiquado. Iss pode até soar contraditório vindo de uma figura como Nick, crente que sua heterogênea equipe de seres com poderes extraordinários, mesmo com suas diferenças, é o melhor que a Terra precisa em momentos de apuro. Porém também é uma maneira do espectador não-fã de quadrinhos conceber o absurdo da situação de reunir tantos heróis em uma única história. E se a maior virtude de um filme é conhecer seu universo e fazer de tudo para que as pessoas acreditem nele, nesse sentido Os Vingadores se sai muitíssimo bem.
@@ -30154,7 +29698,6 @@ Nunca cansativo em seus 142 minutos de duração, o final precoce apenas prenunc
 
 # Coisas Belas e Sujas
 date: 2012-04-30
-slug: coisas_belas_e_sujas
 tags: cinema movies
 
 No começo, assistimos à rotina de Okwe (Chiwetel Ejiofor) em seus inúmeros empregos, incluindo taxista clandestino no aeroporto e recepcionista de um sombrio hotel nos subúrbios de Londres. O clima opressivo e pessimista apenas aumenta conforme a história se desenrola, e a única esperança de paz parece residir nas gavetas do IML, junto do único amigo de Okwe. Vemos tudo sob o ponto de vista de Okwe, o que não é necessariamente uma coisa boa.
@@ -30168,7 +29711,6 @@ Com um final enfraquecido justamente por dar ao espectador um pouco de alívio, 
 
 # Antes que o Diabo Saiba que Você Está Morto
 date: 2012-05-02
-slug: antes_que_o_diabo_saiba_que_voce_esta_morto
 tags: cinema movies
 
 Não é fácil perceber a genialidade de um dos diretores mais esquecidos pela academia (nunca ganhou um Oscar) e pelo público em geral. Regente de projetos aparentemente simplórios, mas que envolvem o espectador de uma maneira sem volta (Um Dia de Cão), quem leu seu livro Making Movies (Fazendo Filmes) percebe que sua maneira de trabalhar é ordenada e disciplinada, o que mais ou menos garante que os objetivos do filme estejam tanto no início do projeto quanto no final, na sessão de estreia.
@@ -30181,7 +29723,6 @@ Por fim, o título sugere o que a montagem nos mostra: enquanto não conhecemos 
 
 # St. Nick
 date: 2012-05-04
-slug: st_nick
 tags: cinema movies
 
 Quando o filme se inicia, e não sabemos exatamente quem são aquelas crianças, é muito fácil confundi-las com uma situação comum que vemos todos os dias: crianças brincando de aventureiros. Porém, conforme adentramos no mundo lúdico, mas cruel, de suas realidades, a consciência pesa demais para um filme supostamente despretensioso. Mais interessante, porém, é constatar que as pessoas que as encontram imaginam o mesmo que nós imaginávamos minutos antes, o que não deixa de ser irônico e trágico, pois agora vemos que muito da vida passa na nossa frente sem sequer nos darmos conta. A nossa realidade, andando com pressa pela calçada, não enxerga muito além dela própria.
@@ -30196,7 +29737,6 @@ Traçando um pouco das influências que Terrence Malick teve para criar sua "A �
 
 # A Noite dos Mortos-Vivos
 date: 2012-05-07
-slug: a_noite_dos_mortos_vivos_1968
 tags: cinema movies
 
 Filmado com um orçamento apertado, mas empenhado na construção da tensão e do imaginário ao máximo. Romero começa sua carreira criando um marco no terror absurdo, e ao mesmo tempo cria uma mitologia em cima dos mortos-vivos do título: eles viram os famigerados zumbis, criaturas derivadas de humanos que morreram e voltaram a caminhar sobre a terra. Lentos e trôpegos, conseguem muitas vezes ganhar em inteligência e sagacidade dos atônitos humanos vivos.
@@ -30207,7 +29747,6 @@ Conseguiremos sobreviver aos zumbis da vida real? Romero, desde o começo, é at
 
 # Flores Partidas
 date: 2012-05-07
-slug: flores_partidas
 tags: cinema movies
 
 Don Johnston (Bill Murray, impagável) tem seu nome frequentemente confundido com seu quasi-homônimo Don Johnson ("o meu é com T"). No entanto, o que intimamente gostaria de ser é seu outro homônimo, Don Juan, conquistador inveterado de corações femininos. Um belo dia recebe uma carta rosa que menciona a existência de um filho já crescido, fruto de uma de suas inúmeras amantes. Crente de ter as qualidades de um verdadeiro conquistador, Don parte em uma jornada pelo país para verificar qual das quatro mulheres que consegue se lembrar de seu passado possuem vínculo com a suposta carta.
@@ -30221,7 +29760,6 @@ Ao final, um giro de 360 graus nos revela o homem completo e ao mesmo tempo falt
 
 # Paradise Now
 date: 2012-05-09
-slug: paradise_now
 tags: cinema movies
 
 Não é o fato de um filme contar a história de um homem-bomba sob seu ponto de vista, algo incomum para o Ocidente, que ele se torna automaticamente uma ótima referência ao tema. Contudo, quando esse ponto de vista está embebido em melancolia e ressentimentos de uma infância que não conheceu uma realidade diferente do inferno da Guerra (inclusive com a perda do pai causada diretamente por esta), é aí que começamos a analisar se o projeto de fato merece crédito.
@@ -30236,7 +29774,6 @@ Nesse sentido, fazer um filme sobre homens-bomba é sim bem-vindo e digno de not
 
 # Qualquer Gato Vira-Lata
 date: 2012-05-10
-slug: qualquer_gato_vira_lata
 tags: cinema movies
 
 A influência norte-americana e suas comédias românticas de caráter duvidoso trouxeram uma produção com elenco brasileiro que não é apenas covarde em sua premissa, mas retrógrada e oportunista. Dirigido por Tomas Portella e Daniela de Carlo, ambos já envolvidos em produções hollywoodianas, o filme gira em torno do roteiro de uma peça de teatro (muito ruim, por sinal) em que a jovem e fisicamente atraente Tati (Cléo Pires) briga com seu namorado Marcelo (Dudu Azevedo) em seu aniversário por conta de suas aventuras fora do relacionamento; ao tentar procurar uma solução para seu relacionamento descobre através das teorias de um professor de biologia, Conrado (Malvino Salvador), que talvez estivesse usando a abordagem errada para seduzir homens.
@@ -30255,7 +29792,6 @@ O que, felizmente, é um dos poucos acertos do filme.
 
 # Hairspray: Em Busca da Fama
 date: 2012-05-14
-slug: haispray_em_busca_da_fama
 tags: cinema movies
 
 Há uma mensagem muito bela em Hairspray, sobre o fim da guerra inter-racial ocorrida nos EUA na década de 60. Aliada a danças empolgantes e teatrais, nos leva a concluir tristemente que sua moral pertence ao mundo dos sonhos, da dança. E é na dança que está a maior virtude e o maior defeito desse filme.
@@ -30268,7 +29804,6 @@ Se há algo que conseguimos tirar de Hairspray, são ótimas danças com sentime
 
 # Taxi Driver: Motorista de Táxi
 date: 2012-05-14
-slug: taxi_driver
 tags: cinema movies
 
 A primeira coisa que senti ao iniciar a sessão do filme noir do Scorcese foi pensar que talvez eu não estivesse pronto para o que veria a seguir. De certa forma, "Táxi Driver" é um filme com tantas camadas e significados que fica difícil classificá-lo apenas como um excelente filme. A princípio, ele nem parece tão bom assim. Se perde em uma história sem cabimento, ou que tenha algum tipo de lógica em sua trama. Porém, ao olhar mais de perto, o que vemos é o resultado de uma catarse artística que pode-se notar em diversos indícios da produção: um roteiro (Paul Schrader, que assina também "Touro Indomável") que foca mais em seu personagem e não em suas falas; uma direção que assegura que o ponto de vista do motorista de táxi seja o único ponto de vista do filme inteiro; interpretações que enriquecem os personagens pelas expressões e movimentos, não se tornando afáveis para o público, mas antes soando autênticos (Robert de Niro e Jodie Foster); a fotografia de Michael Chapman que anda de mãos dadas com uma montagem segura feita por uma dupla que investe nas tomadas noturnas em planos-detalhe significativos apenas para o protagonista (como o espelho do motorista), enfocando sempre o que ele vê; por fim, uma trilha sonora ocasional mas impactante de Bernard Herrmann, colaborador frequente de Hitchcock, que, mesmo que repetitiva, mescla com competência seus dois temas principais.
@@ -30287,7 +29822,6 @@ Em uma América cada vez mais armada, não é o governo que dita as regras. Entr
 
 # Um Misterioso Assassinato em Manhattan
 date: 2012-05-14
-slug: um_misterioro_assassinato_em_manhatan
 tags: cinema movies
 
 Nova York, chuva, assassinato e um filme de Woody Allen. Uma combinação que costuma ser fértil para o Cinema, seja pela inteligência e ironia das falas dos personagens, ou até mesmo pela situação que eles vivem. Aqui, temos o casal de meia-idade Larry e Carol Lipton (Allen e Keaton) que, após conhecerem um idoso e simpático casal, no dia seguinte presenciam a morte súbita da esposa, consequência de um ataque cardíaco.
@@ -30308,7 +29842,6 @@ Existe uma forma de configurar o Windows para que todo crash que ocorrer na máq
 
 # Consumo abusivo de memória
 date: 2012-05-19
-slug: consumo_abusivo_de_memoria
 tags: computer blog
 
 Era um belo dia em um ambiente de processamento fictício de filas fictícias e threads fictícias. Eis um belo código com filas, threads e processamentos feitos em stop-motion:
@@ -30512,7 +30045,6 @@ Funções/classes usadas nesse artigo: "CreateThread" (cria uma nova linha de ex
 
 # Sobrecarga de função às avessas
 date: 2012-05-20
-slug: sobrecarga_de_funcao_as_avessas
 tags: computer ccpp blog
 
 Nota do autor: navegando pelo Archive.org, que possibilita viajar no tempo e encontrar coisas enterradas que seria melhor deixar por lá, consegui encontrar um post que se perdeu na dobra espaço-temporal entre o old-fashioned Caloni.com.br (com direito à velha joaninha psicodélica, desenho do meu amigo que uso até hoje no blogue) e um finado outro domínio meu, o CThings. No final, consegui matar a marmota, chegar a "80 milhas por hora" e voltar para o presente. Enjoy!
@@ -30586,7 +30118,6 @@ E isso conclui a solução meio esquizofrênica de nossa sobrecarga às avessas.
 
 # O Corvo
 date: 2012-05-24
-slug: o_corvo
 tags: cinema movies
 
 Edgar Allan Poe é considerado um dos precursores da literatura norte-americana, e com Júlio Verne, dos gêneros de ficção-científica e fantástica. Suas histórias geralmente giram em torno de crimes e mortes bizarras, o que revela não apenas a genialidade na arte de escrever como também sua criatividade mórbida, fruto do mais novo filme sobre ele, O Corvo, estrelando John Cusack na pele do escritor de contos.
@@ -30656,7 +30187,6 @@ Meus  repositórios estão armazenados em alguns branches que distribuí de ac
 
 # MIB: Homens de Preto III
 date: 2012-06-04
-slug: mib_homens_de_preto_iii
 tags: cinema movies
 
 Possuindo uma dinâmica que se assemelha menos do que deveria com o original e mais do que deveria com sua continuação, além de já confiar desde o início na identificação que o público fará da dupla de agentes K e J, que trabalham em prol de uma organização que zela pelo convívio pacífico com inúmeros seres intergalácticos, o terceiro filme da série Homens de Preto conta com um novo ator (Josh Brolin, [Wall Street 2]) que interpreta a versão mais jovem de K, originalmente vivido por Tommy Lee Jones, e um novo vilão, Bóris, o Animal (Jemaine Clement, de "Loucos por Nada"), que munido de ótimos efeitos visuais faz uma grande promessa em sua sequência inicial que infelizmente nunca é cumprida: a de fato representar uma ameaça para os excelentes agentes da MIB.
@@ -30674,7 +30204,6 @@ De certa forma, apesar do excelente clímax final, não deixa de soar como a ún
 
 # Viagem ao Mundo dos Sonhos
 date: 2012-06-04
-slug: viagem_ao_mundo_dos_sonhos
 tags: cinema movies
 
 Da safra dos anos 80 onde havia aos montes aventuras de garotos vivendo em cidades como em ET e "Os Goonies" e que vivem uma aventura, Viagem ao Mundo dos Sonhos mistura com sucesso conceitos geralmente distintos: sonhos e tecnologia. A história se inicia quando Ben (Ethan Hawke), um garoto comum que começa a ter estranhos sonhos de uma viagem em torno de figuras geométricas que se assemelham a circuitos de computador. Tendo como amigo Wolfgang (River Phoenix), um cientista-mirim que usa o computador do pai, ambos começam a desenvolver uma teoria que os sonhos recorrentes de Ben podem ser um tipo de comunicação de vida inteligente. O terceiro elemento do grupo, Steve (Bobby Fite), ajuda Ben durante uma briga de escola e acaba por se juntar aos dois por não ter muita harmonia para ficar em casa com seu pai, vítima da conhecida crise que acometeu o país na época.
@@ -30686,7 +30215,6 @@ Nesse clima de tudo é possível nasce uma bela metáfora sobre a infância, os 
 
 # Namorados para Sempre
 date: 2012-06-09
-slug: namorados_para_sempre
 tags: cinema movies
 
 O relacionamento entre Dean e Cindy mostrado pelas lentes de Derek Cianfrance oscila entre o peso da rotina do dia-a-dia e a leveza de quando se conheceram, tudo mais ou menos se equilibrando em um retrato intimista e não-romantizado de como é a relação de qualquer casal na vida real.
@@ -30723,7 +30251,6 @@ A lista abaixo é pessoal e, como disse Bram Moolenar, "You should not try to 
 
 # A Saga Crepúsculo: Lua Nova
 date: 2012-06-10
-slug: a_saga_crepusculo_lua_nova
 tags: cinema movies
 
 O filme inicial da "saga Crepúsculo" merecia o benefício da dúvida, pois pelas condições com que a história foi desenvolvida ficava muito difícil encaixar o filme no grupo de filmes sérios ou nas paródias. No entanto, com Lua Nova essa dúvida se dissipa completamente, graças aos torturantes 130 minutos que insistem em colocar a protagonista Bella Swan (Kristen Stewart) em diversas situações que nada alteram seu conflito inicial: devo conseguir obrigar meu namorado vampiro Edward Cullen (Robert Pattinson) a me transformar em um ser imortal ou devo morrer tentando?
@@ -30739,7 +30266,6 @@ Porém, essa ideia de Bella suicida também é descartada pelo roteiro, que enco
 
 # Crepúsculo
 date: 2012-06-10
-slug: crepusculo
 tags: cinema movies
 
 Existe uma linha tênue entre Crepúsculo e dois tipos de filmes: no primeiro tipo existem as paródias, onde tudo que aparece na tela soa irreal e quase que completamente absurdo, quase sempre fazendo referência a filmes mais sérios; nessa categoria a saga dos vampiros não se sai tão mal, sendo o único grande problema ele insistir em levar a sério um romance que consegue ser, no melhor dos casos, risível e superficial (e eu já citei absurdo?). No segundo tipo de filme existem os romances e dramas sérios, que conseguem extrair um pouco de empatia do público, por pior que seja a história. Infelizmente, se for esse o caso, Crepúsculo consegue ser o anti-exemplo completo, pois não consegue extrair a mínima reação a partir do improvável casal formado pela antipática Bella Swan e o seu stalker psicopata vampiresco Edward Cullen.
@@ -30763,7 +30289,6 @@ Pois é, fascinante, não? Não posso perder o resto dessa saga e entender final
 
 # Por Um Punhado de Dólares
 date: 2012-06-10
-slug: por_um_punhado_de_dolares
 tags: cinema movies
 
 "Per un pugno di dollari", o clássico do bangue-bangue macarrônico, primeiro dos três filmes idealizado por Sergio Leone a partir de sua fascinação após assistir a outro clássico da época, Yojimbo (de Kurosawa), nos apresenta pela primeira vez a figura do Homem Misterioso, ou homem sem nome, interpretado por um Clint Eastwood ainda jovem para o seu Gran Torino, mas com um olhar já duro e seco para com os maus que governam uma cidadezinha perto da fronteira entre os EUA e o México. À procura de dinheiro (como o título já sugere), esse homem resolve ficar por um tempo na cidade, mesmo em uma terra que odeia forasteiros. Existem duas famílias que tomam conta dos negócios locais, enquanto na violência com que as decisões são tomadas os corpos se acumulam no cemitério na mesma proporção com que as viúvas. O ódio e a ambição pelo ouro fala mais forte em uma terra sem lei.
@@ -30782,7 +30307,6 @@ Aliás, o fato da história ter algumas reviravoltas apenas alimenta nosso desej
 
 # Por uns Dólares a Mais
 date: 2012-06-10
-slug: por_uns_dolares_a_mais
 tags: cinema movies
 
 Continuação de "Por um Punhado de Dólares" e apenas um ano após a produção original, Por uns Dólares a Mais concebe o universo do faroeste de uma maneira mais aventureira e empolgante que seu precursor. Dessa vez há duas figuras principais. O Homem Misterioso de antes já não é mais tão misterioso assim. Possui um nome: Manco. E possui uma função: é caçador de recompensas. Aliás, uma consequência mais que natural do que vimos no primeiro filme, pois se há tantos fora-da-lei espalhados pelo oeste faz sentido que a polícia precise de oportunistas para capturá-los.
@@ -30796,7 +30320,6 @@ Porém, fora tudo que o filme nos proporciona, sua maior contribuição é ser o
 
 # A Difícil Arte de Amar
 date: 2012-06-13
-slug: a_dificil_arte_de_amar
 tags: cinema movies
 
 Um roteiro e um romance de Nora Ephron ("Julie e Julia", "Mensagem pra Você", Sintonia de Amor, A Feiticeira...) e uma direção de Mike Nichols (Closer, "A Gaiola das Loucas") conseguem dar o tom mais que adequado para que uma jovem Meryl Streep, mas já ganhadora de um Oscar por "Kramer vs Kramer", conseguisse dar espírito para Rachel, uma jornalista de meia-idade que após o divórcio teme por um novo casamento, mas que mesmo assim se entrega sem receios aos sentimentos pelo também jornalista Mark (um já velho Jack Nicholson), que possui fama de solteirão e não se ater por muito tempo à mesma mulher.
@@ -30808,7 +30331,6 @@ No entanto, as relações entre os casais de hoje em dia não poderiam ser mais 
 
 # Madagascar 3: Os Procurados
 date: 2012-06-13
-slug: madagascar_3_os_procurados
 tags: cinema movies
 
 Com uma primeira parte no modo automático, o filme dos ex-animais do zoológico do Central Park em Nova York mostra sinais de cansaço principalmente em suas velhas piadas, que hoje soam batidas e repetitivas. Para quebrar um pouco a monotonia é apresentada uma nova antagonista: uma inspetora de animais francesa e obcecada em capturar um leão para sua coleção de caça, que recebe uma introdução superficial demais para que ela se torne interessante, e serve apenas para tornar as cenas convenientemente aceleradas e preencher película para uma história curta demais, como pode ser notado em duas cenas "solo" particularmente descartáveis (incluindo uma embaraçosa referência a Edith Piaf utilizando o batidíssimo sucesso "Non, je ne regrette rien", que aparentemente é a única referência entendida pelo americano médio como algo francês).
@@ -30822,7 +30344,6 @@ Mesmo assim, o filme não dá muito espaço para drama, reconhecendo seu públic
 
 # Valentin
 date: 2012-06-13
-slug: valentin
 tags: cinema movies
 
 Filme que tirou do ostracismo o diretor-ator-roteirista Alejandro Agresti (também que depois foi à Hollywood filmar A Casa do Lago), é muito fácil gostar da história de Valentin. Sempre transbordando otimismo, ainda que a realidade não fosse mais diferente do que suas expectativas, acompanhamos a história do garoto-título vivido por Rodrigo Noya e enxergamos o mundo através do seu filtro de realidade, formado principalmente pela ausência da mãe (ele mora com a avó, vivida por Carmem Maura, uma das atrizes favoritas do diretor espanhol Pedro Almodóvar) e pelas visitas irregulares do pai.
@@ -30831,7 +30352,6 @@ O fato é que a carisma do personagem reside mais das circunstâncias que o cerc
 
 # Encantada
 date: 2012-06-14
-slug: encantada
 tags: cinema movies
 
 Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.
@@ -30851,7 +30371,6 @@ Dessa forma, podemos dizer que o esforço narrativo sobre o absurdo da história
 
 # Sede de Paixões
 date: 2012-06-15
-slug: sede_de_paixoes
 tags: cinema movies
 
 O filme gira em torno de um casal durante uma viagem de trem. Eles estão com problemas no casamento. Ao mesmo tempo, uma viúva foge da sedução de seu psiquiatra e de uma amiga lésbica. De alguma forma, Bergman parece querer que essas histórias tenham algo em comum. O balé parece ser o elemento de união, mas nunca é relevante nas discussões sobre relacionamento que se seguem. Ela, a esposa, como vimos no início, já foi amante de outro homem. As mesmas manias e compulsões mantiveram-se nos dois relacionamentos.
@@ -30860,7 +30379,6 @@ Um dos primeiros (de vários) trabalhos de Bergman, baseado no romance homônimo
 
 # Adaptação
 date: 2012-06-18
-slug: adaptacao
 tags: cinema movies
 
 Apenas três anos após Charlie Kaufman surpreender o mundo do Cinema com "Quero ser John Malkovich", um dos roteiros mais originais de todos os tempos, temos o lançamento de seu próximo trabalho que coloca como protagonista ninguém nada menos do que... Charlie Kaufman! Apesar de isso aparentar uma auto-indulgência sem limites, é preciso lembrarmos de estarmos falando de uma versão insegura, tímida e menos talentosa de Charlie Kaufman (talvez o motivo dele ser interpretado por ninguém nada menos do que Nicholas Cage, em uma surpreendente atuação dupla).
@@ -30882,7 +30400,6 @@ Se antes o conceito genial de entrar na mente de um sujeito como John Malkovich 
 
 # Apenas uma Noite
 date: 2012-06-18
-slug: apenas_uma_noite
 tags: cinema movies
 
 Primeiro filme ao mesmo tempo dirigido e escrito por Massy Tadjedin (roteirista de Camisa de Força) dois anos atrás, o casamento entre Joanna e Michael poderia ser o de qualquer pessoa (talvez por isso nunca sabemos seus sobrenomes). Quem nunca aspirou mudar suas escolhas baseado tão somente em seus sentimentos passados? Quando Michael (Sam Worthington) faz uma viagem a negócios, logo após uma pequena briga de casal, ele e Joanna (Keira Knightley) experimentam a velha sensação de desejo de mudança junto de um velho amigo/companheiro e uma colega de trabalho.
@@ -30899,7 +30416,6 @@ E, no fundo, a noite descrita no longa não passa de uma agradável e lúdica br
 
 # Um Ratinho Encrenqueiro
 date: 2012-06-18
-slug: um_ratinho_encrenqueiro
 tags: cinema movies
 
 Com uma história típica da sessão da tarde, talvez fosse impossível tentar realizar algo acima de medíocre. Porém, quando o roteiro abraça o absurdo das situações com competente propriedade, nunca nos permitindo questionar se alguma coisa é verossímil ou não, pois é a história que dita isso, aí temos um ótimo exemplo de que, independente da história, é possível criar Cinema através de quase nada.
@@ -30912,7 +30428,6 @@ As tiradas são óbvias, mas sempre funcionam, mesmo quando são ruins. Não há
 
 # Prometheus
 date: 2012-06-19
-slug: prometheus
 tags: cinema movies
 
 Como fã convicto da série Alien, desde seu Oitavo Passageiro ("Alien - O Oitavo Passageiro") ao controverso "Alien, a Ressurreição", tenho autoridade não apenas como estudioso de Cinema mas como fã estudioso de considerar o novo trabalho de Ridley Scott como uma involução não apenas da série, mas do gênero de ficção científica/terror como um todo.
@@ -30925,7 +30440,6 @@ Esse estado de estagnação é o que domina boa parte seu desfecho, onde acompan
 
 # E Aí... Comeu?
 date: 2012-06-25
-slug: e_ai_comeu
 tags: cinema movies
 
 Esse é o simpático terceiro filme de Felipe Joffily ("Muita Calma Nessa Hora") que explora a opinião dos homens sobre o universo feminino. Nunca nos permitindo entender "o outro lado da história", participamos na maioria das vezes dos diálogos de Fernando (Bruno Mazzeo), Honório (Marcos Palmeira) e Fonsinho (Emilio Orciollo Neto) como se estivéssemos sentados juntos com ele na mesa de bar, servidos sempre por uma deliciosa gelada pelo garçom mais comedor (ou falador) do universo: Seu Jorge (Seu Jorge).
@@ -31031,7 +30545,6 @@ O que aprendemos aqui? Que por mais que seja intuitiva uma solução, nunca pode
 
 # Sombras da Noite
 date: 2012-06-27
-slug: sombras_da_noite
 tags: cinema movies
 
 Em minha cabeça há um filme muito bonito que reconstrói Drácula com um apuro técnico que apenas um diretor como Tim Burton poderia conceber com sua singular visão gótica do mundo. Se transportarmos esse mundo para os coloridos anos 70 teremos então um divertido e promissor choque cultural entre épocas separadas por nada menos do que duzentos anos.
@@ -31048,7 +30561,6 @@ Entendendo os aspectos que tornam a figura do Drácula tão fascinante, mas deix
 
 # Amor Impossível
 date: 2012-07-02
-slug: amor_impossivel
 tags: cinema movies
 
 A ideia por trás do romance de Paul Torday poderia se sair muito bem como um livro e até, com uma adaptação adequada, um filme. Porém, a tentativa frustrada do diretor Lasse Hallström (Gilbert Grape - Aprendiz de Um Sonhador) e do roteirista Simon Beaufoy (Quem Quer Ser Um Milionário?) esbarra na injustificada tendência em transformar um drama em uma comédia romântica engraçadinha. Aliás, a tentativa de fazer humor com o uso do primeiro-ministro e sua assessora, se funcionam no início, depois se tornam repetitivos e apelativos para dar ênfase ao lado engraçado da narrativa que inexiste na história principal.
@@ -31063,7 +30575,6 @@ Com uma proposta inicial desajeitada, um desenvolvimento embaraçoso e uma concl
 
 # Para Roma com Amor
 date: 2012-07-03
-slug: para_roma_com_amor
 tags: cinema movies
 
 Quais diretores você conhece que conseguem fazer o velho clichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.
@@ -31080,35 +30591,30 @@ Felizmente, Allen consegue fechar com chave de ouro cada uma das situações, de
 
 # Branca de Neve e o Caçador (Rupert Sanders, 2012)
 date: 2012-07-20
-slug: branca_de_neve_e_o_cacador
 tags: cinema movies
 
 Uma versão mais Senhor dos Anéis do popular conto divulgado pelos irmãos Grimm, Branca de Neve e o Caçador tenta focar exatamente nessas duas figuras da história da linda jovem que é perseguida pela rainha má, ao mesmo tempo em que utiliza uma direção de arte fabulosa, que consegue reconstruir de maneira estilizada uma atmosfera propícia para o engrandecimento da vilã (Theron). Incrivelmente, é esta que consegue sugar melhor a atenção do público, mesmo tendo relativo pouco tempo de tela. Enfim, uma empolgante releitura que merece uma atenção especial.
 
 # Branca de Neve e os Sete Anões
 date: 2012-07-20
-slug: branca_de_neve_e_os_sete_anoes
 tags: cinema movies
 
 Antes da aventura psicodélica de Dumbo, em 41, a obra de Disney que adapta o conto dos irmãos Grimm no formato inequívoco de conto de fadas se tornou um padrão em histórias semelhantes (Cinderela em 50, A Bela Adormecida em 59). No entanto, é possível notar que o jogo de cores, de ângulos e até mesmo os detalhes da narrativa apontam para uma obra mais surreal e, portanto, fortemente influenciada pelas correntes artísticas da época.
 
 # Desconstruindo Harry
 date: 2012-07-20
-slug: descontruindo_harry
 tags: cinema movies
 
 Ciente de que conseguiria conduzir uma experiência autoral refinada ao mesmo tempo em que dirige e atua, Woody Allen cria aqui uma pequena brincadeira metalinguística (não seria a primeira vez) com os sentimentos de um escritor em não conseguir publicar uma nova obra sem recair sobre sua vida pessoal e as pessoas que fizeram parte dela. Como consequência, além de entrar em conflito com as pessoas com quem conviveu simplesmente por descrever acontecimentos pertencentes às suas vidas privadas, o escritor ainda precisa lidar com o fato de que suas ligeiras adaptações revelam seus próprios medos e preconceitos em relação à realidade. Dos filmes de Allen, nunca ruins, eis um digno de nota.
 
 # Eu, Meu Irmão e Nossa Namorada
 date: 2012-07-20
-slug: eu_meu_irmao_e_nossa_namorada
 tags: cinema movies
 
 Nem só de comédias estúpidas baseadas em enquete vive Steve Carell. Aqui ele interpreta um de três personagens envolvidos em uma situação cômica e trágica ao mesmo tempo. Isso por si só já consegue estimular seu desenvolvimento. Porém, não fosse o roteiro pé-no-chão desenvolvido pela dupla Pierce Gardner e Peter Hedges não seria possível termos empatia por esses personagens, e ao mesmo tempo darmos boas e saudáveis risadas com seus conflitos.
 
 # Meus Vizinhos são um Terror
 date: 2012-07-20
-slug: meus_vizinhos_sao_um_terror
 tags: cinema movies
 
 Especializado em comédias do absurdo, como Um Dia a Casa Cai e Quero Ser Grande, Tom Hanks aqui vive a paranoia e a maldição que acomete todo americano que tenta mudar algum hábito nativo de sua cultura, como bisbilhotar a vida dos vizinhos. Nesse sentido, faz um par curioso com Tim Allen em "Um Natal Muito, Muito Louco". Contudo, a maluquice é ainda maior do que as comédias natalinas de Allen, pois estamos nos anos 80 e tudo, literalmente, pode acontecer.
@@ -31116,14 +30622,12 @@ Especializado em comédias do absurdo, como Um Dia a Casa Cai e Quero Ser Grande
 
 # Orgulho e Preconceito
 date: 2012-07-20
-slug: orgulho_e_preconceito
 tags: cinema movies
 
 Há diversas formas de dirigir um Jane Austen, e frequentemente o que vemos é uma fórmula básica seguida pela maioria. Nesse sentido, Orgulho e Preconceito não apenas é um refresco para os olhos como uma empolgante dissertação cinematográfica sobre como narrar histórias de época e impor significados na obra de Austen, uma crítica feminista por natureza, com o uso do Cinema em seu estado mais puro. Dessa forma, planos selecionados, cores no figurino e até o posicionamento dos personagens fazem parte do repertório dos diretores Joe Wright, Katie Spencer e Jacqueline Durran. Como se não bastasse, há "escondido" dois ou três planos-sequência que são tão brilhantes quanto sua sutileza.
 
 # Os Muppets Conquistam Nova York
 date: 2012-07-20
-slug: os_muppets_conquistam_nova_york
 tags: cinema movies
 
 Para quem viu o novo trabalho dos Muppets ano passado deve ter percebido que a magia das trucagens dos anos 80 para fazer com que os bonecos de pano parecessem reais havia dado lugar para o uso sem imaginação da computação gráfica. É uma pena. Porém, ainda existe como colírio os musicais antigos, e da safra esse é o que melhor consegue transmitir essa magia com números protagonizados praticamente pelos bonecos! De brinde, é curioso notar toda a criatividade que Frank Oz aplica para conseguir tornar os personagens de Jim Henson tão carismáticos e multidimensionais quanto qualquer ser humano de carne e osso.
@@ -31131,7 +30635,6 @@ Para quem viu o novo trabalho dos Muppets ano passado deve ter percebido que a m
 
 # Valente
 date: 2012-07-20
-slug: valente
 tags: cinema movies
 
 Não é uma novidade que filmes com muitos roteiristas são uma propensão ao desastre. No caso de Valente, nova história da Pixar escrita a dez mãos, apesar de melhor que o irregular "Carros 2", ainda suscita dúvidas se ainda veremos novamente grandes histórias como Wall-E, Os Incríveis, "Ratatouille" e "Up!". Construída em cima da costumeira perfeição técnica dos seus desenhistas, a fábula da menina que desafia os costumes vigentes de casamentos arranjados e acaba caindo nas mãos dos feitiços desastrosos de uma bruxa não empolga tanto quanto seu visual.
@@ -31139,14 +30642,12 @@ Não é uma novidade que filmes com muitos roteiristas são uma propensão ao de
 
 # A Era do Gelo 4
 date: 2012-07-21
-slug: a_era_do_gelo_4
 tags: cinema movies
 
 Depois de uma entediante terceira parte, as histórias protagonizadas por um mamute, um tigre e um bicho preguiça chegam para contar a separação dos continentes, aparentemente causada pelo também conhecido esquilo Scrat. (Talvez ele também tenha causado a viagem no tempo, já que a Era do Gelo e o período da Pangea estão separados por centenas de milhões de anos.) Esse pano de fundo é usado para falar sobre o velho conflito dos adolescentes querendo mais liberdade e seus pais mamutes impedindo que se divirtam. De quebra, ainda conhecemos novos animais que se unem em torno de um iceberg e se denominam piratas (os motivos dessa aliança nunca são explicados de maneira satisfatória, como o porquê de tubarões-prego ajudarem-nos). De qualquer forma, há situações engraçadas e outras simplesmente passáveis.
 
 # A Pequena Sereia
 date: 2012-07-21
-slug: a_pequena_sereia
 tags: cinema movies
 
 Uma aventura Disney no final dos anos 80 que mais uma vez encanta pelo frescor dos seus traços e pela perfeição técnica que hoje sua companheira Pixar tomou o lugar. A história da sereia-princesa que se apaixona por um humano e precisa passar por cima de seu severo pai, rei dos mares, para conseguir o que busca não é senão uma releitura mais uma vez do velho conto de fadas iniciado com "Branca de Neve e os Sete Anões". As imitações, no entanto, não desmerecem o trabalho excepcional de uma equipe de desenhistas que conseguiu criar à mão números inteiros de música com um ritmo e uma fluidez impressionantes.
@@ -31161,7 +30662,6 @@ Na minha palestra foquei no conteúdo dos meus dois artigos sobre um fictício P
 
 # Beijos e Tiros
 date: 2012-07-22
-slug: beijos_e_tiros
 tags: cinema movies
 
 Kiss Kiss Bang Bang trabalha em muitas vertentes. Soando fictício a partir da narração onisciente do ex-ladrão e aspirante a ator Harry Lockhart (Robert Downey Jr.), que é ao mesmo tempo o protagonista, ainda consegue uma boa dose de realismo através dos acontecimentos absurdos que se somam durante as investigações de um crime do qual é testemunha enquanto estuda seu papel em um filme com a ajuda do detetive real Gay Perry (Val Kilmer). Somado a isso, Harry volta a encontrar sua amiga e paixão velada de infância Harmony Faith Lane (Michelle Monaghan). Tudo isso, acredite ou não, consegue o seu lugar na história com uma direção e montagem competentes o suficiente para não tornar tudo mais confuso do que já é.
@@ -31172,7 +30672,6 @@ Como a história gira essencialmente em torno dos três personagens que de uma f
 
 # Oldboy
 date: 2012-07-22
-slug: oldboy
 tags: cinema movies
 
 Quando o filme inicia, temos um breve momento com o futuro Dae-su Oh (Min-sik Choi) durante um curioso diálogo com um homem que parece depender do protagonista para manter-se vivo. A conversa aparece cortada no meio, e boa parte da história parece seguir a mesma lógica. Quando voltamos um indeterminado período de tempo, somos apresentados a um irreconhecível, mulherengo e causador de problemas Dae-su. Se descontrolando diversas vezes enquanto aguarda em uma delegacia com seu amigo, mal conseguimos relacionar o pedaço de homem que vemos com sua versão mais velha, cansada e, o mais importante de tudo, determinada.
@@ -31188,7 +30687,6 @@ Como havia dito, há rimas por todas as partes. O final, impactante por si só, 
 
 # Fausto
 date: 2012-07-27
-slug: fausto
 tags: cinema movies
 
 Novo filme de Aleksandr Sokurov, mestre em expor a alma humana de uma maneira não-convencional, vide "Mãe e Filho" ou "Moloch", Fausto transforma a lenda do homem e do romance homônimos em um apanhado dramático que, coeso em sua história principal, nunca nos revela o suficiente para se tornar a velha história clichê do homem que venda a alma ao diabo para obter conhecimento. Pelo contrário: ousado em sua estrutura, subverte a lenda e consegue transplantar sua visão de maneira igualmente satisfatória.
@@ -31204,7 +30702,6 @@ Ciente de que ações conseguem ser mais efusivas que os inspirados diálogos en
 
 # Duplex
 date: 2012-07-31
-slug: duplex
 tags: cinema movies
 
 Duplex segue a mesma linha das comédias semi-românticas de Ben Stiller, só que com dois toques distintos: sua mulher, Drew Barrimore, segue o mesmo destino, e há uma vilã que nada mais é do que uma senhora idosa e simpática, mas que insiste em se meter na vida dos dois enquanto aguardam o fim da sua.
@@ -31213,7 +30710,6 @@ Uma direção de arte competente consegue levar o clima de apartamento secular �
 
 # Na Estrada
 date: 2012-07-31
-slug: na_estrada
 tags: cinema movies
 
 É impressionante a capacidade que este filme tem de se manter coeso e tenso, apesar de cansativo. Porém, esse cansaço, permita-me deduzir, é proposital: estamos vendo uma história que se passa principalmente em horas de viagem, preenchidas pelos diálogos, sentimentos e sensações dos amigos/amantes de Dean Moriarty (Garrett Hedlund), uma dessas pessoas com personalidade magnética. Ele atrai inclusive o jovem escritor Sal Paradise (Sam Riley), que busca se envolver em sua vida justamente para conseguir material para seu primeiro grande livro.
@@ -31227,14 +30723,12 @@ Dessa forma, apesar de cansativo em sua forma, quando finalmente encontramos uma
 
 # Uma Vida Iluminada
 date: 2012-07-31
-slug: uma_vida_iluminada
 tags: cinema movies
 
 A princípio promissor em seu formato, onde uma transição extremamente elegante e econômica delineia a vida inteira de Jonathan Safran Foer (Elijah Wood) como um colecionador compulsivo de lembranças de sua convivência com as pessoas, a história dele se enveredando por uma Ucrânia linda e falida em busca das origens de seu avô é dispersa, e não consegue interessar o espectador além da mera curiosidade pelo destino e características daqueles personagens tão incompletos e bizarros. Porém, verdade seja dita: a fotografia é algo de tirar o fôlego, e dá a impressão que o filme nos coloca em determinados cenários apenas para vislumbrarmos o horizonte de um passado que não está mais lá.
 
 # Bob Esponja: O Filme
 date: 2012-08-01
-slug: bob_esponja_o_filme
 tags: cinema movies
 
 Bobinho, mas divertido. Possui lição de moral e elementos já manjados da própria série. Hoje assistindo pela quarta (quinta?) vez vejo que no fundo é um episódio expandido, e não possui pretensões muito... cinematográficas. Mas, dizer o quê de uma esponja quadrada que fala e seu amigo estrela-do-mar de bermuda? Ainda acho mais divertido que os Rugrats.
@@ -31251,7 +30745,6 @@ Com uma conclusão que diverte pelo inusitado, voltando a fazer humor da forma q
 
 # A Febre do Rato
 date: 2012-08-03
-slug: a_febre_do_rato
 tags: cinema movies
 
 Acredito que a maior virtude do filme de Cláudio Assis é conseguir, a despeito das cenas chocantes de cunho sexual, criar uma atmosfera tão natural para o desenvolvimento de seus personagens que é quase como se estivéssemos assistindo à própria vida real. Claro, em uma versão embalada no formato dos filmes revolucionários das décadas de 60 e 70 no Brasil, e que nunca viriam a público em sessões abertas. A vantagem de uma democracia é que podemos, hoje, entender a bandeira que esses filmes tentaram levantar no passado.
@@ -31264,7 +30757,6 @@ De tomada em tomada, o espectador consegue se acostumar a tudo que passa, e ente
 
 # O Espetacular Homem-Aranha
 date: 2012-08-04
-slug: o_espetacular_homem_aranha
 tags: cinema movies
 
 Talvez o diretor Marc Webb não saiba, mas o fato de estar reiniciando uma franquia que foi admiravelmente "assentada" pelo seu antecessor Sam Raimi não pode ser ignorado, pois ambos bebem da mesma fonte. Pior: é um reinício apenas 10 anos depois, ou seja, a geração que verá *The Amazing* é a mesma que já viu "Homem Aranha". E já tendo visto *Spider*, posso afirmar que o filme de Webb peca por não conseguir se desassociar do seu original por falta de ousadia. O roteiro burocrático vai passeando pelo início do super-herói como quem conta algo que todos nós já sabemos. OK, todos nós já sabemos. Porém, diferente da pessoa ingênua e doce que foi Peter Parker de Tobey Maguire, não conhecemos muito sobre o novo Aranha. E o fato de continuarmos sem conhecê-lo mesmo após ele vestir sua máscara cria uma barreira sentimental. É difícil se empolgar com as aventuras do herói se ele se parece mais com uma aranha pré-fabricada do que um ser humano. E mesmo que o 3D utilizado em seus saltos seja digno de nota, já que faz querer saltar pelas paredes após sair da sala de projeção, ele não é suficiente para impor uma nova alma ao personagem.
@@ -31273,7 +30765,6 @@ Não que o filme seja ruim. Ou talvez fosse até melhor que fosse ruim, já que 
 
 # Dr. Fantástico
 date: 2012-08-06
-slug: dr_fantastico
 tags: cinema movies
 
 O absurdo das hierarquias e do sistema de proteção para decisões vitais para a paz mundial, junto como os militares são colocados no filme, irresponsáveis que parecem estar na corporação simplesmente pelo acaso da vida, parece ser a matéria-prima dessa excelente comédia de Stanley Kubrick (Laranja Mecânica, "2001: Uma Odisseia no Espaço"). No entanto, não é por isso que o filme deixa de ser realista, e as cenas de combate, tanto no ar quanto na terra, são tão tensas quanto as conversas na cúpula do Pentágono.
@@ -31286,7 +30777,6 @@ Mais para frente, na cinegrafia do autor, poderemos ver a guerra novamente enfoc
 
 # Flores do Oriente
 date: 2012-08-06
-slug: flores_do_oriente
 tags: cinema movies
 
 O diretor Yimou Zhang, desde seu Clã das Adagas Voadoras (2004), parece não ter perdido seu ar "afetado" de expor o horror da guerra de maneira estilada e "gore". O problema é que em Flores do Oriente esse estilo não possui espaço, pois é um drama que envolve meninas encarceradas em um convento no meio da ocupação japonesa, um grupo de meretrizes que acabam se refugiando no mesmo lugar, e um agente funerário (Cristian Bale), com uma inclinação em beber sem parar e tentar ser engraçado e espirituoso, mesmo que seja para um bando de crianças.
@@ -31302,7 +30792,6 @@ Teria sido mais divertido.
 
 # Fargo
 date: 2012-08-16
-slug: fargo
 tags: cinema movies
 
 É muito simples entrar em uma comédia-thriller dos irmãos Coen. Há dois princípios extremamente eficazes em Fargo: os diálogos que expõem desde o início o caráter de seus caricatos personagens, como ao apresentar em uma inspirada conversa a maneira com que os dois capangas (Steve Buscemi e Peter Stormare) contratados pelo hesitante Jerry Lundegaard (William H. Macy) irão efetuar o sequestro de sua mulher, e os ângulos inusitados de câmera escolhidos por Joel Coen que exaltam o clima surreal dos fatos que irão se sucedendo aos poucos, e para isso há tomadas belíssimas sobre uma neve que ofusca o resto da paisagem e dá preferência para que vejamos o que está de fato ocorrendo na pacata cidadezinha.
@@ -31315,7 +30804,6 @@ E embrulhar estômagos sem partir para o humor escatológico é a maior virtude 
 
 # Batman: O Cavaleiro das Trevas Ressurge
 date: 2012-08-17
-slug: batman_o_cavaleiro_das_trevas_ressurge
 tags: cinema movies
 
 O "Batman Begins" possui uma virtude cada vez mais ausente em produções Hollywoodianas de super-heróis: a capacidade de fazer pensar. O que é uma pena, já que o universo fantasioso em que se passam essas histórias tem potencial para ser o pano de fundo de questões filosóficas das mais diversas. No caso de "Batman: O Cavaleiro das Trevas", a grande discussões que Nolan se propõe a fazer é com respeito à violência nas grandes cidades e como essa violência transforma o destino das pessoas que nela vivem.
@@ -31331,7 +30819,6 @@ As respostas para essas perguntas não fazem parte do roteiro da família Nolan,
 
 # Tempestade Virtual
 date: 2012-08-18
-slug: tempestade_virtual
 tags: cinema movies
 
 Mais como uma curiosidade de um fan-movie do que uma estrutura que de fato se esforce em contar uma história, Tempestade Virtual procura unir referências distintas do mundo hacker, incluindo aí "War Games", "Matrix" e o próprio "Hackers", mas sem conseguir agregar nada mais à sua narrativa. O resultado é que vemos Nick 'Jester' Chase (Nick Cornish) como um clone sem alma de "Zero Cool" (Hackers), seu amigo como o mesmo alívio cômico de "Phantom Phreak", sua mãe com o mesmíssimo dilema do longa original... enfim, antes fosse uma cópia cuja essência revelasse algo mais do que uma mera bobagem envolvendo jogos de realidade virtual e satélites com o poder de alterar as forças do clima.
@@ -31339,7 +30826,6 @@ Mais como uma curiosidade de um fan-movie do que uma estrutura que de fato se es
 
 # Corações Sujos
 date: 2012-08-19
-slug: coracoes_sujos
 tags: cinema movies
 
 Quando fui apresentado no início do filme à história, a zona de tensão entre os imigrantes japoneses no Brasil ao final da WWII, pois muitos ainda acreditavam que a guerra havia sido ganha pelo lado nipônico, fiquei extremamente entusiasmado, principalmente por dois motivos: 1) se tratar de um primeiro movimento do Cinema Nacional de resgatar o passado histórico e exorcizar seus demônios e 2) pelo tratamento aparentemente dedicado da produção, que utiliza o japonês como idioma-base, desafiando uma realidade crescente de salas populares que priorizam a comodidade da dublagem em detrimento à mutilação da sétima arte.
@@ -31355,7 +30841,6 @@ Por fim, sua conclusão arrastada criada a partir de uma elipse de uma vida inte
 
 # Um Divã para Dois
 date: 2012-08-24
-slug: um_diva_para_dois
 tags: cinema movies
 
 Meryl Streep (Kay), e é preciso que comece esse texto com ela, está divina. Pra variar, seu tom de voz fino, distante e frágil remete justamente àquela mulher que, depois de 30 anos de casada, percebe que sua posição submissa e acomodada começa a perturbá-la pelo som repetitivo e ensurdecedor da rotina. Seu marido, Arnold (Tommy Lee Jones sendo Tommy Lee Jones), igualmente acomodado em uma cadência ininterrupta de ovos, bacon e escritório, mal consegue entender por que sua mulher pretende mudar aquele casamento estável indo para uma sessão de terapia de casais em uma cidadezinha feita sob encomenda. Pior: não entende por que gastar 4 mil dólares em algo tão fútil se poderia aplicar melhor esse dinheiro comprando um telhado novo?
@@ -31368,7 +30853,6 @@ Como consequência metafórica, saímos do filme com uma sensação de terapia, 
 
 # Herói
 date: 2012-08-25
-slug: heroi
 tags: cinema movies
 
 O que torna uma figura histórica, em períodos de guerra, um herói para seu povo? Quais sacrifícios são necessários para que as lembranças desse tempo sejam tão marcantes que acabam por serem inscritas nos extensos pergaminhos e cujas histórias sejam contadas de geração em geração ininterruptamente? É com esses questionamentos, vindos desde o título, e com uma premissa simples de um homem que ajudou o rei a manter sua integridade física, e que por isso, será agraciado pelo seu reino, que Yimou Zhang marca os compassos de sua narrativa impecável que narra através do episódio da unificação da China a história de seres extraordinários e suas ações e sentimentos mais nobres.
@@ -31382,7 +30866,6 @@ Partindo de um econômico, mas profundo e inspirador roteiro escrito por Feng Li
 
 # Água para Elefantes
 date: 2012-08-27
-slug: agua_para_elefantes
 tags: cinema movies
 
 Uma história tão inspirada como essa, que consegue relacionar os sentimentos descontroláveis do dono de um circo da década de 30 com seus animais e seu sentimento de posse não só para com eles, como para seus funcionários e sua própria esposa, mereceria um elenco melhor escolhido. Não me levem a mal: Christoph Waltz é o máximo, apesar de com um personagem não tão redondo quando o impagável Coronel Hans Landa no Bastardos Inglórios. Porém, aqui a figura de August é mais sombria e menos irônica, e os trejeitos de Waltz deflagram essa discrepância. A mesma coisa com a não-tão-linda-como-é-sugerida Marlena/Reese Whitherspoon, que possui os mesmos trejeitos de tantas comédias românticas e não transparece a figura ingênua e dócil que sugeriria sua personagem.
@@ -31395,7 +30878,6 @@ Mesmo assim, parece que falta algo nesse Água para Elefantes. Não há um voo m
 
 # Nanny McPhee e as Lições Mágicas
 date: 2012-09-03
-slug: nanny_mcphee_e_as_licoes_magicas
 tags: cinema movies
 
 "Uma produção com um toque britânico (e atores) que consegue entreter mais pela curiosidade das próximas ações da babá mágica para controlar os sete diabinhos do desafortunado viúvo, que ainda depende de uma tia impiedosa para a sobrevivência da família, do que pela história em si, que é bobinha e previsível. O filme ainda emociona por situações naturalmente emotivas (como a decisão de escolher uma filha para entregar à tia), mas por algum motivo mágico, consegue caminhar até sua conclusão pelo menos ileso de apelações maiores. Talvez uma última da babá pós-créditos?" (Nanny McPhee, A Babá Encantada).
@@ -31404,7 +30886,6 @@ Fora os detalhes de uma direção de arte virtuosa, que consegue extrair magia a
 
 # Os Mercenários 2
 date: 2012-09-03
-slug: os_mercenarios_2
 tags: cinema movies
 
 Mercenários 2 já começa sua história querendo arrebentar o maior número de muros, cabeças e corpos humanos por centímetro cinematográfico quadrado. O som das armas parece verdadeiro, ou melhor: parece surreal. Não há nada pode deter o maior arrebatamento de heróis de ação de um passado já distante, mas que é aqui comemorado de uma maneira perigosamente indulgente.
@@ -31464,7 +30945,6 @@ Com cenas tensas construídas desde o início (como a explosão da loja de conve
 
 # Cabra Marcado Para Morrer
 date: 2012-09-20
-slug: cabra_marcado_para_morrer
 tags: mostrasp cinema movies
 
 O documentário que Eduardo Coutinho começou a produzir nos anos 60 e que foi interrompido após o golpe militar, tendo 40% do roteiro filmado e apreendido pela polícia como material subversivo, vira um filme completo só na década de 80, com a reabertura política e o reencontro do diretor e sua película. E não apenas isso: o reencontro da história de Elizabeth Teixeira, a viúva de João Pedro, líder dos camponeses assassinado brutalmente na época, e do cinema revolucionário de Glauber Rocha que havia ficado no esquecimento.
@@ -31487,7 +30967,6 @@ Ignorando o fato que palhaços são, até onde se sabe, terrestres, o filme usa 
 
 # eXtreme Go Horse
 date: 2012-09-27
-slug: extreme_go_horse
 
 O Go Horse Power (GHP) foi criado por um blogue hoje extinto. As premissas dessa nova metodologia de desenvolvimento era que o projeto fosse feito da maneira mais rápida possível.
 
@@ -31614,7 +31093,6 @@ Porém, é necessário dar o braço a torcer: usando como premissa o urso que ma
 
 # Um Corpo Que Cai
 date: 2012-10-03
-slug: um_corpo_que_cai
 tags: cinema movies
 
 No topo da lista de melhores filmes de todos os tempos, "Cidadão Kane", em 2012, deixa a respeitável posição para o suspense Um Corpo que Cai. É uma notícia que não muda em praticamente nada a importância da obra de Orson Welles para o Cinema, mas altera a percepção do espectador médio para com a Sétima Arte. Se antes as pessoas não enxergavam como que fosse possível que um filme preto e branco recheado de diálogos e múltiplos pontos de vista, uma bagunça, enfim, pudesse ser considerada a obra máxima audiovisual, com o filme de Hitchcock as coisas ficam um pouco mais fáceis.
@@ -31646,7 +31124,6 @@ Contando com uma conclusão simplista mas corajosa por deixar claro não se trat
 
 # Sobre Meninos e Lobos
 date: 2023-05-19
-slug: sobre_meninos_e_lobos
 tags: cinema movies repost
 
 Dono de uma cinegrafia invejável como diretor, Clint Eastwood aqui começa a mudar sua maneira de contar uma história. Sem pressa para desenvolver a trama e ao mesmo tempo mostrando apenas o necessário para que se mantenha o suspense, o roteiro de Brian Helgeland caminha por igual entre as vidas de cada personagem para que entendamos o peso de cada encontro e seus diálogos. Enquanto isso, Eastwood e seu editor juntam tudo com uma fluidez admirável; ainda mais se considerarmos a quebra de ritmo que poderia surgir ao abordar tantos pontos de vista diferentes para um mesmo fato.
@@ -31698,7 +31175,6 @@ Se, por fim, entendermos as mensagens de seu segurança a respeito da ameaça qu
 
 # Por Água Abaixo
 date: 2012-10-12
-slug: por_agua_abaixo
 tags: cinema movies
 
 A produtora de animações Dreamworks ainda estava trilhando sua evolução qualitativa que a levaria aos inspiradores "Kung Fu Panda" e Como Treinar seu Dragão. Nessa aventura que se passa debaixo dos esgotos, no mundo dos ratos, os diretores David Bowers (Astro Boy) e Sam Fell ([O Corajoso Ratinho Desperaux]) lançaram mão do politicamente incorreto, marca registrada de suas animações e que a união Disney/Pixar parece apavorar, e criaram gags que divertem, mas quase nunca estão inseridas na narrativa, como a alusão ao peixinho Nemo ou enquetes protagonizadas por simpáticas lesmas. De qualquer forma, conseguem empreender um ritmo ágil e que mesmo atrás tecnicamente de sua rival Pixar, na época estrelando o estonteante Carros, conseguia empolgar pela capacidade de fazer rir sem precisar ensinar lições de moral quadradinhas ou muitas vezes já batidas.
@@ -31743,7 +31219,6 @@ O que não evita que o filme se torne uma experiência leve e agradável. O elen
 
 # Eclipse
 date: 2012-10-21
-slug: eclipse
 tags: cinema movies
 
 Eclipse encontra no eterno drama -- protagonizado pelo trio Jacob (Lautner), Edward (Pattinson) e Bella (Stewart) -- o combustível para prosseguir com a saga das famílias de vampiros e lobisomems mutantes que povoam o limitado universo da escritora Stephenie Meyer.
@@ -31767,7 +31242,6 @@ Possuindo a sabedoria em não dividir os lados entre contra e a favor, o filme m
 
 # O Menino do Pijama Listrado
 date: 2012-10-21
-slug: o_menino_do_pijama_listrado
 tags: cinema movies
 
 Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que parece fácil produzir isso no espectador. No entanto, muitas vezes tudo isso é fruto da nossa imaginação, e há um trabalho grande do início ao fim para que esse efeito seja criado da maneira com que ocorre. Ora, como explicar que um amontoado de bonecas consiga ser tão impactante para os nossos olhos?
@@ -31778,7 +31252,6 @@ Além de em pouquíssimo tempo de projeção conseguir a proeza de impactar-nos 
 
 # Solaris
 date: 2012-10-21
-slug: solaris
 tags: cinema movies
 
 Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
@@ -31821,7 +31294,6 @@ O uso competente de uma "pista e recompensa" especial e o ritmo milimétrico da 
 
 # Felicidade
 date: 2012-10-25
-slug: felicidade
 tags: mostrasp cinema movies
 
 Há uma introdução vigorosa e poderosa em Felicidade, novo trabalho da diretora Doris Dörrie (Cerejeiras em Flor). Sem diálogos e um jogo de sons e imagens extremamente econômicos em sua mensagem, acompanhamos a vida perfeita e feliz de Irina (Alba Rohrwacher) em seu país de origem seguido da tragédia que vem com a guerra, representada por um grupo impiedoso de soldados. O choque de realidades é intenso, mas em poucos momentos aliviado com a visão de um cervo, que representa não apenas a última visão de Irina e sua terra natal, mas a capacidade do filme de amenizar passagens fortes de sua história, uma virtude e ao mesmo tempo a sua maior fraqueza.
@@ -31884,7 +31356,6 @@ Se indefine como uma amizade verdadeira, pois não há tempo para que haja um am
 
 # Era Uma Vez no Oeste
 date: 2012-10-31
-slug: era_uma_vez_no_oeste
 tags: mostrasp cinema movies
 
 Era Uma Vez no Oeste parece ser a tentativa de Sergio Leone de fazer o "Grande Cinema", tornando todas as cenas costumeiras de seu faroeste mais solenes, lentas e cerimoniosas. Isso explica a trilha-comentário do músico Ennio Morricone, que oscila elegantemente entre toda essa solenidade e o pitoresco, com direito a pausa em uma música que lembra o cavalgar e que serve de tom cômico.
@@ -31930,7 +31401,6 @@ Não direi mais nada. Não vale a pena estragar as surpresas da história, pois 
 
 # Nosferatu
 date: 2012-11-02
-slug: nosferatu
 tags: mostrasp cinema movies
 
 Mesmo 90 anos depois, Nosferatu consegue impressionar em suas pontuais cenas clássicas. O resto, resquícios do expressionismo alemão, mas de onde até hoje se emprestam algumas técnicas (como o jogo de sombras), pode ser engraçado pela bizarrice, mas define muito bem a loucura e a doença em torno do desconhecido, do sobrenatural.
@@ -31953,7 +31423,6 @@ Desnecessário dizer que a direção/montagem não depende da conclusão da hist
 
 # O Vingador do Futuro (1990)
 date: 2012-11-04
-slug: o_vingador_do_futuro_1990
 tags: cinema movies
 
 Roteirizado por Ronald Shusett e Dan O'Bannon, duas figuras envolvidas desde o início na série Alien, a história digerida pelo visceral Paul Verhoeven consegue a proeza de ser um filme e tanto de ação e se basear em uma premissa que, diferente do remake recente, consegue se tornar ambígua até o final: tudo que estamos vendo é de fato real ou é apenas um sonho implantado pela companhia que leva o título original?
@@ -31996,7 +31465,6 @@ De qualquer forma, criando uma ou duas cenas marcantes, a conclusão possui óti
 
 # 007 Operação Skyfall
 date: 2012-11-08
-slug: 007_operacao_skyfall
 tags: cinema movies
 
 Skyfall volta a abraçar a mitologia 007 criada em sua era clássica e ao mesmo tempo discute o futuro de um personagem retrô, mas com estilo, que mesmo 50 anos depois ainda consegue viver aventuras que apesar de conter ação descerebrada possui um fio condutor na história que mesmo não sendo original ou tendo momentos brilhantes ganha corpo pelo seu conjunto da obra.
@@ -32043,7 +31511,6 @@ O segundo filme da franquia James Bond, Moscou Contra 007, irá estabelecer Sean
 
 # Frankenweenie
 date: 2012-11-16
-slug: frankenweenie
 tags: cinema movies
 
 Desde o início há algo de mágico em Frankenweenie. Baseado em um curta dirigido pelo próprio Tim Burton e, quem diria, produzido pela Disney, o diretor e roteiro repetem os mesmos passos certeiros do trabalho original, conseguem desviar dos errados e acrescentam, além de uma divertidíssima homenagem ao Terror em seus momentos mais fortes, uma saudável discussão em torno de como as pessoas enxergam a ciência hoje em dia. Afinal de contas, o Frankestein de Mary Shelley nunca esteve tão presente nas discussões de botequim, misturado com superstições religiosas que continuam assombrando-nos até hoje.
@@ -32059,7 +31526,6 @@ Contando ainda com uma conclusão inesperadamente emocionante, pelo menos para m
 
 # A Saga Crepúsculo: Amanhecer - Parte 1
 date: 2012-11-17
-slug: a_saga_crepusculo_amanhecer_parte_1
 tags: cinema movies
 
 Se pudéssemos abstrair o fato de que desde seu início a "saga" Crepúsculo não teve uma única linha narrativa que conseguisse manter de fato uma história com começo, meio e fim, seria possível dizer que "Amanhecer: Parte 1", penúltimo filme da série, ganha em ritmo próximo ao seu final e consegue nos fazer esquecer, através do seu design de arte mais aprimorado que seus antecessores, os vampiros brilhantes de Stephenie Meyer, que subiam em árvores como macaquinhos excitados.
@@ -32217,7 +31683,6 @@ Apesar de uma história coerente até o fim e emocionante em seus minutos finais
 
 # O Mundo dos Pequeninos
 date: 2012-12-06
-slug: o_mundo_dos_pequeninos
 tags: cinema movies
 
 Não é novidade a virtuosidade técnica do estúdio de animação Ghibli, do diretor Hayao Miyazaki, que, entre outros, já produziu pequenas obras-primas como "A Viagem de Chihiro", "O Castelo Animado" e Princesa Mononoke (sem contar outros igualmente interessantes, como "Meu Amigo Totoro", "O Serviço de Entregas da Kiki" e Ponyo - Uma Amizade que Veio do Mar). Nesse sentido é natural esperarmos descobrir nesse primeiro trabalho de direção de Hiromasa Yonebayashi as mesmas características técnicas que tornaram os filmes do estúdio comparáveis à fábrica de sonhos de Walt Disney.
@@ -32243,7 +31708,6 @@ Presos à necessidade boba de serem fiéis a uma cartilha de moral e finais esqu
 
 # A Princesa e o Sapo
 date: 2012-12-09
-slug: a_princesa_e_o_sapo
 tags: cinema movies
 
 Última animação em 2D da Disney e primeira princesa negra, a ideia que a produtora norte-americana de animações quis passar foi de uma mulher independente, Tiana (Anika Noni Rose), que sonha em construir um restaurante que era um sonho do seu finado pai. Ela mora em Nova Orleans, e possui uma amiga branca, Charlotte (Jennifer Cody), que, rica, sonha em se casar com um príncipe.
@@ -32259,7 +31723,6 @@ Ressalto mais uma vez que Ray é a grande estrela do filme, pois protagoniza a c
 
 # O Homem da Máfia (Andrew Dominik, 2012)
 date: 2012-12-12
-slug: o_homem_da_mafia
 tags: cinema movies
 
 Esse é um ótimo filme sobre as ações e decisões de um grupo de mafiosos a respeito do destino do seu negócio de jogatina. Basicamente o que se coloca em jogo é a confiança dos donos dessas casas depois que um deles, Markie Trattman (Ray Liotta), rouba seu próprio negócio. O que o torna um filme excepcional é que essa manutenção da confiança no sistema ilegal de jogos de azar traça um paralelo direto com a crise econômica nos Estados Unidos iniciada em 2007 e que até hoje ecoa pelas casas vazias e massas de desempregados cheios de dívidas. A confiança no sistema financeiro também foi abalada naquele momento e algo teve que ser feito.
@@ -32308,7 +31771,6 @@ A diretora e roteirista Leslye Headland parece não saber usar corretamente todo
 
 # Histórias Cruzadas
 date: 2012-12-18
-slug: historias_cruzadas
 tags: cinema movies
 
 Depois de um filme inteiro martelando a segregação entre negros e brancos, a cena em que uma branca prepara um banquete para sua empregada negra é emocionante por detectarmos finalmente sentimentos naturais a qualquer ser humano sadio: solidariedade, compaixão, gratidão, respeito. O que não é natural é descobrirmos os sentimentos contraditórios presentes durante todo Histórias Cruzadas.
@@ -32345,7 +31807,6 @@ Se bem que, ainda que conseguíssemos entender o que há por trás de uma trama 
 
 # Pulp Fiction: Tempo de Violência
 date: 2012-12-23
-slug: pulp_fiction_tempo_de_violencia
 tags: cinema movies
 
 Segundo trabalho de Quentin Tarantino ("Cães de Aluguel", "Kill Bill"), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
@@ -32369,7 +31830,6 @@ No fundo, a montagem do filme não poderia ser feita de outra maneira. Caminhand
 
 # Abraham Lincoln: Caçador de Vampiros
 date: 2012-12-24
-slug: abraham_lincoln_cacador_de_vampiros
 tags: cinema movies
 
 Há uma, e apenas uma, ideia interessante por trás de todo o enredo de "Abraham Lincoln", roteiro escrito por Seth Grahame-Smith ("Sombras da Noite") baseado em seu próprio romance: a alegoria do povo do sul como vampiros que se alimentam dos seus escravos. Tirando essa semi-brilhante sacada, todo o resto parece criar uma experiência boba, infantil e que tenta justificar cenas de luta coreografadas através dos seus delírios de grandeza.
@@ -32426,7 +31886,6 @@ Nunca nos permitindo parar para respirar, mas em vez disso conseguindo manter um
 
 # A Estrada
 date: 2012-12-31
-slug: a_estrada
 tags: cinema movies
 
 A jornada do menino e seu pai por um mundo pós-apocalítico logo assume por repetição das situações que são obrigados a viver -- fome, frio, perigo -- um caráter muito mais moral do que uma simples história de sobrevivência. Só assim A Estrada consegue fazer sentido por completo, desde a mãe desconsolada até as pessoas que os dois encontram pelo caminho.
@@ -32450,7 +31909,6 @@ Mantendo a coerência narrativa até o fim, um ato de extrema honestidade com o 
 
 # Os Bons Companheiros
 date: 2013-01-01
-slug: os_bons_companheiros
 tags: cinema movies
 
 A primeira sequência de Os Bons Companheiros começa com os personagens de Robert de Niro (James Conway), Ray Liotta (Henry Hill) e Joe Pesci (Tommy DeVito) tendo que parar o carro para dar fim ao corpo que ainda insistia em manter-se vivo no porta-malas. A violência gráfica com que isso ocorre é sanguinária tanto na luz quanto no ato que ocorre na traseira do veículo. Quando acompanhamos o crescimento de Henry entre os gângsteres e voltamos novamente a essa cena é como se fizéssemos já parte do grupo: da gangue e da família que estes formam.
@@ -32530,7 +31988,6 @@ Criando ou recriando um final cinematográfico, o que embute na mente do especta
 
 # Era Uma Vez Eu, Verônica
 date: 2013-01-10
-slug: era_uma_vez_eu_veronica
 tags: cinema movies
 
 Cinema, Aspirinas e Urubus se tornava mais interessante à medida que prestávamos menos atenção à história e mais em seus personagens. Aqui, o diretor Marcelo Gomes repete a fórmula de maneira mais introspectiva ainda, acompanhando a vida de Verônica através quase apenas de seu gravador e seus pensamentos.
@@ -32557,7 +32014,6 @@ O final é melodramático demais para uma história tão cínica e faz pensar qu
 
 # O Som ao Redor
 date: 2013-01-14
-slug: o_som_ao_redor
 tags: cinema movies
 
 O Som ao Redor não é o tipo de filme que a gente consiga descobrir através da sua história qual o tema e a opinião do diretor sobre o que ocorre na tela. A coisa toda está mais como um espelho, onde nossa observação dos fatos e a sua interpretação, sobretudo moral, é que irá inserir um significado. Mesmo assim, dadas as devidas proporções, todo filme possui essa liberdade de interpretação. Do contrário, nem existiria crítica, pois todas as respostas estariam no filme, e não haveriam perguntas.
@@ -32586,7 +32042,6 @@ De qualquer forma é notável que o núcleo de personagens seja formado apenas p
 
 # Janela Indiscreta
 date: 2013-01-15
-slug: janela_indiscreta
 tags: cinema movies
 
 Um dos trabalhos mais lembrados da carreira do mestre de suspense Alfred Hitchcock, o ponto mais marcante da história de L.B. 'Jeff' Jefferies (James Stewart), um fotógrafo que precisa manter-se em seu apartamento por conta de sua perna engessada, é o seu único ponto de vista de todos os acontecimentos. Acostumando-se a observar a vida dos outros prédios em volta, é ele que testemunha um suposto crime. Note que a incerteza dos acontecimentos aliado às histórias paralelas dos seus vizinhos contribui para nossa desorientação, que chega ao seu ápice quando o próprio protagonista passa também a correr perigo.
@@ -32612,7 +32067,6 @@ O que nos leva ao impreciso terceiro ato, que está determinado a não deixar po
 
 # Heleno
 date: 2013-01-20
-slug: heleno
 tags: cinema movies
 
 Nada mais apropriado às vésperas da segunda Copa do Mundo no Brasil -- a primeira foi em 1950, para quem não se lembra -- para revermos a biografia de um jogador de futebol totalmente esquecido daquela época e de quebra entendermos um pouco como o processo de modernização do esporte retirou todo o romantismo de uma era e transformou os esportistas em meras figurinhas de um álbum prestes a expirar.
@@ -32643,7 +32097,6 @@ E por falar em tendência, a conclusão das aventuras do menino freak volta a in
 
 # O Filho da Noiva
 date: 2013-01-21
-slug: o_filho_da_noiva
 tags: cinema movies
 
 O Filho da Noiva se esforça para soar tão engraçado quanto dramático e impede que ambos os lados evoluam. Ancorando sua experiência em um personagem que vive para o trabalho que construiu em torno do restaurante que herdou dos pais (um Ricardo Darín ainda jovem) o objetivo do roteiro do diretor Juan José Campanella ("O Segredo dos Seus Olhos") e de Fernando Castets (Clube da Lua, "Heleno") é mostrar a curva de mudança desse personagem depois de sofrer um ataque cardíaco.
@@ -32672,7 +32125,6 @@ Piegas ou não, o romance aqui existe de uma maneira não-convencional, o que pa
 
 # S.O.S.: Tem um Louco Solto no Espaço
 date: 2013-01-23
-slug: sos_tem_um_louco_solto_no_espaco
 tags: cinema movies
 
 Entendendo o ridículo em potencial da saga idolatrada de George Lucas ("Star Wars", para quem não sabe), a história de Spaceballs contém o mesmo pano de fundo só que trazendo à tona o mesmo padrão já visto centenas de vezes: uma princesa sequestrada, um casamento forçado, o anti-herói que se torna digno de seu amor e por aí vai a valsa. Economizando o personagem de Luke Skywalker colocando-o no papel do próprio anti-herói (o alter-ego de Hans Solo) fica fácil enxergar que já há gorduras no próprio roteiro do filme original.
@@ -32740,7 +32192,6 @@ A trilha sonora acompanha a morosidade da evolução sobre a emenda que poderá 
 
 # 007 - A Serviço Secreto de Sua Majestade
 date: 2013-02-01
-slug: 007_a_servico_secreto_de_sua_majestade
 tags: cinema movies
 
 Mais intenso, talvez pela incerteza na troca de Sean Connery por George Lazenby, e já entregando uma trama que mexe na vida pessoal do agente secreto como nunca antes, A Serviço Secreto de Sua Majestade é também um excelente filme de ação, tanto para sua época quanto para agora.
@@ -32756,7 +32207,6 @@ Sean Connery será sempre eternizado por iniciar e estabelecer a adaptação do 
 
 # País do Desejo
 date: 2013-02-04
-slug: pais_do_desejo
 tags: cinema movies
 
 Filmes como "A Febre do Rato" e "O Som ao Redor" possuem narrativas pouco convencionais, mas seus temas são tão bem explorados e ensinados ao espectador que não conseguimos imaginar maneira melhor de contar uma história. Que é exatamente o que não existe em País do Desejo, que articula temas complexos e polêmicos como o aborto e a castidade dos padres sem a mínima intenção de explorá-los como mereceriam.
@@ -32823,7 +32273,6 @@ Dito isto, O Lado Bom da Vida não se esforça como uma produção "indie" (o es
 
 # Os Miseráveis (Tom Hooper, 2012)
 date: 2013-02-07
-slug: os_miseraveis_2013
 tags: cinema movies
 
 Baseado em uma peça musical (que é baseado no clássico literário de Vitor Hugo), a história de Os Miseráveis se passa na França pós-revolução e gira em torno de Jean Valjean (Hugh Jackman), um ex-prisioneiro que foi condenado por ter roubado um pão e que cumpriu pena por 19 anos. Os destinos de diversos personagens se encontram com Valjean, inclusive Javert (Russell Crowe), o inspetor que cuidava das galés onde realizava trabalhos forçados, e Fantine (Anne Hathaway), mãe da pequena Cosette (Amanda Seyfried crescida) e que faz de tudo para sustentar a filha, inclusive chegando a se prostituir.
@@ -32836,7 +32285,6 @@ Se não é o elenco empenhando em resgatar o filme do desastre de direção, o e
 
 # O Voo
 date: 2013-02-10
-slug: o_voo
 tags: cinema movies
 
 No início do drama intimista somos apresentados a Whip Whitaker, um piloto "old-timer" que pilota um avião comercial com 102 pessoas a bordo como quem dirige um carro. Só que seu próximo voo apresentaria um defeito mecânico que o deixaria na mão. Utilizando seu instinto e habilidade, decide girar o avião de cabeça para baixo e com isso ganha impulso o suficiente para um pouso forçado em campo aberto, sendo obstruído apenas, que ironia, por uma torre de igreja. A sequência é arrebatadora por sua dramaticidade e impacto visual de um acidente em tempo real acontecendo diante de nós. Não é um espetáculo visual, mas um drama visceral ocorrendo no ar. Quando tudo termina, o resultado frio e matemático é de 6 mortes.
@@ -32891,7 +32339,6 @@ até o fim que o romance entre seres tão diferentes - faz uma brincadeira com R
 
 # A Viagem
 date: 2013-02-18
-slug: a_viagem
 tags: cinema movies miniviews fragments
 
 Essa brincadeira de mesclar sensações no espaço/tempo das seis histórias contidas em Cloud Atlas consegue a proeza de soar fluida e manter a narrativa em diferentes cenários. Aos poucos os seis conflitos se revelam como um só, e seus personagens perdem paulatinamente o que os tornavam únicos. Há diferenças, mas o drama humano é enfocado de tal maneira que faz nos esquecer das centenas ou milhares de anos que separam essas pessoas. É relevante que qualquer um dos personagens nunca ocupe uma posição de destaque em cada uma das histórias, mas suportem uns aos outros. Gera igual ou maior prazer na revisita, tantos são os detalhes a serem admirados ou tantas as interpretações possíveis dos mesmos eventos.
@@ -32965,7 +32412,6 @@ Com o passar da história o sentido vai perdendo importância. O pouco que sabem
 
 # Duro de Matar: Um Bom Dia para Morrer
 date: 2013-03-06
-slug: duro_de_matar_um_bom_dia_para_morrer
 tags: cinema movies
 
 Dirigido pelo medíocre John Moore (Max Payne) e escrito pelo problemático Skip Woods (X-Men Origens: Wolverine), o novo filme da série Die Hard parece uma mistura de estilos que mais confunde do que inova. Há a trilha de espionagem claramente inspirada em 007 e Missão Impossível. Há os cortes, movimentos de câmera e zooms frenéticos da série Identidade Bourne. Há, sim, perseguições e explosões dignas da série original, mas que não desempenham qualquer função em uma história sem reviravoltas (foras as mais patéticas) e sem tensão (ou alguém duvida em algum momento que a dupla principal não vai se safar dos bandidos histéricos?).
@@ -33055,7 +32501,6 @@ O terceiro ato termina como deve ser, ou como algo que esperávamos a qualquer m
 
 # Pieta
 date: 2013-03-19
-slug: pieta
 tags: cinema movies
 
 Finalmente, depois de ganhar prêmios na Europa e ser exibido apenas na Mostra do Rio do ano passado (em uma atitude claramente estúpida dos organizadores da Mostra SP), algumas distribuidoras nacionais resolveram estrear o novo trabalho de Kim Ki-duk. É impressionante como parece que a qualidade dos trabalhos lá fora é inversamente proporcional à pressa das distribuidoras brasileiras em fornecer conteúdo para o público local.
@@ -33140,7 +32585,6 @@ Ou seja, logo será possível além de perder horas navegando em saites de rede 
 
 # Up: Altas Aventuras
 date: 2013-04-01
-slug: up
 tags: cinema movies
 
 Uma produção da Pixar possui, como todo o filme, o(s) nome(s) do diretor. Contudo, a dedicação dos seus produtores e toda a equipe é tamanha que transparece o amor pelo Cinema em cada canto da tela e em cada detalhe técnico de suas produções.
@@ -33228,7 +32672,6 @@ Nunca conseguindo se firmar como gênero por tempo o suficiente, "G. I. Joe" ao 
 
 # Vai que dá Certo
 date: 2013-04-08
-slug: vai_que_da_certo
 tags: cinema movies
 
 O filme estrelado (e escrito) em partes pelo elenco do ótimo grupo de humoristas de internet Porta dos Fundos consegue ser engraçado em diversos momentos, apesar de seu tom morno durante quase todo o filme. O sucesso do humor é em boa parte devido ao carismático grupo, que naturalmente exibe um timing cômico de fazer inveja às produções da Globo Filmes. Porém, estamos falando de um filme longa metragem, e o que justamente deixa de ser engraçado é a história criada pelos três roteiristas, que se perde depois que do golpe a um carro forte arquitetado por quatro amigos de infância (e de pobreza) e por um primo de um dos integrantes.
@@ -33239,7 +32682,6 @@ Nunca saberemos. Terminando de maneira esquemática, estamos presos eternamente 
 
 # Uma História de Amor e Fúria
 date: 2013-04-11
-slug: uma_historia_de_amor_e_furia
 tags: cinema movies
 
 Um delírio técnico e estilístico que permite que vejamos nossa história como povo através da lente da dura e cruel realidade dos oprimidos, Uma História de Amor e Fúria estabelece desde o início seu tom fantasioso ao revelar a idade do narrador e protagonista envolvido em uma jornada de cerca de 600 anos através do passado e futuro do Brasil.
@@ -33313,7 +32755,6 @@ Obs.: Após os créditos há uma breve, mas espirituosa cena que explica a narra
 
 # A Morte do Demônio
 date: 2013-05-09
-slug: a_morte_do_demonio
 tags: cinema movies
 
 Um remake e uma revisita ao clássico trash da década de 80 (antes dirigido por Sam Raimi, o mesmo da trilogia "Homem-Aranha"), o longa de estreia de Fede Alvarez deixa a razão em segundo plano, mas por um motivo dos mais louváveis: tudo acontece tão rápido que se preocupar demais com isso tornaria a experiência intelectual demais. No fundo, queremos acreditar que tudo não passa de alucinações coletivas que logo irão se revelar uma fraude. Na verdade, rezamos por isso, pois a imersão ao horror da história é feito com tal profundidade que em determinados momentos fica difícil focalizar na tela o que está acontecendo.
@@ -33341,7 +32782,6 @@ As interpretações dos atores não é nada demais, mas não prejudica. No entan
 
 # Somos Tão Jovens
 date: 2013-05-14
-slug: somos_tao_jovens
 tags: cinema movies
 
 Antes de tudo, a interpretação de Thiago Mendonça é primorosa do começo ao fim ao estabelecer o "Renato" do filme não apenas como a sombra de um ídolo, mas a própria persona se construindo através de suas referências culturais. O uso de sua voz é um dos pontos fortes: usando entonações que vão aos poucos revelando o Renato Russo que os fãs conhecem, é uma surpresa agradável poder observar sua própria evolução como cantor, engrossando a voz aqui e ali, tentando encontrar o seu estilo. Isso nos aparece de forma completamente natural e discreta. A música e poesia das letras do vocalista parecem sair prontas do seu intelecto, e parte dessa experiência é devido ao interessante roteiro de Marcos Berstein ("Central do Brasil") com a colaboração de Victor Atherino que vai construindo as situações e expressões de suas poesias no dia-a-dia casual.
@@ -33376,7 +32816,6 @@ Enquanto tentamos juntar as peças derrubadas pela catarse gerada pela evoluçã
 
 # Alexandra
 date: 2013-05-23
-slug: alexandra
 tags: cinema movies
 
 Sokurov parece sempre voltar às relações familiares, especialmente a entre mãe e filho, tão importante na Rússia. Aqui acompanhamos Alexandra, a mãe de um dos oficiais de um grupo de soldados que acampa próximo à fronteira com os eslavos. Não é um filme de guerra, mas sobre a guerra.
@@ -33413,7 +32852,6 @@ A melhor ficção é a que consegue te distanciar da realidade para te fazer pen
 
 # Além da Escuridão: Star Trek
 date: 2013-06-17
-slug: alem_da_escuridao_star_trek
 tags: cinema movies
 
 Vendo a nova aventura dos Trekkers e revendo o genial reboot de J. J. Abrams (2008) fica claro que cada um é a metade de um todo maior, que poderiam ser mais enxutos (assim como "Kill Bill") e que juntos seriam um excelente estudo de personagem. Ainda assim, separados, se transformam em duas aventuras físicas e mentais (essa nem tanto) ótimas em si mesmo, embora perigosamente esquecíveis para os não-fãs.
@@ -33476,7 +32914,6 @@ No caso de Harry e Sally o filme não está datado. Ele serve como experiência 
 
 # O Clube das Desquitadas
 date: 2013-07-01
-slug: o_clube_das_desquitadas
 tags: cinema movies
 
 Esse é um espécime da safra de comédias românticas realizadas por atrizes já em meia-idade e que serviu de contraponto para a avalanche de divórcios que o mundo estava presenciando: o casamento não era mais sagrado. Não apenas o casamento, mas nem a orientação sexual (como a filha lésbica de Diane Keaton está lá para provar) é mais algo estável e conhecido por todos.
@@ -33544,7 +32981,6 @@ A maneira com que o diretor Jeannot Szwarc (Tubarão 2, Santa Claus) desenvolve 
 
 # Jogos Vorazes: Em Chamas
 date: 2013-07-12
-slug: jogos_vorazes_em_chamas
 tags: cinema movies
 
 É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo "Matrix Reloaded". Apesar de também ser uma continuação, "Jogos Vorazes" pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.
@@ -33564,7 +33000,6 @@ Mesmo com seu pecadilhos, Jogos Vorazes mantém o interesse constante em seu 140
 
 # O Homem de Aço
 date: 2013-07-13
-slug: o_homem_de_aco
 tags: cinema movies
 
 "Nós vamos lutar até um de nós morrer." E obviamente é o que eles fazem. A falta de complexidade aliada à ação desenfreada chega a cansar, e o fato de tanto Zod (Michael Shannon) quanto Superman (Henry Cavill) partirem para a violência gratuita revela mais sobre o último do que sobre o primeiro, programado desde a concepção para guerrear pelo seu povo. Chega a ser um quase insulto que o filho do cientista Jor-El se limite a imitá-lo. Justo ele, que foi um bebê "concebido naturalmente", o que inteligentemente levanta algumas questões sobre livre-arbítrio que nunca são desenvolvidas. Não é sensato que o filme queira que odiemos Zod por ser uma pessoa que quer reconstruir seu povo, e nesse sentido ele falha como vilão temeroso que Zack Snyder parece acreditar que ele seja, mas podemos sim nos sentir frustrados pela aparente indecisão do Homem de Aço em confrontá-lo.
@@ -33644,7 +33079,6 @@ Por fim, um trabalho completo, embora breve demais. Assistindo o original fica �
 
 # As Strippers Zumbi
 date: 2013-07-28
-slug: as_strippers_zumbi
 tags: cinema movies
 
 Até um filme amador com a premissa de strippers que são infectadas por um vírus desenvolvido pelo governo Bush e que transforma pessoas em zumbis pode ter algo de bom. E há. Em determinado momento da "trama", uma zumbi que lê Nietzsche (!) se lembra de um momento em que dormia em cima da neve e observava as estrelas. Agora, já morta, se considerava parte daquele universo inanimado e infinito, e tudo fazia sentido agora. Essa passagem tão existencialista e profunda parece destacada de todo o resto do recheio de zumbis mal-formados, danças eróticas com peitos lambuzados de sangue e muita violência exacerbada e sem sentido. Mesmo assim, naquele porão sujo e mal iluminado onde as meninas realizam suas danças por uns trocados fáceis, parece coisa de gênio.
@@ -33653,7 +33087,6 @@ Nesse sentido, não dá pra evitar analisar as ideias do diretor/roteirista Jay 
 
 # Os Amantes Passageiros
 date: 2013-07-28
-slug: os_amantes_passageiros
 tags: cinema movies
 
 Almodóvar volta às suas origens das divertidas comédias dramáticas voltadas para personagens homossexuais, videntes e todo o tipo de intriga novelesca. Aliás, a diferença vital entre novelas televisivas e Almodóvar é que este conta uma história como ninguém (e geralmente assina o roteiro).
@@ -33927,7 +33360,6 @@ Parte da sensação angustiante/nauseante existe por causa do uso da câmera, qu
 
 # Barry Lyndon
 date: 2013-10-18
-slug: barry_lyndon
 tags: cinema movies
 
 Stanley Kubrick era conhecido pela dedicação sobre-humana em seus projetos, fazendo com que vários deles se estendesse por anos a fio. Esse preciosismo é o que gerou trabalhos debatidos até hoje como se tivessem sido lançados nessa semana, denotando a aparente imortalidade de suas obras. Em Barry Lyndon, ao pretender contar a história do personagem-título, mas que está inserido em uma época sem eletricidade, resolve utilizar apenas a luz natural em suas tomadas, incluindo cenas noturnas iluminadas por velas. Por conta disso precisa de um filme ultrassensível, algo inédito e inovador. Além de desenvolver a tecnologia da fotografia para o Cinema consegue então um efeito surpreendente: os personagens parecem se mover por quadros pintados da época. É o fenômeno de uma arte estática ganhando vida através da arte do movimento.
@@ -33995,7 +33427,6 @@ E nesse sentido The Big Brother, o filme permanece mais do que atual: terrivelme
 
 # 2001: Uma Odisseia no Espaço
 date: 2013-10-23
-slug: 2001_uma_odisseia_no_espaco
 tags: cinema movies
 
 A obra maior de Stanley Kubrick - ou pelo menos a mais ambiciosa e enigmática - permanece em seu auge mesmo mais de 45 anos depois da estreia. Diferente de filmes que podem ser compreendidos no conforto de sua casa, este é dos que deve ser degustado no espaço sagrado do Cinema. Aliás, ele funciona tão bem nessas condições que assinaria uma petição para que fosse exibido eternamente em uma sala tombada pelo patrimônio da humanidade.
@@ -34010,7 +33441,6 @@ Por esses motivos não consigo deixar de considerar 2001 uma obra de arte que pu
 
 # O Grande Golpe
 date: 2013-10-24
-slug: o_grande_golpe
 tags: cinema movies
 
 A partir da apresentação dos personagens de O Grande Golpe, o diretor Stanley Kubrick vai aos poucos revelando que a "operação" em torno da qual gira o filme está muito bem arquitetada e vem sendo planejada cuidadosamente por todas as partes envolvidas: um tira corrupto, um apostador de cavalos, um barman, um caixa do guichê de apostas, entre tantos outros.
@@ -34027,7 +33457,6 @@ Um exercício de estilo, tanto na direção quanto no roteiro. Divertido do come
 
 # Os Suspeitos (Denis Villeneuve, 2013)
 date: 2013-10-25
-slug: os_suspeitos_2013
 tags: cinema movies
 
 O cansaço, desânimo e um envolvimento ilimitado na busca de duas meninas desaparecidas é o que forma a base de Os Suspeitos, mantida todo o tempo por três pilares fundamentais: o detetive e o pai incansáveis formam dois deles; a direção impecável de Denis Villeneuve (do excelente "Incêndios") no desenvolvimento da trama forma o terceiro.
@@ -34074,7 +33503,6 @@ Mesmo a parte de lição de moral com história de amor se tornando o lado mais 
 
 # Era uma Vez em Tóquio
 date: 2013-10-31
-slug: era_uma_vez_em_toquio
 tags: cinema movies
 
 Tokyo Story, ou Era Uma Vez em Tóquio, como seus títulos ocidentais sugerem, é um conto, que se constrói no Japão pós-guerra e faz uma dura crítica à sociedade ocidentalista da época, mas como todo grande filme se torna atual mesmo 50 anos depois pelas suas mensagens eternas sobre vida e família.
@@ -34098,7 +33526,6 @@ E nisso entra Hanami, uma reencarnação mais jovem e artística. Hanami é obvi
 
 # A Morte lhe Cai Bem
 date: 2013-11-02
-slug: a_morte_lhe_cai_bem
 tags: cinema movies
 
 Comédia da sessão da tarde feita nos anos 90, era um filme engraçadinho com efeitos visuais de espantar. Hoje se transformou em uma surpreendente crítica aos cosméticos e uma direção extremamente inspirada de Robert Zemeckis ("O Voo"), que já naquela época prezava pelo controle e expressão do tom do filme através dos nada sutis enquadramentos.
@@ -34127,7 +33554,6 @@ Por tudo isso, "South Park - maior, melhor e sem cortes" é imperdível. Quem pe
 
 # Ponto Flutuante Afundando
 date: 2013-11-07
-slug: ponto_flutuante_afundando
 tags: computer blog
 
 Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 ("até a Calc do Windows" (2026-03-28 link quebrado) e "o Excel" funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
@@ -34251,7 +33677,6 @@ Mesmo assim, há um momento de "redenção" para o espectador em um novo reencon
 
 # A Conversação
 date: 2013-11-16
-slug: a_conversacao
 tags: cinema movies
 
 Geralmente quando o Cinema se volta para si mesmo (rendendo boa parte das vezes filmes memoráveis) ele nunca pensa em descrever como o som é importante. Direção, atores, fotografia, trilha sonora, tudo isso parece relevante para o público médio. Mas o som, esse pobre coitado, é renegado à posição de "quanto mais invisível, melhor".
@@ -34266,7 +33691,6 @@ Sua vida parecia inerte por anos, até que suas dúvidas a respeito das consequ�
 
 # Antes Só do que Mal Acompanhado
 date: 2013-11-16
-slug: antes_so_do_que_mal_acompanhado
 tags: cinema movies
 
 Filmes do John Hughes animavam a sessão da tarde com suas comédias fáceis e leves, mas sempre escondiam uma sub-trama sutil que, revisitada, constituía o conteúdo que o torna tão imortal. Em "Antes Só do Que Mal Acompanhado" é a amizade, empatia, compaixão, ou tudo isso junto, que forma a base da narrativa tão coesa da história de um homem tentando voltar para casa e sua família em um momento especial. O que ele encontra pelo caminho é um pacote de infortúnios, embalado por um estranho que cai em sua vida de para-quedas e não consegue mais sair desde então. Quais são as mensagens que esse estranho tem sobre todos esses sentimentos que citei no início?
@@ -34309,7 +33733,6 @@ O fato de alguém ganhar muito dinheiro o torna um gênio do dia para a noite? T
 
 # Speed Racer
 date: 2013-11-28
-slug: speed_racer
 tags: cinema movies
 
 Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeogames: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.
@@ -34346,7 +33769,6 @@ O que "Bolt" procura todo o tempo e na maioria das vezes consegue é comparar no
 
 # Missão Madrinha de Casamento
 date: 2013-12-14
-slug: missao_madrinha_de_casamento
 tags: cinema movies
 
 Bridesmaids poderia ser citado na cinematografia atual apenas por ser uma comédia romântica que tem o foco unicamente nas mulheres e em seu universo feminino. Não há em seu núcleo a busca pelo marido perfeito, pois nossa protagonista não é aquela mocinha inocente que costuma aparecer nesses filmes (e, francamente, depois dos 21 anos seria forçar demais a barra acreditar que uma mulher dessas existiria hoje em dia salvo produções da Disney, como o próprio longa ironiza). No entanto, ser diferente é o que menos importa quando o resultado final é tão bem explorado e conduzido, tornando-o também o filme que dá esperanças a esse gênero tão batido e surrado.
@@ -34411,7 +33833,6 @@ Construindo sua narrativa entre sombras e um céu acinzentado com uma fotografia
 
 # Um Lugar Qualquer
 date: 2013-12-25
-slug: um_lugar_qualquer
 tags: cinema movies
 
 A rotina "solitária" do playboy/ator Johnny Marco (Stephen Dorff), cercado de tietes por todos os lados, mas que não abre mão de uma sessão privada de pole dance protagonizada por gêmeas, e a mudança que vai ocorrendo conforme sua filha Cleo (Elle Fanning) vai participando cada vez mais de sua vida, é mostrada pela lente humanamente aguçada de Sofia Coppola (Encontros e Desencontros), o que dispensa muitos diálogos.
@@ -34428,7 +33849,6 @@ Walter Mitty, que vive no mundo da lua imaginando situações impossíveis onde 
 
 # Contato
 date: 2013-12-29
-slug: contato
 tags: cinema movies
 
 Adoro o livro que Carl Sagan escreveu imaginando como seria, em um mundo realista e atual, nossa primeira comunicação com uma civilização extraterrestre. Ele não apenas fez isso como abriu um pouco mais nosso leque filosófico ao ensaiar uma explicação que unisse ciência e religião, matemática e sentimentos.
@@ -34467,7 +33887,6 @@ tags: cinema movies
 
 # Bling Ring: A Gangue de Hollywood
 date: 2014-01-02
-slug: bling_ring_a_gangue_de_hollywood
 tags: cinema movies
 
 O mundo é materialista e não há nada de errado nisso. Somos feitos de matéria e a matéria circula por nossos poros. Não há nada mais que matéria, ainda que esforços descomunais da mente tentem imaginar algo mágico saindo por detrás de nossas cabeças. Entre esses esforços, a tal da "fama".
@@ -34504,7 +33923,6 @@ Outro excelente motivo para assistir Frozen em 3D, apesar de bem aproveitado, ne
 
 # Invasores
 date: 2014-01-11
-slug: invasores
 tags: cinema movies
 
 Esse roteiro é tão bom que costuma ser produzido de 20 em 20 anos para montar uma alegoria da sociedade de sua época. Esse remake mais novo com Nicole Kidman e Daniel Craig é a terceira encarnação do romance de Jack Finney para a telona. A história dos humanos zumbificados e coletivizados a partir da recodificação do seu DNA pode representar ecos de um mundo pós-conflito com o Oriente Médio e/ou nações asiáticas, onde o grupo é mais forte que o indivíduo, desde que não seja o líder. Note que não há líderes entre os invasores alienígenas e vai perceber que essa minha viagem pode ter fundamento. Além, é claro, da questão sobre a paz mundial.
@@ -34571,7 +33989,6 @@ A lentidão com que as mudanças do longa vão ocorrendo, além de sua trilha so
 
 # Natureza Quase Humana
 date: 2014-01-19
-slug: natureza_quase_humana
 tags: cinema movies
 
 Os roteiros de Charlie Kaufman (Adaptação, Quero ser John Malkovich) dirigidos por Michel Gondry (Brilho Eterno de uma Mente sem Lembrança) nunca parecem deixar de explorar a fundo seus temas. Aqui o formato de testemunho com flashbacks é essencial para compreendermos a real dimensão dos relacionamentos entre os quatro personagens, inclusive o que morreu no processo, nessa comédia absurda que flerta com a natureza instintiva e animalesca do ser humano em detrimento a rígidas e, muitas vezes, sem sentido, regras de etiqueta e convívio social.
@@ -34592,7 +34009,6 @@ O filme perde fôlego ao tentar diminuir cada vez mais a barreira sonho/realidad
 
 # remove_if até remove, só que diferente
 date: 2014-01-21
-slug: remove_if
 tags: computer blog
 
 A surpresa de hoje foi descobrir (vejam só) que o remove_if, como todo algoritmo da STL, deve ser olhado de perto antes de usado. Nesse caso em específico porque, apesar do nome, a função NÃO remove elementos, mas os sobrescreve.
@@ -34773,7 +34189,6 @@ Pecando apenas por não resolver satisfatoriamente os dilemas pessoais de ambos 
 
 # Preso na Escuridão (Alejandro Amenábar, 1997)
 date: 2014-01-29
-slug: preso_na_escuridao
 tags: cinema movies
 
 Acabei de ver o original de Vanilla Sky, aquele com o Tom Cruise correndo como um louco. Uma produção espanhola/italiana/francesa, o filme de 1997 conta também com a participação de Penélope Cruz como Sofia, mas diferente do tom experimental em 2001 dado pelo diretor Cameron Crowe (Jerry Maguire - A Grande Virada), a direção madura de Alejandro Amenábar (Os Outros), por incrível que pareça, transforma completamente a narrativa de dois filmes que foram filmados praticamente quadro a quadro.
@@ -34814,7 +34229,6 @@ Um filme vendido como terror, mas que não consegue sequer chegar próximo de um
 
 # Malena
 date: 2014-02-05
-slug: malena
 tags: cinema movies
 
 Não é preciso tornar a mulher uma vítima da sociedade para fazer uma crítica social, mas o diretor de Cinema Paradiso o faz com tanta paixão pelo lúdico, pelo erótico e pelo que significa ser italiano, essa cultura controversa com traços que trazem um misto de vergonha e identidade, que Malena vira um hino sobre a impotência de indivíduos frente à pressão da massa, seja político ou social. E tudo através dos olhos de um garoto sem ele perceber o que isso significa. Ou pelo menos a esperança do longa é que no final ele saiba pelo quê essa mulher passou.
@@ -34827,7 +34241,6 @@ Por fim, é impossível desassociar a narrativa da belíssima trilha composta po
 
 # O Grande Lebowski
 date: 2014-02-07
-slug: o_grande_lebowski
 tags: cinema movies
 
 Um filme é basicamente contar uma história. A forma como você conta é que pode fazer toda a diferença entre um pedaço inútil de película (ou bits) ou um grande filme que, faça rir, faça chorar, mas, principalmente, faça pensar.
@@ -34967,7 +34380,6 @@ Pelo menos até que nossa visão moral durma com a consciência tranquila.
 
 # Houaiss para Babylon em Python!
 date: 2014-02-27
-slug: houaiss_para_babylon_python
 tags: computer projects blog
 
 O "Fabio Montefuscolo" expandiu mais ainda o acesso do conversor Houaiss para Babylon implementando uma versão em Python, uma linguagem que estou aprendendo a adorar. Tudo é mais simples, rápido e direto em Python, e o código que ele escreveu utiliza todo esse potencial:
@@ -35037,7 +34449,6 @@ Infelizmente, as referências usadas nas gags são quase sempre regionais (e ada
 
 # O Equilibrista
 date: 2014-03-02
-slug: o_equilibrista
 tags: cinema movies
 
 O Equilibrista é um trabalho fascinante de documentário porque explora de diversas maneiras o uso da câmera, montagem e roteiro para conseguir trazer a atenção do espectador no seu máximo em torno de um projeto que poderia muito bem virar uma reportagem sem graça de cinco minutos em um telejornal qualquer.
@@ -35048,7 +34459,6 @@ Por fim, o longa se beneficia imensamente pela nostalgia e simbolismo que cercam
 
 # O Estranho Mundo de Jack
 date: 2014-03-02
-slug: o_estranho_mundo_de_jack
 tags: cinema movies
 
 O diretor Henry Selick já tem seu lugar de destaque nas animações por produzir com sua equipe trabalhos com tanto esmero quanto Coraline e o Mundo Secreto e este O Estranho Mundo de Jack. Bancado por Tim Burton, cujos projetos góticos possuem total similaridade com ambos os filmes, Selick em 93 já investia no que seria quase que um renascimento da arte stop-motion nos cinemas, de onde surgiriam ótimos trabalhos como A Noiva-Cadáver (esse sim dirigido por Tim Burton) e atingiria seu ápice em Mary e Max (Adam Elliot, 2009).
@@ -35067,7 +34477,6 @@ Ainda assim, o roteiro de Dale Zawada estabelece momentos divertidos e inocentes
 
 # Uma Aventura Lego
 date: 2014-03-03
-slug: uma_aventura_lego
 tags: cinema movies
 
 Eis um filme que constrói sua história em um universo de bonecos e peças montáveis que juntos somam todos os clichês possíveis e imagináveis do gênero aventura. Partindo dessa premissa tímida para um filme onde "Tudo é Incrível" talvez seja pretensioso demais, mas não para um ser cheio de sonhos, medos e desejos que se misturam para contar uma história jamais vista: a que sai da cabeça de uma criança.
@@ -35088,7 +34497,6 @@ O filme não deixa de entreter em nenhum momento, nem começa a soar bobo. Pelo 
 
 # Abutres
 date: 2014-03-04
-slug: abutres
 tags: cinema movies
 
 Filmes com Ricardo Darín (Um Conto Chinês, O Segredo dos Seus Olhos) já merecem uma visita. Já filmes do diretor Pablo Trapero (Elefante Branco), que infelizmente é mais realista do que pessimista, exigem uma preparação psicológica para a dor e a depressão que virão por causa da impotência de seus personagens ante uma situação intransponível. Ou, resumindo, como diria Capitão Nascimento: "o sistema é foda!".
@@ -35153,7 +34561,6 @@ Se a história já encanta, o mesmo pode-se dizer do design de produção e da c
 
 # O Exorcismo de Emily Rose
 date: 2014-03-08
-slug: o_exorcismo_de_emily_rose
 tags: cinema movies
 
 Se O Exorcista (William Friedkin, 1973) tivesse sido produzido nessa década perderia praticamente metade do seu brilho sobrenatural. Um filme faz muito mais sentido em sua época (o que não quer dizer que não possa ser apreciado pelas futuras gerações), e lá no passado as crenças e religiões ainda eram um ponto alto, sobretudo a cristã. Os últimos escândalos da igreja católica com certeza ajudaram a minar toda essa fé que leva ao medo, ao sacrifício e à dor. E o medo, desnecessário dizer, é o que move o terror.
@@ -35224,7 +34631,6 @@ Beneficiado por um roteiro que se preocupa com a resolução de todas as pontas,
 
 # Inside Llewyn Davis: Balada de um Homem Comum
 date: 2014-03-24
-slug: inside_llewyn_davis_balada_de_um_homem_comum
 tags: cinema movies miniviews fragments
 
 Se torna a partir da transformação em ficção do músico folk Dave Van Ronk um verdadeiro estudo de personagem. E a música folk, um narrador onisciente.
@@ -35245,7 +34651,6 @@ No entanto, há uma longa sequência que envolve um personagem inusitado no mar 
 
 # A moda agora é levar lambda na função
 date: 2014-03-28
-slug: lambda
 tags: computer ccpp blog
 
 A nova moda de programar C++ nos últimos anos com certeza é usar lambda. Mas, afinal, o que é lambda? Bom, pra começar, é um nome muito feio.
@@ -35403,7 +34808,6 @@ O resto da história segue um plágio (na melhor das intenções, espero) mais o
 
 # Lambda: o Retorno!
 date: 2014-04-08
-slug: lambda_2
 tags: computer blog
 
 Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sobre como C++ agora permite criar funções dentro de funções. Hoje vamos apenas falar que aquela construção bizarra que criamos fica ainda mais bizarra se precisarmos retornar alguma coisa dessa função ou usá-la mais de uma vez.
@@ -35461,7 +34865,6 @@ E, por falar em bom senso, é óbvio que não dá para esperar uma ficção cien
 
 # Madoka Magica
 date: 2014-04-14
-slug: madoka_magica
 tags: cinema animes
 
 A revisita a este animê que para mim ainda é meu favorito -- pela originalidade e pela fuga do lugar-comum e dos roteiros fáceis que a maioria das adaptações dos quadrinhos japoneses são submetidos -- foi feita em apenas uma noite. Mais de quatro horas depois posso reafirmar com convicção: é uma obra ousada para seu formato tanto em história quanto na direção/edição/arte. Desafia o espectador a esquecer os detalhes centrais de uma história que vai se abrindo muito lentamente, e sua força é sentida exatamente por esse cuidado em cada detalhe.
@@ -35893,7 +35296,6 @@ No final temos aquela velha perseguição em busca da pessoa amada que vemos em 
 
 # Uma Manhã Gloriosa
 date: 2014-04-19
-slug: uma_manha_gloriosa
 tags: cinema movies
 
 Uma Manhã Gloriosa é o tipo de filme que tem tudo para ser mais uma comédia romântica clichê com um final feliz e uma boa lição de moral. No entanto, a direção sempre presente de Roger Michell consegue, assim como em Um Lugar Chamado Notting Hill, transformar um roteiro trivial em uma empolgante experiência pelo mundo da mídia televisiva.
@@ -36040,7 +35442,6 @@ Bom, eu assisti, mas não lembro de muita coisa. Só que Capitão América estar
 
 # No Impact Man (Laura Gabbert, Justin Schein, 2009)
 date: 2014-04-27
-slug: no_impact_man
 tags: cinema movies
 
 Esse é daqueles documentários ecológicos que se baseia no escritor Colin Beavan e sua família, a esposa compradora compulsória Michelle Conlin e a pequena e inocente filha. Os três passarão um ano cuidando de suas vidas sem tentar causar qualquer impacto ambiental no meio de Nova York. Primeiramente, devo perguntar: o que seria um impacto ambiental para uma família dessas, e por quê?
@@ -36055,7 +35456,6 @@ Mesmo assim, em tempos de poluição e de catástrofes anunciadas, qualquer mens
 
 # Que geleia de mocotó
 date: 2014-04-29
-slug: code_jam_geleia_de_mocoto
 tags: computer blog
 
 A primeira bateria de problemas da segunda fase do Code Jam me mostrou o porquê do seu nome: meu cérebro ficou feito geleia (ha ha ha). Não consegui resolver nenhum problema a tempo, mas não culpo o C++, que passei a usar para essa fase. É burrice aliada a pressão. Duas horas e meia para entender um problema é o tipo de coisa que me deixa pensando mais no tempo do que no problema. Tenho que melhorar isso.
@@ -36219,7 +35619,6 @@ Os habitantes de Nova York já estão habituados a se apinharem educadamente atr
 
 # Poker Face
 date: 2014-05-06
-slug: poker_face
 tags: computer blog
 
 O segundo round da segunda fase do Code Jam passou nesse sábado. Disléxico que sou, consegui fazer apenas 8 pontos -- como todo mundo -- no teste small do problema B, que envolvia apenas dois loops aninhados (a versão large fica para outro post). Na verdade, estou aqui para expressar minha gratidão ao campeonato por ter aprendido mais uma bela lição vendo o código do primeiro colocado do primeiro round, vulgo Kaizero, um coreano que deu uma solução simples, rápida e prática para um problema de probabilidade tão error-prone que até os juízes do Google deram uma lambuja de alguns testes errados (sem contar que houve apenas a categoria small), e me fez pensar em quantas vezes pensamos em demasiado tentando encontrar a solução perfeita para algo que simplesmente... não precisa.
@@ -36385,7 +35784,6 @@ Tudo na vida é motivo de chacota para Monty Python. Se esse não é o verdadeir
 
 # Scarface
 date: 2014-05-10
-slug: scarface
 tags: cinema movies
 
 Scarface é um clássico instantâneo, desses que nasce um dia e já gera uma multidão de fãs. O mais novo seriado de sucesso, Breaking Bad, faz praticamente uma apologia ao filme de Brian de Palma. Porém, diferente de Walter White, Tony Montana já se mostra um bicho ruim desde a primeira cena, interrogado e acuado por americanos que precisam verificar quais dentre os milhares de cubanos que chegaram ao "país da liberdade" são criminosos. Tony se denomina um preso político, e fala horrores do regime e da figura de Fidel Castro. Sua revolta contra o comunismo encontrará uma rima poética em suas reclamações contra os capitalistas ambiciosos depois de um arco de quase três horas de duração ter se fechado.
@@ -36465,7 +35863,6 @@ Por tudo isso Holy Motors é passagem obrigatória dos cinéfilos. É um filme s
 
 # Estruturas VS Classes: fight!
 date: 2014-05-20
-slug: estruturas_vs_classes_fight
 tags: computer blog
 
 Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como class e um objeto declarado como struct. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave class para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:
@@ -36582,7 +35979,6 @@ Qual será a próxima batalha épica? Você escolhe!
 
 # Manhattan
 date: 2014-05-20
-slug: manhattan
 tags: cinema movies
 
 A fotografia e a música de Manhattan fazem todo o filme parecer uma poesia cinematográfica espontânea, quase uma vida alternativa dentro das telas, especificamente dentro daquela tela larga e de maneira magistral usada por Woody Allen e sua equipe para torná-la mágica independente da história que irá ser contada. A própria história começa com inúmeras tentativas de Isaac (Allen) iniciar seu livro com uma síntese sobre Nova York e sua decadência cultural que, ainda que inevitável, consegue nos fascinar.
@@ -36654,7 +36050,6 @@ Em determinado momento uma fala de Ken Watanabe resume Godzilla para os mais des
 
 # O Cheiro do Ralo
 date: 2014-05-31
-slug: o_cheiro_do_ralo
 tags: cinema movies
 
 O Cheiro do Ralo fala sobre trocas, ou melhor dizendo, sobre o valor das coisas. Coisas podem se resumir em objetos que possuíam ou não valor sentimental para as pessoas que a oferecem ao Sr. Lourenço (Selton Mello), para receber em troca o dinheiro que, pelo menos naquele momento, é mais valioso que o objeto em si.
@@ -36778,7 +36173,6 @@ Obs.: Com certeza deve existir uma centena de bibliotecas que implementam algo d
 
 # Computer Chess
 date: 2014-06-06
-slug: computer_chess
 tags: cinema movies
 
 Já virou um clichê cinematográfico: se vai fazer filme de xadrez, sua história tem que ser complexa. No caso de Computer Chess, essa complexidade nos personagens e em suas relações é complementada pelo fato de um filme de 2013 emular os anos 80 através de filmagens em preto e branco, com razão de aspecto quadrada e erros de edição. Um possível encontro de programadores entusiastas em um torneio disputado entre suas máquinas de fazer cálculo. A ideia é parecer um documentário, mas sua estrutura possui o tom ficcional, com cortes definidos e diálogos obviamente vindos de um roteiro. Vemos a câmera e o cameraman diversas vezes, o que obviamente já nos revela aquele ser um filme amador sobre um documentário sendo feito em um campeonato de programas de xadrez, o que com certeza dá o tom da complexidade que comentei.
@@ -36789,7 +36183,6 @@ O que torna Computer Chess um bom filme é sua capacidade de nos prender pelos p
 
 # Metrópolis
 date: 2014-06-06
-slug: metropolis
 tags: cinema movies
 
 Se algumas pessoas torcem o nariz ao ver filmes como "O Gabinete do Dr. Caligari" e Nosferatu, pois hoje soam caricatos, nada se pode dizer a respeito de Metrópolis, um épico da ficção científica dirigido e escrito por Fritz Lang e sua esposa em 1927. Os três são representantes clássicos do expressionismo alemão, um movimento artístico cujos movimentos dos personagens são exatamente o que vemos na tela: caricatos, exagerados, quase simbólicos. Para filmes mudos da época, um prato cheio para entreter e ainda capturar a essência das palavras que não saem da boca dos atores.
@@ -36838,7 +36231,6 @@ Conseguindo de fato transformar toda a experiência em uma espécie de vídeogam
 
 # Eles querem que a GINA vá embora
 date: 2014-06-11
-slug: gina
 tags: computer blog
 
 Fui convidado pela Fernanda Saraiva do programa de MVPs da Microsoft Brasil a falar sobre alguma história a respeito da evolução do Windows e como isso impactou minha experiência profissional. Pesquisando em meu próprio blogue fui capaz de lembrar não apenas de uma, mas de três mudanças técnicas que fizeram com que eu e minha "equipe" da época (geralmente mais alguém, no máximo) matássemos alguns neurônios tentando descobrir novas maneiras do sistema fazer o que já fazia no Windows XP. Irei compartilhar uma por vez no que tem sido o meu post semanal que eu apelidei carinhosamente de Post da Terça. Já faz mais de um mês que consigo publicar pelo menos na terça algo de novo, e espero manter esse ritmo.
@@ -36981,7 +36373,6 @@ O melhor terror sempre é o que existe em nossas vidas comuns e passáveis. Da r
 
 # Dando cabo do WinDbg
 date: 2014-06-18
-slug: windbg_cabo_serial
 tags: computer blog
 
 Na semana passada falei sobre a ideia de comentar algumas mudanças entre o Windows XP e o novo mundo Vista/7/8/ que fizeram com que adaptássemos algum código que obviamente não funcionaria mais. Falamos sobre a famigerada GINA (ou famiGINADA), e agora apenas vou comentar brevemente sobre o sistema de boot, que também mudou.
@@ -37034,7 +36425,6 @@ Porém, sejamos honestos: se OitNB quiser se comparar -- ou sequer referenciar -
 
 # Ender''s Game: O Jogo do Exterminador
 date: 2014-06-21
-slug: enders_game_o_jogo_do_exterminador
 tags: cinema movies
 
 Por que estão treinando crianças para guerrear contra um povo alienígena? Se já se passaram 50 anos, onde estão os jovens dessa geração? A função de Ender é explicada em mais da metade do filme, mas qual a função de todos os outros da equipe, e por que foram escolhidos? Todas essas perguntas podem permanecer sem resposta, pois "Ender's Game" é praticamente um folclore que tenta ensinar -- ou ao menos fazer pensar -- a respeito de nossa posição no mundo entre as diferentes espécies que ajudamos a ameaçar de extinção, o que gera uma última e fatal pergunta: onde está a ética que define a sobrevivência de qual espécie é a mais importante?
@@ -37049,7 +36439,6 @@ Observe a leveza, a pureza e a ingenuidade contidas na paleta de cores, nas silh
 
 # Se iterando com os pseudo-ponteiros: uma breve introdução
 date: 2014-06-24
-slug: se_iterando_com_os_pseudo_ponteiros_uma_breve_introducao
 tags: computer blog
 
 Como já vimos algumas vezes, a STL não prima por interfaces intuitivas, preferindo abstrações que criem um leque de ferramentas genéricas para tratamento uniformizado de coleções de dados através de algoritmos. O problema disso é que novos programadores da linguagem terão que aprender uma maneira nova de lidar com problemas baseada na percepção dos criadores do padrão na época em que foi lançado de como seria a evolução da ciência da computação nos próximos anos. Muitos dos conceitos ali abordados realmente se tornaram padrão de facto, mas na briga pela expansão da linguagem quem perdeu por muito tempo foi o próprio desenvolvedor, que teve que se contentar com uma lista de algoritmos genéricos parcialmente compilado.
@@ -37116,7 +36505,6 @@ Da mesma forma, operações como cópia, movimentação, ordenação, caotizaç�
 
 # Introdução à Introdução à Computação (Larry Gonick, 1984)
 date: 2014-07-01
-slug: introducao_a_computacao
 tags: books computer blog
 
 O livro começa lá nos primórdios da informação, antes mesmo da humanidade. Sim, pois informação não necessita sequer de um ser sensciente para ser transmitida e utilizada, como já foi comprovado através de nosso código genético, o agora-popular-por-causa-do-ratinho DNA. Uma informação codificada intrinsecamente no processo de reprodução das células de um ser vivo. Um computador orgânico!
@@ -37138,7 +36526,6 @@ Sua Parte II, o espaguete lógico, acredito que seja o que mais interessa a nós
 # Sobre a BitForge
 date: 2014-07-03
 link: https://www.linkedin.com/company/671883/admin/dashboard/
-slug: bitforge
 tags: blog
 
 BitForge é minha empresa principal e onde eu trabalho resolvendo os problemas mais difíceis de computação; nos contrate para resolver seu problema "pelo Linkedin" ou enviando um email para wanderley.caloni@gmail.com. Conversar sobre seu projeto e até gastar uma horinha entendendo ele faz parte do nossa forma de se aproximar de você sem precisar da burocracia de um contrato ou pagamento de consultoria. Marque um café ou uma call conosco =)
@@ -37150,7 +36537,6 @@ Nosso foco é oferecer consultoria, suporte e desenvolvimento especializado para
 
 # TDC 2014
 date: 2014-07-08
-slug: tdc_2014
 tags: ccppbr blog
 
 O programador C/C++ de médio e baixo nível em Windows precisa estar familiarizado com as potencialidades de suas ferramentas de trabalho. Entre elas, o WinDbg é de longe o mais completo e complexo, além de ser quase desconhecido pela comunidade.
@@ -37173,7 +36559,6 @@ Então é isso. Garanta seu ingresso, faça networking, assista as palestras do 
 
 # TDC 2014: Segurança
 date: 2014-07-16
-slug: tdc_2014_seguranca
 tags: ccppbr blog
 
 Nesse TDC, além da minha palestra usual na trilha C/C++ irei participar da trilha de segurança, voltando às minhas origens, quando programava em empresas de segurança da informação. Foram 10 anos!
@@ -37187,7 +36572,6 @@ Então é isso aí, mais um dia, mais uma trilha, mais bits e bytes. Nos vemos p
 
 # Integrando BitBucket e GitHub com Trello
 date: 2014-07-22
-slug: bitbucket_github_trello
 tags: computer blog
 
 Eu nem acredito que estou escrevendo sobre desenvolvimento web, mas como foi algo que me fez dedicar algumas horas do meu fim-de-semana, e não encontrei facilmente uma solução já feita, acredito que pode ser útil para mais alguém que usa Trello e GitHub (ou BitBucket).
@@ -37352,7 +36736,6 @@ foreach( $bitData->commits as $c )
 
 # As Bicicletas de Belleville
 date: 2014-07-23
-slug: as_bicicletas_de_belleville
 tags: cinema movies
 
 Este não é um desenho convencional, nem pode-se dizer que é para crianças, pois possui momentos extremamente dramáticos e violentos. Porém, mesmo esses momentos conseguem ser nivelados ao surrealismo que permeia toda a película conduzida por Sylvain Chomet. Porém, não se sabe se esse nivelamento serve para eufemizar a triste realidade do cotidiano ou para celebrá-lo com todas as suas cores lúdicas de um tempo e de uma época eterna nas pinturas de arte.
@@ -37378,7 +36761,6 @@ Enfim, um pequeno if (ou dois) para o código, mas um grande deploy de soluçõe
 
 # Como não dar step into em todo código no Visual Studio 2012 e 2013
 date: 2014-08-01
-slug: avoid_step_into
 tags: computer blog
 
 Toda vez que instalo um Visual Studio novo e começo a depurar sempre surge a necessidade de fazê-lo calar a boca nos step intos da STL, Boost, ATL e coisas-que-sei-que-não-vai-dar-pau. (Obviamente, quando dá pau, preciso ir no disassembly e cutucar a STL para ela me entregar qual o problema com o meu contêiner.)
@@ -37464,7 +36846,6 @@ Fonte: "Andy Pennell's Blog" (2026-04-02 link quebrado)
 
 # TDC 2014 e a trilha de C/C++ com palestras para todos os gostos
 date: 2014-08-11
-slug: tdc_2014_ccppbr
 tags: ccppbr blog
 
 A trilha da nossa(s) linguagem(ns) querida(s) do coração(ões) desse ano foi bem heterogênea: Rodrigo Madera pegando na mão dos ainda não-iniciados na magia-negra da TMP; Fabio Gallupo audaciosamente rabiscando uma roupagem funcional para C++11 (e 14, e 17!); Felipe Lavratti abrindo o código do seu projeto para vermos como é possível organizar e modularizar bem um código em C (sem classes); eu me virando nos trinta sem slides explicando os três passos de geração de código C/C++ (dei impersonate na conta do Rodrigo Strauss); Fernando Roberto do DriverEntry mais uma vez nos impressionando com as gamb... adaptações técnicas Microsoftianas no Windows para fazer tudo funcionar sem o usuário perceber (só quando as coisas ficam azuis); Fernando Luiz Rizzato mostrando que a equipe ex-Borland continua mandando muito bem criando uma IDE de C++ que porta código para diversos dispositivos mobile; eu novamente jorrando um dump das minhas memórias de 10 anos depurando código com WinDbg e suas powertools; e, acreditem ou não, nossa primeirA palestrante amante de C contando sua experiência em diversos projetos em um stand-up animado movido a diversos gifs animados.
@@ -37475,7 +36856,6 @@ Foi bom estar de volta nesse evento tão importante para mantermos os diferentes
 
 # TDC 2014 e as trilhas de Segurança: o que é ser hacker?
 date: 2014-08-11
-slug: tdc_2014_hacker
 tags: ccppbr blog
 
 Tirando a palestra-propaganda de Welington Strutz, a trilha de segurança no TDC desse ano foi bem heterogênea e focou tanto na proteção quanto nos ataques possíveis da web. Infelizmente, para alguns participantes, a grande questão de hacking se resume a apenas invasão de saites, o que nem era de longe o intuito da rotulação "hacker" no início dos famosos ratos de computador, em um ambiente com pouca RAM, nenhuma Web e onde o poder de processamento mais pesado rodava nas mentes criativas desses pequenos gênios da informática.
@@ -37526,7 +36906,6 @@ Finalizando com algo mais ou menos delineado pelo que seu fraco roteiro já apre
 
 # Shareando Ponteiros
 date: 2014-09-03
-slug: smart_shared_pointers
 tags: computer blog
 
 Apesar de já ter palestrado algumas vezes sobre Boost e STL, acho que eu nunca escrevi muito sobre esses assuntos no blogue. Acho que o tamanho dessas bibliotecas assusta um pouco. Mas temos que começar de algum lugar, certo? E já que é pra começar, eu gostaria muito de saber de você, programador miserável, que passou poucas e boas nesses 10 anos de padrão 98 brincando com templates quando eles ainda estavam em beta: se fosse para melhorar um aspecto da sua vida de código, qual seria? Qual é aquela coisa que te atormenta como insetos vidrados no seu monitor noite adentro?
@@ -37771,7 +37150,6 @@ E é isso. A lição de hoje é: quem quer, arruma um jeito. Quem não quer, uma
 
 # A Garota Ideal
 date: 2014-09-07
-slug: a_garota_ideal
 tags: cinema movies
 
 Vendido como comédia, esse filme é sobre um rapaz com problemas para se socializar (Ryan Gosling) após a morte do pai e que resolve comprar uma boneca pela internet (você sabe, "aquela" boneca) e tratá-la como sua namorada na frente de seu irmão e esposa e para toda a cidadezinha onde moram. Nada é forçado, exceto a reação praticamente positiva de todos os habitantes da cidadela, que gosta de um rapaz ausente da vida em comunidade exceto pelas missas na igreja e as idas e vindas do trabalho.
@@ -37784,7 +37162,6 @@ Por fim, este filme não seria metade do que é sem um elenco curiosamente compe
 
 # Kung-Fu Futebol Clube
 date: 2014-09-07
-slug: kung_fu_futebol_clube
 tags: cinema movies
 
 Shaolin Soccer é uma "versão beta" do hilário Kung-Fusão, mas é muito mais coerente em sua proposta de usar o Kung-Fu como uma forma de todas as pessoas melhorarem o que quer que façam no dia-a-dia através dessa arte milenar chinesa. Coerente, mas não menos confusa: apresentando personagens de maneira mais ou menos aleatória, e com o desafio de montar um time de futebol com personagens obviamente simplistas (o gordo, o fumante, o magro, etc), os únicos que possuem um pouco mais de polimento no roteiro são as versões original e nova da lenda conhecida como "Pé de Ouro": pernas dotadas de uma força descomunal que chutam bolas (e qualquer outra coisa) com força desproporcionalmente absurda. (Ah, sim, claro, e o interesse amoroso do herói.)
@@ -37797,7 +37174,6 @@ O resto basicamente são lutas coreografadas e animadas com efeitos visuais inte
 
 # Bem-Vindo a Nova York
 date: 2014-09-11
-slug: bem_vindo_a_nova_york
 tags: cinema movies
 
 Devereaux, o personagem de Gérard Depardieu em mais um papel memorável, é um intelectual que está no topo da cadeia do mercado financeiro e que ainda é casado com uma esposa bilionária. Por onde passa espalha admiração. É um senhor fisicamente grande e desengonçado, mas educado e cordial. Fora isso é um pervertido sexual que simplesmente não consegue se controlar diante de uma mulher, e é isso que abala completamente as estruturas sociais de sua vida bem-sucedida.
@@ -37820,7 +37196,6 @@ Ele pode ter seus momentos escrachados, como toda comédia, e deixar algumas pon
 
 # Superman II: A Aventura Continua
 date: 2014-09-13
-slug: superman_ii_a_aventura_continua
 tags: cinema movies
 
 Superman II teve complicações que começam lá na história do trabalho original. O diretor Richard Donner havia imaginado o final do primeiro como o início do segundo, e o clímax do segundo seria o final do primeiro. A versão original proposta por Donner foi quase totalmente refeita e lançada para Home Vídeo em 2006, uma vez que ele já havia filmado quase todas as cenas antes de ser demitido e ter seu lugar ocupado por Richar Lester (que refilmou todas as cenas).
@@ -37931,7 +37306,6 @@ O terceiro filme que vi é um trabalho da ótima Laís Bodanzky. Imagino o que W
 
 # Os Suspeitos (Bryan Singer, 1995)
 date: 2014-10-04
-slug: os_suspeitos
 tags: cinema movies
 
 Em 1995 Kevin Spacey entrou em uma dobradinha (favor ignorar "Epidemia") que virou clássica nos filmes de suspense e policiais. "Seven: Os Sete Crimes Capitais" remodelou o gênero de serial killer em uma conclusão que deixou muita gente filosofando por meses a fio (os mais fanáticos, como eu, até hoje). E Os Suspeitos ganhou a mesma fama (esse eu cheguei a ver no cinema, tinha acabado de completar 16 ou quase). Ambos são filmes em que o mal prevalece? Não necessariamente. Temos aí uma relativização assimétrica do mal. Os policiais nem sempre são bonzinhos. Por outro lado, os bandidos continuam maus, mas agora assumem o papel de justiceiros involuntários.
@@ -37956,7 +37330,6 @@ A melhor parte do trabalho desse grupo bem intencionado fica limitada justamente
 
 # Esqueceram de Mim
 date: 2014-10-13
-slug: esqueceram_de_mim
 tags: cinema movies
 
 Esse foi o primeiro filme que eu vi no cinema. Não me lembro de tê-lo revisto por inteiro depois (nem na televisão) e curiosamente me recordo quase que na íntegra toda sua divertida e poderosa narrativa (diferente de Superman III, que vi no cinema três anos depois). É o tipo de filme que adultos e crianças podem gostar, mas provavelmente será por motivos diferentes. Antes eu adorava pelas invenções que o jovem Macaulay Culkin criava quase que de maneira sobrenatural (afinal, um menino de oito anos não teria tanta criatividade, pensava, lá com os meus... dez anos). Agora eu adoro pela apresentação de seus personagens, sua história, seus cenários, sua trilha sonora, seus enquadramentos feitos sob medida. Tudo para acreditarmos que é possível que uma família esqueça um de seus filhos sozinho em casa enquanto parte para uma viagem em um lugar distante. No Natal.
@@ -37970,7 +37343,6 @@ Independente de ter envelhecido bem, filmes como esse lembram que envelhecemos j
 
 # Kill La Kill
 date: 2014-10-19
-slug: kill_la_kill
 tags: cinema animes
 
 "Não fazer sentido é com a gente!", repete a heroína Ryuko Matoi nos capítulos finais do anime Kill La Kill. Parte de sua inspiração vem de sua amiga inseparável Mako Mankanshoku, que muito provavelmente entraria em várias listas de personagens mais carismáticas, engraçadas e "sem sentido".
@@ -38018,7 +37390,6 @@ Muito obrigado ao Da Paz e a todos que colaboram e compartilham melhorias para e
 
 # Dexter - Sétima Temporada
 date: 2014-11-09
-slug: dexter_s07
 tags: cinema series
 
 Dexter Morgan é um ser humano buscando seu lugar no mundo. O fato dele ser um sociopata e um serial killer é o que torna sua história mais... profunda. No entanto, fora isso, somos como ele, procurando se encaixar em um mundo que muitas vezes não faz sentido.
@@ -38053,7 +37424,6 @@ Voltamos para o nível da quarta de uma vez. Uma senhora reabilitação!
 
 # Dexter - O Final
 date: 2014-11-09
-slug: dexter_s08_final
 tags: cinema series
 
 "Dexter Morgan é um ser humano buscando seu lugar no mundo." Essa frase inicial do meu texto sobre a sétima temporada foi minha conclusão a respeito de toda a série e as motivações de seu anti-herói, protagonizado de maneira extremamente competente por Michael C. Hall do começo ao fim. Para mim, portanto, essa ambição de Dexter seria a direção natural por onde o grand finale se nortearia, já que vimos até então tentativas -- muitas frustadas, mas em sua maioria não -- de um sociopata se encaixar na sociedade de uma forma a não machucar pessoas, ou pelo menos pessoas que não "mereçam" ser machucadas (isso depende do nível do politicamente correto de cada um).
@@ -38078,7 +37448,6 @@ Enfim, inconsistências em cima de inconsistências tornam "Dexter Season Finale
 
 # Los Angeles: Cidade Proibida
 date: 2014-11-09
-slug: la_confidential
 tags: cinema movies
 
 O que torna os personagens de L.A. Confidential (que se exploda o título nacional) tão bons é o fato deles serem críveis a ponto de acreditarmos em sua existência na vida real. Porém, a atmosfera apresentada pelo livro homônimo de James Ellroy não é de vida real. Então voltemos ao que faz desses personagens uma referência a ser seguida: eles são realistas e ainda conseguem existir em um filme noir ou um policial de décadas passadas (que é o que temos) sem soar piegas ou estilizados demais. Ou pior: ridicularizados pela situação. Aliás, ocorre justamente o contrário: suas "credenciais" do mundo real permitem que eles consigam atravessar a quarta parede mesmo que manchados de nanquim. São perfeitos para a história de corrupção da polícia de Los Angeles da época da lei seca que o filme pretende retratar.
@@ -38184,7 +37553,6 @@ Enfim, sabemos que o GCC é o laboratório para as últimas features de C++, mas
 
 # Gremlins
 date: 2014-11-27
-slug: gremlins
 tags: cinema movies
 
 É curioso como tudo em Gremlins é exagerado -- a vilã, o maluco, o cientista maluco -- e como essa atmosfera torna a existência desses bichinhos a menos perturbadora possível. De certa forma, é uma versão para crianças dos filmes de zumbi do George Romero, onde as pessoas têm menos personalidade e são menos vivas que as criaturas. Da mesma forma, há uma espécie de alegoria com produtos estrangeiros que hoje soa bem estranho (xenofobia a la Spielberg?). Outra coisa que impressiona são os efeitos não-digitais, que estão datados, mas ainda assim soam mais "reais" que aqueles jogos de computador (e suas continuações, thanks Marvel!) que estamos nos acostumando a ver na telona.
@@ -38355,7 +37723,6 @@ Efeitos não-digitais contribuem para uma experiência mais convincente, assim c
 
 # Kung Fu Panda
 date: 2014-12-14
-slug: kung_fu_panda
 tags: cinema movies
 
 Po é um panda, portanto gordo e lerdo. Ele vive em um vilarejo chinês em torno de uma montanha que hospeda os chamados cinco furiosos, mestres de kung fu que são animais que representam os diferentes estilos dessa arte marcial milenar: tigre, serpente, louva-deus, garça e macaco. Todos são aprendizes do mestre Shifu que, ironicamente também é um panda, mas uma espécie bem menor. Shifu, apesar de mestre, ainda é impulsivo e precisa dos conselhos de seu próprio mestre, uma tartaruga que parece ter vivido séculos. O orgulho de Shifu quando jovem o fez treinar um outro aprendiz que passou a usar suas habilidades pelo poder e não pelo conhecimento, desonrando o grande mestre e trazendo perigo para os inocentes habitantes do vilarejo, em sua maioria porcos e coelhos. Condenado a uma prisão de segurança máxima, sempre há o risco que ele busque vingança e consiga o segredo mais desejado por todos os lutadores: como se tornar o Dragão-Guerreiro, a escala máxima do kung fu e ambição de todos os aprendizes.
@@ -38368,7 +37735,6 @@ E a soma desses ingredientes, apesar de parecer uma bagunça, é o que torna o f
 
 # O Albergue
 date: 2014-12-15
-slug: o_albergue
 tags: cinema movies
 
 Este é um thriller que segue a cartilha básica do grupo de jovens descerebrados que entra em uma enrascada ao procurar prazer carnal no albergue de uma cidadezinha do Leste Europeu. O que eles não imaginavam -- nem teriam como, a não ser que você seja muito preconceituoso a respeito dessa região ex-comunista, portanto, esquecida e miserável -- é que boa parte da pequena cidade está envolvida em um esquema que alimenta o prazer sádico de ricaços em torturar pessoas; especialmente americanos (nem preciso dizer de onde vem os nossos amigos).
@@ -38379,7 +37745,6 @@ A conclusão da história é mais problemática, e força muito uma realidade j�
 
 # O Fabuloso Destino de Amélie Poulain
 date: 2014-12-16
-slug: amelie_poulain
 tags: cinema movies
 
 A edição em Blu-Ray dO Fabuloso Destino de Amélie Poulain é uma pequena jóia. A qualidade da imagem do filme é impresionante. Todos os detalhes que faz qualquer cinéfilo de carteiririnha vibrar estão lá: fotografia, direção de arte, trilha sonora. Com uma TV decente o Home Video pode te entregar (quase) a mesma sensação de ter participado de uma das sessões mágicas em que esse filme foi exibido.
@@ -38584,7 +37949,6 @@ Ao assistir ao re-Elsa & Fred, nota-se obviamente que as coisas parecem fora do 
 
 # Entendendo a Compilação
 date: 2015-01-04
-slug: entendendo_a_compilacao
 tags: computer ccpp
 
 Fiz alguns slides a pedido dos organizadores do TDC 2014, já que a palestra que ministrei com esse tema foi para ajudar meu amigo-sócio Rodrigo Strauss que não havia preparado nenhum slide a respeito. Felizmente eu já havia explicado alguns conceitos-chave para quem programa em C/C++ e precisa -- eu disse: PRECISA -- conhecer todo o passo-a-passo que leva o seu código-fonte a gerar um executável com código de máquina pronto para rodar.
@@ -38647,7 +38011,6 @@ Lembrado eternamente pela sequência em que o operário fica preso entre as engr
 
 # Marinheiro de Encomenda
 date: 2015-01-06
-slug: marinheiro_de_encomenda
 tags: cinema movies
 
 Esse filme, assim como Os Irmãos Cara-de-Pau, tem um ritmo que cozinha em fogo lento até uma sequência absurda e frenética (até para a época) envolvendo um acontecimento que muda todo o rumo da história. É difícil saber como toda ela foi criada: Buster Keaton é um especialista em trucagens cinematográficas, como já visto em Sherlock Jr. Porém, é impossível ficar impassível a tantos truques que além de impressionantes continuam colaborando com a narrativa.
@@ -38660,7 +38023,6 @@ De uma forma ou de outra, Buster Keaton tem alguma coisa em sua forma de fazer f
 
 # O Amor é Estranho
 date: 2015-01-06
-slug: o_amor_e_estranho
 tags: cinemaqui cinema movies
 
 Esse é um filme sabotado por sua própria doçura e leveza. E, mesmo assim, se não tivesse o seu final, poderíamos estar diante de um drama melancólico. Apesar de ter participações de outros personagens em pé de igualdade, a história principal gira em torno de George (Alfred Molina), Ben (John Lithgow) e o casamento dos dois: uma linda cerimônia que reuniu toda a família para celebrar uma união já existente há 40 anos. Infelizmente, ela é o estopim para os problemas que o casal terá que enfrentar.
@@ -38745,7 +38107,6 @@ O que é curioso no roteiro do estreante Bob Nelson é que mesmo cheio de coinci
 
 # O Mágico de Oz
 date: 2015-01-11
-slug: o_magico_de_oz
 tags: cinema movies
 
 Não dá para assistir a O Mágico de Oz e automaticamente não relacionar com Alice no País das Maravilhas já que a estrutura e muito provavelmente a ideia veio justamente do romance de Lewis Carroll. No entanto, ao relacionarmos também com o momento histórico dos EUA temos uma visão muito mais interessante. Uma crise financeira devastou o país por uma década e o filme estreia semanas antes da Segunda Grande Guerra oficialmente começar. Virou o símbolo de uma geração (além de ter uma belíssima música). Quando as pessoas perdem a esperança, é função do Cinema fazê-las as distrair com histórias fantasiosas, super-heróis impossíveis e viagens no espaço.
@@ -38758,7 +38119,6 @@ O filme se tornou um clássico americano, e foi um dos filmes mais assistidos e 
 
 # Por que o Visual Studio gera executáveis mutantes
 date: 2015-01-11
-slug: visual_studio_mutante
 tags: computer blog
 
 (Esse é um post antigo que encontrei no meio dos meus emails de 2006, mas que contém uma boa dica para quem já entendeu o passo-a-passo da compilação, mas ainda tem sérios problemas quando os projetos ficam gigantes.)
@@ -39087,7 +38447,6 @@ Att []'s..
 
 # The Babadook
 date: 2015-01-22
-slug: babadook
 tags: cinema movies
 
 É impressionante como tudo funciona em Babadook, e mais impressionante ainda sendo pertencente a um dos gêneros mais maltratados do Cinema atual no Ocidente: o Terror. Para tornar exponencial a minha surpresa, notei que a estrutura do filme é estupidamente simples e enxuta, se resumindo em pegar sua ótima premissa e desenvolvê-la ao máximo. Ainda é de brinde uma aula de Cinema.
@@ -39106,7 +38465,6 @@ E o porão, é claro, é onde residem nossas memórias. As boas, as más, e os m
 
 # Os Mercenários 3
 date: 2015-01-23
-slug: mercenarios_3
 tags: cinema movies
 
 A série Mercenários tem um objetivo bem claro e um público-alvo definido: os fãs dos filmes de ação dos anos 80, onde eu me incluo. Queremos ver esses caras de novo, de preferência todos juntos. Queremos a maior reunião de testosterona jamais feita. Queremos explosões, lutas e cenas de tirar o fôlego.
@@ -39125,7 +38483,6 @@ Mercenários 3 se torna um misto de emoções paradoxalmente opostas. Por um lad
 
 # Origem do Tipo char
 date: 2015-01-26
-slug: origem_do_tipo_char
 tags: computer ccpp blog
 
 Programadores C e C++, preparem-se para explodir as cabeças! No princípio... não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados srs. dos Laboratórios Bell, K. Thompson e "D. Ritchie", criaram uma linguagem chamada B. E B era bom.
@@ -39559,7 +38916,6 @@ PS: Não fique encucado com a cena final. Ela faz parte de uma lógica interna i
 
 # O Último Ato
 date: 2015-03-13
-slug: o_ultimo_ato
 tags: cinemaqui cinema movies
 
 Al Pacino é um dos grandes atores do nosso tempo e das décadas de ouro do Cinema norte-americano, com descobertas de grandes diretores como Francis Ford Coppola, Oliver Stone e Martin Scorsese. Esse fato não pode passar batido de O Último Ato, em que ele interpreta Simon Axler, um ator no início de sua decadência. Lá pelos seus 60 anos, Simon não consegue mais se lembrar de suas falas no palco e em uma crise nervosa se lança para a plateia, colocando um fim temporário em sua carreira.
@@ -39656,7 +39012,6 @@ Aliás, um blogue é o sinal de que os tempos estão mudando mais uma vez. Se be
 
 # O Profissional
 date: 2015-03-23
-slug: o_profissional
 tags: cinema movies
 
 Quando descobrimos que Luc Besson escreveu e dirigiu "Léon", ou O Profissional, é de ficar boquiaberto como o diretor perdeu a mão por tantos anos, acertando aqui e ali somente (Joana dArc é um ótimo exemplo).
@@ -39717,7 +39072,6 @@ Obviamente concluindo no formato dramalhão -- e ainda sugerindo um passado huma
 
 # Era Uma Vez na América
 date: 2015-04-02
-slug: era_uma_vez_na_america
 tags: cinema movies
 
 Esse é o filme que o diretor Sergio Leone escolheu fazer em vez da proposta da Paramount para que ele dirigisse O Poderoso Chefão. Baseado no romance The Hoods, de Harry Grey, ele tentou convencê-lo a filmar por muito tempo, até que Grey cedeu após assistir à Trilogia dos Dólares (e gostar). Ambos passaram mais de uma década conversando para que o diretor conseguisse entender o espírito norte-americano através dos olhos do escritor. A longa produção gerou seis horas de filmagens (já editadas) que foram recusadas pela produtora e viraram 4 horas e meia, que em sua versão para os EUA foi ironicamente mutilada em 139 minutos. Este texto diz respeito à versão lançada em Cannes, com 229 minutos de duração.
@@ -39764,7 +39118,6 @@ Especialmente quando temos um Happy Hour com pessoas mais que especiais =)
 
 # General
 date: 2015-04-07
-slug: general
 tags: cinema movies
 
 Esse é um dos filmes mais conhecidos de Buster Keaton. Talvez porque seja o mais movimentado. O filme todo é praticamente uma longa e tensa perseguição. A Guerra Civil estadunidense começa e o personagem de Keaton não foi aceito no alistamento por ser mais útil como engenheiro de trens. O que se prova cômico quando Keaton descobre um roubo do exército inimigo, vai persegui-los pela linha férrea e comete uma sequência de erros que constrói um misto de humor e tensão. A parte em que ele tenha disparar um velho canhão comprova a engenhosidade de ângulos, cortes e sequências que parecem inimagináveis para a década de 20, quanto o Cinema ainda estava engatinhando em seus conceitos.
@@ -39827,7 +39180,6 @@ Por fim, o humor controverso de Soderbergh consegue ainda amarrar as pontas sem 
 
 # Três Corações
 date: 2015-04-16
-slug: tres_coracoes
 tags: cinemaqui cinema movies
 
 Marc conheceu Sylvie por este ter perdido o trem e ela por ter ido comprar um cigarro. Marc perdeu a hora em seu segundo e último encontro. Marc então conhece Sophie coincidentemente no lugar onde trabalha, no interior da França. O fato de Sophie e Sylvie serem irmãs e melhores amigas é o único fato que torna toda a trama uma longa e fatalista sequência que persegue os personagens por anos de suas vidas.
@@ -39858,7 +39210,6 @@ Enfim: a questão que o filme coloca (ou não, isso não fica claro, e é um pon
 
 # Jogos Vorazes: A Esperança - Parte 1
 date: 2015-04-19
-slug: jogos_vorazes_a_esperanca_parte_1
 tags: cinema movies
 
 Jogos Vorazes é uma série de filmes que brinca com o conceito das aparências e como ela é muito mais importante atualmente do que como as coisas são. É dessa forma que os participantes de um reality show preferem abrir mão de suas personalidades para construir uma que garanta a vitória por parecer ser alguém que os possíveis fãs se identifiquem. É dessa forma também que o consumismo desenfreado leva as pessoas a comprar items puramente estéticos, como roupas de marca, maquiagem e operações no corpo. E, por fim, é dessa forma que governos populistas ganham a confiança e o respeito de milhões, preferindo gastar uma parcela irrisória do dinheiro delas mesmas em programas sociais como Bolsa Família, do que atacar o mal pela raiz (como diminuindo impostos para as camadas mais pobres, por exemplo).
@@ -40252,7 +39603,6 @@ E Mila Kunis, tão bela e tão vazia, não consegue extrair nada de sua Júpiter
 
 # As Aventuras de Tintim
 date: 2015-05-17
-slug: as_aventuras_de_tintim
 tags: cinema movies
 
 Quem diria que, no meio de tantos filmes de super-herói machões com frases de efeito e diferentes efeitos digitais para fazer você comer pipoca freneticamente, As Aventuras de Tintim seja o que possui o personagem mais maduro e o conflito mais adulto de todos?
@@ -40341,7 +39691,6 @@ Infelizmente, há um material prévio que teoricamente deve ser respeitado, e o 
 
 # Mad Max: Estrada da Fúria
 date: 2015-05-22
-slug: mad_max_estrada_da_furia
 tags: cinema movies
 
 Quando vi Kingsman estava convicto que qualquer filme de ação esse ano seria uma versão menor deste trabalho exemplar do que o uso da paródia com toques de realismo pode fazer. Até tomar coragem e ir conferir na telona esse novo Mad Max, que retorna aos anos 80 (ou 1979, estreia do original), mas mantém sua ideologia com um pé nos anos atuais enquanto realiza não só uma homenagem, mas uma redimensionada na série de filmes que estava já há algum tempo esquecida.
@@ -40376,7 +39725,6 @@ Um filme que faz rima com os mais sombrios Ex Machina, Transcendence e muitos ou
 
 # Depurando até o fim do mundo e de volta de novo: source server com GitHub
 date: 2015-05-26
-slug: depurando_ate_o_fim_do_mundo_e_de_volta_de_novo_source_server_com_github
 tags: computer blog
 
 Semana passada fiquei sabendo que o vídeo da "minha palestra" "Depurando até o fim do mundo" do TDC 2014 estava disponível online. Resolvi assistir para ver se aprendia alguma coisa. A despeito do palestrante não ser lá aquelas coisas, ele disse uma coisa interessante: com o Debugging Tools (WinDbg para os íntimos) seria possível além de indexar os símbolos (PDBs para os íntimos) usando o esquema de Symbol Server que a própria Microsoft adota: usar ferramentas do pacote para conseguir obter o fonte através de um símbolo indexado.
@@ -40406,7 +39754,6 @@ Um detalhe importante: o revno que será usado é o HEAD do repositório local. 
 
 # Mr. Vingança
 date: 2015-05-26
-slug: mr_vinganca
 tags: cinema movies
 
 A vingança vista em Old Boy, de Chan-wook Park, é o segundo filme do diretor sobre o tema. O primeiro, esse Mr. Vingança, é mais bruto. Não no sentido da violência ou da revelação final. Não há revelações finais, aliás (spoiler alert!), mas há duas metades de uma história: na primeira metade as pessoas e suas relações são escancaradas para que, na segunda metade, uma espiral sem fim de atos de vingança tome conta da tela. Muitas vezes o filme tenta soar apenas um pouco além do que ele verdadeiramente é, e por isso trai sua própria perfeição estética em troca de uma história muitas vezes sem rumo ou simbólica demais.
@@ -40419,7 +39766,6 @@ Cha Yeong-mi é interpretado por Doona Bae, a revelação de Cloud Atlas. Aqui e
 
 # Shaun, o Carneiro: O Filme
 date: 2015-06-01
-slug: shaun_o_carneiro
 tags: cinema movies
 
 Apesar de eficiente por oito anos em pequenos episódios de sete minutos, a série dos estúdios Aardman nunca se aventurou em um longa-metragem sobre um carneiro muito esperto, um cachorro e fazendeiro que lembram versões agrícolas de Wallace e Gromit, e um bando de ovelhas que esbanjam charme e bom humor. O resultado não é apenas um longo episódio como a série televisiva, mas um filme que se aproveita de homenagens e referências muitas antigas sobre o Cinema e o próprio universo sempre criativo desses personagens, onde o fato de serem miniaturas manipuladas em stop motion nunca é um empecilho para criar as mais hilárias sequências.
@@ -40466,7 +39812,6 @@ Com uma didática e moral "certinhas", permeada de politicamente correto e traç
 
 # Logs em serviços (e outras coisas)
 date: 2015-06-05
-slug: logs_em_servicos_e_outras_coisas
 tags: computer blog
 
 Já uso logs há muito tempo. Me lembro muito bem que quando programava em BASIC o "passou por aqui" já era útil. Depois de fazer muitas bibliotecas super-flexíveis de escrita em saídas diferentes, níveis configuráveis e uso do mais complexo ao mais banal, cheguei à seguinte conclusão:
@@ -40653,7 +39998,6 @@ Sem contar que o final se apresenta apenas 50% satisfatório. Porém, chegaram a
 
 # A Primeira Noite de um Homem
 date: 2015-06-16
-slug: a_primeira_noite_de_um_homem
 tags: cinema movies
 
 Esse é um filme que possui a alma dos anos 60. Quebra de convenções por todos os lados, e um cuidado especial na condução de uma... quem diria, comédia romântica, em tons sortidos; pelo menos o suficiente para que não encaremos os detalhes inseridos na trama apenas como engraçados, mas também dramáticos; e fiquemos apreensivos pelo destino de um dos heróis mais icônicos e irônicos do Cinema: Ben Braddock.
@@ -40672,7 +40016,6 @@ Com tudo de errado representado pelos "adultos" e a liberdade cantada e descrita
 
 # Ladrões de Bicicletas
 date: 2015-06-18
-slug: ladroes_de_bicicletas
 tags: cinema movies
 
 Ladrões de Bicicletas é um filme curto (menos de uma hora e meia) e antigo (da década de 40) e italiano. Porém, apesar dele ser curto ele é completo, apesar dele ser antigo ele é atual, e apesar dele ser italiano ele é, felizmente ou infelizmente, universal. Para os que se interessam por bobagens, foi um dos primeiros longa-metragens a ganhar um Oscar de Filme Estrangeiro, um título que não existia e era dado de vez em quando pela academia. Para os que se interessam pelo Cinema como arte, este filme virou um dos exemplos mais conhecidos do neo-realismo italiano, um estilo de fazer filmes que buscava refletir a realidade social da época, sendo filmado quase como um documentário. Tanto que os personagens não são nada especiais, podendo ser qualquer um na megalópole italiana naquela época pós-guerra.
@@ -40689,7 +40032,6 @@ E é com isso, com esse pressentimento, que o terceiro ato, infalível, ganha to
 
 # Kumiko, a Caçadora de Tesouros
 date: 2015-06-21
-slug: kumiko_a_cacadora_de_tesouros
 tags: cinema movies
 
 Kumiko é uma fábula criada a partir de uma história real (ou pelo menos levemente inspirada em uma pessoa). Embalando uma história impossível em torno de um outro filme sobre uma história impossível (e, este também, baseado em uma história real), Kumiko é uma experiência entusiasmada, embora na maioria das vezes, não tenha lá seus motivos.
@@ -41188,7 +40530,6 @@ Pecando talvez por simplificar a questão de homens lutando (e matando) juntos p
 
 # Lady Vingança
 date: 2015-07-14
-slug: lady_vinganca
 tags: cinema movies
 
 Lady Vingança é o terceiro filme de Chan-wook Park sobre... adivinha? Claro, a vingança, esse ato que já virou tema de filmes excelentes -- Kill Bill Vol 1 e 2, Old Boy, do próprio Chan-wook -- e outros igualmente admiráveis -- Mr. Vingança, primeiro do Chan-wook, Lady Snowblood, inspiração do Tarantino para Kill Bill. Tão ou mais estilizado que Old Boy, sua obra mais conhecida no ocidente, a narrativa de Lady Vingança possui a beleza da fluidez incessante e dos recortes cartunescos, mas ao mesmo tempo traz uma certa petulância em ser excessivamente complexo apenas pela capacidade de ser (o famoso "porque sim").
@@ -41243,7 +40584,6 @@ E como se não bastasse, seu desfecho, já nos letreiros finais, flerta fortemen
 
 # A Espuma dos Dias
 date: 2015-07-20
-slug: a_espuma_dos_dias
 tags: cinema movies
 
 Imagine que o mundo real foi invadido pela física (e a lógica) dos desenhos de animação no seu sentido mais bucólico. Onde a paixão é o suficiente para desenrolar qualquer novo relacionamento, e a dança é o suficiente para alterar as paredes de um quarto. Imagine, enfim, que estamos em um filme completamente tomado pelas loucuras inventivas de Michel Gondry.
@@ -41286,7 +40626,6 @@ Mas e os efeitos? Sim, eles são bons. Porém, vazios de significado, empalidece
 
 # O Conto da Princesa Kaguya
 date: 2015-07-26
-slug: o_conto_da_princesa_kaguya
 tags: cinema movies
 
 Uma aventura narrada por traços que revelam o que mais importa em seus personagens: o "eu" interior, ou seja, as expressões que os tornam tão únicos quanto complexos. Porém, nunca simplificados, mesmo se tratando de um conto. Aliado a isso, uma música de poucos toques usada nos momentos exatos transforma a experiência em uma imersão completa na moral milenar oriental. Em suma: um desenho imperdível para adultos (e talvez assustador para crianças, mas ainda assim arriscaria levá-las...).
@@ -41338,7 +40677,6 @@ A câmera do ator/diretor/roteirista Derek navega naturalmente, e as falas soam 
 
 # Family Guy
 date: 2015-07-28
-slug: family_guy
 tags: cinema series
 
 Depois de mais de 10 anos de sucesso, o sempre interessante Seth MacFarlane (Ted) insiste em piadas sobre eventos passados dos seus personagens, brincadeiras metalinguísticas e regionalismos durante quase todo o tempo. Talvez essa seja a eterna questão da série que já acumula treze temporadas e continua se autorreciclando em altos e baixos.
@@ -41347,7 +40685,6 @@ O fato de apelar para sexo, violência explícita e dark comedy apenas enfatiza 
 
 # Homem-Aranha
 date: 2015-07-28
-slug: homem_aranha
 tags: cinema movies
 
 Construído como um clássico fortemente inspirado em Super-Homem de Richard Donner, o debut de Sam Raimi peca por imitação enquanto acerta em todo o resto. "Com grande poder vem grandes responsabilidades" diz menos sobre o garoto picado por uma aranha e mais sobre o homem que o dirige.
@@ -41367,7 +40704,6 @@ Espero estar à altura do tema e do evento. De qualquer forma, sempre é bom fal
 
 # Louie
 date: 2015-07-28
-slug: louie
 tags: cinema series
 
 O comediante, diretor, roteirista, ator Louis C. K. já protagonizou diferentes shows de stand up comedy e é um veterano no assunto. Talvez veterano seja dizer pouco: o cara é simplesmente fodástico na arte do humor. É uma das referências do gênero, e após a morte do mestre (que deus não o tenha) George Carlin, talvez Louis seja o melhor comediante norte-americano da atualidade.
@@ -41378,7 +40714,6 @@ Bem, ainda bem que existem pessoas que arriscam nesse mundo, já que a primeira 
 
 # Regular Show
 date: 2015-07-28
-slug: regular_show
 tags: cinema series
 
 Regular Show consegue contar seus episódios em apenas dez minutos. Isso em uma história quase sempre dotada de uma criatividade sem limites onde figuras impossíveis surgem para completar as piadas com o toque final do absurdo necessário para arrematar histórias com esse tom. Confuso, mas é sempre assim.
@@ -41393,7 +40728,6 @@ E tudo isso em apenas dez minutos.
 
 # South Park
 date: 2015-07-28
-slug: south_park
 tags: cinema series
 
 Comecei assistindo essa animação já "decanária" (10 anos?) recentemente através das temporadas disponíveis na Netflix brasileira. O resultado foi um entusiasmo tão grande e egoísta que praticamente parei o meu ritmo frenético de filmes para reservar boa parte dos meus fins de semana e noites para ir até o último capítulo disponível da versão dublada em português. Posso dizer que aprendi muito sobre a vida, o mundo, a sociedade, e mim mesmo. Cada episódio polêmico me fazia ler os detalhes sórdidos através da Wikipedia, como o clássico Trapped in the Closed, que praticamente me obrigou a rever o "episódio de despedida" de Isaac Hayes em sua versão original, um recorte hilário de dublagens passadas do ator/cantor.
@@ -41538,7 +40872,6 @@ Com esse simples mecanismo que não gasta mais do que algumas chamadas de assemb
 
 # Homem de Ferro
 date: 2015-07-30
-slug: homem_de_ferro
 tags: cinema movies
 
 Pepper Potts (Gwyneth Paltrow) guarda o primeiro coração nuclear de Tony Stark (Robert Downey Jr.) como prova de que ele tem um coração. Ironicamente, o primeiro Homem de Ferro também prova que a franquia tinha coração e lógica em suas primeiras duas horas, estruturados de uma forma que jamais veríamos novamente nas novas aparições do gênio/bilionário/herói.
@@ -41629,7 +40962,6 @@ Ah, e temos o bônus da testudinha da Reese Witherspoon, que é a (spoiler?) mã
 
 # 1984 (o filme)
 date: 2015-08-11
-slug: 1984_filme
 tags: cinema movies
 
 O que é ser humano? Embora essa questão se torne vital nos últimos minutos de 1984, ela permeia toda a história desenvolvida visualmente no filme e que é pesadamente baseado na literatura clássica de George Orwell. Sua visão de "futuro" distópico, influenciada por uma guerra autoritária e desumana, se torna um tema grandioso demais para se justificar apenas como um "filme de política". É, antes de tudo, um filme sobre nossa própria existência.
@@ -41672,7 +41004,6 @@ Ainda assim, Nunca aos Domingos ganha alguns pontos por sua conclusão extremame
 
 # CCPPBRRio12
 date: 2015-08-16
-slug: ccppbrrio12
 tags: ccppbr
 
 Esse foi o segundo encontro do nosso grupo no Rio de Janeiro, Cidade Maravilhosa, Cidade do Bixcoito de Polvinho. E foi o primeiro encontro a ser exibido em streamming e gravado para o YouTube, graças ao suporte da RioSoft, uma organização que incentiva o mercado de desenvolvimento de software no Brasil, e onde foi realizado o evento.
@@ -42067,7 +41398,6 @@ Com uma conclusão que tenta abraçar o mundo, e se sai razoavelmente bem, Quand
 
 # Que Horas Ela Volta?
 date: 2015-09-15
-slug: que_horas_ela_volta
 tags: cinema movies
 
 "Que Horas Ela Volta" tem a virtude de conseguir se tornar um filme essencial para a discussão contemporânea e ao mesmo tempo se entregar a uma cartilha retrógrada que é usada a cada momento como combustível para uma esquerda brasileira (igualmente retrógrada) com sede de vingança e miopia de caráter.
@@ -42182,7 +41512,6 @@ E ainda que com uma mensagem buscando por caridade no final do filme pareça um 
 
 # Um Homem com uma Câmera
 date: 2015-09-21
-slug: man_with_a_movie_camera
 tags: cinema movies
 
 Man With a Movie Camera, ou "Chelovek S Kino-apparatom", provavelmente é o filme experimental mais conhecido pelos cinéfilos, talvez por ter sido recomendado e elogiado por críticos do mundo todo.
@@ -42441,7 +41770,6 @@ Nesse sentido, talvez a última cena, já nos créditos finais, demonstre não a
 
 # Ida
 date: 2015-10-08
-slug: ida
 tags: cinema movies
 
 O universo em torno de Ida torna a vida tão depressiva que até passar o resto dos dias em um convento não parece uma ideia tão ruim. Filmado em preto e branco, com uma tela praticamente quadrada e uma câmera que fica praticamente parada, a atmosfera é bela, lúdica e realista. Anna (Agata Trzebuchowska), a noviça, e Wanda (Agata Kulesza), a tia, fazem parte de um conjunto de planos-detalhes (quando a tela mostra apenas um close mais intimista) que capturam a essência do que está sendo mostrado. Interessante do começo ao fim.
@@ -42452,7 +41780,6 @@ Se desdobrando de maneira fascinante com uma série de acontecimentos nos últim
 
 # Eu Estava Justamente Pensando em Você (Sam Esmail, 2014)
 date: 2015-10-09
-slug: eu_estava_justamente_pensando_em_voc
 tags: cinemaqui cinema movies
 
 O amor está no ar, mas seus portadores estão com dúvidas existenciais, são espertos demais para senti-lo ou sofrem da doença do século: ansiedade.
@@ -42501,7 +41828,6 @@ A boa e a má notícia é que Peter Pan continua fiel à sua história. Talvez t
 
 # Eu Matei Minha Mãe
 date: 2015-10-16
-slug: eu_matei_minha_mae
 tags: cinema movies
 
 Xavier Dolan é um menino prodígio que desde os cinco anos atua e desde os vinte se envolve com direção e roteiro de seus filmes de temática adolescente com uma abordagem intensamente poética. Este seu primeiro filme, Eu Matei Minha Mãe, foi escrito por ele aos dezesseis anos e é parcialmente biográfico.
@@ -42702,7 +42028,6 @@ Procedimentos como esse devem ser uma coisa simples, não difícil. Programadore
 
 # Kung Fury
 date: 2015-10-29
-slug: kung_fury
 tags: cinema movies
 
 Este curta (média?) metragem mistura anos 80, raptors, cop-raptor, arcades, Hitler, hackerismo, gostosas medievais, lasers, Thor, Kung-Fu, viagem no tempo, uma profecia e esse é apenas o começo de uma salada que apela para o absurdo usando efeitos digitais grotescos que se tornam caricatos e conseguem manter pelo menos meia-hora de um sentimento de confusão, identificação e êxtase juvenil. Afinal de contas, em que universo paralelo você pensou que veria um dinossauro lutar contra uma água dourada nazista?
@@ -42946,7 +42271,6 @@ Porém, por mais que Kathy Bates personifique a "boa e velha" maldade da época 
 
 # American Horror Story - Freak Show
 date: 2015-11-28
-slug: american_horror_story_s04_freak_show
 tags: cinema series
 
 Acho que já disse que AHS não é uma série de terror no sentido convencional -- assustar pessoas -- mas muito pior do que isso: mostrar o horror implícito no ser humano, e ir às últimas consequências do que a violência de seres egoístas, mesquinhos, vaidosos, orgulhosos e invejosos consegue produzir. E o resultado impressona, mas impressiona muito mais a capacidade dessas pessoas de fazer o mal, quase como se o mal nem precisasse depender dessas pessoas para existir, como se fosse materializado e aparecesse diante de nossos olhos sob a forma de ação, representada pelo horror gráfico, mas com um significado muito maior do que chocar pelo ato em si. É a pessoa responsável pelo ato -- ou às vezes apenas a situação -- que chocam muito mais.
@@ -42991,7 +42315,6 @@ Usando a professora como uma guia técnica que possui uma moral deturpada -- ond
 
 # Desventuras em Série
 date: 2015-11-29
-slug: desventuras_em_serie
 tags: cinema movies
 
 Ninguém escuta as crianças. Essa é a premissa básica que torna possível toda a série de situações mortais em que três jovens órfãos ficam à mercê de um cruel parente distante em busca da herança dos afortunados Baudelaire.
@@ -43104,7 +42427,6 @@ Entregando os dados mais indiscutíveis a respeito do aumento de gás carbônico
 
 # Pixote: A Lei do Mais Fraco
 date: 2015-12-07
-slug: pixote_a_lei_do_mais_fraco
 tags: cinema movies
 
 O menino Fernando Ramos da Silva fez sua estreia no Cinema interpretando uma figura parecida com a realidade em que vivia: Pixote, um garoto que precisa cheirar cola para fugir da realidade em que vive.
@@ -43135,7 +42457,6 @@ Com pelo menos uma sequência memorável que envolve um velho, seu órgão sexua
 
 # Os Embalos de Sábado à Noite
 date: 2015-12-11
-slug: os_embalos_de_sabado_a_noite
 tags: cinema movies
 
 John Travolta nos apresenta Tony Manero, o rapaz pobre que trabalha em uma loja de tinta e vive com sua sempre esquentada família italiana. Tony é fã de Bruce Lee e, claro, Rocky Balboa e Al Pacino (que alguém diz que ele é parecido). Ele tem uma irmã mais jovem e um irmão mais velho, que para orgulho da família virou padre (sim, é uma família realmente italiana). Tony gosta mesmo é de preparar seu cabelo e sair pela noite com seus amigos. Eles vão à danceteria e é lá que ele mostra seu potencial como dançarino.
@@ -43172,7 +42493,6 @@ O roteiro do primeiro episódio, mais longo que os outros, consegue manter uma e
 
 # Os Reis do Ié-Ié-Ié
 date: 2015-12-12
-slug: os_reis_do_ieieie
 tags: cinema movies
 
 "Um filme é um documentário de sua época", dizia um crítico cujo nome não me recordo. No caso de "A Hard Day's Nigh", cinquenta anos depois, isso não poderia ser mais verdade.
@@ -43215,7 +42535,6 @@ Dirigido pelo televisivo Otto Bathurst, a fotografia lembra o de telejornais, e 
 
 # Black Mirror: Fifteen Million Merits (Euros Lyn, 2011)
 date: 2015-12-13
-slug: black_mirror_s01e02_fifteen_million_merits
 tags: cinema series
 
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
@@ -43344,7 +42663,6 @@ Se redimindo parcialmente em seu final dúbio, Tese Sobre um Homicídio tinha o 
 
 # A Viagem de Chihiro
 date: 2015-12-27
-slug: a_viagem_de_chihiro
 tags: cinema movies
 
 A Viagem de Chihiro é um passeio fantasioso sem ser infantil pelo mundo dos espíritos, onde a história importa menos do que o mundo criado para ela, tal qual um Senhor dos Anéis ou Star Wars.
@@ -43393,7 +42711,6 @@ Lento, pretensioso um pouco acima do que deveria, com uma trilha sonora irritant
 
 # Noivo Neurótico, Noiva Nervosa
 date: 2015-12-27
-slug: noivo_neurotico_noiva_nervosa
 tags: cinema movies
 
 Uma comédia romântica se faz pelos seus personagens, como eles interagem, o que fala, quais seus dramas, suas origens, seu crescimento e, principalmente, como se relacionam. Quanto mais reais mais eficiente se torna o filme. Portanto, quando Woody Allen realiza Annie Hall como uma homenagem a Diane Keaton e seu longo relacionamento juntos, a ênfase com que ele a coloca, e se coloca, em um processo de descobrir o que deu errado no romance entre eles é tão grande que a linguagem ultrapassa os limites dos diálogos e temos uma meta-exposição tão "Woody Allen", com a quebra da quarta parede e diversos outros artifícios narrativas, como visitas ao passado comentadas, e em contrapartida, uma participação tão "Diany Keaton" na leveza e naturalidade com que as histórias vão definindo essas duas pessoas, suas manias, suas neuroses e ambições, que a arte quebra sua quarta parede com a vida real e quando percebemos estamos assistindo a uma carta de amor entre um artista autêntico em suas discussões filosóficas sendo entregue publicamente para a pessoa com quem ele parece ter uma dívida de vida, e para quem parece estar pedindo desculpas por segurar seu enorme talento em sua mesquinhez e egocentrismo típicos desse judeu bem-humorado em seu próprio pessimismo.
@@ -43406,7 +42723,6 @@ Porém, este é um filme sobre Annie, contada sob o ponto de vista dele, e porta
 
 # Rede de Intrigas
 date: 2015-12-27
-slug: rede_de_intrigas
 tags: cinema movies
 
 Sidney Lumet é um gênio em pegar questões delicadas e profundas da nossa sociedade e inseri-las em histórias corriqueiras ou com uma roupagem 100% pessoal. É assim com os clássicos Um Dia de Cão e Serpico, e não seria diferente quando o tema agora é a TV como ferramenta de divulgação de notícias. Ou pelo menos essa era a ideia original.
@@ -43489,7 +42805,6 @@ O final trágico para Scarface acabou se tornando em um aviso e uma continuaçã
 
 # Cidade de Deus
 date: 2015-12-30
-slug: cidade_de_deus
 tags: cinema movies
 
 Nunca mais havia assistido Cidade de Deus depois de sua estreia no cinema, em 2002. Agora, treze anos depois e com 999 filmes no meu "currículo" de cinéfilo dedicado, escolhi esse filme para fazer o que meu amigo chamou de "Pelé das reviews". Portanto, esse é meu filme número 1000 do Cine Tênis Verde.
@@ -43644,7 +42959,6 @@ Como sempre com uma fotografia, direção de arte e efeitos invejáveis nas prod
 
 # Alvin e os Esquilos: Na Estrada
 date: 2016-01-10
-slug: alvin_e_os_esquilos_na_estrada
 tags: cinema movies
 
 Como sempre uma boa ideia desperdiçada, a série dos esquilos cantores vai de mal a pior, restando quase apenas seus protagonistas encantadores e coreografias vazias, o que não basta para tornar um filme bom. Consegue no máximo defesas do tipo "mas eles são tão fofinhos" e "as cenas deles cantando são tão boas".
@@ -43657,7 +42971,6 @@ Por fim, é triste constatar que, apesar de tantas falhas, os esquilos continuam
 
 # Classe, objeto, contexto
 date: 2016-01-10
-slug: classe_objeto_contexto
 tags: computer ccpp blog
 
 Para entender conceitos simples em C++, como métodos de uma classe, ajuda muito seguir o raciocínio dos programadores C e como eles lidavam com o tipo de problema que C++ resolve elegantemente implementando um novo compilador com uma nova linguagem.
@@ -43735,7 +43048,6 @@ Em um próximo post vamos ver como fazer para chamar MeuOutroMetodo a partir de 
 
 # Classe, objeto, contexto, método
 date: 2016-01-11
-slug: classe_objeto_contexto_metodo
 tags: computer ccpp blog
 
 No post anterior falamos como a passagem de um endereço de uma struct consegue nos passar o contexto de um "objeto", seja em C (manualmente) ou em C++ (automagicamente pelo operador implícito this). Trocamos uma propriedade desse "objeto" em C, mas ainda não chamamos um método.
@@ -43820,7 +43132,6 @@ Mas esse é assunto para outro post.
 
 # O Terceiro Homem
 date: 2016-01-11
-slug: o_terceiro_homem
 tags: cinema movies
 
 Um filme com uma trilha sonora leve e temática, e enquadramentos tortos que lembram que algo está errado. E está, mesmo: Viena está tomada por quatros povos diferentes, cada um fala um idioma, e o povo local fala alemão. Escambos perigosos no mercado negro estão por toda a parte. A atmosfera de O Terceiro Homem é densa, e seus acontecimentos precisos, cirúrgicos. É daqueles raros filmes que não se pode arriscar remover um momento ou expressão sequer. E muito menos uma das inúmeras câmeras tombadas.
@@ -43835,7 +43146,6 @@ Concluindo com uma sequência fabulosa debaixo das ruas de Viena, O Terceiro Hom
 
 # Classe, objeto, contexto, método, polimorfismo
 date: 2016-01-12
-slug: classe_objeto_contexto_metodo_polimorfismo
 tags: computer ccpp blog
 
 No post anterior implementamos "métodos" em C usando ponteiros de função dentro de structs que eram passadas como parâmetro. Tudo isso embutido por um compilador que gera o que chamamos de instância de uma classe, ou objeto, em C++. Isso é possível graças ao contexto que é passado para uma função (que no caso de C++ é o operador implícito this, que sempre existe dentro de um método não-estático).
@@ -43982,7 +43292,6 @@ Com efeitos visuais que impressionam, mas estão contidos o suficiente para não
 
 # Gabaritos
 date: 2016-01-13
-slug: gabaritos
 tags: computer ccpp blog
 
 Um template -- ou, como é na tradução da primeira edição de The C++ Programming Language, de Bjarne Stroustrup, aqui no Brasil: gabarito -- é um molde que pode ser usado por diferentes tipos para traduzir o mesmo algoritmo, ou pelo menos a mesma intenção de algoritmo (por pela sobrecarga de operadores é possível que o comportamento de tipos diferentes pode ser diferente).
@@ -44046,7 +43355,6 @@ Ganhando pontos pelos detalhes -- como quando Adam usa azeite para enfeitar um p
 
 # Templates em C no lugar de macros
 date: 2016-01-14
-slug: templates_em_c
 tags: computer blog
 
 A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizmente, eles não existem na linguagem C, mas podem ser usados em construções C feitas com a linguagem C++, como ocorre com quem desenvolve device drivers para Windows.
@@ -44239,7 +43547,6 @@ Por enquanto, resta seguir se informando sobre como o projeto do bitcoin vai evo
 
 # Lawrence da Arábia
 date: 2016-01-18
-slug: lawrence_da_arabia
 tags: cinema movies
 
 Nota: O filme que estou me referindo é a versão restaurada por Robert A. Harris com a supervisão do diretor David Lean, em 1989. Ela exclui alguns diálogos e, se formos considerar o tamanho da versão original, creio que podemos descartar as menores diferenças entre as duas. Além disso, essa versão também recebeu um tratamento de restauração para ser lançada em DVD em 2000 por Martin Scorsese e Steven Spielberg. Scorsese, como se sabe, é um ávido militante pela restauração de obras clássicas do Cinema e mantém um acervo digital inestimável.
@@ -44389,7 +43696,6 @@ Como já havia dito no artigo original sobre o logview, você pode criar seu pr�
 
 # M, O Vampiro de Dusseldorf
 date: 2016-01-21
-slug: m_o_vampiro_de_dusseldorf
 tags: cinema movies
 
 Esse é um filme que explora a moral de um assassino de uma maneira tão absurda e dúbia quanto seus momentos cômicos. O expressionismo de Fritz Lang (e o alemão) colaboram para um filme hoje engraçado em alguns momentos, quando uma pessoa segura um fósforo aceso na mão à espera de uma resposta, mas hipertensos em outros, quando os argumentos de um inesperado advogado de defesa revelam uma relativização perigosa da ação e liberdade humanas, e uma discussão sobre direitos igualmente fascinante.
@@ -44422,7 +43728,6 @@ Tendo talvez a gota d'água em uma ou duas referências nada sutis a Superman (s
 
 # Exportando repositórios antigos do Bazaar para Git
 date: 2016-01-27
-slug: bazaar_to_git
 tags: computer blog
 
 Enquanto estudava sobre "controle de fontes distribuído", experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.
@@ -44599,7 +43904,6 @@ Ganhando pontos pela excelente introdução e por trazer crianças envolvidas em
 
 # Juventude Transviada
 date: 2016-01-30
-slug: juventude_transviada
 tags: cinema movies
 
 James Dean ficou conhecido como o ícone de uma geração. Morreu jovem, o que só ajudou a fortalecer a lenda. Fez no total três filmes para Cinema (esse estreou no ano de sua morte). Em Rebelde sem Causa -- ou Juventude Transviada -- ele faz um jovem mimado da classe média americana que arruma confusão em todos os lugares que passa. O filme começa com todos o paparicando: o delegado de polícia, seus pais, sua avó. Na própria delegacia ele já conhece seu melhor amigo, que tem uma forte carência paternal e instabilidade emocional, e seu par romântico, a "rebelde" Y, que também possui problemas com o pai, que evita beijos na boca de sua filha de 16 anos por considerar inapropriado. Olhando para ela e seus lábios pintados escandalosamente de vermelho, quem poderia culpá-lo?
@@ -44952,7 +44256,6 @@ Não que isso nos faça esquecer da dublagem de Sandler. Nem um pouco.
 
 # O Menino e o Mundo
 date: 2016-02-23
-slug: o_menino_e_o_mundo
 tags: cinema movies
 
 O Menino e o Mundo é uma animação sobre os olhos de um menino enxergando o mundo. E de fato ele consegue isso, com maestria: o mundo que vemos é estático, simplista, ingênuo e dramatizado até a última gota de tinta.
@@ -44971,7 +44274,6 @@ O Menino e o Mundo deverá ser revisitado na próxima década. E na próxima, e 
 
 # Deadpool
 date: 2016-02-27
-slug: deadpool
 tags: cinema movies
 
 A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.
@@ -45263,7 +44565,6 @@ Se tornando aos poucos um passatempo cada vez menos atraente e com um ou outro m
 
 # O Tigre e o Dragão
 date: 2016-03-15
-slug: o_tigre_e_o_dragao
 tags: cinema movies
 
 Muitos fãs de artes marciais torceram o nariz na época em que O Tigre e o Dragão foi lançado. Na visão deles, o fato das pessoas "voarem" tirava toda a realidade da história. Muitos perderam a noção de que sempre existe uma metamorfose entre a história e o seu narrador. Quando falamos de uma história milenar, são tantas gerações no caminho, que torna-se fácil achar tudo exagerado e absurdo.
@@ -45290,7 +44591,6 @@ Aliás, foi minha última visita à cidade que me fez ver o filme, que estreou n
 
 # Heróis de Ressaca (The World's End)
 date: 2016-03-19
-slug: herois_de_ressaca
 tags: cinema movies
 
 Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de timing cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.
@@ -45337,7 +44637,6 @@ E outra coisa que força demais a lógica dessa atmosfera de conspiração é qu
 
 # De Volta para o Futuro
 date: 2016-03-20
-slug: de_volta_para_o_futuro
 tags: cinema movies
 
 Quem nunca gostaria de conhecer seus pais na época em que se conheceram? Partindo dessa premissa, e espalhando cuidadosamente pistas e detalhes da vida do jovem Marty McFly (Michael J. Fox) e sua família, assim como dos habitantes da cidade onde moram, Robert Zemeckis e Bob Gale conseguem a partir de uma história simples envolver completamente o espectador com o destino de seu protagonista. Além disso, as referências entre as épocas são um show à parte, e boa parte do mérito da imersão da viagem no tempo também fica por conta do igualmente cuidadoso trabalho de direção de arte. Mais imersão que essa, poucos filmes no Cinema conseguem ter.
@@ -45350,7 +44649,6 @@ O ritmo do filme é lento o suficiente para degustarmos cada detalhe da históri
 
 # De Volta para o Futuro II
 date: 2016-03-20
-slug: de_volta_para_o_futuro_parte_ii
 tags: cinema movies
 
 Quatro anos depois do sucesso do filme sobre viagem no tempo, o diretor Robert Semeckis e seu companheiro de roteirização Bob Gale planejam uma continuação em duas partes, o que criaria um desfecho de uma trilogia em dois passos. Para isso, dois roteiros foram produzidos e filmados praticamente ao mesmo tempo.
@@ -45363,7 +44661,6 @@ Esse é o mais complexo dos três filmes, e pode se tornar corrido por boa parte
 
 # De Volta para o Futuro III
 date: 2016-03-20
-slug: de_volta_para_o_futuro_parte_iii
 tags: cinema movies
 
 Encerrando a trilogia da viagem no tempo, o diretor-roteirista Robert Zemeckis vai audaciosamente 100 anos atrás, no velho oeste, para buscar a aventura e a curva dramática de um personagem até então esquecido, mas vital para o sucesso da franquia: o cientista pseudo-maluco Dr. Brown (Christopher Lloyd). Mais audaciosamente ainda, fecha com chave de ouro uma das trilogias mais bem sucedidas do Cinema ao fazer referência à própria Sétima Arte ao brincar com figuras como Clint Eastwood. Alan Silvestri adapta sua música-tema e sua orquestração para a época, e as tomadas tomam um aspecto completamente inusitado do que poderia se esperar de um filme de ficção científica.
@@ -45424,7 +44721,6 @@ A paixão do povo ucraniano pode ser vista nesse documentário em uma revoluçã
 
 # Para Minha Amada Morta
 date: 2016-03-29
-slug: para_minha_amada_morta
 tags: cinemaqui cinema movies
 
 Para Minha Amada Morta é um filme que começa como drama, mas logo se revela um thriller psicológico envolvente. Não se trata muito de ação, mas de possibilidades. E dentro das possibilidades, a de fazer o mal é onde o filme impera, evocando em seus momentos sempre a questão: o que ele irá fazer em seguida?
@@ -45555,7 +44851,6 @@ Apenas com uma conclusão meramente conveniente, Mente Criminosa se torna um dos
 
 # Sherlock: The Abominable Bride
 date: 2016-04-07
-slug: sherlock_the_abominable_bride
 tags: cinema series
 
 A quarta temporada da série possui apenas um episódio por enquanto, e como todos os episódios anteriores, do tamanho de um filme de uma hora e meia, mantendo um clima morno metade do seu tempo, diminuindo seu ritmo para retratar a época vitoriana abandonada pela própria premissa da série de se atualizar. Neste episódio estamos na época original de Sherlock Holmes, e em uma de suas história originais, vinda de seus livros que, claro, continuam aqui sendo escritos por Watson.
@@ -45920,7 +45215,6 @@ Criando mais personagens secundários do que deveria, simplesmente para florear 
 
 # Matrix Reloaded
 date: 2016-05-06
-slug: matrix_reloaded
 tags: cinema movies
 
 Justiça seja feita: Matrix Reloaded é um esforço monumental dos irmãos (ou irmãs) Wachowski e o produtor Joel Silver em expandir e comentar o universo criado em seu antecessor, "Matrix". O filme e o roteiro tentam instigar a todo momento o espectador a pensar fora da caixa. Usa metáforas com o mundo dos computadores e argumenta tanto de maneira mística quanto filosófica. Exibe momentos cinematográficos exuberantes, muitas vezes apenas "porque sim", mas pelo menos nunca deixa de cuidar que pop, cult e intelectual caminhem juntos.
@@ -45947,7 +45241,6 @@ Mas tudo isso são apenas elucubrações que algumas obras como Reloaded oferem 
 
 # Matrix Revolutions
 date: 2016-05-07
-slug: matrix_revolutions
 tags: cinema movies
 
 Não é fácil lidar com a própria ignorância. Viciados em ciência e suas explicações muito boas para o nosso mundo, além do fato de nosso código genético conter uma necessidade incontrolável de extrair sentido para tudo, e portanto anseia por explicações a todo momento que não deixe margens para dúvida, muitas vezes nos esquecemos que na realidade há muito nela que é nossa interpretação. Podemos ter uma boa ideia do que ela significa para todos a todo momento, mas nunca a verdade completa do que isso significa para cada um de nós.
@@ -46030,7 +45323,6 @@ Dessa forma, "Os Anarquistas" é um resultado interessante esteticamente, usa um
 
 # Meu Amigo Totoro
 date: 2016-05-15
-slug: meu_amigo_totoro
 tags: cinema movies
 
 Uma animação imortal e irretocável. Meu Amigo Totoro é um dos primeiros filmes dos Estúdios Ghibli, de Hayao Miyazaki, e foi feito no auge dos anos 80. Ele apresenta uma história simples e ao mesmo tempo fascinante, sobre duas meninas que se mudam para um vilarejo no interior com o pai e a mãe, internada em um hospital. A região é conhecida pelas plantações de arroz, e pela imponente floresta. Totoro e seus amigos, espíritos protetores da região, se encontram com a doce e enérgica Mei e a mais velha, mas ainda criança, Satsuki.
@@ -46151,7 +45443,6 @@ Tudo é muito rico e muito vazio em Alice, pois não há tempo para explorar mui
 
 # Nise: O Coração da Loucura (Roberto Berliner, 2015)
 date: 2016-05-29
-slug: nise_o_coracao_da_loucura
 tags: cinema movies
 
 Glória Pires desperdiçada em Tempo de Despertar brasileiro. Acompanhamos o fascinante tratamento psiquiátrico conduzido por Nise da Silveira, uma personagem da vida real, aos pacientes do instituto psiquiátrico Engenho de Dentro, no Rio de Janeiro de 1940. As mulheres independentes não são bem vistas, e Nise se coloca entre a ala masculina de doutores explorando novos métodos de lobotomia de pacientes (como se os estivessem curando) enquanto Nise tenta uma abordagem mais Jungiana, voltada para entender o inconsciente de seus pacientes, que carinhosa ou respeitosamente, insiste em chamar de clientes (embora não durante todo o tempo, falha de roteiro). Acima das divergências científicas, o que está em jogo é um tratamento mais humano e que tente de fato melhorar a vida dessas pessoas isoladas do mundo por distúrbios mentais.
@@ -46225,7 +45516,6 @@ E é por isso que a relação que mantém com uma das juradas se torna o tema ce
 
 # Chocolate
 date: 2016-06-03
-slug: chocolate
 tags: cinemaqui cinema movies
 
 Chocolate é o mais novo trabalho de Osmar Sy e possui não apenas a simpatia que estamos acostumados a ver em seus filmes (Intocáveis, Samba), mas também um lado dramático do tipo que tornou filmes como Conduzindo Miss Daisy e 12 Anos de Escravidão tão fascinante.
@@ -46555,7 +45845,6 @@ Mas não seja por isso. A questão sobre vida após a morte, a racionalidade, ou
 
 # Zootopia
 date: 2016-07-02
-slug: zootopia
 tags: cinema movies
 
 Direita x Esquerda? Opressores x Oprimidos? Predadores x Presas? A imbecilidade dos liberais americanos apenas compete com sua genialidade nesse novo filme da Disney, que explora um tema político em um filme para crianças que possui 2 ou 3 piadas bem pontuais, mas que no fundo é muito mais para adolescentes e com conteúdo adulto.
@@ -46918,7 +46207,6 @@ Não se trata de nenhum grande clássico, mas para quem gosta de thriller e est�
 
 # A Ponte do Rio Kwai
 date: 2016-07-18
-slug: a_ponte_do_rio_kwai
 tags: cinema movies
 
 É um daqueles trabalhos épicos dos anos 50 com a trilha sonora pomposa (Malcolm Arnold), cerimoniosa, em torno de um grande feito orquestrado por um grande homem. O coronel Nicholson (Alec Guinness) tem seu batalhão prisioneiro dos japoneses na Segunda Guerra em uma floresta tão densa e tão isolada do mundo que o Coronel Saito (Sessue Hayakawa) dispensa controle de fugitivos. A guerra continua e eles precisam construir uma ponte naquele fim de mundo em um prazo curto. Todos os países da língua inglesa se unem e sabotam os planos orientais. Há ao mesmo tempo uma disputa de ego, discursos sobre honra e princípios e uma alegoria muito clara sobre o que é a guerra.
@@ -46957,7 +46245,6 @@ De qualquer forma, por mais lindo que seja, Refém da Paixão nos mantém refén
 
 # Se Meu Apartamento Falasse
 date: 2016-07-19
-slug: se_meu_apartamento_falasse
 tags: cinema movies
 
 Jack Lemmon consegue a proeza de fazer dois personagens absolutamente distintos em duas comédias de Billy Wilder um ano seguido do outro. A primeira, "Quanto Mais Quente Melhor", Lemmon faz com Tony Curtis dois foragidos da polícia que se vestem de mulher e participam de uma banda que contém ninguém menos que Marylin Monroe. Já em "Se Meu Apartamento Falasse", Lemmon mora em um apartamento que serve de pulada de muro para seus "amigos" no escritório, incluindo um deles que tenta levar uma loira parecida com Marylin Monroe. O detalhe é que a única semelhança é que ela é loira.
@@ -47062,7 +46349,6 @@ Sem uma alma por trás da ação e piadas desenfreadas, Dois Caras Legais é uma
 
 # Fome
 date: 2016-07-28
-slug: fome
 tags: cinemaqui cinema movies
 
 Fome é um filme lento e arrastado, com seu lado amadorístico, com uma direção/edição que se apaixona pela forma e não sabe a hora de cortar. Com a falta de ritmo em vários momentos, e um contraste curioso entre ficção e realidade, pode-se enxergar com clareza que este não é um trabalho para qualquer um, por exigir paciência e determinação em decifrá-lo. Ao mesmo tempo, ele permite diferentes interpretações, das mais simples às mais complexas; tudo depende de como se enxerga os objetivos de algumas decisões narrativas e estéticas da história.
@@ -47331,7 +46617,6 @@ Com uma produção modesta, um elenco de primeira e uma direção/roteiro que bu
 
 # Viagem Para Agartha
 date: 2016-08-05
-slug: viagem_para_agartha
 tags: cinema movies
 
 Makoto Shinkai -- diretor/roteirista de inúmeros curtas (alguns na Netflix brasileira) -- é chamado constantemente de "O Novo Miyazaki", em referência ao animador e fundador dos estúdios Ghibli. Curiosamente o próprio Miyazaki é chamado de "Walt Disney do Japão". Mais curioso ainda é que Miyazaki, enquanto idealizador, se preocupa muito com a mãe-natureza em seus filmes, que é quase um personagem à parte (seja ela natural, como em Ponyo, ou sobrenatural, como em "A Viagem de Chihiro"). Já em Viagem Para Agartha, um filme sobre um mundo exótico dentro da Terra, Shinkai está muito mais preocupado com o interior dos seres humanos que retrata, já que seu filme se torna um eterno questionamento sobre a nossa dor -- muitas vezes eterna -- que sentimos quando perdemos alguém querido.
@@ -47392,7 +46677,6 @@ Mais do que uma historinha para justificar uma batalha épica, Warcraft é a (re
 
 # Brazil: O Filme
 date: 2016-08-09
-slug: brazil_o_filme
 tags: cinema movies
 
 Terry Gilliam nos apresenta esse futuro distópico onde "Aquarela do Brasil", de Ary Barroso, é o tema musical perfeito para esse clima fabuloso, que transforma um drama grandioso em uma comédia séria, que trata de governos totalitários e o seu maior perigo: a enxurrada de papéis de uma burocracia sem fim, que pode engolir pessoas vivas. Nós sabemos vagamente que toda a ineficiência do governo acaba matando indiretamente milhares de pessoas todos os dias pelos erros de alocação de recursos. Porém, em "Brazil", basta um erro de tipografia e sua vida foi extinta, literalmente. Ainda bem que erros estatais nunca acontecem. Não é mesmo?
@@ -47569,7 +46853,6 @@ E para o gamer é claro que há uma "recompensa". Imagine qualquer fase de seu g
 
 # Loucas de Alegria
 date: 2016-08-17
-slug: loucas_de_alegria
 tags: cinemaqui cinema movies
 
 Loucas de Alegria, apesar do título e das protagonistas com problemas psicológicos, é um retrato realista e encantador sobre amizade incondicional, mesmo que sua amiga tenha impulsos suicidas ou tenha cara de pau de aplicar golpes por onde quer que passe. Em seu momento mais lúdico ele homenageia "Thelma & Louise", o clássico de Ridley Scott, o que, naquela altura da campeonato, é uma das licenças poéticas mais bem-vindas e muito apropriada.
@@ -47639,7 +46922,6 @@ Mas apesar de conter horas e horas de conteúdo a respeito de seus personagens p
 
 # Conexão Escobar
 date: 2016-08-20
-slug: conexao_escobar
 tags: cinemaqui cinema movies
 
 Conexão Escobar volta a trazer Bryan Cranston em um papel memorável, mas mais do que isso, esse é um filme construído totalmente em cima de expectativas. Ele vai subindo aos poucos no alto escalão da máfia de cocaína e assim como O Poderoso Chefão e Scarface ele possui seu universo próprio. Porém, este também é um filme pautado em cima da biografia de Robert Mazur, ex-agente federal de combate ao tráfico de drogas, e por isso merece ainda mais crédito a criação dessa rede tensa e complexa que vive à mercê da lei.
@@ -48015,7 +47297,6 @@ Com um final surpreendente, desses que te derruba novamente das expectativas (qu
 
 # Mr. Robot
 date: 2016-09-11
-slug: mr_robot
 tags: cinema series
 
 Finalmente uma série que retrata o hacker de uma maneira realista. Mais do que isso: retrata o hacker inserido na realidade que vivemos hoje, nesse exato momento. E, por que não, alguns meses à frente?
@@ -48049,7 +47330,6 @@ Porém, estamos falando de uma redublagem, e é feito um verdadeiro milagre para
 
 # Os 10 melhores filmes dos anos 90... 1890!
 date: 2016-09-11
-slug: os_10_melhores_filmes_dos_anos_90_1890
 tags: cinema lists
 
 Esta é uma ótima seleção feita pelo saite A.V. Club, que contém para variar vários trabalhos do genial Georges Méliès, além também dos trabalhos mais técnicos de Thomas Edison. É preciso lembrar que a sétima arte estava apenas engatinhando.
@@ -48119,7 +47399,6 @@ Bom, mas o importante é que tudo se resolve em mais um dia no reino das franqui
 
 # O Silêncio do Céu
 date: 2016-09-13
-slug: o_silencio_do_ceu
 tags: cinemaqui cinema movies
 
 O Silêncio do Céu é mais uma incursão do diretor Marco Dutra ("Trabalhar Cansa") em um filme que flerta entre o drama e o terror. Porém, nesse caso não há o apelo ao sobrenatural, mas a uma substância social que permeia cada um de nós: o medo.
@@ -48349,7 +47628,6 @@ Para alguém curioso para ver minhas configurações do Vim (quem quiser compart
 
 # Demônio de Neon
 date: 2016-09-23
-slug: demonio_de_neon
 tags: cinemaqui cinema movies
 
 A única esfinge presente na mitologia grega é um demônio e se assemelha a um leão alado com cabeça de mulher. Presente na peça Édipo Rei, Ela olha onipotente para os mortais que desejavam passar e desfere seu famoso enigma. Para os que não o decifram, ela os devora. O enigma tem relação com as diferentes fases na idade do homem, mas para acertar você precisa descobrir que a criatura disforme, que muda de patas durante o dia, é o próprio homem. Não por acaso, Demônio de Neon em sua primeira cena, ou melhor dizendo, em seu primeiríssimo quadro, mostra uma jovem de beleza estonteante deitada em um divã ao som de uma música estilo dance psicodélico, empolgante e ao mesmo tempo grandioso, revelando todos os passos de como este filme deve ser desvendado. A moça está morta, pois escorre sangue de seu braço até o chão de vidro com um tom rubi. Apesar de trágica, a cena permanece belíssima enquanto a câmera, nossos olhos, se afastam, como em fascinação. E o novo filme "de grife" do diretor Nicolas Winding Refn (Drive) explora justamente essa fascinação que temos, tanto do belo quanto do horrível. Muitas vezes ao mesmo tempo.
@@ -48388,7 +47666,6 @@ Para os muitos que se esquecem que ficção é lidar com o inusitado para constr
 
 # Caprice: Amor à Francesa
 date: 2016-09-30
-slug: caprice_amor_a_francesa
 tags: cinema movies
 
 Uma comédia do Woody Allen, se Woody Allen fosse francês e não tivesse crises depressivas expostas em seus filmes. Aqui o lance é mais romântico, mas com conteúdo e inteligência. O filme trabalha a questão dos diversos tipos de amor, algo muito em voga hoje em dia, em que o conceito de família é tão líquido quanto os relacionamentos amorosos.
@@ -48401,7 +47678,6 @@ Não há muitos limites para as coincidências nesse filme, assim como geralment
 
 # Refúgio
 date: 2016-09-30
-slug: refugio_filme
 tags: cinemaqui cinema movies
 
 Refúgio é uma comédia de situação que brinca um pouco com essa sensação da meia-idade (defina você esse período da sua vida) em explorar outros horizontes, levar a cabo os sonhos da infância, reviver, enfim, os bons momentos que estão em nossas memórias. Porém, ao mesmo tempo que temos esse desejo, estamos ancorados na vida real, sujeitos às complicações da vida moderna.
@@ -48480,7 +47756,6 @@ Este post foi inspirado em meu próprio uso do Vim, mas mais inspirado ainda dep
 
 # Sin City: A Cidade do Pecado
 date: 2016-10-09
-slug: sin_city
 tags: cinema movies
 
 Muitos não gostaram do resultado final em Sin City, um longa que emula com perfeição o visual de uma graphic novel. Isso, de certa forma, explica o marasmo do Cinema comercial, onde a mesmice é condecorada, e as criações originais, boas ou ruins, são vistas simplesmente como chatas. Não se engane: quando alguém diz que não gostou de algo diferente, na esmagadora maioria dos casos não é porque ela possui uma visão crítica com argumentos de por que aquilo, em sua visão, é ruim. É simplesmente porque, sabe como é, "eu só queria me divertir um pouco e deixar o cérebro em casa. E agora vocês querem que eu pense?"
@@ -48659,7 +47934,6 @@ O que, convenhamos, quase ninguém mais tenta realizar hoje em dia. Quando um de
 
 # Os Caçadores da Arca Perdida
 date: 2016-10-16
-slug: os_cacadores_da_arca_perdida
 tags: cinema movies
 
 Este é um filme clássico de aventuras. Ele transforma o personagem James Bond em um arqueólogo e que continua sendo, nos moldes tradicionais, um homem de verdade. Ele mata quando preciso, e as mortes acontecem de verdade -- com sangue e tiros. Indiana Jones está disposto a arriscar a vida pelo que acredita. Ele é durão em um filme que ri dos clichês sérios. Ele contém um tema musical inesquecível e uma trilha sonora que se confunde com Star Wars, outro filme estrelado por Harrison Ford na mesma época (e ambos compostos pelo músico John Williams).
@@ -48780,7 +48054,6 @@ Mas, afinal de contas, com o que estamos lutando, como espectadores, quando tent
 
 # Aloys
 date: 2016-10-21
-slug: aloys
 tags: mostrasp cinema movies
 
 Aloys é uma viagem fascinante pelo mundo dos efeitos sonoros que criam a realidade em torno dos dois personagens principais. Para esse feito, é necessário uma edição e montagem impecáveis, além de um design de som que prima pela redundância. Redundância essa necessária para que o espectador consiga penetrar no mundo dividido entre todas as pessoas que vivem dentro do mundo interno de cada um de nós.
@@ -48994,7 +48267,6 @@ Sem conseguir em seu terceiro ato se manter realista, apelando para uma reviravo
 
 # A Menina Sem Mãos (Sébastien Laudenbach, 2016)
 date: 2016-10-25
-slug: a_menina_sem_maos
 tags: cinema movies
 
 Mais um desenho baseado em conto dos Irmãos Grimm. Na verdade, Jacob e Wilhelm Grimm, além de resgatar um pouco da origem das línguas germânicas e ajudar a fundar o estudo organizado de linguística, eles também coletaram a cultura desses povos, o que significa na prática suas crendices e valores, estruturadas em contos que eram contados de geração em geração. Ao salvar como escrita, eles conseguiram salvar boa parte da História no formato de folclore.
@@ -49117,7 +48389,6 @@ Bench Cinema é um filme na maioria do tempo doce, mas sempre tem uma mensagem p
 
 # É Apenas o Fim do Mundo
 date: 2016-10-26
-slug: e_apenas_o_fim_do_mundo
 tags: cinemaqui cinema movies
 
 O cineasta Xavier Dolan é intenso e leva tudo do seu lado pessoal para as telas. Isso já ficou claro em Eu Matei a Minha Mãe e ainda mais claro em Amores Imaginários. Agora, em É Apenas o Fim do Mundo recebemos mais do mesmo, o que no caso se traduz em um filme também de cunho pessoal. E tenso até a morte.
@@ -49144,7 +48415,6 @@ Xavier Dolan continua sendo o cineasta mais pessoal e intenso do Cinema contempo
 
 # Terra Prometida
 date: 2016-10-26
-slug: terra_prometida
 tags: mostrasp cinema movies
 
 Uma farsa deliciosa dramatizando o apocalipse enxergado por Karl Marx. Mostra os capitalistas inescrupulosos sem valor à vida humana para defender o comunismo que dá valor aos humanos como ferramenta de sacrifício. Não é um filme para levar a sério, mas como qualquer propaganda vermelha que se preze, ela tem que ser dramática; quiçá hilária. Na verdade, é de uma série de filmes do diretor que ridiculariza a propaganda soviética.
@@ -49231,7 +48501,6 @@ Com personagens um tanto bizarros (esse é o lado indie), como um amigo que se t
 
 # O Contador
 date: 2016-10-28
-slug: o_contador
 tags: cinema movies
 
 O Contador é um filme que se divide em duas metades. A primeira metade é envolvente e possui uma forma de contar histórias de maneira inteligente, embora óbvia. A segunda metade se abstém em servir como catarse para os fãs de filmes de ação e Ben Affleck.
@@ -49268,7 +48537,6 @@ A direção de Nair é competente, utilizando construções de cenas tradicionai
 
 # A Causa e a Sombra
 date: 2016-10-31
-slug: a_causa_e_a_sombra
 tags: cinema movies
 
 Um filme sobre as pessoas torturadas e presas pela ditadura no Brasil nas décadas de 60/70 que se esquece de avisar ao espectador qual era o grande medo da população e dos militares caso os "revolucionários militantes" chegassem ao poder. Na verdade, é pior, pois se ao menos o filme se mantivesse centrado apenas no aspecto humano seria minimamente interessante, além de servir de alerta sobre a falta de limites do Estado. Mas é claro que ele precisa pintar aquelas pessoas como verdadeiros mártires, algozes e inspiradores de justiça, o que explica parcialmente a motivação dessas pessoas (só queriam ajudar os miseráveis, claro) quando no fundo se tornaram terroristas quando descobriram que não havia concordância nos planos mais gerais de ataque a Brasília.
@@ -49327,7 +48595,6 @@ Constituindo um conto extenso e intenso, mal construído em narrativa e direçã
 
 # Então Morri
 date: 2016-11-02
-slug: entao_morri
 tags: mostrasp cinema movies
 
 Um documentário que passa direto para nossos sentidos. Começa na morte e vai voltando pela dor, alegria, ou seja, emoções dos seus personagens da vida real.
@@ -49354,7 +48621,6 @@ Roteirizado por três indivíduos, é difícil saber como é necessário três p
 
 # Saldo da 40a. MostraSP
 date: 2016-11-02
-slug: saldo_da_40_mostra_sp
 tags: lists
 
 Vinte e dois filmes. Essa foi a quantidade que consegui assistir nessa primeira mostra que me dedico nos dias de semana (uma bagatela de ter a própria empresa). Na maioria dos dias foram três sessões seguidas; em alguns dias tive que me ausentar, outros simplesmente entrei na sala errada! (e acabei vendo, por exemplo, o ótimo "O Contador"). No entanto, foi de longe a edição do festival em que mais vi filmes, e a primeira em que escrevi sobre todos eles.
@@ -49372,7 +48638,6 @@ De qualquer forma, um viva para o Cinema. Enquanto houver dinheiro para investir
 
 # Snowden
 date: 2016-11-02
-slug: snowden
 tags: cinemaqui cinema movies
 
 Um documentário reconstruído como ficção pode ser bem maçante para a maioria das pessoas; principalmente se a ideia dos idealizadores for simplesmente jogar diálogos e eventos de pessoas da vida real em um formato burocrático ou televisivo. A maioria sairia antes da metade do filme. No entanto, o lado show business de Oliver Stone e o roteiro incisivo de Kieran Fitzgerald realizam uma dramatização da vida real que consegue criar nos 134 minutos de Snowden um universo à parte da realidade, onde nos importamos com seus personagens como se fosse uma história criada para isso, mas ao mesmo tempo não nos faz esquecer que essa é a vida real, apenas alguns anos atrás, e cujos acontecimentos ecoam até o exato momento do agora, às vésperas de mais uma eleição presidencial norte-americana. E que Edward Snowden ainda é um exilado político.
@@ -49393,7 +48658,6 @@ Mas apesar dos pesares, Snowden é um filme eficiente do começo ao fim, tanto q
 
 # Um Homem Insignificante
 date: 2016-11-02
-slug: um_homem_insignificante
 tags: mostrasp cinema movies miniviews fragments
 
 Se torna um romance no momento que escolhe contar sua história como uma experiência de esperança e conquista.
@@ -49478,7 +48742,6 @@ Esqueça a história da geladeira sobreviver a uma bomba atômica. Esse é o men
 
 # Era Uma Vez em Nova York
 date: 2016-11-17
-slug: a_imigrante
 tags: cinema movies
 
 A Imigrante é filmada como um épico, e apresenta, assim como Era Uma Vez Na América, um retrato depressivo e opressivo da imigração americana no começo do século 19. Além disso, não fornece muitos pontos de escape desse universo angustiante, se tornando portanto uma experiência pesada, ainda que bela e que figurada por grandes atores.
@@ -49497,7 +48760,6 @@ A Imigrante não é um filme fácil. Com uma fotografia igualmente linda, é um 
 
 # Como Ser Solteira
 date: 2016-11-17
-slug: como_ser_solteira
 tags: cinema movies
 
 É cada vez melhor a surpresa com relação a comédias românticas (ou apenas comédias) protagonizadas por mulheres. O universo feminino independente do masculino estava escondido por gerações, mas hoje, no formato de uma sociedade que cada vez mais reconhece o direito da mulher de se divertir tanto quanto os homens, está a cada dia causando no Cinema resultados positivos, da mesma forma com que o universo masculino muitas vezes é representado (vide o último filme de Richard Linklater, "Jovens, Loucos e Mais Rebeldes") sem ressalvas pelo machismo e a quem isso possa doer. Ele existe. Assim como mulheres que transam por 100% de prazer e 0% de comprometimento.
@@ -49594,7 +48856,6 @@ Há alguns bons momentos antes da reviravolta, mas nada que justifique assistir 
 
 # Trolls
 date: 2016-11-17
-slug: trolls
 tags: cinema movies
 
 Um milagre acontece. E está um bom ano para milagres em animação. Trolls, assim como Angry Birds como adaptação de games e Zootopia como a contemporaneidade da vida social, consegue se tornar um exemplo ainda melhor de como pegar um fiapo de argumento -- brinquedos feios da década de 80/90 -- e transformar em uma ode à felicidade, à referência de uma era, ao retorno da simples e não-cínica vida comum.
@@ -49629,7 +48890,6 @@ No entanto, agora a série terá um momento espetacular nos próximos quatro ano
 
 # A Economia do Amor
 date: 2016-11-21
-slug: a_economia_do_amor
 tags: cinemaqui cinema movies
 
 A Economia do Amor, trocadilhos à parte, é também um filme econômico em sua produção. E é quando a arte encontra os benefícios da crise europeia, tanto no assunto quanto no orçamento.
@@ -49670,7 +48930,6 @@ O Filho Eterno, enfim, não é um filme ruim por si só. Ele possui momentos int
 
 # Sour Grapes
 date: 2016-11-23
-slug: sour_grapes
 tags: cinema movies
 
 Este documentário mostra através de uma narrativa fluida e divertida uma das maiores fraudes na história do vinho. Pegando carona com a bolha de 2008, acompanhamos a história de Rudy Kurniawan, um asiático muito simpático que se inseriu na rodinha de velhos colecionadores de vinho e conseguiu ganhar amigos, fama, e muitos, muitos milhões.
@@ -49773,7 +49032,6 @@ Há muita poeira e explosão em Máquina Mortífera, como deve ser em um filme d
 
 # A Linguagem de Programação C++: O Início
 date: 2016-11-29
-slug: a_linguagem_de_programacao_cpp_o_inicio
 tags: computer ccpp
 
 O livro-base sobre a linguagem C++ e como programar nela tem o nome pouco criativo "The C++ Programming Language", e é de Bjarne Stroustrup, o criador da linguagem. Ele começou a desenhá-la em 1979, quando ainda a chamava de "C com Classes". Havia um problema a ser resolvido na época em que Stroustrup estava fazendo sua tese de doutorado. Havia linguagens muito boas em abstração como Simula, como o novo conceito de Orientação a Objetos, que carecia do mais importante na época: velocidade (só na época?). Já linguagens mais antigas como BCPL eram bem rápidas, mas eram tão simples que pareciam mais um Assembly glorificado. Havia, portanto, a necessidade de preencher a área de computação com alguma coisa bem no meio.
@@ -49964,7 +49222,6 @@ E é isso o que Saneamento Básico, O Filme, tem de melhor.
 
 # Sieranevada
 date: 2016-11-30
-slug: sieranevada
 tags: cinemaqui cinema movies
 
 Sieranevada faz jus à descrição do Cinema, a sétima arte, como mundo dos sonhos, ou onde se sonha acordado. A sinopse deste filme: espiamos a vida de uma grande família durante os preparativos de uma refeição que parece que nunca vai ocorrer. Se isso parece um pouco fora de foco pra você, trago duas observações, uma objetiva e outra subjetiva, que podem ser importantes na hora de assisti-lo: o filme tem quase três horas de duração; e um dos seus maiores defeitos é ser curto demais.
@@ -50069,7 +49326,6 @@ Talvez o que torne o processo tão enigmático é que tanto os que selecionam qu
 
 # Chef's Table
 date: 2016-12-04
-slug: chefs_table
 tags: cinema series
 
 As séries que costumo testar/acompanhar da Netflix me fazem às vezes questionar a capacidade da distribuidora de conteúdo de se manter na média das outras produtoras. Às vezes eles parecem ligeiramente superiores. E é o caso de Chef's Table, que se veste de uma série documental com cada episódio abordando um chefe de cozinha e o que ele tem a oferecer à alta gastronomia. Porém, no fundo, os idealizadores da série vão além, e embora sigam constantemente uma cartilha estática no roteiro (e na direção), os resultados podem surpreender.
@@ -50168,7 +49424,6 @@ Mas a estrela do filme é mesmo o roteiro. Escrito pelo ator Taylor Sheridan (qu
 
 # Estados Unidos Pelo Amor
 date: 2016-12-09
-slug: estados_unidos_pelo_amor
 tags: cinemaqui cinema movies
 
 É curioso como em "Estados Unidos Pelo Amor" -- novo trabalho do diretor (e roteirista) Tomasz Wasilewski -- o destino de cada personagem termina necessariamente em um drama, mas que nunca é suficientemente trágico. Pelo menos não para as mulheres envolvidas em quatro histórias que se cruzam em um vilarejo na Polônia na época comunista. Este é acima de tudo um filme sobre um grito silencioso na imensidão do horizonte.
@@ -50299,7 +49554,6 @@ Nesse sentido, A Última Lição é um ótimo filme para pensarmos a respeito de
 
 # Animais Fantásticos e Onde Habitam
 date: 2016-12-15
-slug: animais_fantasticos_e_onde_habitam
 tags: cinema movies
 
 Quando a série Harry Potter terminou nos cinemas veio a sensação de saudade com um misto de "saga intocável", no sentido de qualquer tentativa de "George Lucarizar" a franquia estaria fadada ao fracasso. A não ser que fosse apenas utilizado o universo onde se passam os filmes, mas não os mesmos personagens, ou as mesmas situações (mago do mal, cada filme um ano na escola). Pois bem. A partir de Animais Fantásticos, a escritora J. K. Rowling pode ganhar o título de "escritora fodona" de verdade. Ela não recicla ideias que a tornaram um sucesso (e milionária). Ela não usa personagens que os fãs abraçaram como muletas afetivas. Ela cria uma história do zero, fugindo completamente do mundo HP e apresentando novas criaturas e novos conceitos, enriquecendo e expandindo o universo em vez de sugando-o. Aprendeu como se faz, George Lucas/J.J. Abrams?
@@ -50360,7 +49614,6 @@ Porém, nada disso adianta se a história que acompanhamos vai fazendo cada vez 
 
 # Belos Sonhos
 date: 2016-12-19
-slug: belos_sonhos
 tags: cinemaqui cinema movies
 
 Belos Sonhos é uma verdadeira homenagem e uma investigação sobre essa relação tão íntima, possessiva e determinadora de caráter entre uma criança e sua mãe italiana, a figura eterna da mama. Sutil e visual, se transforma em um trabalho equilibrado, embora intenso, como todo bom filme italiano deve ser.
@@ -50419,7 +49672,6 @@ Todo o elenco está afiado, mas é o roteiro que delineia cada participação co
 
 # Dez melhores filmes de 2016
 date: 2016-12-27
-slug: dez_melhores_filmes_de_2016
 tags: cinema lists
 
 - "Trolls". Como pegar um fiapo de argumento, mais uma vez baseado em brinquedos dos anos 80, e transformá-lo em uma história previsível, mas que convence por sua mensagem de ode à felicidade de uma era. Trolls nos convida a rir dos clichês e a dançar ao som de outros tempos. Remixados, claro, mas que mantém a pureza no olhar de uma criança, crescida ou não.
@@ -50579,7 +49831,6 @@ E é justamente isso que vemos em A Assassina na maioria do tempo, embora ela po
 
 # Entrando na zona com Vim
 date: 2017-01-05
-slug: entrando_na_zona_com_vim
 
 Se você é programador é bem provável que já tenha ouvido falar em "Flow" ou "The Zone". Se for leitor assíduo do Hacker News, então, nem se fala. De qualquer forma, uma das maneira mais produtivas do programador programar é entrar na famosa "zona". É lá que muito de nós nascemos. Lembra a primeira vez que mexeu em um computador ou afim e ficou tão obcecado que não viu o tempo passar? Pois bem. Você esteve na zona. E estar nela é um bom lugar para trabalhar.
 
@@ -50776,7 +50027,6 @@ E é um filme que já faz parte de uma coletânea cinematográfica brasileira, q
 
 # A Partida
 date: 2017-01-15
-slug: a_partida
 tags: cinema movies
 
 Este é um filme que trata a morte de maneira direta ao apresentar-nos a profissão de preparador de corpos. No Japão há uma cerimônia com os familiares e amigos presentes em que o corpo é limpo e maquiado para voltar à vida. Além de possuir uma quantidade assombrosa de momentos tocantes (leve seu lenço), seja por esses momentos ou pela poesia implícita neles, A Partida de certa forma celebra a vida como um processo de auto-descoberta, e a morte como uma despedida solene das pessoas que convivemos por este breve tempo.
@@ -51183,7 +50433,6 @@ Uma turminha de atores simpáticos, Eddie Murphy provavelmente em um dos seus me
 
 # Pequena Miss Sunshine
 date: 2017-01-22
-slug: pequena_miss_sunshine
 tags: cinema movies
 
 Na época o que mais havia eram filmes independentes sobre famílias disfuncionais. Isso virou um sub-gênero que até hoje é a base de muitos trabalhos, autorais ou não. Porém, Pequena Miss Sunshine aproveita este tema para desenvolver uma crítica ácida e bem-humorada sobre a cultura norte-americana, que divide a sociedade em vencedores e perdedores. Este filme celebra o fracasso não como um ato subversivo, mas como uma forma de dizer que vencer pode ser alguma coisa na vida que não necessariamente ganhar um troféu.
@@ -51220,7 +50469,6 @@ A Garota do Trem, portanto, se transforma paulatinamente em um thriller como out
 
 # A Garota Desconhecida
 date: 2017-01-24
-slug: a_garota_desconhecida
 tags: cinemaqui cinema movies
 
 A Garota Desconhecida, em um resumão narrativo, é sobre o arco de sua protagonista, Dra. Jenny Davin, que ao não abrir a porta após o horário de seu consultório por uma mera questão de capricho -- e sofrer as duras consequência de seu ato -- acaba abrindo uma outra porta: para a possibilidade de redenção, aceitando que seus pacientes são seres humanos, e mais do que tudo: de que ela pode se dar ao direito de ser humana.
@@ -51867,7 +51115,6 @@ E o filme tampouco tenta facilitar para ele. Escrito também por Kenneth Lonerga
 
 # BugiGangue no Espaço
 date: 2017-02-14
-slug: bugigangue_no_espaco
 tags: cinemaqui cinema movies
 
 BugiGangue no Espaço é mais uma tentativa do cinema brasileiro -- e com dinheiro brasileiro -- nas animações e na tecnologia 3D. O resultado é mais um filme que mira na mediocridade para nunca sair dos trilhos. Sua falta de ousadia no roteiro só rivaliza com sua capacidade de referenciar obras muito mais ambiciosas como Star Wars, Star Trek, E.T.. Sua animação cartunesca não oferece quase nada que se destaque de qualquer vídeo do YouTube. E o seu humor pitoresco quase traz à tona o instinto nacional de ser o eterno cão vira-latas das super-produções.
@@ -52181,7 +51428,6 @@ Em um jogo narrativo soberbo, sabemos mais sobre a personagem a partir do moment
 # The Best of edw519
 date: 2017-02-20
 link: http://static.v25media.com/edw519_mod.html
-slug: the_best_of_edw519
 tags: books computer blog
 
 Ed Weissman, ou edw519 para os íntimos, é um dos comentaristas mais efusivos, pragmáticos e experientes do Hacker News. Ele tem programado profissionalmente há quase 40 anos. De mainframes a projetos web, a evolução dele passou basicamente pelo dobro de gerações que provavelmente você passou. Ele também já esteve envolvido como sócio/fundador em três empresas, vendendo tanto serviços quanto produtos. Ele trabalhou com centenas de pessoas em mais de mil projetos em mais de um milhão de linhas de código. Ele já compartilhou muitas opiniões com a comunidade, e agora juntou boa parte dessas opiniões em um livro, um ebook, disponível para qualquer um que queira observar alguém que esteve nas trincheiras por muitos anos e não tem medo de dizer o que pensa.
@@ -52306,7 +51552,6 @@ Cada momento que você está trabalhando em algo sem estar na arena pública, es
 
 # Visualizando QString no Visual Studio
 date: 2017-02-20
-slug: visualizando_qstring_no_visual_studio
 tags: computer blog
 
 O Qt não é um framework que pode apenas ser usado no QtCreator. Através de um projeto bem configurado pelo CMake, por exemplo, é possível ter um projeto que pode ser compilado e depurado tanto nas ferramentas do Qt quanto no Visual Studio. No entanto, na hora de depurar algumas coisas são difíceis de fazer. Por exemplo: como olhar o conteúdo de uma QString?
@@ -52527,7 +51772,6 @@ Assim como não há a menor pretensão de explicar se há algo por trás da hist
 
 # Logan
 date: 2017-03-05
-slug: logan
 tags: cinema movies
 
 O diretor e roteirista James Mangold apresenta um fechamento de personagem que soa estranho aos fãs da Marvel mais coloridos e menos afoitos com a dura realidade da vida: pessoas morrem nesses filmes.
@@ -52687,7 +51931,6 @@ Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os apl
 
 # Mastery: The Keys to Success and Long-Term Fulfillment
 date: 2017-03-14
-slug: mastery_the_key_to_success_and_long_term_fulfillment
 tags: books self
 
 O livro de George Leonard é um curto e didático passeio através dos mistérios que tornam o ser humano cada vez mais habituado ao seu "eudaimonia" aristotélico, ou seja, o estado de plenitude do ser que está ao alcance de todos que se derem a liberdade da melhora contínua em qualquer coisa que fizermos nesse mundo.
@@ -52989,7 +52232,6 @@ Você poderia dizer que pelo menos se trata de uma história factível dentro do
 
 # O Mundo Fora do Lugar
 date: 2017-03-28
-slug: o_mundo_fora_do_lugar
 tags: cinemaqui cinema movies
 
 O Mundo Fora do Lugar é uma sutil defesa dos psicologicamente abusados (coincidentemente mulheres em um relacionamento). Ele usa um drama familiar do passado com revelações de novela, mas faz isso com muito charme e boa música. E é um filme alemão, o que nesse caso quer dizer que as emoções estarão contidas, embora elas existam.
@@ -53020,7 +52262,6 @@ Ficção-científica boa, já se dizia, é a que faz pensar. E os três primeiro
 
 # Argentina
 date: 2017-03-31
-slug: argentina
 tags: cinemaqui cinema movies
 
 Até para quem não ouve muita música, ou tem um estilo diferente do retratado em Argentina, último longa documental musical de Carlos Saura, há de se emocionar. Pelo menos em seus primeiros quinze minutos, onde um grupo de cantores evoca através de suas potentes vozes cânticos que traduzem a história de uma cultura que se formou através da união de diferentes regiões, que, separadas naturalmente por desertos e montanhas, não conhece limites para a poesia do homem e da mulher simples, batalhadores de todo dia, sofredores como eternos oprimidos, trovadores do sol e da lua.
@@ -53145,7 +52386,6 @@ Ultimate Beastmaster é sobre vencer, mas não tanto outros competidores, mas pr
 
 # Além das Palavras
 date: 2017-04-05
-slug: alem_das_palavras
 tags: cinemaqui cinema movies
 
 Além das Palavras, biografia da poetisa norte-americana Emily Dickinson, é um trabalho que já estabelece desde sua primeira cena a posição que a mulher tem na sociedade em que ela viveu. O filme começa em uma escola apenas para mulheres, onde chega a hora em que elas devem escolher que caminho seguirão: a salvação garantida de Deus ou se viver como pecadoras, esposas de seus maridos, na esperança do perdão final. Não há terceira opção.
@@ -53285,7 +52525,6 @@ Foi feita uma segunda temporada com um elenco totalmente diferente do original, 
 
 # Fragmentado
 date: 2017-04-18
-slug: fragmentado
 tags: cinema movies
 
 Este é mais um suspense de M. Night Shyamalan baseado em "eventos reais" que flerta com as possibilidades sobrenaturais de suas premissas. Mas mais "sobrenatural", contudo, é a forma simplista com que a história é contada, como se o diretor/roteirista não se importasse muito com a verossimilhança da história que quer contar, já que, marca registrada do diretor, obviamente tratará de um tema que brinca com coisas "Além da Imaginação".
@@ -53533,7 +52772,6 @@ Tentando extrair do seu espectador a emoção que lhe falta, tudo vale para inci
 
 # O Rastro
 date: 2017-05-03
-slug: o_rastro
 tags: cinemaqui cinema movies
 
 Não há melhor palco para um filme de terror do que as consequências da administração estatal. No caso de O Rastro, os resultados do sistema público de saúde são o palco perfeito para uma tortura psicológica que não tem saída fácil. Representada na figura de uma menina que lembra a personagem Samara do filme O Chamado, a dor que o herói deste filme sente é, em parte, a dor compartilhada por milhões de brasileiros quando olham o resultado de seu governo. E como os corredores escuros e sujos de um hospital interditado, é assim que o cidadão se sente ao observar os inúmeros traços na vida real de descaso e de corrupção de um sistema que já nasceu falido.
@@ -53690,7 +52928,6 @@ Ozon se aproxima de Lubitsch quando resolve discutir ideias grandiosas, ainda qu
 
 # Os Axiomas de Zurique
 date: 2017-05-28
-slug: axiomas_de_zurique
 tags: books self quotes
 
 A primeira coisa que se aprende de verdade quando se fala em finanças pessoais é que tudo é especulação. Isso você aprende em um livrinho que li há muito tempo atrás. Li vários desses de finanças na minha "fase investidor", antes de programar para o mercado financeiro, mas o inesperadamente mais útil de todos, que li e reli incontáveis vezes, foi Axiomas de Zurique. E ele é um livrinho pequeno, de bolso e de ficção, que conta alguns causos divertidos e joga algumas noções que vão contra tudo e contra todos os conselhos mais reafirmados de toda a história de Wall Street. No entanto, são geralmente esses conselhos que fazem mais sentido na hora que os sinos dobram. Aqui vai a lista dos axiomas, em um parágrafo só, zipado, concentrado e poderoso:
@@ -54102,7 +53339,6 @@ Não é uma temporada com muitos momentos brilhantes, e ela foi cozida em fogo m
 
 # Ninguém Deseja a Noite
 date: 2017-06-05
-slug: ninguem_deseja_a_noite
 tags: cinema movies
 
 Juliette Binoche se transforma completamente em uma americana aristocrata (vinda da França, até pelo nome) e que sai em busca de seu marido, um aventureiro que deseja mais que tudo ser o primeiro a atingir o Polo Norte e fincar uma bandeira. Ela vai em ajuda dos guias para o norte do Canadá, e o que encontra lá com certeza não era o que esperava.
@@ -54115,7 +53351,6 @@ Ninguém Deseja a Noite cria a profundidade de seu drama para discutir questões
 
 # Debugger remoto do Visual Studio
 date: 2017-06-13
-slug: debugger_remoto_do_visual_studio
 tags: computer
 
 Então você está quebrando a cabeça para descobrir por que seu código não faz o que deveria fazer? Então você é desses que acha que é melhor ficar imaginando com um bloquinho de papel na mão do que colocar logo a mão na massa e ver exatamente o código passando pelo processador? Talvez você mude de ideia ao ver como é ridiculamente fácil depurar código em uma máquina remota, seja uma VM ou a máquina do cliente. Neste post vou ensinar a maneira mais antiga e a mais nova que conheço de usar o depurador do Visual Studio. Vamos usar a versão 2003 e a versão 2017 RC.
@@ -54305,7 +53540,6 @@ Traduzido: https://criticanarede.com/irracionalidadepolitica.html
 
 # Os Pobres Diabos
 date: 2017-07-01
-slug: os_pobres_diabos
 tags: cinemaqui cinema movies
 
 Depois de quase quatro anos após ganhar o Festival de Brasília em 2013, chega nas telas Os Pobres Diabos, um filme onde provavelmente sua melhor parte é a primeira cena, que evoca O Palhaço (Selton Mello, 2011), com seu clima de desesperança poética nordestina de Graciliano Ramos e José Lins do Rêgo, uma trilha sonora inspirada em temas de circo com um toque de melancolia, e possivelmente um road movie. Toda essa promessa, infelizmente, dá entrada para um show de clichês cujo objetivo, diferente do circo mais humilde, está muito longe de entreter e muito próximo de virar propaganda ideológica da pior espécie: a que se coloca acima do seu conteúdo artístico.
@@ -54436,7 +53670,6 @@ A sensação deste esquecível começo é que há vilões mais perigosos que Abu
 
 # 13 Encontro (Relâmpago) C/C++ Brasil Indaiatuba (SP) 5 de Agosto de 2017
 date: 2017-07-19
-slug: 13_encontro_ccpp_indaiatuba_sp_2017_08_05
 tags: ccppbr
 
 Depois desse título não há muito o que falar. Será um encontro relâmpago porque não tivemos tempo de fazer call for papers nem de muita divulgação, que será feita pela Diebold Nixdorf, a empresa que está patrocinando esta edição.
@@ -55151,7 +54384,6 @@ Cywgin quem?
 
 # A Gente
 date: 2017-09-05
-slug: a_gente
 tags: cinemaqui cinema movies
 
 Um bom resumo para o inusitado A Gente, que chega quatro anos atrasado aos cinemas, é: a história de um carcereiro competente demais para o cargo. Tão competente que virou cineasta, e aqui volta à sua antiga profissão, além de dirigir, roteirizar, filmar, montar e produzir o documentário, demonstrando (mais uma vez) a situação muitas vezes insalubre com que os agentes penitenciários trabalham, e concluindo uma trilogia pessoal do cineasta.
@@ -55241,7 +54473,6 @@ O que me lembra um pouco os dirigentes da Netflix. Talvez essas histórias enlat
 
 # Titanic
 date: 2017-09-17
-slug: titanic
 tags: cinema movies
 
 Vinte anos depois revejo este drama épico de James Cameron. Na época em que estava em cartaz assisti umas cinco vezes, então sabia de todos os movimentos de câmera e diálogos de cor. Mas o que torna este filme um exemplo de Cinema em seu máximo, mesmo sendo extremamente brega?
@@ -55500,7 +54731,6 @@ O diretor Breno Silveira também mereceria material melhor. Sem conseguir aplica
 
 # Steins;Gate
 date: 2017-10-05
-slug: steins_gate
 tags: cinema animes cinema series
 
 Não é fácil contar bem uma história de viagem no tempo. Mais difícil ainda é conseguir fazer ela ter sentido. E mais difícil ainda é conseguir que o espectador sinta o movimento espaço/tempo dos personagens, a apoteose de todo criador de sci-fi desta linha. Poucos devem ter chegado a essa proeza: De Volta para o Futuro (a trilogia), A Máquina do Tempo, Os 12 Macacos, Efeito Borboleta, O Predestinado, Primer, Harry Potter e o Prisioneiro de Azkaban. E Steins;Gate, que se esforça em homenagear todos os exemplos citados e ainda superá-los em inventividade. Uma viagem e tanto.
@@ -55933,7 +55163,6 @@ Sim, True Detective é uma série que pede mais do que apenas seu piloto.
 
 # Your Name
 date: 2017-10-31
-slug: your_name
 tags: cinema movies
 
 Para os que estão acostumados com os média-metragens do diretor/roteirista Makoko Shinkai, como O Jardim das Palavras, vão perceber uma característica marcante em seu novo trabalho, Your Name: não há aqui uma história completa a ser contada; mas sensações. É a jogada de uma miscelânea de ideias cativantes, como se colocar no lugar do outro, que dá origem à sua essência, que é explorada inúmeras vezes em lindas sequências de animação.
@@ -55974,7 +55203,6 @@ Ambos são peça fundamental para o sucesso da série, sem os quais ela simplesm
 
 # Olhando Para As Estrelas (Ale Peralta, 2016)
 date: 2017-11-04
-slug: olhando_para_as_estrelas
 tags: cinemaqui cinema movies
 
 Olhando para as Estrelas é um filme fofinho que não enxerga dificuldades, apenas facilidades. Com isso ele perde um potencial drama da vida real, ou troca pela visão de um mundo de sonhos, onde tudo é possível. Mas se tudo é possível tão "fácil" assim, qual a graça da conquista?
@@ -56267,7 +55495,6 @@ Talvez ninguém ainda saiba. Experimentando conceitos até tentar acertar o pont
 
 # Capitão Fantástico
 date: 2017-11-25
-slug: capitao_fantastico
 tags: cinema movies
 
 "Poder para o povo. Abaixo o sistema." Essas duas frases tipicamente anarquistas resumem a filosofia de mais este filme sobre uma família disfuncional. A virtude deste filme é que ele nos faz enxergar a sociedade atual do ponto de vista de uma outra forma de viver. E se todos nós fôssemos criados para sermos filósofos e seguir a razão? Bom, se isso fosse possível seria o paraíso na Terra.
@@ -56812,7 +56039,6 @@ Este é um filme cheio de ideais. Mas como tudo na melhor sétima arte, esses id
 
 # A Teoria de Tudo
 date: 2018-01-11
-slug: a_teoria_de_tudo
 tags: cinema movies
 
 Não dá para dizer que o novo filme de James Marsh, que ganhou o Oscar pelo excepcional O Equilibrista e teve seu Projeto Nim rodando os festivais do mundo e ganhando prêmios, faz qualquer injustiça à vida de Stephen Hawking, o brilhante físico teórico que foi acometido por uma doença neuro-motora desde quando jovem, mas mesmo assim conseguiu dar progresso não apenas à sua vida profissional como pessoal. Nem podemos dizer que o ator Eddie Redmayne (Os Miseráveis) faz um mal trabalho retratando o cientista. Porém, há uma maldição que rondar toda cinebiografia de pessoas que ainda vivem: o endeusamento de um ícone acaba desumanizando o personagem, o tornando uma mera sombra de um indivíduo (o mesmo pondendo ser dito de sua esposa, cujo livro foi a base para este filme), indivíduo este que para se tornar a figura famosa e amada com certeza teria muito mais facetas que justamente os fãs gostariam de conhecer.
@@ -56863,7 +56089,6 @@ Vencidos pelo cansaço, espectadores desse filme com certeza sairão mais tensos
 
 # Forrest Gump: o Contador De Histórias
 date: 2018-01-12
-slug: forrest_gump_o_contador_de_historias
 tags: cinema movies
 
 Difícil não sonhar com este filme. Ele é a síntese da história americana unida com a síntese do seu próprio espírito. Forrest Gump é tudo o que um ser humano médio nunca conseguirá ser, ainda que seu QI seja muito superior ao de Forrest. O que falta em nós e sobra em Forrest é ação. O que sobra em nós e falta em Forrest é o intelecto fruto dos sonhos vazios e incompletos de nossa existência. Dessa forma, Forrest é um ser humano completo como muitos nunca chegarão a sonhar ser.
@@ -56940,7 +56165,6 @@ Sangue e olhares se misturam em uma poesia contada em prosa, tão sutil que esqu
 
 # Eu, Tonya
 date: 2018-01-13
-slug: eu_tonya
 tags: cinemaqui cinema movies
 
 Para quem gosta de biografias que contam a história de esportistas com uma infância difícil, uma carreira rodeada de percalços, uma dose sadia de ironia, um final tragicômico e uma trilha sonora com os hits da época, então "Eu, Tonya" talvez seja para você o filme do ano. Do início, pelo menos.
@@ -57041,7 +56265,6 @@ E há outro momento também, onde simplesmente não há nada a ser dito. É o mo
 
 # O Exorcista
 date: 2018-01-18
-slug: o_exorcista
 tags: cinema movies
 
 O Exorcista. Apesar de cercado de lendas e maldições em sua produção, podemos dizer que o resultado é um pequeno milagre. Se trata de um filme de terror que se constrói aos poucos em cima de um drama e personagens que são bem formados, e não jogados como os terrores de hoje em dia. Ao final, temos pouco mais que 15 minutos de cenas horripilantes. Mas essas cenas horripilantes só são assustadoras porque possuem todo um pano de fundo desta história. É preciso ver para crer o que o Cinema conseguiu produzir mesmo com o uso de bonecas, vômitos voadores e uma criança descendo escadas da maneira mais não-convencional possível.
@@ -57111,7 +56334,6 @@ E voilà!
 
 # Sangue Negro
 date: 2018-01-23
-slug: sangue_negro
 tags: cinema movies
 
 Com uma longa introdução sem falas que praticamente diz tudo que precisamos saber do protagonista para entender seus atos durante toda a longa, mas empolgante, história de sua ascensão na indústria do petróleo, Sangue Negro não perde o ritmo e o significado em nenhum momento. Sua fotografia é delineada por sombras e contornos nítidos no horizonte, sempre a nos lembrar do óleo negro, implícito em cada cena, mesmo que não esteja lá. E, quando está, não raro impregna a face das pessoas ou até as fere. Até a trilha sonora, baseada em sons ritmados, evocam a todo o momento as bombas puxando o petróleo para a superfície.
@@ -57161,7 +56383,6 @@ E assim terminamos mais uma sessão simples e rápida de debug. Quer dizer, simp
 
 # Sherlock: A Study in Pink
 date: 2018-01-25
-slug: sherlock_a_study_in_pink
 tags: cinema series
 
 Um estudo em rosa. A segunda visita a este episódio é mais lenta. Estamos sendo apresentados a Sherlock Holmes, Dr. Watson e como esta série atualiza o formato de histórias clássicas da dupla já imortalizada nos cinemas e na literatura. E o resultado não poderia ser melhor. Cortes ligeiros da mise en scene pela metade criam transições elegantes entre cenários. O uso da tecnologia da internet e dos celulares está totalmente integrado à história. E, de uma maneira meticulosa, engrenada, a edição e a trilha sonora embalam diálogos memoráveis desde o começo.
@@ -57215,7 +56436,6 @@ Claro que este modo fácil de jogar irá acontecer apenas neste piloto oficial. 
 
 # Como Parsear Argc Argv para um map STL
 date: 2018-01-26
-slug: como_parsear_argc_argv_para_um_map_stl
 tags: computer
 
 Os clássicos argv/argc são úteis quando os parâmetros de um programa são conhecidos e geralmente obrigatórios (até a ordem pode ser obrigatória). Isso funciona muito bem para C. Porém, há a possibilidade de STLzar esses argumentos de forma simples, usando a lógica xnix de fazer as coisas e transformando tudo em um map de string para string. E tudo isso cabe em uma função pequena que você pode copiar e levar com você em seu cinto de utilidades:
@@ -57319,7 +56539,6 @@ Dark não se esforça nenhum momento em ganhar a atenção do seu espectador, ex
 
 # Em Pedaços
 date: 2018-01-30
-slug: em_pedacos
 tags: cinemaqui cinema movies
 
 Não há pior dor da perda do que uma mãe e seu filho. E não há sentimento maior de impunidade do que quando sabemos que algo não está certo e vai ficar dessa jeito mesmo. Esses dois sentimentos extremamente pesados estão misturados no ótimo Em Pedaços, que captura uma história de violência do cotidiano de hoje e a torna visceral do começo ao fim.
@@ -57733,7 +56952,6 @@ Que é uma história adulta. Este não é um filme de guerra, mas um filme de po
 
 # Just the Arguments
 date: 2018-02-27
-slug: just_the_arguments
 tags: books philosophy
 
 Just The Arguments, como o próprio nome diz, explora apenas os argumentos dos debates filosóficos mais relevantes na história da Filosofia, e também tenta na contemporaneidade se manter neutro ou equilibrado (como se isso fosse possível).
@@ -58340,7 +57558,6 @@ Mas quando a primeira variável começa a dar problema, o desespero bate na bund
 
 # Arábia (João Dumans, 2017)
 date: 2018-03-24
-slug: arabia
 tags: cinemaqui cinema movies
 
 Arábia é um filme com muitos momentos marcantes. E esses momentos são marcantes principalmente por conta de seus belíssimos enquadramentos, que evocam em todos os elementos presentes em cena o significado da história que está sendo contada. E o mais impressionante é que a história contada é um épico de um homem comum, anônimo, e por que não, invisível.
@@ -58399,7 +57616,6 @@ O roteiro é de uma coesão que vai do começo ao fim em um pulo. O elenco está
 
 # Deixe a Luz Do Sol Entrar
 date: 2018-03-24
-slug: deixe_a_luz_do_sol_entrar
 tags: cinemaqui cinema movies
 
 O estado de luto pró-ativo, ou limbo, é onde a personagem da agradabilíssima Juliette Binoche está, devaneando em torno de inúmeros homens. Mas ela não morreu, nem seu companheiro. Não se trata de um detalhe da história de fato, mas uma das inúmeras metáforas que vamos colecionando no decorrer de "Deixe a Luz do Sol Entrar". Vestida sempre de preto com detalhes escuros ela se senta eternamente nessa montanha russa de emoções aguardando por alguém que a preencha.
@@ -58748,7 +57964,6 @@ Conspirações de Guerra Fria, espécimes raras capturadas em florestas sul-amer
 
 # Ciganos da Ciambra (Jonas Carpignano, 2017)
 date: 2018-04-20
-slug: ciganos_da_ciambra
 tags: cinemaqui cinema movies
 
 Que filme impactante! E extenuante. Quando chegamos na última cena estamos esgotados, e não é pelas duas horas de projeção. Ciganos da Ciambra praticamente nos rouba a alma com seu fundo documental e histórico, e faz isso de uma maneira absurdamente tensa e atemporal. Quando o garoto do filme chega ao final, ele passou por tantas iniciações, e todos os passos necessários para se tornar um homem -- algo que ele deseja muito desde o começo -- que parece que o filme não vai terminar. Pelo menos para nós. Para ele, valeu completamente a pena.
@@ -58914,7 +58129,6 @@ Porém, se para isso teremos que burocratizar o cinema em documentários que tem
 
 # Os Fantasmas de Ismael (Arnaud Desplechin, 2017)
 date: 2018-04-29
-slug: os_fantasmas_de_ismael
 tags: cinemaqui cinema movies
 
 Este é mais um filme sobre o processo de criação. Mas ele é tão intenso que se deixa levar como uma auto-análise do seu criador. Eu disse quase, já que Os Fantasmas de Ismael é um trabalho que se mantém sob controle se você olhar de perto, mas para o leigo, esta é uma aventura muito, muito louca, que com um pouco de esperança irá te dar alguns insights sobre como somos manipulados todo o tempo nas artes cênicas e na literatura.
@@ -58955,7 +58169,6 @@ E por falar em irregular, o diretor Richard Loncraine, que vai de "Wimbledon: O 
 
 # A Câmera de Claire
 date: 2018-05-03
-slug: a_camera_de_claire
 tags: cinemaqui cinema movies
 
 O que é uma foto senão um único snapshot da vida real? E se é apenas um snapshot no tempo, o seu movimento para frente é o que torna as pessoas diferentes. Só alguém muito sensível para perceber isso, e apesar de não estar inserida na história principal, A Câmera de Claire é essa "pessoa".
@@ -58972,7 +58185,6 @@ Os pedaços do tecido cortado pela menina do filme por raiva lembram os polaroid
 
 # Vingadores: Guerra Infinita (Anthony Russo, Joe Russo, 2018)
 date: 2018-05-03
-slug: vingadores_guerra_infinita
 tags: cinema movies
 
 Avengers: Guerra Infinita nem parece ter duas horas e meia. E nem parece ter dúzias de super-heróis. Centrado mais no Mal (com letra maiúscula) frio, calculista e encarnado pela figura de Thanos (Josh Brolin), o "maior crossover da história" (by Marvel) é uma guerra que ocorre em diferentes níveis entre diferentes formas de heroísmo. Preferindo ser narrado como um drama fantástico e urgente que tem a cara, a alma e a paleta de cores dos quadrinhos, o trabalho colossal dos dois irmãos diretores Anthony Russo e Peter Russo atravessa fronteiras entre universos e realiza pequenos milagres na composição de quadro, de ritmo, de narrativa e de roteiro (encaixar todo este instigante roteiro e não torná-lo enfadonho é, sim, um trabalho admirável de direção) de forma a compor o maior trailer já visto na história do Cinema em uma produção massivamente inchada de efeitos. E o fato de sequer repararmos que muitas das mini-histórias que acompanhamos não fazer muito sentido isoladamente ou que o cenário da computação é pesado, mas veio para ficar, é graças a uma produção preparada e pensada 15 filmes atrás, quando o maior sonho que uma criança já teve se tornou realidade nas telonas da sétima arte.
@@ -59151,7 +58363,6 @@ Authur C. Clarke não é apenas um autor de ficção-científica fascinado pelos
 
 # A Vida Extra-Ordinária de Tarso de Castro
 date: 2018-05-16
-slug: a_vida_extra_ordinaria_de_tarso_de_castro
 tags: cinemaqui cinema movies
 
 A única forma honesta de escrever sobre "A Vida Extra-Ordinária de Tarso De Castro" é estando bêbado. E estar bêbado é apenas uma leve reverência ao jornalista, boêmio e mulherengo Tarso de Castro, que é homenageado à altura aqui pelos idealizadores Leo Garcia e Zeca Brito, que constrõem uma narrativa que essencialmente passeia pelo universo cotidiano do que era ser jornalista naquela época.
@@ -59585,7 +58796,6 @@ Pantera Negra, no entanto, preenche uma lacuna aguardando ser preenchida. Ele co
 
 # The Room
 date: 2018-05-24
-slug: the_room
 tags: cinema movies
 
 Este é um review encomendado pelos meus amigos, que insistiram que eu deveria ver e revisar este surpreendente jovem clássico. Sim, é claro que eu já sabia se tratar de um daqueles filmes famosos por estar em muitas listas de piores filmes já feitos, mas apesar de eu já ser um pouco fã do gênero trash acredito que eles conseguiriam muito mais a minha atenção se dizessem que você nunca viu nada igual. E é a mais pura verdade. E digo mais: talvez eu nunca tenha visto nada igual dentro do próprio filme, onde os personagens mudam de ideia e de humor a toda hora.
@@ -59902,7 +59112,6 @@ Já outro país do continente, Portugal, é outra história. Bom para os Uruguai
 
 # Fugindo do Continente
 date: 2018-07-01
-slug: fugindo_do_continente
 tags: cinema series
 
 Fugindo do Continente é uma série de tv de e para britânicos. Ela aborda fugir da sua ilha para morar em algum dos países da Europa, seja Itália, Portugal, Espanha ou França. Dentre outros. É praticamente um guia de consumo e de turismo. Ele é prático, formatado em quatro empreendimentos apresentados pela apresentadora em um nível de corretora de imóveis, e se trata de uma "aventura" totalmente sob controle do conforto do seu sofá.
@@ -60667,7 +59876,6 @@ No entanto, como eu disse, essa janela se abre, mas é muito estreita. Difícil 
 
 # O Animal Cordial (Gabriela Amaral, 2017)
 date: 2018-08-01
-slug: o_animal_cordial
 tags: cinemaqui cinema movies
 
 O Animal Cordial é um laboratório humano. Seu título já é uma contradição em termos, e durante todos os tensos 93 minutos do filme vamos encontrando o animal dentro do homem, mas nunca o cordial. Isso porque vivemos em tempos estranhos, onde a imaginação sobre o ódio atinge níveis utópicos, e nos transforma em indivíduos lutando por um espaço.
@@ -60706,7 +59914,6 @@ Todos os acontecimentos durante todos os anos da infância das três crianças s
 
 # Você Nunca Esteve Realmente Aqui (Lynne Ramsay, 2017)
 date: 2018-08-04
-slug: voce_nunca_esteve_realmente_aqui
 tags: cinemaqui cinema movies
 
 Situado em nosso inconsciente, nas profundezas de nossa sociedade pós-moderna, flutua a realidade e os intermináveis debates sobre o homem comum, esse que vive uma rotina em que, apesar de alguns percalços, tudo parece estar em relativa ordem e estabilidade. "Você Nunca Esteve Realmente Aqui" não fala sobre este homem, mas trabalha do outro lado da equação, onde a violência brutal marca as pessoas que nela vivem, e que para sempre deixaram de ser os mesmos. Sua realidade não possui essa estabilidade com alguns percalços de vez em quando. A realidade é o eterno percalço, com breves momentos, se tiverem sorte, de alguma calmaria.
@@ -60855,7 +60062,6 @@ Pecando talvez apenas por uma trilha sonora excessivamente exagerada na tensão,
 
 # Takara: A Noite que Nadei
 date: 2018-08-16
-slug: takara_a_noite_que_nadei
 tags: cinemaqui cinema movies
 
 Largue essa pressa e esse jeito adulto de ser. "Takara - A Noite que Nadei", apesar de curto, é lento. Bem lento. Isso porque ele explora o tédio através dos olhos de uma criança, ao mesmo tempo que se transforma em um conto para refletirmos sobre liberdade nas mãos de uma criança.
@@ -60886,7 +60092,6 @@ O roteiro é baseado no livro do próprio Paul Gauguin, Noa Noa, que muitos dize
 
 # Brilho Eterno de uma Mente Sem Lembranças
 date: 2018-08-18
-slug: brilho_eterno_de_uma_mente_sem_lembrancas
 tags: cinema movies
 
 Por que as pessoas hoje em dia estão tão ansiosas em ser felizes e se livrar rapidamente das partes ruins de um relacionamento em suas mentes? A pergunta que o roteirista Charlie Kaufman (Quero ser John Malkovich, Adaptação, Anomalisa) e seu parceiro de costume, o diretor Michel Gondry (Natureza Quase Humana, "Rebobine, por Favor", "A Espuma dos Dias") fazem neste filme é: e se elas pudessem?
@@ -60987,7 +60192,6 @@ Com fôlego de sobra para mais um século, O Centenário Que Fugiu Pela Janela e
 
 # As Duas Irenes
 date: 2018-08-21
-slug: as_duas_irenes
 tags: cinemaqui cinema movies
 
 Poucos filmes me deixam sem palavras por causa das camadas emocionais em que ele coloca o espectador (e que depois fica difícil de sair uma a uma). As Duas Irenes é um desses filmes, mas longe do motivo ser apenas a história ou as atuações. É toda a produção. Isso pode ser minha memória afetiva que foi aguçada com tantas referências a uma época que não existe mais. E se for, garanto que vai sentir o mesmo se prestar atenção.
@@ -61014,7 +60218,6 @@ Poucos filmes me deixam sem palavras e com muito a sentir. E esse, quando vemos 
 
 # Meu Novo Parseador de Argc Argv
 date: 2018-08-21
-slug: meu_novo_parseador_de_argc_argv
 tags: computer ccpp blog
 
 Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que "minha função" bonita e completa de parseamento de argumentos argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Ele basicamente percorre o array argv em busca do nome do parâmetro enviado para a função. Uma vez que ele encontre ele retorna o próximo elemento. Na falta de próximo elemento ele simplesmente retorna uma string vazia que não é nulo, mas já indica que há o parâmetro na lista de argumento.
@@ -61255,7 +60458,6 @@ We have heard this message, or if it was not expressed in clear words it surely 
 
 # Como é Cruel Viver Assim
 date: 2018-08-28
-slug: como_e_cruel_viver_assim
 tags: cinema movies
 
 Um "pai de família" procura um emprego de taxista. E nem como taxista ele é aceito. Então ele caminha pela rua, observa os transeuntes em uma praça, e avista uma senhora idosa vendendo alguma coisa de aspecto sujo em uma forma levantada pelo seu único braço. O outro braço ela não tinha. Ele tem um insight, e decide que precisa fazer um sequestro para conseguir ter meios para viver.
@@ -61282,7 +60484,6 @@ Seguindo a tradição em filmes de boxe no Cinema, onde a história nunca é sob
 
 # GetArg: the ultimate badass argv/argc parser
 date: 2018-08-30
-slug: getarg
 tags: computer blog
 
 Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu último artigo sobre o tema. Sim, eu também acho que a versão com STL bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia-a-dia: precisa ter o argc nessa equação?
@@ -62207,7 +61408,6 @@ Após rodarmos novamente o programa ele pára no main. Podemos atachar com o Win
 
 # De Volta ao Jogo (John Wick)
 date: 2018-09-28
-slug: john_wick
 tags: cinema movies
 
 Um drama pessoal que escala em uma espiral de violência e poder em um universo que caminha confortavelmente entre realismo e absurdo. O drama de perder a esposa doente depois de abandonar o trabalho que dava significado à sua vida é um realismo pesado. Roubarem seu carro e matarem o cachorro que a esposa lhe dera como último presente é de um absurdo dilacerante que motiva qualquer um a sair em busca de vingança. E se você é John Wick isso significa uma sentença de morte para muita gente.
@@ -62506,7 +61706,6 @@ Peguei do manual do Linux os passos para a criação da famosa *zavarka*, mas em
 
 # Djon Africa (João Miller Guerra, 2018)
 date: 2018-10-07
-slug: djon_africa
 tags: cinemaqui cinema movies
 
 Djon Africa oferece ao espectador médio em sua camada principal a "historinha": a aventura de Djon em busca de suas origens, em busca do pai. Mas apesar da atuação curiosamente familiar de Bitori Nha Bibinha em uma busca eterna não é isso o que torna o filme fascinante; é o que vem depois.
@@ -62539,7 +61738,6 @@ O Lobo de Wall Street é um filme como poucos, pois ele nos entrega emoção sem
 
 # O Que Fazemos nas Sombras
 date: 2018-10-07
-slug: o_que_fazemos_nas_sombras
 tags: cinema movies
 
 Taika Waititi é um diretor neo-zelandês. Ele uma fez fez um filme chamado Loucos por Nada, um indie onde estrelava o curioso ator Jemaine Clement. Sete anos depois os dois dirigem e estrelam este O Que Fazemos nas Sombras, que é uma versão mais longa de um trabalho homônimo feito em 2005. Então, vejam bem, esses cineastas estão empenhados em explorar as partes bizarras da existência humana, como seus mitos, em forma de mocumentário.
@@ -62732,7 +61930,6 @@ Quase sempre usando sua câmera como microfone, o filme está querendo encontrar
 
 # A Rota Selvagem (Andrew Haigh, 2017)
 date: 2018-10-17
-slug: a_rota_selvagem
 tags: cinemaqui cinema movies
 
 A Rota Selvagem pode parecer simples pelas suas premissas tantas vezes explorada. O garoto que se identifica com um cavalo prestes a ser vendido e abatido por não servir para sua função é exatamente o que o diretor/roteirista inglês Andrew Haigh precisa para materializar o sonho americano em seu formato mais cru, tendo como seu herói uma mente jovem e sem preconceitos. E o resultado é devastador, e seria ainda mais, se não fosse o jeito americano de fazer filmes.
@@ -62749,7 +61946,6 @@ Assim como A Qualquer Custo, este é um filme tipicamente americano. Bom, A Qual
 
 # Guerra Fria
 date: 2018-10-17
-slug: guerra_fria
 tags: cinemaqui cinema movies
 
 Guerra Fria é o tipo de filme que acerta em tantos níveis que se torna injusto tentar resumir todas essas camadas de uma só vez. Porém, podemos dizer que obras sobre essa época tenebrosa que o título confessa geralmente usam apenas a atmosfera conspiracionista para se estabelecer e se esquecem de como as pessoas viviam na época. Felizmente o novo filme de Pawlikowski está concentrado na natureza humana de maneira tão intensa que o resultado é uma síntese brilhante do que significou uma era.
@@ -62768,7 +61964,6 @@ Guerra Fria não é um filme apenas sobre pessoas, mas como essas pessoas são a
 
 # A Favorita
 date: 2018-10-18
-slug: a_favorita
 tags: cinemaqui cinema movies
 
 A Favorita é um filme de época da realeza, mas filmado frequentemente com uma câmera olho de peixe e sempre de um ângulo baixo em longuíssima corredores, essa é uma abordagem fantasiosa, quase surreal. Mas nada é mais surreal nessa época do que os próprios acontecimentos em torno da rainha, que pra variar é uma pessoa doente cercada de parasitas.
@@ -62831,7 +62026,6 @@ De qualquer forma ele consegue contar uma história falsa com certa legitimidade
 
 # A Valsa de Waldheim
 date: 2018-10-21
-slug: a_valsa_de_waldheim
 tags: cinemaqui cinema movies
 
 A Alemanha reconhece a culpa pelo movimento anti-semita da Segunda Guerra e faz de tudo para reparar este dano histórico. Eles chegam ao cúmulo de censurar em plena democracia conteúdo considerado nazista, como a biografia Minha Luta, de Adolf Hitler. Já a Áustria, como visto aqui, em A Valsa de Waldheim, apesar de participar ativamente de práticas nazistas após anexada pelos seu vizinhos, sempre negou qualquer tipo de compensação pelos crimes de guerra relacionados aos movimentos anti-semita.
@@ -62966,7 +62160,6 @@ Feito para o espectador fazer rir, mas não muito, e conseguir através de algum
 
 # 1984 (a peça)
 date: 2018-10-26
-slug: 1984_peca
 
 1984 está nas mentes e na alma de nossa sociedade. Ela foi concebida como um alerta por George Orwell contra o autoritarismo e totalitarismo crescente na Europa da segunda guerra, mas por seu formato universal, tal qual A Revolução dos Bichos, se transforma em um guia útil para qualquer época em que isso for um risco para a sociedade. E, sejamos honestos, sempre existirá esse risco.
 
@@ -63210,7 +62403,6 @@ PS: A sessão da Mostra de SP é gratuita (sem mais-valia) e acompanhada de dois
 
 # Domingo
 date: 2018-11-01
-slug: domingo
 tags: cinemaqui mostrasp cinema movies
 
 É muito fácil tirar sarro da caricatura da burguesia, com sua gente alienada e auto-centrada no próprio umbigo e propriedades. Difícil é, além de tirar sarro, manter o realismo para que os personagens próprios não virem eles próprios caricaturas. "Domingo", trabalho conjunto de dois diretores, Fellipe Barbosa e Clara Linhart, seguindo o ambicioso roteiro de Lucas Paraizo, consegue realizar isso e ainda mantém várias bolas no ar, dando conta de diversos personagens enquanto tece sutilmente sua crítica social.
@@ -63275,7 +62467,6 @@ Econômico em sua narrativa mas eficaz em sua mensagem, A Prece é um ótimo exe
 
 # A Garota na Névoa (Donato Carrisi, 2017)
 date: 2018-11-06
-slug: a_garota_na_nevoa
 tags: cinemaqui cinema movies
 
 Uma garota desaparece em meio à névoa. Surge um inspetor em cena e começam as investigações, sob aquela trilha sonora dramática que todos conhecem. Aliás, alguns thrillers policiais costumam cheirar a clichê desde o primeiro momento até seu final. A Garota Na Névoa não é exceção. Porém, o diretor/roteirista/romancista Donato Carrisi sabe disso e usa esses clichês de maneira distorcida, chamando nossa atenção para detalhes que não costumam ganhar o foco nessas histórias. E é isso a grande reflexão que o filme nos tem a oferecer.
@@ -63574,7 +62765,6 @@ Eu gosto de revisitas ao universo de Harry Potter, e até as mais adultas possue
 
 # Harry Potter e a Pedra Filosofal
 date: 2018-12-07
-slug: harry_potter_e_a_pedra_filosofal
 tags: cinema movies
 
 Assistir novamente a "Harry Potter e A Pedra Filosofal" depois dos atores crescidos e a computação dominar o cenário de efeitos visuais cria uma nostalgia quentinha no coração. Por ser um filme de origem, muitos detalhes da história tiveram que ser contados de forma burocrática, mas a imaginação de J. K. Rowling transforma o exagero do mundo mágico dos bruxos, coexistindo debaixo das barbas dos não bruxos (trouxas, esse é o nome), em uma diversão à parte. Quando uma chuva de cartas inunda a residência dos tios do pequeno órfão Harry Potter nós sabemos que as regras da magia podem dominar nossa percepção daquela realidade.
@@ -63684,7 +62874,6 @@ Na prática, troque possivelmente de "Unicode - Codepage 1200" para "Unicode (UT
 
 # Mary Poppins
 date: 2018-12-11
-slug: mary_poppins
 tags: cinema movies
 
 Mary Poppins é um musical adorável que foi crescendo como um segundo clássico após Noviça Rebelde, ambos trabalhos fenomenais de Julie Andrews como a queridinha que canta e dança. Aqui sua persona é mais rígida, e tem tudo a ver com a história.
@@ -63783,7 +62972,6 @@ Tudo vai mudar quando Brown começa a imputar em sua cabeça a ideia de que have
 
 # Lazzaro Felice
 date: 2018-12-18
-slug: lazzaro_felice
 tags: cinema movies
 
 Este é daqueles filmes que as pessoas assistem e saem um pouco confusas, sem saber direito se entenderam e se gostaram. Mas a boa notícia é que não é necessário desvendar completamente esta pérola para se aproveitar dos momentos dramáticos, cômicos e absurdos deste primeiro longa de ficção da diretora/roteirista Alice Rohrwacher, que ganhou Cannes como melhor roteiro. Sua história é simples o suficiente e seu protagonista cativante o suficiente para que essa fábula se construa como uma ponte entre o divino e o profano.
@@ -63918,7 +63106,6 @@ Essas são apenas minhas anotações preliminares da primeira leitura. São pess
 
 # Westworld
 date: 2018-12-30
-slug: westworld
 tags: cinema series
 
 Eu fui programado para escrever esse texto? Posso responder, na melhor das hipóteses, que eu estar escrevendo este texto é consequência da soma das minhas ações. No entanto, volta outra pergunta no lugar: eu fui programado para executar tais ações?
@@ -64039,7 +63226,6 @@ A história avança e a "complexidade" dá as caras, como a simpática reviravol
 
 # Top Filmes 2018
 date: 2018-12-31
-slug: top_filmes_2018
 tags: cinemaqui lists cinema
 
 Como usar esta lista: Antes de enumerar os 9 (nove) filmes que, acredito, mereçam constar em uma lista de consideração pelo Cinema, explico que listas nunca são exaustivas, nunca são permanentes e nunca são objetivas, mas subjetivas, dependendo do tempo-espaço e da pessoa que a compila. Essa que segue tenta fugir um pouco do lugar-comum, mas que irá falhar miseravelmente porque cinéfilos e críticos costumam enxergar a beleza no mesmo lugar. Porém, eu não assisti a todas as belezas cinematográficas que estrearam no Brasil esse ano, o que me dá um pouco de ponto-fora-da-curvisse salutar.
@@ -64323,7 +63509,6 @@ Empanadas com a minha receita de massa, mas com farinha de trigo italiana tipo 0
 
 # Vidro
 date: 2019-01-08
-slug: vidro
 tags: cinemaqui cinema movies
 
 Dezenove anos atrás. Esse é o tempo que separa Corpo Fechado, início dessa até então trilogia, até sua conclusão, ou expansão desnecessária, inflada e exagerada. Mas nem por isso deixa de ser um trabalho minucioso, curioso e competente de uma saga que se mantém dentro de seus próprios padrões do começo ao fim.
@@ -64526,7 +63711,6 @@ Mas eu gostaria de poder dizer que é interessante notar o rosto com pelos cresc
 
 # A Marcha dos Pinguins
 date: 2019-01-20
-slug: a_marcha_dos_pinguins
 tags: cinema movies
 
 Um documentário sobre o pinguim imperador, que vive no polo sul e que possui um frágil mecanismo para se reproduzir, que requer o comprometimento do macho e da fêmea da relação. A diferença? O filme é narrado como uma historinha contada por uma dessas famílias de pinguins.
@@ -64635,7 +63819,6 @@ Um exemplo de como o mundo pode ser transformado quando uma pessoa decide não s
 
 # Mens@gem Para Você
 date: 2019-01-28
-slug: mensagem_para_voce
 tags: cinema movies
 
 20 anos depois, essa revisita a Mens@gem Para Você demonstra que este filme bonitinho continua bonitinho. E hoje ele é nostálgico. Nos mostra a conexão discada da AOL que os nova-iorquinos mais abastados tinham na época. Mostra Nora Ephron filmando espaços na própria Nova York que ela estava morrendo para filmar. Por fim, mostra dois atores conhecidíssimos de comédia romântica fazendo mais um filme juntos. Adivinha qual dos dois continua fazendo filmes? Acertou: o homem.
@@ -64650,7 +63833,6 @@ Rest in peace, internet discada.
 
 # Um Assaltante Bem Trapalhão
 date: 2019-01-28
-slug: um_assaltante_bem_trapalhao
 tags: cinema movies
 
 Este é o segundo filme de Woody Allen na direção e o primeiro na direção solo. Ele havia feito dupla com Senkichi Taniguchi em "O que Há, Tigresa?". Também roteirizando (com Mickey Rose, como no primeiro filme), aqui está claro que Allen está jogando várias de suas piadas na tela, façam elas sentido ou não no contexto da história. Por exemplo, seu personagem toca violoncelo. E há o momento hilário onde ele toca em uma banda de rua, com ele tentando se sentar em uma cadeira para poder tocar o instrumento, mas a banda nunca para.
@@ -65050,7 +64232,6 @@ Mas o roteirista Pedro Perazzo não nos quer contar. Ele fica repetindo a mesma 
 
 # Tomates Verdes Fritos
 date: 2019-02-10
-slug: tomates_verdes_fritos
 tags: cinema movies
 
 Eu me lembro de ter visto esse filme com minha mãe após ter alugado um DVD na locadora. O que ficou na minha mente por décadas foi a ternura com que a história se desenvolvida. Este é um drama no sentido clássico do gênero. Ele tenta fazer um apanhado histórico nos dando apenas a voz dos oprimidos e seus salvadores. Ou seja, ele é completamente manipulador. Mas é tão tentador acreditar em uma realidade em que só existem opressores e oprimidos. Até hoje em dia tem gente que defende isso.
@@ -65087,7 +64268,6 @@ Esses detalhes não apenas tornam este um projeto especial, como nos faz lembrar
 
 # Clube da Luta
 date: 2019-02-15
-slug: clube_da_luta
 tags: cinema movies
 
 Você já percebeu que em Clube da Luta o personagem de Edward Norton não tem nome? Nos créditos ele é conhecido como "O Narrador". Isso tem tanto a dizer sobre este pequeno clássico da contra-cultura mundial e americana que eu nem preciso me dar ao luxo de revelar qualquer spoiler sobre este filme. Apenas assista e entenda a mensagem que você quiser do velho blá-blá-blá sobre consumismo e dívidas. Ele é tão atual que há uma série inteira (Mr. Robot) sobre o plano do filme e foi filmado uma década antes da grande crise financeira mundial que vivemos. Ele é profético, auto-destrutivo e não há alguém que o assista sem se surpreender pelo menos em um ou dois momentos do filme. E cada um escolhe o seu primeiro e segundo momentos para explodir seu próprio cérebro.
@@ -65376,7 +64556,6 @@ Há beleza humana misturada com natureza, seja em suas construções, palácios,
 
 # Raiva
 date: 2019-02-28
-slug: raiva
 tags: cinemaqui cinema movies
 
 Raiva é adaptação de Seara do Vento, um livro inteiro do escritor Manuel da Fonseca, mas que no filme mais parece um conto. Inspirado em uma ocorrência real (o livro), a história no filme começa com um homem que desistiu da vida que levava. Isso é óbvio quando o vemos carregar sua arma e pular a janela de sua casa. Ele vai fazer justiça? Não sabemos. A única coisa que fica clara é que ele tem um motivo. E naquele momento não importa qual. E como descobriremos mais tarde, quando a dignidade humana é perdida os motivos não importam.
@@ -65503,7 +64682,6 @@ Os idealizadores dessa história foram claramente contratados para produzir um c
 
 # Avatar
 date: 2019-03-07
-slug: avatar
 tags: cinema movies
 
 Existe um sonho de todo homem moderno. Um sonho interno, mais antigo que sua própria existência: voltar à sua essência. Ele consegue senti-lo quando coloca seus pés nus na terra macia, quando sente a vida em torno de si em uma troca de sensações e emoções que se traduzem em nossa linguagem como estar vivo. Sentir a respiração e a brisa passar. Nos sonhos mais malucos da nossa biologia evolutiva, talvez no corpo de um ser alado, sob os olhos de alguma outra espécie, nós voávamos, alto e sem medo, o que explica esse desejo recorrente e selvagem nos registros mais antigos da civilização.
@@ -65530,7 +64708,6 @@ Por falar em passeio, Cameron planeja há vários anos continuações para Avata
 
 # Elegia De Um Crime
 date: 2019-03-07
-slug: elegia_de_um_crime
 tags: cinemaqui cinema movies
 
 Elegia de um Crime me faz pensar na ineficiência de uma torneira automática de um banheiro público. Às vezes a água vem com uma pressão que acaba molhando tudo em volta, obrigando um funcionário estar constantemente secando. Às vezes ela esguicha por muito pouco tempo, obrigando quem a usa a ficar apertando o botão em vez de lavar a mão. O ponto é que, de um jeito ou de outro, aprendemos a conviver com sistemas que parecem ter surgido com defeito desde o começo.
@@ -65580,7 +64757,6 @@ E Todd Strauss-Schulson sequer aproveita o tema escrito a seis mãos para pelo m
 
 # Cães de Aluguel
 date: 2019-03-11
-slug: caes_de_aluguel
 tags: cinema movies
 
 Há uma entrevista no Blu-Ray do filme em que Michael Madsen (Mr. Blonde) comenta quando Kirk Baltz (policial Marvin Nash) pediu para colocá-lo no porta-malas do carro de Madsen e dar uma volta no quarteirão para estudo de personagem (o personagem de Baltz entraria em cena saindo desse porta-malas). Madsen concorda. O carro usado no filme é dele, mesmo. Ele sai pelo quarteirão, coloca uma música no rádio e se empolga. Roda várias quadras além do quarteirão. Para em um Taco Bell. Pede um lanche e um refrigerante. "Sem fritas", confessa, não querendo inventar nenhuma mentira. Ele aumenta o som do rádio para que os gritos de Baltz não chamassem a atenção e alguém ligasse para a policia. Ele come o lanche e volta ao set, abrindo finalmente o porta-malas. Madsen diz: "Se filmássemos naquele momento, com a cara que ele fez ao sair, teria sido muito melhor". Provavelmente seria. Mas o que importa perceber aqui não é o perfeccionismo com que algumas cenas poderiam ficar, mas como os atores já estavam envolvidos até os ossos nesse projeto antes mesmo de começar.
@@ -65599,7 +64775,6 @@ Reservoir Dogs hoje em dia tem tanto cara de cinema independente quando de jovem
 
 # Capitã Marvel
 date: 2019-03-12
-slug: capita_marvel
 tags: cinema movies
 
 "Eu não tenho nada pra provar pra você", diz Capitã Marvel para um homem. Fora a história em si há pelo menos mais dois significados para essa frase no filme. Primeiro ela se refere ao constante "desafio" feito às mulheres, como se por pertencer a outro gênero elas precisassem provar algo além do que se espera de um ser humano. E segundo, e mais importante, ela se refere à própria Marvel. Não à Capitã, mas à produtora. Durante mais de uma década em sua louca trajetória na criação do MCU, o Marvel Cinematic Universe, ela precisava demonstrar todo tempo que era possível fazer histórias que conectassem todos seus super-heróis no mesmo mundo e este mundo ainda fazer sentido. Capitã Marvel é o primeiro após Vingadores: Guerra Infinita, que encerra um gigante capítulo dessa saga ao juntar todos os supers que ela apresentou e desenvolveu em uma série de filmes. E nesse capítulo ela pode enfim respirar aliviada e dizer: "não preciso mais provar nada a você, caro espectador, que foi fisgado nesse universo e dele não deverá retornar nunca mais".
@@ -65622,7 +64797,6 @@ Por fim, Capitã Marvel precisa de alguém para salvar; do contrário não seria
 
 # Amadeus
 date: 2019-03-13
-slug: amadeus
 tags: cinema movies
 
 A grande sacada de Amadeus não é fazer uma biografia sobre Mozart estabelecendo o óbvio: ele foi um músico genial. Isso todos sabemos. O grande trunfo do filme de Milos Forman foi mostrar isso do ponto de vista de uma pessoa que desejaria mais que tudo em ser um Mozart, mas, como a maioria de nós, pobres mortais, teve que conviver com um fato amargo da vida: somos todos medíocres. Aliás, essa é a própria definição de medíocre. A média é o povão. O excepcional acontece de vez em quando.
@@ -65753,7 +64927,6 @@ Parecendo ter sido encomendado como um filme de despedida, "Jorginho Quinle" é 
 
 # Missão Impossível: 3
 date: 2019-03-18
-slug: missao_impossivel_3
 tags: cinema movies
 
 Esse é o meu M:I favorito. Ele como filme de ação nunca se deixa de levar a sério pelas consequências de suas ações. Ele possui uma fotografia sisuda de Dan Mindel, dessas de drama, porque ela fala sobre perdas humanas como se elas fossem reais, e o impacto delas é sentido durante todo o filme. Esse também é a estreia de J. J. Abrams na direção de longas-metragens, e ele está ótimo em conseguir orquestrar três equipes distintas localizadas em três cantos equidistantes do planeta (EUA, China, Itália). E, por fim, esse é um filme onde os efeitos em sua maioria são feitos na vida real e não dentro de computadores. Tom Cruise é um maníaco que dispensa dublês, e sua energia é a única vantagem de ter ele no elenco.
@@ -65808,7 +64981,6 @@ As versões live-action da Disney começam a soar como meras curiosidades estét
 
 # Paris, Te Amo
 date: 2019-03-22
-slug: paris_te_amo
 tags: cinema movies
 
 Este é um mega-projeto de cinema, com dezenas de diretores e roteiristas. Não há apenas o trabalho de compor os curtas, mas de juntá-los. Este é um filme com tantas visões diferentes que ele soa um pouco esquizofrênico. Mas como são todas visões mais ou menos alinhadas com o que a classe artista defende -- o que geralmente quer dizer a mesma coisa -- ele sobrevive ao pluralismo por causa da mesmice impregnada na mente de seus idealizadores.
@@ -65891,7 +65063,6 @@ Isso também reflete no eterno ensaio e criação da peça do filme antes da est
 
 # Dolls
 date: 2019-03-26
-slug: dolls
 tags: cinema movies
 
 Dolls é um filme lento, mas suas três histórias de amor são arrebatadoras. Não são convencionais, e muitos não chamariam de amor, mas não se pode dizer que não são histórias fortes, que mexem com nossos instintos de preservação. Essas pessoas entregaram suas vidas ao destino. Nenhuma é recompensada. E ainda é um filme lindo.
@@ -65926,7 +65097,6 @@ Este é mais um daqueles registros obrigatórios do passado, está no festival �
 
 # Batman Begins
 date: 2019-03-27
-slug: batman_begins
 tags: cinema movies
 
 Batman Begins hoje é óbvio, mas para entender a verdadeira força desse reboot você precisa relacionar com um outro filme chamado Batman e Robin. Assista esse. Eu espero. Esse é o tamanho do gap que se formou entre as duas franquias.
@@ -65967,7 +65137,6 @@ O que é uma pena para um conteúdo tão promissor. É raro vermos filmes sobre 
 
 # Batman: O Cavaleiro das Trevas
 date: 2019-03-29
-slug: batman_o_cavaleiro_das_trevas
 tags: cinema movies
 
 The Dark Knight fala sobre o caos, mas é dirigido por um diretor tão sistemático que esse caos está meticulosamente definido em 50%. O diretor e roteirista Christopher Nolan é o Duas Caras do cinema. Sua outra cara é seu irmão, Jonathan Nolan, que co-escreve aqui o roteiro e consegue nos entregar um material redondo, polido, com toques góticos que nos remetem ao universo consolidado de Batman e que Nolan diretor realça com seu diretor de fotografia com o negro brilhante desta trilogia. E Heath Ledger, o ator que faz o vilão Coringa, esse sim, é o verdadeiro caos que o filme precisava para se tornar a referência que temos de uma adaptação dos quadrinhos bem feita. Aprende, Marvel.
@@ -66038,7 +65207,6 @@ Chamar este filme de irreverente é pouco, mas chamar de polêmico parece um exa
 
 # O Gabinete do Dr Caligari
 date: 2019-03-30
-slug: o_gabinete_do_dr_caligari
 tags: cinema movies
 
 Caligari! Caligari! Caligari! Um grito surdo que se traduz no cinema mudo com este nome sendo escrito pela tela de todas as formas. Este é um dos representantes do expressionismo alemão que inspirou o estilo noir que por sua vez está influenciando o neo-noir. Cenários com sombras distorcidas, elementos exagerados na tela, maquiagem pesada estilo gótico (o de indivíduos, não a arte alemã). É um filme curto que já arrisca detalhes novos na linguagem como paralelismo, sonhos e certa complexidade na história.
@@ -66055,7 +65223,6 @@ Ou seja, fica aqui a dica: expressionismo alemão é coisa de comunista safado.
 
 # As Virgens Suicidas
 date: 2019-03-31
-slug: as_virgens_suicidas
 tags: cinema movies
 
 O primeiro filme de Sofia Coppola, produzido pelo pai, ninguém menos que Francis Ford Coppola, é o debut de uma filhinha de papai que vai melhorando o estilo a cada novo filme, explorando a sofrida vida dos ricos, mas que nesse começa prepotente demais para um dramazinho adolescente cujo drama em si nunca é visto.
@@ -66070,7 +65237,6 @@ Este é um preparativo da diretora/roteirista para filmes mais ambiciosos na nar
 
 # Dez
 date: 2019-03-31
-slug: dez
 tags: cinema movies
 
 Limitados pela visão do banco do motorista e do passageiro de um carro acompanhamos uma mulher em sua nova vida. Divorciada com um filho que não a apoia ela conversa com algumas pessoas. O filme é tão realista que perde a graça na segunda ou terceira conversas de "Dez" que o diretor Abbas Kiarostami quer nos mostrar, divididas por um contador regressivo super-brega.
@@ -66309,7 +65475,6 @@ Mas não espere uma grande história. Eu sei que duas décadas depois de começa
 
 # The ONE Thing
 date: 2019-04-12
-slug: the_one_thing
 tags: books self quotes
 
 The ONE Thing é um livro que comecei a ler inspirado na dica do Robin Wieruch, que já leu um ou dois livros que eu também já li. Este é um clássico da auto-ajuda empresarial e começa ensinando umas poucas e boas para o leitor comum, mas é particularmente inspirador para quem já sabe que as lições de Gary Keller servem mais para ele do que para qualquer outro ser humano no planeta.
@@ -66386,7 +65551,6 @@ Prova disso é seu feminismo chinfrim, ultrapassado, que tenta soar atual em um 
 
 # Meu Nome Não é Ruben Blades
 date: 2019-04-15
-slug: meu_nome_nao_e_ruben_blades
 tags: cinema movies
 
 Rubén Blades é o cantor mais famoso do Panamá. Também já fez pontas de ator em Hollywood, se candidatou a presidente (foi nomeado ministro), faz ataques ferrenhos ao imperialismo americano enquanto mora em Nova York e defende o povo enquanto bebe água Perrier em seus shows. Ou seja, um membro da esquerda caviar básico. Isso tudo você aprende neste burocrático documentário.
@@ -66445,7 +65609,6 @@ As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). 
 
 # O Homem Que Copiava
 date: 2019-04-20
-slug: o_homem_que_copiava
 tags: cinema movies
 
 A sinopse do IMDB diz assim: "André, relatively poor, falls in love with Silvia, a neighbor whom he spies with a telescope." Relatively poor é o que me chamou a atenção, pois isso diz muito sobre o filme. Que é relativamente excelente.
@@ -66762,7 +65925,6 @@ E quando menos esperamos estamos diante de um plano-sequência magistral, tecnic
 
 # Dançando No Escuro
 date: 2019-05-01
-slug: dancando_no_escuro
 tags: cinema movies
 
 "Eu gosto de musicais porque nada de ruim acontece em musicais", diz a personagem de Björk. Bom, ela não contava com um musical por Lars Von Trier. Pobre garota.
@@ -66821,7 +65983,6 @@ Daí vira mais uma série sobre terroristas fazendo o bem matando capitalistas m
 
 # O Passado
 date: 2019-05-04
-slug: o_passado
 tags: cinema movies
 
 O grande problema quando um relacionamento acaba é que, apesar de tentarmos com sinceridade seguir em frente com nossas vidas, a memória do tempo vivido com a outra pessoa existirá para sempre. Quando Rímini (Gael García Bernal) e Sofia (Analía Couceyro) se separam, mesmo que civilizadamente, algo parece impedir que Sofia aceite essa nova realidade. E este é um filme cuja expressão "peso do passado" realmente se sente.
@@ -67154,7 +66315,6 @@ int main()
 
 # Deep Work => Flow
 date: 2019-05-09
-slug: deep_work_flow
 tags: self flow
 
 (Deep Work) => Flow - A proven Path to Satisfaction, de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu On Writing Well (ele possui algumas notas sobre essa leitura também).
@@ -68355,7 +67515,6 @@ O que é mais bonito em Deslembro é que ele possui todas essas camadas intercon
 
 # O Império dos Sentidos
 date: 2019-06-03
-slug: o_imperio_dos_sentidos
 tags: cinema movies
 
 Meu amigo tem um conselho sobre mulheres: "arrume as vadias e fique longe das loucas." Este é um filme pra quem gosta de putaria. Ele tem putaria do começo ao fim. É um homem comendo um monte de mulher, até que chega a novinha louca. Ele não tem um amigo como eu, e está condenado a ser sugado, literalmente e metaforicamente, pela japinha insaciável.
@@ -68418,7 +67577,6 @@ Produzido por uma galera envolvida na área visual, incluindo David Fincher, e c
 
 # Como Vender Drogas Online (Rápido) (Lars Montag, 2019)
 date: 2019-06-09
-slug: como_vender_drogas_online_rapido
 tags: cinema series
 
 Esta série pisca para os nerds. A geração X (é essa mesmo? Fxda-se) não quer nada da vida e o Zuckerberg da Alemanha resolve vender drogas na darkweb apenas por um motivo: bxcxta.
@@ -68652,7 +67810,6 @@ Lucrecia Martel é boa em criar esse clima apático em seus filmes, embora o que
 
 # Quero Ser John Malkovich
 date: 2019-06-17
-slug: quero_ser_john_malkovich
 tags: cinema movies
 
 Nessa época Charlie Kaufman ainda estava explorando mais as ideias do que lustrando o roteiro, mas ainda assim... que filme! Uma ode à insignificância de nossos corpos, e até de nossas almas, inutilmente pulando de corpo em corpo, na esperança de encontrar algo além do que nossos próprios corpos provêm.
@@ -68667,7 +67824,6 @@ O roteiro de Charlie Kaufman é tão original que toda cena empolga apenas por s
 
 # Blade Runner: O Caçador de Androides
 date: 2019-06-19
-slug: blade_runner
 tags: cinema movies
 
 Blade Runner obviamente não é sobre o Caçador de Andróides, nem se você considerar o possível plot twist das entrelinhas, mas sobre a existência desses seres idênticos aos humanos, mas com as emoções ainda a serem criadas. Também é sobre como um único filme tem tantas versões, onde basicamente apenas uma cena envolvendo um unicórnio faz toda a diferença.
@@ -68740,7 +67896,6 @@ Mas enfim, detalhes. O importante frisar é que TS4 mantém a qualidade dos film
 
 # Leitura: How Technology Hijacks People’s Minds from a Magician and Google’
 date: 2019-06-20
-slug: leitura_how_technology_hijacks_peoples_minds
 tags: self
 
 How Technology Hijacks People’s Minds -- from a Magician and Google’s Design Ethicist, de Tristan Harris, foi uma leitura inicial que o SendToKindle cortou, mas pretendo ler o texto completo.
@@ -68761,7 +67916,6 @@ How Technology Hijacks People’s Minds -- from a Magician and Google’s De
 
 # O Círculo
 date: 2019-06-21
-slug: o_circulo
 tags: cinema movies
 
 Uma sociedade realmente sexista existe no Irã e o diretor Jafar Panahi filma a opressão como um documentário em tempo real. É um plano-sequência com cortes. A transição de personagens apenas reforça a universalização da violência sistematizada contra as mulheres em mais um dia nessa sociedade que não tem como enxergar suas falhas assim como um peixe não enxerga a água em que vive.
@@ -68826,7 +67980,6 @@ Estamos no final dos anos 90, mas este é um filme clássico dos 90, com um rote
 
 # Pão de Queijo Mineiro
 date: 2019-06-23
-slug: pao_de_queijo
 tags: food cooking
 
 O pão de queijo é polvilho em pó, a decantação da fécula de mandioca, escaldado em uma mistura de água, leite e óleo ferventes sovado junto de ovos, e misturado com queijo ralado (sal a gosto) para ir ao forno em bolinhas feitas à mão dos mais diversos tamanhos. De acordo com o poste "Química do pão de queijo" cada ingrediente tem sua função:
@@ -69034,7 +68187,6 @@ O Pacto tem claras tendências niilistas, mas sequer sabe disso. Ele lida com su
 
 # Cidadão Kane
 date: 2019-07-09
-slug: cidadao_kane
 tags: cinema movies
 
 Cidadão Kane ainda é relevante esses dias? Votado por cinco décadas como filme mais influente pela associação de críticos mais respeitada do mundo, sendo desbancado finalmente por Um Corpo Que Cai, a única coisa que eu peço antes que você responda essa pergunta é: assista o filme sabendo que quase nenhuma de suas trucagens ou efeitos de montagem e mise en scene existiam antes dele, mas logo depois todos começaram a copiar.
@@ -69055,7 +68207,6 @@ Um Corpo Que Cai, o próximo melhor filme do mundo, ironicamente aborda o mesmo 
 
 # Estou Me Guardando Para Quando O Carnaval Chegar
 date: 2019-07-09
-slug: estou_me_guardando_para_quando_o_carnaval_chegar
 tags: cinemaqui cinema movies
 
 Estou Me Guardando Para Quando o Carnaval Chegar é daqueles documentários com nome longo e história curta. O nome longo foi tomado da música de Chico Buarque e a história curta das lembranças de Marcelo Gomes, diretor do filme.
@@ -69371,7 +68522,6 @@ Esse não é o meu problema. Meu problema é conseguir rodar a solução na cont
 
 # Corpo Fechado
 date: 2019-07-24
-slug: corpo_fechado
 tags: cinema movies
 
 O que segura Corpo Fechado do começo ao fim é o seu tema, que se resume em uma pergunta, a mais instigante das perguntas: seriam os heróis dos gibis exageros do mundo real?
@@ -69862,7 +69012,6 @@ Mas voltando a ter esperança na humanidade. Hoje em dia existem milhares de sé
 
 # On Writing, por Stephen King
 date: 2019-08-16
-slug: on_writing_stephen_king
 tags: books self
 
 Eu lembro que em algum momento entre ler On Writing Well, um livro de William Zinsser sobre melhorar a escrita, e estar escrevendo meus reviews diários sobre filmes comecei a ficar bem insatisfeito com a qualidade dos meus trabalhos. Isso não é novidade para mim, o eterno insatisfeito, e não me surpreendi quando me vi novamente buscando literatura para me aprimorar. Afinal de contas, quando não se está praticando é a hora de afiar seus instrumentos, e esse momento para um escritor não é quando se está escrevendo, mas lendo.
@@ -69949,7 +69098,6 @@ Quando começamos a entender um pouco mais da fábula ela termina. Eis a vida re
 
 # Cria Corvos
 date: 2019-08-19
-slug: cria_corvos
 tags: cinema movies
 
 Engraçado como a memória funciona. Organizada de maneira não-linear em nosso cérebro, perdendo algumas ligações aqui e ali, ganhando outras sem querer... no final das contas esse conjunto de quase-conhecimento sobre nós mesmos, sobre quem amamos ou a sociedade onde vivemos é tudo o que podemos chamar de "eu". A nossa identidade inteira, baseada em frágeis conexões elétricas bem atrás de nossos olhos.
@@ -70078,7 +69226,6 @@ Preciso dizer que este trailer me emocionou de diferentes formas. Formas estas q
 
 # O Invasor
 date: 2019-08-25
-slug: o_invasor
 tags: cinema movies
 
 O Invasor é um experimento da época de reabertura do cinema nacional, lá pelo final dos anos 90 e início dos anos 2000. O diretor Beto Brant tinha até um milhão para gastar e realizaram o que se chamou de filmagens de intervenção. Funciona assim: você "invade" as locações e consegue um tempinho naquele local, geralmente com até não-atores que estavam no momento, de um restaurante, um bar, uma boate, e filmam a cena com os personagens. Barato, colaborativo e inovador.
@@ -70201,7 +69348,6 @@ Há sexo realista, violência realista e diálogos realistas. Contra Todos é qu
 
 # Legalidade
 date: 2019-08-31
-slug: legalidade
 tags: cinemaqui cinema movies
 
 Assistir Legalidade gera sentimentos conflitantes sobre este filme que tenta unir o estilo novelesco com drama político e vai além, abordando outros temas, como filme de espionagem e revisionismo histórico. Com todas essas pretensões fica fácil descobrir por que o resultado deu errado, mas não se trata de um filme completamente descartável, pois há momentos que nos surpreendem por serem tão necessários à filmografia brasileira atual quanto para a democracia naqueles conturbados 14 dias de sucessão presidencial de 1961.
@@ -70228,7 +69374,6 @@ Legalidade pode não ser um ótimo filme. Ele pode até não ser um filme muito 
 
 # O Voto é Secreto
 date: 2019-09-02
-slug: o_voto_e_secreto
 tags: cinema movies
 
 Este filme parece uma propaganda do governo incentivando o voto com não-atores dizendo falas prontas para incitar a reflexão no espectador. Uma pena que o formato seja tão simplório. Sem personagens, sem atores, sem história, O Voto é Secreto consegue no máximo fazer-nos pensar por que está região do mundo está usando democracia.
@@ -70810,7 +69955,6 @@ Sócrates foi exibido na Mostra de São Paulo ano passado, mas agora, espero, de
 
 # Great Movies (Roger Ebert)
 date: 2019-09-22
-slug: roger_ebert_great_movies
 tags: lists cinema
 
 - 12 Angry Men 1957
@@ -71566,7 +70710,6 @@ O Menino que Fazia Rir não é um filme intrincado, manipulativo e que possui re
 
 # Ad Astra: Rumo às Estrelas
 date: 2019-09-24
-slug: ad_astra
 tags: cinemaqui cinema movies
 
 Ad Astra é um filme de mais de cem milhões de dólares indo para o espaço sobre um Brad Pitt aprendendo a deixar seu pai ir embora (Tommy Lee Jones). No caminho, percebendo as referências, aprendemos como alguns filmes icônicos de sci-fi deixaram sua marca nas mentes dos millennials, e junto do personagem de Pitt iremos testemunhar a farofa mais realista que você irá ver sobre exploração espacial esse ano.
@@ -71585,7 +70728,6 @@ Ad Astra gasta bastante do seu tempo em sua apresentação, deixando para segund
 
 # Onde Quer Que Você Esteja
 date: 2019-09-25
-slug: onde_quer_que_voce_esteja
 tags: cinemaqui cinema movies
 
 Pelos sobrenomes dos dois diretores de "Onde Quer Que Você Esteja", Bel Bechara e Sandro Serpa, você não imagina que são casados, mas na coletiva de imprensa que aconteceu logo após a exibição do filme pode-se perceber a simbiose típica que ocorre entre duas pessoas que conviveram muito tempo juntas. Bel é encantada com os detalhes encontrados pelo seu elenco para enriquecer ainda mais seus personagens, como a ideia de Debora Duboc de sua personagem reciclada de um curta poder cantar em algum momento; para ela são esses pequenos momentos que valeram a pena todos os problemas orçamentários pelos quais os dois passaram durante a produção. Já Sandro, introspecto, possui uma visão técnica apurada sobre o projeto, entregando filmes de referência para seus atores se prepararem. No entanto, Bel também se interessa pelo processo, e observa todo o trabalho de ajustar as inúmeras camadas de som de um filme onde boa parte se passa em uma estação de rádio e com pessoas conversando ao fundo. E logo você vê que esta é de fato uma co-direção, onde não há hierarquia, mas parceria.
@@ -71776,7 +70918,6 @@ As expressões de Joaquin Phoenix mantém o mistério do personagem ao mesmo tem
 
 # Seleção de Filmes da 43a MostraSP
 date: 2019-10-07
-slug: mostrasp_43_2019_selecao_filmes
 tags: lists cinema
 
 Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns diretores por filmes anteriores.
@@ -71844,7 +70985,6 @@ A Boia tem cara de um filme que começou de um jeito e terminou do outro. Ele co
 
 # Bacurau
 date: 2019-10-09
-slug: bacurau
 tags: cinema movies
 
 Terceiro filme de Kleber Mendonça Filho, que começou com o ótimo O Som Ao Redor seguido do excelente Aquarius, Bacurau demonstra que o diretor não tem o mínimo jeito para lidar com personagens humanos nem com filmes tensos de ação. Todas suas reviravoltas são previsíveis e não sentimos por nenhuma das mortes. Se trata de uma análise de natureza morta, a intelectualização da condição humana sob o prisma pseudo-humanista de um historiador pensando em Brasil sem olhar diretamente para os brasileiros.
@@ -71973,7 +71113,6 @@ Se no começo o desconforto é evidente por começarmos a entender o drama de um
 
 # O Último Amor de Casanova
 date: 2019-10-12
-slug: o_ultimo_amor_de_casanova
 tags: cinemaqui mostrasp cinema movies
 
 Parte da biografia oficial de Giacomo Casanova, uma mistura entre aventureiro, bon-vivant e relator dos costumes da época, O Último Amor de Casanova é um filme absurdo, lamentável e terrível. Ele não possui um elenco necessário, apenas objetos no cenário para dizer suas falas. Não estabelece conexão com o espectador, mas flerta com a possibilidade de acharmos seu protagonista e suas aventuras amorosas dignas de importância por motivos históricos.
@@ -72392,7 +71531,6 @@ O Relatório pretende ser um filme de investigação política empolgante como S
 
 # Partida
 date: 2019-10-23
-slug: partida
 tags: cinemaqui mostrasp cinema movies
 
 Eis que me preparo para mais uma sessão da 43a. Mostra de São Paulo e chega um homem de microfone na frente da tela, junto de mais meia-dúzia de pessoas. Ele comenta que se chamar toda a equipe para descer até ele o cinema vai esvaziar. São 13:30 e das 200 poltronas da sala umas 40, no máximo, estão ocupadas. Ele se apresenta e apresenta o projeto: essa trupe de colegas e amigos após as eleições do ano passado fretou um ônibus e foram se encontrar com o ex-presidente do Uruguai, o Mojica. E eis que 6 dias depois (tirando a pós-produção, claro) surge Partida, um filme pré-boteco, daqueles que você vê para depois ir pro bar começar uma discussão política.
@@ -72523,7 +71661,6 @@ Sua introdução é instrumental pelo tom de baixar as armas e dar créditos a a
 
 # O Que Arde (Óliver Laxe, 2019)
 date: 2019-10-26
-slug: o_que_arde
 tags: cinemaqui cinema movies
 
 É um sentimento profundo, que vai além da razão, testemunhar uma floresta ser devastada. Árvores caindo ao movimento de um trator e a fumaça denunciando um incêndio não muito longe dali marcam o início de O Que Arde, terceiro filme do diretor Santiago Fillol escrito pelo seu parceiro usual, Oliver Laxe, e ambos não deixam fácil extrair algum significado disso tudo.
@@ -72632,7 +71769,6 @@ Lost Holiday não é nada do que parece à primeira vista, e termina de um jeito
 
 # O Farol
 date: 2019-10-29
-slug: o_farol
 tags: cinemaqui cinema movies
 
 Do mesmo diretor e roteirista de "A Bruxa" surge O Farol, o segundo longa metragem de Robert Eggers e que zera o universo do terror, quebrando a própria quebra de expectativa do gênero e descrevendo sensações à prova de lógica. Analisar este filme usando teorias da linguagem cinematográfica tende ao fracasso. Porém, há um caminho para a compreensão, e talvez seja até uma blasfêmia dizê-lo hoje em dia: entender sobre masculinidade.
@@ -72649,7 +71785,6 @@ Ainda assim, convido todo fã de terror psicológico e estético, movido pelo re
 
 # Segredos Oficiais
 date: 2019-10-30
-slug: segredos_oficiais
 tags: cinemaqui mostrasp cinema movies
 
 Esta é uma história real que envolve política e a Guerra do Iraque deste século, mas está fora do timing; é um filme britânico deslocado dos assuntos do momento, como o #brexit. Além disso, seu assunto jurídico é chato, cheio de detalhes legais que precisamos aprender para entender a trama. Sua heroína é uma subalterna de um órgão terceirizado do governo, sem qualquer appealing. Seu desfecho é totalmente anticlimático, sabotando nosso envolvimento pelas últimas duas horas. E apesar de tudo isso, Segredos Oficiais é absurdo de tão bom. Tenso, comovente, claro e empolgante. Como tudo isso funciona apesar de?
@@ -72848,7 +71983,6 @@ A diretora Céline Sciamma é especialista em retratar figuras humanas pelo sua 
 
 # O Exterminador do Futuro
 date: 2019-11-12
-slug: o_exterminador_do_futuro
 tags: cinemaqui cinema movies
 
 James Cameron cria uma mitologia no primeiro filme de uma série, em que ciborgues assassinos do futuro viajam no tempo para impedir que a humanidade tenha alguma chance de sobrevivência em uma guerra que não se sabe quem iniciou nem como terminará, mas que com certeza foi fruto da tecnologia, da impessoalidade e da paranoia de nossos tempos. Apesar dos efeitos visuais terem aumentado exponencialmente desde o primeiro filme, as várias cenas icônicas da saga vieram mesmo do filme original de 1984, que envelheceu mal e que sabemos quando Schwarzenegger é um boneco de plástico com olhos de ciborgue, mas ainda assim, causa tensão, suspense, terror e reflexões sobre reviravoltas e paradoxos em viagens no tempo.
@@ -72896,7 +72030,6 @@ O próximo e último passo é customizar o código-fonte base no qual a OpenSSL 
 
 # O Exterminador do Futuro 2: O Julgamento Final
 date: 2019-11-14
-slug: o_exterminador_do_futuro_2_o_julgamento_final
 tags: cinemaqui cinema movies
 
 Sarah Connor foi a heroína no primeiro Exterminador do Futuro. Ela resolveu o conflito principal e virou dona do seu próprio destino. Em Terminator 2, James Cameron, auxiliado por William Wisher (que havia contribuído no original com diálogos adicionais), expande não apenas a figura da personagem interpretada por Linda Hamilton, que vira uma protagonista bad ass e narradora em momentos importantes da trama, como se torna, assim como Aliens: O Resgate (também de Cameron), um filme sobre instinto maternal e família elevado às últimas consequências: proteger a humanidade inteira do futuro sombrio que poderá surgir.
@@ -73065,7 +72198,6 @@ Phoebe Waller-Bridge é a roteirista, atriz e produtora desta série. Quem dirig
 
 # O Hospedeiro
 date: 2019-11-20
-slug: o_hospedeiro
 tags: cinema movies
 
 Há vários tipos de cenas em O Hospedeiro tradicionalmente feitas para serem impactantes e emocionantes. A indústria americana em Hollywood popularizou o formato de filme-catástrofe quase que em uma cartilha. E o diretor/roteirista Bon Joon Ho subverte tudo isso, escancarando tantas novas possibilidades que quase nos esquecemos da história principal. Ela pouco importa quando temos tanto a discutir sobre a linguagem cinematográfica em apenas um filme.
@@ -73238,7 +72370,6 @@ O resultado é dinâmico, divertido e superficial. Nada que uma passada na Wikip
 
 # Ninguém Tá Olhando
 date: 2019-12-02
-slug: ninguem_ta_olhando
 tags: cinema series
 
 É gostoso assistir a uma série nova e sua ideia fresca, com algumas sacadas que revisitam temas anteriores, mas sob um novo olhar: o olhar brazuca. É assim que chega Ninguém Tá Olhando na Netflix, um trabalho conjunto entre uma cineasta de curtas documentais de aspecto social (Carolina Markowicz), o autor da terrível série 3% (Teodoro Poppovic) e um editor de filmes com forte fundo social, como Tropa de Elite e Cidade de Deus (Daniel Rezende), que justamente por conta de seus criadores e do formato televisito da rede de streaming vira uma maçaroca de dar dó já no seu terceiro episódio.
@@ -73501,7 +72632,6 @@ Para compilar o mptunnel, a biblioteca libev é um requisito. Para uma uma solu�
 
 # Panetone
 date: 2019-12-11
-slug: panetone
 tags: food cooking
 
 Testei por alguns anos receitas diversas. Cheguei a um cálculo bem simples de seguir que não é tão trabalhoso, embora exija paciência na hora de sovar. Para um panetone médio você vai precisar de:
@@ -73652,7 +72782,6 @@ Como consequência, devemos nos apaixonar novamente pela época para finalmente 
 
 # A Jaqueta de Couro de Cervo
 date: 2019-12-21
-slug: a_jaqueta_de_couro_de_cervo
 tags: cinemaqui cinema movies
 
 A lógica de A Jaqueta de Couro de Cervo é simples, direta e escalável. É daqueles filmes curtos que exploram um tema até seu inevitável final, não nos permitindo sair dos trilhos. Nos limitamos a ficar tensos, aguardando quando as coisas começarão a dar errado, enquanto assistimos nossa própria incompreensão de quando começa o fascínio por uma história de cinema.
@@ -73731,7 +72860,6 @@ Pesquisando sobre como tornar o fermento (e o pão feito com ele) menos azedo qu
 
 # Teasing Master: Takagi-san
 date: 2019-12-26
-slug: teasing_master_takagi_san
 tags: cinema animes cinema series
 
 É muito fácil não gostar dessa série por causa dela não explorar um tema que você goste e esteja na sua zona de conforto, e muito difícil deixar de gostar depois que você entende seu tema pueril. Ela é um respiro de ar livre de tensões fictícias, heróis e vilões, explosões e o salvamento do mundo, ou até como lidar com um poder inusitado. É apenas a história de um menino e uma menina pré-adolescentes. Eles sentam um ao lado do outro na escola e ela o provoca de maneira inteligente, como mulheres costumam agir, e ele encara as provocações como uma competição, como homens parecem encarar toda sua vida.
@@ -73770,7 +72898,6 @@ Enfim, alegorias muito simplistas tendem a entregar resultados superficiais. Aqu
 
 # Harry Potter e o Cálice de Fogo
 date: 2019-12-27
-slug: harry_potter_e_o_calice_de_fogo
 tags: cinema movies
 
 Quarta aventura da série de filmes adaptados dos livros da escritora infanto-juvenil J. K. Rowling, este é o último ainda adolescente e que não envolve tragédias muito acenturadas no dia-a-dia dos estudantes bruxos da escola de Hogwarts. Ele termina com essa transição para o mundo adulto, onde a morte pode e deve acontecer de forma mais frequente para os protagonistas da história. É um arco, mas como filme serve para múltiplos propósitos dentro de uma série, como evoluir as relações do núcleo Harry, Hermione e Ron, além de revelar novas facetas do mundo dos bruxos, como sua existência em outros países, além do perigo sempre iminente que o Ministério da Magia no Reino Unido sofra ataques indiretos pelos capangas do mal maior no universo, representado por Lorde Voldemort.
@@ -73791,7 +72918,6 @@ Segundo filme do diretor David Yates na saga, ele aprende a controlar o universo
 
 # Harry Potter e o Prisioneiro de Azkaban
 date: 2019-12-27
-slug: harry_potter_e_o_prisioneiro_de_azkaban
 tags: cinema movies
 
 O bruxo Harry Potter e seus amigos atingindo uma idade em que a história começa a ficar ligeiramente mais interessante e menos infantil, menos magia por magia, menos efeitos tomando conta da história, embora os efeitos em si criam uma nova dimensão ao entretenimento.
@@ -73812,7 +72938,6 @@ Diferente da trilha sonora anterior, que flertava com uma mistura entre Esquecer
 
 # Top Filmes 2019
 date: 2019-12-29
-slug: top_filmes_2019
 tags: cinemaqui lists cinema
 
 Apesar de sempre mudar no futuro e sempre gerar acaloradas, intermináveis e fúteis discussões entre cinéfilos, as famigeradas listas dos melhores ajudam a colocar uma certa época ou gênero em perspectiva, nos permitindo avaliar melhor através desses exemplos a coleção completa. Claro que cada um terá sua lista e a defenderá até o fim, mas é justamente essa a graça de conversar sobre arte: cada pessoa tem sua experiência muito particular sobre o todo.
@@ -73887,7 +73012,6 @@ Armazenamento: recipientes completamente fechados para não pegar umidade.
 
 # O Labirinto do Fauno
 date: 2020-01-05
-slug: o_labirinto_do_fauno
 tags: cinema movies
 
 Este é um drama político no final de uma guerra. Os perdedores são perseguidos pelos vilões e uma garota que muito lê enxerga uma versão diferente dessa realidade. Ela escapa através de sua imaginação para um mundo onde será uma princesa porque sua vida se transforma em uma fábula onde os caras maus vencem no final.
@@ -73942,7 +73066,6 @@ Este trabalho do diretor e roteirista Peter Greenaway é um inventivo e desleixa
 
 # Cells at Work!
 date: 2020-01-09
-slug: cells_at_work
 tags: cinema animes cinema series
 
 Uma ideia fascinante ensinar o comportamento das células do corpo humano como se o organismo fosse o cenário de um anime onde se travam batalhas épicas em torno de um acontecimento que do ponto de vista macro se trata apenas de um arranhão. No decorrer da história placas são levantadas, explicando a função de cada tipo de célula que corre pelas veias (e provavelmente nos episódios seguintes acompanharemos outras partes do corpo humano). O uso de bactérias como monstros não poderia ser melhor, já que elas observadas pelo microscópio já se parecem com monstros. Esta é uma série de animação japonesa que contém um escopo fechado e histórias didáticas, mas ao mesmo tempo pode entreter. É um dos poucos trabalhos de ficção em que nós queremos aprender mais em vez de nos preocupar com o destino de seus personagens.
@@ -73955,7 +73078,6 @@ As boas ideias do mundo estão condenadas a se tornar séries medíocres de stre
 
 # Antologia da Cidade Fantasma
 date: 2020-01-11
-slug: antologia_da_cidade_fantasma
 tags: cinemaqui cinema movies
 
 Antologia da Cidade Fantasma é um terror psicológico que flerta com questões sociais sem conseguir desenvolver com sucesso nenhuma delas. Porém, a atmosfera opressiva que o clima de inverno exerce sobre essas pessoas é quase um personagem à parte, e isso vale a pena acompanhar.
@@ -74040,7 +73162,6 @@ Maeve Jinkings não por acaso participa do elenco dos filmes de Mendonça Filho 
 
 # Sedução
 date: 2020-01-16
-slug: seducao
 tags: cinema movies
 
 É um filme saudosista filmado nos anos 90 sobre a queda da ditadura espanhola dos anos 30. Ele celebra o amor livre, o laicismo e todas as esperanças do que ainda acham que a República é a solução de todos os males da humanidade. Mas ele o faz de maneira charmosa, sensual e verdadeiramente humanista. É uma comédia sobre amor e sexo, e por isso mesmo está infestado de comentários políticos. Não é na propaganda que se esconde o inimigo, mas nas entrelinhas. Mas não se preocupe, leitor de extrema direita, há mulheres para todos os gostos aqui.
@@ -74103,7 +73224,6 @@ São curiosas as idas e vindas de Testemunha Invisível próximo do seu final. A
 
 # Memórias de Ontem
 date: 2020-02-02
-slug: memorias_de_ontem
 tags: cinema movies
 
 Memórias de Ontem é um filme excepcional dos Estúdios Ghibli sobre personagens da vida comum. Feito nos anos 90 e lançado internacionalmente em 2015, somos levados pelo passado da criança Taeko através da mente da adulta Taeko, que usa suas férias no trabalho como desejaríamos fazê-lo se fôssemos corajosos a esse ponto, tal como a máxima do filósofo Henry David Thoreau: vida a vida que você sonhou.
@@ -74116,7 +73236,6 @@ Apesar de possuir um roteiro episódico e a separação didática de uma passage
 
 # Conto de Inverno
 date: 2020-02-04
-slug: conto_de_inverno
 tags: cinema movies
 
 Um dos filme da quadrilogia do proficiente Éric Rohmer (As 4 Aventuras De Reinette E Mirabelle), Charlotte Véry está leve e tresloucada em um papel de mãe solteira dividida entre três amores: dois presentes não lhe bastam, um ausente é sua razão de viver.
@@ -74269,7 +73388,6 @@ Este é um daqueles filmes do diretor que é uma coletânea de outros filmes? N�
 
 # As Invisíveis
 date: 2020-02-13
-slug: as_invisiveis
 tags: cinemaqui cinema movies
 
 As Invisíveis é uma dramédia alto astral com momentos comerciais que fez com que ele contratasse um batalhão de atrizes em moldes semelhantes à série Orange is The New Black, onde cada personagem tem suas idiossincrasias, enriquecendo e humanizando a história. Dirigido por Louis-Julien Petit, que já trabalhou na segunda e terceira unidades de vários filmes de Hollywood, este é um filme que mescla bem seu drama de "filme de arte" com seu lado mais blockbuster. E é isso o que fez com ele fosse um sucesso de público na França, não o fato de ser protagonizado por mulheres.
@@ -74404,7 +73522,6 @@ A presença de tela de Laure Duchene, apesar de marcante, está ofuscada por um 
 
 # Jojo Rabbit
 date: 2020-02-27
-slug: jojo_rabbit
 tags: cinema movies
 
 Hitler está de volta. E está com tudo. Ele dança, voa pela janela e recruta um garoto de 10 anos em pleno final da segunda guerra mundial. Seu nome é Jojo Rabbit, e ele é um covarde. Filho de pai e mãe liberais no sentido progressista, é um mistério como ele chegou a idolatrar a suástica em uma família como essa. E por falar em mistérios, Taika Waititi, o diretor e roteirista do filme, foi criado com leite com pera e acha que nazismo é sinônimo de malvadões patéticos.
@@ -74449,7 +73566,6 @@ Estreia do filho de Hayao Miyasaki na direção, esta animação dos estúdios G
 
 # Zombi Child
 date: 2020-03-04
-slug: zombi_child
 tags: cinemaqui cinema movies
 
 Das profundezas do meu inconsciente trasheiro, eu esperava, sinceramente, ver zumbis cinematográficos em Zombi Child, um filme que não desiste de apresentar sua "revelação final" mesmo que depois de quinze minutos de tela nós espectadores já soubéssemos qual é.
@@ -74720,7 +73836,6 @@ Boa sorte.
 
 # Deep Work
 date: 2020-03-15
-slug: deep_work
 tags: books self
 
 "Let your mind become a lens, thanks to the converging rays of attention; let your soul be all intent on whatever it is that is established in your mind as a dominant, wholly absorbing idea." - Antonin-Dalmace Sertillanges.
@@ -74822,7 +73937,6 @@ Será que Better Call Saul dá sinais de cansaço em sua fórmula que exige tant
 
 # O Carteiro e o Poeta
 date: 2020-03-19
-slug: o_carteiro_e_o_poeta
 tags: cinema movies
 
 Uma produção fofinha dos anos 90, lembro que foi sucesso na época, assisti a primeira vez em VHS. É um filme feito para o Oscar e para as multidões. Mario Ruopollo é um italiano tão doce e falso quanto o Pablo Neruda do filme. Veja como Philippe Noiret, o ator que faz Neruda, se veste como um poeta, sorri como um poeta e fala como gostaríamos que falasse um poeta. Ele está atuando em um filme e isso é muito claro para o espectador, mas em nenhum momento ele consegue nos convencer de que quem estamos vendo na tela é de fato Pablo Neruda, diferentemente de sua versão como projecionista de um cinema em um vilarejo da Itália no inesquecível "Cinema Paradiso".
@@ -74836,7 +73950,6 @@ Ele deve continuar agradando multidões, mas tendo como pano de fundo o saudosis
 
 # Todo Mundo Quase Morto
 date: 2020-03-21
-slug: todo_mundo_quase_morto
 tags: cinema movies
 
 Sempre que amigos se reúnem para aquela cervejinha básica e começam a conversar sobre zumbis e cinema é inevitável que surjam várias piadas que parecem muito boas de se colocar em um filme. Shaun of the Dead é esse filme, que o diretor Edgar Wright estreou nos cinemas, e que comprova sua energia em dirigir comédias, além de como seu talento será melhor exposto em trabalhos posteriores.
@@ -74931,7 +74044,6 @@ Os sentimentos da diretora holandesa a respeito do roteiro de Greg Latter flutua
 
 # Das Tripas Coração
 date: 2020-03-28
-slug: das_tripas_coracao
 tags: cinema movies
 
 O final das pornochanchadas dá origem a este filme da diretora Ana Carolina, seguidora de Godard na linha de frente contra a lógica opressora burguesa. Ela abandona todo e qualquer sentido neste trabalho onírico que documenta as cantigas e brincadeiras de boca suja de um colégio de garotas e da insinuação de sexo a todo momento com todo mundo. Ela pode levantar a bandeira libertina enquanto não mostra nenhuma nudez nem sexo daquelas garotas com pessoas mais velhas, pois do fundo de um artista da contracultura há uma moral careta como qualquer outra.
@@ -74957,7 +74069,6 @@ Cinema é sexo, como já sugeria a crítica Pauline Kael, nos títulos dos seus 
 
 # O Serviço de Entregas da Kiki
 date: 2020-03-28
-slug: o_servico_de_entregas_da_kiki
 tags: cinema movies
 
 Os animadores dos Estúdios Ghibli são sempre muito empenhados. Até este trabalho menor é encantador em seus detalhes e sua execução. Fala sobre uma bruxinha adolescente que sai de casa muito cedo para encontrar sua cidade e ser útil à comunidade. As dúvidas de uma jovem nunca são diferentes, e portanto o filme sai do comum ao nos mostrar as dúvidas de uma jovem que voa em uma vassoura.
@@ -74985,7 +74096,6 @@ Isao Takahata foi um gênio da sétima arte. Cada novo trabalho que ele empreend
 
 # Central do Brasil
 date: 2020-04-05
-slug: central_do_brasil
 tags: cinema movies
 
 Eu acho que não gosto muito desses filmes da retomada do cinema brasileiro. Prefiro as pornochanchadas, mais honestas, menos desconexas com a realidade. Esse filme estilizado ainda mantém um pé muito forte no "cinematográfico" de Hollywood, mas não apara as arestas de uma cópia do que considera ser cinematográfico (essa palavra no sentido de vendável lá fora).
@@ -75081,7 +74191,6 @@ Um dos melhores filmes sobre ecologia. Nós pensamos do ponto de vista desses an
 
 # Uma Mente Brilhante
 date: 2020-04-05
-slug: uma_mente_brilhante
 tags: cinema movies
 
 Não lembrava como este filme era tão bom. Ou eu não era bom o suficiente para apreciá-lo. Focado apenas na parte lógica da coisa, não percebi o quão madura e humana é essa abordagem de um matemático brilhante, contemporâneo de todos nós, e ainda vivo, com seu drama pessoal o assombrando.
@@ -75234,7 +74343,6 @@ Este é o nono filme creditado para Joel Coen (Ethan ainda não constava nos cr�
 
 # Terrace House
 date: 2020-04-15
-slug: terrace_house
 tags: cinema series
 
 Como o fato dos participantes saberem que se trata de um programa televisionado faz com que a verdade saia pelas beiradas, revelando como personagens são criados e mantidos em rede mundial. A maior crítica que se pode fazer de um reality show é que a parte "reality" nunca consegue se sobrepor ao "show". Se a própria vida já é um show, em que todos estamos apresentando e cuidando de nossos egos quando em público, o que dirá com dezenas de câmeras apontadas para você, interagindo com pessoas que nunca viu na vida.
@@ -75251,7 +74359,6 @@ Como as edições de programas de reality.
 
 # Irma la Dulce
 date: 2020-04-17
-slug: irma_la_dulce
 tags: cinema movies
 
 Longo para ser uma comédia, mas é Billy Wilder que dirige e nenhum minuto parece desperdiçado. A dupla Jack Lemmon e Shirley MacLaine consegue mais uma parceria com química invejável. Ela é linda e cheia de si. E ele será a inspiração de Jim Carrey décadas depois.
@@ -75304,7 +74411,6 @@ Recomendo sempre o "WinDbg.info" como cheat sheet e docs.microsoft.com em seus a
 
 # Quanto mais Quente Melhor
 date: 2020-04-18
-slug: quanto_mais_quente_melhor
 tags: cinema movies
 
 Marilyn Monroe era bojudinha. Não quero dizer gorda. Bojudinha, mesmo. Não é aquele corpo magricelo das mulheres de hoje idealizadas como o modelo de mulher forte, independente e sem graça. Monroe é ela mesma, o que inclui não ser muito boa atriz. Mas tem um certo carisma. E curvas. Imperfeitas, mas, graças a Deus, curvas.
@@ -75316,7 +74422,6 @@ Esta comédia de Billy Wilder mistura ação, gângsters e música, mas não con
 
 # O Castelo Animado
 date: 2020-04-20
-slug: o_castelo_animado
 tags: cinema movies
 
 É daquelas animações dos estúdios Ghibli que tira seu fôlego logo no começo. Magia e detalhes dos ambientes e paisagens que se misturam em momentos que se tornam mais realistas do que se estivéssemos assistindo a um filme live action, com atores de carne e osso, porque a carne e o osso dos humanos não é evocativo o suficiente para os traços desses desenhistas.
@@ -75344,7 +74449,6 @@ A fórmula que ele escolheu, aliás, é a minha favorita, pois consigo fazer out
 
 # Vampiros de Alma
 date: 2020-04-20
-slug: vampiros_de_alma
 tags: cinema movies
 
 Este é o primeiro dessa série de filmes com a mesma história do romance de Jack Finney: uma ameaça de fora faz com que as pessoas se tornem vazias por dentro, mas iguais por fora. Todos os problemas serão resolvidos, desde que todos os humanos se transformem nessa forma sem sentimentos que entram em conflito com a comunidade.
@@ -75443,7 +74547,6 @@ tags: cinema movies
 
 # La Jetée
 date: 2020-04-26
-slug: la_jetee
 tags: cinema movies
 
 Este curta de Chris Marker ficou conhecido como um dos melhores filmes já feitos pela lista de críticos consecutivas vezes. E não é à toa. Sua história é uma poesia do começo ao fim, uma ode à fragilidade da existência humana e aos seus sentimentos e desejos. É uma narrativa pautada em fotos desastrosa no sentido humano, e igualmente aterradora. Nos faz pensar sobre as próprias escolhas da vida, sobre o passado e o futuro, e como o tempo, o nosso tempo, se dissolve a olho nu.
@@ -75578,7 +74681,6 @@ Este é um filme quase documental. Um making off do estado lamentável do cinema
 # Fazenda Capoeira
 date: 2020-05-05
 link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-capoeira/
-slug: fazenda_capoeira
 tags: coffee
 
 Fazenda Capoeira é um café doce, torra clara, pouca acidez e tons de caramelo aveludado. Pouca expressão após degustar, e parece enjoativo no final, mas sempre acabo passando uma nova caneca no meio do dia.
@@ -75599,7 +74701,6 @@ Para que isso funcione para repositórios configurados com chave ssh você terá
 
 # Cinema Paradiso
 date: 2020-05-10
-slug: cinema_paradiso
 tags: cinema movies
 
 Este era meu filme favorito absoluto na época do video-cassete. Já o assisti no cinema e em casa. Devo ter visto umas sete vezes, e duas a versão estendida, que não recomendo. Ela foi a versão exibida inicialmente nos cinemas, mas depois de fracassar com o público, prestes a ser levado a Cannes, os produtores decidiram fatiar meia-hora de projeção e entregar um resultado mais ambíguo, mais parecido com a vida real, onde os amores da juventude se vão e nunca mais voltam. O resultado é conciso e coerente com um arco dramático que presta uma homenagem ao Cinema Italiano, e de certa forma ao cinema como um todo, como nenhum outro filme jamais arriscou. Porém, seu terceiro ato é melancólico e pode ferir as almas mais doces. É um filme que apela para a emoção mais primitiva, mas com um pé no chão fica mais difícil de voar.
@@ -75614,7 +74715,6 @@ Alfredo é interpretado pelo ator francês Philippe Noiret como o urso bondoso e
 
 # O Bug Mais Bizarro que já Resolvi
 date: 2020-05-10
-slug: o_bug_mais_bizarro_que_ja_resolvi
 tags: computer debugging flow assembly reversing_tag crypto
 
 Máquina IBM velha e empoeirada. Criptografia blowfish. Assembly 16 bits. Programa residente. E nenhum depurador funcionando. Tudo o que eu tinha se resumia em dois itens de inventário: o conhecimento, adquirido aos poucos do sistema, e minha imaginação. Era uma amena semana de abril em 2008 isolado em uma sala. Tudo que havia em volta eram papéis com anotações feitas. Observava uma nova pista todo dia, embora sem ter muita certeza. Àquela altura qualquer coisa serviria.
@@ -75800,7 +74900,6 @@ Assisti ao resto na Netflix caseira. Não deu para entender a proposta de Polans
 
 # Easy Rider
 date: 2020-06-01
-slug: easy_rider
 tags: cinema movies
 
 O conto de fadas dos motoqueiros liberais americanos que se meteram em negócios com drogas nos estados americanos conservadores. Um Thelma e Louise masculino. Produzido e atuado por Peter Fonda, escrito e atuado por Dennis Hopper, este road movie independente de baixo orçamento apresenta "lindas paisagens" do deserto americano e se leva a sério demais, em uma ode aos tempos simples, que nunca existiram, em que os homens deixavam de brigar por dinheiro, ou o que quer que existisse na época, seja poder ou valores morais.
@@ -75839,7 +74938,6 @@ A causa desse bug é simples: não existe ambiente para as chaves SSH estarem co
 
 # Awk
 date: 2020-06-07
-slug: awk
 tags: computer
 
 ## Introduction
@@ -75956,7 +75054,6 @@ END { print " - DONE -" }
 # Batalha
 date: 2020-06-07
 link: http://vinhosbatalha.com.br/
-slug: batalha
 tags: wine
 
 Em 1836 ocorre a Batalha do Seival, onde hoje fica o município de Candiota, RS. Esse conflito militar ocorreu quando os revolucionários da Revolução Farroupilha venceram o exército do Império Brasileiro e ensejaram a sonhada República Riograndense. Bons tempos. Em um dos melhores momentos da Guerra dos Farrapos.
@@ -76014,7 +75111,6 @@ Entre os destaques no elenco o melhor deles sem dúvida é Babu Santana, que faz
 # Fazenda São João (Produtor Osvaldo Bachião, Nova Rezende, Sul de Minas)
 date: 2020-06-13
 link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
-slug: fazenda_sao_joao
 tags: coffee
 
 - 2021-05-15 Frutado maduro e tânico, esse Bourbon faz um belo corpo com poucos grãos. Sua persistência é perene; minutos depois do último gole ainda fica a sensação de um ótimo café.
@@ -76075,7 +75171,6 @@ Eu continuo defendendo que a linguagem C seja usada caso surjam contra-indicaç�
 # Malma
 date: 2020-06-21
 link: http://www.bodegamalma.com
-slug: malma
 tags: wine
 
 Faz um ano desde a última viagem para buscar vinho e conhecer lugares na Argentina. Fomos à Patagônia e conhecemos geleiras, Bariloche e essa vinícola de Neuquen que tem o charmoso rótulo de estrelas e um blend fora do comum. Comprei várias garrafas para envelhecer na minha adega e abri hoje mais uma delas. O teor alcoólico deste 2015 está bem menor que a última, e consigo sentir as frutas negras da região de maneira muito nítida, misturadas com o inesquecível Malbec e as frutas mais suaves, secundárias, seguidas de um ligeiro azedo.
@@ -76118,7 +75213,6 @@ Não consigo mais continuar assistindo à terceira temporada de Westworld. Eu se
 
 # Era uma Vez na Anatolia
 date: 2020-06-22
-slug: era_uma_vez_na_anatolia
 tags: cinema movies
 
 A fotografia cria um personagem à parte com suas luzes de diferentes tons enquanto essa trupe de três veículos cruza os pequenos vales de uma região remota e perigosa na Turquia.
@@ -76259,7 +75353,6 @@ Não é apenas alma que falta neste projeto, mas lógica. Senso geográfico. Edi
 
 # War Games
 date: 2020-07-05
-slug: war_games
 tags: cinema movies
 
 Jogos de Guerra se passa no auge dos anos 80. Matthew Broderick é um nerd/hacker vivendo sua adolescência em Seattle e buscando conciliar seus desejos por máquinas, além de uma garota fitness de sua sala. Ambos vivem uma aventura de tirar o fôlego e que se passa dentro de um enorme galpão cheio de luzes piscando e pessoas vestidas de militares. O fantasma da Guerra Fria está desaparecendo, mas fica uma reflexão pertinente quando computadores começam cada vez mais a fazer parte da família americana: qual a melhor estratégia para evitar uma nova guerra senão sequer começá-la?
@@ -76395,7 +75488,6 @@ Série para meninas ou garotas com o tema otaku. Garotas otakus possuem problema
 # Arcanus
 date: 2020-07-20
 link: https://angelyvino.blogspot.com/2017/04/bodega-nanni-vinos-organicos-de-cafayate.html
-slug: arcanus
 tags: wine
 
 Esta é a bodega orgânica da cidade de Cafayate (toda cidade tem suas frescuras). Minúscula a recepção, mas eles possuem um restaurante que funciona à noite (razoável). A visita turística não é muito empolgada nem completa, mas eles fazem o que podem sem estar na vinícola, mas muito próximo do centro da cidade.
@@ -76462,7 +75554,6 @@ Assim como o original, falado em japonês, o que é um plus, mas ele é muito co
 
 # Encontros e Desencontros
 date: 2020-07-26
-slug: encontros_e_desencontros
 tags: cinema movies
 
 Confesso que este filme me dava sono, mas havia algo mágico em seu ritmo quando o vi a primeira vez aos vinte e poucos anos. Ainda que de maneira inconsciente, havia percebido uma linda mensagem por trás dos eventos sempre banais da história dos ricos e famosos.
@@ -76555,7 +75646,6 @@ Durante o laço é mantido um offset que é incrementado a cada novo argumento. 
 # Loretto
 date: 2020-08-04
 link: http://www.loretto.com.br
-slug: loretto
 tags: coffee
 
 Os cafés da Loretto se dividem em três tipos: Bourbon, Espresso e o Gourmet. Bourbon é o mais doce deles, com um sabor mais presente que o aroma. Bom, talvez nenhum desses cafés seja lembrado pelo aroma, e parte disso é por causa de seu sistema de vendas nem sempre entregar os grãos mais frescos ou melhor torrados. Este é um café de exportação e com o mercado agitado fica difícil reter talentos.
@@ -76596,7 +75686,6 @@ Feito isso todo o mundo maravilhoso de .nerd volta a fazer sentido.
 
 # Conversations with Pauline Kael (Will Brantley, 1996)
 date: 2024-04-13
-slug: conversations_with_pauline_kael
 tags: cinema books
 
 "Never give them the excuse to stay home if there's anything there on the screen."
@@ -76666,7 +75755,6 @@ In many ways the perceptions and the observations are more important than the ju
 # Fazenda São Francisco
 date: 2020-08-10
 link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-sao-francisco/
-slug: fazenda_sao_francisco
 tags: coffee
 
 Esse café tem um frescor que não sei se onde vem. Seu corpo é leve, mas o sabor é mais complexo, com notas cítricas, frutadas, misturadas com um levíssimo amargor típico de um café potente. A acidez é quase inexistente, se transformando em uma bebida viciante, onde uma caneca matinal de 300ml já não são mais suficientes.
@@ -76726,7 +75814,6 @@ Bom, há o pai-nosso em francês. Talvez isso baste.
 # Orfeu Descafeinado
 date: 2020-08-12
 link: https://loja.cafeorfeu.com.br/
-slug: orfeu
 tags: coffee
 
 - 2021-05-15 O que pode ser mais bixa que café moído na hora? Café em grãos descafeinado, é claro. Este post é apenas para dizer que, sim, Orfeu Descafeinado em Grãos é que nem o Orfeu tradicional. Mais a bixisse.
@@ -76743,7 +75830,6 @@ Meu prazer estético repousa nas tomadas secas de Éric Rohmer, em como ele obse
 
 # Community
 date: 2020-08-19
-slug: community
 tags: cinema series
 
 Não sei se gosto de Community tanto quanto a primeira vez, uns dez anos atrás. Um de nós três deve ter envelhecido, e não de uma maneira boa: eu, a série ou a sociedade.
@@ -76769,7 +75855,6 @@ Community era uma aula de como crescer em comunidade mesmo sem ter a mínima no�
 
 # Jaspion: mais profundo que Star Wars
 date: 2020-08-19
-slug: jaspion
 tags: cinema series
 
 Não à toa, essa série japonesa dos anos 80 fez enorme sucesso no Japão e no mundo. Ele eleva a fórmula de ação japonesa com monstros gigantes (gênero conhecido como tokusatsu) a um novo patamar, adicionando estrutura no roteiro, direção coesa, trilha sonora envolvente, efeitos visuais satisfatórios (até hoje), poucos diálogos explicativos (o que é uma mania japonesa, principalmente em animes) e profundidade filosófica mais madura que Star Wars (o que não é difícil, mas convenhamos: é sobre monstros e um robô gigante).
@@ -76786,7 +75871,6 @@ E é através desses poucos diálogos e situações que reside a profundidade fi
 
 # John Wick 3 - Parabellum
 date: 2020-08-19
-slug: john_wick_3
 tags: cinema movies
 
 Está sentindo um cheiro de "trilogia" no ar? Um estúdio se deu bem no seu primeiro filme de ação dirigido por veteranos na arte das cenas de luta. E agora temos que aguentar mensagens sociais até em filmes de ação. A arte no século 21 respira justiça social, e por isso as salas de cinema fedem tanto. Porém, Parabellum possui um nome elegante e uma marca de grife de filmes tentando se estabelecer no ramo. Esta terceira versão é muito mais John Wick versão luta coreografada com um ator que finalmente mostra sinais de velhice, e menos aquele drama intimista sobre nossos fantasmas do passado que o original ensaiou fazer. Se você gosta dessa versão, vai adorar as cenas de morte e luta e sangue. Se quiser ver filme de ação para refletir, imagine esse mundo subterrâneo em Nova York e como praticamente todo mundo, desde os mendigos até os ricaços, parecem jogar. E existe hierarquia, e existe o poder do Capital. A única diferença são armas. Muitas armas. Quer dizer, talvez não haja diferença nenhuma.
@@ -76836,7 +75920,6 @@ Já havia estudado este final há muito tempo e nem lembrava mais. Ter empatada 
 # Santo Grão
 date: 2020-09-05
 link: https://santograo.com.br
-slug: santo_grao
 tags: coffee
 
 O doce tânico, o corpo médio, a caneca de café perfeita, regular, mas falta algo. Equilibrado demais, talvez? Não. Experimentei tomar com uma proporção mais pesada, 10g por 100ml, e fez diferença. O sabor mais presente revela uma combinação inebriante entre o amadeirado tânico da torra média e o amargor que envolve esse café aveludado. É um dos cafés mais equilibrados de linha que já provei.
@@ -76877,7 +75960,6 @@ Todas as pessoas nesse filme acabam se tornando versões piores de si mesmas. Um
 
 # O Livro de Cabeceira
 date: 2020-09-07
-slug: o_livro_de_cabeceira
 tags: cinema movies
 
 Esta adaptação do texto clássico japonês recebe o tratamento experimental do diretor Peter Greenaway, o que quer dizer que durante quase todo filme você vai se sentir dentro de uma daquelas salinhas de museu de arte moderna vendo um vídeo conceitual. Infelizmente este vídeo tem duas horas de duração.
@@ -76920,7 +76002,6 @@ Kaufman anda se soltando cada vez mais em sua estrutura. Este é o seu filme mai
 # Serra Negra
 date: 2020-09-25
 link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-serra-negra/
-slug: serra_negra
 tags: coffee
 
 Nossa, que café sensacional. O nível ideal dele está próximo de 20 gramas por 350ml (6g por 100?), ou talvez um pouco mais. Deixei mais que 30s (porque ele estava inchando e fazendo um espuminha convidativa) e menos que 1 min em infusão para duas canecas (36g). O resultado é um café encorpado, frutado, tânico e com um retrogosto complexo. São aromas e sabores maduros, que dialogam com você. Na temperatura ideal, um pouco acima do corpo humano, é uma bebida dos deuses. Você de fato sente uma acidez equilibrada e um final licoroso, alcoólico. Achei que estava brincando na embalagem, mas é verdade.
@@ -76928,7 +76009,6 @@ Nossa, que café sensacional. O nível ideal dele está próximo de 20 gramas po
 # Sul de Minas
 date: 2020-09-25
 link: https://cafedocentro.com.br/sul-de-minas/
-slug: sul_de_minas
 tags: coffee
 
 Da série Café do Centro, este Gourmet Especial de Origem diz "grãos selecionados e torrefação precisa criam uma textura perfeita de aroma e sabor inigualáveis". Nota final: cítrico equilibrado. Não sei muito o que dizer sobre esse. É café. Não há aroma nem sabor muito especial. Sente-se o tanino e o equilíbrio cítrico, claro, mas não tem personalidade. É um café bom. O quanto isso é digno de um gourmet também não sei. Só sei que é melhor que de mercado. E se vende em grãos, o que para meu paladar é uma vantagem.
@@ -77004,7 +76084,6 @@ E apenas alguns verão o que realmente importa. E será delas o reino dos céus.
 
 # Flow: The Psychology of Optimal Experience (Mihaly Csikszentmihalyi, 1990)
 date: 2020-09-27
-slug: flow
 tags: books self flow
 
 Este é um dos livros mais importantes que já li e acredito que pode ser muito importante para você também. Por isso quero dedicar algumas linhas para argumentar por que você deve lê-lo, ainda que ele seja denso demais para a maioria das pessoas.
@@ -77079,7 +76158,6 @@ Para extrair significado de um sistema de crenças, a pessoa deve primeiro compa
 
 # Festa de Família
 date: 2020-09-29
-slug: festa_de_familia
 tags: cinema movies
 
 O Dogma 95 foi um movimento iniciado por diretores escandinavos como Lars von Trier (conhecido fã de Hitler e seu trabalho) que "prega" que um filme para fazer parte do Dogma deve seguir uma série de limitações em sua produção, como ausência de sons inseridos, a câmera deve acompanhar os atores onde eles forem (então ausência de iluminação artificial também). Ausência de qualquer peça de cenário que já não fizesse parte da locação. A lista é bem extensa e torna a tarefa do diretor mais desafiadora e interessante.
@@ -77089,7 +76167,6 @@ E por isso que este representante do Dogma 95 até que é bem feito, o que faz p
 # Kaynã
 date: 2020-09-29
 link: http://kayna.com.br/cafe/
-slug: kayna
 tags: coffee
 
 Doce, pouco ácido. Feito em uma fazenda orgânica que visitei com amigos há um ou dois anos, a fazenda produz alimentos sustentáveis e tentam diminuir ao máximo as pegadas de carbono. A torra deste café é média, mas possui bom corpo e amargor leve. Você pode encontrá-lo moído ou em grãos no mercado Santa Luzia em São Paulo. Eles entregam na capital de bike. É muito esforço para deixar de ser admirável. E é um bom café de verdade.
@@ -77126,14 +76203,12 @@ Um thriller futurista meio dark. O mistério no ar no primeiro episódio não é
 
 # Blend-S
 date: 2020-10-04
-slug: blends
 tags: cinema animes
 
 Esta é uma comédia sobre o trabalho. O trabalho que dá arrumar trabalho. Maika é a recém-contratada garçonete de um lugar em que os funcionários adotam personalidades para interpretar para seus clientes. Ela foi escolhida como super-sádica, seja lá o que isso signifique. Ela trata mal seus clientes e é isso. Enfim, um lugar como qualquer outro em São Paulo. Deve ser novidade isso no Japão. Precisamos exportar brasileiros para lá (mais). O interessante é que o cliente não escolhe quem vai atendê-lo. Tomara que ele dê sorte e seja pisoteado ou agraciado.
 
 # Crimes e Pecados
 date: 2020-10-04
-slug: crimes_e_pecados
 tags: cinema movies
 
 Este Woody Allen é um dos melhores. Ele flui com habilidade seu tema de moral versus niilismo, e a situação com que seus personagens se encontram no final do filme denota que seu pensamento de jornada é completo, complexo e que te faz pensar para o resto de sua vida. A forma com que ele ressucita um jantar à mesa com os familiares, uns defendendo a existência de um ser superior, sem o qual não existem leis, e outros defendendo a irrelevância perante o caos. Tudo é muito bem amarrado nas tramas particulares dessas pessoas. Esse filme é o ponto de virada de um cineasta que até então estava bem-humorado, mas que agora resolveu criar seus próprios dramas russos. E este é um exemplo de que cinema pode ser tão tenso e complexo quanto um romance literário clássico.
@@ -77171,7 +76246,6 @@ Sendo assim, segue a lista desse primeiro fim-de-semana. Os textos estão horrí
 # Gaintus Radical
 date: 2020-10-04
 link: https://www.montrubi.com/radical
-slug: gaintus_radical
 tags: wine
 
 Que uva é essa. Ela é bem diferente. Azeda, espanhola. Da região da Catalônia. Corpo parece fraco, mas é médio, intensidade do sabor curiosa. Dá pra passar um bom tempo pensando nesse vinho enquanto bebe. Melhor assim que abre. Depois é pra trocar ideia com os amigos.
@@ -77197,7 +76271,6 @@ Há algumas reviravoltas e a primeira temporada termina inacabada, insatisfatór
 
 # I Can't Understand What My Husband Is Saying
 date: 2020-10-04
-slug: i_cant_understand_what_my_husband_is_saying
 tags: cinema animes
 
 Esse é da série de animes com três minutos o episódio. É mais frenético que o "Love is Like a Cocktail" porque já apresenta o conteúdo para quem conhece os nomes e seus significados. O marido é um otaku. A esposa não o entende. E nem nós. É maçante se você não tem o mínimo de afinidade com os assuntos de um otaku. Não chega a ser engraçado porque falta compreensão. É como ficar ouvindo (ou lendo) adolescentes contemporâneos usando gírias e dando risada de vez em quando. Do que eles estão dando risada? Talvez de mim, que sou velho.
@@ -77205,7 +76278,6 @@ Esse é da série de animes com três minutos o episódio. É mais frenético qu
 
 # Keep Your Hands Off Eizouken!
 date: 2020-10-04
-slug: keep_your_hands_off_eizouken
 tags: cinema animes
 
 Este anime apela para fãs do anime, mas também apela para fãs de arte. E a arte neste primeiro episódio é primorosa. Em um jogo de estilo pelo estilo, a primeira cena da história da vinda de Midori Asakusa para seu novo habitat (um clichê típico) se transforma em um mini-guia do que será este episódio, mas também serve como um guia para o que podemos esperar de toda a temporada ou série, validando minha opinião de que para avaliar um anime bastam alguns minutos (claro que ele pode logo depois distorcer tudo porque uma equipe diferente foi contratada, mas você pegou a ideia).
@@ -77216,7 +76288,6 @@ Mas não é apenas isso que está em jogo. Ao ligar o modo "crítico de anime", 
 
 # Love is Like a Cocktail
 date: 2020-10-04
-slug: love_is_like_a_cocktail
 tags: cinema animes
 
 Fiquei muito empolgado com essa ideia de animes com episódios de três minutos. Três meros minutos. Enquanto isso a Netflix e o Prime Video nos bombardeiam com séries de uma hora de um irrelevante primeiro episódio que já dá vontade de parar no meio.
@@ -77231,14 +76302,12 @@ Mal espero quando começarem as séries com alguns segundos o episódio. Ops, j�
 
 # Love Tyrant
 date: 2020-10-04
-slug: love_tyrant
 tags: cinema animes
 
 O piloto dessa série é absurdamente hilário. Infelizmente a sequência não é a mesma, se perdendo já em formatos formulaicos. De qualquer forma, vale pelo piloto. Assista e caia fora. Envolve triângulo amoroso, assassinatos de mentira, homossexualidade forçada e incesto. Tudo em um pacote só. Estas são brechas magníficas para aflorar as piadas orientais sobre relacionamentos. Também são mensagens bem óbvias de o quão ridículo pode ser a forma como os orientais enxergam esse nosso ocidente indo pras cucuias.
 
 # Tonari no Seki-kun: The Master of Killing Time
 date: 2020-10-04
-slug: master_of_killing_time
 tags: cinema animes
 
 Este é um anime do estilo ideia fixa, como "Teasing Master", onde uma única ideia será mostrada a cada episódio. A ideia no caso é um menino que fica brincando de invencionisses durante a aula e a menina que senta do lado simplesmente não consegue se concentrar. Ela precisa entender o que ele está fazendo. É a comédia do exagero que os japoneses fazem tão bem.
@@ -77246,7 +76315,6 @@ Este é um anime do estilo ideia fixa, como "Teasing Master", onde uma única id
 
 # My First Girlfriend is a Gal
 date: 2020-10-04
-slug: my_first_girlfriend_is_a_gal
 tags: cinema animes
 
 Não tire conclusões precipitadas. Gal é a transliteração de gyaru, do inglês girl, ou garota, mas não é apenas sobre garotas que este título fala. As Gals do anime são garotas que seguem o modelo exagerado (do ponto de vista japonês) com que as garotas se produzem. E a Gal que este virjão começa a namorar na série dá a exata noção de o quão distante ele estaria na vida real de uma mulher dessas. Felizmente ele é um personagem de anime.
@@ -77263,7 +76331,6 @@ O desenho icônico dos anos 50 e 60 apresenta hoje uma série de frases icônica
 
 # Pop Team Epic
 date: 2020-10-04
-slug: pop_team_epic
 tags: cinema animes
 
 Olha o nível dessa série: ela apresenta um enredo formado, uma música e introdução e... simplesmente para e você vê duas adolescentes com traços no mínimo estranhos dubladas por dois marmanjos. E há uma sequência ininterruptas de quadros totalmente não-relacionados uns com os outros, exceto essas duas meninas. E ao final assistimos ao mesmo desenho com outros dubladores (a parte francesa com legenda).
@@ -77308,7 +76375,6 @@ Além disso esta é uma série que de fato dialoga com seu público-alvo e enten
 
 # Tsudedure Children
 date: 2020-10-04
-slug: tsudedure_children
 tags: cinema animes
 
 Quem nunca não consegui se declarar para seu amor? Este curto anime apresenta uma coletânea desses encontros e desencontrols no colégio. Há situações que você pode se lembrar de ter vivido, ou de ter ouvido de seus amigos. Algum desenhista de um novo mangá pode pegar algumas ideias deste anime para criar uma série inteira. Acho que o processo para a criação desse foi o inverso.
@@ -77384,7 +76450,6 @@ As piadas são hilárias. Esta é a série de comédia de uma piada só que func
 
 # Miss Kobayashi's Dragon Maid
 date: 2020-10-13
-slug: miss_kobayashi_s_dragon_maid
 tags: cinema animes cinema series
 
 ## Atualizado em 2020-10-22
@@ -77455,7 +76520,6 @@ O raciocínio no Cinema funciona mais por intuição do que pela prática analí
 # Fazenda da Serra
 date: 2020-10-22
 link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-da-serra/
-slug: fazenda_da_serra
 tags: coffee
 
 Esse café é diferente do que se costuma provar nas rodas gourmet. Ele possui atributos florais, e não frutados. É menos doce, mais aromático (até no sabor) e pode soar sem graça para alguns, mas é o equilíbrio entre as nuances a chave para entendê-lo.
@@ -77656,7 +76720,6 @@ A consequência é um ótimo filme, independente de sua origem e adaptação. A 
 
 # Irmãs Jamais
 date: 2020-11-07
-slug: irmas_jamais
 tags: cinema movies
 
 História sobre uma família da cidade turística de Bobbio, na Itália. A família é de verdade, mas a história é fantasia. O IMDB o chama de "nostalgic fantasy documentary", mas soa mais ficção estilizada. As atuações e os ângulos da câmera nos convencem mais do que a história, que é irrelevante. Este é um filme sobre personagens e a passagem do tempo. A caçula da família cresce a olhos vistos e um efeito Boyhood ocorre durante o filme. As filmagens de Marco Bellocchio são primorosas e o elenco familiar afiado. O diretor gosta de alusões à nostalgia, como seu mais recente Belos Sonhos. Estes são filmes gostosos de assistir sem o comprometimento de se preocupar em seguir uma história com começo, meio e fim.
@@ -77844,7 +76907,6 @@ Os donos não mudaram. A mídia não mudou. Ele está atendendo uma demanda do m
 
 # O Balão Branco
 date: 2020-12-06
-slug: o_balao_branco
 tags: cinema movies
 
 As caras que essa menina faz compensam qualquer momento chato do filme. Ela chora como se não houvesse amanhã, fica irritada, desesperançosa. Seu jeito de juntar as mãos, sua maneira insistente de pedir. Ela fica receosa e nós ficamos receosos por tabela. Será que alguém vai ouvi-la? Todos escutam, mas ninguém de fato ouve. Fica esse suspense. A câmera de estreia do pupilo de Kiarostami, o diretor Jafar Panahi, não perde a metrópole em volta da pequena Razieh. Todos estão atarefados para o feriado de Ano-Novo e ela só quer um peixinho dourado vistoso para a hora da virada, uma tradição na região do Irã. Em vários momentos tememos se ela conseguirá, porque a tensão é muito poderosa nesse tipo de filmagem. Na maioria do tempo vemos o rosto dela ocupando a tela ou um adulto atarefado, alheio ao seu drama. E não estamos todos alheios aos dramas dos que passam do nosso lado? Um soldado senta-se para conversar brevemente com ela. Ela aprendeu a não falar com estranhos, mas ele vem de uma cidade pequena onde todos se conhecem e não existem estranhos. E é isso o que está sendo discutido nas entrelinhas. Essa alienação da cidade grande. Ninguém confia em ninguém. Nós como espectadores enxergamos aquela pequena menina como uma vítima da cidade e seus perigos. Ela carrega uma nota graúda consigo e isso é suficiente para ela correr grande risco. Que filme tenso, cômico, imperdível. Nenhum momento é desperdiçado. No último minuto surge o garoto do começo. O que vende balões. Ele já vendeu quase todos. Só falta o branco do título do filme. Quando a menina e seu irmão finalmente conseguem resolver o impasse ele vira paisagem. É o novo estranho. E ninguém liga para estranhos em uma cidade grande.
@@ -77902,7 +76964,6 @@ A primeira metade do filme é inspirado, dinâmico. A segunda metade falha em n�
 
 # Fazenda Tijuco Preto
 date: 2020-12-09
-slug: fazenda_tijuco_preto
 tags: coffee
 
 A Fazenda Tijuco Preto fica em Sul de Minas, em Andradas. Comprei do estoque da Grão Gourmet porque meus cafezes estavam acabando e era o único disponível em grãos. Essa torra média possui baixa acidez, levíssimo amargor e um corpo fácil de tomar sozinho. Pouco aromático, é o famoso não fede nem cheira, que agrada paladares menos afeitos a disposições agressivas das moléculas presentes em torras e frutos mais algozes. PS: sabor mais floral, menos frutado.
@@ -77927,7 +76988,6 @@ Mel dels, o filme é de 2003. Mas já nasce velho. Podia jurar que esse futuro �
 
 # MIB: Homens de Preto
 date: 2020-12-12
-slug: mib_homens_de_preto
 tags: cinema movies
 
 Revisitado, MIB cheira a anos 90. Tommy Lee Jones está fabuloso como o funcionário de uma agência de relações intergalácticas que se diverte apagando a memória das pessoas até se cansar e voltar para sua amada. Will Smith repete seu personagem da série Um Cara no Pedaço misturando ginga hip-hop e uma força de vontade incompreensível de ser um policial. Ambas as aspirações não são harmônicas. O único momento que entendemos sua motivação é quando ele conhece a gracinha da legista, que irá descobrir que existem mais anatomias no universo do que sua vã filosofia compreende. Oscar ou indicação de efeitos visuais e maquiagem mais que merecidos. Mais de 20 anos depois o filme funciona. Desde então Tommy Lee conseguiu refinar sua persona em trabalhos intimistas, enquanto Will Smith inflou seu ego do tamanho da galáxia e investe seu tempo em grandes produções onde é ele mesmo ou em produções menores onde é uma pessoa muito sábia e altruísta. O plot twist que ele não descobriu é que a galáxia comparável com o tamanho de suas capacidades de atuação é equivalente ao do filme.
@@ -78020,7 +77080,6 @@ Não irei adicionar mais tarefas, pois estas estão em andamento e devem continu
 # Villa do Luca
 date: 2021-01-07
 link: https://www.vivino.com/villa-doluca-klasik-red/w/1178475
-slug: villa_do_luca
 tags: wine
 
 Eu não sei como analisar este vinho. Há uma uva nele bem diferente do usual. Ela é turca, veio lá da vila do Luca. Descobri que na Turquia há uma das maiores viticulturas do planeta, mas infelizmente eles não produzem tanto vinho assim há séculos por causa da religião local que proíbe o consumo de álcool. Apenas recentemente a produção aumentou devido ao incentivo para as exportações, embora a grande maioria das uvas sejam para consumo não-alcoólico. Esta uva, Okuzgozu cheio de pingos, junto do blend com Shiraz e Merlot garante um aspecto mais tânico que essas outras duas, mas mais frutado. É bem diferente do usual dos vinhos europeus e inclusive do Novo Mundo.
@@ -78028,7 +77087,6 @@ Eu não sei como analisar este vinho. Há uma uva nele bem diferente do usual. E
 # Stamnaki Moschofilero
 date: 2021-01-10
 link: https://www.vivino.com/stamnaki-moschofilero/w/4956043
-slug: stamnaki_moschofilero
 tags: wine
 
 Mais um da série "uvas estranhas", Moschofilero é uma aromática uva branca grega, e Stamnaki é um rótulo da região. Apesar de vinho branco esta garrafa vem fechada com rolha, algo incomum para o gênero. Não sei se ela é aromática de fato, mas o sabor é mais pronunciado, azedo e tânico, do que normalmente vinhos brancos são. Pode ser degustado sozinho, mas para os apreciadores de branco vai parecer ligeiramente mais forte, apesar de não tanto quanto um tinto de uva madura.
@@ -78036,7 +77094,6 @@ Mais um da série "uvas estranhas", Moschofilero é uma aromática uva branca gr
 # Stamnaki Agiorgitiko
 date: 2021-01-12
 link: https://www.vivino.com/stamnaki-agiorgitiko/w/5367261
-slug: stamnaki_agiorgitiko
 tags: wine
 
 Outra garrafa grega que abri (dessa vez tinto, mas mesma vinícola) possui um corpo forte e um vinho azedo e com aroma que se esvai rapidamente. Frutado, mas diferente do Malbec padrão, encorpado.
@@ -78053,7 +77110,6 @@ Hoje a série ainda é exibida, mas poucos a conhecem. E é assim que toda obra 
 
 # Túmulo dos Vagalumes
 date: 2021-01-28
-slug: tumulo_dos_vagalumes
 tags: cinema movies cinema animes
 
 Esse é um filme que me foi apresentado a primeira vez 15 anos atrás como o filme mais triste que eu veria e que choraria litros ao vê-lo. Não chorei, e para falar a verdade não havia entendido muito bem o drama por trás da atmosfera fatalista que cerca este garoto e sua irmãzinha, sobrevivendo os últimos meses da guerra sem qualquer suporte familiar ou comunitário.
@@ -78101,7 +77157,6 @@ Poderia conter um núcleo mais coeso e enxuto. O apelo comercial estende a hist�
 # Fazenda Baobá
 date: 2021-02-15
 link: https://bsca.com.br/property/show/id/128
-slug: fazenda_baoba
 tags: coffee
 
 No meio das minhas compras de estocagem de café peguei 250g deste grão que veio lá da região de Média Mogiana, em São Sebastião da Grama, interior de SP (mas do lado de MG). Ele pode ser encontrado no mercado Santa Luzia e comprado online.
@@ -78114,7 +77169,6 @@ No meio das minhas compras de estocagem de café peguei 250g deste grão que vei
 
 # Uma Breve História Sobre Preconceito (e Café)
 date: 2021-02-15
-slug: uma_breve_historia_sobre_preconceito_e_cafe
 tags: food coffee
 
 Eu me lembro de vídeos antigos de moedores de café manuais em que o sujeito fica 10 minutos no YouTube girando aquela matraca até conseguir tirar de alguns grãos de café o pó para seu cafezinho matinal. Fiquei com a impressão de que todo moedor manual era assim e desisti na hora de ter um, optando por um elétrico.
@@ -78136,7 +77190,6 @@ Espero que não seja um golpe psicológico que estou sofrendo e que isso se mant
 # Villa Doluca Classic Rose
 date: 2021-02-16
 link: http://www.dolucawines.com/products/our-wines-detail/56/villa-doluca-classic-rose
-slug: villa_doluca_classic_rose
 tags: wine
 
 Mais um vinho dessa Vila do Luca. Esse Luca sabe fazer vinhos interessantes. Localizada na Turquia, uma das maiores produtoras de uvas, mas não de vinhos (por motivos religiosos), Villa Doluca é uma produtora e exportadora desses rótulos.
@@ -78673,7 +77726,6 @@ A direção de Peter Care é automática demais para deixarmos nossas mentes tra
 
 # O Céu de Lisboa
 date: 2021-03-27
-slug: o_ceu_de_lisboa
 tags: cinema movies
 
 O filme vai nos embalando logo no começo com uma viagem rápida de carro descendo a Europa que dá errado e gera boas e naturais risadas, mas quando chegamos no destino final a aventura se torna uma grande questão filosófica que envolve a existência da humanidade e de sua arte. Pois é, esta é uma comédia do diretor alemão Wim Wenders (Asas do Desejo, Paris Texas, Pina).
@@ -78697,7 +77749,6 @@ Não há respostas fáceis no dramalhão que se forma em O Último Beijo e isso 
 # Pão de Queijo Fácil e Rápido
 date: 2021-03-27
 link: https://www.instagram.com/p/CCJAULPDsJ-/
-slug: pao_de_queijo_facil
 tags: food cooking
 
 A receita original veio do Instagram de uma queijaria de Poços de Caldas, a Queijaria Real. Nessa receita existem apenas três ingredientes, mas já percebi na primeira vez que fiz que faltou sal. Porém, ela é muito mais simples e rápida que a receita que mantenho de pão de queijo mineiro.
@@ -78768,7 +77819,6 @@ E ao mesmo tempo se mantém pensando: é possível definir e medir o amor?
 
 # Space Patrol Luluco (Uchuu Patrol Luluco)
 date: 2021-04-04
-slug: space_patrol_luluco
 tags: cinema animes
 
 A inventividade do nonsense nesta animação com vários conceitos artísticos que fogem do lugar comum, como mesclar fotos de lugares reais com as personagens do anime ou o uso de uma câmera frenética que lembra muito a falta de limites em Kill La Kill. A história é pano de fundo para o absurdo. As possibilidades de uma cidade japonesa onde terráqueos e aliens convivem são ilimitadas, mas em Uchu Patrol Luluco ainda existe um estilo de desenho cartoon que eleva mais ainda as fichas. Curto e simples de acompanhar.
@@ -78953,7 +78003,6 @@ Um anime dinâmico, ágil, visceral. A junção de diferentes texturas estilizad
 
 # Oddtaxi
 date: 2021-05-04
-slug: oddtaxi
 tags: cinema animes
 
 Esse simpático anime com animais gira em torno de um taxista mal-humorado e a vizinhança que forma uma fauna em uma "Zootóquio". A história do primeiro episódio quer nossa torcida para este solitário motorista nas ruas da cidade. Tudo acontece à noite. Nós devemos torcer por ele porque ele é alheio à febre das redes sociais. Igualzinho aos espectadores. Claro. Os animais usam o celular a todo momento, e é como se a vida lá fora não tivesse tanta graça ou esperança. A vida real é dura, mas vivida por diferentes animais é fofinha.
@@ -79109,7 +78158,6 @@ A estranheza de ver uma garota com poderes de telecinese recém-chegada de outra
 
 # Don't Toy With Me, Miss Nagatoro (Ijiranaide, Nagatoro-san)
 date: 2021-05-15
-slug: nagatoro_san
 tags: cinema animes
 
 Um Teasing Master adolescente, a arte do exagero nos traços e movimentos encontra uma verossimilhança incômoda com a garota bullie, Hayase Nagatoro. Quem já sofreu com essas garotas no colégio deve se lembrar melhor. Eu me lembro, pois era virjão.
@@ -79169,7 +78217,6 @@ O pai quer mudar detalhes no anime para que seja uma nova estréia completamente
 # Eniwine
 date: 2021-05-17
 link: https://www.eniwine.com
-slug: eniwine
 tags: wine
 
 Comprei um Kit da Eniwine para testar esse experimento em usar inteligência artificial para prever os gostos particulares dos bebuns. São 15 mini-garrafas de 50 ml cada em que você deve degustar e dar uma nota de 0 a 5, de meio em meio, e depois jogar no sistema deles para comprar mais vinhos. Comecei a degustação um dia depois de chegar e de cinco em cinco mini-garrafinhas degustamos 15 rótulos desconhecidos. Junto vem um catálago de cada vinho, mas qual é a graça de saber qual o vinho antes de tentar adivinhar os sabores escondidos?
@@ -79586,7 +78633,6 @@ Não importa. É isso que quero dizer com universo limitado. Só essa sequência
 
 # Love, Death & Robots: Automated Customer Service
 date: 2021-05-22
-slug: love_death_robots_automated_customer_service
 tags: cinema series
 
 Um futuro estilo Wall-E só com humanos velhos e pets, sendo que pet pode ser um desses cachorros pequenos ridículos ou uma espingarda. As máquinas fazem tudo pelos humanos, inclusive causar um pouco de emoção, como um aspirador se revoltar e sair matando seu dono. É o que acontece nesse episódio da série que une efeitos digitais com histórias curtas e sangrentas ou sexuais (ou ambos, meu preferido).
@@ -79804,7 +78850,6 @@ Comédia escrachada, é empolgante na maioria do tempo, mas sua bagunça cansa u
 # Como fazer pizza
 date: 2023-04-21
 link: https://www.youtube.com/c/vitoiacopelli
-slug: como_fazer_pizza
 tags: food cooking repost
 
 ## Ingredientes
@@ -80201,7 +79246,6 @@ Esta obra tem a capacidade de nos fazer virar e olhar para o espectador médio b
 
 # Erin Brockovich
 date: 2021-06-28
-slug: erin_brockovich
 tags: cinema movies
 
 O momento de Julia Roberts brilhar e fingir ser uma atriz de talento é esse filme. Ela está ótima, oscarizável (ganhou inclusive) e possui falas bonitinhas. A história baseada em fatos é sensacional, mais do que o filme, que é um Soderbergh menor, que quer ser intimista sem perder o tino comercial. Tem ótimos momentos do elenco, mas o processo judicial se arrasta por mais de duas horas. Assisti no cinema em um sábado na hora do almoço com a sala vazia e não esperando nada e foi uma viagem do bem. Reassisti agora na Netflix e vejo com olhos saudosistas dos anos 90. O figurino de Erin e os enquadramentos de sua bunda e peitos são um plus. Quem resiste àquele sorriso maroto? Nem Richard Gere.
@@ -80577,7 +79621,6 @@ Esta seria uma ótima peça de teatro, mas a direção nos entrega uma intimidad
 
 # The Chair
 date: 2021-09-03
-slug: the_chair
 tags: cinema series
 
 Esta série de comédia fala sobre vários assuntos, mas o principal é sobre a arte de pisar em ovos no século 21. O que é muito importante se você tem medo de ser cancelado, mas é duplamente divertido quando a lupa que se vira para a sociedade contemporânea revela mais do que talvez gostaria.
@@ -80697,7 +79740,6 @@ Mas e o resultado final? Seria essa uma sessão ruim dirigida por uma novata que
 # Café Dona Manuela
 date: 2021-09-18
 link: http://www.fboaesperanca.com.br/produtos.htm
-slug: cafe_dona_manuela
 tags: coffee
 
 Passei no pano. Tive que passar de novo. Ele é bom. Corpo leve e um sabor no fundo que lembra Minas, mas bem mais sutil que o normal. Puxa mais pro doce e tons mais florais que frutado. Na Aeropress tive uma surpresa: ele amargou em alguns momentos, e em outros não. Testei alguns métodos, como na invertida, que é o que estava usando esses dias para reter o líquido e conseguir mexer após o tempo de infusão, mas acho que esse tempo ou precisa ser ajustado ou algo foi feito de errado. Pode ser que a borracha do método invertido esteja causando alguma interferência no sabor, pois outro café também amargou. Retornei para o James Hoffmann e deu certo, ficou show de bola, doce e com mais sabor. Tentei no pano novamente e há uma diferença na intensidade. Tentei novamente Aeropress tradicional, mas sem mexer após 30s, mantendo preso e ficou menos intenso. Hoffmann for the win.
@@ -80846,7 +79888,6 @@ Não há moral em Sheena667. Nem um final propriamente dito. Apenas sofrimento c
 
 # Imperial Vin
 date: 2021-09-28
-slug: imperial_vin
 tags: wine
 
 Este vinho é da Moldávia, uma região que eu nunca ouvi falar do mundo dos vinhos. Mas é de lá. O país configura um dos top exportadores do mundo e essa garrafa veio chegar na minha adega. Se trata de um reserva 2018, com passagem por 12 meses em barricas de carvalho francês e que está bom até 2023. Eu tomei agora e o resultado é de uma complexidade equilibrada entre os taninos amadeirados e seus tons de frutas vermelhas mais maduras ou menos doces. Talvez por conta dos aromas e sabores de especiarias do seu final. O buquê logo se desfaz no segundo dia, mas tive uma agradável surpresa ao usá-lo em um risoto de carne desfiada com parmesão. Ele fez toda a diferença no meu primeiro risoto.
@@ -81043,7 +80084,6 @@ Mas aquele plano-sequência foi marcante. Esse diretor precisa de um roteirista 
 
 # Higiene Social
 date: 2021-10-12
-slug: higiene_social
 tags: cinemaqui mostrasp cinema movies
 
 O nome Higiene Social para um filme pós-pandemia pode querer dizer muitas coisas, mas nenhuma delas está no novo filme de Denis Côté ("Antologia da Cidade Fantasma"), que irá passar na Mostra de SP esse ano. Então o que há para ver? Distanciamento social. Nenhum dos atores está a menos de três metros dos outros, e há no máximo três deles por cenas. E ninguém precisa usar máscara. Iupi!
@@ -81438,7 +80478,6 @@ Fogo nas Montanhas está ainda passando na Mostra desse ano, inclusive online. �
 
 # Comparar métodos de extração de café é inútil
 date: 2021-11-01
-slug: comparar_metodos_de_extracao_de_cafe_eh_inutil
 tags: coffee
 
 É muito difícil comparar diferentes métodos de extração de café quando feitos direito e com o mesmo café, porque se o café é ótimo todos os método produzem um ótimo café. A diferença? As nuances de sabor e aroma.
@@ -81641,7 +80680,6 @@ Mas não se empolgue. Deduções vazias em cima de um evento único de um assass
 
 # Homem de Castanha
 date: 2021-11-14
-slug: o_homem_das_castanhas
 tags: cinema series
 
 Esta série investigativa policial dinamarquesa desenvolve bem sua trama e seus personagens. Note o parceiro desagradável, misterioso e traumatizado da heroína. Seu lado introvertido, calculista e obstinado retirado de algumas personas no imaginário do gênero funciona até hoje. O maior defeito da série é o desenvolvimento, como toda série hoje em dia. Seis horas para um filme de duas é tempo demais. A história não ofende nossa inteligência, mas a duração sim. Já vimos filmes melhores e mais concisos. É um desperdício narrativo e devemos ficar ofendidos por isso. Além do quê há algumas falhas ou imprecisões na trama, quando uma certa pessoa acha quase sem querer o esconderijo do serial killer, que não ornam com o conjunto da obra. Tem cara de adaptação mal feita de livro. E é mesmo, o autor é Søren Sveistrup e os roteiristas um batalhão.
@@ -81934,14 +80972,12 @@ O "e se" da jogada é um blecaute de alguns segundos onde de repente toda a huma
 
 # Zaro Café
 date: 2022-01-11
-slug: zaro_cafe
 tags: coffee
 
 Esse é um dos cafezes que trouxe de Capitólio pelo que me lembro. Ele é do Sul de Minas, claro. Uma torra média meio sem graça eu achei no começo. Até deixar mais tempo de infusão com a água praticamente fervendo. Quase cinco minutos (às vezes mais) de infusão. Pensei que poderia oxigenar demais, mas o resultado trouxe tanto corpo e doçura ao café que preferi assim. A temperatura mais baixa para beber também ajudou, e isso é algo que pretendo fazer nos próximos cafezes. De qualquer forma, este ficou com um ótimo sabor, nada ácido e bem frutado para uma embalagem aberta há quase um mês.
 
 # Sete Quedas
 date: 2022-01-14
-slug: sete_quedas
 tags: coffee
 
 Café gourmet de Poços, foi premiado em terceiro lugar da região. Agora me diga: quantos cafés especiais existem em Poços? Meia-dúzia? Talvez não tivesse sido um bom jogo de marketing ostentar a posição.
@@ -81996,14 +81032,12 @@ Mas agora estou anotando para a próxima tentativa ;)
 
 # Onze Homens e Um Segredo
 date: 2022-01-24
-slug: onze_homens_e_um_segredo
 tags: cinema movies
 
 Este é o primeiro roteiro de golpe que podemos assistir de novo e continua divertido até mesmo depois da reviravolta final. Isso acontece porque a trama não é repetitiva. O que vemos na tela já é o golpe. Nada é explicado duas vezes, o que respeita nossa inteligência e deixa a ação falar por si mesma. Fora as transições elegantes entre as cenas. A produção é esperta e o filme segue esse ritmo sem pretensão alguma exceto ser ótimo. E precisa mais?
 
 # Saga
 date: 2022-01-24
-slug: saga
 tags: coffee
 
 Havia achado este café bem diferente na questão de sabor. Existe um amargo, mas não é como os outros. Um misto de tons vegetais e minerais. Quase nada frutado.
@@ -82418,7 +81452,6 @@ Hoje revendo Cats quase não consigo conter minha fascinação por essa obra per
 
 # Garimpo Coffees
 date: 2022-04-01
-slug: garimpo_coffees
 tags: coffee
 
 Tomei o pacote inteiro desse grão que diz puxar para sabores mais florais e vegetais e não senti nada. Esses cafezes sutis demais realmente não são para mim.
@@ -82473,7 +81506,6 @@ Isso acontece porque a heroína é uma intelectual, que como toda acha insuport�
 
 # A História da Guerra Civil
 date: 2022-04-12
-slug: a_história_da_guerra_civil
 tags: cinemaqui cinema movies
 
 Do cineasta soviético Dziga Vertov e feita para divulgar o Partido e imortalizar os militares que apoiaram o golpe contra o Império Russo, esta série de filmagens é desconexa e não conta uma história de fato. É mais um registro de momentos em que havia alguma oposição aos revolucionários e como eles foram desbancados pelos bolcheviques.
@@ -82488,7 +81520,6 @@ A História da Guerra Civil é curto e literal. Mais uma homenagem do que uma ex
 
 # Café Exotic
 date: 2022-04-14
-slug: cafe_exotic
 tags: coffee
 
 Abri este pacote faz duas semanas. Em alguns momentos achei forte e amargo demais. Em outros fraco demais. Claro que o problema era eu e meu jeito de fazer o café. A receita que mais deu certo foram exatos mais ou menos 2 minutos após a infusão para a virada da Aeropress e um cuidado especial ao empurrar o êmbolo com uniformidade de tempo. O sabor não é absurdamente exótico. Lembra um café de sabor intenso, que sozinho pode ser tomado como uma refeição. Não é tão frutado nem aromático.
@@ -82559,7 +81590,6 @@ Curta premiado de afegão querendo ir para a guerra. Ele é barrado pela documen
 
 # Vinho Russo
 date: 2022-04-24
-slug: amyp_vinho_russo
 tags: wine
 
 O primeiro que tomo para brindar à guerra. Eu esperava algo pior, sinceramente. Tenho preconceito com regiões sem tradição vinícola. Porém, o que sabemos sobre tradição quando meras décadas foram o suficiente para erguer Mendoza como referência mundial na questão de vinhos de arte?
@@ -82568,7 +81598,6 @@ Este russo é tragável, sem dúvida, e pela composição e safra mais complexo 
 
 # Feel Good
 date: 2022-04-24
-slug: feel_good
 tags: cinema series
 
 É comum comediantes de standup compartilharem suas histórias de vida de uma maneira cômica. Os melhores de uma maneira tragicômica. Porque, convenhamos, trazer o melhor da comédia exige dor e sofrimento. E se alguém tem que sofrer nessa história que seja o comediante.
@@ -82668,7 +81697,6 @@ Tudo seria mais fácil se este fosse um filme que se passasse uma camada acima a
 # Dona Matilde
 date: 2022-05-12
 link: https://www.donamatilde.pt/
-slug: dona_matilde
 tags: wine
 
 Dona Matilde
@@ -82708,7 +81736,6 @@ Depois de mexer todos os ingredientes, unte uma forma com manteiga e farinha e l
 
 # Casa do Colono
 date: 2022-05-14
-slug: casa_do_colono
 tags: coffee
 
 Demorei um tempo até entender esse café. Comprei dentro das termas de Poços e ele é bem caro e feito na cidade mesmo. Gostei, mas nem tanto. Tem aquele sabor gourmet um pouco leve e doce. Não é ruim, mas é caro demais para pouca complexidade.
@@ -82733,7 +81760,6 @@ Mentes Extraordinárias, contudo, não é um filme extraordinário. Ele apenas a
 
 # Espresso Café Cooparaíso
 date: 2022-05-15
-slug: espresso_cafe_cooparaiso
 tags: coffee
 
 Eu gostei desse café. Peguei da última vez que estávamos voltando de viagem de Minas e passamos em Espírito Santo do Pinhal, onde há uma cafeteria cheia de cafés gourmet da região. Foi lá que conhecemos o ótimo Loretto, BTW. Esse a moça falou que era o que eu estava procurando: sem as frescuras do gourmet (aquele gosto meio enjoativo), um pouco de corpo e amargor. Esse está na medida certa. Acabei de abrir e é de meio quilo, então ainda posso experimentar bastante com tempos de infusão, quantidade de pó e moagem, mas o padrão aeropress entrega um copo balanceado, não muito murro no estômago nem muito insosso como moagens mais claras (esta é média). Curioso que a embalagem praticamente toda está em francês. Eis alguns trechos:
@@ -83527,7 +82553,6 @@ Esta comédia pensa em choque de cultura, mas atinge os valores contemporâneos,
 
 # Canja
 date: 2022-06-11
-slug: canja
 tags: cooking
 
 Coloquei canja porque pode ser de galinha, que não sei as peculiaridades, mas a minha do dia a dia é de frango. É muito simples: compra um peito de frango. Fatia ele bem fininho. Esquenta a panela de pressão e encosta a superfície das fatias do peito no fundo da panela e deixa tostar um pouco. Se começar a queimar, que é quando após estalos um cheiro ruim chega, é porque passou demais. Antes desse ponto você pode ir jogando água fervente por cima, bem pouco, apenas para não queimar (mesma estratégia para dourar cebola). O objetivo é dar uma cor e extrair um pouco de sabor desse pedaço sem graça do frango.
@@ -83542,14 +82567,12 @@ Ao final desligue o fogo e jogue um pouco de salsinha picada para a cor. Bom ape
 
 # Colombia
 date: 2022-06-11
-slug: colombia
 tags: coffee
 
 Eu gosto bastante desse café da Starbucks, mas essa safra na Aeropress tá dose de acertar. Está bem intenso o amargor. Já estou usando menos pó com uma moagem mais grossa e com menos tempo de infusão e ainda assim está bem marcante. O sabor no Aeropress é tão intenso que acho difícil encontrar detalhes exceto amargor e corpo intenso. No coador de pano no nível 9 de moagem e com 4 minutos de infusão o nível ficou bem próximo do ideal, com a intensidade do sabor, mas talvez com o corpo ligeiramente mais leve. Não sei se isso é um problema.
 
 # Iogurte
 date: 2022-06-11
-slug: iogurte
 tags: cooking
 
 É bem simples de fazer. Basta ter tempo. E leite pausterizado. Não pode ser UHT. Tem que ser pausterizado. Fica na geladeira. E iogurte natural para começar sua fazenda de lactobacilos. Pode ser qualquer um.
@@ -83593,7 +82616,6 @@ Truffault é o amiguinho do Godard e ambos criam os filmes franceses mais chatos
 # AWK and DNA
 date: 2022-06-25
 link: https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
-slug: awk_dna
 tags: computer english
 
 ![](awk_dna_dna_chips.png)
@@ -83641,7 +82663,6 @@ parallel --block 100M --pipe  \
 # AWK and Stack Overflow
 date: 2022-06-25
 link: https://stackoverflow.com/questions/43513975/awk-gawk-performance
-slug: awk_performance
 tags: computer
 
 ## XML Issues
@@ -83775,14 +82796,12 @@ Amos Gitai é o mestre sionista em criar merdas colossais. Desde sua obra mais o
 
 # Minha Torra Dark
 date: 2022-06-25
-slug: minha_torra_dark
 tags: coffee
 
 Fiz nova torra na pipoqueira, com uma quantidade bem razoável (meio quilo talvez) e o resultado ficou bem dark, quase queimado. Depois de três a quatro dias descansando: ficou amargo? Um pouco. Mas isso é devido às imperfeições. Ficou intenso e doce também. Não ficou ruim. É um bom café. Mineiro e honesto.
 
 # Sumatra
 date: 2022-06-25
-slug: sumatra
 tags: coffee
 
 Por que gosto desse café da Starbucks? Ele não é frutado nem doce nem dark. Justamente por isso. Seus traços de vegetal e sua falta de acidez e um certo teor alcalino é uma mudança de ares bem-vinda. Não espere mais do mesmo.
@@ -83823,7 +82842,6 @@ Floripa agora nos promete mais que o evento icônico de tecnologia. E por isso p
 
 # Cidade Baixa
 date: 2022-07-11
-slug: cidade_baixa
 tags: cinema movies
 
 Deve ter dado um baita trabalho filmar as cenas de Salvador. Imaginei a equipe tentando isolar os mendigos, vendedores e a horda de pedintes das ruas fedidas do centro soteropolitano.
@@ -83883,7 +82901,6 @@ A tempo: trate os arquivos da solução do Visual Studio gerados pelo cmake como
 
 # Merlot tem gosto de remédio?
 date: 2022-07-12
-slug: sao_joaquim_merlot_sem_remedio
 tags: wine
 
 Eu não acho que todo merlot tem. Fato é que não tenho certeza se concordo com essa afirmação de minha esposa. Outro fato é que ela gostou dessa garrafa que foi aberta em uma visita a um casal de amigos em Floripa. Eles são uma das conexões mais inesperadas. Nos encontramos agora apenas duas vezes e parecem amigos de longa data. Sabe quando parece que conhece essas pessoas há mais tempo e todas as conversas se encaixam? Essas estranhezas boas da vida... como o eventual merlot de uma noite agradabilíssima.
@@ -83952,7 +82969,6 @@ Outro aspecto curioso e contemporâneo é a moda dos relacionamentos não conven
 
 # The Pickup Artist: The New and Improved Art of Seduction (Mystery)
 date: 2022-07-24
-slug: the_pickup_artist_livro
 tags: books self
 
 Uma série de duas temporadas apresenta um rapaz magro, bem alto e cheio de adereços. Ele junta um grupo de jovens desajustados sem nenhuma experiência em ficar com mulheres. Seu objetivo: torná-los mestres na arte de pegação.
@@ -84601,7 +83617,6 @@ Outro aspecto do final fascinante é como eles retomam, observam ou respeitam a 
 
 # Pike Place
 date: 2022-08-09
-slug: pike_place
 tags: coffee
 
 A torra é o segredo. Intensa, traz sabores amendoados. Um amargor inebriante.
@@ -84609,7 +83624,6 @@ A torra é o segredo. Intensa, traz sabores amendoados. Um amargor inebriante.
 # Como Ganhar De Torre Dama Encurralando O Rei
 date: 2022-08-13
 link: https://www.chess.com/game/live/54161416339
-slug: como_ganhar_de_torre_dama_encurralando_o_rei
 tags: chess
 
 Apliquei um perpétuo nesse final porque pensei que estava pior, mas a análise me dava mais de 5 pontos de vantagem. Olhando por que vi que quando o adversário avançou o peão ele deixou o rei propício a levar vários xeques, e há uma combinação com minha dama e torre (contra a dama e torre dele) cuja ideia é trazer ambos para aplicar o mate e forçar a dama a defendê-lo, e assim deixando de proteger a torre.
@@ -84692,7 +83706,6 @@ Este terror slasher é ruim do começo ao fim. As pessoas berram o tempo todo e 
 
 # Café da Vovozinha
 date: 2022-08-24
-slug: cafe_da_vovozinha
 tags: coffee
 
 Comprei esse saco de café em grãos em uma loja com esse nome em Extrema depois da trilha de dia de semana. Me decepcionei um pouco com a falta de sabor e porque a torra é irregular, vindo uns pedaços estranhos junto em que trava até o moedor. Isso já aconteceu com minha torra uma vez ou outra, mas nesse dá para sentir até no copo quando é passado. De qualquer forma o estilo desse café é mais vegetal mesmo, e por isso o sabor um tanto insosso. É uma experiência encontrar a proporção correta. Fica de exercício para o degustador.
@@ -84710,7 +83723,6 @@ Contexto é tudo para seres humanos. Sem contexto perde-se o fio da meada que fo
 
 # Encontros
 date: 2022-08-27
-slug: encontros
 tags: cinemaqui cinema movies
 
 Encontros é um abraço de "oi, sumido" em um mundo pós-apocalíptico. E por apocalipse eu quero dizer a pandemia que varreu as relações humanas para debaixo do tapete. Agora é a hora da reconstrução.
@@ -84743,7 +83755,6 @@ O conflito principal é se a florista aceita ter o negócio de seu pai aglutinad
 
 # Bíblia Sagrada: Gênesis
 date: 2022-08-28
-slug: biblia_sagrada_genesis
 tags: books philosophy bible esoteric
 
 Esse primeiro livro da Bíblia é focado na origem do mundo e na perpetuação de uma tribo específica no meio da humanidade. Essa tribo se estabeleceu através de um deus, O deus, de acordo com o livro, que fez o pacto com Abraão. Que fez o pacto com Noé. Que fez o pacto com Jacó. Que fez o pacto com ele mesmo e o mundo. E o pacto dizia: irás cortar a ponta do seu pingulim. Seu, de seus familiares e de todo seu povo.
@@ -84966,7 +83977,6 @@ Uma visão realista e dramática sobre vampirismo na Noruega e que mantém sua t
 
 # Restos do Vento
 date: 2022-10-09
-slug: restos_do_vento
 tags: cinemaqui mostrasp cinema movies
 
 Quanto mais penso na subjetiva e impactante introdução de Restos do Vento, filme que está na Mostra de SP esse ano, mais me convenço que ela gradativamente aumenta sua importância instrumental na análise e interpretação de sua história. Não apenas a trama, que já é bem amarrada em suas premissas. É o conjunto temático da obra, que transcende fácil o nível de "apenas mais uma sessão" e fica em nossa mente, remoendo a injustiça fundamental que "testemunhamos" na sala de cinema.
@@ -85011,7 +84021,6 @@ Road trip está na moda: paisagens vazias em um horizonte fundo verde. Personage
 
 # Mutzenbacher
 date: 2022-10-11
-slug: mutzenbacher
 tags: cinemaqui mostrasp cinema movies
 
 Este livro pornográfico lançado na Áustria no início do século 20 é um clássico porque é bem escrito e foi alvo de críticas e censura por décadas. O motivo é se tratar das experiências de uma jovem que começou cedo sua vida sexual. Aos cinco anos. Todo o livro são suas experiências na infância e adolescência com todo tipo de homem que ela pudesse encontrar. E agora em Mutzenbacher, filme da Mostra de SP, a diretora Ruth Beckermann reúne em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
@@ -85028,7 +84037,6 @@ Ou talvez para um homem este não seja um filme com alguma novidade sobre como f
 
 # Carmine Granata
 date: 2022-10-12
-slug: carmine_granata
 tags: wine
 
 Visitei esta bodega na [viagem à Argentina em 2022]. Estávamos de bobeira em Maipu. A atendente Luli não costuma atender sem reserva, mas mora perto e coincidentemente estava por lá quando tocamos a campainha. Ela nos atendeu tão bem e com uma empolgação tão grande em explicar com detalhes técnicos desde a plantação das uvas até a degustação que foi possível aprender coisas novas mesmo depois de tantas bodegas já visitadas. Foi uma visita privada de apenas nós quatro. A bodega fazia 7 milhões de litros e havia tanques gigantescos de concreto em funcionamento. Agora boa parte deles é usada como salas. Inclusive a sala de degustação! Uma das melhores visitas de minha vida em uma bodega. Havia garrafas da década de 90 à venda.
@@ -85039,14 +84047,12 @@ Fabio trouxe este Gran Reserva para o churras com picanha Argentina. E o jeito f
 
 # La Primera Revancha
 date: 2022-10-12
-slug: la_primera_revancha
 tags: wine
 
 Este vinho eu bebi pela primeira vez [no melhor atendimento que já recebi de uma sommelier em um restaurante]. Até minha esposa que não é tão fã de Merlots adorou, tanto que no dia seguinte fomos visitar a bodega e eu comprei mais duas das únicas quatro garrafas disponíveis. Então levamos para abrir na casa da família Incrível e continua um Merlot excepcional. Equilibrado e frutado sem o "gosto de remédio" de alguns Merlots. Uma verdadeira obra-prima.
 
 # Oüled Thäleb
 date: 2022-10-12
-slug: ouled_thaleb_marrocos
 tags: wine
 
 Estou com um estoque de vinhos considerável em casa. Precisei usar meu armário e meu porquinho do lado da cama para dar conta. E vinho continua a chegar.
@@ -85061,7 +84067,6 @@ Marrocos tem uma história secular na produção de vinho, mas isso foi paralisa
 
 # Roberto Luka Sophenia
 date: 2022-10-12
-slug: roberto_luka_sophenia
 tags: wine
 
 Este foi meu prêmio por ter feito o melhor blend na visita à bodega Sophenia. Se trata também de um blend, feito em edição limitada com o objetivo de compartilhar com os amantes do vinho como é possível existir novas criações mesmo dentro das mesmas cepas e colheitas. Um brinde à imaginação. E um abaixo ao sistema de notas.
@@ -85110,7 +84115,6 @@ Este filme egípcio imita aqueles grandes épicos, com trilha sonora grandiosa e
 
 # Scheme
 date: 2022-10-13
-slug: scheme
 tags: cinemaqui mostrasp cinema movies
 
 Scheme poderia ser reduzido ao drama das adolescentes em busca de dinheiro fácil tendo seus corpos explorados através do que podemos chamar de "prostituição light". Ele poderia ser reduzido ao drama, mas ele não é. Obcecado em descobrir como jovens garotas são atraídas para o covil de homens de meia-idade em festinhas particulares que levam ao consumo de drogas e sexo desenfreados, o filme vencedor do Generation 14Plus do Festival de Berlim, que chega agora à Mostra de SP, não está interessado em mais um drama juvenil sobre os abusos da idade. Está interessado no como.
@@ -85137,7 +84141,6 @@ A pegada dessa animação viajada é colocar um áudio e um visual descolado par
 
 # À Noite Todos os Gatos São Pardos
 date: 2022-10-14
-slug: a_noite_todos_os_gatos_sao_pardos
 tags: cinemaqui mostrasp cinema movies
 
 Mostra de SP é sinônimo de filmes estranhos. E é assim mesmo. Sair da caixa e explorar o diferente não é parte apenas do trabalho de um diretor. Também é de sua equipe e do espectador. À Noite Todos os Gatos São Pardos é uma experiência em que todos sabem onde estão se metendo. Cinema é saber disso e mesmo assim continuar apontando a câmera ou olhando para a tela. Muitas vezes sem querer continuar fazendo.
@@ -85634,7 +84637,6 @@ Porém, o filme também é um pouco piegas. Julia demonstra não ter muito jeito
 
 # Deus e o Diabo na Terra do Sol
 date: 2022-10-27
-slug: deus_e_o_diabo_na_terra_do_sol
 tags: cinemaqui mostrasp cinema movies
 
 Assisti nessa Mostra a Deus e o Diabo na Terra do Sol, o filme icônico de Glauber Rocha, criador do cinema novo na época, em sua versão remasterizada de 2021, feita em 4k com base na restauração passada, de 2007, feita para DVD. Infelizmente houve apenas uma sessão. Ficam as impressões.
@@ -85695,7 +84697,6 @@ Este anime é fofinho e completamente despretensioso. Sua âncora é a amizade i
 
 # Belledaisy Chianti
 date: 2022-11-07
-slug: belledaisy_chianti
 tags: wine
 
 Essa primeira garrafa da noite tem aquele gosto de Chianti. Fácil de beber, levemente alcoólico e frutado. Bom vinho de entrada. Precedeu a Anita que eu tinha trazido para a reunião dos sócios. Acho que a Dani que havia escolhido.
@@ -85709,7 +84710,6 @@ Além disso, a guarda em barrica para maior estrutura e o uso de blends com uva 
 
 # Montanhas do Cafundó
 date: 2022-11-07
-slug: montanhas_do_cafundo
 tags: coffee
 
 Depois do desastre que foi o "Café da Vovozinha", lá de Extrema, quando fomos fazer uma trilha, sobrou esse Cafundó, que é de torra média selecionada. Sabor cítrico, fresco e leve. Bom para degustar como suco.
@@ -85749,7 +84749,6 @@ No final Stahan não se aguenta e acaba dando uns chutes e socos empolgado. A pa
 
 # A Malvada (All About Eve)
 date: 2022-11-19
-slug: a_malvada_all_about_eve
 tags: cinema movies
 
 Baixei este filme de 1950 para uma revisita. Da lista dos "Grandes Filmes do crítico Roger Ebert" me pareceu natural ser o próximo. Eu já o vi no cinema antes de começar a escrever sobre filmes, no Cine Belas Artes da Consolação, em São Paulo.
@@ -85779,7 +84778,6 @@ E como não houve vazamento de informação sigilosa o link do vídeo pôde ser 
 
 # Château Tamagne Superavi Reserve 2017
 date: 2022-11-20
-slug: chateau_tamagne_superavi
 tags: wine
 
 Ao oeste da Georgia, o país com o "registro histórico mais antigo do mundo de produção de vinho", existe a Península de Taman, na Rússia. É a região mais ao sul do país e mantém um clima semelhante ao da Georgia para a produção de vinhos. Nela está localizada esta vinícola, a Château Tamagne, com uma produção industrial absurda para quem nunca ouviu falar em vinho russo. São tanques gigantescos e um laboratório novinho em folha.
@@ -85789,7 +84787,6 @@ Esta uva é a Superavi, conhecida da Georgia. Sua característica mais marcante 
 
 # Cléo das 5 às 7
 date: 2022-11-20
-slug: cleo_das_5_as_7
 tags: cinema movies
 
 Você olha esse título e já pensa "nossa, ela deve ser travesti; ou puta; deve ser puta; francesa dos anos 60 é tudo puta". Mas pior que não. Cléo é um filme dinâmico, vivo. Você se sente na pele da protagonista, sem saber se irá viver ou morrer por duas intermináveis horas. Ela lê sua sorte em uma cartomante logo antes de receber o diagnóstico de seu médico. A situação é insuportável e Cléo está tentando se manter ocupada até conseguir sua resposta. Então ela passeia pelas ruas de Paris. Faz compras. Compra um chapéu para o inverno no primeiro dia do verão. É solstício. Ela é supersticiosa. Somos brindados com tomadas das mais complexas, onde a câmera passeia impossível no meio de transeuntes, acompanhando automóveis, ônibus, pedestres. É um turbilhão documental que se passa pelas nossas cabeças, metaforizando o que se passa na cabeça dessa garota, rodopiando em torno da cidade-luz sem rumo.
@@ -86306,7 +85303,6 @@ A hackerzinha brasileira é gostosa. Mas não muito, depende da ocasião. Ela te
 
 # Rio Sol Gran Reserva Alicante Bouschet 2018
 date: 2023-01-08
-slug: rio_sol
 tags: wine
 
 Às vezes vem a sensação que essas anotações não são úteis, mas acontece que há muitos vinhos no mundo e pouco tempo, dinheiro e fígado para ficar tomando garrafas de todos os lugares, uvas e safras. Eu posso saber na hora se gostei de um vinho, mas isso não me ajudará a saber mais sobre outros vinhos.
@@ -86797,7 +85793,6 @@ tags: cinema series
 
 # Maria Bonita Robusta
 date: 2023-02-09
-slug: maria_bonita_robusta
 tags: coffee
 
 A Mitiko achou um café 100% robusta de Minas com venda direto do produtor, em grãos, descafeinado, e é mais barato que café de mercado. Este achado é para poucos. Só o frete é caro. Encomendamos um quilo.
@@ -86808,14 +85803,12 @@ Eu ainda estava experimentando com maior tempo de infusão, moagem mais fina, et
 
 # Las Nubes Reserva Personal
 date: 2023-02-14
-slug: las_nubes_reserva_pessoal
 tags: wine
 
 Esta garrafa de 2015 sem rótulo foi adquirida na última viagem a Cafayate. Comprei duas. Abri uma no rolê do ano em Aragoiaba. Seu sabor não lembra vinho jovem Malbec nem Tannat. Ele é mais envelhecido, perdeu sua potência do álcool e dos taninos. Ficou um sabor mais frutado, até um pouco enjoativo. É bom para conhecer. É bem diferente de outros reservas que provei dessas uvas.
 
 # Malma 2015
 date: 2023-02-14
-slug: malma_2015
 tags: wine
 
 Se foi a última viagem que comprei nesta adega de Neuquen, nem me lembro quando. A ideia de abrir uma por ano se concretizou. E a última garrafa foi para o evento em Aragoiaba.
@@ -86838,7 +85831,6 @@ Alguns elementos não são originais, lembram alguns clichês, como o vilão, e 
 
 # El Porvenir Amauta (2021)
 date: 2023-02-17
-slug: el_porvenir_amauta
 tags: wine
 
 Amauta, na língua dos nativos de Cafayate, quer dizer o homem sábio, que possui o conhecimento sobre a natureza e o universo. A proposta é o vinho ser uma lição de humildade a respeito do solo e o que ele nos provê.
@@ -87243,7 +86235,6 @@ O filme é baseado no livro do Drauzio Varella, aquele médico que na pandemia f
 
 # Fiz Trança de Banana
 date: 2023-03-05
-slug: pao_tranca_de_banana
 tags: food cooking
 
 Essa receita originalmente iria cará e foi adaptada para usar banana bem madura. Além da banana ou do cará, os outros ingredientes são: farinha de trigo, fermento biológico, ovos, leite, manteiga e açúcar. Pegue a banana e cozinhe em uma panela, reduzindo o líquido ao máximo. Quando a banana esfriar, pese-a e use o dobro do peso em farinha de trigo. Cada 1kg de farinha faz três tranças de tamanho médio e vai 6 ovos. Os outros ingredientes estão pesados em porcentagem da farinha: 20% de manteiga, 20% de leite e 25% de açúcar em média. Dependendo do quão doce está a banana e o quão doce você deseja que fique o pão você pode aumentar ou reduzir a quantidade de açúcar.
@@ -87280,14 +86271,12 @@ Além se trocar o cará por banana usei meu fermento natural (mas depois pedi aj
 
 # Shogayaki
 date: 2023-03-05
-slug: shogayaki
 tags: cooking
 
 Este prato vai tradicionalmente carne de porco e significa gengibre frito ou grelhado. São tirinhas finas ou bifes de qualquer parte de carne de porco junto de shoyu e gengibre no fogo. Entre os ingredientes mais tradicionais vai cebola, saquê e mirim (saquê doce). O gengibre é ralado, fatiado ou ambos. A mesma coisa com a cebola. São sugestões. Entre as dicas valiosas do preparo, a regra de ouro é nunca cozinhar demais carne de porco ou ela fica muito seca, pois perde mais fácil o suco antes de selar. Um dos truques é polvilhar farinha por cima para reter esse suco da carne. O modo de preparo também é variado, mas basicamente envolve fritar os dois lados da carne rapidamente, jogar a cebola para dourar e absorver o sabor do queimado e jogar a carne novamente junto de um suco formato pelo gengibre e saquê. O fininho da carne fica em torno de 3 milímetros de espessura.
 
 # Jaguatirica Coffee
 date: 2023-03-06
-slug: jaguatirica_coffee
 tags: coffee
 
 Este é o café especial da região de Monte Verde. Provei ele achando no mercado local, uma boa surpresa, e depois comprei a versão em grãos na própria torrefadora, em uma das ruas da cidade. Infelizmente não deu tempo de experimentar o espresso porque estávamos de saída. Este café contém um equilíbrio divino entre acidez e doçura. Não se sente amargor, este é daquele estilo em que o café parece um suco. Remete um pouco a frutas maduras ou de inverno, como nozes e castanhas, apesar de haver um pouco de cítrico. Provei mais de duas semanas depois de abrir o pacote do moído do mercado porque estou evitando ingerir cafeína todos os dias, mas o sabor continua bem agradável apesar do tempo envelhecendo. Guardando na lata de Tiradentes.
@@ -87295,7 +86284,6 @@ Este é o café especial da região de Monte Verde. Provei ele achando no mercad
 # Começa um final de peões e cavalos
 date: 2023-03-13
 link: https://www.chess.com/game/daily/471866193
-slug: comeca_um_final_de_peoes_e_cavalos
 tags: chess
 
 Brancas movem e... e nada. É um final complicado.
@@ -87316,7 +86304,6 @@ vez.} 43. Nxc3 bxc3 44. Ke3 1-0
 
 # Algorithms for Dummies
 date: 2023-03-14
-slug: algorithms_for_dummies
 tags: books interview computer
 
 De John Mueller e Luca Massaron, este livro mantém a fama da série "for Dummies", com livros de conteúdo bem estruturado, acessível para a maioria dos leitores e ainda útil para quem já está acostumado com um termo ou dois do assunto, ou até o assunto inteiro.
@@ -87371,7 +86358,6 @@ Pautada em uma época onde mulheres possuíam um papel bem definido na sociedade
 
 # Além da Imaginação (The Twilight Zone)
 date: 2023-03-20
-slug: alem_da_imaginacao_twilight_zone
 tags: cinema series
 
 Pensava eu que esta reimaginação da série icônica da TV merecia uma assistida, mas após ver o primeiro episódio, O Comediante, entendi que esta série não possui relação com a anterior (exceto o nome). Seria nosso ceticismo exacerbado que alimenta um clima tóxico, não propício para histórias no limiar de nossas crenças e conhecimento? A metáfora dos comediantes que fazem carreira em cima de ataques pessoais é óbvia é engraçada apenas por causa da alienação dos idealizadores, imersos em uma bolha de politicamente correto querendo soar moralista ou algo do tipo.
@@ -87394,7 +86380,6 @@ Próximo do final as histórias começam a ficar ruins de novo e você percebe q
 
 # Pyros Appellation Syrah 2019
 date: 2023-03-20
-slug: pyros_appelation_syrah_2019
 tags: wine
 
 Pyros é uma nova linha da Bodega Calia Alta. Não, não, tudo errado. Pyros na verdade é uma nova vinícola que nasceu do desejo por uma nova forma de expressão dos vinhos de San Juan, mais especificamente do Vale do Perdernal, uma região que apenas em 2008 recebeu sua denominação geográfica pela legislação argentina e que desde então vê nascer bodegas com uma nova personalidade, de uvas plantadas em um terreno único no país. Um terreno pré histórico e calcário.
@@ -87433,7 +86418,6 @@ Ela vive na época dos dotes de casamento, seu pai é o Professor Moriarty (Andr
 
 # Susana Balbo
 date: 2023-03-23
-slug: susana_balbo
 tags: wine
 
 Almoço de domingo na casa de uma amiga com direito a quatro garrafas abertas depois de muitas horas de conversa. Foi uma ótima visita.
@@ -87650,7 +86634,6 @@ For an autotelic person, the primary goals emerge from experience evaluated in c
 
 # Timemore C2
 date: 2023-04-05
-slug: timemore_c2
 tags: food coffee
 
 Chegou meu segundo moedor manual depois do quebra-galho que foi o "Hario Slim" por mais de dois anos. Depois de muito pesquisar fiquei muito satisfeito em comprar este modelo da Timemore, por três motivos.
@@ -87687,7 +86670,6 @@ Por fim, e apesar de já ter tocado no assunto de qualidade, acredito que o conj
 # Como analisar assembly x64
 date: 2023-04-05
 link: https://codemachine.com/articles/x64_deep_dive.html
-slug: x64_deep_dive
 tags: debugging videos
 
 Recomendo a leitura do artigo "X64 Deep Dive" para se habituar às idiossincrasias sobre o formato assembly do x64, especialmente se você costuma depurar assembly para Windows. O artigo descreve as novas funcionalidades que suportam os 64 bits do formato do executável Windows, o Portable Executable, além de explicar em detalhes o funcionamento de mecanismos que mudaram, como o tratamento de exceção (e o unwinding no código).
@@ -88053,7 +87035,6 @@ Determine if the parameters are loaded from non-volatile registers and if those 
 
 # Cracking the code interview
 date: 2023-04-07
-slug: cracking_the_coding_interview
 tags: books
 
 Este livro foi recomendado pela minha amiga para treinar para as entrevistas técnicas que ando fazendo. Escolhi ler este em seguida após terminar o "Algorithms for Dummies". As primeiras anotações são como compor o CV e qual a estratégia de cada big tech nos seus processos. Escapei esta parte, não estou interessado em trabalhar em um Google da vida. Porém, há alguns detalhes que achei relevante recortar.
@@ -88080,7 +87061,6 @@ Rather than making assumptions, let's derive the runtime by walking through the 
 
 # Duas séries pretas e um filme preto... e branco
 date: 2023-04-09
-slug: alfaphaville_todo_mundo_odeia_o_cris_swarm_enxame
 tags: cinema movies cinema series
 
 Coisa neste poste: Alfaville (Alphaville), Swarm (Enxame), Todo Mundo Odeia o Chris.
@@ -88653,7 +87633,6 @@ Lá pelo final você entende. A velha aprende a andar de bicicleta. E ela agora 
 # Hacker Rank Warm Up
 date: 2023-04-16
 link: https://www.hackerrank.com/interview/interview-preparation-kit
-slug: hacker_rank_warm_up
 tags: computer interview
 
 Here I am doing interview exercise tests at Hacker Rank. I am trying to recap what I've been doing the last two months before going on. Let's see what I learned, starting with the Warm Up exercises.
@@ -88776,7 +87755,6 @@ Tudo é um show de luzes que quer iluminar temas sociais referentes a comida, ma
 
 # Árvore de segmentos
 date: 2023-04-17
-slug: segment_tree
 tags: computer interview
 
 Não existe sequer uma entrada em português sobre Segment Tree, uma árvore binária específica para guardar intervalos. E este acredito ser um assunto importante para testes de entrevista ou competições de programação porque ele é muito útil para alguns problemas. Vamos dar uma olhada em como ela funciona.
@@ -89120,7 +88098,6 @@ O filme acaba super rápido comparado com os draminhas de hoje. E que filme, sen
 
 # Clos de los siete, by Michel Rolland
 date: 2023-04-24
-slug: clos_de_los_siete_michel_rolland
 tags: wine
 
 Quem é Michel Rolland, você talvez se pergunte. Eu faço a mesma pergunta, já que essa história de marketing pessoal pode ser tão enganoso quanto marketing de vinho. Bom, eu pesquisei e vi que ele é apreciado no mundo inteiro e é denominado um dos flying winemakers, que são enólogos que não estão presos em uma vinícola ou, melhor ainda, na colheita de apenas uma região no mundo. Eles vão além da própria bodega e região e criam diferentes obras espalhadas pelas oportunidades que o mundo inteiro do vinho oferece.
@@ -89502,7 +88479,6 @@ Este post entrará na categoria blog. Sem tag. Esta é outra vantagem da analogi
 # Aomori
 date: 2023-05-28
 link: https://thecoffee.jp/ourbean/kraftedition/aomori
-slug: aomori_microlog_kraft_the_coffee
 tags: coffee
 
 O café acabou e fui buscar em um rolê de bike no ABC, aqui do lado. Era uma terça e havia pensado erroneamente que seria dia de torra nova no Birmingham, uma cafeteria com microtorrefação gerenciada por um químico. Acertei o dia, mas errei o período: a torra acontece toda terça à noite, não de dia. Ou seja: café novo apenas no dia seguinte.
@@ -89697,14 +88673,12 @@ Segue aqui uma pequena nota de arrependimento por não saber da existência "des
 
 # El Porvenir: Laborum Malbec 2020
 date: 2023-06-06
-slug: el_porvenir_laborum_malbec
 tags: wine
 
 Essa garrafa que já acabou foi um Malbec 2020. Nuevos Suelos a subcategoria, mas ainda da série Laborum. As uvas vieram da Finca Alto Rio Seco, onde 70% do terreno é de rochas com sedimentação calcária. São produzidas 7000 garrafas. Não há passagem por barrica porque o objetivo deste rótulo é levar ao consumidor o que veio do solo de forma autêntica. Geralmente o apreciador esnobe de vinhos diria que esta decisão tira a complexidade da bebida, mas nesse caso posso dizer que nem um pouco. A tara por passagem em barrica serve para muitas colheitas, mas essa pode ficar do jeito que está.
 
 # El Porvenir: Laborum Tannat 2019
 date: 2023-06-06
-slug: el_porvenir_laborum_tannat
 tags: wine
 
 É revoltante o quão bom são os vinhos da El Porvenir. A agressividade dos taninos que lembram as uvas regadas a conta-gotas no meio de um deserto árido, arenoso e praticamente infértil se traduz em uma taça sempre memorável, e que de brinde remete a memórias da própria vinícola. A garrafa que bebo agora é um Tannat de 2019, ou seja, não traumatizado pela pandemia. A Finca é a El Retiro, a mais antiga da vinícola, plantada em 1945. Se trata de um terreno arenoso com poucas rochas. Pela idade das parreiras elas foram plantadas no "esquema pérgola". Ele é ríspido, mas ainda frutado. O tanino raspa na boca e a envolve em um abraço que acolhe o paladar. Há tons vegetais e minerais na mesma taça. O teor alcoólico ainda é forte, mas faz parte da experiência completa.
@@ -89712,7 +88686,6 @@ tags: wine
 
 # OnBoarding no baixo nível
 date: 2023-06-06
-slug: onboarding_no_baixo_nivel
 tags: computer reversing_tag lists
 
 Uhu! Estou de volta para as baixarias =). Irei trabalhar com engenharia reversa, serviços e drivers no Windows, talvez algumas telas azuis da morte e alguns travamentos inexplicáveis. Ou seja, só diversão.
@@ -90204,14 +89177,12 @@ A Bublefix também é péssima quando se trata de episódios de Netflix, e isso 
 
 # Pão de queijo a frio com fubá de canjica
 date: 2023-06-17
-slug: pao_de_queijo_com_canjica
 tags: cooking
 
 Hoje experimentei uma receita que mistura os ingredientes do pão de queijo que já conhecemos e coloca um terço do polvilho de fubá de canjica, uma moagem bem fina de canjica usada para outras receitas como broinha. O pão não cresce tanto, acho que devido à falta de escaldar o polvilho com os líquidos fervendo. Porém, é uma receita rápida e que funciona: é só misturar os ingredientes e fazer as bolinhas.
 
 # Na sua bunda, Platão?
 date: 2023-06-25
-slug: na_sua_bunda_platao
 tags: cooking coffee
 
 Esta rápida e curiosa epopeia brinca com a teoria das ideias do filósofo grego da Antiguidade Platão. É uma tentativa bem-humorada (ou não) de tentar colocar os pingos nos is de quem ainda está embasbacado com a experiência de degustação de café especial e torra própria que se segue. Os cafés citados são do Sítio Posses e do Rancho São Benedito, adquiridos pelo serviço de microtorrefação de Pereira Villela (ótimo, por sinal). O grão verde é aleatório de mercado municipal.
@@ -90242,7 +89213,6 @@ Agora que estou terminando os copos e já dei uma espiada nas referências as no
 
 # Reversing: Secrets of Reverse Engineering
 date: 2023-06-25
-slug: reversing_book
 tags: books reversing_tag antidebug
 
 Publicado pela Wiley em 2005, bem na época que comecei a me enveredar no trabalho com análise de trojans e técnicas antidebugging, o livro de Eldad Eilam veio bem a calhar na época e agora virá bem a calhar novamente, pois irei voltar a trabalhar na área. Naquela época começavam a surgir os ataques aos bancos online no Brasil e existia até um tookit que espalhava uma técnica ou duas entre os laranjas que queriam tirar uma casquinha da nova onda. O livro de Eilam busca juntar cada aspecto da engenharia reversa em um apanhado que irá nos dar insights e modus operandi de como proceder para cada tipo de desafio.
@@ -90521,7 +89491,6 @@ You can see a JE (which is jump if equal) after the subtraction because subtract
 
 # Unabomber Manifesto (Theodore Kaczynski)
 date: 2023-06-25
-slug: unabomber_manifesto
 tags: books philosophy
 
 Theodore Kaczynski, conhecido como Unabomber, apareceu morto esses dias em sua cela. Ele estava preso pagando uma pena maior que a vida. Em sua época gloriosa ele forçou um jornal a publicar seu manifesto, um livro com centenas de parágrafos explicando o porquê da revolução industrial ter sido um desastre para a raça humana e como o futuro não deve ser melhor.
@@ -90584,7 +89553,6 @@ O publish é a transformação do arquivo de texto único para N destinos difere
 
 # Como torrar café
 date: 2023-09-07
-slug: como_torrar_cafe
 tags: food coffee
 
 Desde que torrei o primeiro batch de grãos que trouxe de Poços comecei a pesquisar sobre torra caseira. Ajuntei alguns textos e comecei a fazer anotações. Espero ter feito um bom trabalho de pesquisa e compilação do que encontrei pelo caminho.
@@ -90703,14 +89671,12 @@ Será que Black Mirror perdeu sua alma pelo caminho durante esta última tempora
 # Descafeinado moído Maria Bonita
 date: 2023-07-01
 link: https://cafecampinho.com.br/
-slug: descafeinado_moido_maria_bonita
 tags: coffee
 
 O rótulo diz 100% café brasileiro. Está com texto em português e inglês para exportação. O sabor do robusta em grãos da mesma produtora tinha seus poréns, mas este é um custo/benefício interessante. Ele tem um sabor agradável e mineiro. Se trata de uma torra mais escura que puxa para sabores mais da torra que do café, mas ainda assim é um bom café.
 
 # Resultado mouthful em meu segundo batch (torrando café)
 date: 2023-07-01
-slug: torrando_cafe_segundo_batch_mouthful
 tags: cooking coffee
 
 Moí novamente os mesmos grãos verdes de Poços de Caldas, mas dessa vez mirando em uma torra média.
@@ -90753,7 +89719,6 @@ Alguns textos sobre alguns filmes:
 
 # El Porvenir Laborum de Parcela Malbec 2020
 date: 2023-07-15
-slug: el_porvenir_laborum_de_parcela_malbec_2020
 tags: wine
 
 Você se acostuma com Malbec como se fosse sensacional, mas são esses vinhos da Porvenir que são outro nível.
@@ -90764,7 +89729,6 @@ Neste ano de 2020 foi possível produzir apenas 7000 garrafas. Mas que garrafas!
 
 # Repaginada da semana
 date: 2023-07-15
-slug: repaginada_da_semana
 tags: cinema
 
 Coisas citadas neste post: Bastardos Inglórios, Swarm, I Am a Virgo, Não Durma no Ponto, O Rei dos Clones. Ufa, quanta coisa, não? Na verdade se juntar não dá um inteiro.
@@ -90806,7 +89770,6 @@ Não. Drama é ficar assistindo a este filme buscando pelo momento onde algo pes
 # Boas-vindas ao canal de Reversing do Telegrama
 date: 2023-07-21
 link: https://youtu.be/HYkG4ZG7lxU
-slug: reversing_no_telegram
 tags: computer reversing_tag blog
 
 Olá, pessoas do Telegrão que entraram "no canal". Bora começar a fazer baixarias pra ver se anima? Bom, acho que a primeira coisa que todo reversing de computador precisa fazer é gerar sua primeira telinha azul com uma poesia. Vamos lá?
@@ -90905,7 +89868,6 @@ Esta novela japonesa chega a ser um pouco engraçada, mas é involuntário. Seu 
 
 # Café Pretíssimo
 date: 2023-08-02
-slug: cafe_pretissimo
 tags: coffee
 
 Como regra de ouro aumentar o grau da torra diminui a acidez e aumenta o amargor. Minha amiga me deu um café em grãos absolutamente preto, pretíssimo, pretérrimo. É para os produtores da Netflix derramarem lágrimas sobre ele. Vocês não têm ideia. Esse café é muito preto. Fiquei com muito medo dele.
@@ -90928,7 +89890,6 @@ O experimento final foi moer os grãos para prensa francesa e deixar em infusão
 
 # Descobrir ativação de classes WinRT
 date: 2023-08-13
-slug: descobrindo_ativacao_classes_winrt
 tags: computer reversing_tag
 
 A Windows Runtime nada mais é que o COM repaginado. O COM já previa o uso de proxies para comunicação remota entre processos. A WinRT adicionou mais uma interface e uma função. Vou neste post descrever o processo pelo qual descobri como funciona o registro de um dispositivo no Azure Active Directory (AAD).
@@ -91049,7 +90010,6 @@ Os movimentos de câmera do filme são frenéticos e acompanham os personagens c
 
 # Oppenheimer
 date: 2023-08-17
-slug: oppenheimer
 tags: cinema movies
 
 Tarde de solteiro, resolvi dar uma ida e volta ao cinema de caminhada. Pensei que teria muito a refletir na volta. Estava lembrando na ida da última vez que fiz isso e assisti sem pretensão o maravilhoso Tudo, No Mesmo Lugar, Ao Mesmo Tempo. Qual seria o filme escolhido dessa vez?
@@ -91078,7 +90038,6 @@ Faz parte da experimentação do cineasta estes pequenos grandes tropeços em su
 
 # Vinia Le Fruité I.G.P. Pays d'Oc 2021
 date: 2023-08-17
-slug: vinia_le_fruite_2021_frances
 tags: wine
 
 Eu abro vinho francês como quem não está afim de tomar vinho. Daí fico naquela de suquinho e talz. Este Vinia eu nem me lembro se tinha mais algum gosto do que uva estragada. O sommelier do Wine já deu a dica em suas notas: vinho elegante. Isso é sinônimo para bleh. Tem Carignan, Syrah e Grenache nesta garrafa (só para constar).
@@ -91139,7 +90098,6 @@ Além disso, awk me dará a liberdade que gostaria de indexar pesadamente meus t
 # Explorando a HSTRING
 date: 2023-08-21
 link: https://learn.microsoft.com/en-us/windows/win32/api/winstring/
-slug: hstring
 tags: computer reversing_tag
 
 Estava me enveredando hoje nos bytes usados para montar e demonstar os argumentos de uma interface COM proxy da WinRT quando quis saber qual era o leiaute da nova string do Windows, a HSTRING, usada na WinRT e em todo o ecossistema dos Universal apps.
@@ -91234,7 +90192,6 @@ A ideia de fazer um apanhado da semana como havia feito em um post anterior não
 
 # Orby Cabernet Sauvignon - Merlot 2012
 date: 2023-08-28
-slug: orby_cabernet_sauvignon_merlot_2012
 tags: wine
 
 Vinho francês não costuma ter caráter. É apenas vinho. Mas pode ser que não tenha provado os muito caros. Este blend é okzinho, bebível para o dia-a-dia.
@@ -91318,7 +90275,6 @@ Cansei da série do Chris Rock. Acho que na terceira temporada ela já começa a
 
 # Primer
 date: 2023-08-30
-slug: primer_review
 tags: cinema movies
 
 Revi este filme com meu amigo pausando e comentando e finalmente entendemos a trama principal. E depois que se entende isso acaba ficando um pouco sem graça. Só que não. O universo de viagem no tempo idealizado pelo seu criador continua fresco e vívido. Há tantas possibilidades em entender os plots secundários e tanto o que poderia acontecer em um mundo onde essa máquina existisse que se torna uma diversão à parte só conversar sobre. E é isso que torna Primer ainda um dos melhores filmes do gênero. Ele é uma discussão eterna. Ele nunca termina. Sua produção de baixo orçamento é assistível, inclusive pela fotografia. Suas atuações são milimétricas e seu movimento de câmera preciso. Shane Carruth, diretor e roteirista, produziu além de Primer mais três outros trabalhos, mas este é o único que dirigiu e escreveu. Ele costuma compor trilhas. E ele, assim como o cara do The Room, foi o escolhido para compor esta sinfonia racional e sublime de linhas do tempo.
@@ -91503,7 +90459,6 @@ Após assistirmos no Filmicca seguiu um longo documentário sobre a diretora. Fa
 
 # Barbie
 date: 2023-09-08
-slug: barbie
 tags: cinema movies
 
 O filme dos memes do ano junto com "Oppenheimer do Nolan" é uma divertida e fofinha sessão da tarde. Roteirizado por um homem e uma mulher e dirigido por esta mulher que um dia foi dirigida por este homem, fica óbvio entender o conto de fadas do filme sob o viés da realidade. Quero dizer a realidade, mesmo, não à fantasia que o filme se baseia.
@@ -91564,7 +90519,6 @@ Porém, o que pode fazer você realmente se afastar é a projeção capenga dos 
 
 # O Lobo de Wall Street (Martin Scorsese, 2013)
 date: 2023-09-14
-slug: wolf_of_wall_street_revisited
 tags: cinema movies
 
 O que me fez assistir de novo O Lobo de Wall Street foi conferir se a Margot Robbie era aquela coisa toda mesmo. Foi vendo ela em "Barbie" que surgiu a dúvida, pois apesar de seus 30 e poucos anos no filme mais recente ela está parecendo uma quarentona. Como ninguém vai falar sobre isso na mídia alguém precisa fazê-lo, nem que seja pela honra de afirmar: no filme de Martin Scorsese ela é a delícia em cena.
@@ -93249,7 +92203,6 @@ A segunda garrafa foi este "Las Tortugas Estate", de 2020, da Nieto Senetiner, m
 
 # Os dividendos do café
 date: 2024-03-30
-slug: dividendo_cafe
 tags: coffee
 
 O café da "Dividendo Café", que achamos no dia do aniversário da Mitiko "em Mauá", está um pouco mais azedo essa semana. Ele não era tanto semana passada. Agora veio uma doçura bem agradável. Foram dias interessantes passando este café. O bom do lugar é que é uma microtorrefação e o dono faz as torras. Os dois espressos provados por lá estavam sensacionais. Para mim este é o novo crème de la crème dos cafés especiais: ir em uma microtorrefação em que as torras são pequenas e precisas, de acordo com a personalidade do mestre torrador. Os cafezes que conheci de marca ou dos mais popularzinhos como Coffee Lab ou Por Um Punhado de Dólares não chegam próximo do cuidado desses lugares menores. Café é um assunto que exige detalhes além da capacidade de um simples negócio. Não adianta jogar um monte de funcionários para trabalhar uma torra, por melhor que ela seja. Talvez apenas com bons e dedicados baristas, o que é difícil de achar se você precisa escalar os negócios. Coffee Lab é gigante se comparado a uma microtorrefação e Por Um Punhado é uma franquia. Eu vi os barris de café disponíveis na cafeteria do centro, mas o espresso que provei de lá não chegava próximo de um especial, mas de um comunzinho de rede. Possui as notas de azedo que tanto as pessoas gostam hoje em dia, mas insosso no corpo e um amargor desagradável. Achei o mesmo quando fui no Coffe Lab apenas pelo espresso. Da série de bons lugares porque têm bons baristas vem um café próximo da estação Fradique Coutinho, o Coffee Walk. Bom pão de queijo e café bem sincero. Revisitaria.
@@ -93506,7 +92459,6 @@ tags: philosophy
 
 # Refúgio
 date: 2024-03-30
-slug: refugio_filosofia
 tags: quotes philosophy
 
 Os homens procuram refúgio no campo, no litoral, nas montanhas; e você também tem anseios frequentes por tais distrações. No entanto, certamente isso é uma grande tolice, já que você pode se retirar para dentro de si mesmo a qualquer hora que quiser. Em nenhum lugar um homem pode encontrar um refúgio mais tranquilo e mais cheio de lazer do que em sua própria alma, especialmente quando há algo dentro dele sobre o qual, se ele apenas olhar, estará imediatamente em repouso. E o resto eu considero nada mais que perfeita ordem na alma. Portanto, permita-se este retiro constante, e, assim, renove-se. Marco Aurélio.
@@ -93711,7 +92663,6 @@ Together, the oral teachings and the individual personal effort produce an effec
 
 # A Gaiola das Loucas
 date: 2024-04-08
-slug: a_gaiola_das_loucas
 tags: cinema movies
 
 Uma comédia dos anos 90 adaptada de um filme francês da década de 70 que por sua vez foi adaptado de uma peça de teatro da mesma época. Porém, verdade seja dita, a peça francesa foi tão boa que atravessou duas continuações cinematográficas, foi adaptada para um musical americano nos anos 80 e finalmente caiu nas graças de Hollywood, que conduziu uma farsa hilária pela comédia de situação, e por falta de tensão em seu final uma mensagem de amor e compreensão sob todos os aspectos. Esta história inocente coloca uma família de um político conservador em crise em rota de colisão com o dono de uma casa de shows de drag queens. A melhor mensagem da trama é seu companheiro que faz a mulher perfeita: dona de sua própria voz e conservadora nos costumes. E ela é um homem. A ironia fina desta obra atravessa não apenas um oceano, mas camadas de significado entre gerações.
@@ -94653,7 +93604,6 @@ Porém, de vez em quando ainda faço jejum. Pesquisas precisam ser feitas com re
 
 # A Cor Púrpura
 date: 2024-06-04
-slug: a_cor_purpura
 tags: cinema movies
 
 Imagine um remake deste filme de Steven Spielberg de 1985, mas com personagens brancos. Ridículo, não? Deslocado. No melhor dos casos: patético. Você remove toda a carga e atmosfera cultural de uma etnia e por consequência conta uma história dissociada da realidade de seu microcosmos, este mundo das mulheres negras do início do século 20 no interior dos EUA descrito no livro homônimo de Alice Walker. É um romance epistolar, contado no formato de cartas que a protagonista escreve, mas nunca envia, para Deus e sua irmã, separada por quase toda a vida.
@@ -95824,7 +94774,6 @@ Rats fed Daily Intermittent Sugar and Chow regulate their caloric intake by decr
 
 # Poker Face (2023)
 date: 2024-08-26
-slug: poker_face_serie
 tags: cinema series
 
 Série recente cujo tema é uma moça que sabe se alguém está dizendo mentiras. Estranhando um dono de cassino pretende usar isso para trapacear uma jogatina privada com câmeras espalhadas pela mesa. Por que usar uma psycho como ela em vez de simplesmente olhar as cartas pelas câmeras eu não sei, mas está de acordo com um roteiro que trabalha seus personagens e suas tramas como se fizessem parte de um vídeo-game de investigação.
@@ -95924,7 +94873,6 @@ There is no net of words so fine the truth cannot slip through it.
 
 # As Branquelas
 date: 2024-09-07
-slug: as_branquelas
 tags: cinema movies
 
 Após a revisão fui dar uma olhada nas críticas do passado e não me identifiquei mais em execrar um filme ruim de gosto duvidoso. Não é possível odiar um filme engraçado desses por dois motivos, sendo que o primeiro é ser engraçado, e o segundo é ser politicamente incorreto. É bom ver um filme que é ruim sem se fazer de inteligente. Estranho como hoje em dia encontrar um filme desses é uma joia rara.
@@ -96522,7 +95470,6 @@ Porém, acredito que pelo menos uma data de atualização cabe para entradas ant
 
 # Um químico na cozinha (Haumont, Raphaël)
 date: 2025-01-09
-slug: um_quimico_na_cozinha
 tags: cooking books
 
 Ano passado havia comprado um livro de gastronomia que uma chef vendedora ambulante de brigadeiro recomendou enquanto estava vendendo sua mercadoria para nós, meros bêbados eventuais. Porém, tive que devolver no dia seguinte: o texto é muito ruim e confuso. Ele investe em defender cozinha molecular e eu, leitor desavisado, nem sabia que isso estava em ataque. Eu nem sabia que isso era uma coisa. Pra falar a verdade, não me identifico muito com essas cozinhas diferentonas que querem cobrar horrores pela experiência. De vez em quando é legal de ir, mas bem de vez em quando.
@@ -96707,7 +95654,6 @@ All that we are is the result of all that we have thought. It is founded on thou
 
 # Prometheus Rising (Robert Anton Wilson, 1983)
 date: 2025-02-01
-slug: prometheus_rising
 tags: books reading quotes
 
 "Whatever the Thinker thinks, the Prover proves."
@@ -97743,7 +96689,6 @@ Me sinto como o sujeito que comprou uma camiseta de qualidade ímpar com o guerr
 
 # Qual o prazer em assistir duas horas e meia de propaganda?
 date: 2025-05-31
-slug: mickey_17
 tags: movies cinema
 
 Assisti hoje Mickey 17 porque estava no sofá. Não está mais nos meus planos assistir mais qualquer coisa de Hollywood por livre e espontânea vontade, nem mesmo de um diretor que admirava. Porém, mesmo que eu assista, não devo escrever mais sobre. Não gosto muito de escrever sobre propaganda, e hoje até John Bong Woo, desde Parasita, até quando é engraçado, está travestido de propaganda chata e séria. Não há mais risadas no absurdo da situação como o ginásio em O Hospedeiro ou o sequestro em Okja. Hoje são filmes tristes que se iluminam pela angústia do seu idealizador. Tristes, sérios e com uma agenda. E a minha agenda, desde que larguei discussões filosóficas para jogar xadrez, é não ser mais importunado com essas bobagens.
@@ -98698,7 +97643,6 @@ Após bagunçar a formatação acho que seria uma boa atualizar os posts selecio
 
 # Programming
 date: 2026-03-13
-slug: programming
 tags: computer programming_tag blog
 
 Aqui estão os artigos que considero essenciais para seguir a carreira de programador. Foco principalmente nos fundamentos, pois considero que eles são tudo o que um programador necessita para evoluir. Tendo os fundamentos o resto se faz sozinho no dia-a-dia.
@@ -98723,7 +97667,6 @@ Como este último é sobre depuração você logo vê que os temas se mesclam. M
 
 # Reversing
 date: 2026-03-13
-slug: reversing
 tags: computer reversing_tag blog
 
 A depuração é o meu assunto favorito de ciência da computação. Para mim é até a mais ciência de todas (programação eu considero mais próxima até de matemática). A criação de teorias, testes, obtenção de teorias e a transpiração constante em busca de padrões e os diabos dos detalhes é o que praticamente me fez virar programador. Sem gostar dessa parte menos nobre onde precisamos escarafunchar os algoritmos que criamos ou mantemos, muito se perde de tempo no dia-a-dia. Afinal de contas, se você trabalha com algo que não gosta está perdendo seu tempo. Se depuração te atrai, tenho boas notícias sobre a área para você :).
@@ -98835,7 +97778,6 @@ O padrão era mais complexo, com mais membros e algumas variáveis que mudavam d
 
 # Voltando à linha de comando (again)
 date: 2026-03-23
-slug: back_to_command_line_2
 tags: computer blog
 
 Trabalhar com Windows é um exercício de paciência constante. Junto do Visual Studio um treinamento para ser monge. Cada vez mais penso com carinho em meu aprendizado de algumas ferramentas UNIX para conseguir fazer busca e editar arquivos rapidamente. Talvez hoje com a proximidade e compatibilidade entre os dois SOs seja possível uma convivência produtiva de ferramentas feitas originalmente para terminal. O uso de IA também facilita dar alguns primeiros passos mais rápido, como por exemplo saber lidar com projetos do Visual Studio unicamente pelo terminal.
