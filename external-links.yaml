@@ -817,9 +817,6 @@
 - title: "blogue do Ken Johnson"
   url: http://www.nynaeve.net/
 
-- title: "boas vindas"
-  url: hello_world2
-
 - title: "boi-corneta"
   url: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br
 
@@ -877,9 +874,6 @@
 - title: "código do quake"
   url: https://github.com/id-Software/Quake
 
-- title: "da série"
-  url: historia_do_windows
-
 - title: "das 500 mil combinações"
   url: https://www.connectionstrings.com/
 
@@ -897,9 +891,6 @@
 
 - title: "depuração de kernel"
   url: http://www.driverentry.com.br
-
-- title: "depuração remota"
-  url: windbg_a_distancia
 
 - title: "deste saite"
   url: http://www.numaboa.com.br
@@ -1054,9 +1045,6 @@
 - title: "hive"
   url: http://en.wikipedia.org/wiki/Windows_Registry#Hives
 
-- title: "hookzinho nos métodos de um componente COM"
-  url: hook_de_com_no_windbg
-
 - title: "imgur"
   url: http://imgur.com/
 
@@ -1065,9 +1053,6 @@
 
 - title: "isso"
   url: http://kobyk.wordpress.com/2007/07/20/dynamically-linking-with-msvcrtdll-using-visual-c-2005/
-
-- title: "já conhecemos"
-  url: historia_do_windows_parte_30
 
 - title: "já disponível no C99"
   url: http://stackoverflow.com/questions/8316509/difference-dev-cpp-and-microsoft-visual-c-math-h
@@ -1128,12 +1113,6 @@
 
 - title: "navegação web"
   url: http://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-
-- title: "nesse artigo"
-  url: historia_da_linguagem_c_parte_1
-
-- title: "neste outro artigo"
-  url: houaissparababylon_beta
 
 - title: "neste site que possui uma visão técnica dos episódios"
   url: https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html
@@ -1261,9 +1240,6 @@
 - title: "pouquíssimos amigos blogueiros"
   url: https://www.linkedin.com/in/driverentry/
 
-- title: "primeira temporada"
-  url: westworld
-
 - title: "primeiro colocado"
   url: https://code.google.com/codejam/contest/4304486/scoreboard#vf=1
 
@@ -1345,17 +1321,11 @@
 - title: "shell extensions"
   url: http://en.wikipedia.org/wiki/Shell_extension#Extensibility
 
-- title: "sizeof"
-  url: what_happens_inside_the_sizeof_operator
-
 - title: "std::list"
   url: https://en.cppreference.com/w/cpp/container/list.html
 
 - title: "são precisos 10 anos"
   url: http://www.norvig.com/21-days.html
-
-- title: "série Harry Potter"
-  url: harry_potter_e_o_prisioneiro_de_azkaban
 
 - title: "sítio do Charles Petzold"
   url: http://www.charlespetzold.com
@@ -1420,9 +1390,6 @@
 - title: "um repositório"
   url: https://github.com/Caloni/x64-deep-dive
 
-- title: "um texto da época"
-  url: house
-
 - title: "uma convenção"
   url: https://www.gnu.org/software/gawk/manual/gawk.html#Variable-Scope
 
@@ -1456,9 +1423,6 @@
 - title: "vídeo"
   url: https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW
 
-- title: "writing"
-  url: why_is_my_dll_locked
-
 - title: "x64dbg"
   url: https://x64dbg.com/
 
@@ -1474,3 +1438,80 @@
 - title: "últimos posts"
   url: https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg
 
+- title: "Windows NT Device Driver Development"
+  url: http://www.amazon.com/Windows-NT-Device-Driver-Development/dp/1578700582
+
+- title: "Undocumented Windows 2000 Secrets" 
+  url: http://undocumented.rawol.com/ 
+
+- title: "DriverEntry (Começar de Novo)"
+  url: http://www.driverentry.com.br/blog/2007/06/comear-de-novo.html
+
+- title: "Organizing the Windows 7 Project"
+  url: http://blogs.msdn.com/e7/archive/2008/09/05/organizing-the-windows-7-project.aspx
+
+- title: "Binky Pointer Fun Video C" 
+  url: https://www.youtube.com/watch?v=5VnDaHBi8dM
+
+- title: "IMSDB"
+  url: http://www.imsdb.com
+
+- title: "ROTEIRO DE CINEMA"
+  url: http://www.roteirodecinema.com.br
+
+- title: "CURTAGORA"
+  url: http://www.curtagora.com
+
+- title: "SCRIPTS-O-RAMA"
+  url: http://www.script-o-rama.com
+
+- title: "CRIAÇÃO DE ROTEIROS"
+  url: http://www.roteirista.com
+
+- title: "ASSOCIAÇÃO CULTURAL KINOFORUM"
+  url: http://www.kinoforum.org
+
+- title: "CURTA O CURTA"
+  url: http://www.curtaocurta.com.br
+
+- title: "Intermittent Fasting for Twelve Weeks Leads to Increases in Fat Mass and Hyperinsulinemia in Young Female Wistar Rats" 
+  url: https://www.mdpi.com/2072-6643/12/4/1029
+
+- title: "JEJUM INTERMITENTE - Minha tese de doutorado na USP"
+  url: https://youtu.be/PkWoC0ftWzE?si=Nr2mKo1t0fWJKVip
+
+- title: "Fasting in rodents"
+  url: https://norecopa.no/3r-guide/fasting-in-rodents
+
+- title: "TRIBO FORTE #116 – A ABSOLUTA VERDADE SOBRE JEJUM INTERMITENTE"
+  url: https://emagrecerdevez.com/tribo-forte-116/
+
+- title: "How to model intermittent fasting in rodents"
+  url: https://maze.conductscience.com/how-to-model-intermittent-fasting-in-rodents/
+
+- title: "How to Translate Time? The Temporal Aspect of Human and Rodent Biology"
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355425/
+
+- title: "MCU"
+  url: https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
+
+- title: "Understanding the formal definition of Big-O"
+  url: https://justin.abrah.ms/computer-science/understanding-big-o-formal-definition.html.
+
+- title: "Visiting the Real Life Ramen Restaurants from Ms. Koizumi Loves Ramen Noodles [Part 1]"
+  url: https://www.crunchyroll.com/news/features/2018/3/18/visiting-the-real-life-ramen-restaurants-from-ms-koizumi-loves-ramen-noodles-part-1
+
+- title: "Visiting the Real Life Ramen Restaurants from Ms. Koizumi Loves Ramen Noodles [Part 2]"
+  url: https://www.crunchyroll.com/news/features/2018/3/20/visiting-the-real-life-ramen-restaurants-from-ms-koizumi-loves-ramen-noodles-part-2
+
+- title: "Are all proteins created equal"
+  url: https://www.sacredcow.info/blog/are-all-proteins-created-equal
+
+- title: "What if we all went plant based"
+  url: https://www.sacredcow.info/blog/what-if-we-all-went-plant-based
+
+- title: "Army Should Provide Moral Education for Troops to Stop Outrages"
+  url: https://www.telegraph.co.uk/news/8341030/Army-should-provide-moral-education-for-troops-to-stop-outrages.html
+
+- title: "Oxford Mindfulness" 
+  url: http://oxfordmindfulness.org/

@@ -2570,7 +2570,7 @@ O interessante e ver o ponto de vista descrito "por um dos criadores da linguage
 
 Com certeza, Alan. Havia me esquecido desse documento, mas é uma ótima dissertação sobre os primórdios da linguagem. Geeks sensíveis irão chorar =)
 
-Por falar em se emocionar, imagino que seu comentário estaria mais contextualizado "nesse artigo" onde inicio uma viagem ao tempo para discursar sobre as decisões por detrás da linguagem C. Se você ainda não o leu, recomendo.
+Por falar em se emocionar, imagino que seu comentário estaria mais contextualizado em "História da Linguagem C: Parte 1" onde inicio uma viagem ao tempo para discursar sobre as decisões por detrás da linguagem C. Se você ainda não o leu, recomendo.
 
 []s
 
@@ -4613,8 +4613,6 @@ Eu encontrei na internet  um livro com 1300 paginas que ensina como criar um com
 Se puder mi ajudar eu agradeço!
 
 PS.: Pq o link da página é "engenharia-reversa-para-idiotas"
-
-(http://www.caloni.com.br/blog/archives/engenharia-reversa-para-idiotas)
 
 ---
 
@@ -11985,7 +11983,7 @@ Olá, Willians.
 
 Agora que me toquei: você deve estar usando a versão antiga, não?
 
-A versão para usuário (ainda beta) está disponível (2026-03-21 não mais) "neste outro artigo".
+A versão para usuário (ainda beta) estava disponível em outro artigo.
 
 Boa sorte!
 
@@ -12373,8 +12371,6 @@ Valeu! Na verdade, agora estou testando também o Bazaar... é uma escolha difí
 
 []s
 
-"Bazaar": https://en.wikipedia.org/wiki/GNU_Bazaar
-
 # Crash Dump Analysis: o livro
 2008-04-17 books archive
 
@@ -12745,8 +12741,6 @@ E o pior é que é uma diversão viciante!
 Espero que esse projeto de Python em celulares dê muito certo; pois irá elevar em muito as potencialidade de software móvel.
 
 []s
-
-"Bazaar": http://bazaar-vcs.org/
 
 # Acessando memória física no WinDbg
 2008-05-01 computer blog
@@ -16472,17 +16466,13 @@ Que mancada! Felizmente, aprendi algo  com esta gafe.
 
 2008-08-08 "AF.":
 
-Realmente a idéia do guia é excelente, mas um livro que também não está na lista do Vostokov, que eu também gosto muito e recomendo  é o Windows NT Device Driver Development do Viscarola. Acho ele melhor que o livro do Art Baker e do Lozano.
-
-<http://www.amazon.com/Windows-NT-Device-Driver-Development/dp/1578700582>
+Realmente a idéia do guia é excelente, mas um livro que também não está na lista do Vostokov, que eu também gosto muito e recomendo  é o "Windows NT Device Driver Development" do Viscarola. Acho ele melhor que o livro do Art Baker e do Lozano.
 
 ---
 
 2008-08-07 Edgar Barbosa:
 
-Existe outro livro fantástico sobre Windows Internals que não consta na lista do Vostokov. Chama-se 'Undocumented Windows 2000 Secrets'. O autor conseguiu com a Addison-Wesley publicar o livro online gratuitamente. Voce pode encontrar os PDFs e o CD que acompanha o livro em
-
-http://undocumented.rawol.com/ (2026-03-28 link quebrado)
+Existe outro livro fantástico sobre Windows Internals que não consta na lista do Vostokov. Chama-se "Undocumented Windows 2000 Secrets" (2026-03-28 link quebrado). O autor conseguiu com a Addison-Wesley publicar o livro online gratuitamente. Voce pode encontrar os PDFs e o CD que acompanha o livro em
 
 Atenção especial para os capitulos 4 e 7, os melhores do livro em minha opinião.
 
@@ -16564,8 +16554,7 @@ Se Steve Wonder é Deus, eu sou Steve Wonder!
 Meu Deus, eu sou cego!"
 ```
 
-Fonte: http://www.driverentry.com.br/blog/2007/06/comear-de-novo.html (2026-03-21 link quebrado)
-
+Fonte: "DriverEntry (Começar de Novo)" (2026-03-21 link quebrado)
 
 # Quando o navegador não quer largar um arquivo
 2008-08-13 computer blog
@@ -17642,9 +17631,7 @@ E pronto! Agora temos todo o poder das 500 milhões de classes da ATL aliadas à
 
 2008-10-15 "Daniel Quadros":
 
-Falando no servidores em Seatle, você viu a foto em
-
-http://blogs.msdn.com/e7/archive/2008/09/05/organizing-the-windows-7-project.aspx ? (2026-03-21 link quebrado)
+Falando no servidores em Seatle, você viu a foto em "Organizing the Windows 7 Project"? (2026-03-21 link quebrado)
 
 ---
 
@@ -18215,9 +18202,7 @@ Nota: Não use as classes superiores de C++ nem referências. Estou falando de e
 
 #### Bônus Points: Fantoches!
 
-Este vídeo é o mais didático do universo sobre como funcionam ponteiros em C. Veja e mostre pros seus filhos:
-
-<https://www.youtube.com/watch?v=5VnDaHBi8dM&ab_channel=Napalm>
+O vídeo "Binky Pointer Fun Video C" é o mais didático do universo sobre como funcionam ponteiros em C. Veja e mostre pros seus filhos.
 
 # Básico do básico: tipos
 2008-12-12 computer blog programming_tag
@@ -21028,7 +21013,7 @@ Claro, não se esqueça de retirar os cabeçalhos duplicados (Windows Registry E
 # Bazaar gráfico
 2010-02-25 computer archive
 
-Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do "Bazaar" ~~para boiolas~~ user-friendly!
+Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do "Guia básico de repositórios no Bazaar" ~~para boiolas~~ user-friendly!
 
 Ele é leve, vem ~~enrustido~~ embutido na última versão e pode economizar alguns page ups/downs no prompt do DOS. Ah, sim, antes que comentem, eu não uso o "Tortoise for Bazaar" porque instalar "shell extensions", só os muito bem feitos. (Do contrário, bem-feito para quem instalou.)
 
@@ -21084,8 +21069,6 @@ Uma desvantagem desse comando é que ele oculta o resto das linhas do fonte e n�
 #### Bônus
 
 Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Extensions, deem uma olhada no REG exportado.  Bom proveito.
-
-"Bazaar": http://www.caloni.com.br/guia-basico-de-repositorios-no-bazaar
 
 # Convivendo entre TodoList e Microsoft Project
 2010-03-15 computer archive
@@ -33503,7 +33486,7 @@ O "Fabio Montefuscolo" expandiu mais ainda o acesso do conversor Houaiss para Ba
 #
 
 #
-# Segui o tutorial em http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-1
+# Segui o tutorial em "Conversor de Houaiss para Babylon - parte 1"
 #
 
 import os
@@ -34409,8 +34392,6 @@ Não sou fã de jogos, e dos poucos que participei logo parei (exceções honros
 
 Houve pelo menos dois projetos de I.A. para resolver o problema, que consiste em dobrar números múltiplos de 2 em um quadrado 4 x 4 até que se consiga o quadrado com o valor 2048 (e além). O artigo de Nicola Pezzotti, "An Artificial Intelligence for the 2048 game", explica o mais efetivo deles, de autoria de Robert Xiao (eu acho). O programa desenvolvido por Xiao otimiza o tabuleiro do jogo guardando-o em um inteiro de 64 bits, deixando 4 bits para cada casa, mais que o suficiente para que seja armazenada a potência de 2 localizada no quadrado (o limite fica sendo de 2  16, ou 65536). Ao rodar a versão executável console ele imprime cada posição do tabuleiro em um formato "fácil" de ser lido.
 
-<https://youtu.be/GVTCej6zwAk>
-
 ```
 Move #69, current score=584
  1356
@@ -34918,8 +34899,6 @@ Por tudo isso Holy Motors é passagem obrigatória dos cinéfilos. É um filme s
 2014-05-20 computer blog
 
 Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como class e um objeto declarado como struct. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave class para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:
-
-<https://www.youtube.com/watch?v=zn7-fVtT16k>
 
 ```
 struct MinhaEstrutura
@@ -37678,8 +37657,6 @@ Não cansado daquele universo, resolvi dar uma olhada na nova série latina que 
 Obviamente que não é apenas a direção que muda. Fotografia, figurino, direção de arte, atores... digamos que pelo menos o roteiro não muda. E a trilha sonora ainda está por conta de Dave Porter, que faz as trilhas de Breaking Bad e Better Caul Saul também.
 
 A maior decepção talvez seja o ator que interpreta Jesse Pinkman no remake. Enquanto Walter White vira uma espécie de caricatura de si mesmo, Jesse é apático perto do desempenho de Aaron Paul desde o começo. Note como ele lembra o "Professor White" que ele não sabe de nada de química porque ele o reprovou.
-
-<https://www.youtube.com/embed/K-JvsP56zbk>
 
 Não é preciso dizer, claro, que não se pode esperar nada próximo do Walter White de Brian Cranston, que também oferece uma atuação digna de prêmios já no piloto da temporada. Não encontrei a sequência completa, mas o momento em que ele decide pôr fim à própria vida é hilário e tocante ao mesmo tempo. (A do remake também é, mas de uma maneira engessada e pausterizada.)
 
@@ -42475,8 +42452,6 @@ Tive alguns problemas em rastrear o histórico utilizando a estratégia de fazer
 
 Depois de um tempo testando essa técnica, descobri que o Git se perde novamente e não encontra mais todos os logs, mesmo com --follow  mesmo movendo os arquivos. O meu problema está relacionado com mesmos paths dos arquivos em repositórios diferentes. Paciência.
 
-uma: http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories
-
 # Não Atualize seu Sistema
 2016-01-28 essays
 
@@ -45064,8 +45039,6 @@ Mas para cada House of Cards ou Sense 8 é necessário produzir vários Stranger
 
 Esse vídeo é um experimento que estou fazendo para tentar começar a compartilhar conhecimento em vídeo. Para começar, acho que nada mais apropriado que criar um projeto novo no Visual Studio, não? Dúvidas, sugestões, críticas, todas bem-vindas. Compartilhem com aquele amigo que pensa em começar a programar (ainda mais se for em C++).
 
-<https://youtu.be/Fw1wdM_vzzI>
-
 Essa primeira tentativa saiu um pouco longa -- 10 minutos -- mas era para ser mais sucinto. Me perdi em alguns detalhes da estrutura do projeto, mas o objetivo era entrar um pouco mais a fundo, mesmo, abrindo os arquivos do Visual Studio "na mão" para ver o que tem dentro, e já dando dicas de como a depuração pode começar já na compilação.
 
 Espero que gostem. Se quiserem vídeos mais específicos, é só comentar logo abaixo. Dependendo do retorno -- ou não -- talvez em breve continuemos o projeto fazendo um básico de depuração.
@@ -45528,13 +45501,10 @@ Mas adivinha, só? Seu cliente está defecando qual é a linguagem, a ferramenta
 
 Então o jeito é: "Puroguramingu, Mazaafakkaa!" =)
 
-
 # Resolvendo problemas em projetos desleixados
 2016-09-01 computer videos
 
 Quem nunca teve que mexer em um projeto cheio de bugs de compilação, péssima organização, documentação e nomes de funções, classes e argumentos? Que você acaba de baixar em sua máquina e ele não compila (e você não tem a mínima noção por quê). Que a equipe que trabalha com você ouviu falar do projeto, mas nunca arregaçou as mangas e organizou. Que tal fazer isso agora?
-
-<https://youtu.be/haqE_wiQNoc>
 
 Nesse vídeo eu exploro alguns dos erros mais comuns de projetos desleixados. Esses projetos em que o programador só se preocupa em entregar as coisas, e deixa os problemas de manutenção para o próximo trouxa que irá mexer com ele. Esse rapaz ou moça não usa a metologia PMF, que eu expliquei no artigo anterior. PMF quer dizer entregar as coisas com qualidade. Eles usam uma outra metodologia que também é simples, mas que traz gravíssimos problemas a médio e longo prazo (a despeito de ser divertida):
 
@@ -45775,48 +45745,45 @@ Porém, estamos falando de uma redublagem, e é feito um verdadeiro milagre para
 
 Esta é uma ótima seleção feita pelo saite A.V. Club, que contém para variar vários trabalhos do genial Georges Méliès, além também dos trabalhos mais técnicos de Thomas Edison. É preciso lembrar que a sétima arte estava apenas engatinhando.
 
+1. “Workers Leaving The Lumière Factory In Lyon” (1895)
+
 Um primeiro exemplo do cotidiano, que não quer dizer nada em particular, mas que já documenta uma rotina da época, e hoje é um dos melhores exemplos dos curtas iniciais do cinema.
 
-<https://www.youtube.com/embed/OYpKZx090UE>
+2. “The Dickson Experimental Sound Film” (1894)
 
 Um teste de sincronização entre áudio e víduo já pode ser observado nesse conjunto de três tomadas de testes nos laboratórios Edison.
 
-<https://www.youtube.com/embed/Y6b0wpBTR1s>
+3. “The Haunted Castle” (1896)
 
 Várias trucagens dentro de um cenário de castelo idealizados por Georges Méliès, tudo na edição de corte, além de uso de fumaças, sobrescrita de película, etc.
 
-<https://www.youtube.com/embed/OPmKaz3Quzo>
+4. “Arrival Of A Train At La Ciotat Station” (1896)
 
 Esse é o clássico, conhecido pelo primeiro filme exibido em público e com a lenda de que os espectadores saíram correndo ou abaixavam as cabeças quando o trem chegava à estação. Na verdade, parece que os irmãos Lumière já estavam testando o mesmo filme em uma versão 3D, mas que foi colocada em exibição pouquíssimas vezes e muito tempo depois, no ano seguinte. Mesmo assim, podemos dizer que Cinema e 3D nasceram praticamente juntos.
 
-<https://www.youtube.com/embed/1dgLEDdFddk>
+5. “The Four Troublesome Heads” (1898)
 
 Mais trucagens de Méliès, dessa vez em um filmeco de menos de um minuto. Mas ainda é fascinante de se ver. Um dos melhores exemplos daquela época de como se pode fazer muito com "pouco".
 
-<https://www.youtube.com/embed/Sgr5FVjnXs>
+6. “Cinderella” (1899)
 
 Um curta de Méliès que resume toda a história de Cinderela. Tem como figura impressionante o velho do tempo, que surge no castelo. Já possui a noção de mudança de espaço, pois os cortes denotam lugares diferentes onde se passa a história. No final tem uma dança bem divertida, um espetáculo de alguns minutos para a época.
 
-<https://www.youtube.com/embed/0caKk42n7A>
+7. “The Kiss” (1896)
 
 O primeiro filme polêmico foi feito em terras americanas. Um beijo de um casal foi acusado de pornográfico, mereceu críticas do Vaticano e hoje seria o equivalente a... sei lá. Dezenas de atores em uma suruba em um filme da Disney?
 
-<https://www.youtube.com/embed/IUyTcpvTPu0>
+8. “La Fée Aux Choux” (1896)
 
 Esse filme é bizarro. É sobre uma suporta fada, mulher doce, sei lá, que vai arrancando bebês de um jardim (bebês reais) e jogando no caminho. Hoje seria considerado um terror e tanto.
 
-<https://www.youtube.com/embed/MTd7r0VkgnQ>
+9. “The Execution Of Mary, Queen Of Scots” (1895)
 
 Mais um gore para a plateia. Para os que reclamam que hoje em dia há muito apelo à violência gráfica, esse filme é apenas isso: a decapitação de uma mulher (a tal Rainha de Scots). O corte até que foi bem feito. Deve ter impressionado à beça.
 
-<https://www.youtube.com/embed/XgDGwc19aU>
+10. “The X-Ray Fiend” (1897)
 
 Na época o Raio-X havia sido descoberto e a criatividade já começava a aflorar. Esse filmeco é bem divertido pela sua inocência, e demonstra como havia curiosidade a respeito das inovações tecnológicas e científicas. Aliás, a Scientific American aquele ano lançou um artigo explicando como fazer Raio-X em sua própria casa!
-
-<https://www.youtube.com/embed/3gMCkFRMJQQ>
-
-Fonte: "A.V. Club - The 10 best films of the 1890s"
-
 
 # Pets: A Vida Secreta dos Bichos
 2016-09-11 cinema movies
@@ -46315,8 +46282,6 @@ Com os levantes dessas bandeiras, e com a criação novamente de uma mega-trama 
 2016-10-16 cinema comercial
 
 Em tempos de regravações de westerns como Sete Homens e um Destino, a Friboi aposta no gênero e já parte em seu último comercial, "A certeza do churrasco perfeito", inovando com o conceito já inovador há pelo menos uma década de "câmera lenta com partículas em suspensão" introduzido por Guy Ritchie e filmes como Jogos, Trapaças e Dois Canos Fumegantes. Aqui o churrasco é visto através daquela trilha sonora afiada, fogos gerados por computação e, claro, close na destreza e precisão do mestre churrasqueiro.
-
-<https://www.youtube.com/embed/19RrxCMKI4>
 
 Note como essas partículas de sal são vistas não uma, nem duas, mas pelo menos três vezes em um comercial de 30 segundos. O sal, de acordo com o narrador com voz meio sensual, meio rouca (são sinônimos?), é muitas vezes vista pelo mestre churrasqueiro como o segredo do bom churrasco (o que explicaria as altas doses de dinheiro trocadas por sal-vesgo de cor diferente da chapada amazônica trazida pelos índios friboizés). Porém, isso ainda não é o que garante o sucesso dessa churrascada. Vemos, então, o mestre do churrasco preparando com toda a dedicação sua carne. Ou seja, tirando da sacolinha a vácuo da Friboi, jogando sal e metendo na brasa.
 
@@ -48034,8 +47999,6 @@ Todo o elenco está afiado, mas é o roteiro que delineia cada participação co
 2016-12-27 computer videos
 
 Com o surgimento da infraestrutura LLVM, que possibilita a união entre diferentes ferramentas que suportam diferentes plataformas para o desenvolvimento de software, e o clang, um font-end para C/C++ que roda não só em UNIXes da vida, como também no Windows, como também no Visual Studio, tem sido uma vantagem para projetos que usam as novas features do C++ moderno, muitas ainda não implementadas no compilador da Microsoft, unir o útil (Visual Studio) ao agradável (C++ modernos via clang). Este vídeo tem como objetivo demonstrar como essa união é simples e fácil de ser realizada dentro do próprio Visual Studio. De quebra, vamos descobrir alguns problemas que podem ocorrer nessa união de toolsets e como corrigir.
-
-<https://youtu.be/TWvY9ynmIDM>
 
 Este é um guia bem básico, mas atende os requisitos de quem quer começar a mexer com essas duas tecnologias (além de aficionados pelo novo C++ que está em desenvolvimento, mas não abre mão de uma IDE tão poderosa quanto o Visual Studio):
 
@@ -51714,8 +51677,6 @@ The theory of Rational Irrationality holds that it is often instrumentally ratio
 An interesting implication emerges from the consideration of the mechanisms of belief fixation. Normally, intelligence and education are aides to acquiring true beliefs. But when an individual has non-epistemic belief preferences, this need not be the case; high intelligence and extensive knowledge of a subject may eve worsen an individual's prospects for obtaining a true belief (see chart below). The reason is that a biased person uses his intelligence and education as tools for rationalizing beliefs. Highly intelligent people can think of rationalizations for their beliefs in situations in which the less intelligent would be forced to give up and concede error, and highly educated people have larger stores of information from which to selectively search for information supporting a desired belief. Thus, it is nearly impossible to change an academic's mind about anything important, particularly in his own field of study. This is particularly true of philosophers (my own occupation), who are experts at argumentation.
 
 The problem of political irrationality is the greatest social problem humanity faces. It is a greater problem than crime, drug addiction, or even world poverty, because it is a problem that prevents us from solving other problems.
-
-Traduzido: https://criticanarede.com/irracionalidadepolitica.html
 
 # Os Pobres Diabos
 2017-07-01 cinemaqui cinema movies
@@ -57573,19 +57534,19 @@ Livros:
 
 Links:
 
-- IMSDB http://www.imsdb.com/ Banco de roteiros com lançamentos recentes do cinema americano. Em inglês.
+- "IMSDB". Banco de roteiros com lançamentos recentes do cinema americano. Em inglês.
 
-- ROTEIRO DE CINEMA http://www.roteirodecinema.com.br/ Um dos mais completos websites para roteiristas do Brasil. Recheado de notícias, dicas, links e roteiros para cinema e TV.
+- "ROTEIRO DE CINEMA". Um dos mais completos websites para roteiristas do Brasil. Recheado de notícias, dicas, links e roteiros para cinema e TV.
 
-- CURTAGORA http://www.curtagora.com/ Uma iniciativa cultural da Interrogação Filmes em parceria com a Mnemocine tem o objetivo de levantar dados sobre a produção audiovisual nacional nos formatos de curta e média metragem durante os últimos 20 anos. Uma ferramenta e tanto para quem quer colocar seu trabalho no mapa. Dê uma conferida.
+- "CURTAGORA". Uma iniciativa cultural da Interrogação Filmes em parceria com a Mnemocine tem o objetivo de levantar dados sobre a produção audiovisual nacional nos formatos de curta e média metragem durante os últimos 20 anos. Uma ferramenta e tanto para quem quer colocar seu trabalho no mapa. Dê uma conferida.
 
-- SCRIPTS-O-RAMA http://www.script-o-rama.com Os melhores roteiros vindos da terra do tio Sam, incluindo clássicos de Hitchcock e Kubrick.
+- "SCRIPTS-O-RAMA". Os melhores roteiros vindos da terra do tio Sam, incluindo clássicos de Hitchcock e Kubrick.
 
-- CRIAÇÃO DE ROTEIROS http://www.roteirista.com/ Aqui você chega até o roteirista Hugo Moss e seus grupos de criação, seu conceituado curso online e o concurso que promove trimestralmente com o objetivo de estimular roteiristas de todas as idades.
+- "CRIAÇÃO DE ROTEIROS". Aqui você chega até o roteirista Hugo Moss e seus grupos de criação, seu conceituado curso online e o concurso que promove trimestralmente com o objetivo de estimular roteiristas de todas as idades.
 
-- ASSOCIAÇÃO CULTURAL KINOFORUM http://www.kinoforum.org/ Investe na difusão da produção audiovisual e do cinema independente na América Latina e é responsável pelo Festival Internacional de Curtas-Metragens. Destaca também um guia de festivais muito completo.
+- "ASSOCIAÇÃO CULTURAL KINOFORUM". Investe na difusão da produção audiovisual e do cinema independente na América Latina e é responsável pelo Festival Internacional de Curtas-Metragens. Destaca também um guia de festivais muito completo.
 
-- CURTA O CURTA http://www.curtaocurta.com.br/ Buscando sanar a falta de espaço para o curta-metragem nos cinemas e na televisão, surge o site Curta o Curta, onde o usuário pode assistir aos mais interessantes curtas, discutir sobre o cinema nacional, participar de promoções e até incluir seu próprio filme, fazendo da Internet um canal direto com o espectador.
+- "CURTA O CURTA". Buscando sanar a falta de espaço para o curta-metragem nos cinemas e na televisão, surge o site Curta o Curta, onde o usuário pode assistir aos mais interessantes curtas, discutir sobre o cinema nacional, participar de promoções e até incluir seu próprio filme, fazendo da Internet um canal direto com o espectador.
 
 # Estrutura de Roteiro
 2018-07-17 cinema books
@@ -57711,8 +57672,6 @@ E é por isso que eu não citei esse elemento recorrente em Missão Impossível 
 
 Redescobrindo meu canal no YouTube me empolguei em publicar mais alguma coisa. Os meu primeiros vídeos, no meu canal pessoal, são longos e possuem narração um pouco confusa, mas explicam bem alguns detalhes do Visual Studio. Agora com meu primeiro vídeo curto estou apenas demonstrando sem voz como é o depurador do Visual Studio. Enjoy =)
 
-<https://youtu.be/7gOuiCy3T9Y>
-
 # O Nome da Morte
 2018-07-25 cinemaqui cinema movies
 
@@ -57749,8 +57708,6 @@ Uma questão interessante de ser respondida com passeios como os feitos pelo hos
 2018-07-27 computer videos
 
 Segue meu segundo vídeo curto onde estou apenas demonstrando como é o depurador do Visual Studio. Mas dessa vez com comentários =)
-
-<https://youtu.be/DPkH-D9OWTk>
 
 # Para o Que Der e Vier
 2018-07-28 cinema movies
@@ -58016,11 +57973,7 @@ Isso nos leva até o momento crucial onde as histórias se juntam. E (SPOILER!) 
 
 ## Disclaimer
 
-Houve a publicação deste artigo já com revisão em revistas científicas e uma das pesquisadoras tem um canal no YouTube de divulgação científica. Ela fez um vídeo sobre sua tese de doutorado e junto da descrição do vídeo, além do link para o artigo em si, há muitos e muitos outros artigos relacionados.
-
-<https://youtu.be/PkWoC0ftWzE?si=Nr2mKo1t0fWJKVip>
-
-<https://www.mdpi.com/2072-6643/12/4/1029>
+Houve a publicação do artigo "Intermittent Fasting for Twelve Weeks Leads to Increases in Fat Mass and Hyperinsulinemia in Young Female Wistar Rats" já com revisão em revistas científicas e uma das pesquisadoras tem um canal no YouTube de divulgação científica. Ela fez um vídeo sobre sua tese de doutorado ("JEJUM INTERMITENTE - Minha tese de doutorado na USP") e junto da descrição do vídeo, além do link para o artigo em si, há muitos e muitos outros artigos relacionados.
 
 Logo, este meu post precisa ser atualizado e corrigido eventualmente.
 
@@ -58058,14 +58011,13 @@ Fontes citadas:
 
 ## Outros links
 
-<https://norecopa.no/3r-guide/fasting-in-rodents>
+- "Fasting in rodents"
 
-<https://emagrecerdevez.com/tribo-forte-116/>
+- "TRIBO FORTE #116 – A ABSOLUTA VERDADE SOBRE JEJUM INTERMITENTE"
 
-<https://maze.conductscience.com/how-to-model-intermittent-fasting-in-rodents/>
+- "How to model intermittent fasting in rodents"
 
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355425/>
-
+- "How to Translate Time? The Temporal Aspect of Human and Rodent Biology"
 
 # O Centenário Que Fugiu Pela Janela e Desapareceu
 2018-08-19 cinemaqui cinema movies
@@ -59052,8 +59004,6 @@ Vamos depurar.
 ![](coroutine_internals_WJeFtYq.png)
 
 Oh, oh! A stack de cooperative nos indica que ela não partiu do main, apesar de ter sido chamada através da construção de `coroutine<void>::pull_type`. O método sink chamado logo após imprimir "Hello" deve colocar essa rotina para dormir, voltando o controle para main. Vamos ver como isso é feito.
-
-https://www.youtube.com/watch?v=xoAxig6vdTM
 
 Oh, não. O depurador do Visual Studio está fazendo caquinha, pois rodando passo-a-passo voltei para a mesma função cooperative sem passar pelo main. No entanto, a vírgula ", " foi impressa.
 
@@ -61796,8 +61746,6 @@ Através desse modo de pensar é possível chegar a conclusões que fogem do pad
 
 Um dos textos que me chamou a atenção foi um diálogo fictício entre duas pessoas -- uma vegana e outra onívora -- em que eles discutem por alguns dias a ética animal. Essa é uma tentativa de defesa de Huemer pelo não-consumo de carne e derivados animais (leite, ovos, etc) e usa uma conversa informal justamente para abordar esse tema de maneira mais leve e ponderada. Você nunca irá encontrar pessoas que conversem tão educadamente sobre esse tema na vida real, e é por isso que esse texto vale ouro:
 
-Fonte: https://criticanarede.com/animais.html
-
 # On Writing Well
 2019-02-03 books self
 
@@ -62489,7 +62437,7 @@ Reservoir Dogs hoje em dia tem tanto cara de cinema independente quando de jovem
 # Capitã Marvel
 2019-03-12 cinema movies
 
-"Eu não tenho nada pra provar pra você", diz Capitã Marvel para um homem. Fora a história em si há pelo menos mais dois significados para essa frase no filme. Primeiro ela se refere ao constante "desafio" feito às mulheres, como se por pertencer a outro gênero elas precisassem provar algo além do que se espera de um ser humano. E segundo, e mais importante, ela se refere à própria Marvel. Não à Capitã, mas à produtora. Durante mais de uma década em sua louca trajetória na criação do MCU, o Marvel Cinematic Universe, ela precisava demonstrar todo tempo que era possível fazer histórias que conectassem todos seus super-heróis no mesmo mundo e este mundo ainda fazer sentido. Capitã Marvel é o primeiro após Vingadores: Guerra Infinita, que encerra um gigante capítulo dessa saga ao juntar todos os supers que ela apresentou e desenvolveu em uma série de filmes. E nesse capítulo ela pode enfim respirar aliviada e dizer: "não preciso mais provar nada a você, caro espectador, que foi fisgado nesse universo e dele não deverá retornar nunca mais".
+"Eu não tenho nada pra provar pra você", diz Capitã Marvel para um homem. Fora a história em si há pelo menos mais dois significados para essa frase no filme. Primeiro ela se refere ao constante "desafio" feito às mulheres, como se por pertencer a outro gênero elas precisassem provar algo além do que se espera de um ser humano. E segundo, e mais importante, ela se refere à própria Marvel. Não à Capitã, mas à produtora. Durante mais de uma década em sua louca trajetória na criação do "MCU", o Marvel Cinematic Universe, ela precisava demonstrar todo tempo que era possível fazer histórias que conectassem todos seus super-heróis no mesmo mundo e este mundo ainda fazer sentido. Capitã Marvel é o primeiro após Vingadores: Guerra Infinita, que encerra um gigante capítulo dessa saga ao juntar todos os supers que ela apresentou e desenvolveu em uma série de filmes. E nesse capítulo ela pode enfim respirar aliviada e dizer: "não preciso mais provar nada a você, caro espectador, que foi fisgado nesse universo e dele não deverá retornar nunca mais".
 
 Este é talvez o trabalho mais maduro até então do MCU, que dá uma volta completa em toda sua mega-história. Se desde o primeiro Homem de Ferro as histórias individuais dos heróis nunca arriscavam expandir demais esse universo, sempre tentando manter os investimentos narrativos coesos até terem certeza do próximo passo, agora esse filme não tem mais medo de usar o universo construído em seu favor, se consolidando como mais uma aventura em uma galáxia distante que acaba tendo sua origem (coincidentemente) no planeta Terra.
 
@@ -66050,10 +65998,6 @@ O que aconteceria se você assistisse por 20 vezes, por exemplo, Homem Aranha: L
 O que mantém o interesse nesses inúmeros filmes que são lançados todo ano é justamente as dezenas de trailers, teasers, entrevistas e teorias sobre como será o filme que ainda não foi visto. Há tantas possibilidades já pensadas e repensadas que surge um paradoxo: os que mais acompanham as expectativas da produção são os que mais se revoltam quando alguém lhes diz algo que não foi ainda citado em todo material de divulgação disponibilizado antes da estreia. Você pode dizer tudo o que foi dito pela imprensa para um amigo que se comporta da mesma maneira em relação aos próximos filmes, mas, por favor, não revele aquela reviravolta mortal, ainda que ela seja boba, previsível e completamente esquecida antes do final dos créditos. O que aconteceu com a indústria para produzir filmes em que o prazer racional de assisti-los é tão escasso que a experiência pela experiência acabou se tornando o que menos importa no final das contas? Como cereja do bolo, o clímax da história é visto tão de passagem que os espectadores ainda aguardam por uma cena boba após os créditos, como uma forma de prêmio de consolação por vir ao cinema captar aquele último fiapo de mistério que restava sobre o filme.
 
 Para uma geração que consome todos seus filmes antes de realmente vê-lo, o spoiler é uma arma letal. Ele queima esse último fiapo de mistério antes da experiência cinematográfica, sem o qual o filme perde completamente seu valor de mercado, um valor que já não era muita coisa, pois daqui a algumas semanas já é lançado novo arrasa-quarteirões, que hoje em dia está mais para chuta o portão do vizinho. É uma regra de ouro entre o novo público que os dados de uma estreia da semana fiquem em sigilo. Nem que seja por alguns meses após a estreia. Até porque a próxima estreia irá revelar inevitavelmente o desenrolar da história. E é claro que será uma continuação.
-
-1. https://en.wikipedia.org/wiki/Back-to-back_film_production
-
-2. https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
 
 # SLQLocalDB
 2019-07-21
@@ -71431,8 +71375,6 @@ Mas o trabalho de Salles se beneficia do momento que o cinema local desperta e e
 
 O Code Jam esse ano terminou rápido para mim. Estou enferrujado? Nem tanto. Apenas dei menos atenção ao evento no seu início, mas apesar de me concentrar nas últimas 11 horas não tive um resultado satisfatório, obtendo 24 pontos ao total, o que não me dá direito para o torneio, que exige pelo menos 30.
 
-<https://gist.github.com/Caloni/fd22d49ad7e9c046120d98876c8cad38>
-
 Minha abordagem no primeiro problema foi o feijão com arroz de ir lendo os valores e verificando para cada novo elemento da linha se havia repetição nos valores já lidos da mesma linha. Eu me compliquei na hora de fazer a mesma coisa para as colunas, pois inseri essa checagem dentro do loop da linha, evitando, assim, sempre a última coluna. Foi a parte que mais perdi tempo útil de todo o torneio (não li todos os exercícios antes).
 
 O segundo problema foi o mais simples de todos para mim. Entendendo o enunciado, em que o título dá uma dica valiosa sobre o comportamento do algoritmo (aninhado), foi só usar a mesma lógica que nós programadores usamos na hora de aninhar parênteses.
@@ -72031,8 +71973,6 @@ Drama infantil italiano que você percebe que será biográfico durante a histó
 
 Alguns caras em uma noite de quinta-feira falando sobre aleatoriedades que giram em torno de cinema, social justice (justiça social), anime e o ~~melhor~~ filme de todos: The Room. O primeiro bodecast live do grupo C/C++ Brasil foi sucesso de participantes e fracasso de público (só veio o Matheus e o Elias). Descobrimos que o Gianni, fundador do grupo do Telegram, tem o péssimo costume de largar os filmes pela metade. Também descobrimos que Cosmos é o projeto secreto de @drmadera para criar vida no fundo de seu home-office. E de quebra houve uma invasão de neo-São-Joseenses, um povo muito simpático que citou alguns filmes malucos para comentarmos.
 
-<https://youtu.be/0aZ7srJqs3E>
-
 Infelizmente a live terminou mais cedo porque ~~o Gianni não pagou a conta de internet~~ o sinal caiu e nos derrubou a todos ao mesmo tempo. Se quiser que façamos mais como esse dê um curtir no vídeo e comente com sugestões, críticas, etc. Comente por lá. Aqui só eu tenho voz.
 
 # Conto de Verão
@@ -72364,8 +72304,6 @@ Entre os destaques no elenco o melhor deles sem dúvida é Babu Santana, que faz
 
 Havia um job esta semana de um assunto que me encanta desde a época de investidor: base histórica de cotações. Estamos falando de ações da Bovespa. Na época que era investidor frequente mantinha uma base que era atualizada por um programinha em Java (esqueci o nome), mas nunca tive certeza se os ajustes feitos pelo programa eram os corretos. Surgiu agora a possibilidade de eu realizar código que converte uma base histórica recebida com um minuto por linha em campos divididos por ponto-e-vírgula (o CSV do Windows) para candles de várias periodicidades. E isso justo agora que ando estudando awk. Então não deu outra: usei esta linguagem clássica como ferramenta para esta conversão.
 
-<https://gist.github.com/Caloni/368a8ce88206c13aac6ca27a56975af2>
-
 O código ficou, em minha humilde opinião, elegante e pequeno, pois se aproveita da composição das periodicidades. Ou seja, o período de cinco minutos é a consolidação de cinco linhas de um minuto, mas a de quinze minutos não são quinze linhas de um minuto, mas três de cinco minutos, que já estão sendo calculados a cada cinco linha. E assim por diante. Usando os arrays associativos do awk é possível manter o estado de cada candle até o momento de gerar a saída desejada, que no exemplo que codifiquei ficou como um comando SQL de insert em um banco fictício que grava cada tipo de candle em uma tabela.
 
 O uso de um array por candle simplificou o código, pois ao criar uma função que manipula o candle que está finalizando e o próximo eu posso simplesmente passá-los como argumentos. Dessa forma eu só preciso compor os filtros de linhas de acordo com o resto da divisão do seu número. No exemplo inicial, o candle de cinco minutos está finalizando quando RN é igual a cinco ou múltiplos de cinco, enquanto um novo candle se inicia em múltiplos de seis.
@@ -72374,8 +72312,6 @@ O uso de um array por candle simplificou o código, pois ao criar uma função q
 2020-06-18 computer ccpp
 
 Entre os segredos escondidos das funções básicas da lib padrão da linguagem C o printf e o scanf lideram o ranking. O printf possui a capacidade de alinhamento de colunas das string impressas com tamanho variável. Sabia disso? Pois é, isso não se ensina nas escolas.
-
-<https://gist.github.com/Caloni/dd1429495c835a27ece61523e939ec7f>
 
 A impressão básica de uma string passada como argumento com printf deve ser feita usando na string de formatação os caracteres "%s". Agora, se você colocar um sinal de menos entre esses dois caracteres essa string será alinhada à esquerda. Mas o que é direita e esquerda se o tamanho usado pela impressão vai ser exatamente o tamanho da string? Aí é que entra o especificador de tamanho, logo após o opcional sinal de menos e antes do s que determina o tipo string. Dessa forma a string de formatação final para uma string variável alinhada à esquerda em uma coluna de trinta caracteres de tamanho seria "%-30s".
 
@@ -72520,8 +72456,6 @@ Mais um filme do Rhomer sobre uma mulher maluca. Ele conheceu várias em sua car
 Meu sonho de consumo para acompanhar partidas de xadrez é às cegas, apenas lendo ou ouvindo o próximo lance e imaginando em minha cabeça o tabuleiro. Porém, enquanto não tenho essa habilidade, um meio-termo aceitável é ver um tabuleiro em ascii art se modificando a cada lance. É possível acompanhar uma partida dessa forma como se estivesse lendo um livro, e por isso esse formato é prático, também, pois posso jogar esse ascii art no meu Kindle.
 
 Usando a biblioteca python-chess fiz um pequeno script que recebe o endereço de PGNs (o formato com que se grava partidas de xadrez) por URL ou path local e cospe esses tabuleiros em ascii art. Com isso pode redirecionar para um arquivo texto e enviar para o Kindle ou ler de qualquer lugar, em formato estático, a tradução da partida.
-
-<https://gist.github.com/Caloni/4d5f81365a01ef9567d5d4e077403d70>
 
 O próximo passo, antes de ler às cegas, é transformar a leitura do tabuleiro bidimensional para a leitura do formato FEN, que é o formato usado para gravar posições de um tabuleiro.
 
@@ -81386,8 +81320,6 @@ Quem entende perfeitamente o que Margo está sentindo é Eve, interpretada pela 
 
 Esta semana fiz uma passagem de conhecimento na firma sobre os smart pointers em C++, que era no fundo o que todo mundo queria entender. Mas para entender essas coisas nada como voltar aos fundamentos da linguagem C e ir subindo nos conceitos.
 
-<https://youtu.be/wSfRFIUwB1o>
-
 E como não houve vazamento de informação sigilosa o link do vídeo pôde ser disponibilizado no canal público da Intelitrader =).
 
 # Château Tamagne Superavi Reserve 2017
@@ -84256,8 +84188,6 @@ Tudo é um show de luzes que quer iluminar temas sociais referentes a comida, ma
 
 Não existe sequer uma entrada em português sobre Segment Tree, uma árvore binária específica para guardar intervalos. E este acredito ser um assunto importante para testes de entrevista ou competições de programação porque ele é muito útil para alguns problemas. Vamos dar uma olhada em como ela funciona.
 
-<https://youtu.be/Ic7OO3Uw6J0>
-
 Em primeiro lugar, ela é uma árvore binária. No entanto, seus ramos representam intervalos. A raiz possui o intervalo inteiro (mínimo e máximo) e os ramos vão se dividindo em intervalos menores, até que as folhas indiquem apenas um elemento.
 
 É importante notar que uma árvore de segmento é maior que simplesmente um array, mas diferente de um array, a árvore brilha quando precisamos somar intervalos.  Como ela está estruturada de maneira que cada ramo contém a soma de seus galhos, para obter a maioria dos intervalos sua complexidade desce de O(N) para O(log N).
@@ -84648,7 +84578,7 @@ Here’s what the notation means. It expresses the answer to what we’ll call t
 
 Big O is originally a concept from mathematics, and therefore, it’s often described in mathematical terms. For example, one way of describing Big O is that it describes the upper bound of the growth rate of a function, or that if a function g(x) grows no faster than a function f(x), then g is said to be a member of O(f).
 
-If you want to dig further into the math behind Big O, check out Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (MIT Press, 2009) for a full mathematical explanation. Justin Abrahms also provides a pretty good definition in his article: https://justin.abrah.ms/computer-science/understanding-big-o-formal-definition.html.
+If you want to dig further into the math behind Big O, check out Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (MIT Press, 2009) for a full mathematical explanation. Justin Abrahms also provides a pretty good definition in his article "Understanding the formal definition of Big-O".
 
 The soul of Big O is what Big O is truly concerned about: how will an algorithm’s performance change as the data increases? This is the soul of Big O. Big O doesn’t want to simply tell you how many steps an algorithm takes. It wants to tell you the story of how the number of steps increase as the data changes.
 
@@ -89787,10 +89717,9 @@ The problem is not technological, moral, or even genetic (although some hardwire
 
 ## Links
 
-- We have a long, detailed blog post taking a critical look at amino acids in plant foods versus animal foods at https://www.sacredcow.info/blog/are-all-proteins-created-equal.
+- We have a long, detailed blog post taking a critical look at amino acids in plant foods versus animal foods at "Are all proteins created equal".
 
-- We have outlined in chapter seventeen what our recommendations are for an optimal diet template, but for a deeper dive on nutrient density, comparing meat-rich, omnivore, and vegan diets, please visit https://www.sacredcow.info/blog/what-if-we-all-went-plant-based.
-
+- We have outlined in chapter seventeen what our recommendations are for an optimal diet template, but for a deeper dive on nutrient density, comparing meat-rich, omnivore, and vegan diets, please visit "What if we all went plant based".
 
 # Petnat Rosado Malbed (Burbujas de Altura)
 2024-05-25 wine
@@ -89827,7 +89756,7 @@ O artigo "Visiting the Real Life Ramen Restaurants from Ms. Koizumi Loves Ramen 
 
 Agora deixe-me atualizar este texto e dizer que eu fui em algum desses lugares. Eu fiz um outro mapa com "o roteiro dos lámens" e uma "planilha com os lámens-alvo de cada visita". Foi o experimento mais importante para mim na visita ao Japão. Visitei várias regiões e delas extraí o melhor que o anime (ou o mangá) de Koizumi San nos apresentou.
 
-parte 2: https://www.crunchyroll.com/news/features/2018/3/20/visiting-the-real-life-ramen-restaurants-from-ms-koizumi-loves-ramen-noodles-part-2
+Não deixe de ver "Visiting the Real Life Ramen Restaurants from Ms. Koizumi Loves Ramen Noodles [Part 2]".
 
 # Confissões sobre jejum
 2024-05-31 body
@@ -93034,7 +92963,7 @@ Na Oxford do século XIV, por exemplo, parecia que todo mundo estava nessa: a ta
 
 Uma cultura da honra — da predisposição para se vingar — deu lugar a uma cultura da dignidade — da predisposição para controlar as emoções. Esses ideais se originaram nas explícitas instruções dos árbitros culturais aos aristocratas e nobres, permitindo-lhes se diferenciar de servos e camponeses. Mas eles foram então absorvidos na socialização de crianças cada vez mais jovens, até se tornarem uma segunda natureza. Os padrões também se infiltraram na burguesia, que procurou emulá-los, e dela para as classes mais baixas, e por fim se tornando parte da cultura como um todo.
 
-17.Ver Thomas Harding, “Army Should Provide Moral Education for Troops to Stop Outrages”, Daily Telegraph, 22 de fevereiro de 2011, http://www.telegraph.co.uk/news/8341030/ Army-should-provide-moral-education-for-troops-to-stop-outrages.html (acessada em 5 de abril de 2011).
+17.Ver Thomas Harding, "Army Should Provide Moral Education for Troops to Stop Outrages".
 
 Ler um livro cria novos caminhos neurais no leito cortical de nossos cérebros. Transforma a maneira como vemos o mundo e nos torna, como disse Nicholas Carr em seu recente ensaio “The Dreams of Readers”, “mais alertas para a vida interior das outras pessoas”.19 Tornamo-nos vampiros sem termos sido mordidos. Em outras palavras, mais empáticos. Os livros nos fazem ver de um modo que a imersão casual na internet, e o mundo virtual de respostas super-rápidas que ela oferece, não faz.b20
 
@@ -93062,7 +92991,7 @@ Então o truque, sempre que possível, é impedir que seu cérebro saia correndo
 
 Ou você pode usar sua imaginação em sua vantagem — diz Danny. — Da próxima vez em que estiver em uma situação que lhe causa medo, apenas pense: “Imagine que eu não me sinto desse modo. O que eu faria então?” E faça.
 
-Williams e sua equipe estão baseados no Centro de Atenção Plena de Oxford, na Universidade de Oxford. Saiba mais sobre a pesquisa corrente do centro visitando seu website: http://oxfordmindfulness.org/. Para os interessados em atenção plena, ver também Mark Williams e Danny Penman, Mindfulness: A Practical Guide to Finding Peace in a Frantic World (Londres: Piatkus, 2011).
+Williams e sua equipe estão baseados no Centro de Atenção Plena de Oxford, na Universidade de Oxford. Saiba mais sobre a pesquisa corrente do centro visitando seu website "Oxford Mindfulness". Para os interessados em atenção plena, ver também Mark Williams e Danny Penman, Mindfulness: A Practical Guide to Finding Peace in a Frantic World (Londres: Piatkus, 2011).
 
 Sair de uma negociação será uma decisão fria e clínica que não terá emoção subsequente ou efeitos psicológicos persistentes ligados a ela. Acho que a ideia de matar profissionalmente, seja no mercado, seja em qualquer outro lugar, exige certa capacidade de compartimentalizar. De focar no trabalho atual. E, quando o trabalho termina, de seguir em frente e esquecer o que aconteceu.
 
@@ -93617,7 +93546,7 @@ This tagging by metadata form should not be in the original text, it should be c
 
 Could have be inserted during brackets change? Nothing changed at all for ebooks, just variable monitoring.
 
-Apparently some links were really broken since my deleting a lot of posts review approach: https://caloni.com.br/2023-10.html#o_que_vem_ai_na_mostra_2023_47a
+Apparently some links were really broken since my deleting a lot of posts review approach: "O que vem aí na Mostra 2023 (47a.)".
 
 # Awk publisher tags some posts as private even not being private
 2026-02-12 projects wontdo
