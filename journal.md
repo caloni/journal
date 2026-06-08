@@ -1139,13 +1139,13 @@ Está previsto ainda para o ano que vem a nova versão da plataforma NT, com nov
 
 Quer entrar em contato? Mande o bom e velho email. Quer um "resumo profissional"?
 
-![Eu mesmo!](about_author.jpg)
+"Eu mesmo!"
 
 Wanderley Caloni é um "programador" C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busquei mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia-a-dia. Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator duas vezes. Hoje uso AWK. Sim, os clássicos acabam quebrando um galho =).
 
 ## Overview geral por cima
 
-![Logo quase original do blogue, criado pelo mundialmente famoso designer SK5!](about_brand.png)
+"Logo quase original do blogue, criado pelo mundialmente famoso designer SK5!"
 
 Colaborador frequente do Grupo C/C++ Brasil, eu e o Strauss nos consideramos fundadores do grupo por organizar e participar do Primeiro Encontro de Programadores e Aficionados da Linguagem C/C++ do Brasil, que ocorreu em São Paulo exatamente no dia dezessete de dezembro de dois mil e cinco, às três horas da tarde, no restaurante Outback do Shopping Eldorado. Desde então o grupo vem realizando encontros mais técnicos no decorrer dos anos, com palestras e debates. A cerveja tradicional se manteve ao final do evento.
 
@@ -1440,7 +1440,7 @@ O WinDbg é uma ferramenta obrigatória em uma das minhas mais divertidas tarefa
 
 Abaixo um esboço de como o WinDbg se parece, com suas principais janelas. A de comandos é a da direita.
 
-![Imagem ilustrativa das janelas do Windbg](introducao_ao_debugging_tools_for_windows_windbg.png)
+"Imagem ilustrativa das janelas do Windbg"
 
 Ele não está limitado apenas para engenharia reversa de código malévolo. Esse é o uso que eu faço dele. Meu amigo Thiago, por exemplo, resolve problemas em servidores que rodam código gerenciado com WinDbg. É a maneira ideal de depurar um problema em uma máquina onde o ambiente de desenvolvimento não está disponível nem pode ser instalado. Outro ponto relevante é que ele não depura apenas um programa em particular, mas pode ser usado para depurar um sistema inteiro. Chamado de kernel debugging, podemos usar esse modo de funcionamento para resolver os problemas que surgem logo depois de espetar algum periférico novo comprado na Santa Ifigênia.
 
@@ -1661,7 +1661,7 @@ Antes do lançamento do Windows, advogados da Apple alertavam sobre a possibilid
 
 Finalmente, em 20 de novembro de 1985, a Microsoft lança o Windows 1.0, quase dois anos depois da promessa inicial. Foi vendido inicialmente por 100 USD. Continha em seu pacote: MS-DOS Executive, Calendar, Cardfile, Notepad, Terminal, Calculator, Clock, Reversi, Control Panel, PIF (Program Information File) Editor, Print Spooler, Clipboard, RAMDrive, Windows Write e Windows Paint.
 
-![Windows 1.0](historia_do_windows_parte_10_windows1.png)
+"Windows 1.0"
 
 O novo sistema não fez muito sucesso de imediato. Pelo contrário, foi considerado lento e primitivo. Devido às limitações impostas pela Apple o sistema não pôde apresentar certas características como a sobreposição de janelas e a famosa lixeira (um conceito proprietário da Apple). Ficou cerca de dois anos boiando no mercado até que foi lançado um produto chamado Aldus PageMaker 1.0. PageMaker foi o primeiro programa WYSIWYG (What You Seee Is What You Get) para o PC. Tinha a grande novidade de juntar tipos e gráficos no mesmo documento. Depois de um ano, a Microsoft lança uma planilha de cálculos chamada Excel. Mais tarde outros produtos como Microsoft Word e Corel Draw ajudaram a aumentar a popularidade do Windows, embora esse ainda precisasse de muitas melhoras.
 
@@ -1763,7 +1763,7 @@ Existe uma ferramenta de depuração no DDK do Windows 98 chamada WDEB386. Sua e
 
 Para piorar as coisas, existe mais um último problema: a máquina não está ao alcance de um cabo serial. Para esse último caso talvez fosse a hora de chamar um produto não-Microsoft que dá conta do recado muito bem: o SoftICE.
 
-![SoftICE](softice.png)
+"SoftICE"
 
 O SoftICE é um depurador de kernel e user mode que é instalado na própria máquina depurada. Ou seja, ele não precisa de uma segunda máquina só para rodar o depurador ou parte dele. Funciona no MS-DOS (versão 16 bits), plataforma 9x e NT. Criado pela Numega, mais tarde foi comprado pela Compuware, que passou a vendê-lo como um pacote para desenvolvimento de drivers, o Driver Studio. No seu time de desenvolvimento passaram nomes consagrados como Matt Pietrek e Mark Russinovich.
 
@@ -1816,7 +1816,7 @@ Uma outra frase resume o caminho trilhado pela empresa a partir de então:
 
 Com o advento dos novos lançamentos da Intel, os processadores 80286 e 80386, o Windows acabou sendo atualizado duas vezes para aproveitar as novas características dos dois sistemas. E assim nasceram as versões 2.1.x do Windows, respectivamente conhecidas como Windows/286 e Windows/386.
 
-![Windows 2.0](historia_do_windows_parte_20_windows2.jpg)
+"Windows 2.0"
 
 A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma vez por todas. Veremos que boa parte da API que usamos hoje em dia já existia no Windows 3.0, e boa parte das peculiaridades que nos perseguem até hoje.
 
@@ -2303,7 +2303,7 @@ Portanto, o objetivo desse programa é simples e direto: mover o mouse para um c
 
 Um loop de mensagens é a maneira definida pelo Windows para avisar as aplicações dos eventos que ocorrerem no sistema que são relevantes para as suas janelas. Teremos chance de observar isso mais vezes, mas por enquanto basta ter uma visão geral do fluxo de mensagens que ocorre quando digitarmos a nossa tecla de atalho.
 
-![Ilustração do loop de mensagens no Windows para input do usuário](movendo_o_cursor_do_mouse_com_o_teclado_windows_loop_mensagens_input.gif)
+"Ilustração do loop de mensagens no Windows para input do usuário"
 
 O código não tem muitos segredos (update 2026-01-27: mas eu não sei onde ele foi parar; por isso pedi para o Chat-GPT fazer um novo, onde ele gentilmente implementou a leitura inclusive das hotkeys no arquivo ini). Para registrar os atalhos, usamos a função RegisterHotKey. Para manipular os eventos usamos o tal loop de mensagens e manipulamos a mensagem WM_HOTKEY de acordo com a tecla pressionada. Para mover o mouse usamos a função SetCursorPos (e para armazenar a posição atual GetCursorPos). Por fim, para ler configurações de um .ini usamos a função GetPrivateProfileInt.
 
@@ -2580,7 +2580,7 @@ Por falar em se emocionar, imagino que seu comentário estaria mais contextualiz
 
 Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens BCPL e B. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.
 
-![Esse distinto cavalheiro inglês é Martin Richards](historia_da_linguagem_c_parte_1_martin_richards.gif)
+"Esse distinto cavalheiro inglês é Martin Richards"
 
 Em 21 de julho de 1967 Martin Richards libera "o manual" da sua recém-criada linguagem BCPL. Na verdade, ela havia sido criada em 66 e implementada na primavera do ano seguinte no Instituto de Tecnologia de Massachusetts (vulgo MIT). Seus objetivos eram claros, como para todo criador de uma nova linguagem: melhorar uma linguagem anterior. Nesse caso, foi uma melhoria da Combined Programming Language (CPL), retirando, de acordo com Martin, "todas aquelas características da linguagem completa que tornavam a compilação difícil".
 
@@ -2588,17 +2588,17 @@ E BCPL era de fato bem simples. Não tinha tipos, era limpa e poderosa. Porém, 
 
 Essa portabilidade era obtida com o uso de um artifício mais ou menos conhecido da comunidade C/C++ hoje em dia: a divisão entre código objeto e código final. O compilador era dividido em duas partes: a primeira parte era responsável por criar um código em estado intermediário feito para rodar em uma máquina virtual. Esse código era chamado de O-code (O de object). A segunda parte do compilador era responsável por traduzir esse O-code no código da máquina-alvo (onde iria ser rodado o programa). Essa sacada genial de 40 anos atrás permitiu que fosse mais simples fazer um compilador para uma nova plataforma e portar todo o código que já tinha sido escrito para uma plataforma anterior, driblando o grande problema daquela época: a incompatibilidade entre plataformas.
 
-![Processo de geração do BCPL O-code](historia_da_linguagem_c_parte_1_ocode.gif)
+"Processo de geração do BCPL O-code"
 
 Perceba que é possível fazer toda a parte do compilador detrás do código-objeto uma única vez e, conforme a necessidade, criar novos interpretadores BCPL para máquinas diferentes.
 
-![Interpretação do o_code para código da máquina alvo](historia_da_linguagem_c_parte_1_portable_bcpl.gif)
+"Interpretação do o_code para código da máquina alvo"
 
 O código intermediário é gerado para uma máquina virtual. O interpretador, cerca de um quinto do compilador, tem a função de traduzir o código gerado para a máquina-alvo. Qualquer semelhança com Java ou .NET não é mera coincidência. Pois é. As boas idéias têm mais idade que seus criadores.
 
 É inevitável também não fazer a associação entre essa forma de funcionamento do compilador BCPL e a divisão feita em C/C++ entre o pré-processador, o compilador e o ligador (linker, em inglês).
 
-![Processo de compilação C/C++](historia_da_linguagem_c_parte_1_ccpp_build_steps.gif)
+"Processo de compilação C/C++"
 
 O uso do pré-processador na linguagem C facilitou a portabilidade por um bom tempo, quando não existiam typedefs. Diferente do BCPL, C já tinha tipagem, o que quer dizer que era necessário escolher o espaço de armazenamento que seria utilizado para as variáveis. Com o pré-processamento, essa escolha pode ser feita de maneira seletiva, documentada e generalizada.
 
@@ -2619,7 +2619,7 @@ Como é natural, o código-fonte de uma aplicação tende a crescer em muitas li
 
 Em 22 de maio de 1990 a versão 3.0 do Windows foi lançada. Foi melhorado o gerenciador de programas e o sistema de ícones, além de um novo gerenciador de arquivos e suporte a 16 cores. Entre as mudanças internas podemos citar a velocidade e a confiabilidade. Como a partir dessa versão apareceram muitos desenvolvedores que passaram a suportar a plataforma, o número de programas disponíveis aumentou, o que conseqüentemente fez com que as vendas alavancassem. Três milhões de cópias foram vendidas apenas no primeiro ano, e assim o Windows se tornou padrão nos computadores domésticos. Quando a versão 3.1 foi lançada, em 6 de abril de 1992, mais três milhões de cópias foram vendidos em apenas dois meses.
 
-![Windows 3.0 Desktop](historia_do_windows_parte_30_windows_30_workspace.png)
+"Windows 3.0 Desktop"
 
 As fontes TrueType foram adicionadas, junto de novas capacidades multimídia. Outro grande avanço foi na área de comunicação entre aplicativos com a implementação da tecnologia OLE (Object Linking and Embedding), que permitiu documentos de diferentes fabricantes serem intercambiados.
 
@@ -2627,7 +2627,7 @@ Em novembro de 1993 foi lançada a primeira versão que integrou o Windows e a r
 
 E, finalmente, agora já é hora de conversarmos sobre a figura ilustre que popularizou ainda mais o desenvolvimento para Windows.
 
-![Charles Petzold, em foto do seu site](historia_do_windows_parte_30_charles_petzold.gif)
+"Charles Petzold, em foto do seu site"
 
 Quem começou a programar para Windows naquela época com certeza deve ter ouvido falar do livro clássico de Charles Petzold, uma das poucas referências naquela época sem internet: Programming Windows 3.1. É um livro consideravelmente completo se considerarmos a época em que foi escrito. Vários exemplos estão disponíveis em suas páginas, mas para os que não viveram essa época (como eu) existe "a versão eletrônica disponível para download". Você deve estar se perguntando se todo esse código-fonte serve para alguma coisa hoje em dia. Por incrível que pareça, serve sim. Pelo menos os que eu testei ainda compilam e rodam.
 
@@ -2658,7 +2658,7 @@ switch( message ) // Manipulando as mensagens.
 
 Uma mensagem é um evento que ocorre relativo à sua janela ou o que está acontecendo ao redor dela no mundo Windows. Por exemplo, as janelas recebem eventos a respeito dos cliques do usuário, redesenho da janela, etc. Quem envia essas mensagens é o próprio Windows, e ele espera uma resposta da sua função de janela. Agora a parte esquisita: quem envia essas mensagens para o Windows é o seu próprio aplicativo!
 
-![Função de janela](historia_do_windows_parte_30_windows_message_loop.gif)
+"Função de janela"
 
 O aplicativo fica aguardando por eventos em um loop conhecido como loop de mensagens. A função do loop basicamente é chamar a função GetMessage e redirecionar as mensagens obtidas para as respectivas funções de janela.
 
@@ -2794,7 +2794,7 @@ Para o Chicago foi desenvolvida uma nova API para substituir a de 16 bits do Win
 
 Em setembro de 1994 é lançado o Windows NT 3.5. A versão Workstation substituiu o Windows NT 3.1 e a versão Server o Windows NT 3.1 Advanced Server.
 
-![Windows NT 3.51 Workstation](historia_do_windows_parte_351_windows_workstation.jpg)
+"Windows NT 3.51 Workstation"
 
 Como todo projeto de sucesso, a primeira coisa a ser feita é definir os objetivos principais. No caso do Windows NT não foi diferente. É importante para nós sabermos que objetivos eram esses e como eles foram mudando de acordo com o momento histórico de forma a analisarmos as conseqüências. Em outubro de 1988 os objetivos do novo sistema operacional eram os seguintes:
 
@@ -3077,7 +3077,7 @@ Não há necessidade alguma. Foi apenas um exemplo ilustrativo. No entanto, usei
 
 No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados senhores dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.
 
-![Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org](historia_da_linguagem_c_parte_2_kthompson_dritchie.jpg)
+"Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org"
 
 O bom de B era sua rica expressividade e sua simples gramática. Tão simples que o "manual da linguagem" consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de ifs e gotos e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a word, ou palavra, da plataforma, que utilizada em expressões definiam seu tipo. Esse padrão de bits era chamado rvalue. Imagine a linguagem C de hoje em dia com apenas um tipo: int.
 
@@ -3396,7 +3396,7 @@ Partindo desse princípio, podemos imaginar uma proteção baseada nessa exclusi
 
 Após o processo de attach, a porta de debug é ocupada, e a comunicação entre depurador e depurado é feita através do LPC. Abaixo uma pequena ilustração de como as coisas ocorrem:
 
-![Como funciona o LPC](antidebug_ocupando_a_debugport_debugport.gif)
+"Como funciona o LPC"
 
 Basicamente o processo fica recebendo eventos de debug (através da fila de mensagens LPC) continuamente até o evento final, o de final de processo. Note que se alguém tentar derrubar o processo que depura o processo depurado cai junto.
 
@@ -3419,7 +3419,7 @@ No entanto, houve um momento em minha vida em que eu precisava definitivamente r
 
 Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um screenshot de como utilizo o ToDoList:
 
-![](todolist_todolist.png)
+"Todo list"
 
 Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 
@@ -3581,7 +3581,7 @@ Adorei o texto. So para acrescentar: O fanzine Barata Eletrica continua, agora c
 
 Em meio a uma febre de consumismo, no dia 24 de agosto de 1995, foi lançado a revolução no sistema gráfico da Microsoft: a interface do Windows 95. Ela foi considerada muito mais amigável que suas versões anteriores. Ainda possuía a vantagem de não necessitar mais de uma instalação prévia do DOS, passou a suportar nomes de arquivos longos, incluir suporte a TCP/IP e dial-up networking integrados. Muitas mudanças foram feitas no sistema em si, como a passagem para 32 bits (como já vimos, parcial) e o novo conceito de threads, que é o que veremos com mais detalhes neste artigo.
 
-![Desktop do Windows 95](historia_do_windows_parte_40_windows_95.png)
+"Desktop do Windows 95"
 
 Bem, o "novo conceito" de threads já havia sido implementado no Windows NT desde o seu rascunho e já existia no início do projeto, mas não no velho Windows 3.1 de 16 bits, que foi a versão anterior ao 95. Parte dos requisitos do sistema foi que ele seria compatível com o NT no nível de aplicativo, o que de fato aconteceu.
 
@@ -3593,11 +3593,11 @@ E como funciona o sistema de threads? Uma thread é uma linha de execução de c
 
 Porém, em uma plataforma com apenas um processador, como é natural supor, apenas uma thread roda de cada vez. Para dar a impressão de rodar ao mesmo tempo o tempo de execução das threads é dividido entre elas, de forma que aparentemente todas elas rodam ao mesmo tempo. Essa unidade de divisão do tempo de execução é conhecido como quantum, ou Time Slice, e é caracterizado como o tempo em que uma thread fica rodando até que outra thread tome o seu lugar, ou seja, ocorra uma troca de contexto (switch context). Quando uma thread é criada ela ganha seu primeiro time slice (se não iniciar suspensa) e divide o tempo de processamento com outras threads que executam no mesmo processador.
 
-![Arquitetura multithreading](historia_do_windows_parte_40_threads_architecture.gif)
+"Arquitetura multithreading"
 
 Para exemplificar o uso de threads imagine um programa que quebra senhas por força bruta. Funciona assim: enquanto uma thread fica cuidando das mensagens da janela, como digitação e movimentação do mouse e janela, uma segunda thread irá ficar constantemente tentanto descobrir sua senha digitada por tentativa e erro. Toda vez que é alterado um caractere na senha, a thread quebradora reinicia seu trabalho.
 
-![PwdBreaker](historia_do_windows_parte_40_threads_pwdbreaker.png)
+"PwdBreaker"
 
 Todo programa inicia com uma thread que roda seu int main. A criação de uma nova thread é feita através da chamada da função API CreateThread.
 
@@ -3615,7 +3615,7 @@ void StartBruteForceThread()
 
 Para quem está acompanhando "a série de artigos sobre o Windows" deve lembrar que assim como na criação de janelas, na criação de uma thread é passada uma função de callback. Só que diferente de uma função de janela, essa função não é executada na mesma thread que criou a janela, mas é um novo "int main" para uma nova linha de execução, que irá rodar em paralelo com a primeira. Essa segunda linha de execução termina quando retornamos dessa função, que no nosso exemplo é nunca, mas poderia ser quando fosse terminada sua tarefa.
 
-![CreateThread exemplificada](historia_do_windows_parte_40_threads_pwdbreaker_windows.png)
+"CreateThread exemplificada"
 
 Bom, acho que para explicar o uso de um sistema multithreading em um artigo só não basta. Mas para explicar por que sua senha deve ter mais de três caracteres, acho que é o bastante. Até a próxima.
 
@@ -3946,7 +3946,7 @@ Continuando com o tema hooks no WinDbg vamos aqui "hookear" e analisar as chamad
 
 Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, mas nunca é tarde para aprender. Pra começar, vamos dar uma olhada na representação da interface IUnknown em UML e em memória:
 
-![Layout da VTable do IUnknown](hook_de_com_no_windbg_iunknown_disasm.png)
+"Layout da VTable do IUnknown"
 
 Como podemos ver, para implementar o polimorfismo os endereços das funções virtuais de uma classe são colocados em uma tabela, a chamada vtable, famosa tanto no COM quanto no C++. Existe uma tabela para cada classe-base polimórfica, e não para cada objeto. Se fosse para cada objeto não faria sentido deixar esses endereços "do lado de fora" do leiaute. E não seria nada simples e elegante fazer uma cópia desse objeto.
 
@@ -3954,7 +3954,7 @@ Assim, quando você chama uma função virtual de um objeto o código em assembl
 
 Sabendo de tudo isso, agora sabemos como teoricamente proceder para colocar uns breakpoints nessas chamadas:
 
-![Breakpoints na VTable](hook_de_com_no_windbg_iunknown_breakpoint.png)
+"Breakpoints na VTable"
 
 Note que o breakpoint não é colocado dentro da tabela, o que seria absurdo. Uma tabela são dados e dados geralmente não são executados (eu disse geralmente). Porém, usamos a tabela para saber onde está o começo da função para daí colocar a parada nesse endereço, que por fazer parte do código da função é (quem diria!) executado.
 
@@ -4459,13 +4459,13 @@ Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer t
 
 O item 2 é justamente o que utiliza essa interrupção para ler do disco. Eu prefiri colocar o breakpoint no item 2, mas nada impediria de você colocá-lo no item 3 e já iniciar a depuração no código do boot loader. Mas, como eu já passei por problemas encontrados no código da BIOS que impediam o sistema de entregar a execução para o setor de boot, já dei a dica de lambuja caso você também tenha a oportunidade de se divertir em um cliente depurando a BIOS de algum laptop desajustado.
 
-![Breakpoint na int 0x13 função 2 (DL=0)](debug_da_bios_com_o_softice_16_bits_bpint_boot.png)
+"Breakpoint na int 0x13 função 2 (DL=0)"
 
 A referência para saber quais as funções para cada interrupção na hora de depurar a BIOS pode ser encontrada em listas como a Ralf Brown's Interrupt List (2)
 
 A partir dessa leitura se usa o comando p ret do depurador, que é mais ou menos o step out do SoftIce 32. Ou seja, ele avança a execução até a função retornar. No caso do SoftIce 16 ele irá avançar até o próximo ret/iret. Por isso que também precisamos executar a próxima instrução (o próprio ret) para cair onde queremos. É nesse ponto que o "nosso" código começa a executar e onde conseguimos colocar breakpoints "de verdade", ou seja, escrevendo no parte do código que deve ser interrompida a chamada da interrupção de breakpoint (int 3). Lembre-se que não é isso o que é feito para parar no código da BIOS, uma vez que esta reside em memória de somente leitura (pelo menos durante a execução).
 
-![Código do boot loader carregado no Softice](debug_da_bios_com_o_softice_16_bits_myos_start.png)
+"Código do boot loader carregado no Softice"
 
 (1) "Gerenciamento de memória 386" - Daniel Quadros
 
@@ -4526,7 +4526,7 @@ Bons cronogramas!
 
 Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de Distributed File System, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede. Assim começou a "História do Windows" para redes de gente grande.
 
-![Windows 2000 Logo](historia_do_windows_parte_50_windows_2000.png)
+"Windows 2000 Logo"
 
 Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral de como as coisas funcionam internamente no sistema operacional. Em um desenho da arquitetura veremos diferentes módulos que fazem parte do sistema operacional que dividem funções específicas e que possuem métodos específicos de comunicação interna e externa. Importante notar que a divisão entre os componentes que descreverei abaixo já existia desde a primeira versão do NT, sendo que apenas alguns itens foram adicionados, como o Gerenciador de Plug & Play e o Gerenciador de Energia. Os elementos principais do Windows, visto sob camadas de abstração, são:
 
@@ -4554,7 +4554,7 @@ Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral 
 
 - Por fim, o hardware.
 
-![Windows Architecture](historia_do_windows_parte_50_windows_architecture.png)
+"Windows Architecture"
 
 (Um outro item importantíssimo que foi movido da versão 3.51 para a 4.0 é a GDI, responsável pelos gráficos. Inicialmente ela estava no modo de usuário, mas a necessidade de aumentar o desempenho do sistema fez com que ela fosse incorporada ao núcleo do sistema.  Agora vamos dissecar as partes interessantes.)
 
@@ -4706,7 +4706,7 @@ A estrutura é uma composição complexa em C, mas permite um organização melh
 
 Aparentemente o tema estrutura é mais simples que ponteiros, e deveria ser tratado antes. Porém, fazer isso impediria abordar o tema de listas ligadas e outras estruturas que dependem do uso de ponteiros para que estruturas referenciem elas mesmas, algo extremamente recorrente no mundo da programação.
 
-![](the_c_programming_language_binary_tree.gif)
+"Binary Tree in The C Programming Language"
 
 É sempre bom lembrar que o uso de estruturas foi o nascimento do C++, que prima pela elegância na organização e harmonia entre seu código e dados. A linguagem C também não fica para trás, mas é importante saber usar.
 
@@ -4820,19 +4820,19 @@ Para concluir, vamos dar uma espiada nas estruturas de comparação de um progra
 
 If significa "se", ou seja, faz uma comparação, e retorna se a comparação é verdadeira (sim!) ou não (não!). Porém, o if apenas faz alguma coisa se o resultado for sim.
 
-![If](guia_basico_para_programadores_de_primeiro_int_main_if.gif)
+"If"
 
 Else significa "senão", ou seja, é o complemento do if. Lembra-se que o if só faz alguma coisa se o resultado da comparação for sim? Pois bem, o else permite fazer outra coisa se o resultado for não.
 
-![Else](guia_basico_para_programadores_de_primeiro_int_main_else.gif)
+"Else"
 
 While significa "enquanto", e é o nosso primeiro exemplo de laço, ou loop. Um loop faz constantemente a mesma coisa enquanto o resultado da comparação for sim. Uma vez que for não (pode ser a primeira, inclusive), ele não faz mais nada e o programa continua seu fluxo natural.
 
-![While](guia_basico_para_programadores_de_primeiro_int_main_while.gif)
+"While"
 
 For significa "por", com o mesmo sentido que em "ele me chutou por 5 vezes seguidas". Ele pode ter muitos usos, mas o tradicional é fazer n vezes alguma coisa, sabendo que n é um número de vezes já conhecido. Nesse caso, o loop serve apenas para repetir um determinado número de vezes uma ação, sem nunca variar esse número de vezes.
 
-![For](guia_basico_para_programadores_de_primeiro_int_main_for.gif)
+"For"
 
 #### É só isso?
 
@@ -4855,7 +4855,7 @@ Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, 
 
 O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "mutex") para sincronizar as chamadas. O resultado é que, em um processo, apenas um DllMain é chamado em um dado momento. Esse objeto é chamado de loader lock na documentação da Microsoft.
 
-![Loader Lock explicado](por_que_minha_dll_travou_loader_lock.gif)
+"Loader Lock explicado"
 
 Escrevi um código besta para exemplificar, mas representa o que já vi em muito código-fonte, e muitas vezes não consegui perceber o que estava acontecendo (tanto porque desconhecia a existência desse loader lock quanto o código estava obscuro demais pra entender mesmo).
 
@@ -4945,7 +4945,7 @@ Aproveitando um dos últimos artigos que fala sobre conceitos básicos de progra
 
 É interessante notar como muitos ignoram a utilidade e conveniência das tradicionais e poderosas ferramentas de depuração passo-a-passo. O motivo pode ser puro desdém ou ignorância (no sentido de desconhecimento). Se for pelo segundo, aí vão algumas dicas para dar uma passada geral no seu programa e, quem sabe, encontrar um ou outro bug pelo caminho.
 
-![](guia_basico_para_programadores_de_primeiro_breakpoint_debug.png)
+"Breakpoint debug"
 
 Os comandos mais comuns de debug são: Start/Continue, Break, Stop, Restart, Show Next Statement, Step Into, Step Over e Step Out.
 
@@ -4953,25 +4953,25 @@ Run ou Debug é o comando primário. Simplesmente inicia uma nova execução de 
 
 O comando Step Over avança uma linha de código-fonte, parando na seguinte, de uma maneira iterativa. É a chamada execução passo-a-passo. Com ele você consegue, com a ajuda das janelas de watch e variáveis locais, analisar passo-a-passo a execução do fluxo de seu programa variando de acordo com as condições do sistema.
 
-![](step-over.gif)
+"Step over"
 
 Stop Into é um parente bem próximo do Step Over, com a importante diferença de entrar dentro das funções que são chamadas em cada linha de execução. Geralmente é usado quando você pretende revisar todo o fluxo de execução porque escreveu código novo ou porque ainda não chegou na situação que pretende simular ou ainda porque usou o Step Over antes e descobriu que existe algum problema na função X que você passou direto.
 
-![](step-into.gif)
+"Step into"
 
 Já o Step Out é o complemento dos dois Steps acima. Ele vai sair executar todo o resto da função onde você está e parar exatamente uma linha após a chamada dessa função. Em suma: você já viu o que queria ver dentro da função atual e quer continuar a execução um ou mais níveis acima na pilha de chamadas.
 
-![](step-out.gif)
+"Step out"
 
 Você não precisa passar por todo o seu código e todos os seus loops/laços de 500 iterações até chegar ao ponto que quer analisar. O breakpoint é um comando nativo do sistema que é dos mais úteis para o programador, capaz de parar o fluxo de execução em um ponto específico do código. O depurador torna disponível para você esse comando que pode ser engatilhado em qualquer linha, geralmente em uma quantidade razoável. Para controlar todos os breakpoints definidos existe uma janela com essa lista que indica, entre outras coisas, se estão habilitados ou não, se possuem alguma condição de quebra, quantas vezes devem parar, etc. Costuma existir um ótimo controle sobre breakpoints nos depuradores, pois esse é um comando muito usado em programação (e dos mais antigos).
 
 Praticamente qualquer ferramenta de debug possui um mecanismo para que você consiga ver o que está dentro das variáveis de seu programa. Basicamente temos uma janela ou comando de watch, ou inspection, onde podemos inserir as variáveis que queremos espiar. Em um nível mais sofisticado, temos as janelas de locals e autos (o nome pode variar), onde podemos ver, respectivamente, as variáveis dentro da função e as variáveis mais próximas do ponto onde o código está parado (as que foram usadas na última linha e as que serão usadas na próxima, por exemplo). Claro que cada ambiente te fornece o que melhor ajudar durante a depuração, assim como o Delphi e o C++ Builder possuem o magnífico Object Inspector, uma janela com todas as propriedades de um objeto qualquer do sistema (uma janela, um botão, uma classe, etc).
 
-![](watch.gif)
+"Watch"
 
 Seguindo as janelas e comandos úteis de debug, a pilha de chamadas ou stack trace mostra a pilha da thread atual sendo depurada. Com ela você consegue ver o nome da função que chamou a função que chamou a função que chamou... até a função inicial (por exemplo, o nosso conhecido main, a primeira função de um programa "normal" em C/C++).
 
-![](call-stack.gif)
+"Call stack"
 
 No caso de seu programa ser multithreading, ou seja, possuir várias linhas de execução, fluxos distintos de código rodando, existirá uma janela ou comando onde você pode ver qual a thread atual (a que está sendo depurada e destrinchada nas outras janelas) e quais as outras threads. Muitos ambientes permitem que com essa janela seja feito um switch de threads, que é a troca da thread atual, o que irá alterar a janela de pilha de chamadas, de variáveis locais, e muito provavelmente a janela do código-fonte atualmente em execução.
 
@@ -5167,7 +5167,7 @@ Agora a proteção do compilador faz sentido. Parece um detalhe frívolo, mas j�
 
 O notepad é uma vítima tradicional de todo programador de Windows. Ele é usado tanto como teste de abertura de arquivo quanto criptografia de disco. É nossa cobaia favorita porque é simples, porém completo. ~~E roda rápido e sem bugs.~~ (2026-02-14 removendo suas qualidades após ele logar no Microsoft Account e ter o Copilot embutido; inclua a calculadora nessa)
 
-![Intro](brincando_com_o_windbg_notepad_file_not_found_intro.png)
+"Intro"
 
 Existem duas maneiras de depurar um programa localmente usando o WinDbg: iniciá-lo pelo próprio WinDbg ou conectar o depurador (attach) em um programa já em execução. Podemos especificar o que faremos direto na linha de comando ou pela sua interface. Pela linha de comando podemos usar os comandos windbg notepad.exe, windbg -pn notepad.exe e windbg -p pid. Pela interface são os conhecidos itens do menu File: Open Executable e Attach to a Process.
 
@@ -5213,7 +5213,7 @@ Não se preocupe, nada aconteceu de errado. Essa é apenas a maneira do WinDbg d
 
 Explicado o começo o resto é fácil. Para continuar a execução do bloco de notas basta usarmos o comando g (Go), ou pressionar F5, ou ir no menu "Debug, Go", ou ainda apertar um dos botões de fluxo do depurador listado no seu toolbar:
 
-![Windbg debug buttons](brincando_com_o_windbg_debug_windbg.png)
+"Windbg debug buttons"
 
 Nos depuradores mais comums você terá todas essas opções ao seu dispor e nos comandos mais incomuns tudo o que você terá será o prompt de comando do WinDbg e a ajuda, acionada por F1 ou pelo comando `.hh <tópico>`. Geralmente os comandos do WinDbg possuem milhares de parâmetros e é considerada atitude sábia olhar de vez em quando o que alguns desses parâmetros significam para que, aos poucos, aprenda-se alguns truques até a chegada da iluminação completa, onde seu espírito irá fluir livremente pela memória de todos os processos do sistema.
 
@@ -5223,13 +5223,13 @@ A tempo: após executar g mais um monte daquelas mensagens cheias de caracteres 
 
 Vamos fazer algo não tão esperto para ver como o bloco de notas reage. Tente abrir um arquivo com um nome inexistente:
 
-![Orografia](brincando_com_o_windbg_orografia.jpg)
+"Orografia"
 
 Como podemos ver o Bloco de Notas exibe uma mensagem de erro indicando que o arquivo cujo nome você digitou não existe, pede para você "verificar a orografia" e tudo o mais. O importante aqui não é que você não sabe digitar nomes de arquivos, mas sim qual a função que o notepad usa para exibir sua mensagem de erro.
 
 Update 2021-03-07: na versão original deste post esta função era a MessageBox, e eu seguia explicando o protótipo da função e seus argumentos. Hoje, no Windows 10, descubro que o MessageBox não é mais usado, dando lugar ao ShellMessageBoxW. Como eu descobri isso? Bom, eu segui os mesmos passos do post original e coloquei um breakpoint em MessageBox e executei novamente a abertura de um arquivo inválido e... o breakpoint não disparou. Nesse caso eu dei uma olhada na pilha de chamada de todas as threads para encontrar alguma thread que chamou funções de janela. Para isso você pode usar o comando ~*kvn (para todas as threads exiba a pilha de chamadas no modo verbose).
 
-![Notepad File Not Found](brincando_com_o_windbg_notepad_file_not_found.png)
+"Notepad File Not Found"
 
 Na saída abaixo você pode encontrar essa chamada na primeira thread, a 2b14.30f8, no stack frame 0x0e.
 
@@ -5297,7 +5297,7 @@ Allocated 1000 bytes starting at 00000211`43d60000
 
 Note que se estivéssemos tentando exibir uma string Ansi iríamos usar o comando eza (edit zero terminated ansi string). O WinDbg possui inúmeros comandos parecidos que começam com e, cuja lista pode ser consultada pelo comando .hh e. O equivalente para leitura é o comando d (de dump).
 
-![Notepad File Not Found Thanks](brincando_com_o_windbg_notepad_wonderful_file.png)
+"Notepad File Not Found Thanks"
 
 Repare que colocamos esse breakpoint diretamente na função API, ou seja, qualquer outro ponto do notepad em que ele tiver vontade de chamar a mesma API irá ativar o mesmo breakpoint e exibir a mesma mensagem, o que pode ser um pouco importuno da parte dele. Um bom exercício pós-leitura seria tratar as condições em que a mensagem será trocada, talvez se baseando na mensagem recebida. Mas isso já é lição de casa, e paramos por aqui.
 
@@ -5539,7 +5539,7 @@ this: 0012FF60, member: 44
 
 Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da maneira que quiser, mas o conceito no final acaba ficando quase a mesma coisa. No caso de ponteiros de métodos, o ponteiro guarda realmente o endereço da função que pertence à classe. Porém, como todo método não-estático em C++, para chamá-lo é necessário possuir um this, ou seja, o ponteiro para a instância:
 
-![Ponteiros de método](ponteiro_de_metodo_qual_this_e_usado_fuzzycall.gif)
+"Ponteiros de método"
 
 Em assembly teremos algo assim:
 
@@ -5631,7 +5631,7 @@ ModLoad: 74720000 7476b000 MSCTF.dll
 
 Se essa mensagem fosse exibida mais de uma vez, poderíamos supor que é possível existir algum tipo de infecção na execução do aplicativo, como quando o código inicial carrega o original e volta a executar o mesmo ponto.
 
-![Código Malicioso](detectando_hooks_globais_no_windbg_codigo_malicioso.gif)
+"Código Malicioso"
 
 O objetivo aqui é "preparar o terreno" (ficar residente) antes que o código original seja executado. Com um simples breakpoint e um simples .echo conseguimos visualizar esse tipo de ataque. Outra possibilidade é que se trata daqueles executáveis "empacotados" por meio de algum encriptador de códigos como UPX, que desempacota o código e reexecuta o ponto de entrada do executável. Claro que esse é apenas um uso que podemos fazer desses comandos.
 
@@ -5722,13 +5722,13 @@ Até aí tudo bem. Quer dizer, mais ou menos. Dados relevantes costumam ser sens
 
 Desde a versão NT o Windows segue as diretivas de segurança do C2, o que entre outras coisas quer dizer que o a reutilização de um objeto no sistema operacional será protegida. Um objeto aqui está para representar recursos da máquina em geral, como páginas de memória e setores do disco. Quando um programa pede um setor de disco livre (ou uma página de memória) para uso próprio, o Windows apaga qualquer conteúdo remanescente naquele espaço de memória, evitando assim que exista uma maneira do atacante obter dados de terceiros (e.g. arquivos protegidos ou memória do sistema) sem autorização.
 
-![Novo setor do Windows](sdelete_windows_new_sector.gif)
+"Novo setor do Windows"
 
 Ou seja, desde que o Windows esteja no comando, os dados escritos por um programa não estarão disponíveis ao usuário por meio do reaproveitamento dos setores. Ficou claro?
 
 Se ficou claro, deve ter notado o "desde que o Windows esteja no comando". Essa é uma condição sine qua non, mas que nem sempre é verdadeira. Um atacante que tenha acesso físico ao dispositivo de armazenamento (e.g. meu PenDrive) pode certamente usar outro sistema operacional (ou até mesmo o Windows em condições especiais) e vasculhar os dados que eu já apaguei, pois estes, como mostra a figura, não são apagados de fato até que um programa peça o espaço ocupado por eles.
 
-![Apagando arquivo no Windows](sdelete_windows_delete_file.gif)
+"Apagando arquivo no Windows"
 
 Para esse tipo de problema eu costumo usar um programinha esperto chamado SDelete (de Secure Delete). O que ele faz é zerar os setores não usados, da mesma forma com que o Windows faz quando um programa pede um setor não usado. Para isso, basta especificar um ou mais arquivos: sdelete `<nome-do-arquivo>`.
 
@@ -5741,7 +5741,7 @@ O SDelete segue o padrão DOD 5220.22-M, o que quer dizer que ele está dentro d
 
 Chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP, de Windows eXPerience, usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos. Essa é minha versão favorita da "História do Windows" e junto do Windows 7 uma das edições mais robustas já feitas.
 
-![Windows XP (Luna) na Wikipedia](historia_do_windows_parte_51_windows_xp.png)
+"Windows XP (Luna) na Wikipedia"
 
 Oriundo do Projeto Luna um dos grandes trunfos nessa versão do Windows foi (mais uma vez) a "revolução gráfica", baseada em um redesenho do velho conceito de desktop dos sistemas operacionais da Microsoft, em destaque o uso de temas e a total compatibilidade com a grande maioria das placas 3D. Sim, esse Windows foi feito pra jogar. Do ponto de vista da arquitetura, pouca coisa mudou, e essa versão mudou internamente de 5.0 (Windows 2000) para 5.1 (Windows XP). Ou seja, praticamente um patch de correção glorificado pelo departamento de marketing.
 
@@ -5753,7 +5753,7 @@ Da mesma forma, com o lançamento da versão 64 para a plataforma x86, uma nova 
 
 No decorrer dessa história avançamos uns bons 20 anos até agora. Muita coisa que deveria ter sido falada não foi, e muita coisa que não merecia ser mencionada, foi. Após esta versão outras foram criadas, mas o grande merge foi de fato o Windows XP, que lançou a plataforma NT pura para os usuários caseiros finais.
 
-![Windows History](windows_history.gif)
+"Windows History"
 
 Não falarei mais aqui sobre a "outra ramificação" do Windows, aquela constituída por Windows 95, 98 e ME. Não falarei do processo antitruste contra a Microsoft por conta da venda do sistema operacional com o Internet Explorer e Media Player embutidos; não discursarei sobre os protestos dos consumidores quando a Microsoft cobrou pela versão de atualização do Windows 98, o Second Edition; muito menos esbravejarei sobre a raiva dos usuários pelo superaquecimento do processador por conta do Windows ME e sua duvidável interface revolucionária.
 
@@ -5763,19 +5763,19 @@ Na eterna briga entre sistemas operacionais, uma categoria bem abastada (princip
 
 O problema em si não é a organização dos componentes do sistema operacional em torno de um ou de outro design, mas o que isso implica em termos de eficiência. Se o Windows fosse desenvolvido com kernel monolítico todos seus componentes internos acessariam tudo disponível no modo kernel, o que tem o potencial de ser mais rápido. Já um sistema microkernel abstrai mais a comunicação entre os diferentes componentes do sistema.
 
-![Windows Monolithic](historia_do_windows_parte_51_windows_monolithic.gif)
+"Windows Monolithic"
 
 Ao ser projetado o objetivo do Windows nunca foi ser um sistema operacional de microkernel, embora umas boas almas tenham clamado o contrário. No entanto, sua organização monolítica foi feita de tal forma que uma visão lógica do sistema operacional nos diria que a tentativa original foi dividir os serviços em camadas e componentes (servidores), de forma que as camadas superiores pudessem confiar nos serviços das camadas inferiores, tal como é em uma pilha TCP/IP.
 
 Porém, as coisas não são tão simples assim. O SO inteiro não é feito dessa forma. Foram usados diversos modelos para a organização do sistema, e é fácil perceber isso se enxergamos o todo através de várias visões. Quando isso acontece se enxerga o caos, que é o que temos quando só pensamos em módulos acessando módulos e código arbitrário rodando em kernel mode. Contudo, podemos analisar o resultado lógico da divisão em camadas em um kernel monolítico.
 
-![Windows Hibrid](historia_do_windows_parte_51_windows_hibrid.gif)
+"Windows Hibrid"
 
 Dessa forma é possível existir uma organização no mesmo código, mesmo esteja toda em código privilegiado. Basta que os pontos de comunicação entre os módulos esteja bem definido e documentado. O problema dessa abordagem é o acesso, que não é protegido de fato, e eventuamente vão existir existir diversos atalhos (documentados ou não) para alcançar as coisas de maneira mais rápida, para o bem da velocidade.
 
 Uma última e terceira visão, baseada em componentes, divide o código em gerenciadores e provedores de serviços. Conceitualmente essa divisão permitiria a migração de todo o código não-crítico para user mode, embora não seja o que ocorre. Essa divisão foi feita inicialmente e mantida apenas para serviços não-críticos que pudessem rodar em código não-privilegiado e a manutenção dos subsistemas: Win32, POSIX, MS-DOS. Nessa última visão conseguimos ainda visualizar um microkernel, mas é importante notar que não estamos falando aqui do conceito puro e formal que definimos no início da explicação.
 
-![Windows Client Server](historia_do_windows_parte_51_windows_client_server.gif)
+"Windows Client Server"
 
 O esboço final, dessa forma, ficou sendo um sistema operacional dividido em componentes, com a maioria rodando em modo privilegiado (kernel mode), cuja divisão lógica primária tende a ser em camadas. É muito importante ter essa visão da coisa conforme nos aprofundamos nos mistérios do ring0, ou kernel mode, que controla tudo isso.
 
@@ -6212,7 +6212,7 @@ void __fastcall TForm1::FormMouseDown(TObject *Sender, TMouseButton Button,
 
 Saber quando o mouse está sendo arrastado também é um passo trivial, uma vez que temos esse evento (OnMove) para tratar no controle da janela.
 
-![Builder OnMouseMove](desenhando_em_c_builder_builder_onmousemove.png)
+"Builder OnMouseMove"
 
 Para desenhar, todo formulário e mais alguns controles gráficos possuem um objeto chamado Canvas, do tipo TCanvas (duh). Essa classe representa uma superfície de desenho que você pode acessar a partir de seus métodos. Isso é a abstração do conhecido device context da GDI, tornando a programação mais fácil. O desenho de uma linha, por exemplo, é feito literalmente em uma linha de código.
 
@@ -6254,7 +6254,7 @@ private:
 //...
 ```
 
-![Amo o Builder](desenhando_em_c_builder_amobuilder.gif)
+"Amo o Builder"
 
 # Conceitos básicos na programação com C++ Builder
 2007-12-03 computer cppbuilder archive
@@ -6398,7 +6398,7 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 
 Mais simples, impossível. E com um pouco de imaginação, o mais besta dos aplicativos pode se tornar uma utilidade do dia a dia. Até sua mãe vai adorar.
 
-![Lista de Compras](interacao_entre_controles_no_c_builder_listadecompras.gif)
+"Lista de Compras"
 
 # Gerenciamento de janelas em C++ Builder
 2007-12-11 computer cppbuilder archive
@@ -6465,7 +6465,7 @@ void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
 
 Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
-![C++ Builder Forms](gerenciamento_de_janelas_em_c_builder_cppbuilder_forms.png)
+"C++ Builder Forms"
 
 Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que "já conhecemos".
 
@@ -6528,9 +6528,9 @@ Podemos bater essas informações com as do aplicativo Spy++, que captura janela
 
 Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando.
 
-![Spy++ Window Search](gerenciamento_de_janelas_em_c_builder_spyxx_window_search.png)
+"Spy++ Window Search"
 
-![Spy++ Window Search Result](gerenciamento_de_janelas_em_c_builder_spyxx_window_search_result.png)
+"Spy++ Window Search Result"
 
 Como podemos ver, nesse caso a janela encontrada foi justamente a que não aparece: TApplication! Sim, a classe principal da VCL é representada em runtime por uma janela escondida, que controla algumas mensagens específicas da aplicação.
 
@@ -6676,7 +6676,7 @@ Na verdade, não. Acho que você está confundindo com a função strlen (string
 
 O sistema de drag and drop do C++ Builder é muito fácil de usar, integrado que está com o sistema de classes e objetos do framework. Tanto para o objeto de drag quanto para o objeto de drop tudo que temos que fazer é definirmos a propriedade DragMode para dmAutomatic como mostra a figura. Isso fará com que toda a troca de mensagens seja manipulada automaticamente pela VCL.
 
-![Troca-troca](drag_and_drop_no_c_builder_trocatroca.gif)
+"Troca-troca"
 
 A parte (ridídula) do código fica por conta da manipulação do evento de drop. Para aceitar um objeto, devemos tratar o evento OnDragOver. Basta isso para que a variável Accept tenha seu valor default definido para true. Podemos, entretanto, escolher se iremos ou não tratar um possível drop de um objeto. Verificando seu tipo, por exemplo:
 
@@ -6789,7 +6789,7 @@ Visando preencher algumas lacunas na internet sobre esse tema iremos agora nos a
 
 Quase como um prêmio de consolação por participarmos de um sorteio que sabemos que não iremos ganhar nunca, a "Caixa Econômica Federal" generosamente oferece a opção de baixarmos todos os resultados da Mega Sena desde seu início. Iremos utilizar esse banco de dados para criar uma interface de visualização de resultados no C++ Builder.
 
-![Mega Sena Download](banco_de_dados_no_c_builder_mega_sena.png)
+"Mega Sena Download"
 
 Um problema inicial está no fato que o arquivo está no formato HTML, um formato mais difícil de usarmos no C++ Builder. Portanto, irei converter este formato em algo mais maleável, como um arquivo do Microsoft Access, o famoso MDB, ou um CSV.
 
@@ -6799,7 +6799,7 @@ Neste tutorial vamos usar aquilo que é o configurador oficial de banco de dados
 
 Criado o MDB, podemos clicar no BDE Administrator do Painel de Controle. A única coisa que precisamos fazer é criar uma nova base de dados, e especificar seus poucos parâmetros, como o tipo de base (MSACCESS) e o path de onde está o arquivo MDB.
 
-![BDE Config](banco_de_dados_no_c_builder_bde_config.png)
+"BDE Config"
 
 Ah, sim, claro, também é importante colocar um nome apropriado para a base de dados: MegaSena.
 
@@ -6842,7 +6842,7 @@ end
 
 Com isso, nossa janela já exibe o conteúdo da tabela em tempo de design:
 
-![DB Grid](banco_de_dados_no_c_builder_cppb_dbgrid.png)
+"DB Grid"
 
 E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco de dados com o C++ Builder. Mais para a frente podemos nos aventurar em tópicos um pouco mais avançados, como fazer buscas, navegar item a item e essas coisas que as pessoas costumam fazer com um MDB.
 
@@ -7512,7 +7512,7 @@ No sítio do IDA podemos encontrar o download para uma versão gratuita do IDA, 
 
 O funcionamento básico do IDA é bem básico, mesmo. Simplesmente escolhemos um executável para ele destrinchar e nos mostrar um assembly bem amigável, com todos os nomes de funções que ele puder deduzir. Como não temos os símbolos do próprio executável, as funções internas ganham "apelidos", como sub6669, loc13F35 e por aí vai. Isso não importa, já que temos nomes amigáveis de APIs para pesquisar no código-fonte e tentar encontrar as funções originais em C.
 
-![Driver na IDA](driver-ida-01.png)
+"Driver na IDA"
 
 Pois bem. Como manda o figurino, o primeiro ponto do assembly que temos que procurar é o ponto em que uma função interna é chamada logo após IopLoadDriver, mydriver+0x4058. Por coincidência (ou não, já que essa é a função do IopLoadDriver), se trata da função inicial do executável, ou seja, provavelmente a função DriverEntry no código-fonte (obs: estamos analisando um driver feito para plataforma NT).
 
@@ -7708,7 +7708,7 @@ A primeira coisa que pensei a respeito desse jogo foi que ele não seria tão in
 
 A primeira coisa a fazer é carregar o jogo na memória do navegador. Em seguida, seguindo meu raciocínio inicial, digitei a primeira resposta do jogo.
 
-![Flash Pops (Filmes 1)](encontrando_as_respostas_do_flash_pops_flash_pops_jogo.png)
+"Flash Pops (Filmes 1)"
 
 A partir daí, podemos "atachar" o WinDbg no processo do navegador e rastrear a memória do processo.
 
@@ -7716,7 +7716,7 @@ A partir daí, podemos "atachar" o WinDbg no processo do navegador e rastrear a 
 windbg -pn firefox.exe
 ```
 
-![GPF Now!](encontrando_as_respostas_do_flash_pops_gpfnow.gif)
+"GPF Now!"
 
 Então, como eu dizia, não faça isso em casa enquanto estiver digitando um artigo de seu blogue dentro do navegador. Ele vai travar!
 
@@ -7860,7 +7860,7 @@ Bom, vou parar o dump por aqui, já que, entre os leitores, pode haver quem quer
 
 Vimos que o jogo é facilmente quebrável porque armazena as respostas em texto claro. Uma solução alternativa seria utilizar um hash com colisão próxima de zero. Com isso bastaria trocar as respostas possíveis por hashs possíveis e armazená-los no lugar. Quando o usuário digitasse, tudo que o programa precisaria mudar era gerar um hash a partir da resposta do usuário e comparar com o hashs das respostas válidas.
 
-![Flash Pops Seguro](encontrando_as_respostas_do_flash_pops_flash_pops.gif)
+"Flash Pops Seguro"
 
 Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo "Thiago" há poucos dias, que está lendo o livro Reversing. Simples, porém funcional.
 
@@ -8394,7 +8394,7 @@ Assim sendo, embora o alfabeto russo seja diferente do alfabeto latino muitos fo
 
 Porém, após a tradução de uma letra no teclado, a posição dela geralmente não é a mesma posição do nosso teclado. Daí temos uma letra de nosso alfabeto em outro lugar. Se for feita uma tradução aproximada entre os dois alfabetos, nossas letras em um teclado russo ficariam dispostas assim:
 
-![Russian Keyboard](keychanger_de_crianca_russian_keyboard.png)
+"Russian Keyboard"
 
 Bem diferente do QWERT ASDFG que estamos acostumados, não?
 
@@ -8853,7 +8853,7 @@ Essa é uma regra básica, mas não é fácil de cumpri-la. Só quem já tentou 
 
 Primeiramente, quero deixar bem claro que jogamos Monopoly por mais ou menos dois meses sem ter qualquer tipo de problema, em três computadores diferentes. Até que resolvemos usar uma conta mais restrita. Foi o bastante para o programinha inocente começar a chiar.
 
-![Monopoly Crash](process_monitor_e_o_monopolio_malcriado_monopoly_crash.png)
+"Monopoly Crash"
 
 Mau garoto. Bons tempos em que quando um jogo travava o máximo que tínhamos que fazer era apertar um botão.
 
@@ -8863,19 +8863,19 @@ Sua função é mostrar tudo, absolutamente tudo que o sistema está fazendo em 
 
 É por isso que ele vem "de fábrica" já com uma série de filtros, que evitam lotar o log de eventos com informação sempre gerada pelo sistema, mas quase sempre inútil. Além dos filtros-padrão, podemos inserir nossos próprios filtros. É isso que faremos aqui para pegar o monopólio malcriado (sem trocadilhos).
 
-![Procmon Filter](process_monitor_e_o_monopolio_malcriado_monopoly_procmon.png)
+"Procmon Filter"
 
 Como podemos ver, iremos mostrar em nosso log todos os eventos cujo nome do processo seja monopolyclassic.exe (o nosso amigo faltoso) e iremos excluir do log qualquer evento cujo resultado tenha sido sucesso (se deu certo, provavelmente não é um erro).
 
 Executamos novamente o jogo, dessa vez com o Process Monitor capturando todos seus movimentos.
 
-![Monopoly Crash](process_monitor_e_o_monopolio_malcriado_monopoly_crash.png)
+"Monopoly Crash"
 
 Agora, uma pequena ressalva: eu estou cansado de ver isso, mas para quem nunca viu, pode não ser tão óbvio. Como eu disse no início do artigo, programas mal-escritos costumam tentar acessar áreas do sistema que não são acessíveis para usuários comuns. Isso quer dizer que, se o problema que está acontecendo com o jogo tem a ver com essa peculiaridade, a primeira coisa a procurar é por erros de acesso negado.
 
-![Monopoly Access Denied](process_monitor_e_o_monopolio_malcriado_monopoly_procmon_access_denied1.png)
+"Monopoly Access Denied"
 
-![Monopoly Access Denied 2](process_monitor_e_o_monopolio_malcriado_monopoly_procmon_access_denied2.png)
+"Monopoly Access Denied 2"
 
 A primeira busca retorna uma chave no registro referente às propriedades de joystick. Como não estou usando joysticks, podemos ignorar este erro por enquanto e passar adiante.
 
@@ -8924,13 +8924,13 @@ Monopoly.log BUILTIN\Usuários:F
 start monopolyclassic.exe
 ```
 
-![Monopoly](process_monitor_e_o_monopolio_malcriado_monopoly_screenshot.jpg)
+"Monopoly"
 
 Ora essa, estou conseguindo rodar o jogo! Isso quer dizer que nosso único problema, o acesso a esse arquivo, foi resolvido. Sabendo que um arquivo de log provavelmente não será executado por nenhuma conta privilegiada, podemos deixá-lo com acesso irrestrito para todos.
 
 Para ter certeza que isso resolveu o problema, uma segunda auditoria de execução executada pelo Process Monitor pode nos revelar mais detalhes.
 
-![Monopoly](process_monitor_e_o_monopolio_malcriado_monopoly_procmon_find2.png)
+"Monopoly Find"
 
 ```
 MonopolyClassic.exe
@@ -8999,7 +8999,7 @@ I know what you going to think about this one: "silly trick". That's why I just 
 
 Let's say you have to manage a big solution in Visual Studio made of more than 30 projects, and needs to rebuild all them. Suddenly, something goes wrong. The question is: how to discover, in a heartbeat, what project has failed?
 
-![Find Error in VS projects using regex](silly_regex_trick_finding_the_project_who_failed_inside_a_vs_big_solution_find_error_regex2.png)
+"Find Error in VS projects using regex"
 
 Note that you need to enable "Regular Expressions" option in the Find Dialog (not shown here).
 
@@ -9583,7 +9583,7 @@ Isso em fontes pequenos é facilmente identificável. Em fontes maiores, é prec
 
 Após o processo de preprocessamento, de todos os arquivos indicados terem sido incluídos, de todas as macros terem sido substituídas, todas as constantes colocadas literalmente no código-fonte, temos  o que é chamado unidade de compilação, que será entregue ao compilador, que, por sua vez, irá começar a análise sintática de fato, descobrindo novos erros que podem ou não (como vimos) ter a ver com a fase anterior. A figura abaixo ilustra esse processo, com algumas trocas conhecidas:
 
-![Preprocessor](os_diferentes_erros_na_linguagem_c_preprocessor.gif)
+"Preprocessor"
 
 Dica: quando o bicho estiver pegando, e tudo o que você sabe sobre linguagem C não estiver te ajudando a resolver um problema, tente gerar uma unidade de compilação em C e analisar sua saída. Às vezes o que é claro no código pode se tornar obscuro após o preprocessamento. Para fazer isso no VC++ em linha de comando, use o parâmetro /E.
 
@@ -9646,7 +9646,7 @@ Alguns erros mais encontrados aqui são as funções não encontradas por falta 
 
 Do ponto de vista técnico, é a fase onde o linker junta todos os arquivos-objeto especificados, encontra as funções, métodos e classes necessárias e monta uma unidade executável, como ilustrado pela figura abaixo.
 
-![Linker](os_diferentes_erros_na_linguagem_c_linker.gif)
+"Linker"
 
 Dica: uma LIB, ou biblioteca, nada mais é que uma coleção de arquivos-objeto que já foram compilados, ou seja, já passaram pelas duas primeiras fases, mas ainda não foram linkeditados. Muitas vezes é importante manter compatibilidade entre LIBs e os projetos que as usam, de forma que o processo de linkedição ocorra da maneira menos dolorosa possível.
 
@@ -9970,11 +9970,11 @@ Assim como adquiri o Houaiss, também comprei o Babylon, um programa-dicionário
 
 O Babylon possui um mecanismo para criação de dicionários chamado Babylon Builder. É muito simples e fácil de usar (além de ser gratuito). Sabendo que possuo ambas as licenças desses dois programas me sinto mais aliviado em tentar desencriptar a base de dados do primeiro para construir um dicionário para o segundo, e assim realizar meu sonho de consumo: um Babylon com um dicionário de peso!
 
-![Licença do Houaiss](conversor_de_houaiss_para_babylon_parte_1_houaiss_license.png)
+"Licença do Houaiss"
 
 É necessário que, na hora da instalação, seja escolhida a opção de copiar os arquivos para o disco. Estarei utilizando o path padrão de um Windows em português, que é "C:\Arquivos de Programas\Houaiss".
 
-![Instalação do Houaiss](conversor_de_houaiss_para_babylon_parte_1_houaiss_install.png)
+"Instalação do Houaiss"
 
 A estrutura de diretórios interna da instalação é bem simples:
 
@@ -9990,7 +9990,7 @@ Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobr
 for %i in (*.*) do type %i | less
 ```
 
-![Saída dos arquivos do dicionário](conversor_de_houaiss_para_babylon_parte_1_cmd.gif)
+"Saída dos arquivos do dicionário"
 
 Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função ReadFile quando clicarmos em uma definição de palavra.
 
@@ -10685,7 +10685,7 @@ Se notarmos no artigo anterior, veremos que o conteúdo do arquivo lido não é 
 
 A leitura foi feita e o texto direto do arquivo veio em claro? O que está acontecendo? Quando abro pelo comando type ele aparece todo obscuro...
 
-![Saída dos arquivos do dicionário](o_misterio_das_pilhas_diferentes_cmd.gif)
+"Cmd do mistério das pilhas diferentes"
 
 Sim, alguma coisa não-trivial acaba de acontecer. Testei esse procedimento no laptop e no desktop, sendo que esse problema aconteceu apenas no desktop. Dessa vez a curiosidade falou mais alto que a preguiça, e tive que abrir as duas máquinas e comparar os resultados.
 
@@ -10777,7 +10777,7 @@ Extension DLL chain:
 
 OK. A versão instalada no desktop é bem antiga. Pode ser um indício. Fiz então a atualização e comparei novamente a saída de version. Tudo igual. Decidi então usar aquela lógica cética que é desenvolvida por quem costuma depurar coisas sinistras e esotéricas por anos e anos e não duvida de mais nada, mas também acredita piamente que tudo tem um motivo. Se não está aparente, basta descobri-lo. E foi o que eu fiz. Gerei dois dumps distintos, um no laptop e outro no desktop. Ambos estavam com os ponteiros de instrução apontados exatamente para a entrada da função ReadFile, início de todo esse problema. Copiei o dump do desktop para o laptop e vice-versa.
 
-![WinDbg Nerd](o_misterio_das_pilhas_diferentes_windbg_nerd.gif)
+"WinDbg Nerd"
 
 Abri o dump do desktop no laptop: tudo funcionando. Abri o dump do laptop no desktop: mesmo erro. Conclusão óbvia: é algo relacionado com o WinDbg no desktop, uma vez que o estado da pilha que era mostrado corretamente no laptop em ambos os dumps falhava duplamente na máquina desktop.
 
@@ -10809,21 +10809,21 @@ A falta de prática e estudos pesa muito para um enxadrista amador, já que faci
 
 Por isso mesmo aprendi em um livro chamado Xadrez sem Mestre, de J. Carvalho, uma técnica universal e independente de decoreba que levei pra vida toda, e tem me trazido algumas partidas no mínimo interessantes. Se trata de analisar o esquema de influências em cima do tabuleiro. Influências, nesse caso, se refere ao poder de fogo das peças amigas e inimigas. O interessante é que deixa-se de lado a análise das próprias peças! Se estuda tão somente o tabuleiro, e apesar de parecer um método difícil, ele melhora sua percepção gradativamente, e é responsável por muitas das partidas simultâneas jogadas às cegas por alguns ilustres GMIs.
 
-![Chess Board](influence_board_influence_board.png)
+"Chess Board"
 
 (Atenção: esse artigo trata sobre xadrez admitindo que o leitor saiba as regras básicas do jogo, assim como um pouco de estratégia. Se você chegou até aqui e está viajando, sugiro que pare de ler e vá jogar uma partida.)
 
 Vamos supor que a posição no tabuleiro em um dado momento seja a seguinte:
 
-![Winboard Mate](influence_board_winboard_mate.png)
+"Winboard Mate"
 
 Ora, é um mate inevitável, não é? Agora imagine por um momento que você não tenha percebido isso, e precise de uma ajudinha para saber onde cada peça pode ir ou atacar no próximo lance.
 
-![Winboard Mate (com influências)](influence_board_winboard_mate_influence.png)
+"Winboard Mate (com influências)"
 
 Agora ficou muito mais fácil de perceber que a única saída do rei não possui nenhuma proteção, já que tanto o peão quanto o próprio rei não podem fazer muita coisa se a dama atacar a diagonal vulnerável. E ela pode fazer isso.
 
-![Winboard Mate Final](influence_board_winboard_mate_final.png)
+"Winboard Mate Final"
 
 Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o "WinBoard", um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
 
@@ -10837,9 +10837,9 @@ cmake --build .
 
 Após compilado, basta rodar o winboard.exe gerado; haverá uma nova opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
 
-![WinBoard Options](influence_board_winboard_options3.png)
+"WinBoard Options"
 
-![Winboard Blindfold e Influence](influence_board_winboard_blindfold.png)
+"Winboard Blindfold e Influence"
 
 Bom divertimento!
 
@@ -10855,7 +10855,7 @@ Um "artigo do Alex Ionescu" falava sobre esse aplicativo linha de comando usado 
 
 "E se eu usasse esse carinha para iniciar o notepad?"
 
-![Wordclip](como_rodar_qualquer_coisa_como_servico_wordclip.jpg)
+"Wordclip"
 
 Bem, o Bloco de Notas é a vítima padrão de testes. Logo, a linha a seguir provaria que é possível rodá-lo na conta de sistema:
 
@@ -10883,7 +10883,7 @@ sc create Msvcmon binpath= "%binpath%" type= interact type= own
 
 Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, que por sua vez irá rodar o msvcmon.exe que queríamos, e ficará esperando inocentemente pela sua "funesta morte" pelo SCM.
 
-![MsvcMon Service](como_rodar_qualquer_coisa_como_servico_msvcmon_service.png)
+"MsvcMon Service"
 
 
 # Quarto encontro C++
@@ -10967,7 +10967,7 @@ O FreeDOS é um projeto de fonte aberto que procura criar uma réplica do sistem
 
 Para conseguirmos essa proeza é necessário reiniciarmos a máquina com algum sistema 16 bits, de preferência que caiba em um disquete. Junto com ele basta uma cópia do debug.com. Após reiniciarmos e aparecer o prompt de comando, podemos chamar o depurador e começar a diversão:
 
-![Debug](depuracao_da_mbr_debug.com.png)
+"Debug"
 
 A MBR fica localizada no primeiro setor do HD ativo (master). A BIOS automaticamente procura esse HD e faz a leitura usando a INT13, função da própria BIOS para leitura de disquetes e derivados.
 
@@ -11008,7 +11008,7 @@ Essa organização é diferente do endereço inicial da BIOS, que é por padrão
 
 Após definir corretamente os registradores, tudo que temos que fazer é escrever uma chamada à INT13 no endereço atual e executar. O conteúdo inicial do disco será escrito no endereço de memória 0000:7E00. Após isso trocamos o IP atual para esse endereço e começamos a depurar a MBR, como se estivéssemos logo após o boot da máquina.
 
-![Debug em ação](depuracao_da_mbr_debug_debug.png)
+"Debug em ação"
 
 Além da MBR, muitas vezes é preciso depurar a própria BIOS para descobrir o que está acontecendo. Nesse caso, tudo que precisamos fazer é colocar o ponteiro de próxima instrução para a região de memória 0xFFFF0, que traduzido para segmento/offset fica f000:fff0 (mais explicações sobre isso talvez em um futuro artigo).
 
@@ -11055,7 +11055,7 @@ MAQUINA-PROGRAMADOR66\caloni (tcp 222.234.235.236:1974) connected at Mon Mar 24 
 0:000>.echo Putz, sei lá. Acho que vou tomar mais café...
 ```
 
-![Windbg Remote](windbg_a_distancia_windbg_remote.gif)
+"Windbg Remote"
 
 No ambiente do cliente é muito mais hostil; é salutar e recomendável utilizar um servidor genérico que não imprima coisa alguma na tela "do outro lado". Após iniciar o depurador na máquina que está dando o problema, o programador tem virtualmente uma série de comandos úteis que podem ser executados remotamente, como iniciar novos processos, se anexar a processos já existentes, copiar novas versões de executáveis, etc.
 
@@ -11083,7 +11083,7 @@ cdb -QR \\maquina-vitima
 
 O exemplo acima utilizou uma conexão TCP para montar o ambiente de depuração remota, o que possibilita inclusive correção de problemas via internet. No entanto, nem sempre podemos nos dar ao luxo de abrir portas não-autorizadas, requisito mínimo para estabelecer a conexão com o depurador. Nesse caso, podemos configurar conexões pela porta serial, por pipes nomeados, por SSL. Se for realmente necessário usar a pilha TCP, mas o lado servidor possui um firewall, ainda assim é possível configurar este tipo de conexão com a opção clicon. Dessa forma, quem estabelece a conexão é o servidor, evitando que o cliente fique bloqueado de acessar o ambiente de depuração.
 
-![Windbg Remote](windbg_a_distancia_windbg_remote2.gif)
+"Windbg Remote 2"
 
 É importante notar que o dbgsrv.exe não é um depurador esperto, no sentido que ele não vai carregar os símbolos para você. Isso é importante na hora de definir qual estratégia utilizar, pois nem sempre os símbolos estarão disponíveis na máquina com problemas, e nem sempre estarão com o desenvolvedor.
 
@@ -11479,7 +11479,7 @@ O nosso rústico importador fez o trabalho de desofuscar todos os 53 arquivos us
 
 Partindo do bom senso, abriremos o arquivo maior, deah001.txt, e abriremos o próprio dicionário Houaiss, em busca de um padrão que faça sentido. Como poderemos ver na figura abaixo, o padrão inicial não é nem um pouco complicado.
 
-![Houaiss Analysis](conversor_de_houaiss_para_babylon_parte_2_houaiss_analysis.png)
+"Houaiss Analysis"
 
 As duas primeiras observações do formato do arquivo nos dizem que (1) o primeiro caractere de cada linha indica o conteúdo dessa linha, e que (2) a formatação dos caracteres é feita dentro de um par de chaves {}.
 
@@ -11585,11 +11585,11 @@ Algumas partes ainda estão feias, eu sei. Mas, ei, isso é um código de ráque
 
 A partir dessas duas funções é possível dissecar o primeiro arquivo do dicionário, e assim, construirmos a primeira versão interessante do Houaiss no Babylon.
 
-![Houaiss Babylon Installing](conversor_de_houaiss_para_babylon_parte_2_houaiss_babylon_installing.png)
+"Houaiss Babylon Installing"
 
 Como é normal a qualquer dicionário do Babylon, podemos instalá-lo simplesmente clicando duas vezes no arquivo (em uma máquina com Babylon previamente instalado).
 
-![Houaiss Babylon](conversor_de_houaiss_para_babylon_parte_2_houaiss_babylon.png)
+"Houaiss Babylon"
 
 O projeto atual está um tanto capenga, mas já desencripta os arquivos do Houaiss e gera o projeto do Babylon Builder sozinho. Em anexo já está um projeto do Babylon Builder. Basta copiar o arquivo Houaiss.txt para a pasta do projeto e gerar o projeto do Babylon.
 
@@ -12133,7 +12133,7 @@ debug
 
 Os comandos mais úteis são o r (ver ou alterar registradores), o t/p (executar passo-a-passo), o d (exibir memória), o u (desmontar assembly) e o a (montar assembly). Ah, não se esquecendo do ? (ajuda).
 
-![Teste do debug 16 bits](aprendendo_assembly_com_o_depurador_debug_testpng.png)
+"Teste do debug 16 bits"
 
 Outro ensinamento bem interessante diz respeito à pilha. Aprendemos sempre que a pilha cresce de cima pra baixo, ou seja, de endereços superiores para valores mais baixos. Também vimos que os registradores responsáveis por controlar a memória da pilha são o sp (stack pointer) e o ss (stack segment). Pois bem. Vamos fazer alguns testes para ver isso acontecer.
 
@@ -12237,7 +12237,7 @@ USER32!MessageBoxW:
 ModLoad: 75f50000 7604d000   C:\WINDOWS\system32\BROWSEUI.dll
 ```
 
-![WinDbg x Notepad](aprendendo_assembly_com_o_depurador_windbgxnotepad.png)
+"WinDbg x Notepad"
 
 Aposto que você sabe em qual dos três botões eu cliquei =)
 
@@ -13293,7 +13293,7 @@ Os depuradores do pacote Debugging Tools (especialmente o ntsd e o cdb) suportam
 
 Para isso podemos nos utilizar do parâmetro -d, que manda o depurador redirecionar toda saída e controle para o depurador de kernel. Para que isso funcione o depurador já deve estar atachado no sistema-alvo. A coisa funciona mais ou menos assim:
 
-![WinDbg User Kernel Debug](kernel_mode_user_mode_windbg_user_kernel.png)
+"WinDbg User Kernel Debug"
 
 Com essa configuração temos a vantagem de ter o sistema congelado só pra nós, ao mesmo tempo que conseguimos depurar nosso processo fujão, passo-a-passo.
 
@@ -13307,7 +13307,7 @@ gflags /p /enable servico.exe /debug "c:\path\ntsd.exe -d"
 
 Para entender o fluxo de navegação pelo mundo kernel-user misturados é preciso dar uma lida bem profunda na ajuda do Debugging Tools para entender como as coisas estão funcionando nessa configuração milagrosa que estamos usando. Procure por "Controlling the User-Mode Debugger from the Kernel Debugger". Também é possível ouvir falar parcamente sobre isso no livro Advanced Windows Debugging na parte "Redirecting a User Mode Debugger Through a Kernel". A vantagem é que vem de brinde uma bela figura para pendurar em um quadro no escritório (embora eu possa jurar que já vi essa figura na ajuda do WinDbg):
 
-![windbg_user_kernel2.png](kernel_mode_user_mode_windbg_user_kernel2.png)
+"windbg_user_kernel2.png"
 
 Como podemos notar, o controlador de tudo é o kernel debugger. Assim que o depurador de processo entra em ação, ele se comunica com o depurador de kernel que entra no modo user mode prompt, pedindo entrada para ser redirecionada ao depurador de processo. Existem alguns caminhos para sair de um estado e entrar em outro, como o comando .breakin e o .sleep.
 
@@ -13642,7 +13642,7 @@ sc create Msvcmon binpath= "%binpath%" type= interact type= own
 
 Now, when we start Msvcmon service, the process cmd.exe will be create, that on the other hand will run the msvcmon.exe target process. Cmd in this case will only wait for its imminent death.
 
-![MsvcMon Service](how_to_run_anything_as_a_service_msvcmon_service.png)
+"MsvcMon Service English"
 
 
 # Como criar uma LIB no Visual Studio
@@ -13660,7 +13660,7 @@ A partir daí, para chegar em uma LIB, já é meio caminho andado.
 
 Boa pergunta. Uma LIB, ou biblioteca, nada mais é do que um punhado de ".obj" colocados todos no mesmo arquivo, geralmente um ".lib". Esses ".obj" são o resultado da compilação de seus respectivos ".c" de origem.
 
-![Salada Lib](como_criar_uma_lib_no_visual_studio_salada2.gif)
+"Salada Lib"
 
 Alguns acreditam ser esse negócio de LIB uma pura perda de tempo, pois existem trocentas configurações diferentes (e incompatíveis) e trocentas compilações diferentes para gerenciar. Outros acham que o problema está no tempo de compilação, enquanto outros defendem o uso dos ".obj" de maneira separada. Esse artigo não presume que nem um nem outro seja melhor. Apenas ensina o que você precisa saber para criar sua primeira LIB usando o Visual Studio Express.
 
@@ -13668,15 +13668,15 @@ Vamos lá?
 
 Após abrir o VS, tudo que precisamos fazer é ir em New, Project, e escolher a configuração de "Win32 Project":
 
-![MyFirstLib](como_criar_uma_lib_no_visual_studio_myfirstlib.png)
+"MyFirstLib"
 
 A seguir, escolhemos nas opções do assistente criar uma "Static library", e desmarcamos a opção de "Precompiled header" para evitar má sorte logo no primeiro projeto de LIB (má sorte significa horas procurando erros incríveis que você só irá fazer desaparecer se recompilar tudo com o uso do famigerado "Rebuild All"; espero que isso dê certo para você, para mim não tem funcionado).
 
-![MyFirstLib2](como_criar_uma_lib_no_visual_studio_myfirstlib2.png)
+"MyFirstLib2"
 
 E pronto! Temos um projeto de LIB completo, funcional e... um tanto inútil. Mas, calma lá. Ainda não terminamos.
 
-![MyFirstLib3](como_criar_uma_lib_no_visual_studio_myfirstlib3.png)
+"MyFirstLib3"
 
 Conforme o programador consegue se livrar das maldições das mil dependências, aos poucos ele vai conseguindo novas funções genéricas e encaixáveis para colocar em sua coleção de objs.  Essa com certeza não é uma tarefa fácil, mas ei, quem disse que esse trampo de programador seria fácil?
 
@@ -13720,11 +13720,11 @@ MyFirstLib - 0 error(s), 0 warning(s)
 
 Para usar uma LIB temos inúmeras maneiras de fazê-lo. A mais simples que eu conheço é criar um novo projeto no mesmo Solution de sua LIB. Um console, por exemplo:
 
-![MyFirstLib4](como_criar_uma_lib_no_visual_studio_myfirstlib4.png)
+"MyFirstLib4"
 
-![MyFirstLib5](como_criar_uma_lib_no_visual_studio_myfirstlib5.png)
+"MyFirstLib5"
 
-![MyFirstLib6](como_criar_uma_lib_no_visual_studio_myfirstlib6.png)
+"MyFirstLib6"
 
 Se você seguiu todos os passos direitinho, e eu estou assumindo que você já sabia como criar um projeto console, sua saída da compilação talvez seja mais ou menos essa:
 
@@ -13745,9 +13745,9 @@ Dois erros! Ele não achou os símbolos mult e sum. Mas eles estão logo ali! E 
 
 Nada a temer: tudo que temos que fazer é falar para o Solution que o projeto myfirstcmd depende do projeto myfirstlib:
 
-![MyFirstLib7](como_criar_uma_lib_no_visual_studio_myfirstlib7.png)
+"MyFirstLib7"
 
-![MyFirstLib8](como_criar_uma_lib_no_visual_studio_myfirstlib8.png)
+"MyFirstLib8"
 
 ```
 ------ Build started: Project: MyFirstCmd, Configuration: Debug Win32 ------
@@ -13820,7 +13820,7 @@ Fico contente que o tutorial tenha sido útil para quem está começando. Essa f
 
 Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
 
-![Seminário CCPP Portabilidade Performance](resultado_do_seminario_ccpp_seminario.jpg)
+"Seminário CCPP Portabilidade Performance"
 
 Começo esse artigo agradecendo a todos os que direta e indiretamente participaram para o sucesso do evento, entre eles os organizadores, o carro-chefe responsável por acordar o espírito C++ da galera no início do ano, os palestrantes e, claro, óbvio, toda a comunidade C++ que participou em corpo (vulgo hardware) e alma (vulgo software).
 
@@ -13830,7 +13830,7 @@ Vamos às palestras!
 
 ## Dicas e Truques de Portabilidade, por Wanderley Caloni
 
-![Seminário Caloni](resultado_do_seminario_ccpp_seminario_caloni.jpg)
+"Seminário Caloni"
 
 É muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
 
@@ -13840,7 +13840,7 @@ Por fim, foram apresentadas algumas sugestões movidas pela experiência e estud
 
 ## Programação Concorrente com C++, por Fábio Galuppo
 
-![Seminário Galuppo](resultado_do_seminario_ccpp_seminario_galuppo.jpg)
+"Seminário Galuppo"
 
 Para quem está acostumado com os temas geralmente "gerenciados" de Fábio Galuppo com certeza deve ter se surpreendido com a descrição teórica dos inúmeros problemas que cercam a vida do programador multithreading. O palestrante partiu do mais simples, o conceito de threads, conceito que, segundo ele mesmo, pode ser explicado em 15 minutos, para algo mais sutil e que gera muitos erros escondidos: o conceito de locks (semáforos, mutexes, etc).
 
@@ -13854,7 +13854,7 @@ Mais uma vez voltando à teoria, a palestra foca mais uma vez em bons princípio
 
 ## Programação Multiplataforma Usando STL e Boost, por Rodrigo Strauss
 
-![Seminário Strauss](resultado_do_seminario_ccpp_seminari_strauss.jpg)
+"Seminário Strauss"
 
 Como sempre, Strauss está apaixonado pelo Boost (e a STL). Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
 
@@ -13872,13 +13872,13 @@ Update 2026-02-13. Hoje o shared_ptr já faz parte da STL e temos conversão ent
 
 ## Técnicas de Otimização de Código, por Rodrigo Kumpera & André Tupinambá
 
-![Seminário Kumpera](resultado_do_seminario_ccpp_seminario_otimizacao1.jpg)
+"Seminário Kumpera"
 
 Aparentemente o que pensei que seria, em minha sincera opinião, um desastre (dois palestrantes falando sobre a mesma coisa) se transformou em uma combinação estupenda de teoria e prática aplicadas à arte de otimização de código. Rodrigo e André conseguiram destrinchar o tema harmoniosamente, sempre dividido entre técnicas avançadas (algumas demonstradas pela experiência dos palestrantes) e teoria disciplinar, que visa alertar o wannabe que otimizar pode ser uma coisa boa; porém, preste atenção aos que já fizeram isso têm a dizer.
 
 Com uma didática impecável, o novato nesse tema (como eu) pôde ver as dificuldades de conseguir determinar o objetivo de todo otimizador de código que, segundo eles, deve estar sempre atento na máxima de que "toda otimização é na verdade uma troca". Ou seja, se o programador quer melhor processamento, pagará com memória, se quiser otimizar espaço na RAM, irá gastar mais com processamento e/ou disco, e assim por diante.
 
-![Seminário Tupinambá](resultado_do_seminario_ccpp_seminario_otimizacao2.jpg)
+"Seminário Tupinambá"
 
 Foram apresentados exemplos reais de otimização, além de dicas muito importantes sobre o comportamento das compilações de cada dia.  Você sabia, por exemplo, que ao declarar em escopos mais locais suas variáveis usadas apenas em pequenos trechos de código estará dando uma poderosa dica ao compilador para que ele consiga usar os registradores no máximo de sua capacidade?
 
@@ -14013,7 +14013,7 @@ struct Element
 
 Por outro lado, e mais importante ainda, é ela que permite que as funções sejam organizadas em unidades de tradução (cpps) distintas para depois se unirem durante o link, mesmo que entre elas exista uma relação de dependência indissociável:
 
-![C Dependency](declaracao_x_definicao_cdepends.gif)
+"C Dependency"
 
 Existem diversas formas de entender esses dois conceitos. Eu prefiro explicar pela mesma experiência que temos quando descobrimos a divisão hardware/software:
 
@@ -14351,7 +14351,7 @@ Até que veio o dia de juntar.
 
 O processo de merge de um controle de fonte supõe que os branches começaram em algum ponto em comum; do contrário não há como o controlador saber as coisas que mudaram em paralelo. Pois é achando a modificação ancestral, pai de ambos os branches, que ele irá medir a dificuldade de juntar as versões novamente. Se não existe ancestral, não existe análise. Como exemplificado na figura:
 
-![Branches sem ancestral](como_fazer_merge_de_projetos_distintos_no_bazaar_branches_sem_ancestral.gif)
+"Branches sem ancestral"
 
 Acontece que existe um plugin esperto que consegue migrar revisões (commits) entre branches sem qualquer parentesco. Não me pergunte como ele faz isso. Mas ele faz. E foi assim que resolvemos o problema dos branches órfãos.
 
@@ -14503,7 +14503,7 @@ C:\Tests\linux>
 
 O resultado:
 
-![Branches com replay](como_fazer_merge_de_projetos_distintos_no_bazaar_branches_com_replay.gif)
+"Branches com replay"
 
 # Alinhamento de Memória Portável
 2008-06-18 computer blog
@@ -15325,7 +15325,7 @@ Depois de vários comentários de pessoas tendo problemas em converter seus dici
 
 Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:
 
-![Erro no Babylon](segunda_versao_do_houaiss2babylon_houaiss2babylonerror.png)
+"Erro no Babylon"
 
 O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema comprando um.
 
@@ -15497,13 +15497,13 @@ Update 2026-03-13: a última versão disponível é de 2006, então talvez não 
 depends meu_executavel.exe
 ```
 
-![Depends meu executável](o_caso_da_funcao_de_delay_load_desaparecida_depends_meu_executavel.png)
+"Depends meu executável"
 
 Nota 2026-02-20. Hoje eu não recomendo usar esta ferramenta, que está praticamente descontinuada. Aprenda a usar o dumpbin, das ferramentas do Visual Studio.
 
 Se a função ou DLL não existe no sistema, o seguinte erro costuma ocorrer (isso depende da versão do Sistema Operacional):
 
-![Loader error](o_caso_da_funcao_de_delay_load_desaparecida_loader_erro.png)
+"Loader error"
 
 Mas nem tudo está perdido!
 
@@ -15531,11 +15531,11 @@ meu_executavel.exe - 3 error(s), 0 warning(s)
 
 Isso, é claro, depois de ter checado e rechecado a existência da LIB de Delay Load na lista de LIBs a serem lincadas:
 
-![delayimp.lib](o_caso_da_funcao_de_delay_load_desaparecida_delayimp.png)
+"delayimp.lib"
 
 Acontece que eu conheço algumas ferramentas que podem sempre me ajudar em situações de compilação e linque: Process Monitor e dumpbin. O Process Monitor pode ser usado para obter exatamente a localização da LIB que estamos tentando verificar:
 
-![Delay imp ProcMon](o_caso_da_funcao_de_delay_load_desaparecida_delayimpprocmon.png)
+"Delay imp ProcMon"
 
 Após localizar o local, podemos listar seus símbolos, mais precisamente a função "delayLoadHelper":
 
@@ -15673,7 +15673,7 @@ int main()
 }
 ```
 
-![Jurassic Park](aprenda_a_usar_sua_api_jurassicpark.png)
+"Jurassic Park"
 
 Nem sempre o handle que obtemos é fechado com CloseHandle. As funções abaixo retornam handles que devem ser desalocados com as funções à direita:
 
@@ -16316,7 +16316,7 @@ The needed steps to test the code above are:
 
 After the attach process, the debug port is occupied, and the communication between the debugger and debuggee is made throug LPC. Bellow we can see a little illustration of how things work:
 
-![Debug port](antidebugging_using_the_debugport_debug_port2.gif)
+"Debug port"
 
 Basically the process stay receiving debugging events (through the LPC message queue) until the final event, the process exit. Notice that if someone try to terminate the protector process the debuggee process will be terminated, too.
 
@@ -16413,7 +16413,7 @@ After the program has been running, every try to attach will show a detection me
 windbg -pn antiattach.exe
 ```
 
-![Espertinho](antidebugging_during_the_process_attach_espertinho.png)
+"Espertinho"
 
 #### Specific quirks in the code
 
@@ -17150,11 +17150,11 @@ body
 
 O resultado:
 
-![.cmdtree](reuna_seus_comandos_mais_usados_no_windbg_com_cmdtree_cmdtree.png)
+".cmdtree"
 
 E podemos usar essa janela no nosso WinDbg, cada vez mais bonitinho e cada vez mais "WYSIWYG":
 
-![.cmdtree2.png](reuna_seus_comandos_mais_usados_no_windbg_com_cmdtree_cmdtree2.png)
+".cmdtree2.png"
 
 Realmente não há segredos em seu uso. Esse artigo foi apenas um patrocínio do clube do WinDbg.
 
@@ -17246,7 +17246,7 @@ Um job é um objeto "novo" no kernel do Windows 2000 em diante, e se prontifica 
 
 A abstração mais coerente que eu consigo tirar de um job é como um trabalho a ser executada por um ou mais processos. O objeto job controla a criação, o término e as exceções que ocorrem dentro dele mesmo.
 
-![Windows Jobs](windows_jobs_com_completion_port_job.gif)
+"Windows Jobs"
 
 Entre as funções mais úteis de um job estão limitar o tempo de execução do conjunto de processos, o número de handles/arquivos/outros objetos abertos, limite de memória RAM ocupada e a possibilidade de terminar todos os processos de uma só vez.
 
@@ -17533,7 +17533,7 @@ Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da
 
 No entanto, num belo dia, qual não foi minha surpresa ao notar umas pastinhas chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
 
-![](como_usar_wtl_com_o_atl_do_ddk_OoiV6X7.png)
+"Como usar WTL com o ATL do DDK"
 
 O fato é que eles fizeram isso, e agora é possível ter o WTL mais novo compilado com o WDK. E nem é tão difícil assim.
 
@@ -17543,9 +17543,9 @@ A primeira coisa a fazer é obter o tal do WDK. Para variar um pouco, agora exis
 
 Após instalado, em qualquer lugar da sua escolha, configure no seu Visual Studio o caminho de onde se encontra a pasta atl71 (ou a 30, ou a 21). Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
 
-![Configurando o diretório de cabeçalhos no Visual Studio.](como_usar_wtl_com_o_atl_do_ddk_TJyNrlE.png)
+"Configurando o diretório de cabeçalhos no Visual Studio."
 
-![Configurando o diretório de biblioteca no Visual Studio.](como_usar_wtl_com_o_atl_do_ddk_VLryS9L.png)
+"Configurando o diretório de biblioteca no Visual Studio."
 
 Isso vai fazer com que pelo menos os exemplos que vêem com o WTL compilem.
 
@@ -17760,13 +17760,13 @@ No teste acima o myprogram.exe é somente o cmd.exe renomeado. Um teste básico 
 
 Já fizemos isso logo acima. Se trata apenas de observar o programa funcionando. Ao mesmo tempo em que entendemos seu modus operandi coletamos pistas sobre suas entranhas. No caso do PsExec, que faz coisas além-mar, como redirecionar os pipes de entrada/saída de um programa console, iremos checar a existência de algum serviço novo na máquina-alvo e arquivos novos que foram copiados, além de opcionalmente dar uma olhada no registro. Ferramentas da própria SysInternals como Process Explorer e Process Monitor também são úteis nessa análise inicial.
 
-![Serviço do PsExec criado na máquina-alvo.](como_funciona_o_psexec_lCf4KiT.png)
+"Serviço do PsExec criado na máquina-alvo."
 
 Como podemos ver, um serviço com o nome de PsExec foi criado na máquina-alvo. Se procurarmos saber o caminho do arquivo que corresponde a esse serviço, tanto pelo Process Explorer ou o Service Manager, descobriremos que se trata de um arquivo no diretório do windows chamado psexecsvc.exe.
 
-![Instalação do Serviço PsExec na máquina-alvo no registro do Windows.](como_funciona_o_psexec_qo6PZWS.png)
+"Instalação do Serviço PsExec na máquina-alvo no registro do Windows."
 
-![Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\Windows.](como_funciona_o_psexec_2sSwUA9.png)
+"Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\Windows."
 
 Se o arquivo existe nessa pasta, então é óbvio que alguém o copiou. Resta saber como.
 
@@ -17917,7 +17917,7 @@ Comando concluído com êxito.
 
 Também podemos notar que, enquanto estamos parados depurando o processo psexec.exe, temos acesso ao compartilhamento admin$:
 
-![Compartilhamento admin$ disponível enquanto depuramos o PsExec.](como_funciona_o_psexec_vBGHXoC.png)
+"Compartilhamento admin$ disponível enquanto depuramos o PsExec."
 
 A análise desses fatos demonstra como é importante fazer as coisas, pelo menos na fase "iniciante",  bem lentamente, e entender a mudança de estado durante o processo. Nem sempre isso é possível, é verdade, ainda mais quando estamos falando de análise de kernel. Mas, quando as condições permitem, vale a pena pensar antes de fazer.
 
@@ -18172,9 +18172,9 @@ De acordo com o meu amigo Rafael, a melhor definição que usei até hoje para e
 
 Deve ter ficado óbvio, mas se não ficou: o armário é a memória RAM, as gavetas são váriáveis e as gavetas onde guardamos pedaços de papel são ponteiros, que não deixam de ser variáveis, e apontam para outras gavetas que são... adivinha? Outras variáveis!
 
-![Gavetas representando posições na memória.](basico_do_basico_ponteiros_pointers_drawer.gif)
+"Gavetas representando posições na memória."
 
-![Draft: Pointers, Strings and Arrays](basico_do_basico_ponteiros_draft_pointers_strings_arrays.jpg)
+"Draft: Pointers, Strings and Arrays"
 
 Outros conceitos que costumo utilizar é relacionar a memória RAM com a memória do programa e contar a memória como se contam carneirinhos. Dessa forma fica fácil pelo menos entender dois conceitos fundamentais na arte dos ponteiros: memória e endereço.
 
@@ -18211,7 +18211,7 @@ Um tipo nada mais é que do que uma forma (ô) de bolo, que molda a memória com
 
 A memória é qualquer lugar onde eu possa guardar alguma coisa. No artigo anterior era um punhado de gavetas. Mas poderiam muito bem ser caixas de presente. Ou um caderno. Ou até uma placa de memória RAM. O que sua criatividade quiser.
 
-![](basico_do_basico_tipos_sx9fYjS.gif)
+"Básico do básico: tipos"
 
 O importante no conceito de memória, computacionalmente falando, é saber que ela pode guardar qualquer tipo de informação, mas ela não sabe o que você está guardando. E eis que surge o segredo do tipo: ele conta para você, e seu programa, o que de fato está guardado na memória.
 
@@ -18266,7 +18266,7 @@ Como esse texto é guardado na memória de um computador, se ele só entende nú
 
 Através da nossa já conhecida tabela ASCII! Na verdade, números são armazenados na memória, mas por representarem as letras 'C', 'A', 'S' e 'A', são traduzidos de volta para o formato texto pelo Bloco de Notas, que conhece o que guardou na memória.
 
-![Bloco de Notas acessando memória RAM.](basico_do_basico_tipos_W9jtDwK.gif)
+"Bloco de Notas acessando memória RAM."
 
 #### A memória pode guardar qualquer coisa com números
 
@@ -18290,7 +18290,7 @@ Cadastro cad;
 
 Esses elementos, na memória, são um bando de número que, sem os tipos, não possuem significado algum, como podemos ver na depuração do programa abaixo:
 
-![Interpretação de memória de texto e números em um programa C.](basico_do_basico_tipos_interpretacao_de_memoria_texto_e_numeros.png)
+"Interpretação de memória de texto e números em um programa C."
 
 Note que os números não estão aqui representados em decimal, onde se esperaria 35 e 42, pois a representação formal da memória geralmente está no formato hexadecimal, transformando esses números em 0x23 e 0x2a, respectivamente. Para entender essa diferença cabe estudar um pouco sobre base numérica, outro tema básico do programador sólido.
 
@@ -18377,7 +18377,7 @@ Para nos comunicarmos com os alienígenas que usa dois símbolos poderíamos con
 ...
 ```
 
-![Os bichos-preguiça possuem dois dedos!](basico_do_basico_binario_jQTGnH6.gif)
+"Os bichos-preguiça possuem dois dedos!"
 
 O valor do número, como sabemos, depende de sua posição. Mas, calma lá! O 111 logo acima não é idêntico ao 111 que vimos anteriormente, pois mudamos a base! Agora só temos dois símbolos para representar números, quando antes tínhamos dez.
 
@@ -18534,7 +18534,7 @@ Antes de tudo, é importantíssimo lembrar que o foco aqui é apenas a arquitetu
 
 A CPU trabalha em conjunto com a memória RAM. Só que o acesso à essa memória, apesar de rápida, não é comparável à velocidade em que as coisas ocorrem dentro da própria CPU. Esse é apenas um dos motivos para a existência de um conjunto bem menor de memória que vive nas entranhas do processador, bem ao lado dele. São os chamados registradores.
 
-![Registradores da CPU](basico_do_basico_assembly_kcKufIn.gif)
+"Registradores da CPU"
 
 Os registradores são memória do tipo ultra-rápida que funciona no mesmo ritmo do processador. A maioria das instruções executadas pela CPU faz referência a pelo menos um registrador. E por um motivo muito simples: é o modelo de entrada-e-saída funcionando!
 
@@ -18552,15 +18552,15 @@ A operação acima é realizada através de microinstruções bem sucintas:
 
 4. Carregue memória x com valor do registrador 1
 
-![Os registradores da CPU em ação](basico_do_basico_assembly_N90ooMD.gif)
+"Os registradores da CPU em ação"
 
 É lógico que o sistema não se baseia apenas em movimentações simples de memória. Existem algumas abstrações que estão incrustadas no funcionamento da arquitetura. Uma das mais importantes é o conceito de pilha, vital tanto em arquitetura, quanto assembly, quanto linguagem C e muitas outras linguagens, também.
 
 Pilha é uma forma de armazenar memória em blocos empilhados um-a-um. Esses blocos são empilhados na ordem a, b, c e desempilhados na ordem c, b, a. Ou seja, quem foi empilhado por último será o primeiro a ser desempilhado. A analogia com uma pilha de pratos é óbvia e simples de imaginar.
 
-![Pratos de cozinha empilhados.](basico_do_basico_assembly_EmiZKdc.gif)
+"Pratos de cozinha empilhados."
 
-![Exemplo de pilha na memória.](basico_do_basico_assembly_wZ6kKs8.jpg)
+"Exemplo de pilha na memória."
 
 Para isso funcionar em termos de memória computacional, o programa reserva um espaço de memória com começo e fim que irá guardar os blocos empilhados. Além de ter começo e fim é necessário ter um marcador de onde estamos para empilhar o próximo item ou desempilhar o último.
 
@@ -19849,15 +19849,15 @@ A sobrecarga estática possui algumas desvantagens em relação ao sistema de no
 
 Em dois projetos usando Visual C++ 2008 e Borland C++ Builder 5 (última versão que funciona direito) eu fiz uma exportação da função soma em linguagem C (o fonte é um .c). Veja o resultado:
 
-![](name-mangling-borland-c.png)
+"Name mangling Borland C"
 
-![](name-mangling-vcpp-c.png)
+"Name mangling VC++ C"
 
 Já usando a linguagem C++ (o fonte é um .cpp) temos outro resultado totalmente diferente para nossas duas funções soma descritas no artigo anterior:
 
-![](name-mangling-borland-cpp.png)
+"Name mangling Borland C++"
 
-![](name-mangling-vcpp-cpp.png)
+"Name mangling VC++ C++"
 
 Se quiser tentar entender essas letrinhas bizarras, recomendo baixar projetos de exemplo. Se apenas entender que você não conseguirá juntar classes VC++ e Builder usando dllexport para tudo quanto é lado, então terminamos por aqui.
 
@@ -20074,7 +20074,7 @@ Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o 
 
 Todos os componentes principais desse boot podem ser visualizados de uma forma bem macro na figura abaixo.
 
-![](boot.png)
+"Boot"
 
 Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvolvedor de sistemas operacionais, um dia desses:
 
@@ -20105,15 +20105,15 @@ O meu primeiro artigo sobre o boot sem Windows foi 80% escrito com o que eu já 
 
 Nesse caso decidi salpicar a explicação com uma boa dose de reversing para aproveitarmos a caminhada e fuçarmos um pouco no funcionamento interno dos componentes de boot e ver no que dá. Antes de começar, porém, aviso que este não é um tratado sobre o sistema de boot. Eu diria que é apenas o resultado de algumas mexidas inconsequentes pelo disassembly do código de boot. Espero encontrar alguém tão curioso (ou mais) do que eu que compartilhe o que achou de todo esse processo. Antes de mais nada um mapinha para vermos até onde chegamos:
 
-![boot_map.png](o_boot_no_windows_pre_ntldr_boot_map.png)
+"boot_map.png"
 
 Pelo visto esse foi só o começo. O próximo passo é saber como do setor de boot chegamos ao NTLDR. O que não é nenhum segredo, uma vez que o NTLDR é um arquivo que fica na pasta raiz do sistema de arquivos. Como todos sabemos, qualquer assembly 16 bits de 400 bytes de tamanho consegue ler um arquivo de 250 KB na memória e executá-lo.
 
-![boot_components.png](o_boot_no_windows_pre_ntldr_YSNdf8w.png)
+"boot_components.png"
 
 Se o NTLDR não conseguir ser encontrado, o seguinte erro será exibido:
 
-![error_ntldr_missing.png](o_boot_no_windows_pre_ntldr_JNekHia.png)
+"error_ntldr_missing.png"
 
 Que usuário merece ver isso?
 
@@ -20131,15 +20131,15 @@ Se bem que, como esse é um quase-tutorial, vão abaixo apenas algumas dicas:
 
 - existe um campo onde é possível obter o offset de onde está o primeiro setor dessa partição (em setores);
 
-![finding_part_boot.png](o_boot_no_windows_pre_ntldr_EfbrmZd.png)
+"finding_part_boot.png"
 
 - uma simples conversão de Little Endian e de hexadecimal para decimal nos retorna o número do setor que precisamos;
 
-![converting_setor.png](o_boot_no_windows_pre_ntldr_qSx2aLD.png)
+"converting_setor.png"
 
 - o próprio HxD nos consegue levar para esse setor, de onde podemos selecioná-lo e salvá-lo em um arquivo!
 
-![first_partition_sector.png](o_boot_no_windows_pre_ntldr_mZoLCyZ.png)
+"first_partition_sector.png"
 
 Isso é tudo o que você precisa para fazer engenharia reversa do setor de boot. Bom divertimento!
 
@@ -20250,7 +20250,7 @@ Offset(h) 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
 
 Se fuçarmos por um tempo esse código podemos encontrar várias coisas interessantes, como por exemplo a mensagem que é exibida quando o setor de boot não contém a assinatura padrão 0x55 0xAA em seu final:
 
-![error_checking_part_sect_signature.png](o_boot_no_windows_pre_ntldr_7dZZZag.png)
+"error_checking_part_sect_signature.png"
 
 Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da "interrupção 0x13 função 0x42": a leitura estendida!
 
@@ -20301,7 +20301,7 @@ Enfim, todo esse assembly para fazer apenas uma coisa: achar o NTLDR na diretór
 
 Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.
 
-![Galinha Preta](o_boot_no_windows_ntldr_galinha_preta.jpg)
+"Galinha Preta"
 
 O nosso amigo NT Loader pode ser entendido através da leitura do já citado Windows Internals ou através de uma outra leitura que estou fazendo atualmente e que "pouquíssimos amigos blogueiros" irão se lembrar: o "livro da galinha preta"; formalmente conhecido como Windows Nt File System Internals.
 
@@ -20313,7 +20313,7 @@ Podemos aprender, por exemplo, que ele é carregado logo depois do NT Detect, qu
 
 O NTLDR é um executável "híbrido" que possui tanto código em modo real quanto código em modo protegido. Com isso podemos supor que é ele o responsável por entrar em modo protegido, uma tarefa que exige "alguns conhecimentos da arquitetura".
 
-![ntldr_phase.png](o_boot_no_windows_ntldr_mRuFXJA.png)
+"ntldr_phase.png"
 
 Além disso, como o próprio nome diz, ele tecnicamente "sobe" o sistema operacional, pois provê a comunicação entre o hardware (processador e periféricos da máquina) e o software (kernel e drivers de boot). O hardware é o que está espetado na máquina e o kernel é o arquivo ntoskrnl.exe; para a comunicação entre eles existe uma camada de abstração, o hal.dll.
 
@@ -20325,13 +20325,13 @@ Nesse ponto o nosso amigo loader faz o que todo mundo já fez na infância (não
 
 Como ele leu a lista de kernels bootáveis, é isso que ele exibe naquela famosa tela que qualquer um que depura o kernel vê:
 
-![é ele que exibe o menu de boot do sistema operacional??](o_boot_no_windows_ntldr_iJun9Gw.png)
+"é ele que exibe o menu de boot do sistema operacional??"
 
 Escolheu seu boot, é a partir daí que ele acha o executável do kernel: ntoskrnl.exe. Ele deve estar na pasta system32 (em ambientes 32 bits). Também é nesse momento que é carregada a HAL (hal.dll) e isola-se o hardware do software a partir daí. As DLLs que esses dois componentes dependem são identificadas e carregadas na memória.
 
 Agora é hora de abrir o registro. Quer dizer, parte dele. Dentro da pasta system32/config deve estar a "hive" SYSTEM, que é onde ficam os drivers que devem ser carregados a partir daí em vários níveis. Inicialmente são carregados os que possuem o valor Start igual a zero, como o driver Atapi (controlador de disco):
 
-![driver_atapi.png](o_boot_no_windows_ntldr_2ewkFhs.png)
+"driver_atapi.png"
 
 A partir daí vários componentes do kernel serão carregados progressivamente. Só que a partir do momento que é chamada a rotina interna KiInitializeKernel o NTLDR não tem mais nada pra fazer: o kernel, em sua forma básica e primitiva, está carregado.
 
@@ -20641,7 +20641,7 @@ Bom, no início comecei aprendendo o alfabeto. Alguns podem dizer que não há n
 
 A partir daí passei cerca de seis meses apenas treinando a escrita e leitura do cirílico, aprendendo a diferença de som dependendo do contexto, um caderno a tiracolo no meio do ônibus, do trem e do metrô escrevendo infinitas linhas incompreensíveis provavelmente por 99% das pessoas que cruzavam meu caminho e olhavam curiosas.
 
-![Meu caderninho de treinamento russo](russian_studies.jpg)
+"Meu caderninho de treinamento russo"
 
 Depois o idioma em si. Nessa fase resolvi apelar para um curso disponível no mosteiro S. Bento ministrado por uma russa autêntica, de S. Petersburgo. Ela não falava muito bem português, o que para mim era um "plus".
 
@@ -20752,11 +20752,11 @@ PROCESS 89068700  SessionId: 0  Cid: 0ec4    Peb: 7ffda000  ParentCid: 0b0c
 
 O comando "!peb" traz inúmeras informações sobre essa estrutura. Mas talvez estivéssemos interessados em coisas não mostradas por esse comando, mas "que existem na estrutura".
 
-![PEB ¿não-documentado¿](importando_tipos_de_outros_projetos_L3E4KSS.png)
+"PEB ¿não-documentado¿"
 
 Nesse caso, podemos criar um projeto vazio que contenha a definição da estrutura como acreditamos que esteja na versão do kernel que estamos depurando.
 
-![MyPEB](importando_tipos_de_outros_projetos_l4oLJHR.png)
+"MyPEB"
 
 Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição desse tipo. Tudo que precisamos fazer agora é carregar esse símbolo na sessão que estivermos depurando.
 
@@ -20912,15 +20912,15 @@ O problema consistia basicamente em usar a saída do RegMon para identificar e r
 
 Para iniciar, filtramos os resultados do RegMon para apenas capturar escritas no registro, não importando se falharam ou deram resultado.
 
-![Filtro no RegMon](restauranto_o_registro_Fz9QRP1.png)
+"Filtro no RegMon"
 
 A partir disso executamos o registro e desregistro do componente, além da restauração do IE6, responsável por limpar a bagunça. O processo responsável por registrar componentes é o regsvr32 e o responsável por limpar a bagunça, rundll32.
 
-![Restauração do IExplore](restauranto_o_registro_Ps7V57G.png)
+"Restauração do IExplore"
 
 Tendo a saída do RegMon exportada para formato texto, abrimos no Excel e filtramos o conteúdo pelo nome do processo. Note que existem duas instâncias de regsvr32 para usar, pois não sabemos em qual delas é danificado o registro.
 
-![Filtro no Excel](restauranto_o_registro_iEB0YQJ.png)
+"Filtro no Excel"
 
 Para cada um dos filtros copiamos apenas o endereço da chave alterada para dois arquivos texto: regsvr32.txt e ierestore.txt. Usaremos esse primeiro para encontrar ocorrências no segundo, provando que um modifica o que o outro consertou.
 
@@ -20952,13 +20952,13 @@ HKCR\AppID\{EE62DE09-3A23-46DB-8FA2-266088F329CD}
 
 Pronto. Parar macro. Terei que repetir isso dois milhões de vezes até o final do arquivo. Ora, então mando o Notepad++ repetir a minha macro até o final do arquivo e adio minha tendinite para os próximos anos.
 
-![Filtro no Notepad++](restauranto_o_registro_XOUfV9L.png)
+"Filtro no Notepad++"
 
 Só preciso agora renomear meu arquivo para .bat e executar. Posso redirecionar a saída da tela para um terceiro arquivo, de onde irei formatar minha lista de entradas no registro que foram adulteradas por ambos os programas (o registro do componente COM e a restauração do Internet Explorer).
 
 Nesse momento podemos ir tomar café. Bem melhor do que ficar horas e horas dando localizar, copiar, colar em todas as entradas do regsvr.
 
-![Tomando café](restauranto_o_registro_jBRCDmf.jpg)
+"Tomando café"
 
 Terminada a operação, abrimos o terceiro arquivo, retiramos as entradas insignificantes (por exemplo, o gerador de sementes de números randômicos) e os cabeçalhos do comando, algo bem fácil já que se trata do mesmo arquivo.
 
@@ -21046,25 +21046,25 @@ Os que eu mais uso no dia-a-dia são:
 
 #### qlog e qbrowse
 
-![Comando qlog do Bazaar](bazaar_grafico_kskAIzb.png)
+"Comando qlog do Bazaar"
 
 Diversão garantida. Por meio destes simples comandos podemos ver o histórico de commits e navegar pela árvore de pastas e arquivos com a anotação do último commit para cada elemento. Só para ter uma ideia de quanto uso isso, transformei-os em opções do Explorer.
 
-![Bazaar Shell Extension na Mão](bazaar_grafico_UoeYg7V.png)
+"Bazaar Shell Extension na Mão"
 
 Além da utilidade básica, de quebra, o qbrowse pode te levar para um qlog filtrado, e o qlog pode te levar a um diff gráfico, que é o próximo comando que eu iria mostrar.
 
-![Comando qbrowse do Bazaar](bazaar_grafico_ejnlqLn.png)
+"Comando qbrowse do Bazaar"
 
 #### qdiff
 
 Coisa linda de Deus. Existem dois modos de exibição, mas o padrão já é show de bola, mostrando as mudanças em todos os arquivos de um commit de uma só vez ou do arquivo/pasta especificado pelo comando. É lógico que é possível especificar qualquer faixa de commits que você quiser ver.
 
-![Comando qdiff do Bazaar](bazaar_grafico_PZW0KOr.png)
+"Comando qdiff do Bazaar"
 
 Uma desvantagem desse comando é que ele oculta o resto das linhas do fonte e não mostra de jeito nenhum (pelo menos não descobri ainda como fazer isso). Sendo assim, para uma análise mais detalhada das diferenças no código-fonte sempre use um editor externo que consiga comparar arquivos inteiros (eu uso o WinMerge). Você pode colocar esse comando na forma de um diff personalizado, com o uso do qconfig.
 
-![Comando qconfig do Bazaar](bazaar_grafico_TyYMS4s.png)
+"Comando qconfig do Bazaar"
 
 #### Bônus
 
@@ -21104,7 +21104,7 @@ Entre as mudanças mais esperadas, e entre as mais inesperadas, encontramos essa
 
 Hoje em dia é um trabalho um pouco tedioso encontrar qual dos drivers possuía a memória de endereço 0xB8915423, mas agora, juntando o interpretador de símbolos internos e o sistema de tooltips do Windbg, será possível passar o mouse sobre um endereço qualquer e ele mostrará imediatamente quem possui a memória, como ela foi alocada e qual seu conteúdo.
 
-![windbg_tooltips.png](novidades_no_windbg_7_fb4hw4x.png)
+"windbg_tooltips.png"
 
 Isso só é possível, é claro, com os símbolos corretamente carregados. E é uma mão na roda na hora de dar um feedback instantâneo para o suporte técnico quando der uma tela azul.
 
@@ -21601,7 +21601,7 @@ int main()
 }
 ```
 
-![Código Antes x Depois no Visual Studio](typedef_arcaico_gFNalqB.png)
+"Código Antes x Depois no Visual Studio"
 
 Da mesma forma, o uso de uma estrutura simples de tipos mantém a lista de nomes do seu projeto limpa e clara. Compare o visualizador de classes em projetos Windows com algo mais C++ para ter uma ideia.
 
@@ -21644,13 +21644,13 @@ Antigamente, as pessoas mandavam cartas umas para as outras. Carta, para você, 
 
 Para mandar um e-mail, usamos o nome da pessoa e o domínio em que seu e-mail é endereçado, ex: nome-da-pessoa@dominio.com.br. Para mandar uma carta usamos duas informações básicas: o nome da rua e o número da casa.
 
-![Endereço de uma carta](por_que_long_pointer_endereco_da_carta.png)
+"Endereço de uma carta"
 
 Consequentemente enviamos dois comandos ao carteiro: meu amigo, vá para a rua tal. Chegando lá, encontre o número 1065.
 
 Considere que estamos falando do mesmo bairro ou cidade, o que na minha analogia seria um computador e sua memória. Para enviar cartas para outros bairros em outras cidades (outros computadores em outras redes) teríamos que informar também outros dados, como nome da cidade e CEP.
 
-![Encontrando o caminho](por_que_long_pointer_getting_right_on_street.png)
+"Encontrando o caminho"
 
 Nesse exemplo também podemos usar o Juquinha do bairro para entregar a carta e economizarmos 10 centavos.
 
@@ -21658,7 +21658,7 @@ Agora, repare que interessante: em uma rua, cabem no máximo N casas. Se você t
 
 E, já que estamos falando do endereço do destinatário, já podemos relevar que esse endereço constitui um ponteiro em nossa analogia. Se você está usando dois dados para informar o endereço, então estamos falando de um ponteiro longo, long pointer, ou LP!
 
-![Relação Segmento x Offset com Rua x Número](por_que_long_pointer_relacao_endereco_carta_segmento_offset.png)
+"Relação Segmento x Offset com Rua x Número"
 
 #### Long Pointers
 
@@ -21670,7 +21670,7 @@ Ora, se seu destinatário está na mesma rua que você, tudo que você tem a diz
 
 Porém, no exemplo que demos, o destinatário está em outra rua. Se o Juquinha entregar a carta no número 1065, mas na rua errada, estará errando o destinatário. Por isso é que você deve usar um long pointer e falar para o Juquinha do segmento!
 
-![Se perdendo nas ruas](por_que_long_pointer_getting_lost_on_streets.png)
+"Se perdendo nas ruas"
 
 "Juquinha, seu moleque safado, entrega essa carta no Segmento 0xAC89, Offset 0x496E. E vê se anda logo!"
 
@@ -21934,7 +21934,7 @@ Note que usamos uma enumeração nesse último caso para termos um nome signific
 
 Como os tipos da enumeração passam a pertencer ao namespace atual, eles podem se misturar facilmente com todos os nomes daquele namespace. Dessa forma, é útil e bem organizado definir um prefixo para os nomes, que pode ser formado pelas iniciais do nome da enumeração, como no exemplo acima (fom = FileOpenMode).
 
-![enum_namespace.png](enum_wNCAYCX.png)
+"enum_namespace.png"
 
 O surgimento do enum veio como evolução de uma prática já consagrada pelo uso na linguagem C, que eram as listas de valores constantes criados através de defines com algum prefixo em comum (FILE_SHARE*, SW_SHOW*, etc). Portanto, sempre que se encontrar em uma situação para criar esse tipo de lista, a enumeração é o caminho atualmente ideal.
 
@@ -22065,11 +22065,11 @@ Pi não é um define do pré-processador que irá virar uma constante literal (3
 const float* ppi = & pi;
 ```
 
-![const_memory.png](const_e_volatile_V6eR9ln.png)
+"const_memory.png"
 
 Teoricamente a região da memória que contiver uma variável const pode ser qualificada pelo sistema operacional como somente-leitura, mas isso não é uma obrigação. É obrigação do compilador avisar sobre tentativas de alteração da variável no meio do programa, mas nem sempre é possível enxergar que a memória não é alterável. Dessa forma, resultados imprevisíveis podem ocorrer.
 
-![const_gpf.png](const_e_volatile_d51bAIH.png)
+"const_gpf.png"
 
 #### Uso prático
 
@@ -22104,11 +22104,11 @@ int func2(int y)
 
 O significado do volatile teoricamente muda de implementação para implementação, mas na prática é uma forma de definir uma variável que está sendo acessada por outros programas/threads/entidades espíritas que podem alterar o seu valor sem seu programa notar quando.
 
-![Se concentre! Não é esse tipo de volatile!](const_e_volatile_carbzjo.jpg)
+"Se concentre! Não é esse tipo de volatile!"
 
 O exemplo clássico da API Win32 é o "InterlockedIncrement", que realiza operações atômicas em valores inteiros. Para fazer isso é necessário usar um recurso interno disponível pelo processador que irá modificar a memória sem intrusão de outras threads/processadores.
 
-![interlocked_increment.png](const_e_volatile_3mqVrqA.png)
+"interlocked_increment.png"
 
 #### Uso prático
 
@@ -22123,7 +22123,7 @@ Variáveis volatile geralmente interagem de alguma forma com o sistema em que ro
 const volatile int* g_systemClock = (const volatile int*) 0x7689B9D4;
 ```
 
-![mutante](const_e_volatile_4zUSxmJ.jpg)
+"mutante"
 
 A definição de *g_systemClock é de uma memória que não pode ser alterada; só que ela é, pelo sistema. Então a variável também é volatile. No entanto, independente de ser const ou volatile, o tipo nunca será alterado, apenas qualificado. São duas coisas diferentes na linguagem.
 
@@ -22193,7 +22193,7 @@ kd> g
 
 O screenshot diz tudo:
 
-![Debug do notepad pelo kernel](breakpoints_promiscuos_debug_notepad_kernel.png)
+"Debug do notepad pelo kernel"
 
 Agora a parte mais divertida: experimente com outro notepad, ou com o explorer =)
 
@@ -22204,7 +22204,7 @@ Mais um fim-de-semana no ócio e na vadiagem. Tenho que manter minhas "qualidade
 
 Mas nem por isso deixei de terminar uma primeira versão do aplicativo que irei usar como base na minha palestra do nosso próximo encontro C++: Crash Dump Analysis. Se alguém tiver dicas de quais os problemas mais difíceis do Universo para analisar em um dump de memória, comente a respeito e veremos o que dá pra fazer.
 
-![crash_dump.png](setimo_encontro_de_programadores_c_wNd2Z1m.png)
+"crash_dump.png"
 
 Enquanto isso, continuo descobrindo maravilhas do WinDbg. Essa semana fiquei brincando de colocar breakpoint em user-mode, mas depurando o kernel, como fizeram os rapazes do Ntdebugging. A conclusão é que ele vale para todos os aplicativos abertos. Tente com o MessageBox!
 
@@ -22509,7 +22509,7 @@ jmp     Service+0x60f3 (004060f3)
 
 E, agora sim, encontramos o culpado!
 
-![](como_achar_o_codigo_fonte_sem_simbolos_gUfPM5Q.jpg)
+"Como achar código sem símbolos"
 
 Mais para a frente em minha análise consegui encontrar o objeto pelo qual todas as threads esperavam. Não tive tanta sorte, pois se tratava de um mutex, e "mutexes não conseguem ser rastreados tão facilmente em user mode". Mas isso não vem ao caso. O que tentei descrever aqui foi mais ou menos o processo que você deverá seguir caso tenha que analisar um binário compilado em outras vidas. Espero que você tenha tanta sorte quanto eu.
 
@@ -22574,7 +22574,7 @@ Por isso pedi encarecidamente por qualquer fragmento de tela azul (minidumps) qu
 
 Mas eis que no dia seguinte ela me liga, comentando que um funcionário, empolgado (?) pela tela azul em sua máquina, havia tirado uma foto da mesma para "recordação". Sem nenhuma cerimônia, então, pedi rapidamente que ela conseguisse essa foto para a minha coleção.
 
-![Tela azul de recordação](foto_dos_melhores_momentos_tela_azul_de_recordacao.jpg)
+"Tela azul de recordação"
 
 A foto que ela me manda é exatamente a que está acima, apenas censurado o nome do driver, o que não vem ao caso. Assim que a recebi pude constatar o problema direto no código-fonte, corrigi-lo e enviar uma nova versão, que após alguns dias de testes se revelou bem sucedida.
 
@@ -22785,7 +22785,7 @@ int main()
 }
 ```
 
-![oncrash.png](gerando_dumps_automatizados_finddump.png)
+"oncrash.png"
 
 Espero com isso aliviar a carga pesada de A.V.s que sempre aparece quando menos se espera. Cuidar de toneladas de código legado exige algumas pitadas de automatização nos lugares certos. Como já dizia meu primeiro chefe, que nem era de TI: a mente não pensa, o corpo paga.
 
@@ -22985,11 +22985,11 @@ case WM_NOTIFY:
 
 Você que não está fazendo subclassing de janelas existe outra técnica que você pode utilizar: arrastar-e-soltar o controle do seu ToolBox. Qual é a graça?
 
-![Arrastar_e_soltar controles do Windows](tres_em_um_brmIxLu.png)
+"Arrastar_e_soltar controles do Windows"
 
 Outra coisa que aprendi foi como enviar mensagens ao usuário para impedir que este reinicie a máquina em momentos importantes:
 
-![Bloqueio de reboot no Windows Seven](tres_em_um_0OKkJKy.png)
+"Bloqueio de reboot no Windows Seven"
 
 A partir do Vista temos uma nova API para fazer isso. E é muito simples:
 
@@ -23126,7 +23126,7 @@ As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o q
 
 No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
 
-![Flags para FormatMessage](formatmessage_para_dumies_8nKXyBs.png)
+"Flags para FormatMessage"
 
 #### Source
 
@@ -23308,7 +23308,7 @@ int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
 }
 ```
 
-![Saída do nosso projetinho](formatmessage_para_dumies_rnrw5UN.png)
+"Saída do nosso projetinho"
 
 Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!
 
@@ -23402,7 +23402,7 @@ Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o 
 
 Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que "uso no dia-a-dia" com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta "baixá-lo", next next e finish.
 
-![Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.](entao_voce_ainda_nao_usa_controle_de_fonte_BcRIM4W.png)
+"Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando."
 
 Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.
 
@@ -23510,7 +23510,7 @@ Mais uma cena igualmente emocionante, Meirelles e ele vendo o filme juntos.
 
 Esse artigo é pra mostrar que não é só de ifs e elses que vive um programador e que é bom colocar a mão na massa de vez em quando. O cenário: máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEY_CLASSES_ROOT. Resultado: ao rodar um script que abre uma segunda janela e tenta usar seu método focus é exibida a seguinte mensagem:
 
-![Erro de automação?](suporte_tecnico_IGR3VJC.png)
+"Erro de automação?"
 
 ```
 "<Mensagem do cliente> - A classe não dá suporte para automação"
@@ -23555,7 +23555,7 @@ Partindo disso, imaginei que o que ocorria era que havia algo faltando no regist
 
 - Importei ambos os registros no esquema "apaga tudo cria tudo de novo".
 
-![Exportando e importando registro](suporte_tecnico_l7Rc7kY.png)
+"Exportando e importando registro"
 
 Problema reproduzido.
 
@@ -23577,7 +23577,7 @@ Foi esse o procedimento seguido:
 
 6. Se não deu erro, testar os passos 3 e 4 com a outra metade.
 
-![Snapshots da VMWare](suporte_tecnico_hhxZgqZ.png)
+"Snapshots da VMWare"
 
 Essa série de passos foi reproduzida em menos de uma hora até chegarmos a apenas uma linha no registro:
 
@@ -23643,11 +23643,11 @@ E mesmo que a conclusão (que não vou revelar aqui) talvez peque pelo excesso, 
 
 Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo recorde, você e sua equipe estão aproveitando suas devidas férias nas Bahamas, tomando água de coco na sombra de uma palmeira e apreciando as belezas da região.
 
-![Club_med_beach_governors_harbour_eleuthera_bahamas](patch_de_emergencia_ggKPJuT.jpg)
+"Club_med_beach_governors_harbour_eleuthera_bahamas"
 
 Mas eis que liga o seu gerente para o celular vermelho que te entregou no caso de emergências críticas e te avisa que um problema crítico foi detectado em um serviço crítico: o detector de pares. Consegue ver o erro?
 
-![Detector de Pares](patch_de_emergencia_wHctVe6.png)
+"Detector de Pares"
 
 "Oh, meu Deus!"
 
@@ -23687,7 +23687,7 @@ Mais uma vez calmo da vida, você diz que isso é coisa de criança. Tudo que pr
 
 Tudo que você precisa é abrir o processo pelo WinDbg, encontrar a versão defeituosa e substituir os bytes certos.
 
-![Corrigindo versão](patch_de_emergencia_zrZQir4.png)
+"Corrigindo versão"
 
 Nota: O parâmetro -pv permite depurar um processo de forma não-invasiva, mas as threads serão suspensas. Já com -pvr podemos depurar de forma não-invasiva e ainda conseguir manter as threads do processo rodando.
 
@@ -23721,7 +23721,7 @@ Writing 5f bytes.
 
 Em seguida iremos sobrescrever a função antiga no processo em execução. Para evitar crashes é vital que tenhamos certeza que a função não estará sendo executada nesse momento. No nosso caso basta aguardar a entrada na função Sleep da API, que dorme por 3 segundos, tempo suficiente para a atualização.
 
-![Live Patch!](patch_de_emergencia_bMI63Ka.png)
+"Live Patch!"
 
 ```
 0:000> .readmem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e
@@ -24090,7 +24090,7 @@ Em um período mais inocente da minha vida de cinéfilo Kim Ki Duk estava entre 
 
 Escrevi a respeito de Fôlego no primeiro semestre de 2010, quando estava começando a anotar sobre os filmes que assistia. Eram rabiscos em um caderninho que carregava durante as sessões, geralmente no Cine Belas Artes, em São Paulo. Depois eu repassava esses rabiscos em algo inteligível.
 
-![Caderninhos do que viria a ser o Cine Tênis Verde](cinetenisverde_notebooks.jpg)
+"Caderninhos do que viria a ser o Cine Tênis Verde"
 
 Porém, essa não é desculpa para minha inocência em desvendar um filme falando sobre símbolos e detalhes que devem ser vistos como um todo. O meu texto de 2010 é meramente um capricho, e um rabisco, que hoje não me serve mais para análise.
 
@@ -24422,7 +24422,7 @@ Committed revision 956.
 
 Terminado o trabalho naquela máquina, geralmente gero um branch novo (para limpar o diretório) e recompacto a solução, copio para o Pendrive, e descompacto na máquina da empresa. O resto do caminho é como se eu tivesse feito as modificações na própria máquina:
 
-![Commit no server](trabalhando_em_multiplos_ambientes_server_commit.png)
+"Commit no server"
 
 
 # De Pernas pro Ar (Roberto Santucci, 2010)
@@ -24468,7 +24468,7 @@ Para as dependências localizadas fora do executável final, por exemplo, as DLL
 
 Dessa forma, quando existirem unresolved externals fora do executável final, o responsável por dar o erro é o loader do sistema:
 
-![winnt4_process32next_unresolved2.png](dependencia_pedindo_carona_winnt4_process32next_unresolved2.png)
+"winnt4_process32next_unresolved2.png"
 
 Isso significa que o seu processo não poderá ser executado, pois faltam funções no ambiente que ele depende.
 
@@ -24476,7 +24476,7 @@ Um recurso muito útil para ver essas funções é o Dependency Walker, meu amig
 
 Update de 2026-03-13: a última versão disponível é de 2006, então talvez não seja uma boa ideia usá-lo agora; prefira o dumpbin das ferramentas do Visual Studio.
 
-![depends_process32_not_found2.png](dependencia_pedindo_carona_depends_process32_not_found2.png)
+"depends_process32_not_found2.png"
 
 "Mas, Caloni, eu nem uso essa função! Como ela pode ser necessária?"
 
@@ -24603,7 +24603,7 @@ void UsingNewApis()
 }
 ```
 
-![depends_process32_not_needed.png](dependencia_pedindo_carona_depends_process32_not_needed.png)
+"depends_process32_not_needed.png"
 
 Agora a aplicação poderá rodar em paz naquele que é, como diz meu amigo, um sistema operacional de ponta... da outra ponta!
 
@@ -24659,7 +24659,7 @@ Brincando com obtenções e conversões de SIDs, tive uma pequena dificuldade de
 
 Ora, mesmo que não venhamos a escrever nessa memória de tamanho obscuro, não é de bom tom ler além da conta. Não há garantias que o que estiver após o SID é seguro. Pode até ser o final de uma página de  memória, por exemplo, e o seu programa capota por causa de um singelo "Memory could not be read". Que coisa sem graça!
 
-![](esse_ponteiro_vai_ate_onde_psid_e_o_buraco_negro.png)
+"Esse ponteiro vai até onde: PSID e o buraco negro"
 
 Sempre que me vejo com problemas desse tipo procuro informações primeiro  no próprio MSDN, segundo na cabeça e terceiro no Google. Nesse caso em  específico a cabeça deu um jeito, pois imaginei que houvesse alguma  forma de pegar o tamanho da memória alocada através das funções Local (se a API precisa de LocalFree para desalocar sua memória, é óbvio que  ela usou LocalAlloc para alocá-la, mesmo que não tenhamos o código-fonte  para comprovar).
 
@@ -24684,11 +24684,11 @@ De acordo com ele, o programador não consegue viver sem lógica, e quando tenta
 
 Já fiz duas dessas coisas divertidíssimas em minha tenra idade: contar binário enquanto varria o laboratório onde trabalhava, programar em papel numa noite que fiquei ao relento por ter perdido o busão. Não faço mais essas coisas. Agora eu sou fresco. "Programo em UML".
 
-![Anotações de antigos cadernos que me acompanhavam](notebook_programming.jpg)
+"Anotações de antigos cadernos que me acompanhavam"
 
-![Anotações de antigos cadernos que me acompanhavam](notebook_programming2.jpg)
+"Anotações de antigos cadernos que me acompanhavam 2"
 
-![Anotações de antigos cadernos que me acompanhavam](notebook_programming3.jpg)
+"Anotações de antigos cadernos que me acompanhavam 3"
 
 Primeiro, de que lógica estamos falando? Existem diversas lógicas e existe a intuição, lado importante e muitas vezes renegado, mas presente no cinto de utilidades. É só saber usar. Seja um, seja outro.
 
@@ -24998,7 +24998,7 @@ Pergunte para o programador semi-experiente em C++ por que as coisas são assim 
 
 A vtable é uma tabela que guarda o endereço dos métodos virtuais de uma classe. Se uma classe derivada sobrescrever um ou mais métodos de sua classe base, ela terá uma outra vtable com os endereços dos métodos "corrigidos".
 
-![](vtable_vtable11.png)
+"Vtable"
 
 Dessa forma, algo um pouco diferente ocorre na chamada c->method() quando estamos lidando com classes polimórficas: o início de um objeto dessa classe terá um ponteiro para a vtable de sua classe. Quando um método virtual é chamado, em vez do compilador gerar uma chamada estática para o endereço do método da classe cujo tipo estamos usando, ele irá redirecionar essa chamada para uma posição na vtable para onde esse objeto aponta. No caso de um objeto do tipo D, a entrada para method em sua vtable apontará não para C::method, mas para D::method, uma função com a mesma assinatura contida na classe base C e que, portanto, a sobrescreve.
 
@@ -25017,7 +25017,7 @@ cl /Zi vtable3.cpp
 windbg vtable3.exe
 ```
 
-![vtable2.png](vtable_vtable2.png)
+"vtable2.png"
 
 
 # Projeto DayToDay
@@ -25294,7 +25294,7 @@ Committed revision 3.
 C:\Projetos\caloni>bzr qlog
 ```
 
-![](bazaar_com_subversion_bazaar_subversion.png)
+"Bazaar com Subversion"
 
 
 # A Arca Russa
@@ -25866,7 +25866,7 @@ Por fim, alguns detalhes chegam a ser até interessantes. É curioso, por exempl
 
 Reestruturei meus projetos caseiros e coloquei todos em um branch no repositório do Assembla. A partir dele começarei a reestruturas os códigos de exemplo do saite, o deve facilitar o acesso. Para usuários do Bazaar, como eu, basta puxar o branch usando "seu endereço" usando o comando `bzr get`:
 
-![](novo_branch_para_projetos_do_caloni_com_br_nova_branch_bazaar_assembla.png)
+"Novo branch para projetos do caloni.com.br"
 
 Para os usuários do Subversion, ou qualquer outro controle de fonte que consiga ler um branch feito em SVN, google for it.
 
@@ -26469,11 +26469,11 @@ int main()
 
 Quando chamamos func, ele lança uma exceção que é capturada no main que, por sua vez, formata uma stream e obtém sua string (através do método str) e através dessa string obtém o ponteiro da string em C puro (através do método c_str). Porém, a mensagem resultante na saída-padrão de erro não era o esperado:
 
-![](cuidado_com_variaveis_temporarias_Gs3Khz7.png)
+"Cuidado com variáveis temporárias"
 
 Depurando diretamente, vemos que a stream, de fato, contém o que esperávamos. O único elemento errante é justamente o ponteiro obtido através da chamada dupla de métodos.
 
-![](cuidado_com_variaveis_temporarias_x3n9FXS.png)
+"Cuidado com variáveis temporárias 2"
 
 O porquê isso ocorre só fica óbvio quando vemos "a ajuda" (ou a assinatura) da função str da classe stringstream:
 
@@ -26503,7 +26503,7 @@ Obviamente ele fica inválido após o fim da expressão!
 
 Vamos ver em câmera lenta:
 
-![](cuidado_com_variaveis_temporarias_vXQjDjK.png)
+"Cuidado com variáveis temporárias 3"
 
 Nada como assembly fresquinho para refrescar os conceitos de C++ por baixo dos panos.
 
@@ -26540,13 +26540,13 @@ O programa está rodando no servidor do cliente, que é acessível por sessão r
 
 2. Depurar localmente o problema.
 
-![](depuracao_de_emergencia_imt8kmB.png)
+"Depuração de emergência"
 
 ### Analisar um dump gerado
 
 Para a primeira opção, basta abrir o Gerenciador de Tarefas, localizar o processo e gerar o dump através do menu de contexto.
 
-![](depuracao_de_emergencia_RWPemAU.png)
+"Depuração de emergência 2"
 
 Com o dump e o Windbg em mãos, basta analisá-lo. Porém, se o seu processo é 32 bits e o servidor é 64 bits (geralmente é), o dump gerado será de 64 bits, EMBORA seja de um process 32. Ou seja, ao abri-lo, o sistema vai mostrar as threads de manipulação do SO para sistemas 32 (todos com o nosso amigo wow64cpu).
 
@@ -26617,7 +26617,7 @@ Supondo que temos tudo isso, só precisamos executar alguns passos básicos para
 
 #### 1. Abrir o WinDbg e escolher File, Open Executable. Escolha o executável e pare por aí.
 
-![](depuracao_de_emergencia_A2p4Q9y.png)
+"Depuração de emergência 3"
 
 #### 2. Na tela de comando do WinDbg (View, Command, ou Alt + 1) execute os comandos abaixo:
 
@@ -27265,19 +27265,19 @@ Continuando o papo sobre o que fazer para analisar rapidamente um crash no servi
 
 Bom, resumindo: basta olhar a pilha! Mas, para isso ser efetivo, precisaremos do PDB do executável que gerou o crash, pois através dele é possível puxar a tal localização da violação de acesso.
 
-![](depuracao_de_emergencia_receita_de_bolo_w1uEm0Y.png)
+"Depuração de emergência Receita de Bolo"
 
 Se você mantiver executável (DLL também é executável) juntinho com seu PDB, sua vida será mais fácil e florida.
 
-![](depuracao_de_emergencia_receita_de_bolo_ls9Hma0.png)
+"Depuração de emergência Receita de Bolo 2"
 
 Mesmo que, em alguns momentos trágicos, apareça uma tela indesejada.
 
-![](depuracao_de_emergencia_imt8kmB.png)
+"Depuração de emergência Receita de Bolo 3"
 
 Seu caminho a partir dessa tela pode ser analisar um dump gerado (visto no artigo anterior) ou podemos atachar o WinDbg diretamente no processo (visto aqui e agora):
 
-![](depuracao_de_emergencia_receita_de_bolo_CjXbOD1.png)
+"Depuração de emergência Receita de Bolo 4"
 
 ```
 WinDbg: "mas que bagunça é essa na memória desse processo?"
@@ -27356,7 +27356,7 @@ ChildEBP RetAddr
 
 Nosso depurador favorito acusa uma pilha que contém a função WerpReportFault (Web Error Report, mas qualquer outra função com Exception no meio seria uma candidata). E, nessa mesma thread, a última linha nossa conhecida está no arquivo crashonserver.cpp:13. Isso nos revela o seguinte:
 
-![](depuracao_de_emergencia_receita_de_bolo_hnfH30b.png)
+"Depuração de emergência Receita de Bolo 5"
 
 E essa situação, caro leitor, é 10% de tudo o que você precisa saber sobre WinDbg para resolver, mas que já resolve 90% dos casos. Belo custo-benefício, não?
 
@@ -28770,7 +28770,7 @@ O Visual Studio é uma ótima ferramenta para depurar rapidamente programas send
 
 Vamos supor que você crie seu super-projeto ZeroMQ e no meio dele acabe evoluindo uma nova forma de vida inútil e descartável, que aqui iremos chamar de HeaderInutil e seu fiel companheiro CppInutil:
 
-![](header_inutil_opLLPIk.png)
+"Header inútil"
 
 OK. Ele não está fazendo nada, mas e daí? Compilo meu projeto normalmente e depuro ele como se nada estivesse acontecendo.
 
@@ -28819,7 +28819,7 @@ Mas o que acontece se eu precisar no momento do refactory (que deve, sim, existi
 
 Continuo compilando normalmente o projeto, mas na hora de depurar...
 
-![](header_inutil_header_inutil2.png)
+"Header inútil 2"
 
 Mas o que ocorre? Eu acabei de compilar o projeto! E se eu compilar novamente e pressionar F5, ele continua apresentando o mesmo problema!
 
@@ -28837,11 +28837,11 @@ O que pode ser feito nesse caso (além do que os personagens de The Walking Dead
 </system.diagnostics>
 ```
 
-![](header_inutil_header_inutil3.png)
+"Header inútil 3"
 
 Depois de modificar o arquivo, reinicie o Visual Studio e tente novamente apertar F5 no mesmo projeto, mas com o "DebugView" aberto.
 
-![](header_inutil_header_inutil4.png)
+"Header inútil 4"
 
 Como um amigo meu diria: "AHÁ!!". Descobrimos o culpado.
 
@@ -29325,15 +29325,15 @@ int main(int argc, char* argv[])
 
 Se olharmos de perto o processamento e a memória consumida por esse processo, veremos que no início existe um boom de ambos, mas após um momento de pico, o processamento praticamente pára, mas a memória se mantém:
 
-![](consumo_abusivo_de_memoria_hoxWfdi.png)
+"Consumo abusivo de memória"
 
 Depois de pesquisar por meus tweets favoritos, fica fácil ter a receita para verificarmos isso usando nosso depurador favorito: ~~Visual Studio~~ WinDbg!
 
-![](consumo_abusivo_de_memoria_ZKVVT0O.png)
+"Consumo abusivo de memória 2"
 
 windbg -pn MemoryConsumption.exe
 
-![](consumo_abusivo_de_memoria_Bzb2XVY.png)
+"Consumo abusivo de memória 3"
 
 Achamos onde está a memória consumida. Agora precisamos de dicas do que pode estar consumindo essa memória. Vamos começar por listar os chunks alocados por tamanho de alocação:
 
@@ -29377,7 +29377,7 @@ O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024 + QUEUES_SIZE - 
 
 A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do "GFlags":
 
-![](consumo_abusivo_de_memoria_JeqoBju.png)
+"Consumo abusivo de memória 4"
 
 ```
 0:004> !heap -p -a <span style="color: #ff0000;">00558600</span>
@@ -29826,7 +29826,7 @@ Dessa forma, é compreensível que o espectador se divirta a maior parte do temp
 
 Muitas vezes uma solução intuitiva não é exatamente o que esperamos que seja quando o código está rodando. Gerar IDs únicos, por exemplo. Se você analisar por 5 minutos pode chegar à conclusão que um simples GetTickCount, que tem resolução de clock boa e que se repete apenas depois de 50 dias pode ser um ótimo facilitador para gerar IDs exclusivos durante o dia.
 
-![](gettickcount_nao_e_um_gerador_de_ids_unicos_buOxKgQ.jpg)
+"GetTickCount não é um gerador de IDs únicos"
 
 Porém, nada como código para provar que estamos errados:
 
@@ -31785,7 +31785,7 @@ Ainda do ponto de vista narrativo Ken Loach entrega pistas no meio do caminho qu
 
 Uma das novidades do futuro Visual Studio pouco comentada ainda em fóruns por seu caráter sigiloso e ainda em testes (mas que pode facilmente ser observada pela engenharia reversa dos binários do Visual C++) é a possibilidade de depurar trechos de código "na nuvem", ou seja, dentro dos gigantescos servidores de clusters de serviços de escalabilidade da Amazon, do Google e, claro, da Microsoft.
 
-![new_mobile_project](depuracao_na_nuvem_new_mobile_project.png)
+"new_mobile_project"
 
 Já é conhecido que será possível inserir comentários no código-fonte com o formato @nickname e incluir na listagem de bugs o estilo das #hashtags para que programadores vinculados à sua rede social possam enxergar referências a outros programadores e verificar o Developer TrendTopics, como um #blame-joel-on-software. Porém, o que poucos sabem, é que será também possível depurar as APIs de redes sociais em tempo real. Ou seja, caso seja usado o método Twitter::Tweet(), logo após o retorno da chamada será possível aguardar por uma resposta dos usuários envolvidos:
 
@@ -32733,7 +32733,7 @@ int main()
 
 Isso ocorre porque sua representação dentro da variável double é diferente de 972.0 do outro double. Depurando vemos mais claramente:
 
-![Ponto Flutuante Afundando](ponto_flutuante_afundando_TnsgAlZ.png)
+"Ponto Flutuante Afundando"
 
 Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouquinho e escapa pela beirada:
 
@@ -32748,7 +32748,7 @@ Esse é o valor "desejado".
 
 Na comparação com o valor redondo aparece a falha, mas note que isso não ocorre com os outros valores d1 e d2, já que o armazenamento adquire o mesmo formato:
 
-![Ponto Flutuante Afundando (2)](ponto_flutuante_afundando_mqHh0wA.png)
+"Ponto Flutuante Afundando (2)"
 
 ##### Corrigindo o incorrigível
 
@@ -33193,11 +33193,11 @@ int main()
 }
 ```
 
-![RemoveIfErrado](remove_if_ate_remove_so_que_diferente_AzliFSS.png)
+"RemoveIfErrado"
 
 Isso ocorre porque o comportamento do remove_if é copiar todos os elementos que retornem false (não remova) e pular elementos que retornem true (remova). No entanto, o tamanho do contêiner, e consequentemente seu ponteiro end(), permanecem o mesmo.
 
-![RemoveIfComportamento](remove_if_ate_remove_so_que_diferente_JHucsWz.png)
+"RemoveIfComportamento"
 
 De acordo com "o saite cplusplus.com", o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
 
@@ -33267,7 +33267,7 @@ int main()
 }
 ```
 
-![RemoveIfFunciona](remove_if_ate_remove_so_que_diferente_Q7f2N1G.png)
+"RemoveIfFunciona"
 
 Esse C++... intuitivo como nunca!
 
@@ -33875,7 +33875,7 @@ O resto da história segue um plágio (na melhor das intenções, espero) mais o
 
 Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sobre como C++ agora permite criar funções dentro de funções. Hoje vamos apenas falar que aquela construção bizarra que criamos fica ainda mais bizarra se precisarmos retornar alguma coisa dessa função ou usá-la mais de uma vez.
 
-![Lambda: o Retorno](lambda_o_retorno_Hrbu1ue.jpg)
+"Lambda: o Retorno"
 
 O padrão do lambda é supor que sua função embutida e enlatada não precisa retornar nada, o que torna a sintaxe mais simples: é um void AlgumaCoisa(argumentos). No entanto, para algoritmos como o find_if isso não funciona, então é necessário retornar algo. E, no caso de find_if, chamá-lo mais de uma vez pode ser feito facilmente criando uma variável lambda:
 
@@ -33947,7 +33947,7 @@ Não costumo participar de campeonatos de programação por alguns motivos vagos
 
 No entanto, esse ano apareceram dois motivos que me levaram a gastar cinco minutos de paciência com as historinhas bestas da equipe do Google. Primeiro o Python, que desde 2013 tem renovado em mim a sensação que programar ainda é divertido (e que o pessoal da Microsoft e do padrão C++ tinham tirado de mim há muito tempo com seus compiladores cada vez mais complexos/lentos e as IDEs que demoram o tempo do cafezinho para abrir). Segundo o que move o mundo: a concorrência. Minha digníssima esposa, levada por alguns pontos-extra na faculdade (uma iniciativa até que louvável do professor), resolveu participar da primeira fase (a classificação desta fase também dava pontos).
 
-![jam2014](geleia_de_codigo_zXzJlL5.jpg)
+"jam2014"
 
 O fato é que depois desses cinco minutos eu simplesmente não consegui parar até o minuto final das 23 horas (horário de Brasília) de domingo, quando o tempo-limite esgotou. O aspecto mais divertido do Code Jam é que há liberdade total para a ferramenta que você pretende usar: linguagens de programação, Excel, uma calculadora ou apenas seu cérebro. Você recebe uma "missão" e um arquivo de entrada e precisa cuspir um arquivo de saída de acordo com a missão. Apenas isso. O resto fica por conta da criatividade dos codadores e gambiarreiros de plantão.
 
@@ -34506,25 +34506,25 @@ Mesmo assim, em tempos de poluição e de catástrofes anunciadas, qualquer mens
 
 A primeira bateria de problemas da segunda fase do Code Jam me mostrou o porquê do seu nome: meu cérebro ficou feito geleia (ha ha ha). Não consegui resolver nenhum problema a tempo, mas não culpo o C++, que passei a usar para essa fase. É burrice aliada a pressão. Duas horas e meia para entender um problema é o tipo de coisa que me deixa pensando mais no tempo do que no problema. Tenho que melhorar isso.
 
-![cowblet_cover](que_geleia_de_mocoto_iqT5sSy.jpg)
+"cowblet_cover"
 
 De qualquer forma, esse final de semana que passou foi dedicado a resolver o primeiro problema e quem sabe escrever um post a respeito. Imagino que todos tenham acesso ao "enunciado" (2026-03-28 link quebrado) e aos casos de teste, mas, por via das dúvidas, aqui vai uma descrição adaptada:
 
 Você é um fazendeiro hi-tech com uma vaca que tem um tablet. Não especifica se esse cowblet é um iPad, mas é uma possibilidade, já que como nenhum plugue parece encaixar nas tomadas de sua fazenda, é muito provável que você seja um Applemaníaco com um monte de gadgets que precisam de conversor vindos direto do eBay.
 
-![cowblet](que_geleia_de_mocoto_igQqWOa.jpg)
+"cowblet"
 
 Através do eBay também veio um engenheiro chinês cuja missão é resolver esse gato que o Sr. Fazendeiro fez em sua fazenda. Tudo que ele precisa fazer é girar gigantescos switches (ou disjuntores) que invertem a polaridade binária de cada um dos pino dos conectores das tomadas. Quando um plugue de dispositivo e uma tomada possuem a mesma configuração de bits é possível conectá-los. O objetivo final é que todos os N plugues conectem nas N tomadas depois de virados Y switches, sendo que quanto menos switches melhor (afinal, eles são gigantescos, e o chinês supõe-se que seja pequeno).
 
-![ProblemA](que_geleia_de_mocoto_WGFkBW1.png)
+"ProblemA"
 
 O primeiro pensamento do programador preguiçoso (go, horse, go!) manda que usemos a velha força bruta e testemos todas as combinações possíveis de disjuntores, peguemos o com menor número de bits setados (inicialmente, todos estão em 0) e zás! Porém, o caso de teste tamanho large pressupõe que o limite de pinos das tomadas pode chegar a 40, o que seria responsável por nada mais nada menos que 2^40 combinações diferentes, ou 1.099.511.627.776 para ser exato. Isso dá mais de 1 trilhão! Mesmo que nosso código seja extremamente rápido e demore apenas um milissegundo para cada combinação, serão mais de 34 anos desperdiçados, que poderiam estar melhor investidos minerando bitcoins.
 
-![Tomadao](que_geleia_de_mocoto_8p1mbvh.png)
+"Tomadao"
 
 Dessa forma, temos que traçar uma solução baseada nas combinações entre as tomadas e plugues, que, pelos limites da versão large dos casos de teste, podem ter a quantidade de 150, o que dá 150*150 = 22500 combinações de XOR.
 
-![WP_000773](que_geleia_de_mocoto_m2eUW9a.jpg)
+"WP_000773"
 
 Sim, de XOR. O XOR aqui pode ser usado para detectarmos qual a combinação de switches precisamos para que cada tomada encaixa em cada dispositivo. Esse é o nosso conjunto universo de giros de disjuntores. Com esse conjunto em mãos fica fácil saber quais combinações são possíveis de encaixar todos os dispositivos: basta contar!
 
@@ -34669,15 +34669,15 @@ Basta um hack e commit.
 
 ## É a incerteza, idiota!
 
-![Poker Jam](poker_face_LmkKDXm.jpg)
+"Poker Jam"
 
 O problema reza que existem dois algoritmos para embaralhar uma sequência numérica (de 0 a N): o bom e o ruim. Ambos traçam um loop do iníco ao fim pegando aleatoriamente um elemento da lista e trocando de lugar com o elemento que está sendo varrido no momento.
 
-![ProperShuffle](poker_face_UTQPIST.jpg)
+"ProperShuffle"
 
 A diferença entre o bom e o ruim é que o bom pega aleatoriamente apenas os elementos DEPOIS do elemento que está sendo varrido, enquanto o algoritmo ruim pega qualquer um dos elementos SEMPRE. Isso aparentemente e intuitivamente não parece interferir na aleatoriedade do embaralhamento, mas se levarmos ao extremo de embaralhar repetidas vezes somando a lista resultante percebemos uma tendência gritante do algoritmo ruim em manter o ordenamento inicial, ou pelo menos na média sempre tender para números menores no início e números maiores no fim, como pode ser visto nesse teste que fiz, gerado pelo Excel:
 
-![Gráfico dos Algoritmos de Embaralhamento](poker_face_OL0hpLv.jpg)
+"Gráfico dos Algoritmos de Embaralhamento"
 
 O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encontrar um detector de aleatoriedade (aliás, encontrei um bem interessante chamado "ent"), tanto "na mão" quanto pesquisando. O que eu não imaginava foi que o teste que eu tinha feito no início usando uma simples planilha Excel era a solução óbvia (naquelas de é óbvio só depois que você vê). E foi essa a solução adotada por Kaizero.
 
@@ -34785,7 +34785,7 @@ int main()
 
 O que ele basicamente faz é acumular os resultados de três milhões de embaralhamentos feitos pelo algoritmo ruim e inferir através dos resultados que metade é bom e metade é ruim. O ruim fica do lado desbalanceado da sequência.
 
-![Tabelona](poker_face_oe3heEP.jpg)
+"Tabelona"
 
 Tão óbvio, tão simples, tão elegante.
 
@@ -34918,7 +34918,7 @@ int main()
 
 Ele compila e roda sem problemas:
 
-![StructVsClass](estruturas_vs_classes_fight_APlOm65.jpg)
+"StructVsClass"
 
 "Estruturalmente" falando, MinhaEstrutura e MinhaClasse são idênticas, pois são os detalhes de sintaxe que diferem, e diferem pouco. Abrindo o jogo, a única diferença que poderá ser sentida em usar um ou outro é que structs possuem seus membros públicos por padrão e classes possuem seus membros privados por padrão. Apenas isso. O resto, nada muda.
 
@@ -34942,7 +34942,7 @@ int main()
 }
 ```
 
-![StructVsClass_Construtor](estruturas_vs_classes_fight_vwpucpm.jpg)
+"StructVsClass_Construtor"
 
 Antes não havia problemas para MinhaClasse porque o construtor padrão criado para ela é público por default. Porém, explicitando no código um construtor e deixando sua privacidade ligada por padrão temos esse erro que NÃO ocorre em MinhaEstrutura.
 
@@ -34976,7 +34976,7 @@ int main()
 }
 ```
 
-![StructVsClassStructConstructor](estruturas_vs_classes_fight_rdpllNf.jpg)
+"StructVsClassStructConstructor"
 
 E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamente os valores de MinhaEstrutura para a saída com apenas um comando?
 
@@ -35002,7 +35002,7 @@ int main()
 }
 ```
 
-![StructVsClassStreams](estruturas_vs_classes_fight_np4trf9.jpg)
+"StructVsClassStreams"
 
 Enfim, não há nenhum limite que se aplica a uma struct além do bom senso. A criação da palavra class não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.
 
@@ -35103,7 +35103,7 @@ int main()
 }
 ```
 
-![ShiftEstranho](ss_tnVztzy.png)
+"ShiftEstranho"
 
 A resposta é, pra variar, depende. Se você combinar com seu cérebro que o operador de shift que você aprendeu em C para cout não tem a mesma semântica, OK. No fundo eu acredito que os criadores dessa sobrecarga de operador pensaram sinceramente que hoje em dia quase ninguém conhece os operadores de shift binário, então tudo bem reaproveitá-lo de uma maneira mais miguxa.
 
@@ -35123,7 +35123,7 @@ int main()
 }
 ```
 
-![Formatação Difícil do Cout](ss_7hFREwa.png)
+"Formatação Difícil do Cout"
 
 ## A coisa mais fácil do jeito mais difícil
 
@@ -35255,7 +35255,7 @@ Fui convidado pela Fernanda Saraiva do programa de MVPs da Microsoft Brasil a fa
 
 A primeira mudança técnica entre o Windows XP para o Windows Vista/7/8 que me lembro e que mais fez diferença para o sistema que mantínhamos com certeza foi a retirada da guerreira GINA, ou a Graphical Identification aNd Autentication, a gina.dll da Microsoft que implementava a mundialmente famosa tela de logon do Windows NT/2000/XP:
 
-![Windows XP dá as boas vindas](eles_querem_que_a_gina_va_embora_tres_posts_sobre_evolucao_windows_CBLO6LF.jpg)
+"Windows XP dá as boas vindas"
 
 Seja no formato Home Computer (a telinha de boas vindas) ou no tradicional "Pressione Ctrl+Alt+Del" do Windows NT -- quando a máquina está no domínio -- quem gerencia essa tela é o processo de sistema iniciado a partir do WinLogon.exe. O WINLOGON carrega a nossa amiga gina.dll que é quem realiza a autenticação dos usuários.
 
@@ -35308,7 +35308,7 @@ Com a vinda do Windows Vista, o WINLOGON continuou gerenciando as sessões e aut
 
 O problema que nossa equipe enfrentou era que toda a autenticação do sistema dependia da manipulação dos eventos da GINA através da nossa GINA. Com ela colocada de escanteio, os logins parariam de funcionar.
 
-![gina](eles_querem_que_a_gina_va_embora_tres_posts_sobre_evolucao_windows_sF23ENL.jpg)
+"gina"
 
 Depois de uma análise rápida foi constatado que não seria mais possível bloquear o login completamente, uma vez que existiam pelo menos duas alternativas de login que vieram com a instalação do Vista, e o fato de instalar mais uma apenas faria com que essa terceira alternativa não funcionasse, mas o usuário não estaria mais obrigado a "passar por nós".
 
@@ -35397,7 +35397,7 @@ Porta serial? Mas que coisa antiga, hein? Pois é, muita coisa mudou desde o Win
 
 Mas... se você precisar:
 
-![Esquema de porta serial no WinDbg](windbg_serial_port.jpg)
+"Esquema de porta serial no WinDbg"
 
 # Como Treinar o Seu Dragão 2
 2014-06-19 cinema movies
@@ -35449,7 +35449,7 @@ Como já vimos algumas vezes, a STL não prima por interfaces intuitivas, prefer
 
 Dito isto, a abstração dos iteradores é a coisa mais linda do mundo.
 
-![iteradores_como_ponteiros_a_imagem](se_iterando_com_os_pseudo_ponteiros_uma_breve_introducao_0Kne7qd.jpg)
+"iteradores_como_ponteiros_a_imagem"
 
 ## Iteradeiros ou Ponteradores?
 
@@ -35502,7 +35502,7 @@ int main()
 }
 ```
 
-![iteradores_como_ponteiros](se_iterando_com_os_pseudo_ponteiros_uma_breve_introducao_GmNutkz.jpg)
+"iteradores_como_ponteiros"
 
 Da mesma forma, operações como cópia, movimentação, ordenação, caotização, pode ser feito usando dois ponteiros/iteradores de dois contêiners distintos, desde que algumas regras básicas sejam seguidas, como um iterador deve sempre apontar para algo válido (ou disponibilizar alguma abstração que insira novos elementos em um contêiner menor). Veremos essas regras talvez em um próximo post sobre o tema.
 
@@ -35514,13 +35514,13 @@ O livro começa lá nos primórdios da informação, antes mesmo da humanidade. 
 
 Porém, mais do que explicar o que é informação, o livro de Gonick consegue fazer pensar que computadores sequer existiriam se seres humanos não estivessem sendo sufocados nesse último século de toneladas de informação para processar. É por isso que temos a dramática aventura de Charles Babbage e Ada Lovelace (nossa primeira programadora, a gatona da foto abaixo), também descrito na íntegra e com detalhes no livrinho ilustrado.
 
-![Ops, foto errada](stroustrup.jpg)
+"Ops, foto errada"
 
 Antes mesmo da invenção do computador nós usávamos outras coisas para armazenar e reproduzir informação, como escrita, cérebro, discos de vinil, direitas no queixo... e para processar a informação, que é transformá-la em alguma outra informação, um dos primeiros "computadores" embutidos do homem foram seus próprios dedos, que permitiram contar e fazer contas simples de adição. Dessa forma, os cálculos que usavam nossos dedos logo se transformou em nossa era digital. Daí para escrita e ábaco foi um salto (de alguns milhares de anos).
 
 Passando por romanos, persas, chineses e a Revolução Industrial, a narrativa cômica de Gonick nos leva para as entranhas do sistema computacional moderno com as invenções do já citado Babbage e Herman Hollerith. Este último revolucionou o processamento de dados do censo populacional e fundou a ainda de pé IBM, onde o escovador-de-bits em kernel Fernando (do blogue DriverEntry) atualmente vive suas peripécias.
 
-![Agora sim](lovelace.png)
+"Agora sim"
 
 E por falar em bits, essa é uma parte importante desta saga, pois foi com o conceito binário que toda a lógica computacional evoluiu. Iniciando com simples eletricidade e a tecnologia de circuito que permite que acendamos e apaguemos uma lâmpada e terminando na mágica mais pura, simples e poderosa para os programadores (de hardware e sofware): o flip-flop. Gonick chega ao cúmulo de explicar todas as invenções da época encontrando sua necessidade de fatos do dia-a-dia -- como as telefonistas -- se transformando em uma espécie de Tanenbaum desenhista. Das válvulas aos semicondutores, o livro engrossa nosso conhecimento a cada imagem, fazendo-nos repensar novamente o que já havíamos cansado de aprender na faculdade ou em livros ou na internet.
 
@@ -35576,7 +35576,7 @@ Eu nem acredito que estou escrevendo sobre desenvolvimento web, mas como foi alg
 
 Mas o que é "Trello"? Basicamente é um TodoList feito da maneira mais inteligente possível: uma lista de listas de listas! Os espaços, ou desktops, onde você organiza suas tarefas são chamados de Boards. Em cada board vivem L listas, e em cada lista vivem C cards. Cada card pode conter comentários, histórico de mudanças, labels, checklists, due dates e todas as tranqueiras que geralmente existe em uma lista de tarefas. É um sistema online, desenvolvido pela empresa do Joel Spolsky (o mesmo do excelente blogue de programador [Joel on Software] e que contém algo que eu adoro em sistemas web: atalhos!
 
-![Atalhos do Trello](integrando_bitbucketgithub_com_trello_747UasT.png)
+"Atalhos do Trello"
 
 A ideia que tive foi usar os webhooks dos saites de repositórios de fontes para permitir comentar dentro dos cards o commit que foi feito, sua mensagem e o linque para o commit. OK, mas por que não usar o sistema de issues dos já feitos pra isso GitHub e BitBucket? Ele já faz isso muito melhor. De fato. Porém, fica espalhado pelos repositórios, e não é sempre que uma tarefa envolve código (comprar pão, por exemplo). Além do mais, praticamente qualquer serviço desses oferece hooks para a integração de outros projetos/serviços, então se um dia nascer mais um sistema de controle de fonte ou mais um saite que organiza essas tralhas haverá um hook e consequentemente mais uma adaptação do meu código PHP.
 
@@ -35590,7 +35590,7 @@ Pelo menos a parte de segredo é simples]/segredo é simples], tanto que se voc�
 
 Depois disso, mesmo nessa página já é possível conseguir uma chave de acesso para o seu usuário.
 
-![Pedindo autorização para o Trello](integrando_bitbucketgithub_com_trello_oQ97bDI.png)
+"Pedindo autorização para o Trello"
 
 Por fim, para fazer o código que irá comentar dentro de um card no Trello, basta usar dois ou três métodos que lidam com enviar coisas pela web (não me pergunte mais que isso):
 
@@ -35624,11 +35624,11 @@ $result = file_get_contents($url, false, $context);
 
 As informações AQUI_VAI_SUA_CHAVE e AQUI_VAI_SEU_TOKEN_DE_ACESSO você já obteve no linque de geração de key and secret. Já o ID_DO_CARD é algo que depende de em qual lista seu card está, mas felizmente também existe um shortlink único e imutável para cada card no sistema:
 
-![ID único de um Card](integrando_bitbucketgithub_com_trello_xONdnSw.png)
+"ID único de um Card"
 
 Basta usar o ID em Base64-ou-o-que-o-valha no lugar de ID_DO_CARD que já estamos OK. Depois que este código conseguir ser executado, basta ter acesso à internet que ele irá escrever "Hello, World" no cartão referenciado:
 
-![Hello, World!](integrando_bitbucketgithub_com_trello_rbCigTV.png)
+"Hello, World!"
 
 Muito bem. Primeira parte da missão concluída.
 
@@ -35636,7 +35636,7 @@ Muito bem. Primeira parte da missão concluída.
 
 Como o "GitHub" é um dos serviços de repositório de fontes mais famoso, vamos torná-lo nosso caso de sucesso. Basicamente você deve ir no seu repositório do coração (essa é a parte ruim: se você tem mais de um coração, vai ter que repetir esse mesmo procedimento para todos os outros repositórios dos seus outros corações), Settings, Webhooks & Services.
 
-![Adicionando um WebHook ao GitHub](integrando_bitbucketgithub_com_trello_4Lph9w6.png)
+"Adicionando um WebHook ao GitHub"
 
 Lembre-se de colocar seu código PHP em um servidor visível na web. Lembre-se também de usar o método de envio urlencoded do payload para simplificar seu tratamento. Para simplificar ainda mais o processo, coloque qualquer coisa no segredo (não validaremos neste post, mas #ficadica de segurança se você não quer que outros acessem seu PHP inadvertidamente).
 
@@ -35679,15 +35679,15 @@ foreach( $pushData->commits as $c )
 
 Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no repositório do meu blogue usando o linque único do card da tarefa de escrever este artigo. Ou seja, aqui é Inception na veia, mermão!
 
-![Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando..](integrando_bitbucketgithub_com_trello_NzQPB9o.png)
+"Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando.."
 
 O que vai deixar você perplexo é entender como esse texto está sendo comitado antes mesmo de eu comitar este texto ;).
 
-![Resultado do meu commit](integrando_bitbucketgithub_com_trello_ZIPNSpV.png)
+"Resultado do meu commit"
 
 E o negócio é rápido, viu?
 
-![E o negócio é rápido, viu?](integrando_bitbucketgithub_com_trello_vVmuKb7.png)
+"E o negócio é rápido, viu?"
 
 ## Adendo: BitBucket
 
@@ -35833,7 +35833,7 @@ Podemos simplesmente adicionar mais duas opções para o parzinho STL/Boost:
 
 A boa nova, pelo menos para o Visual Studio 2013, é que agora é possível, se quisermos, entrar nas funções que serão ignoradas:
 
-![Step Into Specific no Visual Studio 2013](o_novo_como_nao_dar_step_into_do_visual_studio_201213_5cda0E7.jpg)
+"Step Into Specific no Visual Studio 2013"
 
 Eu não sei qual vai ser a próxima novidade do step into, mas para mim, já está bem ótimo.
 
@@ -38637,7 +38637,7 @@ Com uma didática e moral "certinhas", permeada de politicamente correto e traç
 
 Já uso logs há muito tempo. Me lembro muito bem que quando programava em BASIC o "passou por aqui" já era útil. Depois de fazer muitas bibliotecas super-flexíveis de escrita em saídas diferentes, níveis configuráveis e uso do mais complexo ao mais banal, cheguei à seguinte conclusão:
 
-![](logs_em_servicos_e_outras_coisas_p9kH1LW.jpg)
+"Logs em serviços e outras coisas"
 
 ### Log("Quero um log mais simples possível (de preferência ", 15, " vezes mais simples)");
 
@@ -38682,7 +38682,7 @@ Encapsular a saída e o comportamento de um serviço hoje em dia é algo banal. 
 
 Além de ser extremamente flexível e não ter falhado nas vezes que o utilizei, o NSSM consegue redirecionar a saída do aplicativo que encapsula como um serviço para um arquivo e rotacionar o arquivo por tamanho ou data (ou reexecução do serviço):
 
-![](logs_em_servicos_e_outras_coisas_v12mGG3.png)
+"Logs em serviços e outras coisas 2"
 
 Abaixo uma receitinha básica para configurar seu aplicativo:
 
@@ -39523,7 +39523,7 @@ static const char* LIB_VERSION = "minhalib 0.0.1";
 
 Dessa forma, por pior que seja a situação do controle de seus binários, sempre haverá a possibilidade de procurar a string lá dentro.
 
-![Strings na minha lib](voce_sabe_o_que_esta_usando_no_seu_codigo_strings_minha_lib.png)
+"Strings na minha lib"
 
 Ops, esqueci que nesses compiladores modernos o que você não usa não será incluído no binário final. Isso quer dizer que se quisermos que essas strings de identificação de dependências apareça no binário compilado precisamos pelo menos dar a impressão de que ele esteja sendo usado:
 
@@ -39552,7 +39552,7 @@ int main()
 }
 ```
 
-![Strings na minha lib](voce_sabe_o_que_esta_usando_no_seu_codigo_strings_minha_lib_ok.png)
+"Strings na minha lib OK"
 
 Uma solução mais genérica pode ser aplicada utilizando as famigeradas macros e...
 
@@ -39616,7 +39616,7 @@ public:
 USING_LIB(lib1, "0.0.1");
 ```
 
-![Todas as strings do meu projeto](voce_sabe_o_que_esta_usando_no_seu_codigo_all_strings_using.png)
+"Todas as strings do meu projeto"
 
 Com esse simples mecanismo que não gasta mais do que algumas chamadas de assembly no início da lib (antes do main) e o espaço ocupado na memória pelas strings somadas (menos de 1KB, provavelmente) você tem em suas mãos uma poderosa ferramenta de análise de como os binários estão sendo gerados pela sua equipe remota, ou por qual configuração foi usada na máquina de build para gerar aquela DLL com aquele problema antigo, ou porque algo que funcionava parou de funcionar e nada foi mexido (isso nunca acontece, não é mesmo?).
 
@@ -39771,27 +39771,27 @@ Bem, para os que estavam acostumados com o Visual C++ 6.0, nada foi mais incômo
 
 E eis que alguém, muito provavelmente eu mesmo, naquele momento de inspiração, criei a seguinte configuração para a geração dos PDBs, os símbolos para depurar programas no Windows:
 
-![](o_estranho_caso_do_pdb_mal_formado_AmoYVLS.png)
+"PDF mal formado"
 
 Faz sentido, não? Afinal de contas, o PDB costuma ter o nome do projeto, e ele já está setado até em outro lugar para gerar com o mesmo nome. Nada de novo no front.
 
-![](o_estranho_caso_do_pdb_mal_formado_SYoMbtq.png)
+"PDF mal formado 2"
 
 Até aí tudo bem. Aliás, tudo ficou muito bem por estranhos 13 anos.
 
 Até que alguém decidiu migrar para o já não tão novo Visual Studio 2013!
 
-![](o_estranho_caso_do_pdb_mal_formado_YZ6v5eP.png)
+"PDF mal formado 3"
 
 E tudo correu muito bem por algumas horas... talvez 13.
 
 Até que a depuração de repente parou de funcionar.
 
-![](o_estranho_caso_do_pdb_mal_formado_xbk6WsP.png)
+"PDF mal formado 4"
 
 Será o benedito? Ou o co-piloto?
 
-![](o_estranho_caso_do_pdb_mal_formado_5ZSZu4g.png)
+"PDF mal formado 5"
 
 Pesquisando nos fóruns da vida, antro dos desesperados, achei/lembrei de um comando muito útil no WinDbg que não apenas diz se os símbolos estão "mismatch", ou seja, os símbolos ou o PDB não está combinando com o EXE, mas também por quê.
 
@@ -39821,17 +39821,17 @@ DBGHELP: Module - no symbols loaded
 
 Para saber o que está errado, o famigerado !IToldYouSo
 
-![](o_estranho_caso_do_pdb_mal_formado_AxapyHQ.jpg)
+"PDF mal formado 6"
 
-![](o_estranho_caso_do_pdb_mal_formado_di9JV7u.png)
+"PDF mal formado 7"
 
 Mano, como assim?!?!? Eu acabei de compilar esse binário, eu já apaguei 15 vezes as pastas de Debug e Release, eu já rebootei mais do que o Windows me obriga a rebootar por causa das falhas de segurança.
 
 Pois, então, desesperançado, crio um projeto novo para comparar as configurações, e voltamos 13 anos atrás, naquele fatídico dia, e entendo por que o nome do PDB temporário não é igual. Bom, na verdade não entendo, mas intuo que tenha alguma relação:
 
-![](o_estranho_caso_do_pdb_mal_formado_x19BKm4.png)
+"PDF mal formado 8"
 
-![](o_estranho_caso_do_pdb_mal_formado_P23UaPY.png)
+"PDF mal formado 9"
 
 E, de fato. Solução? Copie as configurações usuais do "novo" Visual Studio comparando com o velho.
 
@@ -39839,7 +39839,7 @@ Abaixo a chamada do suporte em inglês, se alguém achar o mesmo problema em alg
 
 "Just got stuck in the same problem, but in a C++ source that has 13 years, where its first solution was in VS 2003. Comparing the Project Properties in C/C++, Output Files, Program Database File Name, I found out that the project was pointing to the same file path that Linker, Debugging, Generate Program Database File, when the normal situation is to generate a vc120.pdb. Comparing with a new project, the "right" value can't be $(OutDir)$(TargetName).pdb (ou ProjectName), but $(IntDir)vc$(PlatformToolsetVersion).pdb. That solved the problem. I hope solve another one's problem as well =)"
 
-![](o_estranho_caso_do_pdb_mal_formado_uDmJxtB.png)
+"PDF mal formado 10"
 
 Minha próxima tarefa, aparentemente, é ver como sendo sócio da "BitForge" e da "Intelitrader", e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/
 
@@ -40670,13 +40670,13 @@ rc_new_content = re.sub(u'^.*FILEVERSION.*$', file_version_string,
 
 Quando algum binário parar na máquina de algum cliente em algum lugar do universo, basta olhar para os detalhes pelo Windows Explorer, e ele estará lá:
 
-![](indexando_simbolos_com_rapidez_mogZt3n.png)
+"Indexando com rapidez"
 
 Através desse a2f3c... podemos capturar o commit exato de onde saiu o binário. Tudo, é claro, confiando no procedimento de toda a equipe: apenas gerar um binário a partir de um commit publicado.
 
 Você também pode exibir a versão dos binários em uma pasta através das colunas do Windows Explorer:
 
-![](indexando_simbolos_com_rapidez_vfY2oan.png)
+"Indexando com rapidez 2"
 
 ### Indexando símbolos e binários
 
@@ -40706,7 +40706,7 @@ Windows Registry Editor Version 5.00
 
 Você pode baixar um arquivo reg aqui (update 2026-04-03: não mais), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
 
-![](indexando_simbolos_com_rapidez_tvCCYcm.png)
+"Indexando com rapidez 3"
 
 Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo passo-a-passo na pasta exefile em vez de dllfile.
 
@@ -41638,7 +41638,7 @@ if( findH != INVALID_HANDLE_VALUE )
 //...
 ```
 
-![](classe_objeto_contexto_dilbert.context.gif)
+"Classe, objeto, contexto, Dilbert"
 
 No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":
 
@@ -41742,9 +41742,9 @@ int main()
 }
 ```
 
-![](classe_objeto_contexto_metodo_uzfJuTC.png)
+"Classe, objeto, contexto, método"
 
-![](classe_objeto_contexto_metodo_JLJaAsB.png)
+"Classe, objeto, contexto, método 2"
 
 Parece muito trabalho para algo que é feito "automagicamente" em C++, certo? Certo. Porém, agora sabemos o que acontece por baixo dos panos em C++ e que pode ser feito em C (ainda que "na mão"). Você provavelmente nunca fará esse tipo de código em C para emular C++, mas o objetivo desse código é entender como funciona, por exemplo, a vtable do C++, que permite polimorfismo.
 
@@ -41819,7 +41819,7 @@ int main()
 }
 ```
 
-![](classe_objeto_contexto_metodo_polimorfismo_Ye5mA8L.png)
+"Classe, objeto, contexto, método, polimorfismo"
 
 Como você deve imaginar, é possível também fazer isso em C. Basta mudar os endereços das variáveis do tipo ponteiro de função que estão na struct usada como contexto. Para ficar o mais próximo possível do "modo C++" de fazer polimorfirmo, podemos escrever hardcoded a tal vtable para os diferentes tipos de "classe":
 
@@ -41876,11 +41876,11 @@ int main()
 }
 ```
 
-![](classe_objeto_contexto_metodo_polimorfismo_tRAtU9d.png)
+"Classe, objeto, contexto, método, polimorfismo 2"
 
 A versão C ainda tem a vantagem de não precisar de uma vtable const (embora seja adequado em situações normais de temperatura e pressão). Os "métodos" poderiam mudar caso algum estado mudasse, alguma exceção fosse disparada, mantendo o mesmo contexto, mas um comportamento (vtable) diferente. Quem utiliza muito essa estratégia é o kernel do Windows, que mexe com estruturas que contém não apenas listas ligadas genéricas, mas funções de callback que não apenas o código da Microsoft precisa chamar, mas os próprios drivers de terceiros que se preocupam com bom comportamento e guidelines que tornam o SO rodando perfeitamente.
 
-![](classe_objeto_contexto_metodo_polimorfismo_k20fqVJ.gif)
+"Classe, objeto, contexto, método, polimorfismo 3"
 
 O importante deste artigo é demonstrar como conceitos aparentemente complicados ou escondidos de uma linguagem como C++ podem ser compreendidos completamente utilizando apenas linguagem de alto nível no bom e velho C. Essa estratégia de descer camadas de abstração, como verá, funciona para linguagens de mais alto nível, como C# ou Java, pois ambas são implementadas em linguagens como C++. No fundo, engenharia de software é um universo multi-camadas transitando pela última camada que conhecemos -- a física. Pelo menos a última camada que ainda conhecemos.
 
@@ -41936,7 +41936,7 @@ int main()
 }
 ```
 
-![](gabaritos_84Ptrvk.png)
+"Gabaritos"
 
 Continuando nosso tema de fazer as mesmas coisas em C, templates não é tão simples, pois não existe de fato na linguagem. Templates são interpretados pelo compilador, que gera um esqueleto de algoritmo que é usado para preencher código de todos os tipos utilizados. Em C isso era feito usando macros. Porém, macros não fazem parte da linguagem C. É apenas uma ferramenta chamada pré-processador que substitui texto antes do programa ser compilado. É através do pré-processador que, por exemplo, os headers são incluídos em um código-fonte. Isso já foi explicado em um artigo bem velhinho, e mais recentemente em uma palestra.
 
@@ -41947,7 +41947,7 @@ Continuando nosso tema de fazer as mesmas coisas em C, templates não é tão si
 
 Eu não recomendaria usar macros em C++, assim como não recomendo em C. Porém, em C é a única opção para reciclar algoritmos de maneira estática. Exceto se você usar ponteiros de função, o que adiciona pouco overhead, mas se perde, assim como a técnica de macro, a informação dos tipos. A própria libc contém uma função, "qsort", que é "genérica" através do uso de ponteiros sem tipo (void*) e ponteiro de função. A função ordena elementos de uma lista, mas para isso depende da função de comparação que é passada por parâmetro. Essa função recebe dois void* que deve comparar. Além disso, o leiaute na memória tem que ser fixo, contínuo, pois é assim que a função consegue mover os elementos. Ou seja, bem limitado.
 
-![](gabaritos_3TkGFkN.png)
+"Gabaritos 2"
 
 Dessa forma, não pretendo ensinar a usar "templates" em C, mas a usá-los em C++ com foco em C. Um amigo conhecido de vocês, o DriverEntry]/DriverEntry], utilizou essa técnica com maestria em alguns códigos kernel-mode que ele desenvolveu, e é uma maneira válida de se aproveitar de uma linguagem mais "alto nível" como C++ em ambientes limitados como o código que trabalha com o S.O.. Como a API do kernel lida com abstrações em C, seus objetos necessariamente não são objetos no sentido C++, mas os famigerados "ponteiros opacos".
 
@@ -41985,7 +41985,7 @@ typedef struct _LIST_ENTRY {
 
 A lógica por trás de LIST_ENTRY é que esse membro pode ser inserido em qualquer lugar da estrutura que representará um elemento:
 
-![](templates_em_c_no_lugar_de_macros_865mgsu.jpg)
+"Templates em C no lugar de macros"
 
 Ele pode estar realmente no meio do elemento, pois isso não importa, desde que você saiba voltar para o começo da estrutura. Isso é útil quando um elemento pode fazer parte de diferentes listas.
 
@@ -42220,11 +42220,11 @@ Vamos testar aqui o log da nossa cobaia de plantão, o amigo Notepad (ou Bloco d
 
 Nota: Lembrando que estaremos testando em Windows XP 32 bits com um WinDbg igualmente 32 bits. Inicialmente comecei a testar a versão 64, mas ela também deu xabu. Aparentemente coisas periféricas do Debugging Tools nunca são muito bem testadas.
 
-![](log_de_apis_chamadas_direto_do_windbg_5gLF4Qd.png)
+"Log de APIs chamada direto do WinDbg"
 
 O texto ainda não foi salvo em nenhum arquivo. Iremos salvá-lo, mas antes, vamos executar o WinDbg e ver como o Notepad realiza essa operação.
 
-![](log_de_apis_chamadas_direto_do_windbg_55CjXt2.png)
+"Log de APIs chamada direto do WinDbg 2"
 
 A extensão/plugin que me referia é o Logexts.dll. Você pode instalar o log de API em um momento, habilitá-lo em outro, e até desabilitá-lo depois. Ou seja, é um processo ótimo para realizar inspeção pontual de chamadas API. Caso, claro, ele não exploda em um desses momentos.
 
@@ -42284,19 +42284,19 @@ Detached
 
 Depois de gerarmos o que precisamos, podemos desatachar do processo e analisar o resultado: um arquivo LGV. Para abrir esse arquivo existe uma outra ferramenta chamada logviewer.
 
-![](log_de_apis_chamadas_direto_do_windbg_fNq4uUu.png)
+"Log de APIs chamada direto do WinDbg 3"
 
 Para evitar procurar em dezenas de milhares de chamadas, há uma opção de filtrar com apenas o que queremos (no caso, CreateFile e WriteFile):
 
-![](log_de_apis_chamadas_direto_do_windbg_sgCO9Wj.png)
+"Log de APIs chamada direto do WinDbg 4"
 
 Depois de filtrado, podemos abrir a linha que nos interessa para ver como o programa utilizou a API (quais parâmetros, o retorno, etc).
 
-![](log_de_apis_chamadas_direto_do_windbg_mNDJRhK.png)
+"Log de APIs chamada direto do WinDbg 5"
 
 Note, por exemplo, que houve uma falha antes na abertura do mesmo arquivo, mas isso porque houve uma tentativa de abrir um arquivo que já existe (abertura com direito de apenas leitura). Essa chamada foi feita pela DLL do diálogo comum de abertura/salvamento de arquivo do Windows (comdlg32.dll), e não pelo notepad.exe.
 
-![](log_de_apis_chamadas_direto_do_windbg_p2bgEl2.png)
+"Log de APIs chamada direto do WinDbg 6"
 
 Como já havia dito no artigo original sobre o logview, você pode criar seu próprio header com as definições das funções de um módulo e o WinDbg graciosamente irá gerar um log de chamadas, incluindo medidas de performance. Esses dados abertos pelo logviewer podem ser exportados também para modo texto. E temos mais uma maneira de perfcounter chulé para eventualidades.
 
@@ -42346,7 +42346,7 @@ A primeira coisa a ser feita é converter o repositório. Depois de convertido, 
 
 No Windows, nas últimas versões do Bazaar o comando fast-export não estava mais funcionando. Parado desde 2012, não há previsão de correções. No entanto, para essa operação, a versão 2.4.2 atendeu bem. O comando é um pouco diferente, mas ele é rápido e rodou sem problemas em conjunto com o fast-import do Git.
 
-![](exportando_repositorios_antigos_do_bazaar_para_git_9gzHZOz.png)
+"Exportando repositórios do Bazaar para Git"
 
 ```
 git init
@@ -45447,7 +45447,7 @@ Porém, existe um método infalível. Um método que transforma os programadores
 
 Esse método chama-se: Programa, Filho da Chuva
 
-![](programa_mae_foca_O2dhzNc.png)
+"Programa, mãe foca"
 
 Ou, do inglês, PMF.
 
@@ -45574,17 +45574,17 @@ Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfa
 
 E como se faz para começar a montar os testes unitários? Bom, suponha que você tenha um projeto qualque que já compila, roda e faz alguma coisa de útil:
 
-![](unitmenosmenos_HjYVkyp.png)
+"Unit menos menos 1"
 
 Apenas crie um projeto do lado, console, ou copie e cole o projeto, mas use os arquivos-fonte do projeto original. Dessa forma ele irá compilar com os fontes que estão sendo modificados/compilados.
 
-![](unitmenosmenos_NT2C1SC.png)
+"Unit menos menos 2"
 
 Apenas se lembra de não incluir o módulo que contém o int main. Esse módulo deve ficar apartado do projeto principal.
 
 Depois basta incluir apenas um arquivo do projeto unit--, que é seu cpp principal.
 
-![](unitmenosmenos_P8bEvns.png)
+"Unit menos menos 3"
 
 Com isso existirá um main lá dentro, definido em algum lugar. E tudo o que você precisa fazer é ir criando seus testes em outro arquivo fonte gerado para isso. O corpo e o formato dos unit cases é bem simples. Note que tudo que você fez para já sair testando seu projeto foi copiar um projeto já existente e inserir um módulo de outro projeto. Tudo compilando junto e já podemos fazer os primeiros testes do programa original (desde, claro, que ele seja testável, algo primordial):
 
@@ -45982,7 +45982,7 @@ As opções específicas são para gerar o path completo, as barras invertidas s
 
 A partir dessa configuração já é possível compilar um projeto estando em sua pasta:
 
-![](usando_gvim_com_projetos_do_visual_studio_GmIwJ19.png)
+"Usando GVim com projetos do VS"
 
 Para o Visual Studio 2003 (ou qualquer um usando o devenv.com) é necessário mudar esse comando:
 
@@ -45992,7 +45992,7 @@ Para o Visual Studio 2003 (ou qualquer um usando o devenv.com) é necessário mu
 
 Sim, temos que escolher uma configuração (o msbuild já escolhe por você). E note que ele usa o arquivo atual (%) para compilar. Isso quer dizer que isso irá exigir do usuário de Vim abrir o sln ou o vcproj e executar o :make a partir daí. De qualquer forma, ele funciona também:
 
-![](usando_gvim_com_projetos_do_visual_studio_PEr73NL.png)
+"Usando GVim com projetos do VS 2"
 
 ### Refinando a saída
 
@@ -46006,15 +46006,15 @@ Ele pega também os warnings, mas fazer o quê. Você não quer conviver com war
 
 VS2010:
 
-![](usando_gvim_com_projetos_do_visual_studio_4FymFj0.png)
+"Usando GVim com projetos do VS 3"
 
 VS2003:
 
-![](usando_gvim_com_projetos_do_visual_studio_hXaP1X8.png)
+"Usando GVim com projetos do VS 4"
 
 Note que depois de clicar em Enter ele pula para o primeiro erro da lista:
 
-![](usando_gvim_com_projetos_do_visual_studio_Xjbb5p3.png)
+"Usando GVim com projetos do VS 5"
 
 E para navegar na lista é como o resultado de comandos como :vimgrep. :cnext e :cprevious vão para frente e para trás na lista, sempre pulando para o ponto no código onde está o erro.
 
@@ -47481,39 +47481,39 @@ O Perfmon(.msc) está aí no Windows já faz algumas versões (quase todas). Tud
 
 Ao executá-lo a primeira coisa que ele monitora é o processamento da máquina. Podemos eliminar ou esconder esse indicador direto na lista abaixo da ferramenta.
 
-![](quantos_handles_TSAZhI0.png)
+"Quantos handles"
 
 Existem incontáveis contadores no Perfmon. Para o que precisamos vamos em Process e escolhemos o contador de Handles:
 
-![](quantos_handles_dR2awj1.png)
+"Quantos handles 2"
 
 Depois de um tempo o Perfmon irá exibir o histórico que determina para onde está indo o seu contador:
 
-![](quantos_handles_smbb54b.png)
+"Quantos handles 3"
 
 Se os valores do seu contador estão fora da faixa do histórico é possível ajustar a escala nas propriedades:
 
-![](quantos_handles_OYhOMob.png)
+"Quantos handles 4"
 
 Se a frequência for muito menor do que um handle por segundo (isso acontece, principalmente com serviços que rodam por dias/semanas/meses), é possível mudar também pelas propriedades, mais gerais:
 
-![](quantos_handles_O6wBqBo.png)
+"Quantos handles 5"
 
 A mudança que fizemos captura o dado monitorado de dez em dez segundos e realiza essa operação por 600 segundos (10 minutos), até repetir o gráfico de histórico:
 
-![](quantos_handles_iyu6PBR.png)
+"Quantos handles 6"
 
 #### Process Explorer
 
 Outra forma de verificar como andam os handles da máquina é usando a já famosa ferramenta da SysInternals. Através das inúmeras colunas que ela fornece existe o contador de handles de cada processo, através do qual é possível verificar quais são os processos com mais handles abertos:
 
-![](quantos_handles_RATAymD.png)
+"Quantos handles 7"
 
-![](quantos_handles_mR5c2kk.png)
+"Quantos handles 8"
 
 Se seu programa for um handle hog, vai conseguir até ver esse leak acontecendo em tempo real (como o nosso programa mal-educado):
 
-![](quantos_handles_gR0Qe9D.gif)
+"Quantos handles 9"
 
 E como encontrar o código-fonte responsável por esse leak? Mais detalhes em um próximo post.
 
@@ -48382,7 +48382,7 @@ O motivo da thread nunca retornar (ou dar timeout), porém, não estava em nenhu
 
 Erros ao chamar a API do Win32 são comuns exatamente porque esta é uma lib arcaica, pouco intuitiva com diferentes tipos de exceções. No caso de uma operação assíncrona com overlapped, se você ler as tantas páginas da "função ReadFile", por exemplo, vai acabar encontrando um adendo escondido no meio da documentação:
 
-![](readfile_assincrono_pode_ser_sincrono_quando_voce_menos_espera_sJDJHii.png)
+"ReadFile assíncrono pode ser síncrono"
 
 Este "adendo" possui a informação que ninguém ainda sabia porque... porque a Microsoft é uma chuva oras =)
 
@@ -48490,7 +48490,7 @@ Você já colocou aquele seu projeto favorito em /W4? Por padrão, o Visual Stud
 
 OK, este foi o nível 3 do tioserver, o projeto principal do "tiodb", uma ferramenta para manter contêineres assináveis na memória e acessíveis via socket. Note que já existe um warning, mas vamos ignorar por enquanto. O objetivo aqui é descobrir quais os warnings mais comuns do projeto que você vai escolher. Vejamos o meu:
 
-![](warning_de_nivel_4_XjbqVh9.png)
+"Warning de nível 4"
 
 ```
 ------ Rebuild All started: Project: tioserver, Configuration: Debug x64 ------
@@ -49148,11 +49148,11 @@ Fences é indicado ao Oscar para preencher uma cota que em 2017 está sobrecarre
 
 Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do "tiodb" e após baixar todos os pacotes do "NuGet", o gerenciador de pacotes do Visual Studio (inclusive para C++, agora) acusou a falta do boost, sendo que ele havia acabado de baixá-lo:
 
-![](pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_HUp5S4K.png)
+"Pacotes perdidos 1"
 
-![](pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_IfVDNN9.png)
+"Pacotes perdidos 2"
 
-![](pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_Yi8kVgC.png)
+"Pacotes perdidos 3"
 
 Os pacotes do projeto ficam todos na raiz do diretório da solução na sub-pasta packages. Observando o que foi baixado lá, verifiquei que a versão do boost estava ok: ele havia baixado a 1.61 como pedido, mas o erro dizia respeito justamente a um desses pacotes.
 
@@ -49210,7 +49210,7 @@ gvim server\tio\tioserver.vcxproj
 :wq
 ```
 
-![](pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_BLUS8XJ.png)
+"Pacotes perdidos 4"
 
 ```
 1>------ Build started: Project: tioclientdll, Configuration: Debug x64 ------
@@ -49487,7 +49487,7 @@ Por fim, apresentando uma Rooney Mara de luxo como par romântico do protagonist
 
 Esta palestra tem como objetivo ensinar o que são moedas digitais, como o bitcoin, e cada passo necessário o algoritmo e implementação para torná-la real. Será utilizado C++ como a linguagem-base e o foco está mais na implementação do que na matemática ou no algoritmo. Assim como foi criado o bitcoin, o importante a aprender é como unir diferentes tipos de conhecimento e tecnologia em torno de um objetivo único, simples e prático.
 
-![](palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_TAunJPB.png)
+"Palestra moedas digitais em casa"
 
 A partir da criação da moeda surge a necessidade de facilitar o seu uso, um problema recorrente em todas as mais de 700 moedas digitais existentes no mercado e no laboratório, incluindo o bitcoin. Após a palestra teremos uma discussão de como levar a tecnologia ao usuário comum.
 
@@ -49516,7 +49516,7 @@ Up and running!
 
 OK, tio rodando e ativo. Podemos navegar já pelos seus contêineres usando o InteliHubExplorer:
 
-![](palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_YJZ7wxC.png)
+"Palestra moedas digitais em casa 2"
 
 Por convenção os contêineres seguem um padrão de nomes que se assemelha a uma hierarquia de diretórios, e os nomes que começam com underline são internos/reservados. O contêiner __meta__/sessions, por exemplo, contém uma lista simples das conexões ativas deste nó.
 
@@ -49612,15 +49612,15 @@ catch (...)
 
 Após executar esse código passando o argumento "--build" e atualizarmos o IntelihubExplorer poderemos ver o novo contêiner e seu conteúdo:
 
-![](palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_3Mhj2lE.png)
+"Palestra moedas digitais em casa 3"
 
 É possível ler o código rodando o mesmo programa sem passar o argumento "--build":
 
-![](palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_CxdmZhy.png)
+"Palestra moedas digitais em casa 4"
 
 Agora imagine que exista um cliente da tiocoin que está monitorando as transações deste servidor para verificar a partir de qual momento uma transação foi aceita (supondo que este contêiner possui as transações aceitas):
 
-![](palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_kLrPawv.png)
+"Palestra moedas digitais em casa 5"
 
 Voilà! Agora temos um sistema inicial com um contêiner que irá manter os IDs de supostas transações de nossa moeda digital. Está compilando e está rodando, e em cima disso poderemos ir adicionando as funcionalidades.
 
@@ -49632,7 +49632,7 @@ Atenção: você poderá encontrar o repositório do tiocoin no "GitHub da BitFo
 
 Acho que todo mundo já passou por isso. Você compila todo o projeto bonitinho e no final, ao depurar, ele faz aquela velha pergunta: "o projeto está desatualizado: deseja compilar novamente?". Mas como assim? Eu acabei de compilar, não faz nem cinco segundos. Está quentinho, saiu do forno agora.
 
-![](o_velho_problema_do_project_out_of_date_do_visual_studio_x9EyDDe.png)
+"Velho problema do out of date do VS"
 
 Às vezes o Visual Studio cria umas esquisitices que se perpetuam por todas as versões. Isso tem algum sentido. Funciona mais ou menos assim a lógica do "project out of date": se existir algum arquivo cuja data/hora eu não consigo verificar eu considero que o projeto está desatualizado. Por que? Pode ser que esse arquivo tenha que ser gerado automaticamente. Pode ser que houve erro de acesso. Pode ser várias coisas, mas ainda assim faz sentido.
 
@@ -49642,11 +49642,11 @@ E isso é bem comum de acontecer em um projeto com algum refactory. Você acabou
 
 O problema é que não existe nenhuma dica do que está errado em condições normais de temperatura e pressão. Para conseguiu olhar mais detalhes temos que ir em Tools, Options e configurar mais saída para o build. Pelo menos como detailed:
 
-![](o_velho_problema_do_project_out_of_date_do_visual_studio_VxMIlQL.png)
+"Velho problema do out of date do VS 2"
 
 A partir daí teremos mais saída na janela de output do build. Logo no começo (talvez pela equipe do VS saber que isso é bem comum) há uma dica de quais arquivos exige o rebuild (você pode fazer isso apenas clicanco em build do projeto que sempre acusa como out of date):
 
-![](o_velho_problema_do_project_out_of_date_do_visual_studio_DhX7Kj9.png)
+"Velho problema do out of date do VS 3"
 
 Depois de detectado o arquivo faltante, é só removê-lo ou atualizar o path. Esse erro não deve mais acontecer e agora você só precisa compilar uma vez e sair depurando.
 
@@ -49841,7 +49841,7 @@ Felizmente (e também obviamente) o pessoal do Qt já fez "uma entrada na wiki" 
 
 Mas não foi o caso dessa vez. Tudo funcionou perfeitamente assim que incluí os valores da Wiki logo no começo da sessão Visualizer.
 
-![](visualizando_qstring_no_visual_studio_3dnGwGK.gif)
+"Visualizando qstring no VS"
 
 
 # Silêncio
@@ -50171,7 +50171,7 @@ Leonard é incisivo contra a cultura americana que foca nos resultados em vez de
 
 Através de cinco dicas-chave, instruction, practice, surrender, intentionality e the edge, o autor nos explica a forma com que o dia-a-dia se traduz de maneira simples em como receber instrução válida para melhorar, a prática contínua, a capacidade de abrir mão do ego e obedecer às ordens do mestre de maneira honesta, a visão clara do objetivo para que não se perca no caminho, e, por fim, aquele boost temporário que irá te levar para o novo nível, sempre ligeiramente acima do anterior, e que após uma pequena queda irá lhe colocar em um novo patamar, onde através da constância irá te manter lá.
 
-![](livro_mastering_the_key_to_success_and_long_term_fulfillment_UoDkC54.png)
+"Mastering the Key to Success"
 
 Até o próximo boost.
 
@@ -50308,7 +50308,7 @@ c:\fileserver\fileserver.exe
 
 Para testar basta acessar o endereço via browser:
 
-![](forma_simples_de_baixar_atualizacoes_remotamente_de_um_cliente_para_um_servidor_hSnmzqv.png)
+"Forma simples de baixar atualizações"
 
 ### Lado cliente
 
@@ -51510,7 +51510,7 @@ Há muito tempo atrás eu falei sobre o depurador remoto do C++ Builder, na épo
 
 É simples de achar essa opção no projeto em qualquer Visual Studio. Vá nas opções do projeto, Linker e irá encontrar em algum lugar sobre a geração do PDB. Não tenha medo de explorar as opções do projeto. Elas refletem como o XML do projeto muda (sim, é um XML). Se estiver querendo saber exatamente como ele muda, use um controle de fonte e vá experimentando.
 
-![](debugger_remoto_do_visual_studio_znl7K0b.png)
+"Debugger remoto do VS"
 
 Para depurar pelo Visual Studio 2003 há um programa chamado msvcmon.exe que deve ser copiado e executado na máquina-alvo. Ele é um executável que pode ser copiado para qualquer lugar. Junto dele devem estar duas DLLs: a natdbgdm.dll e a natdbgtlnet.dll. Se você tiver o VS2003 instalado deve achar esses arquivos em algum lugar, ou no pior dos casos no CD de instalação. Por via das dúvidas sempre há um link amigo na internet para ajudar alguém a achar o que precisa.
 
@@ -51578,7 +51578,7 @@ Waiting for Connections - everyone is allowed access
 
 Agora no Visual Studio 2003 vá em Debug, Processes (ou Ctrl+Alt+P para os íntimos) e escolha a opção de Transport como TCP/IP, digite o IP... explore sua ferramenta, poxa!
 
-![](debugger_remoto_do_visual_studio_bZVsEj8.png)
+"Debugger remoto do VS 2"
 
 Depois de conectar remotamente por essa janela o console do msvcmon irá mostrar que usuário se logou:
 
@@ -51590,11 +51590,11 @@ Waiting for Connections - everyone is allowed access
 
 Para configurar o início da depuração remota pelo próprio projeto você terá que ir nas opções de debug dele:
 
-![](debugger_remoto_do_visual_studio_mrktmwE.png)
+"Debugger remoto do VS 3"
 
 E para começar os problemas é sempre bom lembrar que projetos compilados como debug precisam das DLLs de runtime do Visual Studio que sejam debug. Mas você já sabe disso.
 
-![](debugger_remoto_do_visual_studio_7EHOpJ1.png)
+"Debugger remoto do VS 4"
 
 Depois que tudo isso estiver OK é só iniciar seus processos remotamente em modo de depuração ou atachar pela primeira janela que vimos.
 
@@ -51602,11 +51602,11 @@ Agora você deve estar se perguntando: "mas esse VS é muito velho! e os mais no
 
 Bom, desde o VS 2010 e até o VS2017 RC essa ferramenta está disponível na pasta de instalação, mudou um pouco de cara e você pode encontrar procurando por "remote". No Caso do VS mais novo que tenho em mãos aqui, o 2017 RC, existe já uma pasta pronta para copiar e colar na máquina-alvo, em Common7, IDE, Remote Debugger. Há duas pastas disponíveis: x86 e x64. Dependendo do tipo de compilação que deseja realizar (e de qual o seu executável) copie uma das duas, rode o executável da pasta e apenas configure.
 
-![](debugger_remoto_do_visual_studio_2yUrl8z.png)
+"Debugger remoto do VS 5"
 
 Você até já sabe qual o caminho do sucesso: "All access to everyoooone"!!! ;)
 
-![](debugger_remoto_do_visual_studio_ajBG8fM.gif)
+"Debugger remoto do VS 6"
 
 
 # Mulher do Pai
@@ -51884,11 +51884,11 @@ A lista que achei interessante (com seu projeto):
 
 A otimização no if através do uso da palavra-chave constexpr possibilita a criação de diferentes instâncias da chamada que não contém o if, mas um dos dois branches dependendo do tipo ser integral ou não.
 
-![](cpptests_ivRwuGm.png)
+"Cpptests"
 
 Para que a compilação dessa opção funcione no Visual Studio 2017 15.3 é necessário inserir o parâmetro /std:c++latest nas opções do projeto em C/C++, Command Line:
 
-![](cpptests_tPIS4wL.png)
+"Cpptests 2"
 
 Todos (ou a maioria) deles ainda está em teste. Acabei de baixar o preview 5, conforma um dos membros da ML dos MVPs C++ me informou que saiu quentinha do forno. Em breve novidades.
 
@@ -51944,7 +51944,7 @@ O depurador do Visual Studio mais novo fica em sua pasta de instalação Program
 
 No caso do msvsmon, se executado com /? (padrão entre programas Windows) ele abre um pequeno help com a ajuda necessária para executar os parâmetros corretos:
 
-![](forma_mais_simples_de_depurar_processos_antes_do_logon_CZIHbHZ.png)
+"Depurar processos antes do logon"
 
 No caso o comando maroto é o seguinte:
 
@@ -52010,7 +52010,7 @@ Depois de copiar Service.exe e DLL.dll para a máquina-alvo (e não se esquecer 
 nssm.exe install Service service.exe
 ```
 
-![](forma_mais_simples_de_depurar_processos_antes_do_logon_lgPCGyW.png)
+"Depurar processos antes do logon 2"
 
 Agora ache o IP da máquina-alvo e vá em Debug, Attach to Process (Ctrl+Alt+P) no Visual Studio, modo remoto e digite o IP.
 
@@ -52018,7 +52018,7 @@ Agora ache o IP da máquina-alvo e vá em Debug, Attach to Process (Ctrl+Alt+P) 
 cmd /k ipconfig | find "192"
 ```
 
-![](forma_mais_simples_de_depurar_processos_antes_do_logon_GpNPhiC.png)
+"Depurar processos antes do logon 3"
 
 Lembre-se de iniciar o serviço.
 
@@ -52037,7 +52037,7 @@ void DLL_Start()
 
 Depois que houver o attach você irá continuar a execução. Portanto, coloque um breakpoint logo depois.
 
-![](forma_mais_simples_de_depurar_processos_antes_do_logon_hja6Y2Y.png)
+"Depurar processos antes do logon 4"
 
 Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.
 
@@ -53888,7 +53888,7 @@ Bjarne Stroustrup desde o começo, em seu livro "The C++ Programming Language", 
 
 Então o erro no código acima é supor mecanicamente que como é C++ precisa ter classe.
 
-![](stroustrup.jpg)
+"Stroustrup"
 
 Não. O código não precisa ter uma classe. No entanto, seu código precisa ter classe. Entendeu?
 
@@ -53925,15 +53925,15 @@ E note que eu disse funções, não classe. E é possível ter classe sem classe
 
 Qualquer um que já tenha mexido no prompt de comandos do Windows sabe que ele permite você escolher qual code page utilizar para enviar e receber comandos. O Windows é todo em UTF-16, mas as saídas podem vir de qualquer programa com qualquer encoding. A missão do cmd.exe é usar o encoding escolhido pelo usuário para exibir os caracteres na tela. Vamos supor que nós criemos uma pasta com acentos no nome (pelo Explorer para não ter erro):
 
-![QuemQuerPão](cmd_e_o_encoding_fake_ZutWZiB.png)
+"QuemQuerPão"
 
 Agora através de um cmd.exe podemos observar como esse nome acentuado aparece:
 
-![QuemQuerPãoCmd](cmd_e_o_encoding_fake_cAJED7b.png)
+"QuemQuerPãoCmd"
 
 Note como o "a" acentuado com til aparece perfeitamente. Também note que o codepage utilizado é o 437.
 
-![QuemQuerPãoCmdDetails](cmd_e_o_encoding_fake_3Llhikv.png)
+"QuemQuerPãoCmdDetails"
 
 Até aí tudo bem, certo?
 
@@ -53941,7 +53941,7 @@ Não! Não! Não!
 
 O "codepage 437" não possui ã. Nem õ.
 
-![CodePage437](cmd_e_o_encoding_fake_lcVG0ak.png)
+"CodePage437"
 
 Isso, meus amigos, é chamado tecnicamente na área de "muito louco".
 
@@ -53985,17 +53985,17 @@ int main(int argc, char* argv[])
 
 Simples, bonito e prático. Quando executamos Redirector.exe ele executa um cmd.exe, com a diferença que a saída dele vai parar no arquivo cmd.log, que podemos observar com um "BareTail" da vida.
 
-![Redirector](cmd_e_o_encoding_fake_92WFz8J.gif)
+"Redirector"
 
 Opa, opa, opa!
 
-![QuemQuerPaum](cmd_e_o_encoding_fake_RJ85xi9.png)
+"QuemQuerPaum"
 
 O til sumiu!
 
 Se formos analisar os bytes que vieram de saída, vamos constatar que o byte referente ao ã foi enviado para a saída padrão como o byte 0x61, ou 97 em decimal. No codepage 437 (e em qualquer derivado da tabela ASCII, na verdade) o byte 97 é representado como "a", simplesmente, sem til.
 
-![ASemTil](cmd_e_o_encoding_fake_6P8n4Dg.png)
+"ASemTil"
 
 Isso quer dizer que ao receber um "ã" o cmd.exe o reinterpreta como "a", mesmo estando sob o encoding 437. Esse é o resultado de um prompt user friendly que quer ser seu amigo.
 
@@ -54008,11 +54008,11 @@ dir /b c:\temp\quemquer*
 goto beg
 ```
 
-![QuemQuerPaoBatch](cmd_e_o_encoding_fake_3bsyxNU.png)
+"QuemQuerPaoBatch"
 
-![QuemQuerPaoDump](cmd_e_o_encoding_fake_4V81xIc.png)
+"QuemQuerPaoDump"
 
-![QuemQuerPaoFind](cmd_e_o_encoding_fake_fM6Iovh.png)
+"QuemQuerPaoFind"
 
 E com isso constatamos que não necessariamente no Windows, What You See Is What You Get. Ou, em termos mais filosóficos, "What I see is not necessarily what you see".
 
@@ -54335,7 +54335,7 @@ int main()
 
 Para isso funcionar você criar um projeto console no Visual Studo. Essa opção está no Linker, System:
 
-![](como_apagar_o_prompt_do_seu_programa_windows_uWYtwqL.png)
+"Apagar prompt do Windows"
 
 E voilà!
 
@@ -54365,7 +54365,7 @@ Dito isto, é preciso agora voltar os olhos novamente para Daniel Plainview, enc
 
 Abrir um dump (dmp) pode ser feito pelo Visual Studio, Windbg ou sua ferramenta de análise favorita. Mais importante que isso é carregar seus símbolos adequadamente.
 
-![](como_achar_erros_no_printf_via_dump_NhkhrJa.png)
+"Achar erros no printf via dump"
 
 Com o dump e símbolos abertos é possível analisar a stack de chamadas, o que nos revela que há um problema em uma função de Log. Como se trata de uma versão release não há muita informação da pilha, que pode fazer parte de uma stack modificada (otimização de código). Portanto, tudo que vier é lucro. Como variáveis.
 
@@ -54373,13 +54373,13 @@ Com o dump e símbolos abertos é possível analisar a stack de chamadas, o que 
 
 Demos sorte e é possível ver o que tem na variável de format, a mais importante de uma função de log estilo printf, pois geralmente é ela a responsável pelas dores de cabeça infernais.
 
-![](como_achar_erros_no_printf_via_dump_uOkd4VF.png)
+"Achar erros no printf via dump 2"
 
 Através dessa string é possível buscar no código usando grep, vim ou até o Visual Studio. Com isso reduzimos nosso escopo de busca ao mínimo.
 
 ## Code
 
-![](como_achar_erros_no_printf_via_dump_rAo1T0H.png)
+"Achar erros no printf via dump 3"
 
 E voilà! Temos uma chamada de log que teoricamente teria que passar uma string C, mas não passa nada. Isso quer dizer que a função de printf irá procurar na pilha pelo endereço de uma string, mas irá encontrar um endereço aleatório. Lendo esse endereço, que tem ótimas chances de ser inválido, ele irá capotar. Para dores de cabeças mais intensas, ele irá capotar aleatoriamente (ou na máquina do chefe, o mais provável).
 
@@ -58328,7 +58328,7 @@ Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu últi
 
 A resposta é não. Pois, como sabemos, o padrão C/C++ nos informa que o argv é um array de ponteiros de strings C que termina em nulo. Sabemos que ele termina, então o argc é apenas um helper para sabermos de antemão onde ele termina. Mas quando precisamos, por exemplo, passar o argv/argc para uma thread Windows, que aceita apenas um argumento mágico, talvez minha versão antiga não seja tão eficaz, pois isso vai evitar que eu aloque memória de um struct que contenha ambas as variáveis, etc. Por que não simplesmente utilizar apenas o argv?
 
-![](getarg_asi80x3.png)
+"Getarg"
 
 ```
 #include <string.h>
@@ -58517,7 +58517,7 @@ Note como as pastas de instalação dos pacotes do triplet selecionado são incl
 
 A mágica ocorre já na hora de dar include. E é mágica desde o autocomplete até o link. Por exemplo, digamos que vamos fazer um embedded de Python usando o "exemplo do help":
 
-![](vcpkg_internals_7XMj026.png)
+"Vcpkg internals"
 
 ```
 int main(int argc, char* argv[])
@@ -58661,7 +58661,7 @@ Fato curioso: no script do PowerShell existem alguns hacks para alguns pacotes, 
 
 O uso do CMake permite aos usuários do vcpkg ter boas ideias apenas lendo os scripts do projeto. Se você abrir o solution vcpkg.sln dentro de toolsrc vai descobrir todos os scripts listados por lá. Há funções espertinhas como o download e extração de pacotes 7zip do Source Forge.
 
-![](vcpkg_internals_aOHtf5a.png)
+"Vcpkg internals 2"
 
 Essa parte fica em vcpkg/scripts/cmake. Olhe, por exemplo, como retornar a versão do Windows SDK (vcpkg_get_windows_sdk.cmake):
 
@@ -58930,7 +58930,7 @@ c:\Libs\vcpkg\installed\x86-windows\share\bitforge
 
 E voilá! Agora o include está disponível, as funções estão disponíveis, o link está funcionando e seu pacote pode ser compartilhado com toda a empresa. Basta copiar a pasta ports/bitforge ou adicioná-la no repositório por um commit.
 
-![](vcpkg_internals_XeeD4Se.png)
+"Vcpkg internals 3"
 
 
 # Receita de café no Reddit
@@ -58997,17 +58997,17 @@ Se você já é um programador esperto já deve ter percebido que na saída do p
 
 Note que falei chamada porque se a stack não retornou da função ela não terminou ainda seu trabalho. Não houve o "return". Outra forma de entender isso é que ela é chamada aos poucos. Enfim, deixo para você a discussão semântica. O fato é que a saída é "Hello, world":
 
-![](coroutine_internals_bPO1fFa.png)
+"Coroutine internals"
 
 Vamos depurar.
 
-![](coroutine_internals_WJeFtYq.png)
+"Coroutine internals 2"
 
 Oh, oh! A stack de cooperative nos indica que ela não partiu do main, apesar de ter sido chamada através da construção de `coroutine<void>::pull_type`. O método sink chamado logo após imprimir "Hello" deve colocar essa rotina para dormir, voltando o controle para main. Vamos ver como isso é feito.
 
 Oh, não. O depurador do Visual Studio está fazendo caquinha, pois rodando passo-a-passo voltei para a mesma função cooperative sem passar pelo main. No entanto, a vírgula ", " foi impressa.
 
-![](coroutine_internals_S1Ywlhl.png)
+"Coroutine internals 3"
 
 Para conseguirmos depurar diferentes rotinas dentro da mesma thread é imperativo entendermos como o mecanismo de troca de contexto funciona por baixo dos panos. Para isso nada como depurar as próprias trocas de contexto.
 
@@ -59044,7 +59044,7 @@ O tamanho total da stack reservada no Windows é de 1 MB, mas a granuralidade pa
 
 "The default size for the reserved and initially committed stack memory is specified in the executable file header. Thread or fiber creation fails if there is not enough memory to reserve or commit the number of bytes requested. The default stack reservation size used by the linker is 1 MB. To specify a different default stack reservation size for all threads and fibers, use the STACKSIZE statement in the module definition (.def) file. The operating system rounds up the specified size to the nearest multiple of the system's allocation granularity (typically 64 KB). To retrieve the allocation granularity of the current system, use the GetSystemInfo function."
 
-![](coroutine_internals_0dMVf0k.png)
+"Coroutine internals 4"
 
 Detalhe curioso de arquitetura x86 (32 bits): na hora de alocar, o sp (stack pointer) aponta para o final da pilha. Isso porque no x86 a pilha cresce "para baixo".
 
@@ -59141,11 +59141,11 @@ inline void push()
 
 Com os dados disponíveis nos objetos de contexto (no exemplo do main, a variável source) é possível pelo Windbg analisar qualquer tipo de stack com o comando k.
 
-![](coroutine_internals_mDcM4jk.png)
+"Coroutine internals 5"
 
 A variável de uma coroutine contém o contexto do chamador e do chamado. Quando houver a necessidade de explorar uma pilha não-ativa é preciso obter o valor de sp através dessa variável. Ela fica um pouco escondida, mas está lá. Acredite.
 
-![](coroutine_internals_uQ7WYl8.png)
+"Coroutine internals 6"
 
 Usando o comando `k = BasePtr StackPtr InstructionPtr` passando o conteúdo de sp como o stack pointer o Windbg deve mostrar a pilha de todas as formas possíveis (especificar se terá FPO, mostrar código-fonte, argumentos, etc). Para a demonstração live fica bom ter um loop "eterno" para poder repetir a análise quantas vezes forem necessárias:
 
@@ -59179,7 +59179,7 @@ int main()
 }
 ```
 
-![](coroutine_internals_bBIzRrm.png)
+"Coroutine internals 7"
 
 ```
 0:000> ~kvn
@@ -59286,7 +59286,7 @@ Como viagem Floripa é uma cidade que se divide em ilha e continente. Na ilha h�
 
 Felizmente o povo do sul é um povo decente, de respeito e que graças a Deus não parece ter dado muita atenção nos movimentos de "justiça social" que assolam o país. Há uma casa de coxinhas muito boa, a Maria Coxinha, onde um dos pratos se chama Kibexinha. Isso é tudo que precisa ser dito sobre a saúde do povo da cidade.
 
-![](native_floripa_2018_nBLf4ZB.png)
+"Native Floripa 2018"
 
 O evento teve lugar, como no ano passado, na "Acate", uma incubadora de startups, nos dias 22 e 23 de setembro de 2018 (sábado e domingo). Houve em alguns momentos duas trilhas, que eu condeno por ser um evento pequeno, mas no salão principal houve a filmagem para publicação na internet, que eu invejo, pois logo teremos disponível para todos as palestras da trilha principal. Essa filmagem se torna ainda mais especial quando se percebe que houve muitos poucos participante no evento, girando em torno de 20 no sábado e 10 no domingo. As palestras do ano passado já se encontram publicadas, mas como houve uma demora de alguns meses talvez esse ano teremos a mesma espera.
 
@@ -59294,11 +59294,11 @@ Confesso que fazia um bom tempo que não participava de um evento como esses. No
 
 O destaque do evento com certeza foram as corrotinas em C++. Verdadeiras máquinas de performance onde se economiza troca de contexto, houve três palestras sobre o assunto, podemos dizer. Duas delas ministradas por Vinicius, mantenedor da Boost.Http, onde ambas dialogam sobre a fascinante questão de como adequar o uso de corrotinas sem interferir no fluxo do programa. A terceira palestra é minha, onde discurso sobre a dificuldade atual de depurar corrotinas sem ferramentas atualizadas para este "novo" paradigma.
 
-![](native_floripa_2018_gx0X8pr.png)
+"Native Floripa 2018 2"
 
 Outra palestra que me lembro com muita empolgação é a sobre WebAssenbly. Não torça o nariz antes de entender. O palestrante nos apresenta algo ainda em andamento sobre transpilar código C/C++ para uma máquina virtual criada a partir de JavaScript. A estrutura da palestra é muito boa e o palestrante melhor ainda. Ele chegou a alterar o código durante a palestra para nos demonstrar diversos usos dessa tecnologia. Ainda em testes, mas muito promissora.
 
-![](native_floripa_2018_l8iCVUL.png)
+"Native Floripa 2018 3"
 
 Por fim, as conversas entre os palestrantes e os participantes foi muito frutífera. Assim como nosso grupo do Telegram, importa menos o tema do que as pessoas envolvidas. E todos concordam que não há nada melhor no mundo que conversar com pessoas inteligentes e beber chopes do Sul. E lá na Acate há a melhor praça de alimentação que já vi na vida. Comida e bebida (chopes e vinhos por taça) boa e barata. Há massas e carnes de muita qualidade. O Madero do lado, que já não é nada de mais, ficou ainda menor.
 
@@ -59306,7 +59306,7 @@ Por fim, as conversas entre os palestrantes e os participantes foi muito frutíf
 
 Ficamos hospedados em uma casa na Barra da Lagoa pelo AirBnB em alta concentração de temas filosóficos. Fizemos um churrasco imprestável, fomos em restaurantes medíocres da orla, mas a conversa foi sempre interessante. Era como se o grupo de filosofia do Telegram tivesse se mudado temporariamente para lá. Temas como metafísica, política, social justice, auto ajuda e imprint de traumas eram frequentes. A paisagem belíssima, a casa aconchegante e a companhia agradável.
 
-![](native_floripa_2018_tQXeDFn.png)
+"Native Floripa 2018 4"
 
 Native Floripa virou já uma tradição. Ano que vem nos vemos de novo.
 
@@ -59478,7 +59478,7 @@ boost\bind\bind.hpp(75): error C2825:
 
 Mas não. Se olharmos para o código-fonte onde ocorreu o problema, a caixa de encaixe perfeito se quebra:
 
-![](boost_bind_e_os_erros_escrotos_MsRp03e.png)
+"Boost Bind e os erros escrotos"
 
 O que isso quer dizer? O que aconteceu? Onde que eu errei?
 
@@ -61081,9 +61081,9 @@ ClientSocket = socket(result->ai_family, result->ai_socktype, result->ai_protoco
 
 Esses dois sockets são herdáveis por default (implementação da função socket) e são representados pelos handles listados no Process Explorer como já visto, pelo nome "\Device\Afd". O contador de handles é aumentado a partir da criação do processo-filho e esses dois handles aparecem em ambos os processos.
 
-![](bug_boost_asio_acceptex_winsock_3LV7k8G.png)
+"Bug Boost com AcceptEx"
 
-![](bug_boost_asio_acceptex_winsock_S7qT3Sd.png)
+"Bug Boost com AcceptEx 2"
 
 Até aí tudo bem. O problema na verdade ocorre no segundo request enviado quando o primeiro request não terminou (e.g. o primeiro request é um notepad.exe que irá demorar e o segundo request um "cmd /c dir", que executa e já volta com a saída). Nessa situação todos os sockets criados até aqui -- incluindo o cliente do primeiro request -- são herdados para o segundo processo-filho, e por questões que estão além do escopo desse estudo, mas que poderão ser verificados ao se analistar os drivers das camadas de TDI do Windows (kernel mode), o send da saída do segundo request para o socket cliente fica travado até a saída do primeiro processo-filho, onde ocorre dos handles serem fechados.
 
@@ -61121,7 +61121,7 @@ A terceira solução encontrada durante a compilação deste artigo é usar em v
 
 Update (2019-01-07): Na verdade a flag de não-herança do socket só passou a existir no Windows 7 com SP1, o que inviabiliza essa solução para Windows Vista e XP, como previamente foi dito.
 
-![](bug_boost_asio_acceptex_winsock_FUrSKg2.png)
+"Bug Boost com AcceptEx 3"
 
 ## Solução #4: Boost.Asio
 
@@ -62315,23 +62315,23 @@ C:\Tools\nssm.exe install Msvcmon
 
 Hoje em dia, às vésperas do Visual Studio 2019, espero que todo mundo use pelo menos o Visual Studio 2010 porque a partir dessa versão tornou-se muito fácil depurar remotamente, pois um pacote feito para isso já é instalado junto do Visual Studo. É uma pasta que basta copiar e colar na máquina-alvo. Para encontrá-la basta digitar "Remote Debugger" dentro do Program Files.
 
-![](debug_remoto_visual_studio_2010_superior_bE6YxtY.png)
+"Debug remoto VS 2010"
 
 Copie essa pasta para a máquina onde estará os processos que deseja depurar e escolha sua arquitetura (x86, x64, i64), pois cada uma possui uma sub-pasta com os mesmos arquivos. Executa uma vez o msvsmon.exe dentro de uma delas e ele irá configurar para você o firewall do Windows. Feito isso e configurando através da janela que aparece o resto dos parâmetros basta atachar o processo ou iniciá-lo remotamente pela configuração do seu projeto no Visual Studio.
 
-![](debug_remoto_visual_studio_2010_superior_hjjz55J.png)
+"Debug remoto VS 2010 2"
 
-![](debug_remoto_visual_studio_2010_superior_bA4u3NZ.png)
+"Debug remoto VS 2010 3"
 
 Mas este artigo não é sobre isso, é um pouco mais fundo: depurar serviços. Eles rodam na conta de sistema e muitas vezes é preciso depurá-los antes ou depois do logon na máquina. Às vezes é um teste sob as condições de sistema, o que é igualmente importante. Seja como for a maneira de fazer isso com o msvsmon.exe é transformá-lo também em um serviço. Para isso usaremos o "NSSM": o Non_Sucking Service Manager. Copie ele para a mesma máquina e o executa com o comando install <nome_do_serviço>. Os campos principais são os mais importantes.
 
-![](debug_remoto_visual_studio_2010_superior_bU6sq33.png)
+"Debug remoto VS 2010 4"
 
 Se você digitar msvsmon.exe /h ou algo do gênero irá encontrar os parâmetros que precisa:
 
-![](debug_remoto_visual_studio_2010_superior_4uyf5t7.png)
+"Debug remoto VS 2010 5"
 
-![](debug_remoto_visual_studio_2010_superior_yEpsIR5.png)
+"Debug remoto VS 2010 6"
 
 Obs.: Eu costumo executar sem segurança alguma, pois minhas máquinas de teste são VMs locais e o perigo de vulnerabilidade não é menor do que minha própria máquina real.
 
@@ -63454,7 +63454,7 @@ O software WinSCP, um client SFTP para Windows, possui "um guia" sobre como inst
 
 Se você preferir não compilar "a partir dos fontes" você pode baixar um pacote dos "binários" pelo GitHub. Basta extrair tudo para uma pasta e rodar o script PowerShell de instalação e o serviço sshd estará instalado no modo manual . O local indicado para conter os arquivos é em `C:\Program Files\OpenSSH`, conforme "o tutorial do WinSCP".
 
-![](openssh_windows_7qdGAFB.png)
+"OpenSSH Windows"
 
 Após instalado você deve abrir a porta 22 pelo firewall do Windows (há uma maneira PowerShell de fazer se tiver um Windows novo ou usar a interface mesmo se tiver um antigo). Após esse último passo tudo deverá estar funcionando, e basta criar seu par de chaves pública/privada com o `ssh-keygen.exe` e adicionar no servidor com `ssh-add.exe`, além de copiar para um arquivo chamado `authorized_keys`... enfim, está tudo no tutorial.
 
@@ -63688,7 +63688,7 @@ OK, parei com o merchan. Até porque não ganho nada com isso. Vamos ao código.
 
 Pelo Wizard do VS podemos criar para um projeto C++ qualquer um projeto de teste. No momento estou vendo os tipos de projeto Native Unit Test e Google Test.
 
-![](visual_studio_unit_test_Gk5fDHB.png)
+"VS Unit Test"
 
 Este é nosso projeto de exemplo:
 
@@ -63722,7 +63722,7 @@ int main()
 
 Para conseguir testar o projeto principal adicione-o como referência.
 
-![](visual_studio_unit_test_TbFrxIr.png)
+"VS Unit Test 2"
 
 Após isso basta incluir algum header que contenha os tipos, funções, classes e métodos que deseja testar e vá criando métodos de teste dentro da classe de exemplo:
 
@@ -63778,15 +63778,15 @@ Por isso eu tirei a tranqueira de precompiled header do projeto de unit test, re
 
 Agora mais mágica: se você abrir a janela Test Explorer ele irá encontrar seus testes e enumerá-los!
 
-![](visual_studio_unit_test_1ZVjQ4D.png)
+"VS Unit Test 3"
 
 Se você já programou um pouco em Windows com C++ já deve saber o truque: como o Unit Test é uma DLL ela simplesmente exporta os símbolos necessários para que o Visual Studio encontre o que precisa. O básico que um plugin dos velhos tempos faz: exportar interfaces com um pouco de reflection.
 
-![](visual_studio_unit_test_en6DWQp.png)
+"VS Unit Test 4"
 
 Se você habilitar Undecorate C++ Functions no Dependency Walker ou dumpbin verá que ele exporta justamente uma espécie de reflection, na forma de structs:
 
-![](visual_studio_unit_test_jiBQxZ4.png)
+"VS Unit Test 5"
 
 E se você prestar atenção na ordem de exportação desse símbolos verá que o primeiro se chama GetTestClassInfo. Acabou a magia, não é mesmo?
 
@@ -63911,7 +63911,7 @@ int main()
 
 (Deep Work) => Flow - A proven Path to Satisfaction, de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu On Writing Well (ele possui algumas notas sobre essa leitura também).
 
-![Flow graph](flow.jpg)
+"Flow graph"
 
 - Professional activities performed in a state of distraction-free concentration that push you cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
 
@@ -64324,7 +64324,7 @@ Este é apenas um exemplo besta de polimorfismo, além de um exemplo trivial de 
 
 Continuando nossa série, conforme sugerido pelo @colemaker do grupo C/C++/42/Império do Brasil, a próxima ideia a ser implementada em C é o sistema polimórfico de chamadas do Lisp orientado a objetos. Esse sistema permite realizar a seguinte manobra:
 
-![](c_resolve_tudo_clos_VcPXDcJ.jpg)
+"C resolve tudo CLOS"
 
 O aspecto-chave aqui, conforme eu descobri, é implementar a estratégia de prioridades entre as sobrecargas dos métodos de acordo com os tipos passados. Analisando bem por cima devemos sempre priorizar os métodos com os tipos mais específicos e ir realizando underpromotion até chegarmos no menos específico (se houver).
 
@@ -66880,7 +66880,7 @@ Por enquanto, a esmagadora maioria dos computadores utiliza a frequência de uma
 
 Note que tanto faz a maneira com que você traduz a frequência, desde que haja apenas dois valor possíveis, condição sine qua non para definir um bit. Você pode interpretar uma frequência acima do nível estabelecido como ligado ou desligado, mas a partir dessa definição a frequência oposta, abaixo desse nível, deve ser o oposto do que foi definido, para assim termos o ligado/desligado (ou desligado/ligado).
 
-![Limite entre frequência alta e frequência baixa](limite_frequencia_alta_vs_frequencia_baixa.png)
+"Limite entre frequência alta e frequência baixa"
 
 A onda (mais uma interpretação da realidade) gerada pela frequência do sinal elétrico, então, é dividida em dois espaços, delimitados pelo filtro, que funciona como um filtro de linha: apenas a partir de um certo valor da onda ele deixa passar os elétrons, que irão definir do outro lado se o bit está ligado ou desligado.
 
@@ -66892,7 +66892,7 @@ Conseguindo usar e armazenar bits, a matemática fica muito mais simples e intui
 
 Como a base é dois convencionamos a dar nomes para as potências de 2 para conseguirmos trabalhar com valores maiores que 0 e 1. 2 elevado a 8, por exemplo, chamamos de byte, embora não no mundo todo, isso também pode mudar de interpretação, dependendo da arquitetura. Porém, na grande maioria do mundo, um byte serão 8 bits, cada um pondendo valer 0 ou 1, e juntando todos, podemos representar os valores de 0 a 255, pois 2 elevado a 8 são 256 combinações (e devemos incluir o zero).
 
-![Bits juntados](bits_juntados.png)
+"Bits juntados"
 
 A partir daí não existe muita mágica, pois juntando bytes podemos ter kilobytes (1024 bytes), dos kilobytes podemos ter megabytes, assim por diante até chegarmos no seu "HD de 2 Tera", o que quer dizer 2 terabytes de informação, ou 35184372088832 bits, todos organizados para serem acessados, ou um a um ou em blocos. O que for mais conveniente para a arquitetura.
 
@@ -66900,7 +66900,7 @@ Como acessamos esses bits? Bom, informação gera informação na tecnologia da 
 
 Para conseguir acessar precisamos de acesso, e esse acesso precisa conseguir deixar eu falar qual bit/byte que eu quero, ou seja, permitir que eu consiga passar esse valor (primeiro, segundo, etc). Onde está esse bit/byte nós chamamos de endereço, e para passar o endereço de um bit/byte para um HD usamos algo chamado barramento, que é como uma rodovia por onde passam no máximo X bits (cada ----- é uma rodovia diferente).
 
-![Rodovia de bits](rodovia_de_bits.png)
+"Rodovia de bits"
 
 Porém, como vimos, dependendo do número de bits há um limite da quantidade de valores que podemos representar, e isso irá limitar o nosso acesso aos bits que queremos do "HD de 2 Tera".
 
@@ -74866,7 +74866,7 @@ Pesquisando sobre pessoas que tiveram o mesmo problema encontro um "post da Ophi
 
 Com uma VM de Windows 10 criada no Hyper-V, desabilite o Secure Boot pelas configurações da VM:
 
-![](como_configurar_debug_de_kernel_pela_rede_hyper_v_disable_secure_boot.png)
+"Configurar debug de kernel Hyper-V"
 
 Desligue a VM. Pelo meno do Hyper-V crie um novo adaptador pelo Virtual Switch Manager; esse deve apontar para um adaptador de sua máquina real, para host e target conseguirem se comunicar. Atribua esse novo adaptador à sua VM desligada e volte a ligá-la.
 
@@ -79274,7 +79274,7 @@ Truffault é o amiguinho do Godard e ambos criam os filmes franceses mais chatos
 # AWK and DNA
 2022-06-25 computer english
 
-![](awk_dna_dna_chips.png)
+"AWK DNA"
 
 Pesquisando sobre otimização de AWK eu encontro este post em que uma pessoa tenta tornar a análise de sequências de DNA na nuvem algo financeiramente e computacionalmente viável. Ela começa tentando o óbvio, usando SQL nas próprias estruturas de CSV hospedadas na S3, passa por tentativas de particionar os blocos, por entender como paralelizar a operação e termina em uma solução que usa AWK junto de GNU Parallel, redirecionando a saída para que a linguagem R processe.
 
@@ -80258,7 +80258,7 @@ Apliquei um perpétuo nesse final porque pensei que estava pior, mas a análise 
 
 Pretas jogam e espremem adversário:
 
-![](como_ganhar_de_torre_dama_encurralando_o_rei_board.png)
+"Como ganhar de torre e dama encurralando o rei"
 
 ```
 1. c4 e5 2. Nc3 Nf6 3. e3 Nc6 4. Nf3 Bc5 5. Be2 O-O 6. O-O d5 7. cxd5 Nxd5 8.
@@ -80274,11 +80274,11 @@ Qa1+ 34. Kh2 Qf6 35. Qg4 Qd6+ 36. Kh1 Qd1+ 37. Kh2 Qd6+ 38. g3 Qd2+ 39. Kg1 Qe1+
 # Fotos do Washington
 2022-08-13
 
-![](fotos_do_washington_washington_photo_2022_08_13_20_51_59.jpg)
+"Fotos do Washington"
 
-![](fotos_do_washington_washington_photo_2022_08_13_20_52_00.jpg)
+"Fotos do Washington 2"
 
-![](fotos_do_washington_washington_photo_2022_08_13_20_52_01.jpg)
+"Fotos do Washington 3"
 
 Os primeiros trabalhos desse desconhecido fotógrafo nos remetem a épocas mais lúdicas, quando a vida era mais simples e algumas sombras e formas eram o suficiente para preenchermos uma tarde preguiçosa em uma análise nada rebuscada, feita por filósofos de primeira viagem, apalpando a insignificância e platitude de um universo ainda novo nos olhos de uma criança. A geometria buscando um padrão harmonioso e as cores prevalecendo sobre o foco. Eis o truque da arte moderna: ela não diz nada que já não esteja na cabeça de quem vê.
 
@@ -82754,7 +82754,7 @@ Este é o café especial da região de Monte Verde. Provei ele achando no mercad
 
 Brancas movem e... e nada. É um final complicado.
 
-![](comeca_um_final_de_peoes_e_cavalos_board.png)
+"Começa um final de peões e cavalos"
 
 ```
 1. Nf3 d5 2. e4 dxe4 3. Ng5 f5 4. Bc4 Nh6 5. c3 Nc6 6. Ne6 Qd6 7. Nxf8 Rxf8 8.
@@ -83005,7 +83005,7 @@ Ops, não há comentários no blogue. Não dá para aguentar tanto feedback da h
 
 Seja durante o trabalho ou no lazer, quando não está claro qual o objetivo final não é fácil focar.
 
-![Flow graph](flow.jpg)
+"Flow graph"
 
 Por isso reli minhas anotações sobre o livro de Mihaly Csikszentmihalyi sobre como estruturar nossa consciência de forma a conseguir aos poucos alinhar a energia psíquica a maior parte do tempo possível. E deve ser aos poucos, já que o "eu" não pode se sentir impelido a fazer algo; ele precisa entender dentro de si o que ele quer fazer mais que tudo na vida.
 
@@ -84192,7 +84192,7 @@ Em primeiro lugar, ela é uma árvore binária. No entanto, seus ramos represent
 
 É importante notar que uma árvore de segmento é maior que simplesmente um array, mas diferente de um array, a árvore brilha quando precisamos somar intervalos.  Como ela está estruturada de maneira que cada ramo contém a soma de seus galhos, para obter a maioria dos intervalos sua complexidade desce de O(N) para O(log N).
 
-![](segment_tree_segment_tree.png)
+"Segment tree"
 
 Dessa forma, podemos concluir que o espaço ocupado por uma árvore binária para implementar um segment tree completo deve ocupar por volta de `2*N-1`, o espaço para implementar uma árvore binária completa com N folhas.
 
@@ -84728,7 +84728,7 @@ template <class ForwardIterator>
 
 The logic is to swap from left to right, leveraging the end part of the vector to making the swaps. The rightmost point is called next and begins in the middle point. The leftmost point is the first point. When the next point reaches the end it go back to the middle point again, because the last element was moved already and the middle now contains the original first elements that was swaped. If, however, the leftmost point reaches the middle point before the next point reaches the end, the middle point changes to the next point, what means the point where first and middle meet is changing to the next point, making the first to chase the middle point until all rightmost elements be exchanged with it, using the next as a moving buffer. The same logic is repeated until first and next point meet.
 
-![](hacker_rank_arrays_std_rotate.jpg)
+"Hacker rank Arrays"
 
 So the solution changed from this:
 
@@ -87045,7 +87045,7 @@ Windows_Security_Authentication_Web_Core!_security_cookie (
 
 Reli pela enésima vez minhas anotações sobre Flow, aquele livro do Mihaly Csikszentmihalyi, e venho dessa vez com anotações das anotações com ênfase na teoria de sistemas. O resumo é que o self, esse sistema dinâmico que reconhecemos como nós, pode ser expandido ao se acoplar a qualquer outro sistema onde invistamos energia psíquica. Porém, para isso funcionar, devemos reorientar nossa atenção e focar, ou seja, empreender nossa energia psíquica, muito mais no sistema que está sendo a atividade do momento e muito menos em nós mesmos ou em outros inputs externos que não faz parte do sistema e que é apenas entropia. É quando o self vira o sistema que nós podemos resgatar novas informações que irão ser adicionadas ao sistema original. A isso chamamos aprendizado do mundo. Nosso ser se expande e nosso organismo ressoa em harmonia.
 
-![Flow graph](flow.jpg)
+"Flow graph"
 
 E lá vão mais inúmeros recortes das inúmeras leituas que faço desse livro. Talvez escreva um dia uma tese a respeito.
 
@@ -89931,7 +89931,7 @@ Mais uma vez peguei uma garrafa no Hirota e mais uma vez precisei elogiar. Ele �
 
 O gráfico da tendência do meu peso em 2024 diria que não está sendo um bom ano porque ainda não voltei ao peso do início. Esse tipo de resultado pode deixar muitas pessoas ansiosas. Vi em posts da comunidade que é temível se pesar todo dia. Há um consenso que isso só te trará mal no curto prazo. Eu acredito nisso, pelo menos para pessoas onde falte a reflexão do que esse número significa: apenas o nível de água em seu organismo em um dado momento do dia. Isso não acontece comigo porque eu sei o que esse número significa e prefiro ter todo o conhecimento possível, mesmo que ele doa às vezes.
 
-![](mudando_o_peso_tendencia.png)
+"Mudando o peso (tendência)"
 
 A longo prazo, quando eu olho os registros de mais de dez anos se pesando quase todos os dias, desde 2013, eu paro de perder o medo de para onde meu peso vai. Justamente porque eu sei para onde ele está indo e posso fazer algo a respeito. Justamente porque eu me peso quase todos os dias e vejo a tendência antes de se tornar um problema. Foi assim ao longo de todos esses anos. As curvas não baixaram sem querer. Elas baixaram porque eu vi para onde elas estavam indo antes de chegar em um ponto crítico, onde aí sim todos esses sacrifícios que as pessoas testemunham fariam sentido. Mudar a tendência quando se tem a informação de para onde ela está indo é muito mais fácil porque é a realidade.
 
@@ -91244,7 +91244,7 @@ Os festivais me perseguem. Justo na semana que estava em Tóquio estava rolando 
 
 O segundo e último filme que vi na mostra de Tóquio foi o último dirigido pelo brasileiro Marcos Dutra, do ótimo "Trabalhar Cansa", entre outros trabalhos mais comerciais. Se trata de mais uma distopia brazuca que bebe da fonte de "Bacurau" sob o viés do sobrenatural (tema constante de Dutra). Se trata de uma grande bobagem pretensiosa (assim como Bacurau).
 
-![diretor Marcos Dutra na Mostra de Tóquio](tokyo_international_film_festival.jpg)
+"diretor Marcos Dutra na Mostra de Tóquio"
 
 Após a sessão o diretor apareceu para algumas perguntas e respostas traduzidas rapidamente entre o inglês e o japonês. Foram perguntas fáceis e com aquela postura mecânica do jornalismo e dos grupos de "debate livre" de hoje em dia: sem instigar, apenas divulgar.
 
@@ -91917,7 +91917,7 @@ O "como" o leva à consciência do seu poder. O "como" é útil, importante e mo
 
 Como você sabe se é seu ego ou sua intuição no comando?
 
-![](loop_versus_spiral.png)
+"Loop versus spiral"
 
 ## O loop
 

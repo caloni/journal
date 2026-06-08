@@ -25,6 +25,7 @@ def call_publisher(script_name):
         '--comment-email', 'wanderley.caloni@gmail.com',
         '--external-links', 'external-links.yaml',
         '--post-links', 'post-links.yaml',
+        '--external-images', 'external-images.yaml',
     ]
     
     try:
