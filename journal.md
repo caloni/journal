@@ -71507,7 +71507,7 @@ aquire_mutex();
 ```
 
 # Callback Hell
-2020-04-09 computer
+2020-04-09 computer blog
 
 Foi aprendendo sobre kernel do Windows que eu descobri que a linguagem C suporta todas as abstrações que um homem crescido precisa para desenvolver sistemas. Também aprendi que você precisa ser um homem crescido para saber usar direito.
 
@@ -71527,7 +71527,7 @@ No final das contas, depurar um código em C escrito por uma pessoa que evita re
 
 
 # Winmock
-2020-04-10 computer
+2020-04-10 computer blog
 
 Testar sistemas com rede simulada pode ser muito complexo ou muito simples. Se for feito em C ou se os endpoints forem em C é muito simples: basta trocar as funções originais pelas suas. Como tudo em C são funções com nome bem definido e assinatura flexível você não precisa declarar a assinatura da função, ou pode mudar no meio do caminho.
 
@@ -71602,11 +71602,11 @@ As piadas são todas manjadas, mas é delicioso de assistir. Devia ser um espet�
 
 
 # Minha Palestra Sobre Windbg
-2020-04-18 computer debugging
+2020-04-18 computer debugging blog
 
-A MBConf@Home2020 foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).
+A "MBConf@Home2020 v1" foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).
 
-"Minha palestra" foi a seguinte: dei uma pincelada no que é o WinDbg para os que ainda não conhecem e realizei algumas manobras pouco usuais de depuração, tentando fugir um pouco da rotina do programador e me enfiando no que seriam minhas sessões antigas de hacking ou cracking da época que analisava trojans ou depurava serviços que saíam depois que meu depurador remoto já tinha ido embora. Segue mais ou menos o roteiro e os pontos levantados.
+Minha palestra foi a seguinte: dei uma pincelada no que é o WinDbg para os que ainda não conhecem e realizei algumas manobras pouco usuais de depuração, tentando fugir um pouco da rotina do programador e me enfiando no que seriam minhas sessões antigas de hacking ou cracking da época que analisava trojans ou depurava serviços que saíam depois que meu depurador remoto já tinha ido embora. Segue mais ou menos o roteiro e os pontos levantados.
 
 Hoje em dia o caminho mais fácil é pelo Visual Studio Community, que instala por padrão um Windows SDK. Nessa instalação é possível modificar os itens checando o "Debugging Tools for Windows", que é o pacote que contém o ecossistema do WinDbg.
 
@@ -71625,7 +71625,7 @@ void chama_eu()
 }
 ```
 
-Abordamos o boot do Windows com NT, o uso do kd.exe por baixo dos panos do WinDbg (o DarkMode) e configuramos o cabo. Cabo? Cabo virtual, sargento. Usamos a VMWare, pré-configurada após alguns pesadelos de impressora se metendo no meio do caminho. Configuramos a porta serial, que é a melhor ever. E apontamos como named pipe para o WinDbg "de fora" conectar. Ou o kd.exe. As linhas abaixo são equivalentes.
+Abordamos o boot do Windows com NT, o uso do kd.exe por baixo dos panos do WinDbg (o DarkMode) e configuramos o cabo. Cabo? Cabo virtual, sargento. Usamos a VMWare, pré-configurada após alguns pesadelos de impressora se metendo no meio do caminho. Configuramos a porta serial, que é a melhor porta ever. E apontamos como named pipe para o WinDbg "de fora" conectar. Ou o kd.exe. As linhas abaixo são equivalentes.
 
 ```
 windbg.exe -b -k com:pipe,port=\\.\pipe\com_1,resets=0
@@ -71634,14 +71634,13 @@ kd.exe -b -k com:pipe,port=\\.\pipe\com_1,resets=0
 
 Para exemplificar a depuração de um serviço bem no início (ou fim) ou o load de processos antes dele existir checamos uma flag na gflags.exe da máquina depurada para que quando o notepad.exe subisse o ntsd fosse depurá-lo e passasse o controle para o debug do sistema. E com isso fechamos o círculo sagrado da depuração holística.
 
-Não. Para depurar a BIOS local há o caminho do debug.com (um depurador bem simples da época do Windows 95) ou o Softice DOS, embora [eu me lembre] que tive umas dores de cabeça com ele por causa dos conflitos entre interrupções e programas residentes. A depuração estática acaba ganhando nesse quesito, que é basicamente abrir o assembly, papel e caneta. E imaginação.
+Não. Para depurar a BIOS local há o caminho do debug.com (um depurador bem simples da época do Windows 95) ou o Softice DOS, embora [eu me lembre] que tive umas dores de cabeça com ele por causa dos conflitos entre interrupções e programas residentes. A depuração estática acaba ganhando nesse quesito, que é basicamente abrir o assembly, papel, caneta e imaginação.
 
 Já para debug de BIOS em rede. Bem... esse é um nível hackudo. Sei que a Intel tem desenvolvido chips para diagnóstico e obtenção de dados de hardware pela rede antes mesmo do SO estar ligado, mas não cheguei a pesquisar a fundo.
 
 Sim. Como o "Mercês" me ajudou a lembrar, existe um rundll32.exe, um executável que já vem no Windows e que pode carregar a DLL para você. Daí tudo que você precisa fazer é colocar o breakpoint das funções exportadas que deseja chamar. Dá para especificar essas funções pelo rundll32.exe também: rundll32.exe project.dll,chama_eu
 
 Recomendo sempre o "WinDbg.info" como cheat sheet e docs.microsoft.com em seus artigos "Getting Started with WinDbg (User-Mode)" e "Getting Started with WinDbg (Kernel-Mode)" (sorry, m$, vcs mudam os links demais para eu colocar aqui).
-
 
 # Quanto mais Quente Melhor
 2020-04-18 cinema movies
@@ -91021,7 +91020,7 @@ E com isso nascem e morrem as listas.
 # The AWK Programming Language (Alfred Aho)
 2024-09-14 books computer quotes
 
-Acabei de ler o The Awk Programming Language. Livraço. Impressionante a qualidade de escrita dos autores da época. É uma carta aberta de programadores para programadores 👏.
+Acabei de ler o The Awk Programming Language. Livraço. Impressionante a qualidade de escrita dos autores da época. É uma carta aberta de programadores para programadores.
 
 Awk is useful for creating small tools and personal scripts that help you to automate repetitive tasks or to deal with some weirdly specific computation that you care about but no one else does.
 
@@ -92897,6 +92896,8 @@ Right to left, the piles represent IHVH, the four constants forming the Hebrew t
 
 However, I approach it differently. If the Seeker asked a specific question, then the pile the signifier card is found in indicates the sub-issue that is most relevant to resolving the Seeker’s main issue. Thus, the First Operation is used as a preliminary diagnosis of what aspect of a problem, project, or situation will most affect what happens.
 
+Interesting to note is how empaths often suffer from digestive or stomach problems due to their association with the solar plexus chakra.
+
 # Ação das leis gerais
 2025-06-21 books reading
 
@@ -93888,3 +93889,6 @@ Manter-se em um estado de alerta consciente destrói a ligação entre o sofrime
 O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado. Enquanto não somos capazes de acessar o Poder do Agora, vamos acumulando resíduos de sofrimento emocional. Esses resíduos se misturam ao sofrimento do passado e se alojam em nossa mente e em nosso corpo. Isso inclui o sofrimento vivido em nossa infância, causado pela falta de compreensão do mundo em que nascemos. Todo esse sofrimento cria um campo de energia negativa que ocupa a mente e o corpo. Qualquer coisa pode ativá-lo, especialmente se encontrar ressonância em um padrão de sofrimento do passado.
 
 Ele sobrevive graças à nossa identificação inconsciente com ele, assim como ao medo inconsciente de enfrentarmos o sofrimento que vive dentro de nós. Mas se não o enfrentarmos, se não direcionarmos a luz da nossa consciência para o sofrimento, seremos forçados a revivê-lo. Manter-se em um estado de alerta consciente destrói a ligação entre o sofrimento e o mecanismo do pensamento, e aciona o processo de transformação. É como se o sofrimento se tornasse o combustível para a chama da consciência, resultando em um brilho de mais intensidade. Esse é o significado esotérico da antiga arte da alquimia: a transformação do metal não precioso em ouro, do sofrimento em consciência.
+
+# First know how the thing work; then know how the thing does not work
+2026-06-20 quotes work

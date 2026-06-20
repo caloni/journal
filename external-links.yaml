@@ -409,9 +409,6 @@
 - title: "Microsoft Application Virtualization"
   url: https://learn.microsoft.com/en-us/windows/application-management/app-v/appv-getting-started
 
-- title: "Minha palestra"
-  url: https://www.papobinario.com.br/v1/
-
 - title: "MiniDumpWriteDump"
   url: https://learn.microsoft.com/en-us/windows/win32/api/minidumpapiset/nf-minidumpapiset-minidumpwritedump
 
@@ -1515,3 +1512,6 @@
 
 - title: "Oxford Mindfulness" 
   url: http://oxfordmindfulness.org/
+
+- title: "MBConf@Home2020 v1"  
+  url: https://www.youtube.com/live/vZ5T_QYCKN8
