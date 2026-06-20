@@ -79149,7 +79149,7 @@ Há poucas cenas memoráveis junto desse protagonista que não sei se é um figu
 Sem trilha sonora e com fotografia e sons diegéticos minimalistas, Tantas Almas é uma experiência semidocumental que ironicamente não tem alma. Quando se assiste a uma obra de arte você deve esperar por opiniões, e quanto mais forte e complexa melhor. Porém, um filme tão minimalista que divide seu enredo entre os bons e maus desmorona ao menor sopro de razão. E por isso quando paramos para pensar sobre o que acabamos de ver, não há alma nenhuma nos atormentando.
 
 # Meditação é self debugging
-2022-05-31 computer debugging essays
+2022-05-31 computer debugging essays blog
 
 Depois que a tempestade na cabeça chega em um nível insuportável há uma calmaria, ou deveria haver, onde o corpo percebe que está vivo, que não existe no tempo e espaço. Existe apenas agora, e tão somente agora, pois o passado é uma máquina de estado mantida pelo cérebro, e o futuro a projeção extrapolada dessa máquina.
 
@@ -79271,7 +79271,7 @@ Este filme foi refeito porque o bonequinho era muito feio. Então lançaram uma 
 Truffault é o amiguinho do Godard e ambos criam os filmes franceses mais chatos da história quando querem criticar algo sem o bom humor. E o bom humor falta em As Duas Inglesas e o Amor, quiçá um dos melhores filme do diretor, que brinca com o conceito literário e as diferenças culturais de dois povos tão próximos fisicamente quanto distantes moralmente. Há algumas reviravoltas que nos acordam por alguns minutos, mas a sensação é pertencer a um dos sonhos que são os filmes do diretor russo Andrei Tarkovsky sem a introspecção nem a filosofia. Um drama barato, novelesco, cartunesco e vazio de alma. Em suma: um trabalho mais francês, do niilismo insuportável, que inglês, de um humor sagaz e espirituoso.
 
 # AWK and DNA
-2022-06-25 computer english
+2022-06-25 computer english blog
 
 "AWK DNA"
 
@@ -81315,7 +81315,7 @@ Quem entende perfeitamente o que Margo está sentindo é Eve, interpretada pela 
 
 
 # Gerenciamento de Memória em C/C++
-2022-11-19 computer ccpp videos
+2022-11-19 computer ccpp videos blog
 
 Esta semana fiz uma passagem de conhecimento na firma sobre os smart pointers em C++, que era no fundo o que todo mundo queria entender. Mas para entender essas coisas nada como voltar aos fundamentos da linguagem C e ir subindo nos conceitos.
 
@@ -81337,7 +81337,7 @@ Você olha esse título e já pensa "nossa, ela deve ser travesti; ou puta; deve
 Cléo das 5 às 7 é puro êxtase narrativo. Não há amarras. As cartas foram dadas em colorido, mas o filme é em P&B, romântico e pálido. Vemos figuras urbanas tomando café e conversando na metrópole. Homens observam a nítida beleza de Cléo. Há conversas do cotidiano que lembram os filmes de Éric Rohmer, mais pelo informal do que pelos tema. O filme olha para nós e nós olhamos para ele. Este é um trabalho que quer se mostrar demais. Orgulhoso, vaidoso. E possui virtudes estéticas para tal. E ao mesmo tempo é realista. O assunto é a angústia da personagem sem saber se irá morrer. Quem já esteve ou já se sentiu à beira da morte, algum momento da vida qualquer que poderia ter passado dessa pra melhor, sabe do que se trata. É uma imagem vívida de pertencer ao espaço-tempo. Não o nosso modo morto-vivo automático, acostumados a sermos escravos de nossa mente, perambulando como moribundos pelas poucas décadas que passamos neste mundo. Não. Isso é viver no agora. Mas de maneira claustofóbica. Não há planos para quem não sabe se irá poder materializá-los.
 
 # Passagem de Parâmetros C vs C++
-2022-11-20 computer ccpp
+2022-11-20 computer ccpp blog
 
 Em C não é necessário declarar os parâmetros que uma função recebe. Isso é implícito. A linguagem C foi criada para ser um amontoado de assembly descrito com um pouco de syntax sugar e juntado pelo linker através de uma tabela de nomes. O que importa são os nomes. Vamos exemplificar:
 
@@ -81430,7 +81430,7 @@ warning C4087: 'func': declared with 'void' parameter list
 Mas vai deixar rodar. Em C++ não tem jeito. Em C++ ele assume que você não é um bom programador.
 
 # RIP Basílio Miranda
-2022-11-22 ccppbr
+2022-11-22 ccppbr blog
 
 Uma figura e tanto. Um programador e tanto. Do pouco que conheci desta lenda do mundo C, C++ e, principalmente, Qt, não há palavras suficientes para descrever o quão foi bom ouvir suas histórias ao vivo, seja em uma mesa de bar e nosso icônico encontro no ChoPP em São Paulo, ou mesmo em uma de suas palestras sobre Qt no prédio da Microsoft onde ele demonstra um domínio admirável da computação do dia a dia.
 
@@ -83532,7 +83532,7 @@ Este não é um dos piores filmes do diretor. Também não é dos melhores. Até
 Valeu a pena ter ido no cinema junto dos jovens tirando fotos da tela para sair bem nas redes sociais? Filmes do Godard são sempre uma experiência. Se são boas ou más experiências é irrelevante. Cinema de arte não deve ser julgado. Especialmente quando se está dormindo na sala.
 
 # Como descobrir se uma string é mutuamente rotativa
-2023-04-09 computer interview
+2023-04-09 computer interview blog
 
 Uma string mutuamente rotativa é uma string que se rotacionarmos para a direita ou para a esquerda, com os caracteres "indo parar" do outro lado, é comparável com a string original. Exemplos:
 
@@ -83568,9 +83568,9 @@ bool RotationMutually(string s1, string s2)
 ```
 
 # Como funciona o bubble sort
-2023-04-09 computer interview
+2023-04-09 computer interview blog
 
-Uma das piores ordenações possíveis, mas uma das mais simples de entender, é a bubble sort. Ela é passada para estudantes de computação porque é um algoritmo possível de explicar sem entrar em muitos detalhes do seu funcionamento, e também porque seu funcionamento é intuitivo.
+Uma das piores ordenações possíveis, mas uma das mais simples de entender, é a bubble sort. Ela é passada para estudantes de computação porque é um algoritmo possível de explicar sem entrar em muitos detalhes do seu funcionamento, e também porque ela é intuitiva.
 
 O objetivo do algoritmo é ordenar uma lista.
 
@@ -83609,7 +83609,7 @@ Se você leu o código deve ter percebido que existe um pequeno truque na hora d
 
 Isso é feito porque sabemos que já foram feitas i comparações antes, o que quer dizer que os elementos na posição size-i já foram devidamente movidos para dentro do intervalo que será comparado na passada deste próximo loop interno.
 
-Para sentir o passo a passo dessas iterações, observe como os elementos de uma lista completamente desordenada se comporta e até onde vão as comparações do loop interno e, o mais importante, por que ele não precisa ir mais além.
+Para sentir o passo a passo dessas iterações, observe como os elementos de uma lista completamente desordenada se comportam e até onde vão as comparações do loop interno e, o mais importante, por que ele não precisa ir mais além.
 
 ```
 i = 0
@@ -83645,7 +83645,7 @@ A complexidade deste algoritmo é de O(n^2) comparações e O(n^2) trocas.
 Ou seja, nada bom. Mas fácil de entender =)
 
 # Como funciona o insertion sort
-2023-04-09 computer interview
+2023-04-09 computer interview blog
 
 Entre os algoritmos de ordenação mais simples de se entender o insertion sort está na lista. E isso acontece porque ele é intuitivo. É mais ou menos como podemos fazer para ordenar um deck de cartas: pegamos item a item e vamos inserindo em um segundo deck, mas dessa vez observando onde cada carta deve ser inserida para que o deck final esteja ordenado.
 
@@ -83679,7 +83679,7 @@ vector<int> InsertionSort(vector<int> array)
 ```
 
 # Como inverter uma lista ligada
-2023-04-09 computer interview
+2023-04-09 computer interview blog
 
 Inverter uma string ou qualquer array em geral é muito simples se for pensar: itere do começo ao fim e do fim ao começo trocando as posições dos primeiros elementos com os últimos. Caminhe até a metade. Fim.
 
@@ -83744,7 +83744,7 @@ shared_ptr<LinkedList> LinkedListReverse(shared_ptr<LinkedList> head)
 ```
 
 # Como inverter uma string
-2023-04-09 computer interview
+2023-04-09 computer interview blog
 
 O bom de estar praticando para fazer entrevistas técnicas é ter material para novos postes. E este poste é sobre um assunto bem simples para quem já sabe como funcionam strings, mas complexo o suficiente para quem nunca ouviu falar de memória no computador.
 
@@ -83786,7 +83786,7 @@ string ReverseString(string s)
 ```
 
 # Como pegar caracteres repetidos em uma string
-2023-04-09 computer interview
+2023-04-09 computer interview blog
 
 A resposta rápida para esta questão é: hash tables.
 
@@ -83815,7 +83815,7 @@ void MatchingCharacters(string s)
 ```
 
 # Onde fica o meio de uma lista ligada?
-2023-04-09 computer interview
+2023-04-09 computer interview blog
 
 É simples descobrir o meio de um array: pegue seu tamanho e divida por dois. Agora, para uma lista ligada, mesmo que você saiba qual o índice do meio, não é por meio de índices que acessamos seus elementos, mas por ponteiros.
 
@@ -83872,7 +83872,7 @@ Já o Melitta foi o primeiro método que trouxe um certo amargor para este café
 Porém, o bom do mundo do café é que você sempre pode gastar mais. Mesmo em filtros de papel do tipo Melitta. Já ouviu falar na iniciativa Hario V60?
 
 # Segundo maior número
-2023-04-09 computer interview
+2023-04-09 computer interview blog
 
 Esta é uma das primeiras questões que peguei para praticar para entrevistas que é ligeiramente mais complicada do que parece, apesar de simples o suficiente para matar em alguns segundos. A questão: como determinar qual o segundo maior número de um array?
 
@@ -83906,7 +83906,7 @@ int SecondLargest(vector<int> array)
 ```
 
 # Como inverter um número
-2023-04-11 computer interview
+2023-04-11 computer interview blog
 
 Existe uma solução para a inversão de um número que não é bonita, mas prática: transforme em string e inverta essa string.
 
@@ -83956,9 +83956,9 @@ int ReverseNumberNumberVersion(int number)
 ```
 
 # Como verificar se um número é primo
-2023-04-11 computer interview
+2023-04-11 computer interview blog
 
-Apesar de existir matemáticos ao redor do mundo tentando responder esta pergunta da maneira computacionalmente mais rápida possível, existe uma forma ingênua e eficiente para números baixos:
+Apesar de existirem matemáticos ao redor do mundo tentando responder esta pergunta da maneira computacionalmente mais rápida possível, existe uma forma ingênua e eficiente para números baixos:
 
 - Faça um loop entre 2 e a metade do número;
 
@@ -83988,7 +83988,7 @@ bool PrimeNumber(int number)
 ```
 
 # Código para Fibonacci
-2023-04-11 computer interview
+2023-04-11 computer interview blog
 
 Zero e um são os primeiros números Fibonacci e todos os outros que se seguem são a soma dos dois números anteriores. Ou seja, para implementar isto em código basta:
 
@@ -84063,7 +84063,7 @@ Os pontos que Café com Canela tenta unir estão tão espaçados na narrativa qu
 Lá pelo final você entende. A velha aprende a andar de bicicleta. E ela agora pode cruzar uma ponte e superar o passado traumático. Às vezes a única coisa que falta é uma canela no café para aquela energia extra.
 
 # Hacker Rank Warm Up
-2023-04-16 computer interview
+2023-04-16 computer interview blog english
 
 Here I am doing interview exercise tests at Hacker Rank. I am trying to recap what I've been doing the last two months before going on. Let's see what I learned, starting with the Warm Up exercises.
 
@@ -84183,7 +84183,7 @@ Do outro lado do ringue temos uma moça que cuida do restaurante da família. El
 Tudo é um show de luzes que quer iluminar temas sociais referentes a comida, mas sua trama é simplista e episódica a ponto de já sabermos de antemão todo o desenrolar da história. Por exemplo, uma vez que a cozinheira sai das asas do seu tutor fica óbvio demais, além de artificial, que vai surgir um confronto direto entre eles. Há uma tentativa séria de ilustrar o filme com cenas impactantes, mas sem pano de fundo que a sustente elas são formas que o próprio chefe do filme tenta iludir seus clientes: com luzes e fumaça.
 
 # Árvore de segmentos
-2023-04-17 computer interview
+2023-04-17 computer interview blog
 
 Não existe sequer uma entrada em português sobre Segment Tree, uma árvore binária específica para guardar intervalos. E este acredito ser um assunto importante para testes de entrevista ou competições de programação porque ele é muito útil para alguns problemas. Vamos dar uma olhada em como ela funciona.
 
@@ -84359,35 +84359,21 @@ Entre 100 possíveis chutes foram feitos 6, ou cerca de log 100 chutes. Exatamen
 O fato da árvore ser de segmentos é apenas um detalhe que incorre em mantermos atualizados os nodes com a soma de todos os ramos abaixo, algo custoso a princípio, mas que na hora de obter a soma de intervalos faz valer a pena.
 
 # Hash Table Giratória
-2023-04-19 computer interview
+2023-04-19 computer interview blog
 
 Ainda estudando e praticando testes de entrevista me veio essa em que seja possível realizar somas para todas as chaves de uma hash table. Curioso, nunca tinha pensado nesta feature. Imagine que temos uma tabela de hash entre inteiros em que `{ 1: 8, 2: 9 }`. A chave corresponde ao hash.
 
-```
-| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...
-```
+"Tabela de hash entre inteiros"
 
 Então eu aplico um comando na tabela inteira adicionando o valor 2 às chaves, fazendo seus elementos irem parar duas posições à frente de onde estavam. A posição 1 vira 3 e a posição 2 vira 5, mantendo os mesmos valores.
 
-```
-| -5: | -4: | -3: | -2: | -1: | 0: | 1: | 2: | 3: | 4:8 | 5:9 |...
-```
+"Tabela de hash entre inteiros após adicionar 2"
 
 Em primeiro momento eu pensei em mover posições em um vetor para resolver esta questão, mas em seguida descobri que a mesma lógica pode ser aplicada a números negativos, o que deixou tudo muito confuso na minha cabeça.
 
 Depois de pensar em uma caminhada cheguei à conclusão que não é necessário ficar movendo memória uma vez que as posições relativas se mantém. Com base nisso eu desenvolvi a lógica de apenas manter um referencial do início "real" da tabela, ou seja, qual valor deve ser adicionado para se chegar à posição real após os deslocamentos. Dessa forma a posição na memória dos elementos permanece a mesma, mas do ponto de vista de indexação eles estariam, no exemplo acima, duas posições à frente. Para isso eu colocaria meu indexador duas posições atrás.
 
-```
-| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...
-                              |
-                              beg    1     2     3    4    5   ...
-
-add_to_key 2
-
-| -5: | -4: | -3: | -2: | -1: | 0: | 1:8 | 2:9 | 3: | 4: | 5: |...
-                  |
-                  beg      1    2    3     4     5   ...
-```
+"Tabela de hash entre inteiros após shift de 2"
 
 Agora sempre que alguém referenciar a posição 0 ela estará em -2 e assim por diante. Como a posição dentro de um array não precisa ser alterada não me preocupei em atualizar as chaves, apenas os campos internos de uma hash table: sua chave e valor.
 
@@ -84621,9 +84607,9 @@ when tackling a top-down problem, it helps to think the following three thoughts
 
 
 # Easter Egg
-2023-04-28 computer
+2023-04-28 computer blog
 
-Mexendo em um projeto legado encontro encontro "esta pérola". Será que ainda fazem essas coisas hoje em dia?
+Mexendo em um projeto legado encontro "esta pérola". Será que ainda fazem essas coisas hoje em dia?
 
 Eu sabia que existia um neste programa porque o código deste aplicativo foi 100% feito por mim, desde o começo até passar das dez mil linhas de código. No entanto, eu me lembro que a primeira versão deste cheat era no formato de créditos de filme, com os nomes da equipe descendo. Isso estamos falando de 20 anos atrás. Não me lembrava que ele foi readaptado para nossa minúscula equipe nessa fase do projeto, o que me gerou um saudosismo gostoso ao ver esta imagem.
 
@@ -84631,7 +84617,7 @@ Lá estava Taz, o nosso membro mais antigo, que começou como beta tester e cont
 
 Também na "foto" estava Rosamaria, a membro mais recente e que aprendeu sobre C++ e baixarias no Windows de sopetão. Para quem nem desconfiava que estaria entrando na área eu me lembro que ela se saiu super bem. O ponto alto para mim sempre será quando ela fez a engenharia reversa de um thin client descobrindo como fazer o inventário da solução e adaptando o código e suas sei lá quantas linhas e módulos distintos, para funcionar com a versão mais enxuta e cheia de idiossincrasias do Windows CE. Desnecessário dizer, Rosamaria é uma programadora de verdade.
 
-E no meio, estava eu, no papel do que hoje seria tipo um tech lead, mas sem a menor vocação ou maturidade para tal. Não me lembro de mim mesmo nessa época como um bom profissional. Mas também não sei se faria diferente. Eu nem sei bem como faria. As memórias de experiências recentes com SCRUM e reflexões em retrospecto estão me levando a crer que nessa área ou você quer muito fazer as coisas funcionar e irá desenvolver as habilidades para tal com muito suor e lágrimas, ou você será um estorvo, ou em outras palavras: o motivo pelo qual essas metodologias são criadas em primeiro lugar. É a analogia do Joel e a maravilhosa história d"o chefe de cozinha que virou administrador de fast food" ou algo assim. Pesquise para você ler no Joel on Software, caro leitor.
+E no meio, estava eu, no papel do que hoje seria tipo um tech lead, mas sem a menor vocação ou maturidade para tal. Não me lembro de mim mesmo nessa época como um bom profissional. Mas também não sei se faria diferente. Eu nem sei bem como faria. As memórias de experiências recentes com SCRUM e reflexões em retrospecto estão me levando a crer que nessa área ou você quer muito fazer as coisas funcionar e irá desenvolver as habilidades para tal com muito suor e lágrimas, ou você será um estorvo, ou em outras palavras: o motivo pelo qual essas metodologias são criadas em primeiro lugar. É a analogia do Joel e a maravilhosa história do "chefe de cozinha que virou administrador de fast food" ou algo assim. Pesquise para você ler no Joel on Software, caro leitor.
 
 Pois é, esse Easter Egg é muito mais que um desenho simpático e as memórias que chegam. É um convite de reflexão sobre a vida de computeiro e como ela passa por seus ciclos. Será que ainda fazem Easter Eggs nos escritórios ou nos home-offices, ou as pessoas simplesmente trabalham?
 
