@@ -1137,7 +1137,7 @@ Está previsto ainda para o ano que vem a nova versão da plataforma NT, com nov
 # About
 2007-06-14 blog
 
-Quer entrar em contato? Mande o bom e velho email. Quer um "resumo profissional"?
+Quer entrar em contato? Mande o bom e velho email. Para mais detalhes técnicos busque por meu "Resumo profissional".
 
 "Eu mesmo!"
 
@@ -1254,7 +1254,7 @@ Nos últimos anos voltei para a área de segurança, onde na Venn estou me diver
 "Não basta saber: temos que aplicar. Não basta querer: temos que fazer." Goethe
 
 
-# Wanderley Caloni
+# Resumo profissional
 2007-06-14
 
 Location: São Paulo, Brazil
@@ -18730,7 +18730,7 @@ Contudo, bem observado que nem toda função guarda o último erro para o chamad
 # WinDbg.info
 2009-02-10 computer blog
 
-Para os perdidos e desatualizados como eu, notei hoje que "Robert Kuster possui um saite" onde mantém diversas informações sobre o WinDbg; uma espécie de continuação de sua famosa transparência WinDbg. From A to Z.
+Para os perdidos e desatualizados como eu, notei hoje que Robert Kuster possui um saite onde mantém diversas informações sobre o WinDbg; uma espécie de continuação de sua famosa transparência WinDbg. From A to Z.
 
 Como eu descobri? Bom, ele me mandou um e-mail perguntando se poderia deixar sua "tradução para inglês" do meu artigo como Foreword para os slides =)
 
@@ -23400,13 +23400,13 @@ Os três comandos simples não são nada do outro mundo: criar o repositório, a
 
 Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o que tinha pra modificar, então mande tudo que tenho de novo para o controle".
 
-Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que "uso no dia a dia com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta "baixá-lo", next next e finish.
+Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que uso no dia a dia com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta "baixá-lo", next next e finish.
 
 "Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando."
 
 Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.
 
-Apesar de existirem "firulas gráficas", gosto de usar o Bazaar na linha de comando porque faz você pensar direito antes de fazer commits, mas esteja livre para experimentar a maneira que achar melhor.
+Apesar de existirem firulas gráficas (como visto em "Bazaar gráfico"), gosto de usar o Bazaar na linha de comando porque faz você pensar direito antes de fazer commits, mas esteja livre para experimentar a maneira que achar melhor.
 
 #### Botando a mão na massa
 

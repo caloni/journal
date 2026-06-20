@@ -23,9 +23,7 @@ def call_publisher(script_name):
         '--single-post-mode', '1',
         '--use-templates', '1',
         '--comment-email', 'wanderley.caloni@gmail.com',
-        '--external-links', 'external-links.yaml',
-        '--blogging-links', 'blogging-links.yaml',
-        '--external-images', 'external-images.yaml',
+        '--links', 'links.yaml',
     ]
     
     try:

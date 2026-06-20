@@ -1,0 +1,3166 @@
+# External links
+# Each entry maps a "Description" with an external URL. For images
+# this "Description" is alone in its own line and the image is a
+# local path. For inside paragraph "quoted text" the link is an URL
+# to an external page. This is also true for a match with a post title
+# with this description.
+#
+# Fields:
+#   description: "the exact quoted text as it appears in the source markdown (case-sensitive)"
+#   link:   the external URL to link to
+
+- description: "!peb"
+  link: http://windbg.info/doc/1-common-cmds.html#11_process
+
+- description: "mother-fucker livro"
+  link: http://advancedwindowsdebugging.com/
+
+- description: "11 Myths About Fasting and Meal Frequency"
+  link: https://www.healthline.com/nutrition/11-myths-fasting-and-meal-frequency
+
+- description: "1999 september edition"
+  link: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
+
+- description: "2012"
+  link: https://en.wikipedia.org/wiki/2012_phenomenon
+
+- description: "80 milhas por hora"
+  link: https://en.wikipedia.org/wiki/Back_to_the_Future
+
+- description: ":grep"
+  link: http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:grep
+
+- description: ":mksession"
+  link: http://vimdoc.sourceforge.net/htmldoc/starting.html#:mksession
+
+- description: ":source"
+  link: http://vimdoc.sourceforge.net/htmldoc/repeat.html#:source
+
+- description: ":vimgrep"
+  link: http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:vimgrep
+
+- description: "A Beginner’s Guide to Roasting Great Coffee at Home"
+  link: https://perfectdailygrind.com/2020/05/a-beginners-guide-to-roasting-great-coffee-at-home/
+
+- description: "A Roaster’s Guide to Creating Coffee Blends"
+  link: https://perfectdailygrind.com/2018/05/a-roasters-guide-to-creating-coffee-blends/
+
+- description: "A.V. Club - The 10 best films of the 1890s"
+  link: https://www.avclub.com/the-10-best-films-of-the-1890s-1798234254
+
+- description: "AF."
+  link: http://techberto.wordpress.com
+
+- description: "API do Windows"
+  link: https://learn.microsoft.com/pt-br/
+
+- description: "API é beta"
+  link: https://trello.com/docs/
+
+- description: "ATL"
+  link: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL
+
+- description: "AWK"
+  link: https://github.com/Caloni/lectures/blob/master/awk.pdf
+
+- description: "Acate"
+  link: https://www.acate.com.br/
+
+- description: "Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire"
+  link: https://pubmed.ncbi.nlm.nih.gov/28196711/
+
+- description: "Acidic Coffees: A Brew & Roast Guide"
+  link: https://perfectdailygrind.com/2018/05/why-are-some-coffees-more-acidic-than-others-a-brew-roast-guide/
+
+- description: "Advanced Bash-Scripting Guide"
+  link: https://tldp.org/LDP/abs/html/index.html
+
+- description: "Alan"
+  link: http://jumpi.wordpress.com
+
+- description: "Alberto Fabiano"
+  link: http://techberto.wordpress.com
+
+- description: "Alex Ionescu article"
+  link: http://www.alex-ionescu.com/?p=59
+
+- description: "Amo Pão Caseiro"
+  link: https://amopaocaseiro.com.br/receita/pao-frances/
+
+- description: "An Artificial Intelligence for the 2048 game"
+  link: https://gsurma.medium.com/2048-solving-2048-with-monte-carlo-tree-search-ai-2dbe76894bab
+
+- description: "Andy Pennell's Blog"
+  link: http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx
+
+- description: "Antidebugging: Eu Não Quero que Você Mexa no Meu Código"
+  link: https://github.com/Caloni/lectures/blob/master/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf
+
+- description: "ArtMoney"
+  link: https://artmoney.ru/
+
+- description: "Arthur da Paz"
+  link: https://github.com/arthurdapaz
+
+- description: "Ataliba"
+  link: http://www.ataliba.eti.br
+
+- description: "Awk in 20 Minutes"
+  link: https://ferd.ca/awk-in-20-minutes.html
+
+- description: "BareTail"
+  link: https://www.baremetalsoft.com/baretail/
+
+- description: "Base64 da Wikipedia"
+  link: http://en.wikipedia.org/wiki/Base64
+
+- description: "Bash Reference Manual"
+  link: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+
+- description: "BitBucket"
+  link: http://www.bitbucket.org
+
+- description: "BitForge"
+  link: https://www.linkedin.com/company/bit-forge
+
+- description: "Blending Coffee Through Molecular Analysis"
+  link: https://perfectdailygrind.com/2018/07/blending-coffee-through-molecular-analysis/
+
+- description: "Bleno"
+  link: http://www.bleno.org
+
+- description: "Bruno Moreira Guedes"
+  link: http://brunildz.blogspot.com/
+
+- description: "Bruno Sanches"
+  link: http://bcsanches.wordpress.com
+
+- description: "C4701"
+  link: https://msdn.microsoft.com/en-us/library/1wea5zwe.aspx
+
+- description: "CMake"
+  link: https://cmake.org/cmake/help/v3.11/manual/cmake-toolchains.7.html
+
+- description: "Caixa Econômica Federal"
+  link: http://loterias.caixa.gov.br
+
+- description: "Cavic Meio Seco 2020"
+  link: https://www.eniwine.com/vitrine/detalhes/f3089ff0-c04c-4a1d-991f-a9d38963f616
+
+- description: "Chefe Mancuzo"
+  link: https://youtu.be/PLDdc5CLKko
+
+- description: "Christopher A. Wood"
+  link: https://datatracker.ietf.org/person/Christopher%20A.%20Wood
+
+- description: "Christopher H. Hendon"
+  link: https://www.smithsonianmag.com/science-nature/science-behind-brewing-great-cup-coffee-180965049/
+
+- description: "Château Marjosse Rouge 2018"
+  link: https://www.eniwine.com/vitrine/detalhes/e0ba59ef-e270-4a4e-816a-b75ee265fae6
+
+- description: "CinemAqui"
+  link: https://cinemaqui.com.br/author/wanderley-caloni/
+
+- description: "Co co-co-co-co-corrotinas"
+  link: https://www.slideshare.net/WanderleyCaloni/co-cococococorrotinas
+
+- description: "CodeBehind"
+  link: http://codebehind.wordpress.com
+
+- description: "ComOleViewDotNet"
+  link: https://github.com/tyranid/oleviewdotnet
+
+- description: "CommonMark"
+  link: https://commonmark.org/
+
+- description: "Como ser um bom programador"
+  link: http://www.1bit.com.br/content.1bit/bom_programador
+
+- description: "Como ser um programador"
+  link: http://www.1bit.com.br/content.1bit/programador
+
+- description: "Coutada Velha Signature 2019"
+  link: https://www.eniwine.com/vitrine/detalhes/de2a9c2e-a57a-4b90-b7b8-60ed6f651c99
+
+- description: "CppPreference"
+  link: http://www.cppreference.com/operator_precedence.html
+
+- description: "CreateThread"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread
+
+- description: "Creative Commons"
+  link: http://creativecommons.org\
+
+- description: "D. Ritchie"
+  link: https://www.bell-labs.com/usr/dmr/www/
+
+- description: "DQ"
+  link: http://dqsoft.blogspot.com
+
+- description: "DTLS-Examples"
+  link: https://github.com/nplab/DTLS-Examples
+
+- description: "Daniel Quadros"
+  link: http://dqsoft.blogspot.com
+
+- description: "DebugView"
+  link: http://technet.microsoft.com/en-us/sysinternals/bb896647
+
+- description: "Debugging Tools for Windows"
+  link: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools
+
+- description: "Depurando até o Fim do Mundo"
+  link: https://github.com/Caloni/lectures/blob/master/depurandofimdomundo.pdf
+
+- description: "Derneval Cunha"
+  link: https://absoluta.org/barata/
+
+- description: "Dividendo Café"
+  link: https://www.instagram.com/dividendocafe/
+
+- description: "Dmitry Vostokov"
+  link: http://www.dumpanalysis.org/blog/index.php/2008/09/18/cmdtreetxt-for-cda-checklist/
+
+- description: "DriverEntry"
+  link: http://www.driverentry.com.br
+
+- description: "Edgard Soares"
+  link: http://groups.google.com/group/ccppbrasil/msg/6139413a375cfcd0
+
+- description: "Engenharia Reversa para Principiantes"
+  link: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
+
+- description: "Entendendo a Compilação"
+  link: https://github.com/Caloni/lectures/blob/master/entendendo-a-compilacao.pdf
+
+- description: "Enter"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-entercriticalsection
+
+- description: "Era Uma Vez na América Latina"
+  link: https://eraumavezamericalatina.substack.com
+
+- description: "Esse cara"
+  link: http://c00kiemon5ter.github.io/code/2011/04/16/Development-Methodologies.html
+
+- description: "Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL"
+  link: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl
+
+- description: "Fabio Montefuscolo"
+  link: https://gist.github.com/fabiomontefuscolo
+
+- description: "Fasting: molecular mechanisms and clinical applications"
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24440038
+
+- description: "Felipe Silveira"
+  link: http://www.felipesilveira.com.br
+
+- description: "Fernando Roberto da Silva"
+  link: http://www.driverentry.com.br
+
+- description: "Fernando Roberto"
+  link: http://www.driverentry.com.br
+
+- description: "Fernando/DriverEntry"
+  link: http://driverentry.com.br/
+
+- description: "FindFirstFile"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findfirstfilea
+
+- description: "FormatMessage"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-formatmessage
+
+- description: "Francamente, Querida"
+  link: http://francamentequerida.com.br/
+
+- description: "French Dog Merlot 2019"
+  link: https://www.eniwine.com/vitrine/detalhes/f447edac-056b-467b-8cce-52a5a480bbf2
+
+- description: "Fábio Gallupo"
+  link: http://fabiogaluppo.spaces.live.com
+
+- description: "GFlags"
+  link: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags
+
+- description: "GMouseTool"
+  link: http://gmousetool.sourceforge.net
+
+- description: "Gawk Guide"
+  link: https://www.gnu.org/software/gawk/manual/gawk.html
+
+- description: "Gerenciamento de memória 386"
+  link: https://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-386.html
+
+- description: "GitHub da BitForge"
+  link: https://github.com/bitforgebr/tiocoin
+
+- description: "GitHub do Gregory Crosswhite"
+  link: https://github.com/gcross/unit--
+
+- description: "GitHub"
+  link: http://www.github.com
+
+- description: "Glycogen in Four Parts"
+  link: https://youtu.be/0xj4etF0wkw
+
+- description: "Google Code Jam"
+  link: https://code.google.com/codejam/contest/2974486/dashboard
+
+- description: "Grupo C/C++ Brasil"
+  link: https://groups.google.com/forum/#!topic/ccppbrasil/uzn6i0PJi8UEu
+
+- description: "Guidra"
+  link: https://ghidra-sre.org/
+
+- description: "Honey processing: everything you need to know"
+  link: https://perfectdailygrind.com/2015/09/everything-you-need-to-know-about-honey-processing/
+
+- description: "Hossein Derakhshan"
+  link: http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web
+
+- description: "How Intermittent Fasting can help you Sleep better"
+  link: https://www.wefast.care/articles/fasting-and-sleep
+
+- description: "How does intermittent fasting help with insulin resistance"
+  link: https://www.wefast.care/articles/intermittent-fasting-insulin-resistance
+
+- description: "How to Recognize a Great Anime"
+  link: https://youtu.be/0kQrT8S2Mrw
+
+- description: "Hugo"
+  link: https://gohugo.io
+
+- description: "HxD"
+  link: http://mh-nexus.de/en/hxd/
+
+- description: "IDA"
+  link: https://hex-rays.com/ida-free/
+
+- description: "IOCCC"
+  link: http://www.ioccc.org/
+
+- description: "Initialize"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-initializecriticalsection
+
+- description: "Intelitrader"
+  link: http://www.intelitrader.com.br
+
+- description: "InterlockedIncrement"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/winnt/nf-winnt-interlockedincrement
+
+- description: "Intermittent Fasting 101 — The Ultimate Beginner’s Guide"
+  link: https://www.healthline.com/nutrition/intermittent-fasting-guide
+
+- description: "Intermittent Fasting And Hormones For A Better Balance"
+  link: https://www.wefast.care/articles/intermittent-fasting-and-hormones
+
+- description: "Isamara Amâncio"
+  link: https://youtu.be/Uhy3gGR2d6s
+
+- description: "Jejum intermitente “24 por 24” horas aumenta risco de diabete em ratos"
+  link: https://jornal.usp.br/ciencias/ciencias-biologicas/jejum-intermitente-24-por-24-horas-aumenta-risco-de-diabete-em-ratos/
+
+- description: "Joliesse Cabernet Sauvignon 2018"
+  link: https://www.eniwine.com/vitrine/detalhes/11191e91-5603-4d02-9d45-52fec1e19f90
+
+- description: "KISS"
+  link: http://en.wikipedia.org/wiki/KISS_principle
+
+- description: "LIST_ENTRY"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/ntdef/ns-ntdef-list_entry
+
+- description: "Las Tortugas Estate"
+  link: https://www.nietosenetiner.com.ar/vinos/single-vineyard/las-tortugas-estate-bonarda/
+
+- description: "LeaveCriticalSection"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-leavecriticalsection
+
+- description: "MPTCP"
+  link: https://www.multipath-tcp.org/
+
+- description: "MRU"
+  link: http://www.vim.org/scripts/script.php?script_id=521
+
+- description: "MSDN Magazine"
+  link: https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/may/repel-attacks-with-visual-studio-2005-safe-c-and-c-libraries
+
+- description: "Marcio Andrey Oliveira"
+  link: http://marcioandreyoliveira.blogspot.com
+
+- description: "Marcio Wesley Borges"
+  link: https://marciowb.dev/
+
+- description: "Mariner 1"
+  link: http://en.wikipedia.org/wiki/Mariner_1
+
+- description: "Mente Binária"
+  link: https://www.mentebinaria.com.br
+
+- description: "Mercês"
+  link: https://twitter.com/mer0x36
+
+- description: "Microsoft Application Virtualization"
+  link: https://learn.microsoft.com/en-us/windows/application-management/app-v/appv-getting-started
+
+- description: "MiniDumpWriteDump"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/minidumpapiset/nf-minidumpapiset-minidumpwritedump
+
+- description: "Mounter"
+  link: http://www.codimark.com/blog/
+
+- description: "Márcio Andrey Oliveira"
+  link: http://marcioandreyoliveira.blogspot.com
+
+- description: "NSSM"
+  link: https://nssm.cc/
+
+- description: "Native Floripa"
+  link: http://www.nativefloripa.com.br/
+
+- description: "Navalha de Ockham"
+  link: https://pt.wikipedia.org/wiki/Navalha_de_Ockham
+
+- description: "Nicolau Werneck"
+  link: http://philogroky.blogspot.com/
+
+- description: "Notação Húngara"
+  link: http://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_h%C3%BAngara
+
+- description: "Nouvelle Vague"
+  link: https://en.wikipedia.org/wiki/French_New_Wave
+
+- description: "NuGet"
+  link: https://docs.microsoft.com/pt-br/nuget/consume-packages/overview-and-workflow
+
+- description: "Nynaeve"
+  link: http://www.nynaeve.net/?p=164
+
+- description: "OpenCS"
+  link: https://www.linkedin.com/company/open-communications-security/
+
+- description: "Operators in C and C++ in Wikipedia"
+  link: http://en.wikipedia.org/wiki/Operators_in_C_and_C
+
+- description: "PC Assember Volume I"
+  link: http://dqsoft.blogspot.com/2007/09/pc-assember-volume-i.html
+
+- description: "Paso a Paso"
+  link: https://pasoapasowines.com.ar
+
+- description: "Patch de Emergência"
+  link: https://github.com/Caloni/lectures/blob/master/patchdeemergencia.pdf
+
+- description: "PeTools"
+  link: https://github.com/petoolse/petools/releases
+
+- description: "Pentateuco"
+  link: https://pt.wikipedia.org/wiki/Pentateuco
+
+- description: "Physical changes coffee beans experience during roasting"
+  link: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-physical-changes/
+
+- description: "Piantaferro Primitivo Di Manduria D.O.C 2017"
+  link: https://www.eniwine.com/vitrine/detalhes/08ceee9a-49bd-4213-92fb-b100c1bef787
+
+- description: "Picoro"
+  link: http://dotat.at/cgi/~fanf/dotat/~fanf/dotat/git/picoro.git
+
+- description: "Pink Elephants on Parade"
+  link: https://en.wikipedia.org/wiki/Pink_Elephants_on_Parade
+
+- description: "PopolonY2k"
+  link: http://www.planetamessenger.org
+
+- description: "Process Explorer"
+  link: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
+
+- description: "Process Monitor"
+  link: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
+- description: "Putty"
+  link: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+- description: "Pão da Casa"
+  link: https://youtu.be/KCe85lhkfOg
+
+- description: "Pôquer Online"
+  link: https://github.com/Caloni/lectures/blob/master/poqueronline.pdf
+
+- description: "Química do pão de queijo"
+  link: https://brasilescola.uol.com.br/quimica/quimica-pao-queijo.htm
+
+- description: "RAII"
+  link: https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization
+
+- description: "RFC 6347"
+  link: https://tools.ietf.org/html/rfc6347
+
+- description: "RFC 989"
+  link: http://tools.ietf.org/html/rfc989
+
+- description: "Ralf Brown's Interrupt List na Wikipedia"
+  link: https://en.wikipedia.org/wiki/Ralf_Brown%27s_Interrupt_List
+
+- description: "Ralf Brown"
+  link: http://www.ctyme.com/rbrown.htm
+
+- description: "RegShot"
+  link: https://sourceforge.net/projects/regshot/
+
+- description: "ReiserFS"
+  link: http://pt.wikipedia.org/wiki/ReiserFS
+
+- description: "Renan de Araujo"
+  link: http://www.renanimated.com
+
+- description: "Resource Hacker"
+  link: http://angusj.com/resourcehacker/
+
+- description: "Resumo de Debug Remoto"
+  link: https://github.com/Caloni/lectures/blob/master/debug-remoto-resumo.pdf
+
+- description: "Rio Claro Reserva Organico Carménère 2018"
+  link: https://www.eniwine.com/vitrine/detalhes/7df1d0fa-c898-4d76-b593-c3a479d571d6
+
+- description: "Rio Sol Reserva 2015"
+  link: https://www.eniwine.com/vitrine/detalhes/10ea84da-21a4-4640-96ea-19382cead35f
+
+- description: "RmThread"
+  link: http://www.codeproject.com/threads/RmThread.asp
+
+- description: "RoGetActivationFactory"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/roapi/nf-roapi-rogetactivationfactory
+
+- description: "Roberto Bechtlufft"
+  link: http://eufedorotufedoraselefedora.wordpress.com
+
+- description: "Rodrigo Strauss"
+  link: https://www.1bit.com.br
+
+- description: "RusKey"
+  link: http://www.codeproject.com/KB/winsdk/ruskey.aspx
+
+- description: "SCMs"
+  link: http://en.wikipedia.org/wiki/Software_configuration_management
+
+- description: "SCUA"
+  link: https://www.linkedin.com/company/scua/
+
+- description: "SFINAE"
+  link: https://en.wikipedia.org/wiki/Substitution_failure_is_not_an_error
+
+- description: "San Valentin Garnacha 2018"
+  link: https://www.eniwine.com/vitrine/detalhes/2d13bb93-d593-42c3-b431-68d806eeb6e1
+
+- description: "Sangue de Jupíter"
+  link: http://mondovinho.blogspot.com/2010/08/uva-de-jupiter-emblema-da-italia.html
+
+- description: "Say Goodbye To Sugar Cravings With Intermittent Fasting"
+  link: https://www.wefast.care/articles/intermittent-fasting-sugar-cravings
+
+- description: "SergioCBJ"
+  link: http://sergaralho.blogspot.com/
+
+- description: "SetUnhandledExceptionFilter"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-setunhandledexceptionfilter
+
+- description: "Seu post"
+  link: http://www.lauradhamilton.com/random-lessons-online-poker-exploit
+
+- description: "ShareX"
+  link: https://getsharex.com/
+
+- description: "Solar Viejo Crianza 2016"
+  link: https://www.eniwine.com/vitrine/detalhes/7e88e1ba-2b85-4a97-b863-0490f3b3b586
+
+- description: "SpyStudio"
+  link: http://www.nektra.com/products/spystudio/
+
+- description: "Stack Overflow"
+  link: https://github.com/Caloni/lectures/blob/master/stack-overflow.pdf
+
+- description: "StarDict"
+  link: http://stardict.sourceforge.net/
+
+- description: "Strings"
+  link: https://learn.microsoft.com/en-us/sysinternals/downloads/strings
+
+- description: "Sunrise Cabernet Sauvignon 2020"
+  link: https://www.eniwine.com/vitrine/detalhes/0d994185-a072-4bbc-857b-39b69fe29bba
+
+- description: "Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers"
+  link: https://pubmed.ncbi.nlm.nih.gov/29518469/
+
+- description: "SysAllocString"
+  link: http://msdn.microsoft.com/en-us/library/ms221458.aspx
+
+- description: "Sysinternals Suite"
+  link: https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
+
+- description: "SystemRescueCd"
+  link: http://www.system-rescue-cd.org/SystemRescueCd_Homepage
+
+- description: "Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression"
+  link: https://pubmed.ncbi.nlm.nih.gov/29665461/
+
+- description: "Technology is Heroin"
+  link: http://tiny-giant-books.com/Entry1.html?EntryId=recgcpfuOFUesUpRy
+
+- description: "Teste de Bechdel"
+  link: https://pt.wikipedia.org/wiki/Teste_de_Bechdel
+
+- description: "The C++ Programming Language"
+  link: https://www.google.com.br/search?q=the+c%2B%2B+programming+language
+
+- description: "The International Obfuscated C Code Contest"
+  link: http://www.ioccc.org
+
+- description: "The Zone"
+  link: https://hn.algolia.com/?query=the%20zone
+
+- description: "Thiago R Adams"
+  link: http://paginas.terra.com.br/informatica/thiago_adams/
+
+- description: "Thiago"
+  link: http://codebehind.wordpress.com
+
+- description: "Tierra Sur 2019"
+  link: https://www.eniwine.com/vitrine/detalhes/a4bfbdf9-18d5-4c21-9bd8-7c5a71b74476
+
+- description: "Tortoise for Bazaar"
+  link: http://wiki.bazaar.canonical.com/TortoiseBzr
+
+- description: "Trello"
+  link: http://www.trello.com
+
+- description: "Troubleshooting em Equipes Remotas com Debugging Tools"
+  link: https://github.com/Caloni/lectures/blob/master/troubleshooting-em-equipes-remotas-com-debugging-tools-for-windows.pdf
+
+- description: "Tutorial from an Experient Mind"
+  link: https://www.grymoire.com/Unix/Awk.html
+
+- description: "UNICODE"
+  link: http://pt.wikipedia.org/wiki/UNICODE
+
+- description: "Valle Austral Reserva Malbec 2018"
+  link: https://www.eniwine.com/vitrine/detalhes/6acb3876-bc01-432d-af84-eda64ff0ec8e
+
+- description: "Vcpkg e vc td a ver"
+  link: https://www.slideshare.net/WanderleyCaloni/vcpkg-e-vc-td-a-ver
+
+- description: "Vecchia Cantina Chianti 2019"
+  link: https://www.eniwine.com/vitrine/detalhes/a52e5151-824a-40e0-b43c-17238717aa6e
+
+- description: "ViniGodoy"
+  link: http://vinigodoy.wordpress.com
+
+- description: "VirtualBox and open source"
+  link: http://www.virtualbox.org/wiki/Editions
+
+- description: "Virtus Reservado Suave Cabernet Sauvignon 2020"
+  link: https://www.eniwine.com/vitrine/detalhes/13f47ad6-e05d-41ab-a8cb-1c73e17bc3dd
+
+- description: "Visual Studio Marketplace"
+  link: https://marketplace.visualstudio.com/
+
+- description: "Volker von Einem"
+  link: http://voneinem-windbg.blogspot.com/2008/09/amazing-helper-cmdtree.html
+
+- description: "WTL for MFC Programmers"
+  link: http://www.codeproject.com/KB/wtl/wtl4mfc1.aspx
+
+- description: "WTL"
+  link: http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl
+
+- description: "WYSIWYG"
+  link: http://pt.wikipedia.org/wiki/Wysiwyg
+
+- description: "WaitForMultipleObjects"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitformultipleobjects
+
+- description: "Want to stop craving chocolate? Here are two options"
+  link: https://www.washingtonpost.com/lifestyle/wellness/want-to-stop-craving-chocolate-here-are-two-options/2018/06/25/48a0e698-7407-11e8-805c-4b67019fcfe4_story.html
+
+- description: "Washed, Natural, Honey: Coffee Processing 101"
+  link: https://perfectdailygrind.com/2016/07/washed-natural-honey-coffee-processing-101/
+
+- description: "Werner"
+  link: http://www.wernermoecke.tk
+
+- description: "What Happens During Coffee Roasting: The Chemical Changes"
+  link: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-chemical-changes/
+
+- description: "Why fasting bolsters brain power: Mark Mattson at TED"
+  link: https://youtu.be/4UkZAwKoCP8
+
+- description: "Wikipédia em português"
+  link: https://pt.wikipedia.org/wiki/Deadlock
+
+- description: "WinBoard"
+  link: http://www.tim-mann.org/xboard.html
+
+- description: "WinDbg.info"
+  link: http://windbg.info/
+
+- description: "WinMerge"
+  link: http://winmerge.org
+
+- description: "Wireshark"
+  link: https://www.wireshark.org/
+
+- description: "WlxInitialize"
+  link: http://msdn.microsoft.com/en-us/library/windows/desktop/aa380567%28v=vs.85%29.aspx
+
+- description: "a ajuda"
+  link: https://cplusplus.com/reference/sstream/stringstream/str/
+
+- description: "a documentação da msdn"
+  link: http://msdn2.microsoft.com/en-us/library/z2f3cb7h.aspx
+
+- description: "a estrutura que vai ser recebida"
+  link: https://developer.github.com/webhooks/
+
+- description: "a maioria"
+  link: https://msdn.microsoft.com/en-us/library/mt694070.aspx
+
+- description: "a partir dos fontes"
+  link: https://github.com/PowerShell/openssh-portable
+
+- description: "a série de artigos sobre o Windows"
+  link: historia_do_windows
+
+- description: "a versão eletrônica disponível para download"
+  link: http://www.charlespetzold.com/books.html
+
+- description: "adendo"
+  link: https://support.microsoft.com/en-us/kb/156932
+
+- description: "alguns conhecimentos da arquitetura"
+  link: http://en.wikipedia.org/wiki/Protected_mode
+
+- description: "alguns tratados internacionais"
+  link: https://www.scielo.br/j/ci/a/P46qw5NNYhnyxNb8g7VFq6S/?format=html&lang=pt
+
+- description: "analistas de sistemas Júnior programando filtros de file system"
+  link: http://groups.google.com/group/ccppbrasil/msg/f1f6d52aa167c1ab?dmode=source
+
+- description: "apresentação nota dez"
+  link: http://windbg.info/download/doc/pdf/WinDbg_A_to_Z_color.pdf
+
+- description: "aquele mais turbinado do FreeDOS"
+  link: https://www.freedos.org/
+
+- description: "armadilhas em C"
+  link: http://www.literateprogramming.com/ctraps.pdf
+
+- description: "array manipulation problem"
+  link: https://www.hackerrank.com/challenges/crush
+
+- description: "artigo de Raymond Chen"
+  link: https://devblogs.microsoft.com/oldnewthing/20160615-00/?p=93675
+
+- description: "artigo de Roberto Farah"
+  link: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/special-commandexecute-commands-from-a-customized-user-interface-with-cmdtree
+
+- description: "artigo de Volker von Einem"
+  link: http://voneinem-windbg.blogspot.com/2007/06/scan-full-process-memory-for-pattern.html
+
+- description: "artigo do Alex Ionescu"
+  link: http://www.alex-ionescu.com/?p=59
+
+- description: "artigo do The Guardian"
+  link: ttps://www.theguardian.com/environment/2020/jun/19/why-you-should-go-animal-free-arguments-in-favour-of-meat-eating-debunked-plant-based
+
+- description: "Tribo Forte"
+  link: https://triboforte.com.br/podcasts/
+
+- description: "artigos de Jakub Sitnicki"
+  link: http://codecave.cc/multipath-routing-in-linux-part-1.html
+
+- description: "até a Calc do Windows"
+  link: http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html
+
+- description: "autólise"
+  link: https://www.madrepaesartesanais.com.br/autolise/
+
+- description: "bainha de mielina"
+  link: https://pt.wikipedia.org/wiki/Bainha_de_mielina
+
+- description: "baixá-lo"
+  link: http://wiki.bazaar.canonical.com/Download
+
+- description: "base numérica"
+  link: http://pt.wikipedia.org/wiki/Convers%C3%A3o_de_base_num%C3%A9rica
+
+- description: "bem"
+  link: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-24.html
+
+- description: "binários"
+  link: https://github.com/PowerShell/Win32-OpenSSH/releases
+
+- description: "blogue do Ken Johnson"
+  link: http://www.nynaeve.net/
+
+- description: "boi-corneta"
+  link: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br
+
+- description: "bois-cornetas"
+  link: http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br
+
+- description: "boost"
+  link: http://www.boost.org/
+
+- description: "bzr-svn"
+  link: http://doc.bazaar.canonical.com/latest/en/user-guide/svn_plugin.html
+
+- description: "canon"
+  link: https://en.wikipedia.org/wiki/Canon_(fiction)
+
+- description: "cloud jump problem"
+  link: https://www.hackerrank.com/challenges/jumping-on-the-clouds
+
+- description: "codepage 437"
+  link: https://en.wikipedia.org/wiki/Code_page_437#Character_set
+
+- description: "coleções particulares"
+  link: https://drive.google.com/drive/folders/0B5raq27YbkvOZHN0a2xmOFhON0U?usp=sharing
+
+- description: "colocar no site"
+  link: http://www.1bit.com.br/content.1bit/weblog/ode_cpp
+
+- description: "comando trap"
+  link: https://linuxhint.com/bash_trap_command/
+
+- description: "complemento de dois"
+  link: http://en.wikipedia.org/wiki/Twos_complement
+
+- description: "completion port"
+  link: https://learn.microsoft.com/en-us/windows/win32/fileio/i-o-completion-ports
+
+- description: "conjunto"
+  link: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-14.html
+
+- description: "controle de fontes distribuído"
+  link: https://en.wikipedia.org/wiki/Distributed_version_control
+
+- description: "counting valleys problem"
+  link: https://www.hackerrank.com/challenges/counting-valleys
+
+- description: "criar um job"
+  link: https://learn.microsoft.com/en-us/windows/win32/procthread/job-objects
+
+- description: "current implementation of asciidoctor"
+  link: https://docs.asciidoctor.org/asciidoc/latest/
+
+- description: "curso de desenvolvimento de drivers do meu amigo Ferdinando"
+  link: http://driverentry.com.br/blog/?page_id=16
+
+- description: "código do quake"
+  link: https://github.com/id-Software/Quake
+
+- description: "das 500 mil combinações"
+  link: https://www.connectionstrings.com/
+
+- description: "ddkbuild"
+  link: http://www.osronline.com/article.cfm?article=43
+
+- description: "de acordo com o SDK"
+  link: http://msdn.microsoft.com/en-us/library/bb760706%28v=VS.85%29.aspx
+
+- description: "de gelo"
+  link: http://en.wikipedia.org/wiki/Wonder_Twins
+
+- description: "demitido do Estadão em 2020"
+  link: https://archive.is/Uw8Fm
+
+- description: "depuração de kernel"
+  link: http://www.driverentry.com.br
+
+- description: "deste saite"
+  link: http://www.numaboa.com.br
+
+- description: "detalhado"
+  link: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-44.html
+
+- description: "diferentes checagens"
+  link: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Bash-Conditional-Expressions
+
+- description: "disciplina"
+  link: https://web.archive.org/web/20160305115449/http://www.wired.com/2009/01/uc-berkeley-int/
+
+- description: "dispex.dll"
+  link: http://www.google.com.br/search?q=dispex.dll
+
+- description: "disponível na web"
+  link: http://ianclatworthy.files.wordpress.com/2007/10/dvcs-why-and-how3.pdf
+
+- description: "distribuído"
+  link: http://en.wikipedia.org/wiki/Distributed_revision_control
+
+- description: "docs"
+  link: https://processhacker.sourceforge.io/doc/ntregapi_8h.html#aa4c6abc699a9c60acbfdc0fd4a229215
+
+- description: "doublekiller.exe"
+  link: https://www.bigbangenterprises.de/en/doublekiller/
+
+- description: "dquadros"
+  link: http://dqsoft.blogspot.com
+
+- description: "dt"
+  link: http://windbg.info/doc/1-common-cmds.html#17_variables
+
+- description: "dtlsudpecho.c"
+  link: https://github.com/nplab/DTLS-Examples/blob/master/src/dtls_udp_echo.c
+
+- description: "edição de setembro de 1999"
+  link: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
+
+- description: "efeito Zeigarnik"
+  link: https://en.wikipedia.org/wiki/Zeigarnik_effect
+
+- description: "em Mauá"
+  link: https://maps.app.goo.gl/x5QRhWMSdzB8h9h28
+
+- description: "em Python"
+  link: houaiss_para_babylon_python
+
+- description: "em formato físico"
+  link: https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560
+
+- description: "em nosso grupo"
+  link: https://groups.google.com/g/ccppbrasil
+
+- description: "ent"
+  link: http://www.fourmilab.ch/random/
+
+- description: "entradas"
+  link: http://stackoverflow.com/questions/13040958/merge-two-git-repositories-without-breaking-file-history
+
+- description: "enunciado"
+  link: http://code.google.com/codejam/contest/2984486/dashboard#s=p0
+
+- description: "envio de e-mails"
+  link: http://pt.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
+
+- description: "esquema pérgola"
+  link: https://pt.wikipedia.org/wiki/P%C3%A9rgula
+
+- description: "esse artigo"
+  link: http://cc.byexamples.com/20070528/swap-variable-quest/
+
+- description: "esse site"
+  link: http://www.guidebookgallery.org/screenshots/firstrun
+
+- description: "esta pérola"
+  link: https://youtu.be/YYnARNh-Z0s
+
+- description: "este código-fonte"
+  link: http://en.wikipedia.org/wiki/Whitespace_(programming_language)
+
+- description: "este guia de instalação"
+  link: https://www.digitalcitizen.life/install-windows-11-virtual-machine/
+
+- description: "este texto para o CinemAqui"
+  link: https://cinemaqui.com.br/fora-de-serie/
+
+- description: "estão descritos no blogue da equipe do VC"
+  link: http://blogs.msdn.com/b/vsproject/archive/2009/07/21/enable-c-project-system-logging.aspx
+
+- description: "excelente artigo de Matt Pietrek"
+  link: http://msdn.microsoft.com/en-us/magazine/cc301805.aspx
+
+- description: "exemplo do help"
+  link: https://docs.python.org/3/extending/embedding.html
+
+- description: "expert reaction to unpublished poster presentation on diabetes and fasting as presented at the European Society of Endocrinology annual meeting, ECE 2018"
+  link: http://www.sciencemediacentre.org/expert-reaction-to-unpublished-poster-presentation-on-diabetes-and-fasting-as-presented-at-the-european-society-of-endocrinology-annual-meeting-ece-2018/
+
+- description: "expressões regulares"
+  link: http://guia-er.sourceforge.net
+
+- description: "fatorial"
+  link: http://pt.wikipedia.org/wiki/Fatorial
+
+- description: "faça uma busca"
+  link: http://www.caloni.com.br/journal/posts?q=windbg
+
+- description: "filmes das décadas de 30 e 40"
+  link: https://en.wikipedia.org/wiki/Sherlock_Holmes_(1939_film_series)
+
+- description: "fonte aberto"
+  link: https://github.com/NationalSecurityAgency/ghidra
+
+- description: "formato de tempo do Unix"
+  link: http://en.wikipedia.org/wiki/Unix_timestamp
+
+- description: "função ReadFile"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-readfile
+
+- description: "gafanhoto"
+  link: https://youtu.be/MYtXUVf74zA
+
+- description: "gerar tela azul em seu computador"
+  link: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/forcing-a-system-crash-from-the-keyboard
+
+- description: "geração de chave/segredo é simples"
+  link: https://trello.com/1/appKey/generate
+
+- description: "gist Python"
+  link: https://gist.github.com/Caloni/ef21412075c5600c9700d967702419be
+
+- description: "glib"
+  link: https://developer.gnome.org/glib/
+
+- description: "gnu parallel"
+  link: https://www.gnu.org/software/parallel/
+
+- description: "greensea"
+  link: https://github.com/greensea
+
+- description: "guia do usuário"
+  link: http://doc.bazaar-vcs.org/bzr.dev/en/user-guide/#merging-changes
+
+- description: "hidapi"
+  link: https://github.com/signal11/hidapi
+
+- description: "hive"
+  link: http://en.wikipedia.org/wiki/Windows_Registry#Hives
+
+- description: "imgur"
+  link: http://imgur.com/
+
+- description: "interrupção 0x13 função 0x42"
+  link: http://www.ctyme.com/intr/rb-0708.htm
+
+- description: "isso"
+  link: http://kobyk.wordpress.com/2007/07/20/dynamically-linking-with-msvcrtdll-using-visual-c-2005/
+
+- description: "já disponível no C99"
+  link: http://stackoverflow.com/questions/8316509/difference-dev-cpp-and-microsoft-visual-c-math-h
+
+- description: "left rotation problem"
+  link: https://www.hackerrank.com/challenges/ctci-array-left-rotation
+
+- description: "li um pouco mais sobre técnicas XP e Scrum"
+  link: http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches
+
+- description: "linguagens de script"
+  link: http://www.python.org/
+
+- description: "livro da galinha preta"
+  link: https://www.amazon.com/Windows-File-System-Internals-Developers/dp/1565922492
+
+- description: "loja online"
+  link: https://pereiravillela.com.br/shop/
+
+- description: "macros de edição"
+  link: http://notepad-plus.sourceforge.net/uk/site.htm
+
+- description: "maioria"
+  link: http://www.google.com/search?q=class+does+not+support+automation
+
+- description: "mais"
+  link: http://dqsoft.blogspot.com/2009/01/simulando-um-computador-34.html
+
+- description: "manual da linguagem"
+  link: http://cm.bell-labs.co/who/dmr/kbman.html
+
+- description: "mawk"
+  link: https://invisible-island.net/mawk/
+
+- description: "memset"
+  link: https://en.cppreference.com/w/cpp/string/byte/memset
+
+- description: "menção desonrosa"
+  link: http://www.ioccc.org/1984/anonymous/anonymous.c
+
+- description: "mielina"
+  link: https://pt.wikipedia.org/wiki/Bainha_de_mielina
+
+- description: "minha função"
+  link: https://gist.github.com/Caloni/5b9ccc66722a1b235f4aab8251822cdb
+
+- description: "minha palestra"
+  link: https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/
+
+- description: "mlvpn"
+  link: https://github.com/zehome/MLVPN.
+
+- description: "mutexes não conseguem ser rastreados tão facilmente em user mode"
+  link: http://www.debuginfo.com/articles/easywindbg.html#debugdeadlocks
+
+- description: "na lógica"
+  link: http://base64.sourceforge.net/b64.c
+
+- description: "navegação web"
+  link: http://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+- description: "neste site que possui uma visão técnica dos episódios"
+  link: https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html
+
+- description: "netiqueta"
+  link: https://pt.wikipedia.org/wiki/Netiqueta
+
+- description: "no GitHub 1"
+  link: https://github.com/Microsoft/vcpkg/issues/1638
+
+- description: "no GitHub 2"
+  link: https://github.com/Microsoft/vcpkg/issues/306
+
+- description: "no canal"
+  link: https://t.me/reversingclubc
+
+- description: "nossa lei"
+  link: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
+
+- description: "nosso grupo C/C++"
+  link: https://groups.google.com/forum/#!topic/ccppbrasil/3qtvxelVrdc
+
+- description: "nova palestra"
+  link: http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
+
+- description: "num post"
+  link: http://dqsoft.blogspot.com/2006/09/turbo-explorer.html
+
+- description: "não sei procurar direito"
+  link: http://www.google.com.br/search?q=wait+all+processes+inside+job+object
+
+- description: "o Excel"
+  link: http://dqsoft.blogspot.com.br/2007/09/ser-que-o-excel-2007-desaprendeu.html
+
+- description: "o Windows era em preto e branco"
+  link: http://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-windows-16-bits.html
+
+- description: "o artigo da invert"
+  link: https://invert.svbtle.com/using-vim-as-a-password-manager
+
+- description: "o cara do 1bit"
+  link: http://www.1bit.com.br
+
+- description: "o chefe de cozinha que virou administrador de fast food"
+  link: https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/
+
+- description: "o código"
+  link: https://github.com/Caloni/interview/tree/issue-3-hacker-rank-preparation/hackerrank/flow_traders
+
+- description: "o exemplo de GINA stub"
+  link: http://driverentry.com.br/blog/?p=415
+
+- description: "o livro"
+  link: https://git-scm.com/book/en/v2
+
+- description: "o manual"
+  link: https://archive.org/details/richards1979bcpl
+
+- description: "o programa do DriverEntry"
+  link: http://www.driverentry.com.br/blog/2007/02/prog2svc-servio-sem-trabalho.html
+
+- description: "o roteiro dos lámens"
+  link: https://maps.app.goo.gl/xxx5SnQKkkjBj29J7
+
+- description: "o saite cplusplus.com"
+  link: http://www.cplusplus.com/reference/algorithm/remove_if/
+
+- description: "o tutorial do WinSCP"
+  link: https://winscp.net/eng/docs/guide_windows_openssh_server
+
+- description: "obter a string raw de uma HSTRING"
+  link: hstring
+
+- description: "ordenação de extremidades"
+  link: http://pt.wikipedia.org/wiki/Extremidade_(ordena%C3%A7%C3%A3o)
+
+- description: "outras opções"
+  link: https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html
+
+- description: "outro mapa"
+  link: https://www.google.com/maps/d/u/0/edit?mid=1ofPI9mpynO0DgyXc6rVY2Q9hbUGwSOk&ll=35.86694435620668%2C139.84198475&z=10
+
+- description: "pacote básico do wget do GnuWin32"
+  link: http://gnuwin32.sourceforge.net/packages/wget.htm
+
+- description: "padrão da Microsoft"
+  link: https://github.com/tpn/pdfs/blob/master/Microsoft%20Portable%20Executable%20and%20Common%20Object%20File%20Format%20Specification%20-%201999%20(pecoff).pdf
+
+- description: "palestra sobre engenharia reversa"
+  link: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
+
+- description: "palestrar sobre"
+  link: https://github.com/Caloni/lectures/blob/master/awk.pdf
+
+- description: "palestras que ministrei ao longo dos anos"
+  link: https://www.slideshare.net/WanderleyCaloni
+
+- description: "palestrei"
+  link: http://pt.slideshare.net/slideshow/embedcode/key/g5lKLH15KTcenu
+
+- description: "pelo Code Project"
+  link: https://www.codeproject.com/Articles/caloni
+
+- description: "pelo Linkedin"
+  link: https://www.linkedin.com/company/bit-forge
+
+- description: "pesquisa de quinze minutos"
+  link: http://www.google.com/search?q=visual%20studio%20automatic%20build
+
+- description: "planilha com os lámens-alvo de cada visita"
+  link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTwAsEAy-27xOWPokzSt49oUhnyAx0UW2npQAOi6dgTU5hkOOhvDhvD5POJMteyYuQfVcrQfyrRRsU3/pubhtml
+
+- description: "por um dos criadores da linguagem C"
+  link: http://www.cs.bell-labs.com/who/dmr/chist.html
+
+- description: "pornochanchada"
+  link: https://pt.wikipedia.org/wiki/Pornochanchada
+
+- description: "post da Ophir Harpaz"
+  link: https://medium.com/@ophirharpaz/kdnet-tutorial-for-noobs-68669778bbd4
+
+- description: "post que vi"
+  link: http://dqsoft.blogspot.com/2021/01/resolucoes-de-ano-novo-edicao-2021.html
+
+- description: "pouquíssimos amigos blogueiros"
+  link: https://www.linkedin.com/in/driverentry/
+
+- description: "primeiro colocado"
+  link: https://code.google.com/codejam/contest/4304486/scoreboard#vf=1
+
+- description: "programador"
+  link: https://github.com/Caloni
+
+- description: "publicador hugo"
+  link: https://gohugo.io/
+
+- description: "qsort"
+  link: http://www.cplusplus.com/reference/cstdlib/qsort/
+
+- description: "qualidades de bom programador"
+  link: http://c2.com/cgi/wiki?LazinessImpatienceHubris
+
+- description: "que existem na estrutura"
+  link: http://undocumented.ntinternals.net/UserMode/Undocumented%20Functions/NT%20Objects/Process/PEB.html
+
+- description: "realloc da biblioteca padrão"
+  link: https://en.cppreference.com/w/c/memory/realloc
+
+- description: "really good"
+  link: https://archive.org/details/codebreakers_journal_vol1no2_7
+
+- description: "realmente bons no que fazem"
+  link: http://www.codebreakers-journal.com
+
+- description: "referência GNU da linguagem C"
+  link: https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.3/html_node/libc_231.html
+
+- description: "referência GNU sobre Null Pointer Constant"
+  link: https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.5/html_node/Null-Pointer-Constant.html
+
+- description: "registro histórico mais antigo do mundo de produção de vinho"
+  link: https://www.bbc.com/news/world-europe-41977709
+
+- description: "região do Douro"
+  link: https://goo.gl/maps/73Uw2FUKkYFcYGE47
+
+- description: "repeated string problem"
+  link: https://www.hackerrank.com/challenges/repeated-string
+
+- description: "replit"
+  link: https://replit.com/@Caloni/Compress#compress_numbers_in_strings.cpp
+
+- description: "saga Harry Potter"
+  link: harry_potter_e_a_pedra_filosofal
+
+- description: "sales by match"
+  link: https://www.hackerrank.com/challenges/sock-merchant
+
+- description: "se colocar na frente da fila"
+  link: http://msdn.microsoft.com/en-us/library/ms686227%28VS.85%29.aspx
+
+- description: "segue"
+  link: https://github.com/Caloni/vim
+
+- description: "seguintes condições"
+  link: http://creativecommons.org/licenses/by-nc-nd/2.5/br/
+
+- description: "segunda"
+  link: https://code.google.com/codejam/contest/4304486/dashboard#s=p1
+
+- description: "sendo inventada"
+  link: https://acloudguru.com/blog/engineering/conditions-in-bash-scripting-if-statements
+
+- description: "seu endereço"
+  link: http://subversion.assembla.com/svn/caloni/trunk
+
+- description: "seu texto sobre A Febre do Mediterrâneo"
+  link: https://coletivocritico.com/2022/10/22/46a-mostra-febre-do-mediterraneo/
+
+- description: "sexta-feira 13"
+  link: http://pt.wikipedia.org/wiki/Sexta_Feira_13
+
+- description: "shell extensions"
+  link: http://en.wikipedia.org/wiki/Shell_extension#Extensibility
+
+- description: "std::list"
+  link: https://en.cppreference.com/w/cpp/container/list.html
+
+- description: "são precisos 10 anos"
+  link: http://www.norvig.com/21-days.html
+
+- description: "sítio do Charles Petzold"
+  link: http://www.charlespetzold.com
+
+- description: "tail recursion"
+  link: http://en.wikipedia.org/wiki/Tail_recursion
+
+- description: "teste do Joel"
+  link: https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+
+- description: "the Warm Up challenges"
+  link: hacker_rank_warm_up
+
+- description: "the home of WireGuard project"
+  link: https://www.wireguard.com/
+
+- description: "tiodb"
+  link: https://github.com/tiodb/tiodb
+
+- description: "tradução para inglês"
+  link: http://windbg.info/doc/2-windbg-a-z.html
+
+- description: "triplet"
+  link: https://github.com/Microsoft/vcpkg/blob/master/docs/users/triplets.md
+
+- description: "tutorial da própria SystemRescueCd"
+  link: http://www.system-rescue-cd.org/Sysresccd-manual-en_How_to_personalize_SystemRescueCd
+
+- description: "tutorial do próprio OpenSSL"
+  link: https://wiki.openssl.org/index.php/Compilation_and_Installation#Windows
+
+- description: "tutorial"
+  link: http://nodotcom.org/python-facebook-tutorial.html
+
+- description: "tão baratos quanto um XOR"
+  link: https://dgl.cx/2014/10/vim-blowfish
+
+- description: "um artigo do Roberto Farah"
+  link: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/windbg-script-get-portable-executable-headers
+
+- description: "um blog"
+  link: https://oblogdomerten.wordpress.com
+
+- description: "um fork próprio"
+  link: https://github.com/bitforgebr/hidapi/commit/132e03f37e8ab8c95ee264e1cfbeef6b2ed39a5b
+
+- description: "um guia"
+  link: https://winscp.net/eng/docs/guide_windows_openssh_server
+
+- description: "um issue"
+  link: https://github.com/chriskohlhoff/asio/issues/665
+
+- description: "um mapa"
+  link: https://www.google.com/maps/d/u/0/viewer?mid=11clYUiTza6RsYE27SvO8tstlGIbPNZcC&femb=1&ll=35.868893993265885%2C139.84198475&z=10
+
+- description: "um post do Stack Overflow"
+  link: https://stackoverflow.com/questions/16212816/setting-up-openssh-for-windows-using-public-key-authentication
+
+- description: "um post na lista CCPPBRASIL"
+  link: http://groups.google.com/group/ccppbrasil/browse_thread/thread/1e444ab3067baf55
+
+- description: "um repositório"
+  link: https://github.com/Caloni/x64-deep-dive
+
+- description: "uma convenção"
+  link: https://www.gnu.org/software/gawk/manual/gawk.html#Variable-Scope
+
+- description: "uma entrada na wiki"
+  link: https://wiki.qt.io/IDE_Debug_Helpers
+
+- description: "vetores são garantidos que serão contínuos"
+  link: https://herbsutter.com/2008/04/07/cringe-not-vectors-are-guaranteed-to-be-contiguous/
+
+- description: "votos de sucesso"
+  link: http://groups.google.com/group/ccppbrasil/msg/64f084207c068689
+
+- description: "vídeo da Paulina Cocina"
+  link: https://youtu.be/N_PcT2diLcM
+
+- description: "vídeo de Isabel Vermal"
+  link: https://youtu.be/gpVHElzSebg
+
+- description: "vídeo de demonstração"
+  link: https://www.youtube.com/watch?v=mZewxqlFShA
+
+- description: "vídeo de empanadas do cara do Amo Pão Caseiro"
+  link: https://youtu.be/jDSh7fBigPU
+
+- description: "vídeo que pretendo gravar"
+  link: https://youtu.be/wp7-BD9pOOc
+
+- description: "vídeo"
+  link: https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW
+
+- description: "x64dbg"
+  link: https://x64dbg.com/
+
+- description: "é de fato um gênero"
+  link: https://pt.wikipedia.org/wiki/Slice_of_life#Na_cultura_japonesa
+
+- description: "ótimo artigo"
+  link: https://www.codeproject.com/articles/Debugging-and-Building-Operating-Systems
+
+- description: "últimas modificações adicionadas no Visual Studio 2017"
+  link: https://blogs.msdn.microsoft.com/vcblog/2017/05/10/c17-features-in-vs-2017-3/
+
+- description: "últimos posts"
+  link: https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg
+
+- description: "Windows NT Device Driver Development"
+  link: http://www.amazon.com/Windows-NT-Device-Driver-Development/dp/1578700582
+
+- description: "Undocumented Windows 2000 Secrets" 
+  link: http://undocumented.rawol.com/ 
+
+- description: "DriverEntry (Começar de Novo)"
+  link: http://www.driverentry.com.br/blog/2007/06/comear-de-novo.html
+
+- description: "Organizing the Windows 7 Project"
+  link: http://blogs.msdn.com/e7/archive/2008/09/05/organizing-the-windows-7-project.aspx
+
+- description: "Binky Pointer Fun Video C" 
+  link: https://www.youtube.com/watch?v=5VnDaHBi8dM
+
+- description: "IMSDB"
+  link: http://www.imsdb.com
+
+- description: "ROTEIRO DE CINEMA"
+  link: http://www.roteirodecinema.com.br
+
+- description: "CURTAGORA"
+  link: http://www.curtagora.com
+
+- description: "SCRIPTS-O-RAMA"
+  link: http://www.script-o-rama.com
+
+- description: "CRIAÇÃO DE ROTEIROS"
+  link: http://www.roteirista.com
+
+- description: "ASSOCIAÇÃO CULTURAL KINOFORUM"
+  link: http://www.kinoforum.org
+
+- description: "CURTA O CURTA"
+  link: http://www.curtaocurta.com.br
+
+- description: "Intermittent Fasting for Twelve Weeks Leads to Increases in Fat Mass and Hyperinsulinemia in Young Female Wistar Rats" 
+  link: https://www.mdpi.com/2072-6643/12/4/1029
+
+- description: "JEJUM INTERMITENTE - Minha tese de doutorado na USP"
+  link: https://youtu.be/PkWoC0ftWzE?si=Nr2mKo1t0fWJKVip
+
+- description: "Fasting in rodents"
+  link: https://norecopa.no/3r-guide/fasting-in-rodents
+
+- description: "TRIBO FORTE #116 – A ABSOLUTA VERDADE SOBRE JEJUM INTERMITENTE"
+  link: https://emagrecerdevez.com/tribo-forte-116/
+
+- description: "How to model intermittent fasting in rodents"
+  link: https://maze.conductscience.com/how-to-model-intermittent-fasting-in-rodents/
+
+- description: "How to Translate Time? The Temporal Aspect of Human and Rodent Biology"
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355425/
+
+- description: "MCU"
+  link: https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
+
+- description: "Understanding the formal definition of Big-O"
+  link: https://justin.abrah.ms/computer-science/understanding-big-o-formal-definition.html.
+
+- description: "Visiting the Real Life Ramen Restaurants from Ms. Koizumi Loves Ramen Noodles [Part 1]"
+  link: https://www.crunchyroll.com/news/features/2018/3/18/visiting-the-real-life-ramen-restaurants-from-ms-koizumi-loves-ramen-noodles-part-1
+
+- description: "Visiting the Real Life Ramen Restaurants from Ms. Koizumi Loves Ramen Noodles [Part 2]"
+  link: https://www.crunchyroll.com/news/features/2018/3/20/visiting-the-real-life-ramen-restaurants-from-ms-koizumi-loves-ramen-noodles-part-2
+
+- description: "Are all proteins created equal"
+  link: https://www.sacredcow.info/blog/are-all-proteins-created-equal
+
+- description: "What if we all went plant based"
+  link: https://www.sacredcow.info/blog/what-if-we-all-went-plant-based
+
+- description: "Army Should Provide Moral Education for Troops to Stop Outrages"
+  link: https://www.telegraph.co.uk/news/8341030/Army-should-provide-moral-education-for-troops-to-stop-outrages.html
+
+- description: "Oxford Mindfulness" 
+  link: http://oxfordmindfulness.org/
+
+- description: "MBConf@Home2020 v1"  
+  link: https://www.youtube.com/live/vZ5T_QYCKN8
+
+- description: "Barata Elétrica e o hacker de antigamente"
+  link: https://absoluta.org/barata/
+
+- description: "Debug da BIOS com o SoftIce 16 bits"
+  link: https://youtu.be/mXDROf0rLkI
+
+- description: "Read The Functional Manual"
+  link: http://www.catb.org/esr/faqs/smart-questions.html
+
+- description: "Como Fazer Debug de User Mode pelo Kernel Mode"
+  link: https://youtu.be/j1f7DQkFI5A
+
+- description: "Aprendendo rapidamente conceitos essenciais do WinDbg"
+  link: http://windbg.info/doc/2-windbg-a-z.html
+
+- description: "Entrevista com o Caloni no 'Do ZERO ao MESTRE'"
+  link: https://dozeroaomestre.blogspot.com/2008/07/entrevista-wanderlei-caloni.html
+
+- description: "Bugs Difíceis de Achar"
+  link: https://www.wired.com/2005/11/historys-worst-software-bugs/
+
+- description: "Programadores de verdade não usam Java"
+  link: http://www.pbm.com/~lindahl/real.programmers.html
+
+- description: "Houaiss no Kindle"
+  link: http://zeribeiropena.wordpress.com/2011/03/21/dicionario-houaiss-e-babylon-no-kindle/#comment-3
+
+- description: "Vídeos do boostcon"
+  link: http://blip.tv/boostcon
+
+- description: "Coletando dumps automaticamente"
+  link: https://docs.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
+
+- description: "Novos Atalhos Aprendidos no Vim"
+  link: https://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery/
+
+- description: "Real Programmers Don't Use Java"
+  link: http://www.pbm.com/~lindahl/real.programmers.html
+
+- description: "Sobre a BitForge"
+  link: https://www.linkedin.com/company/671883/admin/dashboard/
+
+- description: "Anarchism vs. Objectivism by Harry Binswanger (e outros textos filosóficos)"
+  link: https://www.hbletter.com/objectivism-vs-anarchism/
+
+- description: "Depurando código C++ no Visual Studio"
+  link: https://youtu.be/78bYgerQVt4
+
+- description: "O Destino de Miguel"
+  link: https://www.youtube.com/embed/-vOIA0eWwTw
+
+- description: "The Best of edw519"
+  link: http://static.v25media.com/edw519_mod.html
+
+- description: "Física Quântica para Filósofos"
+  link: https://spot.colorado.edu/~huemer/papers/qm.htm
+
+- description: "Uma prova simples e modesta da existência do livre-arbítrio"
+  link: https://spot.colorado.edu/~huemer/papers/fwill.htm
+
+- description: "Os fundamentos praxeológicos da Teoria Legal Libertária"
+  link: https://ideallibertario.wordpress.com/2016/04/25/os-fundamentos-praxeologicos-da-teoria-legal-libertaria/
+
+- description: "Confirmation Theory: Hume's Refutation of Induction"
+  link: https://spot.colorado.edu/~huemer/papers/confirm.htm
+
+- description: "Why People Are Irrational about Politics"
+  link: https://spot.colorado.edu/~huemer/papers/irrationality.htm
+
+- description: "Jejum Intermitente e Nutricionistas em Fúria"
+  link: https://youtu.be/-X0A5etb0kk
+
+- description: "Chá Verde Feito Como Na Rússia (Russian Tea HOWTO for Linux Hackers)"
+  link: https://gist.github.com/jwreagor/a225f6654ed492c9d90234ff9c0fc93c
+
+- description: "Why Facts Don't Change Our Minds"
+  link: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+
+- description: "Some things I learned in a Hacker Rank exercise"
+  link: https://gist.github.com/Caloni/31fd1105dd18374105d2eb00bce7ee3f
+
+- description: "Como Funciona o MPTunnel"
+  link: https://github.com/bitforgebr/mptunnel
+
+- description: "Fermento mais ou menos azedo (How to Make Sourdough More or Less Sour)"
+  link: https://brodandtaylor.com/blogs/recipes/make-sourdough-more-sour
+
+- description: "Fazenda Capoeira"
+  link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-capoeira/
+
+- description: "Batalha"
+  link: http://vinhosbatalha.com.br/
+
+- description: "Fazenda São João (Produtor Osvaldo Bachião, Nova Rezende, Sul de Minas)"
+  link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
+
+- description: "C++ Co Routines"
+  link: https://en.cppreference.com/w/cpp/language/coroutines
+
+- description: "Malma"
+  link: http://www.bodegamalma.com
+
+- description: "Find Path ou Por Que O Vcpkg Não Colocou o Path da Minha Biblioteca?"
+  link: https://vcpkg.readthedocs.io/en/latest/examples/installing-and-using-packages/
+
+- description: "Close Remote Socket"
+  link: https://www.scm.keele.ac.uk/staff/stan/2016/05/16/closing-sockets-without-killing-processes/
+
+- description: "Arcanus"
+  link: https://angelyvino.blogspot.com/2017/04/bodega-nanni-vinos-organicos-de-cafayate.html
+
+- description: "Loretto"
+  link: http://www.loretto.com.br
+
+- description: "Fazenda São Francisco"
+  link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-sao-francisco/
+
+- description: "Orfeu Descafeinado"
+  link: https://loja.cafeorfeu.com.br/
+
+- description: "CPU Fritando com Intel Turbo Boost"
+  link: https://rog.asus.com/forum/showthread.php?92088-GL553VD-Gaming-Normal-CPU-Temperature-Range&s=b1f7689c0bb3092110ec06ad4fe25684
+
+- description: "Jejum de Dopamina"
+  link: https://youtu.be/5M-8XFkQ33k
+
+- description: "Bispo e Cavalo"
+  link: https://youtu.be/YFF5ibgB6eA
+
+- description: "Santo Grão"
+  link: https://santograo.com.br
+
+- description: "Serra Negra"
+  link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-serra-negra/
+
+- description: "Sul de Minas"
+  link: https://cafedocentro.com.br/sul-de-minas/
+
+- description: "Kaynã"
+  link: http://kayna.com.br/cafe/
+
+- description: "Gaintus Radical"
+  link: https://www.montrubi.com/radical
+
+- description: "Fazenda da Serra"
+  link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-da-serra/
+
+- description: "Villa do Luca"
+  link: https://www.vivino.com/villa-doluca-klasik-red/w/1178475
+
+- description: "Stamnaki Moschofilero"
+  link: https://www.vivino.com/stamnaki-moschofilero/w/4956043
+
+- description: "Stamnaki Agiorgitiko"
+  link: https://www.vivino.com/stamnaki-agiorgitiko/w/5367261
+
+- description: "Fazenda Baobá"
+  link: https://bsca.com.br/property/show/id/128
+
+- description: "Villa Doluca Classic Rose"
+  link: http://www.dolucawines.com/products/our-wines-detail/56/villa-doluca-classic-rose
+
+- description: "Bolo Cremoso de Milho"
+  link: https://youtu.be/5cEKGHSv0Vg
+
+- description: "Pão de Queijo Fácil e Rápido"
+  link: https://www.instagram.com/p/CCJAULPDsJ-/
+
+- description: "Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)"
+  link: https://youtu.be/PU0O_HYMoCw
+
+- description: "Eniwine"
+  link: https://www.eniwine.com
+
+- description: "Como fazer pizza"
+  link: https://www.youtube.com/c/vitoiacopelli
+
+- description: "Café Dona Manuela"
+  link: http://www.fboaesperanca.com.br/produtos.htm
+
+- description: "Impact of sugar on the body, brain, and behavior"
+  link: https://www.fbscience.com/Landmark/articles/10.2741/4704
+
+- description: "Dona Matilde"
+  link: https://www.donamatilde.pt/
+
+- description: "AWK and DNA"
+  link: https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
+
+- description: "AWK and Stack Overflow"
+  link: https://stackoverflow.com/questions/43513975/awk-gawk-performance
+
+- description: "Cravings vs impulses: What are you guilty of?"
+  link: https://gulfnews.com/going-out/society/cravings-vs-impulses-what-are-you-guilty-of-1.2267596
+
+- description: "Como Ganhar De Torre Dama Encurralando O Rei"
+  link: https://www.chess.com/game/live/54161416339
+
+- description: "Como ler na internet"
+  link: https://12ft.io/
+
+- description: "Meialunas argentinas"
+  link: https://youtu.be/k6iBmUSPEzY
+
+- description: "Camila Vieira"
+  link: http://multiplotcinema.com.br/2021/10/45a-mostra-internacional-de-cinema-de-sao-paulo/
+
+- description: "Luiz Joaquim (Cinema Escrito)"
+  link: https://www.cinemaescrito.com
+
+- description: "Passagem de Parâmetros C vs C++"
+  link: https://youtu.be/i9Focx4UXnc
+
+- description: "Natália Bocanera"
+  link: https://coletivocritico.com
+
+- description: "Pereira Villela de Itajubá, MG"
+  link: https://pereiravillela.com.br/shop/
+
+- description: "Vitamin D - The Nutrition Source"
+  link: https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+
+- description: "Começa um final de peões e cavalos"
+  link: https://www.chess.com/game/daily/471866193
+
+- description: "Como analisar assembly x64"
+  link: https://codemachine.com/articles/x64_deep_dive.html
+
+- description: "Hacker Rank Warm Up"
+  link: https://www.hackerrank.com/interview/interview-preparation-kit
+
+- description: "Hacker Rank Array - Part 1"
+  link: https://www.hackerrank.com/interview/interview-preparation-kit
+
+- description: "Aomori"
+  link: https://thecoffee.jp/ourbean/kraftedition/aomori
+
+- description: "Ciabatta Rústica"
+  link: https://youtu.be/9dCcTK7oJLA
+
+- description: "Curry Indiano Caseiro"
+  link: https://www.instagram.com/reel/CqoSEe4voDv/?igshid=MTc4MmM1YmI2Ng==
+
+- description: "Why I will also build my own shitty static site generator"
+  link: https://ewintr.nl/posts/2020/why-i-built-my-own-shitty-static-site-generator/
+
+- description: "Asciidoc is the best"
+  link: https://ewintr.nl/posts/2020/why-i-built-my-own-shitty-static-site-generator/
+
+- description: "Aldeia Numa Boa"
+  link: http://www.numaboa.com.br
+
+- description: "Usando Awk para gerar sites e medidas de performance"
+  link: https://github.com/nuex/zodiac
+
+- description: "Descafeinado moído Maria Bonita"
+  link: https://cafecampinho.com.br/
+
+- description: "Mostra Ikigai (SP)"
+  link: https://centrocultural.sp.gov.br/ikigai-cinema-razao-de-viver
+
+- description: "Boas-vindas ao canal de Reversing do Telegrama"
+  link: https://youtu.be/HYkG4ZG7lxU
+
+- description: "Explorando a HSTRING"
+  link: https://learn.microsoft.com/en-us/windows/win32/api/winstring/
+
+- description: "TRAFFIC"
+  link: https://www.whyprogramsfail.com/pdf/HowFailuresComeToBe.pdf
+
+- description: "Seleção do Mário"
+  link: https://cafeselecaodomario.com.br/
+
+- description: "Pão integral multigrãos"
+  link: https://amopaocaseiro.com.br/receita/pao-multigraos/
+
+- description: "Forte de S. Sebastião"
+  link: www.quintassebastiao.com
+
+- description: "Café do japonês"
+  link: https://youtu.be/gC8K40kZ_6E
+
+- description: "Vovó Ninja"
+  link: https://vovoninja.blogspot.com/
+
+- description: "Kimchi Coreano"
+  link: https://youtu.be/msk8T3Q1FGI
+
+- description: "Cognitive Complexity (SonarQube)"
+  link: https://www.sonarsource.com/blog/cognitive-complexity-because-testability-understandability/
+
+- description: "Iniciando estudos em Low Carb"
+  link: https://vivoleve.com.br/alimentos-dieta-low-carb/
+
+- description: "Flexibilizando retorno de métodos mockados"
+  link: https://myadventuresincoding.wordpress.com/2014/02/24/c-setting-up-a-mocked-method-to-return-a-different-value-when-called-a-second-time-using-moq/
+
+- description: "legacy_stdio_definitions"
+  link: https://stackoverflow.com/questions/32418766/c-unresolved-external-symbol-sprintf-and-sscanf-in-visual-studio-2015
+
+- description: "Mielina"
+  link: https://pt.wikipedia.org/wiki/Bainha_de_mielina
+
+- description: "Why You Should Take Steps to Eliminate Grains From Your Diet"
+  link: https://www.drjohnonhealth.com/why-you-should-take-steps-to-eliminate-grains-from-your-diet/
+
+- description: "From Mouth to Muscle: How Your Body Absorbs Protein"
+  link: https://www.youtube.com/watch?v=_FJSotplMMQ
+
+- description: "Evidence for sugar addiction Behavioral and neurochemical effects of intermittent, excessive sugar intake (Nicole M. Avena, Pedro Rada, and Bartley G. Hoebel)"
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2235907/
+
+- description: "On Being A Senior Engineer (John Allspaw)"
+  link: https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+
+- description: "Tips for probabilistic software"
+  link: https://jxnl.co/writing/2024/01/19/tips-probabilistic-software/
+
+- description: "Por que cada membro Dispose existe?"
+  link: https://blog.ivankahl.com/csharp-dispose-pattern/
+
+- description: "Mission of the architect"
+  link: https://newsletter.optimistengineer.com/p/incremental-architecture-what-you
+
+- description: "What Actually Makes You Senior"
+  link: https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/
+
+- description: "Eliminando campos do journal"
+  link: https://chatgpt.com/c/6a0f15d0-28b8-83e9-bd61-2b7dac236afe
+
+- description: "2048 motivos para não programar"
+  link: https://youtu.be/GVTCej6zwAk
+
+- description: "Estruturas VS Classes: fight!"
+  link: https://www.youtube.com/watch?v=zn7-fVtT16k
+
+- description: "Better Call Saul e Metástasis (piloto)"
+  link: https://www.youtube.com/embed/K-JvsP56zbk
+
+- description: "Criando Projeto C++ Console no Visual Studio 2015"
+  link: https://youtu.be/Fw1wdM_vzzI
+
+- description: "Resolvendo problemas em projetos desleixados"
+  link: https://youtu.be/haqE_wiQNoc
+
+- description: "Os 10 melhores filmes dos anos 90... 1890!"
+  link: https://www.avclub.com/the-10-best-films-of-the-1890s-1798234254
+
+- description: "Comercial Friboi - A certeza do churrasco perfeito"
+  link: https://www.youtube.com/embed/19RrxCMKI4
+
+- description: "Usando clang no Visual Studio"
+  link: https://youtu.be/TWvY9ynmIDM
+
+- description: "Why People Are Irrational about Politics"
+  link: https://criticanarede.com/irracionalidadepolitica.html
+
+- description: "Depuração Visual Studio 101"
+  link: https://youtu.be/7gOuiCy3T9Y
+
+- description: "Visual Studio e seu depurador (comentado)"
+  link: https://youtu.be/DPkH-D9OWTk
+
+- description: "Coroutine Internals"
+  link: https://www.youtube.com/watch?v=xoAxig6vdTM
+
+- description: "Diálogos Sobre o Vegetarianismo"
+  link: https://criticanarede.com/animais.html
+
+- description: "Anti-Spoilers e o Escudo Pró-Hype"
+  link: https://en.wikipedia.org/wiki/Back-to-back_film_production
+
+- description: "Code Jam 2020"
+  link: https://gist.github.com/Caloni/fd22d49ad7e9c046120d98876c8cad38
+
+- description: "Bode Caloni Cast Live"
+  link: https://youtu.be/0aZ7srJqs3E
+
+- description: "Historical Price"
+  link: https://gist.github.com/Caloni/368a8ce88206c13aac6ca27a56975af2
+
+- description: "Printf"
+  link: https://gist.github.com/Caloni/dd1429495c835a27ece61523e939ec7f
+
+- description: "Pgn2art"
+  link: https://gist.github.com/Caloni/4d5f81365a01ef9567d5d4e077403d70
+
+- description: "Gerenciamento de Memória em C/C++"
+  link: https://youtu.be/wSfRFIUwB1o
+
+- description: "Árvore de segmentos"
+  link: https://youtu.be/Ic7OO3Uw6J0
+
+- description: "Eu mesmo!"
+  link: about_author.jpg
+
+- description: "Logo quase original do blogue, criado pelo mundialmente famoso designer SK5!"
+  link: about_brand.png
+
+- description: "Imagem ilustrativa das janelas do Windbg"
+  link: introducao_ao_debugging_tools_for_windows_windbg.png
+
+- description: "Windows 1.0"
+  link: historia_do_windows_parte_10_windows1.png
+
+- description: "SoftICE"
+  link: softice.png
+
+- description: "Windows 2.0"
+  link: historia_do_windows_parte_20_windows2.jpg
+
+- description: "Ilustração do loop de mensagens no Windows para input do usuário"
+  link: movendo_o_cursor_do_mouse_com_o_teclado_windows_loop_mensagens_input.gif
+
+- description: "Esse distinto cavalheiro inglês é Martin Richards"
+  link: historia_da_linguagem_c_parte_1_martin_richards.gif
+
+- description: "Processo de geração do BCPL O-code"
+  link: historia_da_linguagem_c_parte_1_ocode.gif
+
+- description: "Interpretação do o_code para código da máquina alvo"
+  link: historia_da_linguagem_c_parte_1_portable_bcpl.gif
+
+- description: "Processo de compilação C/C++"
+  link: historia_da_linguagem_c_parte_1_ccpp_build_steps.gif
+
+- description: "Windows 3.0 Desktop"
+  link: historia_do_windows_parte_30_windows_30_workspace.png
+
+- description: "Charles Petzold, em foto do seu site"
+  link: historia_do_windows_parte_30_charles_petzold.gif
+
+- description: "Função de janela"
+  link: historia_do_windows_parte_30_windows_message_loop.gif
+
+- description: "Windows NT 3.51 Workstation"
+  link: historia_do_windows_parte_351_windows_workstation.jpg
+
+- description: "Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org"
+  link: historia_da_linguagem_c_parte_2_kthompson_dritchie.jpg
+
+- description: "Como funciona o LPC"
+  link: antidebug_ocupando_a_debugport_debugport.gif
+
+- description: "Desktop do Windows 95"
+  link: historia_do_windows_parte_40_windows_95.png
+
+- description: "Arquitetura multithreading"
+  link: historia_do_windows_parte_40_threads_architecture.gif
+
+- description: "PwdBreaker"
+  link: historia_do_windows_parte_40_threads_pwdbreaker.png
+
+- description: "CreateThread exemplificada"
+  link: historia_do_windows_parte_40_threads_pwdbreaker_windows.png
+
+- description: "Layout da VTable do IUnknown"
+  link: hook_de_com_no_windbg_iunknown_disasm.png
+
+- description: "Breakpoints na VTable"
+  link: hook_de_com_no_windbg_iunknown_breakpoint.png
+
+- description: "Breakpoint na int 0x13 função 2 (DL=0)"
+  link: debug_da_bios_com_o_softice_16_bits_bpint_boot.png
+
+- description: "Código do boot loader carregado no Softice"
+  link: debug_da_bios_com_o_softice_16_bits_myos_start.png
+
+- description: "Windows 2000 Logo"
+  link: historia_do_windows_parte_50_windows_2000.png
+
+- description: "Windows Architecture"
+  link: historia_do_windows_parte_50_windows_architecture.png
+
+- description: "If"
+  link: guia_basico_para_programadores_de_primeiro_int_main_if.gif
+
+- description: "Else"
+  link: guia_basico_para_programadores_de_primeiro_int_main_else.gif
+
+- description: "While"
+  link: guia_basico_para_programadores_de_primeiro_int_main_while.gif
+
+- description: "For"
+  link: guia_basico_para_programadores_de_primeiro_int_main_for.gif
+
+- description: "Loader Lock explicado"
+  link: por_que_minha_dll_travou_loader_lock.gif
+
+- description: "Intro"
+  link: brincando_com_o_windbg_notepad_file_not_found_intro.png
+
+- description: "Windbg debug buttons"
+  link: brincando_com_o_windbg_debug_windbg.png
+
+- description: "Orografia"
+  link: brincando_com_o_windbg_orografia.jpg
+
+- description: "Notepad File Not Found"
+  link: brincando_com_o_windbg_notepad_file_not_found.png
+
+- description: "Notepad File Not Found Thanks"
+  link: brincando_com_o_windbg_notepad_wonderful_file.png
+
+- description: "Ponteiros de método"
+  link: ponteiro_de_metodo_qual_this_e_usado_fuzzycall.gif
+
+- description: "Código Malicioso"
+  link: detectando_hooks_globais_no_windbg_codigo_malicioso.gif
+
+- description: "Novo setor do Windows"
+  link: sdelete_windows_new_sector.gif
+
+- description: "Apagando arquivo no Windows"
+  link: sdelete_windows_delete_file.gif
+
+- description: "Windows XP (Luna) na Wikipedia"
+  link: historia_do_windows_parte_51_windows_xp.png
+
+- description: "Windows History"
+  link: windows_history.gif
+
+- description: "Windows Monolithic"
+  link: historia_do_windows_parte_51_windows_monolithic.gif
+
+- description: "Windows Hibrid"
+  link: historia_do_windows_parte_51_windows_hibrid.gif
+
+- description: "Windows Client Server"
+  link: historia_do_windows_parte_51_windows_client_server.gif
+
+- description: "Builder OnMouseMove"
+  link: desenhando_em_c_builder_builder_onmousemove.png
+
+- description: "Amo o Builder"
+  link: desenhando_em_c_builder_amobuilder.gif
+
+- description: "Lista de Compras"
+  link: interacao_entre_controles_no_c_builder_listadecompras.gif
+
+- description: "C++ Builder Forms"
+  link: gerenciamento_de_janelas_em_c_builder_cppbuilder_forms.png
+
+- description: "Spy++ Window Search"
+  link: gerenciamento_de_janelas_em_c_builder_spyxx_window_search.png
+
+- description: "Spy++ Window Search Result"
+  link: gerenciamento_de_janelas_em_c_builder_spyxx_window_search_result.png
+
+- description: "Troca-troca"
+  link: drag_and_drop_no_c_builder_trocatroca.gif
+
+- description: "Mega Sena Download"
+  link: banco_de_dados_no_c_builder_mega_sena.png
+
+- description: "BDE Config"
+  link: banco_de_dados_no_c_builder_bde_config.png
+
+- description: "DB Grid"
+  link: banco_de_dados_no_c_builder_cppb_dbgrid.png
+
+- description: "Driver na IDA"
+  link: driver-ida-01.png
+
+- description: "Flash Pops (Filmes 1)"
+  link: encontrando_as_respostas_do_flash_pops_flash_pops_jogo.png
+
+- description: "GPF Now!"
+  link: encontrando_as_respostas_do_flash_pops_gpfnow.gif
+
+- description: "Flash Pops Seguro"
+  link: encontrando_as_respostas_do_flash_pops_flash_pops.gif
+
+- description: "Russian Keyboard"
+  link: keychanger_de_crianca_russian_keyboard.png
+
+- description: "Monopoly Crash"
+  link: process_monitor_e_o_monopolio_malcriado_monopoly_crash.png
+
+- description: "Procmon Filter"
+  link: process_monitor_e_o_monopolio_malcriado_monopoly_procmon.png
+
+- description: "Monopoly Crash"
+  link: process_monitor_e_o_monopolio_malcriado_monopoly_crash.png
+
+- description: "Monopoly Access Denied"
+  link: process_monitor_e_o_monopolio_malcriado_monopoly_procmon_access_denied1.png
+
+- description: "Monopoly Access Denied 2"
+  link: process_monitor_e_o_monopolio_malcriado_monopoly_procmon_access_denied2.png
+
+- description: "Monopoly"
+  link: process_monitor_e_o_monopolio_malcriado_monopoly_screenshot.jpg
+
+- description: "Monopoly Find"
+  link: process_monitor_e_o_monopolio_malcriado_monopoly_procmon_find2.png
+
+- description: "Find Error in VS projects using regex"
+  link: silly_regex_trick_finding_the_project_who_failed_inside_a_vs_big_solution_find_error_regex2.png
+
+- description: "Preprocessor"
+  link: os_diferentes_erros_na_linguagem_c_preprocessor.gif
+
+- description: "Linker"
+  link: os_diferentes_erros_na_linguagem_c_linker.gif
+
+- description: "Licença do Houaiss"
+  link: conversor_de_houaiss_para_babylon_parte_1_houaiss_license.png
+
+- description: "Instalação do Houaiss"
+  link: conversor_de_houaiss_para_babylon_parte_1_houaiss_install.png
+
+- description: "Saída dos arquivos do dicionário"
+  link: conversor_de_houaiss_para_babylon_parte_1_cmd.gif
+
+- description: "Cmd do mistério das pilhas diferentes"
+  link: o_misterio_das_pilhas_diferentes_cmd.gif
+
+- description: "WinDbg Nerd"
+  link: o_misterio_das_pilhas_diferentes_windbg_nerd.gif
+
+- description: "Chess Board"
+  link: influence_board_influence_board.png
+
+- description: "Winboard Mate"
+  link: influence_board_winboard_mate.png
+
+- description: "Winboard Mate (com influências)"
+  link: influence_board_winboard_mate_influence.png
+
+- description: "Winboard Mate Final"
+  link: influence_board_winboard_mate_final.png
+
+- description: "WinBoard Options"
+  link: influence_board_winboard_options3.png
+
+- description: "Winboard Blindfold e Influence"
+  link: influence_board_winboard_blindfold.png
+
+- description: "Wordclip"
+  link: como_rodar_qualquer_coisa_como_servico_wordclip.jpg
+
+- description: "MsvcMon Service"
+  link: como_rodar_qualquer_coisa_como_servico_msvcmon_service.png
+
+- description: "Debug"
+  link: depuracao_da_mbr_debug.com.png
+
+- description: "Debug em ação"
+  link: depuracao_da_mbr_debug_debug.png
+
+- description: "Windbg Remote"
+  link: windbg_a_distancia_windbg_remote.gif
+
+- description: "Windbg Remote 2"
+  link: windbg_a_distancia_windbg_remote2.gif
+
+- description: "Houaiss Analysis"
+  link: conversor_de_houaiss_para_babylon_parte_2_houaiss_analysis.png
+
+- description: "Houaiss Babylon Installing"
+  link: conversor_de_houaiss_para_babylon_parte_2_houaiss_babylon_installing.png
+
+- description: "Houaiss Babylon"
+  link: conversor_de_houaiss_para_babylon_parte_2_houaiss_babylon.png
+
+- description: "Teste do debug 16 bits"
+  link: aprendendo_assembly_com_o_depurador_debug_testpng.png
+
+- description: "WinDbg x Notepad"
+  link: aprendendo_assembly_com_o_depurador_windbgxnotepad.png
+
+- description: "WinDbg User Kernel Debug"
+  link: kernel_mode_user_mode_windbg_user_kernel.png
+
+- description: "windbg_user_kernel2.png"
+  link: kernel_mode_user_mode_windbg_user_kernel2.png
+
+- description: "MsvcMon Service English"
+  link: how_to_run_anything_as_a_service_msvcmon_service.png
+
+- description: "Salada Lib"
+  link: como_criar_uma_lib_no_visual_studio_salada2.gif
+
+- description: "MyFirstLib"
+  link: como_criar_uma_lib_no_visual_studio_myfirstlib.png
+
+- description: "MyFirstLib2"
+  link: como_criar_uma_lib_no_visual_studio_myfirstlib2.png
+
+- description: "MyFirstLib3"
+  link: como_criar_uma_lib_no_visual_studio_myfirstlib3.png
+
+- description: "MyFirstLib4"
+  link: como_criar_uma_lib_no_visual_studio_myfirstlib4.png
+
+- description: "MyFirstLib5"
+  link: como_criar_uma_lib_no_visual_studio_myfirstlib5.png
+
+- description: "MyFirstLib6"
+  link: como_criar_uma_lib_no_visual_studio_myfirstlib6.png
+
+- description: "MyFirstLib7"
+  link: como_criar_uma_lib_no_visual_studio_myfirstlib7.png
+
+- description: "MyFirstLib8"
+  link: como_criar_uma_lib_no_visual_studio_myfirstlib8.png
+
+- description: "Seminário CCPP Portabilidade Performance"
+  link: resultado_do_seminario_ccpp_seminario.jpg
+
+- description: "Seminário Caloni"
+  link: resultado_do_seminario_ccpp_seminario_caloni.jpg
+
+- description: "Seminário Galuppo"
+  link: resultado_do_seminario_ccpp_seminario_galuppo.jpg
+
+- description: "Seminário Strauss"
+  link: resultado_do_seminario_ccpp_seminari_strauss.jpg
+
+- description: "Seminário Kumpera"
+  link: resultado_do_seminario_ccpp_seminario_otimizacao1.jpg
+
+- description: "Seminário Tupinambá"
+  link: resultado_do_seminario_ccpp_seminario_otimizacao2.jpg
+
+- description: "C Dependency"
+  link: declaracao_x_definicao_cdepends.gif
+
+- description: "Branches sem ancestral"
+  link: como_fazer_merge_de_projetos_distintos_no_bazaar_branches_sem_ancestral.gif
+
+- description: "Branches com replay"
+  link: como_fazer_merge_de_projetos_distintos_no_bazaar_branches_com_replay.gif
+
+- description: "Erro no Babylon"
+  link: segunda_versao_do_houaiss2babylon_houaiss2babylonerror.png
+
+- description: "Depends meu executável"
+  link: o_caso_da_funcao_de_delay_load_desaparecida_depends_meu_executavel.png
+
+- description: "Loader error"
+  link: o_caso_da_funcao_de_delay_load_desaparecida_loader_erro.png
+
+- description: "delayimp.lib"
+  link: o_caso_da_funcao_de_delay_load_desaparecida_delayimp.png
+
+- description: "Delay imp ProcMon"
+  link: o_caso_da_funcao_de_delay_load_desaparecida_delayimpprocmon.png
+
+- description: "Jurassic Park"
+  link: aprenda_a_usar_sua_api_jurassicpark.png
+
+- description: "Debug port"
+  link: antidebugging_using_the_debugport_debug_port2.gif
+
+- description: "Espertinho"
+  link: antidebugging_during_the_process_attach_espertinho.png
+
+- description: ".cmdtree"
+  link: reuna_seus_comandos_mais_usados_no_windbg_com_cmdtree_cmdtree.png
+
+- description: ".cmdtree2.png"
+  link: reuna_seus_comandos_mais_usados_no_windbg_com_cmdtree_cmdtree2.png
+
+- description: "Windows Jobs"
+  link: windows_jobs_com_completion_port_job.gif
+
+- description: "Configurando o diretório de cabeçalhos no Visual Studio."
+  link: como_usar_wtl_com_o_atl_do_ddk_TJyNrlE.png
+
+- description: "Configurando o diretório de biblioteca no Visual Studio."
+  link: como_usar_wtl_com_o_atl_do_ddk_VLryS9L.png
+
+- description: "Serviço do PsExec criado na máquina-alvo."
+  link: como_funciona_o_psexec_lCf4KiT.png
+
+- description: "Instalação do Serviço PsExec na máquina-alvo no registro do Windows."
+  link: como_funciona_o_psexec_qo6PZWS.png
+
+- description: "Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\\Windows."
+  link: como_funciona_o_psexec_2sSwUA9.png
+
+- description: "Compartilhamento admin$ disponível enquanto depuramos o PsExec."
+  link: como_funciona_o_psexec_vBGHXoC.png
+
+- description: "Gavetas representando posições na memória."
+  link: basico_do_basico_ponteiros_pointers_drawer.gif
+
+- description: "Draft: Pointers, Strings and Arrays"
+  link: basico_do_basico_ponteiros_draft_pointers_strings_arrays.jpg
+
+- description: "Bloco de Notas acessando memória RAM."
+  link: basico_do_basico_tipos_W9jtDwK.gif
+
+- description: "Interpretação de memória de texto e números em um programa C."
+  link: basico_do_basico_tipos_interpretacao_de_memoria_texto_e_numeros.png
+
+- description: "Os bichos-preguiça possuem dois dedos!"
+  link: basico_do_basico_binario_jQTGnH6.gif
+
+- description: "Registradores da CPU"
+  link: basico_do_basico_assembly_kcKufIn.gif
+
+- description: "Os registradores da CPU em ação"
+  link: basico_do_basico_assembly_N90ooMD.gif
+
+- description: "Pratos de cozinha empilhados."
+  link: basico_do_basico_assembly_EmiZKdc.gif
+
+- description: "Exemplo de pilha na memória."
+  link: basico_do_basico_assembly_wZ6kKs8.jpg
+
+- description: "boot_map.png"
+  link: o_boot_no_windows_pre_ntldr_boot_map.png
+
+- description: "boot_components.png"
+  link: o_boot_no_windows_pre_ntldr_YSNdf8w.png
+
+- description: "error_ntldr_missing.png"
+  link: o_boot_no_windows_pre_ntldr_JNekHia.png
+
+- description: "finding_part_boot.png"
+  link: o_boot_no_windows_pre_ntldr_EfbrmZd.png
+
+- description: "converting_setor.png"
+  link: o_boot_no_windows_pre_ntldr_qSx2aLD.png
+
+- description: "first_partition_sector.png"
+  link: o_boot_no_windows_pre_ntldr_mZoLCyZ.png
+
+- description: "error_checking_part_sect_signature.png"
+  link: o_boot_no_windows_pre_ntldr_7dZZZag.png
+
+- description: "Galinha Preta"
+  link: o_boot_no_windows_ntldr_galinha_preta.jpg
+
+- description: "ntldr_phase.png"
+  link: o_boot_no_windows_ntldr_mRuFXJA.png
+
+- description: "é ele que exibe o menu de boot do sistema operacional??"
+  link: o_boot_no_windows_ntldr_iJun9Gw.png
+
+- description: "driver_atapi.png"
+  link: o_boot_no_windows_ntldr_2ewkFhs.png
+
+- description: "Meu caderninho de treinamento russo"
+  link: russian_studies.jpg
+
+- description: "PEB ¿não-documentado¿"
+  link: importando_tipos_de_outros_projetos_L3E4KSS.png
+
+- description: "MyPEB"
+  link: importando_tipos_de_outros_projetos_l4oLJHR.png
+
+- description: "Filtro no RegMon"
+  link: restauranto_o_registro_Fz9QRP1.png
+
+- description: "Restauração do IExplore"
+  link: restauranto_o_registro_Ps7V57G.png
+
+- description: "Filtro no Excel"
+  link: restauranto_o_registro_iEB0YQJ.png
+
+- description: "Filtro no Notepad++"
+  link: restauranto_o_registro_XOUfV9L.png
+
+- description: "Tomando café"
+  link: restauranto_o_registro_jBRCDmf.jpg
+
+- description: "Comando qlog do Bazaar"
+  link: bazaar_grafico_kskAIzb.png
+
+- description: "Bazaar Shell Extension na Mão"
+  link: bazaar_grafico_UoeYg7V.png
+
+- description: "Comando qbrowse do Bazaar"
+  link: bazaar_grafico_ejnlqLn.png
+
+- description: "Comando qdiff do Bazaar"
+  link: bazaar_grafico_PZW0KOr.png
+
+- description: "Comando qconfig do Bazaar"
+  link: bazaar_grafico_TyYMS4s.png
+
+- description: "windbg_tooltips.png"
+  link: novidades_no_windbg_7_fb4hw4x.png
+
+- description: "Código Antes x Depois no Visual Studio"
+  link: typedef_arcaico_gFNalqB.png
+
+- description: "Endereço de uma carta"
+  link: por_que_long_pointer_endereco_da_carta.png
+
+- description: "Encontrando o caminho"
+  link: por_que_long_pointer_getting_right_on_street.png
+
+- description: "Relação Segmento x Offset com Rua x Número"
+  link: por_que_long_pointer_relacao_endereco_carta_segmento_offset.png
+
+- description: "Se perdendo nas ruas"
+  link: por_que_long_pointer_getting_lost_on_streets.png
+
+- description: "enum_namespace.png"
+  link: enum_wNCAYCX.png
+
+- description: "const_memory.png"
+  link: const_e_volatile_V6eR9ln.png
+
+- description: "const_gpf.png"
+  link: const_e_volatile_d51bAIH.png
+
+- description: "Se concentre! Não é esse tipo de volatile!"
+  link: const_e_volatile_carbzjo.jpg
+
+- description: "interlocked_increment.png"
+  link: const_e_volatile_3mqVrqA.png
+
+- description: "mutante"
+  link: const_e_volatile_4zUSxmJ.jpg
+
+- description: "Debug do notepad pelo kernel"
+  link: breakpoints_promiscuos_debug_notepad_kernel.png
+
+- description: "crash_dump.png"
+  link: setimo_encontro_de_programadores_c_wNd2Z1m.png
+
+- description: "Tela azul de recordação"
+  link: foto_dos_melhores_momentos_tela_azul_de_recordacao.jpg
+
+- description: "oncrash.png"
+  link: gerando_dumps_automatizados_finddump.png
+
+- description: "Arrastar_e_soltar controles do Windows"
+  link: tres_em_um_brmIxLu.png
+
+- description: "Bloqueio de reboot no Windows Seven"
+  link: tres_em_um_0OKkJKy.png
+
+- description: "Flags para FormatMessage"
+  link: formatmessage_para_dumies_8nKXyBs.png
+
+- description: "Saída do nosso projetinho"
+  link: formatmessage_para_dumies_rnrw5UN.png
+
+- description: "Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando."
+  link: entao_voce_ainda_nao_usa_controle_de_fonte_BcRIM4W.png
+
+- description: "Erro de automação?"
+  link: suporte_tecnico_IGR3VJC.png
+
+- description: "Exportando e importando registro"
+  link: suporte_tecnico_l7Rc7kY.png
+
+- description: "Snapshots da VMWare"
+  link: suporte_tecnico_hhxZgqZ.png
+
+- description: "Club_med_beach_governors_harbour_eleuthera_bahamas"
+  link: patch_de_emergencia_ggKPJuT.jpg
+
+- description: "Detector de Pares"
+  link: patch_de_emergencia_wHctVe6.png
+
+- description: "Corrigindo versão"
+  link: patch_de_emergencia_zrZQir4.png
+
+- description: "Live Patch!"
+  link: patch_de_emergencia_bMI63Ka.png
+
+- description: "Caderninhos do que viria a ser o Cine Tênis Verde"
+  link: cinetenisverde_notebooks.jpg
+
+- description: "Commit no server"
+  link: trabalhando_em_multiplos_ambientes_server_commit.png
+
+- description: "winnt4_process32next_unresolved2.png"
+  link: dependencia_pedindo_carona_winnt4_process32next_unresolved2.png
+
+- description: "depends_process32_not_found2.png"
+  link: dependencia_pedindo_carona_depends_process32_not_found2.png
+
+- description: "depends_process32_not_needed.png"
+  link: dependencia_pedindo_carona_depends_process32_not_needed.png
+
+- description: "Anotações de antigos cadernos que me acompanhavam"
+  link: notebook_programming.jpg
+
+- description: "Anotações de antigos cadernos que me acompanhavam 2"
+  link: notebook_programming2.jpg
+
+- description: "Anotações de antigos cadernos que me acompanhavam 3"
+  link: notebook_programming3.jpg
+
+- description: "vtable2.png"
+  link: vtable_vtable2.png
+
+- description: "new_mobile_project"
+  link: depuracao_na_nuvem_new_mobile_project.png
+
+- description: "Ponto Flutuante Afundando"
+  link: ponto_flutuante_afundando_TnsgAlZ.png
+
+- description: "Ponto Flutuante Afundando (2)"
+  link: ponto_flutuante_afundando_mqHh0wA.png
+
+- description: "RemoveIfErrado"
+  link: remove_if_ate_remove_so_que_diferente_AzliFSS.png
+
+- description: "RemoveIfComportamento"
+  link: remove_if_ate_remove_so_que_diferente_JHucsWz.png
+
+- description: "RemoveIfFunciona"
+  link: remove_if_ate_remove_so_que_diferente_Q7f2N1G.png
+
+- description: "Lambda: o Retorno"
+  link: lambda_o_retorno_Hrbu1ue.jpg
+
+- description: "jam2014"
+  link: geleia_de_codigo_zXzJlL5.jpg
+
+- description: "cowblet_cover"
+  link: que_geleia_de_mocoto_iqT5sSy.jpg
+
+- description: "cowblet"
+  link: que_geleia_de_mocoto_igQqWOa.jpg
+
+- description: "ProblemA"
+  link: que_geleia_de_mocoto_WGFkBW1.png
+
+- description: "Tomadao"
+  link: que_geleia_de_mocoto_8p1mbvh.png
+
+- description: "WP_000773"
+  link: que_geleia_de_mocoto_m2eUW9a.jpg
+
+- description: "Poker Jam"
+  link: poker_face_LmkKDXm.jpg
+
+- description: "ProperShuffle"
+  link: poker_face_UTQPIST.jpg
+
+- description: "Gráfico dos Algoritmos de Embaralhamento"
+  link: poker_face_OL0hpLv.jpg
+
+- description: "Tabelona"
+  link: poker_face_oe3heEP.jpg
+
+- description: "StructVsClass"
+  link: estruturas_vs_classes_fight_APlOm65.jpg
+
+- description: "StructVsClass_Construtor"
+  link: estruturas_vs_classes_fight_vwpucpm.jpg
+
+- description: "StructVsClassStructConstructor"
+  link: estruturas_vs_classes_fight_rdpllNf.jpg
+
+- description: "StructVsClassStreams"
+  link: estruturas_vs_classes_fight_np4trf9.jpg
+
+- description: "ShiftEstranho"
+  link: ss_tnVztzy.png
+
+- description: "Formatação Difícil do Cout"
+  link: ss_7hFREwa.png
+
+- description: "Windows XP dá as boas vindas"
+  link: eles_querem_que_a_gina_va_embora_tres_posts_sobre_evolucao_windows_CBLO6LF.jpg
+
+- description: "gina"
+  link: eles_querem_que_a_gina_va_embora_tres_posts_sobre_evolucao_windows_sF23ENL.jpg
+
+- description: "Esquema de porta serial no WinDbg"
+  link: windbg_serial_port.jpg
+
+- description: "iteradores_como_ponteiros_a_imagem"
+  link: se_iterando_com_os_pseudo_ponteiros_uma_breve_introducao_0Kne7qd.jpg
+
+- description: "iteradores_como_ponteiros"
+  link: se_iterando_com_os_pseudo_ponteiros_uma_breve_introducao_GmNutkz.jpg
+
+- description: "Ops, foto errada"
+  link: stroustrup.jpg
+
+- description: "Agora sim"
+  link: lovelace.png
+
+- description: "Atalhos do Trello"
+  link: integrando_bitbucketgithub_com_trello_747UasT.png
+
+- description: "Pedindo autorização para o Trello"
+  link: integrando_bitbucketgithub_com_trello_oQ97bDI.png
+
+- description: "ID único de um Card"
+  link: integrando_bitbucketgithub_com_trello_xONdnSw.png
+
+- description: "Hello, World!"
+  link: integrando_bitbucketgithub_com_trello_rbCigTV.png
+
+- description: "Adicionando um WebHook ao GitHub"
+  link: integrando_bitbucketgithub_com_trello_4Lph9w6.png
+
+- description: "Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando.."
+  link: integrando_bitbucketgithub_com_trello_NzQPB9o.png
+
+- description: "Resultado do meu commit"
+  link: integrando_bitbucketgithub_com_trello_ZIPNSpV.png
+
+- description: "E o negócio é rápido, viu?"
+  link: integrando_bitbucketgithub_com_trello_vVmuKb7.png
+
+- description: "Step Into Specific no Visual Studio 2013"
+  link: o_novo_como_nao_dar_step_into_do_visual_studio_201213_5cda0E7.jpg
+
+- description: "Strings na minha lib"
+  link: voce_sabe_o_que_esta_usando_no_seu_codigo_strings_minha_lib.png
+
+- description: "Strings na minha lib OK"
+  link: voce_sabe_o_que_esta_usando_no_seu_codigo_strings_minha_lib_ok.png
+
+- description: "Todas as strings do meu projeto"
+  link: voce_sabe_o_que_esta_usando_no_seu_codigo_all_strings_using.png
+
+- description: "QuemQuerPão"
+  link: cmd_e_o_encoding_fake_ZutWZiB.png
+
+- description: "QuemQuerPãoCmd"
+  link: cmd_e_o_encoding_fake_cAJED7b.png
+
+- description: "QuemQuerPãoCmdDetails"
+  link: cmd_e_o_encoding_fake_3Llhikv.png
+
+- description: "CodePage437"
+  link: cmd_e_o_encoding_fake_lcVG0ak.png
+
+- description: "Redirector"
+  link: cmd_e_o_encoding_fake_92WFz8J.gif
+
+- description: "QuemQuerPaum"
+  link: cmd_e_o_encoding_fake_RJ85xi9.png
+
+- description: "ASemTil"
+  link: cmd_e_o_encoding_fake_6P8n4Dg.png
+
+- description: "QuemQuerPaoBatch"
+  link: cmd_e_o_encoding_fake_3bsyxNU.png
+
+- description: "QuemQuerPaoDump"
+  link: cmd_e_o_encoding_fake_4V81xIc.png
+
+- description: "QuemQuerPaoFind"
+  link: cmd_e_o_encoding_fake_fM6Iovh.png
+
+- description: "Flow graph"
+  link: flow.jpg
+
+- description: "Limite entre frequência alta e frequência baixa"
+  link: limite_frequencia_alta_vs_frequencia_baixa.png
+
+- description: "Bits juntados"
+  link: bits_juntados.png
+
+- description: "Rodovia de bits"
+  link: rodovia_de_bits.png
+
+- description: "Flow graph"
+  link: flow.jpg
+
+- description: "Flow graph"
+  link: flow.jpg
+
+- description: "diretor Marcos Dutra na Mostra de Tóquio"
+  link: tokyo_international_film_festival.jpg
+
+- description: "Todo list"
+  link: todolist_todolist.png
+
+- description: "Binary Tree in The C Programming Language"
+  link: the_c_programming_language_binary_tree.gif
+
+- description: "Breakpoint debug"
+  link: guia_basico_para_programadores_de_primeiro_breakpoint_debug.png
+
+- description: "Step over"
+  link: step-over.gif
+
+- description: "Step into"
+  link: step-into.gif
+
+- description: "Step out"
+  link: step-out.gif
+
+- description: "Watch"
+  link: watch.gif
+
+- description: "Call stack"
+  link: call-stack.gif
+
+- description: "Como usar WTL com o ATL do DDK"
+  link: como_usar_wtl_com_o_atl_do_ddk_OoiV6X7.png
+
+- description: "Básico do básico: tipos"
+  link: basico_do_basico_tipos_sx9fYjS.gif
+
+- description: "Name mangling Borland C"
+  link: name-mangling-borland-c.png
+
+- description: "Name mangling VC++ C"
+  link: name-mangling-vcpp-c.png
+
+- description: "Name mangling Borland C++"
+  link: name-mangling-borland-cpp.png
+
+- description: "Name mangling VC++ C++"
+  link: name-mangling-vcpp-cpp.png
+
+- description: "Boot"
+  link: boot.png
+
+- description: "Como achar código sem símbolos"
+  link: como_achar_o_codigo_fonte_sem_simbolos_gUfPM5Q.jpg
+
+- description: "Esse ponteiro vai até onde: PSID e o buraco negro"
+  link: esse_ponteiro_vai_ate_onde_psid_e_o_buraco_negro.png
+
+- description: "Vtable"
+  link: vtable_vtable11.png
+
+- description: "Bazaar com Subversion"
+  link: bazaar_com_subversion_bazaar_subversion.png
+
+- description: "Novo branch para projetos do caloni.com.br"
+  link: novo_branch_para_projetos_do_caloni_com_br_nova_branch_bazaar_assembla.png
+
+- description: "Cuidado com variáveis temporárias"
+  link: cuidado_com_variaveis_temporarias_Gs3Khz7.png
+
+- description: "Cuidado com variáveis temporárias 2"
+  link: cuidado_com_variaveis_temporarias_x3n9FXS.png
+
+- description: "Cuidado com variáveis temporárias 3"
+  link: cuidado_com_variaveis_temporarias_vXQjDjK.png
+
+- description: "Depuração de emergência"
+  link: depuracao_de_emergencia_imt8kmB.png
+
+- description: "Depuração de emergência 2"
+  link: depuracao_de_emergencia_RWPemAU.png
+
+- description: "Depuração de emergência 3"
+  link: depuracao_de_emergencia_A2p4Q9y.png
+
+- description: "Depuração de emergência Receita de Bolo"
+  link: depuracao_de_emergencia_receita_de_bolo_w1uEm0Y.png
+
+- description: "Depuração de emergência Receita de Bolo 2"
+  link: depuracao_de_emergencia_receita_de_bolo_ls9Hma0.png
+
+- description: "Depuração de emergência Receita de Bolo 3"
+  link: depuracao_de_emergencia_imt8kmB.png
+
+- description: "Depuração de emergência Receita de Bolo 4"
+  link: depuracao_de_emergencia_receita_de_bolo_CjXbOD1.png
+
+- description: "Depuração de emergência Receita de Bolo 5"
+  link: depuracao_de_emergencia_receita_de_bolo_hnfH30b.png
+
+- description: "Header inútil"
+  link: header_inutil_opLLPIk.png
+
+- description: "Header inútil 2"
+  link: header_inutil_header_inutil2.png
+
+- description: "Header inútil 3"
+  link: header_inutil_header_inutil3.png
+
+- description: "Header inútil 4"
+  link: header_inutil_header_inutil4.png
+
+- description: "Consumo abusivo de memória"
+  link: consumo_abusivo_de_memoria_hoxWfdi.png
+
+- description: "Consumo abusivo de memória 2"
+  link: consumo_abusivo_de_memoria_ZKVVT0O.png
+
+- description: "Consumo abusivo de memória 3"
+  link: consumo_abusivo_de_memoria_Bzb2XVY.png
+
+- description: "Consumo abusivo de memória 4"
+  link: consumo_abusivo_de_memoria_JeqoBju.png
+
+- description: "GetTickCount não é um gerador de IDs únicos"
+  link: gettickcount_nao_e_um_gerador_de_ids_unicos_buOxKgQ.jpg
+
+- description: "Logs em serviços e outras coisas"
+  link: logs_em_servicos_e_outras_coisas_p9kH1LW.jpg
+
+- description: "Logs em serviços e outras coisas 2"
+  link: logs_em_servicos_e_outras_coisas_v12mGG3.png
+
+- description: "PDF mal formado"
+  link: o_estranho_caso_do_pdb_mal_formado_AmoYVLS.png
+
+- description: "PDF mal formado 2"
+  link: o_estranho_caso_do_pdb_mal_formado_SYoMbtq.png
+
+- description: "PDF mal formado 3"
+  link: o_estranho_caso_do_pdb_mal_formado_YZ6v5eP.png
+
+- description: "PDF mal formado 4"
+  link: o_estranho_caso_do_pdb_mal_formado_xbk6WsP.png
+
+- description: "PDF mal formado 5"
+  link: o_estranho_caso_do_pdb_mal_formado_5ZSZu4g.png
+
+- description: "PDF mal formado 6"
+  link: o_estranho_caso_do_pdb_mal_formado_AxapyHQ.jpg
+
+- description: "PDF mal formado 7"
+  link: o_estranho_caso_do_pdb_mal_formado_di9JV7u.png
+
+- description: "PDF mal formado 8"
+  link: o_estranho_caso_do_pdb_mal_formado_x19BKm4.png
+
+- description: "PDF mal formado 9"
+  link: o_estranho_caso_do_pdb_mal_formado_P23UaPY.png
+
+- description: "PDF mal formado 10"
+  link: o_estranho_caso_do_pdb_mal_formado_uDmJxtB.png
+
+- description: "Indexando com rapidez"
+  link: indexando_simbolos_com_rapidez_mogZt3n.png
+
+- description: "Indexando com rapidez 2"
+  link: indexando_simbolos_com_rapidez_vfY2oan.png
+
+- description: "Indexando com rapidez 3"
+  link: indexando_simbolos_com_rapidez_tvCCYcm.png
+
+- description: "Classe, objeto, contexto, Dilbert"
+  link: classe_objeto_contexto_dilbert.context.gif
+
+- description: "Classe, objeto, contexto, método"
+  link: classe_objeto_contexto_metodo_uzfJuTC.png
+
+- description: "Classe, objeto, contexto, método 2"
+  link: classe_objeto_contexto_metodo_JLJaAsB.png
+
+- description: "Classe, objeto, contexto, método, polimorfismo"
+  link: classe_objeto_contexto_metodo_polimorfismo_Ye5mA8L.png
+
+- description: "Classe, objeto, contexto, método, polimorfismo 2"
+  link: classe_objeto_contexto_metodo_polimorfismo_tRAtU9d.png
+
+- description: "Classe, objeto, contexto, método, polimorfismo 3"
+  link: classe_objeto_contexto_metodo_polimorfismo_k20fqVJ.gif
+
+- description: "Gabaritos"
+  link: gabaritos_84Ptrvk.png
+
+- description: "Gabaritos 2"
+  link: gabaritos_3TkGFkN.png
+
+- description: "Templates em C no lugar de macros"
+  link: templates_em_c_no_lugar_de_macros_865mgsu.jpg
+
+- description: "Log de APIs chamada direto do WinDbg"
+  link: log_de_apis_chamadas_direto_do_windbg_5gLF4Qd.png
+
+- description: "Log de APIs chamada direto do WinDbg 2"
+  link: log_de_apis_chamadas_direto_do_windbg_55CjXt2.png
+
+- description: "Log de APIs chamada direto do WinDbg 3"
+  link: log_de_apis_chamadas_direto_do_windbg_fNq4uUu.png
+
+- description: "Log de APIs chamada direto do WinDbg 4"
+  link: log_de_apis_chamadas_direto_do_windbg_sgCO9Wj.png
+
+- description: "Log de APIs chamada direto do WinDbg 5"
+  link: log_de_apis_chamadas_direto_do_windbg_mNDJRhK.png
+
+- description: "Log de APIs chamada direto do WinDbg 6"
+  link: log_de_apis_chamadas_direto_do_windbg_p2bgEl2.png
+
+- description: "Exportando repositórios do Bazaar para Git"
+  link: exportando_repositorios_antigos_do_bazaar_para_git_9gzHZOz.png
+
+- description: "Programa, mãe foca"
+  link: programa_mae_foca_O2dhzNc.png
+
+- description: "Unit menos menos 1"
+  link: unitmenosmenos_HjYVkyp.png
+
+- description: "Unit menos menos 2"
+  link: unitmenosmenos_NT2C1SC.png
+
+- description: "Unit menos menos 3"
+  link: unitmenosmenos_P8bEvns.png
+
+- description: "Usando GVim com projetos do VS"
+  link: usando_gvim_com_projetos_do_visual_studio_GmIwJ19.png
+
+- description: "Usando GVim com projetos do VS 2"
+  link: usando_gvim_com_projetos_do_visual_studio_PEr73NL.png
+
+- description: "Usando GVim com projetos do VS 3"
+  link: usando_gvim_com_projetos_do_visual_studio_4FymFj0.png
+
+- description: "Usando GVim com projetos do VS 4"
+  link: usando_gvim_com_projetos_do_visual_studio_hXaP1X8.png
+
+- description: "Usando GVim com projetos do VS 5"
+  link: usando_gvim_com_projetos_do_visual_studio_Xjbb5p3.png
+
+- description: "Quantos handles"
+  link: quantos_handles_TSAZhI0.png
+
+- description: "Quantos handles 2"
+  link: quantos_handles_dR2awj1.png
+
+- description: "Quantos handles 3"
+  link: quantos_handles_smbb54b.png
+
+- description: "Quantos handles 4"
+  link: quantos_handles_OYhOMob.png
+
+- description: "Quantos handles 5"
+  link: quantos_handles_O6wBqBo.png
+
+- description: "Quantos handles 6"
+  link: quantos_handles_iyu6PBR.png
+
+- description: "Quantos handles 7"
+  link: quantos_handles_RATAymD.png
+
+- description: "Quantos handles 8"
+  link: quantos_handles_mR5c2kk.png
+
+- description: "Quantos handles 9"
+  link: quantos_handles_gR0Qe9D.gif
+
+- description: "ReadFile assíncrono pode ser síncrono"
+  link: readfile_assincrono_pode_ser_sincrono_quando_voce_menos_espera_sJDJHii.png
+
+- description: "Warning de nível 4"
+  link: warning_de_nivel_4_XjbqVh9.png
+
+- description: "Pacotes perdidos 1"
+  link: pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_HUp5S4K.png
+
+- description: "Pacotes perdidos 2"
+  link: pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_IfVDNN9.png
+
+- description: "Pacotes perdidos 3"
+  link: pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_Yi8kVgC.png
+
+- description: "Pacotes perdidos 4"
+  link: pacotes_perdidos_nuget_em_projetos_cpp_no_visual_studio_BLUS8XJ.png
+
+- description: "Palestra moedas digitais em casa"
+  link: palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_TAunJPB.png
+
+- description: "Palestra moedas digitais em casa 2"
+  link: palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_YJZ7wxC.png
+
+- description: "Palestra moedas digitais em casa 3"
+  link: palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_3Mhj2lE.png
+
+- description: "Palestra moedas digitais em casa 4"
+  link: palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_CxdmZhy.png
+
+- description: "Palestra moedas digitais em casa 5"
+  link: palestra_como_criar_moedas_digitais_em_casa_com_cpp_kick_off_kLrPawv.png
+
+- description: "Velho problema do out of date do VS"
+  link: o_velho_problema_do_project_out_of_date_do_visual_studio_x9EyDDe.png
+
+- description: "Velho problema do out of date do VS 2"
+  link: o_velho_problema_do_project_out_of_date_do_visual_studio_VxMIlQL.png
+
+- description: "Velho problema do out of date do VS 3"
+  link: o_velho_problema_do_project_out_of_date_do_visual_studio_DhX7Kj9.png
+
+- description: "Visualizando qstring no VS"
+  link: visualizando_qstring_no_visual_studio_3dnGwGK.gif
+
+- description: "Mastering the Key to Success"
+  link: livro_mastering_the_key_to_success_and_long_term_fulfillment_UoDkC54.png
+
+- description: "Forma simples de baixar atualizações"
+  link: forma_simples_de_baixar_atualizacoes_remotamente_de_um_cliente_para_um_servidor_hSnmzqv.png
+
+- description: "Debugger remoto do VS"
+  link: debugger_remoto_do_visual_studio_znl7K0b.png
+
+- description: "Debugger remoto do VS 2"
+  link: debugger_remoto_do_visual_studio_bZVsEj8.png
+
+- description: "Debugger remoto do VS 3"
+  link: debugger_remoto_do_visual_studio_mrktmwE.png
+
+- description: "Debugger remoto do VS 4"
+  link: debugger_remoto_do_visual_studio_7EHOpJ1.png
+
+- description: "Debugger remoto do VS 5"
+  link: debugger_remoto_do_visual_studio_2yUrl8z.png
+
+- description: "Debugger remoto do VS 6"
+  link: debugger_remoto_do_visual_studio_ajBG8fM.gif
+
+- description: "Cpptests"
+  link: cpptests_ivRwuGm.png
+
+- description: "Cpptests 2"
+  link: cpptests_tPIS4wL.png
+
+- description: "Depurar processos antes do logon"
+  link: forma_mais_simples_de_depurar_processos_antes_do_logon_CZIHbHZ.png
+
+- description: "Depurar processos antes do logon 2"
+  link: forma_mais_simples_de_depurar_processos_antes_do_logon_lgPCGyW.png
+
+- description: "Depurar processos antes do logon 3"
+  link: forma_mais_simples_de_depurar_processos_antes_do_logon_GpNPhiC.png
+
+- description: "Depurar processos antes do logon 4"
+  link: forma_mais_simples_de_depurar_processos_antes_do_logon_hja6Y2Y.png
+
+- description: "Stroustrup"
+  link: stroustrup.jpg
+
+- description: "Apagar prompt do Windows"
+  link: como_apagar_o_prompt_do_seu_programa_windows_uWYtwqL.png
+
+- description: "Achar erros no printf via dump"
+  link: como_achar_erros_no_printf_via_dump_NhkhrJa.png
+
+- description: "Achar erros no printf via dump 2"
+  link: como_achar_erros_no_printf_via_dump_uOkd4VF.png
+
+- description: "Achar erros no printf via dump 3"
+  link: como_achar_erros_no_printf_via_dump_rAo1T0H.png
+
+- description: "Getarg"
+  link: getarg_asi80x3.png
+
+- description: "Vcpkg internals"
+  link: vcpkg_internals_7XMj026.png
+
+- description: "Vcpkg internals 2"
+  link: vcpkg_internals_aOHtf5a.png
+
+- description: "Vcpkg internals 3"
+  link: vcpkg_internals_XeeD4Se.png
+
+- description: "Coroutine internals"
+  link: coroutine_internals_bPO1fFa.png
+
+- description: "Coroutine internals 2"
+  link: coroutine_internals_WJeFtYq.png
+
+- description: "Coroutine internals 3"
+  link: coroutine_internals_S1Ywlhl.png
+
+- description: "Coroutine internals 4"
+  link: coroutine_internals_0dMVf0k.png
+
+- description: "Coroutine internals 5"
+  link: coroutine_internals_mDcM4jk.png
+
+- description: "Coroutine internals 6"
+  link: coroutine_internals_uQ7WYl8.png
+
+- description: "Coroutine internals 7"
+  link: coroutine_internals_bBIzRrm.png
+
+- description: "Native Floripa 2018"
+  link: native_floripa_2018_nBLf4ZB.png
+
+- description: "Native Floripa 2018 2"
+  link: native_floripa_2018_gx0X8pr.png
+
+- description: "Native Floripa 2018 3"
+  link: native_floripa_2018_l8iCVUL.png
+
+- description: "Native Floripa 2018 4"
+  link: native_floripa_2018_tQXeDFn.png
+
+- description: "Boost Bind e os erros escrotos"
+  link: boost_bind_e_os_erros_escrotos_MsRp03e.png
+
+- description: "Bug Boost com AcceptEx"
+  link: bug_boost_asio_acceptex_winsock_3LV7k8G.png
+
+- description: "Bug Boost com AcceptEx 2"
+  link: bug_boost_asio_acceptex_winsock_S7qT3Sd.png
+
+- description: "Bug Boost com AcceptEx 3"
+  link: bug_boost_asio_acceptex_winsock_FUrSKg2.png
+
+- description: "Debug remoto VS 2010"
+  link: debug_remoto_visual_studio_2010_superior_bE6YxtY.png
+
+- description: "Debug remoto VS 2010 2"
+  link: debug_remoto_visual_studio_2010_superior_hjjz55J.png
+
+- description: "Debug remoto VS 2010 3"
+  link: debug_remoto_visual_studio_2010_superior_bA4u3NZ.png
+
+- description: "Debug remoto VS 2010 4"
+  link: debug_remoto_visual_studio_2010_superior_bU6sq33.png
+
+- description: "Debug remoto VS 2010 5"
+  link: debug_remoto_visual_studio_2010_superior_4uyf5t7.png
+
+- description: "Debug remoto VS 2010 6"
+  link: debug_remoto_visual_studio_2010_superior_yEpsIR5.png
+
+- description: "OpenSSH Windows"
+  link: openssh_windows_7qdGAFB.png
+
+- description: "VS Unit Test"
+  link: visual_studio_unit_test_Gk5fDHB.png
+
+- description: "VS Unit Test 2"
+  link: visual_studio_unit_test_TbFrxIr.png
+
+- description: "VS Unit Test 3"
+  link: visual_studio_unit_test_1ZVjQ4D.png
+
+- description: "VS Unit Test 4"
+  link: visual_studio_unit_test_en6DWQp.png
+
+- description: "VS Unit Test 5"
+  link: visual_studio_unit_test_jiBQxZ4.png
+
+- description: "C resolve tudo CLOS"
+  link: c_resolve_tudo_clos_VcPXDcJ.jpg
+
+- description: "Configurar debug de kernel Hyper-V"
+  link: como_configurar_debug_de_kernel_pela_rede_hyper_v_disable_secure_boot.png
+
+- description: "AWK DNA"
+  link: awk_dna_dna_chips.png
+
+- description: "Como ganhar de torre e dama encurralando o rei"
+  link: como_ganhar_de_torre_dama_encurralando_o_rei_board.png
+
+- description: "Fotos do Washington"
+  link: fotos_do_washington_washington_photo_2022_08_13_20_51_59.jpg
+
+- description: "Fotos do Washington 2"
+  link: fotos_do_washington_washington_photo_2022_08_13_20_52_00.jpg
+
+- description: "Fotos do Washington 3"
+  link: fotos_do_washington_washington_photo_2022_08_13_20_52_01.jpg
+
+- description: "Começa um final de peões e cavalos"
+  link: comeca_um_final_de_peoes_e_cavalos_board.png
+
+- description: "Segment tree"
+  link: segment_tree_segment_tree.png
+
+- description: "Hacker rank Arrays"
+  link: hacker_rank_arrays_std_rotate.jpg
+
+- description: "Mudando o peso (tendência)"
+  link: mudando_o_peso_tendencia.png
+
+- description: "Loop versus spiral"
+  link: loop_versus_spiral.png
