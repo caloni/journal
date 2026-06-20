@@ -1,9 +1,4 @@
-﻿Acredito que o exemplo desse post antigo possa exemplificar melhor o que quero dizer.
-Cast Operator
-com o cara do suporte, um sujeito bonachão
-o barato fica loko,
-O Bug Mais Bizarro que já Resolvi
-o sincronismo e o encoding veio
+﻿o sincronismo e o encoding veio
 Análise de DNA
 Batalha
 Awk

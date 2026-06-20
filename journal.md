@@ -9,7 +9,7 @@ Atualmente é sócio da DevSolution, um grupo de desenvolvedores de software de 
 
 Fora do trabalho, adquire novos conhecimentos no Instituto Brasileiro de Tecnologia Avançada, onde estuda arquitetura de redes. Nas horas vagas, mantém um blog sobre programação C/C++ e Windows, onde tenta organizar seu conhecimento aprendido nesses anos. Atualmente mantém residência em São Bernardo do Campo, São Paulo. Pode ser contatado através de seu e-mail (wanderley.caloni@gmail.com).
 
-A idéia do blog é tentar disseminar e esclarecer detalhes no uso das linguagens C e C++ - com uma pitada de Windows, que é o ambiente em que o autor atualmente trabalha. C++ já é uma linguagem bastante usada e difundida no mundo todo, mas em território nacional ainda falta muito interesse de conhecer e usar essa poderosa linguagem nos projetos do dia-a-dia.
+A idéia do blog é tentar disseminar e esclarecer detalhes no uso das linguagens C e C++ - com uma pitada de Windows, que é o ambiente em que o autor atualmente trabalha. C++ já é uma linguagem bastante usada e difundida no mundo todo, mas em território nacional ainda falta muito interesse de conhecer e usar essa poderosa linguagem nos projetos do dia a dia
 
 # Hello World
 2005-05-16 computer blog
@@ -1141,7 +1141,7 @@ Quer entrar em contato? Mande o bom e velho email. Quer um "resumo profissional"
 
 "Eu mesmo!"
 
-Wanderley Caloni é um "programador" C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busquei mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia-a-dia. Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator duas vezes. Hoje uso AWK. Sim, os clássicos acabam quebrando um galho =).
+Wanderley Caloni é um "programador" C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busquei mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia a dia Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator duas vezes. Hoje uso AWK. Sim, os clássicos acabam quebrando um galho =).
 
 ## Overview geral por cima
 
@@ -1303,7 +1303,7 @@ Tools: Visual Studio, WinDbg, "Git" , SSH+Vim.
 # O bom filho à casa retorna
 2007-06-15 blog
 
-Depois de seis meses blogueando em um novo domínio, que seria totalmente focado em C++, descobri que não consigo viver escrevendo apenas sobre a linguagem em que programo. Não é que falte assunto. Simplesmente meu dia-a-dia nunca se resume apenas em regras de sintaxe e erros de compilação.
+Depois de seis meses blogueando em um novo domínio, que seria totalmente focado em C++, descobri que não consigo viver escrevendo apenas sobre a linguagem em que programo. Não é que falte assunto. Simplesmente meu dia a dia nunca se resume apenas em regras de sintaxe e erros de compilação.
 
 Por outro lado, aprendi muitas coisas novas desde o começo desse ano. Decorei novos comandos do Windbg, novos atalhos no Google Reader. E fiz outras tantas coisas novas também. Projetei um sistema de comunicação entre processos -- versão alfa, tudo bem, mas projetei. Decifrei o formato do banco de dados do dicionário Houaiss para poder usá-lo no Babylon. E por aí vai.
 
@@ -1448,7 +1448,7 @@ Mas esse artigo não é apenas sobre o WinDbg. Ele não vem sozinho. É uma inte
 
 - CDB: depurador que roda em user mode e é uma "linha de comando agradável" para um programador avançado.
 
-- NTSD: depurador que roda em user mode, da mesma forma que o CDB, mas também pode ser usado como um redirecionador de comandos para o depurador de kernel (logo abaixo). Existem algumas diferenças sutis entre esses dois depuradores (como o fato do NTSD não criar janelas quando usado como redirecionador), mas são diferenças que se aprendem no dia-a-dia.
+- NTSD: depurador que roda em user mode, da mesma forma que o CDB, mas também pode ser usado como um redirecionador de comandos para o depurador de kernel (logo abaixo). Existem algumas diferenças sutis entre esses dois depuradores (como o fato do NTSD não criar janelas quando usado como redirecionador), mas são diferenças que se aprendem no dia a dia
 
 - KD: depurador que roda em kernel mode, pode analisar dados do sistema local ou depurar um sistema remoto conectado através de um cabo serial ou por meio de um pipe criado por uma máquina virtual.
 
@@ -2049,7 +2049,7 @@ Graças ao meu amigo Thiago estive acompanhando uma série de posts de gente ren
 
 Ainda não tive tempo de ler todos os artigos (nem vou ter, pela velocidade com que isso se espalha), mas acho que dá tempo de escrever um pouco sobre isso.
 
-Acredito que nós, programadores, tentamos aprimorar nossos conhecimentos e nossas técnicas com o objetivo de enxergar os problemas do dia-a-dia de todos os ângulos e de encará-los e resolvê-los da melhor maneira possível. Quer dizer, nós achamos que é a melhor maneira possível. E exatamente por acharmos que tentamos melhorar sempre, em busca da inalcançável perfeição.
+Acredito que nós, programadores, tentamos aprimorar nossos conhecimentos e nossas técnicas com o objetivo de enxergar os problemas do dia a dia de todos os ângulos e de encará-los e resolvê-los da melhor maneira possível. Quer dizer, nós achamos que é a melhor maneira possível. E exatamente por acharmos que tentamos melhorar sempre, em busca da inalcançável perfeição.
 
 O problema existe quando nós, embriagados pela falsa crença de sabermos tudo (ou o suficiente), acreditamos realmente que estamos fazendo o melhor possível e que não há nem haverá maneira de melhorar. É lógico que sempre há. Melhor maneira de ver isso é pegar um código-fonte antigo e observar as mudanças de estilo. E nem precisa ser tão antigo assim. E nem precisa ser código. Pode ser uma idéia antiga de como implementar alguma coisa. A não ser que você seja um teimoso que quer fazer tudo em assembly verá que o que aprendemos ontem influencia nas decisões de amanhã.
 
@@ -2289,7 +2289,7 @@ Foi usado o pool dessa variável para o código ficar mais simples, mas o ideal 
 
 O ponto forte da proteção é que a pessoa precisa entender o que está acontecendo para tomar alguma atitude inteligente para solucionar o "problema". O ponto fraco é que após entendido o problema a solução torna-se fácil de visualizar. Tão fácil que eu nem pretendo citar aqui.
 
-Futuramente veremos uma maneira de tornar as coisas mais legíveis e usáveis no dia-a-dia de um programador de software de segurança.
+Futuramente veremos uma maneira de tornar as coisas mais legíveis e usáveis no dia a dia de um programador de software de segurança.
 
 
 # Movendo o cursor do mouse com o teclado
@@ -4361,7 +4361,7 @@ Como todo bom aprendizado, a parte mais importante é a prática. E nada melhor 
 
 Se sua necessidade do inglês era apenas ler textos técnicos pode parar por aqui. Mas nem sempre o conteúdo está escrito. Pode ser que existam palestras interessantíssimas do Channel9 ou podcasts de informática que você simplesmente não pode perder. Nesse caso, não há uma dica melhor do que imitar as crianças quando aprendem suas línguas nativas: ouça pessoas falando em inglês.
 
-Isso, aliada à sua prática diária de leitura de artigos, pode ser complementada se prestar atenção sempre na pronúncia correta das palavras que vai aprendendo. Muitas pessoas se tornam exímias leitoras de textos em inglês, mas não conseguem entender uma frase comum do dia-a-dia. Isso ocorre porque o inglês escrito difere em muito das regras de pronúncia do português escrito, o que gera muita confusão na hora de falar o fonema lido. Felizmente, na maioria dos dicionários existe sempre a transcrição fonética no início de cada vocábulo. É importante usá-la, e pelo menos uma vez você mesmo tentar pronunciar a palavra de sua boca.
+Isso, aliada à sua prática diária de leitura de artigos, pode ser complementada se prestar atenção sempre na pronúncia correta das palavras que vai aprendendo. Muitas pessoas se tornam exímias leitoras de textos em inglês, mas não conseguem entender uma frase comum do dia a dia Isso ocorre porque o inglês escrito difere em muito das regras de pronúncia do português escrito, o que gera muita confusão na hora de falar o fonema lido. Felizmente, na maioria dos dicionários existe sempre a transcrição fonética no início de cada vocábulo. É importante usá-la, e pelo menos uma vez você mesmo tentar pronunciar a palavra de sua boca.
 
 Nesse momento, o importante é fazer a transição escrito-falado. Por isso, tente ouvir podcasts em que o texto falado está disponível para leitura. Dessa forma é possível acompanhar os dois. Eu costumava ouvir o Word for the Wise da Merriam-Webster, por ser curto e interessante. Mas o ideal é unir o útil ao agradável, e nisso com certeza um podcast de tecnologia seria muito melhor.
 
@@ -4389,7 +4389,7 @@ Existem inúmeros recursos hoje em dia para que duas pessoas em qualquer lugar d
 
 - Quando perder a vergonha, passe a se corresponder com pessoas que falem inglês em uma conversa mano a mano ("e aê manu, certu?").
 
-Como eu disse no começo desse artigo, cada pessoa tem seu objetivo em aprender uma língua. Cumprido esse objetivo, acredito que já podemos nos dar por satisfeitos. Contudo, quando se começa a aprender de fato uma língua é comum as pessoas acharem que chegarão na linha de chegada ao final do curso, ou ao conseguirem o tão sonhado certificado de proficiência. São marcos, não tenha dúvida. Mas não são o ponto onde se pode parar e descansar pelo resto da vida. Assim como usamos o português no dia-a-dia, o inglês também deve ser usado diariamente. Se não for usado, ele irá aos poucos perdendo lugar em nossas memórias, até o momento em que será necessário recomeçar de um ponto muito distante da linha de chegada que haviamos acreditado ter alcançado para sempre.
+Como eu disse no começo desse artigo, cada pessoa tem seu objetivo em aprender uma língua. Cumprido esse objetivo, acredito que já podemos nos dar por satisfeitos. Contudo, quando se começa a aprender de fato uma língua é comum as pessoas acharem que chegarão na linha de chegada ao final do curso, ou ao conseguirem o tão sonhado certificado de proficiência. São marcos, não tenha dúvida. Mas não são o ponto onde se pode parar e descansar pelo resto da vida. Assim como usamos o português no dia a dia o inglês também deve ser usado diariamente. Se não for usado, ele irá aos poucos perdendo lugar em nossas memórias, até o momento em que será necessário recomeçar de um ponto muito distante da linha de chegada que haviamos acreditado ter alcançado para sempre.
 
 A última dica que deixo para vocês é: usem sempre o que aprenderam. A falta de uso é desperdício do tempo passado adquirindo o conhecimento.
 
@@ -4475,7 +4475,7 @@ A partir dessa leitura se usa o comando p ret do depurador, que é mais ou menos
 # Cronogramas
 2007-10-04 essays blog
 
-Nunca fui muito bom em definir cronogramas e nunca conheci alguém que fosse. Porém, ultimamente, no conforto do lar (férias), estou me saindo razoavelmente bem ao aplicar no meu dia-a-dia algumas regras que estabeleci como sendo boas pra mim. Não são regras que baixei do sítio do Joel nem é um design pattern, mas já me ajudam um bocado. Gostaria de compartilhá-las com meus pontuais leitores, que sempre entregam seus projetos em dia e nunca se esquecem de comentar uma linha de código sequer. Vocês são meu objetivo de vida e motivo de orgulho deste humilde blogue, que se esmera a cada dia que passa para ser fiel à inegável qualidade do meu público. Quando crescer quero ser igual a vocês.
+Nunca fui muito bom em definir cronogramas e nunca conheci alguém que fosse. Porém, ultimamente, no conforto do lar (férias), estou me saindo razoavelmente bem ao aplicar no meu dia a dia algumas regras que estabeleci como sendo boas pra mim. Não são regras que baixei do sítio do Joel nem é um design pattern, mas já me ajudam um bocado. Gostaria de compartilhá-las com meus pontuais leitores, que sempre entregam seus projetos em dia e nunca se esquecem de comentar uma linha de código sequer. Vocês são meu objetivo de vida e motivo de orgulho deste humilde blogue, que se esmera a cada dia que passa para ser fiel à inegável qualidade do meu público. Quando crescer quero ser igual a vocês.
 
 Mas enquanto não sou, vamos às regras.
 
@@ -4503,7 +4503,7 @@ Qual o valor de um dia, então? Cada um sabe o valor que deve ser decrementado d
 
 A maneira com que eu administro meu tempo tenta (eu disse tenta) seguir as regras até aqui dispostas. Além dessas eu adicionei algumas regras minhas, baseadas em valores razoáveis e premissas consideravelmente lógicas. Aliás, isso me lembra uma última regra geral: entenda o seu ritmo.
 
-O cronograma costuma (deveria) ser considerado uma coisa pessoal. Por quê? Porque cada um tem seu tempo. O que vale mais ao executar uma tarefa geralmente é (deveria ser) qualidade, e não quantidade. Seu vizinho de baia costuma terminar as coisas na metade do tempo que você? Bom para ele. Porém, se você tenta empregar o mesmo ritmo ao seu dia-a-dia vai ter que gastar depois mais do dobro do tempo que você economizou corrigindo os erros de uma tarefa feita nas coxas. Nada é "de grátis".
+O cronograma costuma (deveria) ser considerado uma coisa pessoal. Por quê? Porque cada um tem seu tempo. O que vale mais ao executar uma tarefa geralmente é (deveria ser) qualidade, e não quantidade. Seu vizinho de baia costuma terminar as coisas na metade do tempo que você? Bom para ele. Porém, se você tenta empregar o mesmo ritmo ao seu dia a dia vai ter que gastar depois mais do dobro do tempo que você economizou corrigindo os erros de uma tarefa feita nas coxas. Nada é "de grátis".
 
 Encare o trabalho assim como dormir: cada um tem o seu número de horas noturnas para descansar. Se dormir mais ou menos que o normal isso irá influenciar mais tarde, quando acordar. Alguns dormem 4, outros 12 horas. A média é 8. Mas e daí?
 
@@ -4680,7 +4680,7 @@ Se você nunca teve contato com C ou deseja ter uma aproximação mais simplific
 
 Essa é a hora ideal para separar dois conceitos que muitas vezes ficam grudados na mente dos precoces programadores para o resto de suas vidas: uma coisa é um tipo e outra coisa é uma expressão. Uma expressão possui um tipo, que define seu comportamento de acordo com o operador usado. Tudo é explicado muito bem com exemplos bem escritos e que são realmente úteis, como strlen, atoi, strcat (presentes na biblioteca padrão) e até um contador de bits.
 
-Se quiser entender o que cada fragmento de lógica na linguagem significa por completo (e não apenas uma expressão jogada na correria da programação do dia-a-dia) esse capítulo irá explicar. Depois de entendê-lo, nunca mais vai achar bizarro aqueles problemas de precedência que permeiam código pouco sensato.
+Se quiser entender o que cada fragmento de lógica na linguagem significa por completo (e não apenas uma expressão jogada na correria da programação do dia a dia esse capítulo irá explicar. Depois de entendê-lo, nunca mais vai achar bizarro aqueles problemas de precedência que permeiam código pouco sensato.
 
 ## Chapter 3: Control Flow
 
@@ -4718,7 +4718,7 @@ Para finalizar é abordado o tema da interface com o mundo exterior da linguagem
 
 Os adendos são incrivelmente úteis e os utilizo ainda hoje como referência. Cá entre nós, o padrão formal da linguagem é algo chato de se ler, e muitos detalhes são perfeitamente ignoráveis para quem não está desenvolvendo um compilador. Contudo, acredito que a maioria dos bons programadores deveria se preocupar em entender como os compiladores entendem seu código, pois muitos dos erros podem ser facilmente resolvidos através do desenvolvimento de uma certa empatia com a linguagem. É por isso que considero o Apêndice A o mais útil de todos.
 
-Por outro lado, sempre fui contra a reinvenção da roda. O que quer dizer que sempre fui a favor do pleno conhecimento da biblioteca padrão, pois ela fornece funções das mais usadas no dia-a-dia, e algumas outras que poderão ter sua serventia um dia desses. Mas para isso elas devem ser conhecidas. Isso quer dizer que uma passada de olhos no Apêndice B não faz mal a ninguém.
+Por outro lado, sempre fui contra a reinvenção da roda. O que quer dizer que sempre fui a favor do pleno conhecimento da biblioteca padrão, pois ela fornece funções das mais usadas no dia a dia e algumas outras que poderão ter sua serventia um dia desses. Mas para isso elas devem ser conhecidas. Isso quer dizer que uma passada de olhos no Apêndice B não faz mal a ninguém.
 
 O Apêndice C hoje é um pequeno guia dos curiosos para as mudanças que foram infligidas na linguagem quando esta foi padronizada. Como fã incondicional de C, não pude deixar de ler e reler essa parte, já que me dedico também a conhecer os primórdios dessa linguagem. Contudo, é parte opcional para as pessoas práticas (a não ser que você esteja com problemas com código legado do século passado).
 
@@ -6589,7 +6589,7 @@ Para os que utilizam o Visual Studio Express, realmente ainda não achei soluç�
 # Sizeof (de novo)
 2007-12-17 computer blog
 
-Algumas coisas em C parecem tão simples na programação do dia-a-dia que em alguns momentos podem existir situações confusas e misteriosas. O uso obscuro do operador sizeof, por exemplo, pode dar margem a interpretações erradas a respeito do que está acontecendo por debaixo dos panos. Apesar do padrão ter sido elaborado para tentar tornar a linguagem uma coisa intuitiva e de fácil dedução, isso não acontece todas as vezes.
+Algumas coisas em C parecem tão simples na programação do dia a dia que em alguns momentos podem existir situações confusas e misteriosas. O uso obscuro do operador sizeof, por exemplo, pode dar margem a interpretações erradas a respeito do que está acontecendo por debaixo dos panos. Apesar do padrão ter sido elaborado para tentar tornar a linguagem uma coisa intuitiva e de fácil dedução, isso não acontece todas as vezes.
 
 Vamos tomar, por exemplo, o seguinte minicódigo:
 
@@ -7299,7 +7299,7 @@ Errata: na verdade o que ocorreu dia 19 foi um encontro de C++ com direito a pal
 # Como ter um melhor blogue em 2008
 2008-01-08 archive
 
-Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas algumas dicas que o criador do termo (we)blog deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia-a-dia.
+Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas algumas dicas que o criador do termo (we)blog deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia a dia
 
 Por isso mesmo, aqui vão as dicas traduzidas, que encontrei no blogue de Lino Resende, verbatim (com meus comentários ao final de cada item):
 
@@ -7586,7 +7586,7 @@ Ora, ora. O número de processadores influencia no número de objetos que estare
 
 #### Versão debug pra quê?
 
-É importante, durantes os testes de desenvolvimento, sempre manter em dia uma versão debug (para o mundo kernel mode, versões checked) para que os primeiros problemas, geralmente os mais bestinhas, sejam pegos de forma rápida e eficiente. No entanto, um bom desenvolvedor não se limita a depurar com código-fonte. Ele deve estar sempre preparado para enfrentar problemas de falta da versão certa, informação pela metade, situação não-reproduzível. Para isso que servem as ferramentas maravilhosas que podemos usar no dia-a-dia. O IDA é mais uma das que deve estar sempre no cinto de utilidades do bom "debugador".
+É importante, durantes os testes de desenvolvimento, sempre manter em dia uma versão debug (para o mundo kernel mode, versões checked) para que os primeiros problemas, geralmente os mais bestinhas, sejam pegos de forma rápida e eficiente. No entanto, um bom desenvolvedor não se limita a depurar com código-fonte. Ele deve estar sempre preparado para enfrentar problemas de falta da versão certa, informação pela metade, situação não-reproduzível. Para isso que servem as ferramentas maravilhosas que podemos usar no dia a dia O IDA é mais uma das que deve estar sempre no cinto de utilidades do bom "debugador".
 
 #### // Comments
 
@@ -7677,7 +7677,7 @@ reg delete HKCU\Software\Microsoft\WinDbg
 
 Você pode gravar um tema, rodar o WinDbg (sem parâmetros), ver se gosta do que viu, e tentar novamente. Quando estiver satisfeito com a aparência, fique com ela e comece o próximo passo.
 
-Nas depurações do dia-a-dia algumas configurações devem estar sempre muito bem configuradas, para que torne seus momentos de desespero porque nada está funcionando mais agradáveis. Por isso, assim que escolher seu tema preferido trate de configurar os seguintes itens:
+Nas depurações do dia a dia algumas configurações devem estar sempre muito bem configuradas, para que torne seus momentos de desespero porque nada está funcionando mais agradáveis. Por isso, assim que escolher seu tema preferido trate de configurar os seguintes itens:
 
 - Diretórios de símbolos. Você pode começar com .symfix, que vai montar uma string padrão, e adicionar mais diretórios com .sympath+.
 
@@ -9029,7 +9029,7 @@ For me, the first version is enough. It is faster to type, simpler to catch and 
 
 Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama "The International Obfuscated C Code Contest" (IOCCC resumidamente) e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".
 
-Acredito que a real valia de um campeonato desse porte é fazer as pessoas pensarem mais a fundo sobre as regras da linguagem. Isso faz com que erros mais obscuros que encontramos no dia-a-dia se tornem mais fáceis. Claro que ninguém deveria programar como os caras desse torneio, mas a título de aprendizagem, é uma grande aula sobre C.
+Acredito que a real valia de um campeonato desse porte é fazer as pessoas pensarem mais a fundo sobre as regras da linguagem. Isso faz com que erros mais obscuros que encontramos no dia a dia se tornem mais fáceis. Claro que ninguém deveria programar como os caras desse torneio, mas a título de aprendizagem, é uma grande aula sobre C.
 
 Publico aqui a interpretação do primeiro programa a ganhar a tal "menção desonrosa", em 1984. Se trata do batidíssimo "Hello World", só que um pouco compactado e confuso. Vejamos o fonte original:
 
@@ -11092,7 +11092,7 @@ Uma organização mais esperta dos ambientes de teste e desenvolvimento tomaria 
 # Backup de pobre
 2008-03-28 computer blog
 
-Update de 2026-02-20. Mantive este artigo pelo seu tom histórico, mas hoje em dia com o advento de storage, processamento e memória infinitos, não preciso no meu dia-a-dia me preocupar com estes detalhes na hora de fazer cópias de segurança: simplesmente rodo o 7z e jogo tudo para outro storage. Apenas quando se trata de algo na nuvem mantenho em pastas menores, mas em geral não se trata de binários. No futuro devo pensar em algo mais cloud based para manter backup de binários que irão ser apagados da internet dependendo do seu uso (estou me referindo a mídias, também). Futuro artigo: como usar torrent caseiro.
+Update de 2026-02-20. Mantive este artigo pelo seu tom histórico, mas hoje em dia com o advento de storage, processamento e memória infinitos, não preciso no meu dia a dia me preocupar com estes detalhes na hora de fazer cópias de segurança: simplesmente rodo o 7z e jogo tudo para outro storage. Apenas quando se trata de algo na nuvem mantenho em pastas menores, mas em geral não se trata de binários. No futuro devo pensar em algo mais cloud based para manter backup de binários que irão ser apagados da internet dependendo do seu uso (estou me referindo a mídias, também). Futuro artigo: como usar torrent caseiro.
 
 Como tudo na vida, o backup -- ato de fazer cópia(s) de segurança de dados considerados importantes -- para se tornar efetivo e transformador deve antes se tornar um hábito.
 
@@ -11201,7 +11201,7 @@ Infelizmente cheguei um pouco atrasado por problemas de localização (me perdi 
 
 De uma maneira bem clara e direta, o palestrante nos mostrou como usar uma biblioteca de comunicação em redes feita de modo portável e extremamente antenada com o pensamento C++/STL de fazer as coisas. Partindo de um ponto de vista prático, deu dicas importantes para os iniciantes que desejarem começar a utilizá-la e passar mais facilmente pelo caminho das pedras que é aprender novas maneiras de fazer as mesmas coisas.
 
-Na verdade, foi além, pois ao exemplificar seu uso no código do dia-a-dia chegou a usar um projeto próprio com dezenas de CPPs e centenas (milhares?) de linhas de código utilizando 100% boost para a comunicação em rede, sendo compilável e rodável nos ambientes Windows e Linux.
+Na verdade, foi além, pois ao exemplificar seu uso no código do dia a dia chegou a usar um projeto próprio com dezenas de CPPs e centenas (milhares?) de linhas de código utilizando 100% boost para a comunicação em rede, sendo compilável e rodável nos ambientes Windows e Linux.
 
 ## Programação em C para microcontroladores (Daniel Quadros)
 
@@ -12606,7 +12606,7 @@ Para responder estas questões teremos uma bateria de palestras com temas que, d
 
 ## Dicas e Truques de Portabilidade por Wanderley Caloni
 
-O objetivo dessa palestra é focar nos problemas da vida real que enfrentamos no dia-a-dia para tornar um código portável ou mais maleável para um dia ser. Nesse caso existem vários assuntos a tratar, como: construções ambígüas não-padrão, isolamento de particularidades de cada sistema, identificação de problemas de portabilidade, organização do código-fonte portável, entre outros.
+O objetivo dessa palestra é focar nos problemas da vida real que enfrentamos no dia a dia para tornar um código portável ou mais maleável para um dia ser. Nesse caso existem vários assuntos a tratar, como: construções ambígüas não-padrão, isolamento de particularidades de cada sistema, identificação de problemas de portabilidade, organização do código-fonte portável, entre outros.
 
 O nível dessa palestra será o intermediário, porque eu preciso que o público tenha o conhecimento prévio de programação C e C++. Quando você está aprendendo, uma dica ou outra sobre portabilidade pode ser interessante para não ser desvirtuado desde o início. Porém, para realmente começar a programar multiplataforma, existem desafios que devem ser transpostos por aqueles que já conseguem um nível de organização e desenvolvimento em C e C++ que não deixa dúvidas sobre a qualidade do código.
 
@@ -13856,7 +13856,7 @@ Mais uma vez voltando à teoria, a palestra foca mais uma vez em bons princípio
 
 "Seminário Strauss"
 
-Como sempre, Strauss está apaixonado pelo Boost (e a STL). Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
+Como sempre, Strauss está apaixonado pelo Boost (e a STL). Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia a dia e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
 
 Entre as coisas mais importantes citadas, que todo programador do novo século deveria saber, estão:
 
@@ -14299,7 +14299,7 @@ Dê uma olhada também no "Mercurial", para ver qual dos dois cabe melhor no tip
 # Primeiro ano do novo Caloni.com.br
 2008-06-13 archive
 
-Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o meu dia-a-dia real.
+Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o meu dia a dia real.
 
 No dia 14 de junho de 2007 foram publicadas as "boas vindas", e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse jogo de xadrez tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de 130 artigos e 182 comentários dentro de 29 categorias.
 
@@ -14337,7 +14337,7 @@ No entanto, saber que o topo da lista é formado por buscas por "softice" não i
 
 Das novidades que aconteceram durante esse ano, a maior e mais interessante foi o renascimento do nosso grupo de C++, que talvez continue dessa vez a sua vida normal. Ou não. Esperemos que sim =)
 
-Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interessadas em C++ do que eu mesmo, até porque isso me dá muito mais tempo para escrever sobre outras coisas que não seja C++ que, admiro humildemente, não chego a usar 20% no meu dia-a-dia.
+Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interessadas em C++ do que eu mesmo, até porque isso me dá muito mais tempo para escrever sobre outras coisas que não seja C++ que, admiro humildemente, não chego a usar 20% no meu dia a dia
 
 
 # Como fazer merge de projetos distintos no Bazaar
@@ -14601,7 +14601,7 @@ Caloni,
 
 Bom truque, mas se entendi direito permite somente alterar o tamanho final da estrutura (e para um tamanho maior ou igual ao que o compilador geraria normalmente).
 
-No meu dia-a-dia a coisa costuma ser um pouco diferente. Normalmente uso structs para definir mensagens que precisam ser o mais curtas possíveis (portanto meu alinhamento preferido é 1) e são trocadas por equipamentos com processadores (e portanto compiladores) diferentes. Mais importante que o tamanho total, o posicionamento dos membros precisa ser o mesmo nas duas pontas. Felizmente, todos os compiladores que usei até hoje tem alguma forma de forçar o alinhamento; alguns defines e compilações condicionais resolvem o problema.
+No meu dia a dia a coisa costuma ser um pouco diferente. Normalmente uso structs para definir mensagens que precisam ser o mais curtas possíveis (portanto meu alinhamento preferido é 1) e são trocadas por equipamentos com processadores (e portanto compiladores) diferentes. Mais importante que o tamanho total, o posicionamento dos membros precisa ser o mesmo nas duas pontas. Felizmente, todos os compiladores que usei até hoje tem alguma forma de forçar o alinhamento; alguns defines e compilações condicionais resolvem o problema.
 
 PS: "pedaço de torta" ou "pedaço de bolo"? Ou, porque não, "mamão com açúcar"?
 
@@ -15687,7 +15687,7 @@ Nem sempre o handle que obtemos é fechado com CloseHandle. As funções abaixo 
 
 - BeginPaint: EndPaint
 
-Sempre tem mais exemplos. Algumas dicas úteis para o dia-a-dia de um programador Win32 API são:
+Sempre tem mais exemplos. Algumas dicas úteis para o dia a dia de um programador Win32 API são:
 
 - Leia a documentação;
 
@@ -17136,7 +17136,7 @@ Tudo começou com o "artigo de Roberto Farah" sobre o comando "escondido" do Win
 
 #### Comandos repetitivos
 
-E eu estava justamente falando sobre essa mania dos programadores sempre acharem soluções para tarefas repetitivas e monótonas que o computador possa fazer sozinho.O comando .cmdtree é uma dessas soluções, pois possibilita ao depurador profissional juntar em uma só guia o conjunto de comandos mais usados por ele no dia-a-dia, por mais bizarros e com mais parâmetros que eles sejam, já que é possível representá-los por um alias (apelido):
+E eu estava justamente falando sobre essa mania dos programadores sempre acharem soluções para tarefas repetitivas e monótonas que o computador possa fazer sozinho.O comando .cmdtree é uma dessas soluções, pois possibilita ao depurador profissional juntar em uma só guia o conjunto de comandos mais usados por ele no dia a dia por mais bizarros e com mais parâmetros que eles sejam, já que é possível representá-los por um alias (apelido):
 
 ```
 windbg ANSI Command Tree 1.0
@@ -17487,7 +17487,7 @@ Mas vou parar por aqui antes que alguém levante a bandeira e queira discursar a
 
 O fato é que acabamos subindo a rua novamente sem saber que tal de geração Y é essa que nos fez entrar na palestra errada. Como sempre, nada que uma boa "googada" não resolva.
 
-Parênteses. Descobri recentemente que os seguidores do outro lado agora inventaram um novo "termo": Windows-Live-procurada. Um de seus representantes, anteriormente um homem de respeito e opiniões fortes e imparciais, acredita este ser um termo de uso corrente no dia-a-dia.
+Parênteses. Descobri recentemente que os seguidores do outro lado agora inventaram um novo "termo": Windows-Live-procurada. Um de seus representantes, anteriormente um homem de respeito e opiniões fortes e imparciais, acredita este ser um termo de uso corrente no dia a dia
 
 Pelo que pudemos encontrar, a tal da geração Y somos nós mesmo. Que espanto! E eu pensei que estávamos falando de uma raça alienígena ou algo assim. Talvez até seja, mas temos todos os genes da espécie humana.
 
@@ -17647,7 +17647,7 @@ Amazing! 0_0
 
 Estava folheando um livro fenomenal que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções no mínimo curiosas. O exemplar em questão era o primeiro Windows Internals, publicado após o lançamento da primeira versão do Windows NT, uma plataforma escrita (quase) inteiramente do zero para suplantar as versões 9x (Windows 95 e 98), que herdaram do DOS algumas partes indesejáveis em sistemas operacionais modernos.
 
-Sabe-se lá por que essa edição foi traduzida. É interessante notar que naquela época foi dado um tratamento especial a alguns termos e conceitos já comuns no dia-a-dia do programador americano, apesar de quase nenhum desses termos ter se mantido em sua versão original. Os exemplos mais gritantes são as threads (fios ou linhas), os dead locks (bloqueios da morte) e os handles (alças). Apesar de não ter nada contra traduzir termos do inglês para português (e vice-versa) algumas coisas incomodam em tradução de livros técnicos.
+Sabe-se lá por que essa edição foi traduzida. É interessante notar que naquela época foi dado um tratamento especial a alguns termos e conceitos já comuns no dia a dia do programador americano, apesar de quase nenhum desses termos ter se mantido em sua versão original. Os exemplos mais gritantes são as threads (fios ou linhas), os dead locks (bloqueios da morte) e os handles (alças). Apesar de não ter nada contra traduzir termos do inglês para português (e vice-versa) algumas coisas incomodam em tradução de livros técnicos.
 
 Um bom exemplo são ponteiros. Ler em um dado capítulo "(...) é muito importante inicializar seus ponteiros antes de usá-los" para, depois de nos acostumarmos com o termo, ler em outro capítulo "(...) sabe-se que a pior desgraça para um programador C são os famigerados apontadores selvagens". Você resolveria esse tipo de problema definindo um vocabulário em comum com todo o livro (importantíssimo se ele está sendo traduzido por mais de uma pessoa) e ainda informaria o leitor qual o termo original, caso ele precise pesquisar sobre ele fora do livro. Com essa informação, que pode ser usada apenas nos primeiros usos da palavra ou em um glossário à parte, agradaria gregos e troianos: "os ponteiros em C (pointers) são um recurso rico e necessário para a escrita de programas de baixo/médio nível".
 
@@ -17715,7 +17715,7 @@ Também faltou citar o interessantístimo "gabarito" (template) na tradução do
 
 Olá, Sergio.
 
-De fato, no meu dia-a-dia proclamo e reclamo sobre tudo em inglês, gastando todos os termos possíveis e imagináveis. Nem parece uma afirmação de alguém que tenta zelar pelo excesso de estrangeirismos nos artigos deste humilde blogue =)
+De fato, no meu dia a dia proclamo e reclamo sobre tudo em inglês, gastando todos os termos possíveis e imagináveis. Nem parece uma afirmação de alguém que tenta zelar pelo excesso de estrangeirismos nos artigos deste humilde blogue =)
 
 []s
 
@@ -18158,7 +18158,7 @@ Não, não posso. Isso seria infringir os direitos de copyright do produto Houai
 
 Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da SCUA, aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como variáveis, até as coisas não tão triviais, como símbolos de depuração.
 
-Posso afirmar que tem sido muito compensador ativar algumas partes do meu cérebro que acreditava nem mais existirem. Rever velhos conceitos, apesar de manjados, nos dá a oportunidade de lembrar que as coisas mais complexas que construímos no dia-a-dia se baseiam em um punhado de preceitos básicos que é essencial ter na cabeça. E nunca esquecê-los.
+Posso afirmar que tem sido muito compensador ativar algumas partes do meu cérebro que acreditava nem mais existirem. Rever velhos conceitos, apesar de manjados, nos dá a oportunidade de lembrar que as coisas mais complexas que construímos no dia a dia se baseiam em um punhado de preceitos básicos que é essencial ter na cabeça. E nunca esquecê-los.
 
 Meu amigo costuma chamar esses preceitos básicos de fundamentais. Isso por um bom motivo lógico e semântico: tudo que aprendemos de básico sobre qualquer área de conhecimento serve-nos de base para suportar as outras coisas que virão a ser entendidas na mesma área de conhecimento. Ou seja: é a parte mais importante a ser aprendida. Sem ela, a base, não nos é possível construir nada sólido e duradouro. Sem ela, toda a estrutura construída a posteriori se rompe e vai abaixo.
 
@@ -18272,7 +18272,7 @@ Através da nossa já conhecida tabela ASCII! Na verdade, números são armazena
 
 A técnica de representação pode guardar qualquer coisa na memória como números que serão traduzidos por algum programa que consiga abrir aqueles dados. Dessa forma podemos não só armazenar texto, como imagens, vídeos, páginas web e até mesmo os próprios programas que os abrem!
 
-Na programação do dia-a-dia, as coisas funcionam da mesma forma. As tão faladas variáveis reservam um espaço de memória para guardar alguma coisa, mas só sabemos o que essa alguma coisa é através do tipo da variável:
+Na programação do dia a dia as coisas funcionam da mesma forma. As tão faladas variáveis reservam um espaço de memória para guardar alguma coisa, mas só sabemos o que essa alguma coisa é através do tipo da variável:
 
 ```
 // a variável idade (espaço de memória)
@@ -18385,7 +18385,7 @@ O "segredo" do valor posicional também está na base, pois o zero, apesar de n�
 
 #### Contando em binário?
 
-Como não faz parte do tema, não vou explicar como o sistema binário foi importante para a definição de uma arquitetura simples o suficiente para ser expandida a níveis nunca antes imaginados de processamento e comprimida em espaços que muitos diriam não caber qualquer coisa de útil que fosse. No entanto, apesar de brilhante, o binário no dia-a-dia do programador gera alguns problemas. Principalmente se o programador escreve seus cálculos de ponteiros em binário.
+Como não faz parte do tema, não vou explicar como o sistema binário foi importante para a definição de uma arquitetura simples o suficiente para ser expandida a níveis nunca antes imaginados de processamento e comprimida em espaços que muitos diriam não caber qualquer coisa de útil que fosse. No entanto, apesar de brilhante, o binário no dia a dia do programador gera alguns problemas. Principalmente se o programador escreve seus cálculos de ponteiros em binário.
 
 Para entender isso, basta lembrar que, atualmente, a quantidade de memória RAM que é contada e, portanto, valor dos ponteiros que apontam para ela, é muito grande até para nosso sistema decimal, que possui, relembrando, dez símbolos. O que dirá, então, um sistema que possui meros dois símbolos para representar, digamos, três gigabytes:
 
@@ -20649,7 +20649,7 @@ Passei mais seis meses de curso com ela e com alguns textos que ia baixando da i
 
 No meio do caminho um amigo meu achou o podcast Spoonful of Russian, o que foi uma diversão só, especialmente pelo conhecimento cultural e musical do povo russo. Minha amiga também me enviou alguns CDs de bandas russas famosas, e fiquei especialmente encantando com Ivan Kupala, que até hoje escuto. Se trata de uma banda que pegou músicas do folclore russo e adaptou para os tempos atuais, mas cantado ainda por velhinhas e velhinhos que aparentemente parecem ter saído de uma aldeia dos Montes Urais.
 
-O cinema e a BBC russa também representaram um instrumento de aprimoramento do listening do dia-a-dia. Uma coisa é escutar um russo falando devagar durante uma aula de declinação do futuro por aspecto. Outra coisa é ver alguém usando isso enquanto atravessa a rua conversando com um amigo no meio do barulho da cidade grande, ou uma mulher que mais parece uma metralhadora disparando 500 notícias de uma vez no podcast de um jornal da internet.
+O cinema e a BBC russa também representaram um instrumento de aprimoramento do listening do dia a dia Uma coisa é escutar um russo falando devagar durante uma aula de declinação do futuro por aspecto. Outra coisa é ver alguém usando isso enquanto atravessa a rua conversando com um amigo no meio do barulho da cidade grande, ou uma mulher que mais parece uma metralhadora disparando 500 notícias de uma vez no podcast de um jornal da internet.
 
 Infelizmente, essa fase esmaeceu. Agora estou muito interessado em finanças e isso fez com que o russo ficasse cada vez mais para trás. Se me pedir hoje para falar algo em russo vou conseguir apenas balbuciar as mais "comunzinhas", pois esqueci todo o resto. Foi perda de tempo? Claro que não! Foi uma experiência que mostra que podemos aprender qualquer coisa a qualquer hora, independente do quão estranho ou bizarro isso seja.
 
@@ -21042,7 +21042,7 @@ qrevert              Revert changes files. [qbzr]
 qtag                 Edit tags. [qbzr]
 ```
 
-Os que eu mais uso no dia-a-dia são:
+Os que eu mais uso no dia a dia são:
 
 #### qlog e qbrowse
 
@@ -21075,7 +21075,7 @@ Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Ex
 
 O próximo artigo sobre escovação de bits ainda está no forno. Tirar férias (de 40 dias) é uma escassez de ideias! No momento, posso explicar a facilidade que tive para continuar usando o TodoList para gerenciar minha equipe e ainda assim sincronizar nossas tarefas em um cronograma do Microsoft Project.
 
-As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso para organizar minhas tarefas do dia-a-dia e é portátil. Enquanto isso, o Project, além de não ser portátil (eu preciso levar comigo o instalador de 200 MB? E Instalar?) possui um formato difícil de mudar, já que foi feito para projetar o mundo e não para ser compartilhado facilmente.
+As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso para organizar minhas tarefas do dia a dia e é portátil. Enquanto isso, o Project, além de não ser portátil (eu preciso levar comigo o instalador de 200 MB? E Instalar?) possui um formato difícil de mudar, já que foi feito para projetar o mundo e não para ser compartilhado facilmente.
 
 Mas vamos lá. Tudo que precisamos é de uma edição atual do TodoList e do Microsoft Project. A primeira coisa que devemos fazer é exportar as tarefas que queremos do TodoList para um CSV padrão, usando as colunas que gostaríamos de importar para o Project.
 
@@ -21330,7 +21330,7 @@ Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emoc
 
 Mary (Toni Collette), uma menina da Austrália, começa a se comunicar ao acaso através de cartas com Max (Philip Seymour Hoffman), um senhor de meia-idade de Nova York. Habitantes cada um do seu mundinho particular e distante, suas cores não se misturam, suas músicas possuem diferentes tons, suas idades são incompatíveis (o futuro de Mary é do mesmo tamanho que o passado de Max). Mesmo assim há algo que os une e a todos nós de uma maneira indissociável e misteriosa: a solidão, e uma fascinante melancolia que torna tudo triste à sua volta.
 
-Presos ou na infância lúdica e suas dúvidas e descobertas, ou na velhice autista e seus pequenos desafios do dia-a-dia, as confissões entre esses dois seres tão díspares flui de uma maneira admirável graças à direção precisa de Adam Elliot que com a ajuda de seu montador Bill Murphy combinam luz (Gerald Thompson), som (Dale Cornelius) e uma arte (Craig Fison) em "stop motion" em sincronia com os sentimentos dos seus personagens, que florescem em torno de uma narração onisciente (Barry Humphries) que lê as tais cartas de uma forma empolgante, quase como se conhecesse a fundo cada uma dessas almas separadamente e fizesse de tudo para juntá-las em assuntos comuns. O mais maravilhoso é perceber como até assuntos corriqueiros (como o nascimento dos bebês) se tornam fascinantes nas mãos do hábil roteirista que sintetiza tudo que eles escrevem de uma maneira surpreendentemente orgânica e trivial, mas que mantém uma profundidade digna dos diálogos de "Antes do Amanhecer" e suas continuações.
+Presos ou na infância lúdica e suas dúvidas e descobertas, ou na velhice autista e seus pequenos desafios do dia a dia as confissões entre esses dois seres tão díspares flui de uma maneira admirável graças à direção precisa de Adam Elliot que com a ajuda de seu montador Bill Murphy combinam luz (Gerald Thompson), som (Dale Cornelius) e uma arte (Craig Fison) em "stop motion" em sincronia com os sentimentos dos seus personagens, que florescem em torno de uma narração onisciente (Barry Humphries) que lê as tais cartas de uma forma empolgante, quase como se conhecesse a fundo cada uma dessas almas separadamente e fizesse de tudo para juntá-las em assuntos comuns. O mais maravilhoso é perceber como até assuntos corriqueiros (como o nascimento dos bebês) se tornam fascinantes nas mãos do hábil roteirista que sintetiza tudo que eles escrevem de uma maneira surpreendentemente orgânica e trivial, mas que mantém uma profundidade digna dos diálogos de "Antes do Amanhecer" e suas continuações.
 
 Porém, fora a descrição contemplativa, a versão animada da imaginação de ambos é uma diversão à parte, assim como os estranhos seres, animais e humanos, que permeiam a vida dos dois. Além disso, essa não é uma história estática que foca no passado, pois temos o privilégio de acompanhar o crescimento e amadurecimento de Mary, que vai aos poucos sentindo o peso da vida. O que a mantém em movimento em vários momentos é sua amizade com Max. A recíproca é verdadeira, e conseguimos captar através de uma comédia leve que consegue tornar a morte frequente de seus peixes de estimação como uma gag tão eficiente pelas risadas quanto significativa pelo que simboliza, que o velho Max está tão perdido quanto Mary, mas que graças ao seu suporte tenta melhorar de sua doença, nem que seja um pouco a cada dia.
 
@@ -21341,7 +21341,7 @@ O que nos leva ao impecável terceiro ato, que depois de nos conquistar completa
 
 A "API do Windows" geralmente prima pela excelência em maus exemplos. A "Notação Húngara" e o Typedef Arcaico são duas técnicas que, por motivos históricos, são usados a torto e a direito pelos códigos de exemplo.
 
-Já foi escrito muita coisa sobre os prós e contras da notação húngara. Já o typedef arcaico, esse pedacinho imprestável de código, ficou esquecido, e hoje em dia traz mais dúvidas na cabeça dos principiantes em C++ do que deveria. Para tentar desobscurecer os mitos e fatos, vamos tentar explicar o que significa essa construção tão atípica, mas comum no dia-a-dia.
+Já foi escrito muita coisa sobre os prós e contras da notação húngara. Já o typedef arcaico, esse pedacinho imprestável de código, ficou esquecido, e hoje em dia traz mais dúvidas na cabeça dos principiantes em C++ do que deveria. Para tentar desobscurecer os mitos e fatos, vamos tentar explicar o que significa essa construção tão atípica, mas comum no dia a dia
 
 Vejamos um exemplo típico desse pequeno Frankenstein semântico:
 
@@ -22625,7 +22625,7 @@ Se sua obsessão por sangue é meramente estética, sexual ou sádica, esse é s
 # Padrões em análise de dumps
 2010-08-16 computer
 
-Vamos dar uma olhada em certos padrões de crash dump e stacks muito comuns no dia-a-dia.
+Vamos dar uma olhada em certos padrões de crash dump e stacks muito comuns no dia a dia
 
 Stack Trash:
 
@@ -23390,9 +23390,9 @@ Começamos essa história sobre um jogador de vídeo-games profissional dentro d
 # Então você ainda não usa controle de fonte?
 2010-11-02 computer archive
 
-Graças aos antigos "SCMs", muitos programadores hoje em dia evitam ter que configurar um controle de fonte mínimo para seus projetos. E por um bom motivo: temos que programar e resolver problemas reais no dia-a-dia e não ficar configurando servidores de controle de fonte e lidando com conflitos na calada da noite. Isso vale tanto para o pessoal do Windows e o seu Visual Source Safe (eu que o diga) quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
+Graças aos antigos "SCMs", muitos programadores hoje em dia evitam ter que configurar um controle de fonte mínimo para seus projetos. E por um bom motivo: temos que programar e resolver problemas reais no dia a dia e não ficar configurando servidores de controle de fonte e lidando com conflitos na calada da noite. Isso vale tanto para o pessoal do Windows e o seu Visual Source Safe (eu que o diga) quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
 
-Não há nada de errado nisso. Projetos robustos com uma equipe moderada ¿ 5 a 10 programadores ¿ precisam desse tipo de organização, e tornam a resolução dos problemas do dia-a-dia mais problemática sem esse controle. A questão reside para o programador solitário ou a equipe minúscula ¿ 2 a 4 programadores. Esses geralmente questionam o custo-benefício de terem o trabalho de configurar e manter mais um sistema. Além disso, isso implica em uma mudança de grandes proporções em cada membro da equipe: uma mudança cultural.
+Não há nada de errado nisso. Projetos robustos com uma equipe moderada ¿ 5 a 10 programadores ¿ precisam desse tipo de organização, e tornam a resolução dos problemas do dia a dia mais problemática sem esse controle. A questão reside para o programador solitário ou a equipe minúscula ¿ 2 a 4 programadores. Esses geralmente questionam o custo-benefício de terem o trabalho de configurar e manter mais um sistema. Além disso, isso implica em uma mudança de grandes proporções em cada membro da equipe: uma mudança cultural.
 
 Portanto, a primeira decisão que deve ser tomada pelo programador que quer mudar as coisas é instalar um controle de fonte moderno para seus projetos caseiros. Quando digo moderno, digo "distribuído".Distribuído porque 1) é possível começar desde já com três comandos simples, 2) quando alguém copia a pasta do projeto está levando todo o histórico junto e 3) pastas duplicadas são branches distintos que podem interagir no futuro.
 
@@ -23400,7 +23400,7 @@ Os três comandos simples não são nada do outro mundo: criar o repositório, a
 
 Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o que tinha pra modificar, então mande tudo que tenho de novo para o controle".
 
-Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que "uso no dia-a-dia" com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta "baixá-lo", next next e finish.
+Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que "uso no dia a dia com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta "baixá-lo", next next e finish.
 
 "Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando."
 
@@ -24798,7 +24798,7 @@ Mas não só de males invisíveis o filme é feito. Com diálogos razos que apen
 # Mudança
 2011-02-07 computer blog
 
-Nota do futuro (2026-03-13). Vejo que esta mudança de segurança da informação para mercado financeiro me trouxe uma folga necessária para me dedicar também aos estudos sobre cinema, o que irá se revelar daqui pra frente com posts mais frequentes sobre sétima arte e posts menos frequentes sobre meu trabalho no dia-a-dia. Se você chegou até aqui meu muito obrigado. Espero continuar a organizar meus insights técnicos em índices simples para você acompanhar artigos com foco em algo específico que tenha em mente, como debugging, reversing ou, quem sabe, cinema mesmo, do ponto de vista de um programador das antigas.
+Nota do futuro (2026-03-13). Vejo que esta mudança de segurança da informação para mercado financeiro me trouxe uma folga necessária para me dedicar também aos estudos sobre cinema, o que irá se revelar daqui pra frente com posts mais frequentes sobre sétima arte e posts menos frequentes sobre meu trabalho no dia a dia Se você chegou até aqui meu muito obrigado. Espero continuar a organizar meus insights técnicos em índices simples para você acompanhar artigos com foco em algo específico que tenha em mente, como debugging, reversing ou, quem sabe, cinema mesmo, do ponto de vista de um programador das antigas.
 
 #### Fecha uma porta...
 
@@ -24893,12 +24893,12 @@ Ponto forte: Angeline Jolie.
 
 Personagem carismática, a professora de primário Poppy faz de tudo para fazer as outras pessoas felizes e faz todo o tipo de piada e gracinha porque ela mesma deseja estar feliz o tempo todo. Morando aos 30 anos com uma amiga de longa data, ela renega os padrões convencionais que determinam o que seria uma vida feliz: casar, ter filhos, etc. Mais importante do que isso é tentar sempre melhorar o dia, nem que isso custe se aventurar pela discrição e mau humor das pessoas londrinas.
 
-Aparentemente, a ideia do longa era passar o valor de toda essa felicidade através da carismática Sally Hawkins, que aqui constrói uma personagem simpática no sentido mais literal do termo. Porém, nem só de boas intenções vive um filme, e a narrativa, apesar de muito frutífera em combinações de história e construção do ritmo do dia-a-dia de Poppy, se esvai por falta de alguma motivação mais palpável ou até de algum conflito que estabeleça algo para onde o espectador deva olhar.
+Aparentemente, a ideia do longa era passar o valor de toda essa felicidade através da carismática Sally Hawkins, que aqui constrói uma personagem simpática no sentido mais literal do termo. Porém, nem só de boas intenções vive um filme, e a narrativa, apesar de muito frutífera em combinações de história e construção do ritmo do dia a dia de Poppy, se esvai por falta de alguma motivação mais palpável ou até de algum conflito que estabeleça algo para onde o espectador deva olhar.
 
 # 127 Horas (Danny Boyle, 2010)
 2011-02-23 cinema movies
 
-Com uma introdução em tela cortada em três partes, mostrando diversos cenários que evocam o dia-a-dia das pessoas e, principalmente, a correria dessas pessoas para quem o tempo é um bem cada vez mais escasso, o novo longa de Danny Boyle (Quem Quer Ser Um Milionário?) nos apresenta Aaron, sem muita distinção do resto da multidão. Na verdade, ele não é muito diferente de nenhum de nós.
+Com uma introdução em tela cortada em três partes, mostrando diversos cenários que evocam o dia a dia das pessoas e, principalmente, a correria dessas pessoas para quem o tempo é um bem cada vez mais escasso, o novo longa de Danny Boyle (Quem Quer Ser Um Milionário?) nos apresenta Aaron, sem muita distinção do resto da multidão. Na verdade, ele não é muito diferente de nenhum de nós.
 
 Nos fins de semana, Aaron se diverte indo para ambientes desérticos para fazer "canyon biking" e escaladas. Em sua viagem que vemos no filme, ele conhece duas garotas pelo caminho, e juntos se divertem caindo em um lago subterrâneo. Logo depois ele prossegue sua caminhada sozinho por um tempo, escorrega em uma rocha e... acaba tendo seu braço esmagado por essa mesma rocha, ficando preso em um lugar isolado de tudo e de todos.
 
@@ -26029,7 +26029,7 @@ O que tristemente constatamos é que o roteiro prefere usar sua única premissa-
 # Trilha de C++ organizada pelo grupo C/C++ Brasil
 2011-06-10 ccppbr archive
 
-Sim, nós temos C++! Apesar de ser uma linguagem dita ultrapassada pelos brazucas, o TDC desse ano terá uma trilha de C++ disponível para todo tipo de público que aprecia ou precisa dos poderes de C++ em seu dia-a-dia.
+Sim, nós temos C++! Apesar de ser uma linguagem dita ultrapassada pelos brazucas, o TDC desse ano terá uma trilha de C++ disponível para todo tipo de público que aprecia ou precisa dos poderes de C++ em seu dia a dia
 
 O evento será organizado (do lado C++) pelos nossos habituais organizadores dos eventos do grupo Alberto Fabiano e Rodrigo Strauss, o que é um ótimo sinal, pois, geralmente, ter o nome C++ associado a alguém que nunca compilou um código na vida não é algo que atraia um conteúdo de qualidade.
 
@@ -26834,7 +26834,7 @@ Como eu disse, todos "sonham", mas nunca irão realizar as façanhas de Gibbons 
 
 Porém, de maneira inteligente, o roteiro cria os personagens estereotipados e os acompanha para a conclusão de cada um (ou dos mais importantes). Isso, por outro lado, tem a clara desvantagem de colocar constantemente a situação de Gibbons para segundo plano em várias cenas, o que gera um efeito de filme mutilado, embora sempre divertido.
 
-Com um final menor, que resolve de maneira muito maniqueísta um dilema apresentado já no terceiro ato, Office Space ganha atenção mesmo pela remontagem de um ambiente de trabalho que, infelizmente, muitos de nós vive seu dia-a-dia.
+Com um final menor, que resolve de maneira muito maniqueísta um dilema apresentado já no terceiro ato, Office Space ganha atenção mesmo pela remontagem de um ambiente de trabalho que, infelizmente, muitos de nós vive seu dia a dia
 
 # Mulher Nota Mil (John Hughes, 1985)
 2011-08-22 cinema movies
@@ -27162,7 +27162,7 @@ Só que o lugar onde Baubou realmente está se mostra frio e inóspito, não só
 
 Diante das dificuldades que ela precisa passar em seu novo emprego e sabendo que foi rejeitada pela filha, fica impossível não nutrir uma simpatia incondicional pelos esforços da protagonista para se firmar em seu novo habitat. Esforços esses que ocorrem de maneira completamente natural, mas que possuem o objetivo oculto de conseguir a filha de volta nos olhos da interpretação admirável de Isabelle Huppert, que não demonstra exageros em um personagem que poderia facilmente cair no ridículo, mas que ao invés disso termina por soar tão realista e presente de corpo e alma que aos poucos o resto das pessoas, incluindo sua própria filha, é que parecem inertes e alheias à vida.
 
-O mais interessante é que nós mesmos, como espectadores, enquanto torcemos por ela, sabemos dos enormes riscos que ela corre de tudo não dar certo. E por isso mesmo suas ações parecem tão importantes, pois estabelecem essa nossa vontade de ter sucesso em nossas próprias ações do dia-a-dia, independente das dificuldades. A escolha da trilha sonora, adequadadamente acidental e que evoca a mentira da filha com compilações de MPB, não serve para as pessoas e o ambiente onde vive, e são fruto apenas da visão que a própria Baubou possui de sua realidade: uma visão muito mais otimista e alegre do que muitas pessoas gostariam de ter, mas que se escondem nas mesmas convenções que a sua filha tanto almeja.
+O mais interessante é que nós mesmos, como espectadores, enquanto torcemos por ela, sabemos dos enormes riscos que ela corre de tudo não dar certo. E por isso mesmo suas ações parecem tão importantes, pois estabelecem essa nossa vontade de ter sucesso em nossas próprias ações do dia a dia independente das dificuldades. A escolha da trilha sonora, adequadadamente acidental e que evoca a mentira da filha com compilações de MPB, não serve para as pessoas e o ambiente onde vive, e são fruto apenas da visão que a própria Baubou possui de sua realidade: uma visão muito mais otimista e alegre do que muitas pessoas gostariam de ter, mas que se escondem nas mesmas convenções que a sua filha tanto almeja.
 
 Por isso mesmo é que seus triunfos possuem um gostinho de rebeldia delicioso, que cativa o público facilmente. E exatamente por acreditarmos em Baubou é que seu final inusitado não parece nem de longe inverossímil, mas sim é o complemento necessário da grande ideia para o filme: não sabemos o futuro, esse futuro que parece tão sombrio e tenebroso para muitas pessoas. Porém, independente disso, podemos apostar com todas nossas fichas, se acreditarmos de verdade em nós mesmos.
 
@@ -27189,7 +27189,7 @@ No meu estilo de leitura circular, adaptada do brilhante (maluco?) método de Dm
 
 Personally I have never believed that it is possible to be a good coder without being a good programmer nor a good programmer without being a good designer, communicator, and thinker. (...) Start converting it into the bad one until it stops working. That's primary tool of reverse engineering. (...) Your competitor's six-month 1.0 has crap code and they're going to have to rewrite it in two years but, guess what: they can rewrite it because you don't have a job anymore. (...) The design process is definitely an ongoing thing; you never know what the design is until the program is done. So I prefer to get my feet wet as early as possible; get something on the screen so I can look at it sideways.(...) I've noticed that one thing that separates good programmers from bad programmers is that good programmers are more facile at jumping between layers of abstraction they can keep the layers distinct while making changes and choose the right layer to make changes in. (...) I think one of the most important things, for me anyway, when building something from the ground up like that is, as quickly as possible, getting the program to a state that you, the programmer, can use it. Even a little bit. Because that tells you where to go next in a really visceral way. (...) I don't want to be a mathematician but I'm not going to criticize someone who is a mathematician. It's weird that people often confuse those two pursuits. People who are into very theoretical computer science are thought of in this same way as people who are shipping desktop applications. And they don't really have a lot to do with each other. (...) Then there was another book that everybody thought was the greatest thing ever in that same period'Design Patterns'which I just thought was crap. It was just like, programming via cut and paste. Rather than thinking through your task you looked through the recipe book and found something that maybe, kinda, sorta felt like it, and then just aped it. That's not programming; that's a coloring book.
 
-De certa forma, o mesmo pragmatismo pode ser observado em Douglas Crockford, que utiliza o método de leitura de código tanto na entrevista por candidatos ("traga-me o código que tem orgulho de ter escrito e explique-o pra mim") quanto no dia-a-dia do projeto, para que todos entendam e aproveitem a evolução do projeto como um todo, além de constituir, na minha visão, uma das melhores dicas de auto-management que uma equipe de programadores poderia ter.
+De certa forma, o mesmo pragmatismo pode ser observado em Douglas Crockford, que utiliza o método de leitura de código tanto na entrevista por candidatos ("traga-me o código que tem orgulho de ter escrito e explique-o pra mim") quanto no dia a dia do projeto, para que todos entendam e aproveitem a evolução do projeto como um todo, além de constituir, na minha visão, uma das melhores dicas de auto-management que uma equipe de programadores poderia ter.
 
 One of the things I've been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other'spend time on a regular basis reading each other's code. There's a tendency in project management just to let the programmers go off independently and then we have the big merge and then we have the big merge and if it builds then we ship it and we're done and we forget about it. One of the consequences of that is that if you have weak or confused programmers you're not aware of their actual situation until much too late. And so the risks to the project, that you're that you're going to have to build with stuff that's bad and the delays that that causes, that's unacceptable. The other thing is that you may have brilliant programmers on the project who are not adequately mentoring the other people on the team. Code reading solves both of those problems.
 
@@ -27199,7 +27199,7 @@ So if you don't clean up every seventh cycle you may be faced with the choice of
 
 Generally the team knows when it's time. Management finds out a lot later. The team is getting beat up pretty regularly, making too bugs; the code's too big, it's too slow; we're falling behind. They know why. It's not because they became stupider or lazier. It's because the code base is no longer serving the purpose that it needs to.
 
-Esse pequeno trecho da entrevista de Brendan Eich, de Coders at Work, revela parte das frustações que os programadores de linha de frente sofrem com os ambientes de depuração, muitas vezes aquém dos desafios atuais. Sinceramente, não sinto isso em meu dia-a-dia, e acho o Visual Studio um excelente depurador com interface (mas que perde feio para o WinDbg em casos mais hardcore). Porém, fica a percepção curiosa do criador do JavaScript.
+Esse pequeno trecho da entrevista de Brendan Eich, de Coders at Work, revela parte das frustações que os programadores de linha de frente sofrem com os ambientes de depuração, muitas vezes aquém dos desafios atuais. Sinceramente, não sinto isso em meu dia a dia e acho o Visual Studio um excelente depurador com interface (mas que perde feio para o WinDbg em casos mais hardcore). Porém, fica a percepção curiosa do criador do JavaScript.
 
 Proofs are hard. Most people are lazy. Larry Wall is right. Laziness should be a virtue. So that's why I prefer automation. Proofs are something that academics love and most programmers hate." - Brendan Eic
 
@@ -28343,7 +28343,7 @@ E você, já pensou sobre isso?
 
 Tomboy de início possui uma inusitada premissa: narrar a vida e as dificuldades de Laure, uma garota que, andrógina, possui a aparência de menino. Focando-se nisso de maneira sutil, ainda que nos deixe perceber as intenções e pensamentos da jovem Laure, ainda que sem diálogos, o filme faz questão de sempre nos fornecer aconchego externo, de forma que nunca nos sentimos realmente desamparados pela condição da garota, que possui pais compreensivos e atenciosos, além de uma adorável irmã mais nova.
 
-Nos mostramos naturalmente curiosos pelo seu dia-a-dia e, em maior grau, tensos, pois ela decide se fingir de menino para os garotos da vizinhança, o que a coloca em diversas situações onde seu disfarce poderia ser descoberto. Sabemos que ela é tímida (talvez pela sua condição) e sensível, mas ao mesmo tempo flexível. Isso, porém, sem muitos diálogos, pois ela evita falar. No entanto, a direção competente de Céline Sciamma (que também assina o roteiro) consegue nos fazer pensar através de Laure, o que praticamente serve de cumplicidade silenciosa com o espectador. Além do mais, a participação adorável de sua irmã Jeanne faz um contrapeso necessário.
+Nos mostramos naturalmente curiosos pelo seu dia a dia e, em maior grau, tensos, pois ela decide se fingir de menino para os garotos da vizinhança, o que a coloca em diversas situações onde seu disfarce poderia ser descoberto. Sabemos que ela é tímida (talvez pela sua condição) e sensível, mas ao mesmo tempo flexível. Isso, porém, sem muitos diálogos, pois ela evita falar. No entanto, a direção competente de Céline Sciamma (que também assina o roteiro) consegue nos fazer pensar através de Laure, o que praticamente serve de cumplicidade silenciosa com o espectador. Além do mais, a participação adorável de sua irmã Jeanne faz um contrapeso necessário.
 
 Nunca impressionando ou indo fundo demais nos questionamentos filosóficos da história, a abordagem água-com-açúcar pelo menos consegue transpor a realidade da menina e nos mostrar, ainda que sutilmente, como é difícil em nossa sociedade nos lançarmos a sermos nós mesmo e impedir que a pressão da maioria exerça uma maior influência sobre nossa personalidade. Se essa for a maior lição que Tomboy consegue extrair, já seria, de longe, algo interessante de se pensar a respeito.
 
@@ -29603,7 +29603,7 @@ Nesse clima de tudo é possível nasce uma bela metáfora sobre a infância, os 
 # Namorados para Sempre
 2012-06-09 cinema movies
 
-O relacionamento entre Dean e Cindy mostrado pelas lentes de Derek Cianfrance oscila entre o peso da rotina do dia-a-dia e a leveza de quando se conheceram, tudo mais ou menos se equilibrando em um retrato intimista e não-romantizado de como é a relação de qualquer casal na vida real.
+O relacionamento entre Dean e Cindy mostrado pelas lentes de Derek Cianfrance oscila entre o peso da rotina do dia a dia e a leveza de quando se conheceram, tudo mais ou menos se equilibrando em um retrato intimista e não-romantizado de como é a relação de qualquer casal na vida real.
 
 Uma fotografia triste, voltada para o azul e a falta de cores quentes, aliada com movimentos de câmera praticamente em close, privilegiam as expressões dos personagens diante de cada episódio de suas vidas e faz com que as atuações de peso de Ryan Gosling ("Drive") e Michelle Williams (Sete Dias com Marylin) se sobressaiam ainda mais, nos levando a conhecê-los em suas expressões e diálogos minimalistas e ao mesmo tempo significativos. No fundo, o que esses dois fazem quase todo o tempo é nos fazer crer que aquele casal, apesar dos percalços que a vida geralmente coloca na nossa frente, fazem o melhor de si para levar suas histórias adiante.
 
@@ -29619,7 +29619,7 @@ PS: Mais uma vez as distribuidoras brasileiras pisam feio na bola ao nomear esse
 # Novos Atalhos Aprendidos no Vim
 2012-06-09 computer
 
-Sempre é bom reler as referências e tentar melhorar o que já está bom. No momento minha inspiração é o excelente Vim: From Essentials to Mastery, uma coleção de slides bem-humorada que a cada releitura fornece dicas importantes para aprimorar o dia-a-dia com um dos editores mais poderosos do planeta.
+Sempre é bom reler as referências e tentar melhorar o que já está bom. No momento minha inspiração é o excelente Vim: From Essentials to Mastery, uma coleção de slides bem-humorada que a cada releitura fornece dicas importantes para aprimorar o dia a dia com um dos editores mais poderosos do planeta.
 
 A lista abaixo é pessoal e, como disse Bram Moolenar, "You should not try to learn every command an editor offers. That would be a complete waste of time. Most people only need to learn 10 to 20 percent of the commands for their work. But it's a different set of commands for everybody" (grifo meu).
 
@@ -30853,7 +30853,7 @@ Quando a professora James (Amy Adams), a parte "inocente" da história, encontra
 
 Ora, essa sabedoria sem provas sempre foi a base de toda a fé cristã, e tem norteado papas e toda sua hierarquia abaixo para julgar o que é certo. E é aí que encontra-se o ponto mais forte da discussão aberta pelo filme: uma possível atualização da igreja católica envolveria a congregação a assumir sua própria ignorância perante fatos da vida real, deixando-se intrometer apenas nas questões de âmbito estritamente moral?
 
-Embora seja um tema complexo e aberto a diversas interpretações e lados, o texto de Patric Shanley não se intimida, provocando e ao mesmo tempo sendo honesto o tempo todo para ambos os lados. O que está em julgamento não é a igreja católica, mas nossa fé e razão, a bondade pela humanidade inerente ao ser humano ou o uso da preceitos religiosos como bússola moral para qualquer situação. O clima fica ainda mais pesado com a participação da mãe do rapaz, em um dos diálogos mais inspirados (embora o menos realista, se considerarmos quem está proferindo frases com tamanha carga filosófica), onde coloca além da discussão moral o uso prático dessa moral no dia-a-dia dos outros mortais, as pessoas que estão no meio das trincheiras.
+Embora seja um tema complexo e aberto a diversas interpretações e lados, o texto de Patric Shanley não se intimida, provocando e ao mesmo tempo sendo honesto o tempo todo para ambos os lados. O que está em julgamento não é a igreja católica, mas nossa fé e razão, a bondade pela humanidade inerente ao ser humano ou o uso da preceitos religiosos como bússola moral para qualquer situação. O clima fica ainda mais pesado com a participação da mãe do rapaz, em um dos diálogos mais inspirados (embora o menos realista, se considerarmos quem está proferindo frases com tamanha carga filosófica), onde coloca além da discussão moral o uso prático dessa moral no dia a dia dos outros mortais, as pessoas que estão no meio das trincheiras.
 
 No entanto, Dúvida ganha de fato o panteão de grandes filmes ao assumir abertamente que não sabe a resposta para essas questões. E é ao assumir sua própria ignorância, mas não se furtar de discuti-la, que o filme ganha igualmente o direito a revisitas quantas vezes for necessário. Ou melhor dizendo, enquanto a religião continuar tapando o sol do conhecimento com a peneira da tradicionalidade.
 
@@ -31081,7 +31081,7 @@ Se bem que, ainda que conseguíssemos entender o que há por trás de uma trama 
 # Pulp Fiction: Tempo de Violência
 2012-12-23 cinema movies
 
-Segundo trabalho de Quentin Tarantino ("Cães de Aluguel", "Kill Bill"), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
+Segundo trabalho de Quentin Tarantino ("Cães de Aluguel", "Kill Bill"), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia a dia
 
 Mas qual é o significado de Pulp Fiction? Ora, o próprio Tarantino explica no início, colocando a descrição literal do dicionário American Heritage após acompanharmos um diálogo de um casal que decide assaltar o restaurante onde estão tomando café-da-manhã:
 
@@ -31501,7 +31501,7 @@ A partir do primeiro encontro entre Tiffany (Jennifer Lawrence, "Inverno da Alma
 
 Não que sejam as únicas pessoas que mereçam atenção. De uma maneira coesa e ao mesmo tempo torturante, o diretor e roteirista David O. Russell ("O Vencedor"), baseado no livro de Matthew Quick, nos deixa conhecer um pouco dos outros fascinantes participantes daquela experiência de vida. Uso a palavra experiência pois Patrick acabou de sair do hospital psiquiátrico depois de um tratamento após quase matar o amante de sua mulher e Tiffany está tentando superar a morte do marido e sua recaída moral através do sexo banal. Pat, como costuma ser chamado, possui bipolaridade, e a divisão do seu nome talvez sugira sua tentativa de sempre tentar enxergar o lado bom, método empregado por ele para tentar se desvencilhar do seu lado agressivo.
 
-O pai de Patrick, Mr. Pat (Robert De Niro, tocante sem soar piegas), após perder o emprego se tornou viciado em jogo de apostas e sofre de todo o tipo de superstição, muitas delas envolvendo a presença do seu filho, o que o transforma em um reflexo de si próprio e até uma maldição para Pat. Seu cunhado sofre a pressão do dia-a-dia e só consegue desabafar com o amigo por este ser imune a franquezas. Na verdade, a maior parte das franquezas do filme saem de sua boca. O método de Patrick de nunca ver o lado negativo das coisas no fundo é bem difícil de ser aplicado em sua vida em família, incluindo o seu bem-sucedido irmão (que parece servir para Pat como modelo idealizado do que gostaria de ser). David O. Russel faz uma brincadeira formando um círculo com seus amigos e familiares em sua casa que lembra o mesmo círculo de pacientes com quem Pat costumava se reunir; os problemas das pessoas "normais" começam a não parecer muito diferentes das pessoas em tratamento psiquiátrico.
+O pai de Patrick, Mr. Pat (Robert De Niro, tocante sem soar piegas), após perder o emprego se tornou viciado em jogo de apostas e sofre de todo o tipo de superstição, muitas delas envolvendo a presença do seu filho, o que o transforma em um reflexo de si próprio e até uma maldição para Pat. Seu cunhado sofre a pressão do dia a dia e só consegue desabafar com o amigo por este ser imune a franquezas. Na verdade, a maior parte das franquezas do filme saem de sua boca. O método de Patrick de nunca ver o lado negativo das coisas no fundo é bem difícil de ser aplicado em sua vida em família, incluindo o seu bem-sucedido irmão (que parece servir para Pat como modelo idealizado do que gostaria de ser). David O. Russel faz uma brincadeira formando um círculo com seus amigos e familiares em sua casa que lembra o mesmo círculo de pacientes com quem Pat costumava se reunir; os problemas das pessoas "normais" começam a não parecer muito diferentes das pessoas em tratamento psiquiátrico.
 
 Já Tiffany, assim como Pat, é um poço de ansiedade, algo que sutilmente ela consegue controlar quando está próximo dele, um desajustado social como ela. Sua tentativa de ignorar a morte do marido a faz usar o sexo casual como válvula de escape. Mais tarde entendemos os seus motivos. O. Russel não tem pressa de expor os seus personagens, pois entende que a melhor interação entre ambos só ocorre se estes se derem essa liberdade aos poucos. Também não utiliza apenas diálogos. A morada de Tiffany é separada da casa dos seus pais pelo quintal, o que facilita seus costumes sexuais mas que também é uma bela metáfora do alienamento de sua família (o que também explica sua ausência no filme), incapaz de suportar a não-adequação da filha aos costumes sociais.
 
@@ -31534,7 +31534,7 @@ O tema mais interessante do novo filme de Robert Zemeckis ("Forrest Gump", O Ná
 
 O destino de um sujeito desses não seria difícil de imaginar caso ele não tivesse conhecido no hospital Nicole (Kelly Reilly), uma viciada em recuperação. Diferente de Whitaker, Nicole está ciente que sua vida depende que ela pare (e é interessante que o roteiro estabeleça essa relação entre drogas injetáveis e álcool, uma droga tão letal quanto as proibidas por lei). Whip a traz para sua vida, mas os efeitos positivos da companhia de Nicole nunca parecem penetrar na visão egoísta e descontrolada do piloto.
 
-Robert Zemeckis parece não ter pressa em avançar a história, pois quer que conheçamos mais sobre o estado irrecuperável de Whip pela simples observação do seu dia-a-dia. Enquanto as investigações estão em andamento e o advogado prepara o terreno para um final feliz e indolor, adentramos cada vez mais na obscuridade e irrelevância que sua vida. Enquanto torcemos que a justiça seja feita, ao mesmo tempo não estamos tão certos que essa atitude seria a mais correta, pois outros voos podem não ter o mesmo final bem sucedido com um cara desses na ativa.
+Robert Zemeckis parece não ter pressa em avançar a história, pois quer que conheçamos mais sobre o estado irrecuperável de Whip pela simples observação do seu dia a dia Enquanto as investigações estão em andamento e o advogado prepara o terreno para um final feliz e indolor, adentramos cada vez mais na obscuridade e irrelevância que sua vida. Enquanto torcemos que a justiça seja feita, ao mesmo tempo não estamos tão certos que essa atitude seria a mais correta, pois outros voos podem não ter o mesmo final bem sucedido com um cara desses na ativa.
 
 E é por isso que sua conclusão possui a força acumulada de nossas próprias conclusões a respeito. Não torcemos mais apenas por sua absolvição, mas por sua redenção. Ele é uma pessoa que tem tudo para dar certo, mas para isso precisa encarar a realidade à sua volta sem o efeito do álcool. Como não gostar de um filme desses, que abre questões tão relevantes sobre o caráter humano e possui coragem para seguir adiante?
 
@@ -31936,7 +31936,7 @@ Os egos se digladiam em um embate mais intelectual do que emotivo e as regras do
 
 Mesmo quando Gosling se apresenta como o adversário passional do jogo que se desenrola, sabemos que o que o move é sua autoafirmação como o promotor que teve 97% de suas causas ganhas.
 
-O diretor Gregory Hoblit (As Duas Faces de Um Crime) e o roteirista Daniel Pyne (Sob o Domínio do Mal) não permitem que a história descambe para o melodrama, o que pode repelir os que esperam um thriller de ação. No entanto, o dia-a-dia da lei não poderia estar melhor retratado que na desesperança mecânica de uma vítima que sobrevive apenas formalmente.
+O diretor Gregory Hoblit (As Duas Faces de Um Crime) e o roteirista Daniel Pyne (Sob o Domínio do Mal) não permitem que a história descambe para o melodrama, o que pode repelir os que esperam um thriller de ação. No entanto, o dia a dia da lei não poderia estar melhor retratado que na desesperança mecânica de uma vítima que sobrevive apenas formalmente.
 
 # Homem de Ferro 3
 2013-05-03 cinema movies
@@ -31993,7 +31993,7 @@ As interpretações dos atores não é nada demais, mas não prejudica. No entan
 # Somos Tão Jovens
 2013-05-14 cinema movies
 
-Antes de tudo, a interpretação de Thiago Mendonça é primorosa do começo ao fim ao estabelecer o "Renato" do filme não apenas como a sombra de um ídolo, mas a própria persona se construindo através de suas referências culturais. O uso de sua voz é um dos pontos fortes: usando entonações que vão aos poucos revelando o Renato Russo que os fãs conhecem, é uma surpresa agradável poder observar sua própria evolução como cantor, engrossando a voz aqui e ali, tentando encontrar o seu estilo. Isso nos aparece de forma completamente natural e discreta. A música e poesia das letras do vocalista parecem sair prontas do seu intelecto, e parte dessa experiência é devido ao interessante roteiro de Marcos Berstein ("Central do Brasil") com a colaboração de Victor Atherino que vai construindo as situações e expressões de suas poesias no dia-a-dia casual.
+Antes de tudo, a interpretação de Thiago Mendonça é primorosa do começo ao fim ao estabelecer o "Renato" do filme não apenas como a sombra de um ídolo, mas a própria persona se construindo através de suas referências culturais. O uso de sua voz é um dos pontos fortes: usando entonações que vão aos poucos revelando o Renato Russo que os fãs conhecem, é uma surpresa agradável poder observar sua própria evolução como cantor, engrossando a voz aqui e ali, tentando encontrar o seu estilo. Isso nos aparece de forma completamente natural e discreta. A música e poesia das letras do vocalista parecem sair prontas do seu intelecto, e parte dessa experiência é devido ao interessante roteiro de Marcos Berstein ("Central do Brasil") com a colaboração de Victor Atherino que vai construindo as situações e expressões de suas poesias no dia a dia casual.
 
 O mesmo não pode ser dito da direção: Antonio Carlos da Fontoura (No Meio da Rua) insiste em burocratizar a história com cortes episódicos entre ação e músicas, e evita polemizar demais em torno do temperamento explosivo do protagonista. Até sua sexualidade é meio deixada de lado e prejudica a construção do personagem, ainda mais sendo um tabu na época para apenas ser citado nas entrelinhas. Mesmo assim, é admirável observar sua trajetória em direção à liderança das duas bandas que formou tamanha a naturalidade com que ela se desenvolve. Uma pena que a apresentação dos outros componentes das bandas soe tão artificial e forçadamente prolixo, chegando a usar nome e sobrenome dos que estavam à margem do cantor ("esse é o Marcelo Bonfá").
 
@@ -32422,7 +32422,7 @@ Tentando homenagear todos os filmes que compartilham pouco ou muito do enredo ("
 
 Diferente do que poderíamos imaginar, a direção precisa, acelerada e gore de James Wan em Jogos Mortais não apresenta comparações neste Invocação do Mal, que se insere no gênero de horror realizando pequenas homenagens de obras icônicas enquanto ensaia um estilo visual mais agradável ao público de hoje.
 
-No entanto, felizmente, o clima de filme de terror de décadas passadas permanece, auxiliada pela história que se passa nos anos 70 e acompanha um casal de especialistas em eventos sobrenaturais (Patrick Wilson e Vera Farmiga) e uma família com diversos filhos que se muda para uma memorável casa no campo onde acontecimentos tenebrosos vão aos poucos tomando conta do seu dia-a-dia. A falta da tecnologia e do cinismo dos dias atuais, aliada a uma religiosidade ainda alta na sociedade, culmina na criação de uma atmosfera já conhecida no Cinema e que fez tanto sucesso em obras clássicas ("O Exorcista", "Os Pássaros"). Pela nossa memória afetiva arriscaria dizer que o resultado de Invocação do Mal acaba se tornando ainda mais assustador.
+No entanto, felizmente, o clima de filme de terror de décadas passadas permanece, auxiliada pela história que se passa nos anos 70 e acompanha um casal de especialistas em eventos sobrenaturais (Patrick Wilson e Vera Farmiga) e uma família com diversos filhos que se muda para uma memorável casa no campo onde acontecimentos tenebrosos vão aos poucos tomando conta do seu dia a dia A falta da tecnologia e do cinismo dos dias atuais, aliada a uma religiosidade ainda alta na sociedade, culmina na criação de uma atmosfera já conhecida no Cinema e que fez tanto sucesso em obras clássicas ("O Exorcista", "Os Pássaros"). Pela nossa memória afetiva arriscaria dizer que o resultado de Invocação do Mal acaba se tornando ainda mais assustador.
 
 Utilizando pequenos acontecimentos noturnos que poderiam ser explicados de maneira lógica e racional na vida real o filme não tem pressa em nos apresentar o perigo sobrenatural, pois faz com que aos poucos sejamos fisgados pela possibilidade de forças de outro mundo estarem exercendo uma influência demoníaca por toda a casa. Nesse sentido, a cena da brincadeira de esconde-esconde com a mãe é vital para estabelecer uma cumplicidade mórbida com o espectador, pois vemos o que aquela família ainda não percebeu e passamos a estar cientes de algo que os pais daquelas crianças irão descobrir às duras penas.
 
@@ -33463,7 +33463,7 @@ Para tentar argumentar a respeito Padilha e o roteirista iniciante Joshua Zetume
 # A Outra História Americana
 2014-02-26 cinema movies
 
-Este não é um filme sobre nazismo, mas sobre fanatismo. Pessoas fanáticas a respeito dos mais diversos assuntos: política, religião ou (coloque aqui sua doutrina). Quer assistir um filme sobre os males do fanatismo? Assista A Outra História Americana. É um filme didático, mas não explícito. Sua sutileza reside nas simples expressões do dia-a-dia como resposta a situações das mais prosaicas, como um almoço de família. Porém, a mensagem é clara.
+Este não é um filme sobre nazismo, mas sobre fanatismo. Pessoas fanáticas a respeito dos mais diversos assuntos: política, religião ou (coloque aqui sua doutrina). Quer assistir um filme sobre os males do fanatismo? Assista A Outra História Americana. É um filme didático, mas não explícito. Sua sutileza reside nas simples expressões do dia a dia como resposta a situações das mais prosaicas, como um almoço de família. Porém, a mensagem é clara.
 
 Clara, mas não fechada. Sabemos que o preto-e-branco pode representar simplesmente o passado de Derek Vinyard (Edward Norton), um jovem que se tornou um influente nazista em seu bairro, onde ações afirmativas da comunidade negra foram se tornando mais frequentes. Quando dois jovens (negros) tentam roubar seu carro, um duplo-homicídio ocorre e Derek acaba na prisão por três anos. Nesse meio-tempo, aprende que a realidade pode ser muito diferente do primário discurso anti-semita que aprendeu a venerar. No dia em que ele é solto as cores aparecem. O que significam? Seria apenas um simbolismo da visão deturpada de Derek a respeito do seu mundo limitado e simplista onde a culpa sobre todos os males pode ser identificada objetivamente a um grupo por sua etnia? O filme não explica o suficiente, deixando nas nossas mãos essa tarefa.
 
@@ -34493,7 +34493,7 @@ Bom, eu assisti, mas não lembro de muita coisa. Só que Capitão América estar
 
 Esse é daqueles documentários ecológicos que se baseia no escritor Colin Beavan e sua família, a esposa compradora compulsória Michelle Conlin e a pequena e inocente filha. Os três passarão um ano cuidando de suas vidas sem tentar causar qualquer impacto ambiental no meio de Nova York. Primeiramente, devo perguntar: o que seria um impacto ambiental para uma família dessas, e por quê?
 
-Aliás, acho que o filme é que deveria fazer essa pergunta em primeiro lugar, já que ele se deixa levar pelas ambições de Colin e seu senso comum do que seria causar algum dano à natureza, como consumir carne, usar eletricidade e papel higiênico. É um ato de protesto, sem dúvida, mas a questão maior é como esse protesto poderia impactar em nossas decisões do dia-a-dia se não há conhecimento o suficiente para embasá-lo?
+Aliás, acho que o filme é que deveria fazer essa pergunta em primeiro lugar, já que ele se deixa levar pelas ambições de Colin e seu senso comum do que seria causar algum dano à natureza, como consumir carne, usar eletricidade e papel higiênico. É um ato de protesto, sem dúvida, mas a questão maior é como esse protesto poderia impactar em nossas decisões do dia a dia se não há conhecimento o suficiente para embasá-lo?
 
 É muito fácil para Colin dizer que, para o leigo, a única coisa que ele precisa fazer para se juntar a essa causa é não consumir qualquer produto que ele não conheça seu produtor e/ou seus métodos de produção. Isso torna tudo muito mais romântico do que prático, e o homem que não causa impacto na natureza produz um filme que não causa impacto nenhum na natureza de nosso consumismo compulsivo.
 
@@ -34887,7 +34887,7 @@ Holy Motors é o refresco que todo cinéfilo pede de vez em quando. Com uma abor
 
 Para nos manter com essa parcela do real durante toda a experiência, há mais ou menos uma história: um dia na vida de um ator com idade avançada, mas que ainda precisa realizar o seu trabalho. Ele é levado de limusine branca para todas as locações, e ele próprio se maquia e se transforma para viver seu próximo personagem. Em determinado momento, os resquícios do personagem anterior se misturam com o próximo personagem, mas pode ser que não seja um novo personagem, e apenas um diálogo entre colegas de profissão. É possível permearmos esse traço de realidade em um futuro distópico onde as câmeras são praticamente invisíveis, não há uma equipe de produção em volta do cenário e tudo é feito da maneira mais perfeccionista possível.
 
-E, mesmo assim, o público pede mais. Não é isso o que vivemos no dia-a-dia dos efeitos visuais, da ação desenfreada?
+E, mesmo assim, o público pede mais. Não é isso o que vivemos no dia a dia dos efeitos visuais, da ação desenfreada?
 
 A fotografia se alia perfeitamente aos objetivos do diretor e roteirista Leos Carax (do ótimo Boy Meets Girl). Ela é estilizada por Yves Cape e Caroline Champetier (Homens e Deuses) e leva um tom verde onde é necessário criar uma certa dúvida sobre essa realidade quase virtual onde se passa a história (note o aspecto de cores através da câmera dentro da limusine). A edição de Nelly Quettier parece nunca perder o ritmo, mesmo quando está lidando com sequências completamente diferentes, mesmo se tornando óbvia com o passar do tempo, quando aprendemos o ritmo "personagem feito, próximo papel, pasta no banco".
 
@@ -35380,7 +35380,7 @@ O que faz um terror eficiente? Uma história convincente ou sustos convincentes?
 
 A história gira em torno de uma menina misteriosa, acontecimentos no quarto do garoto da família, e como a relação entre eles começa a revelar um acontecimento perturbador envolvendo a assombração de uma mulher e a comunicação com o além-mundo através de uma espécie de rádio. O rádio já foi melhor explorado em Alta Frequência -- como suspense -- e a mulher já foi melhor caracterizada em Mama. O que resta é pensar a respeito das possibilidades: e se espíritos realmente existirem? Haverá como contrapartida um paraíso? Se você possui uma vida imprestável, não valeria a pena checar para ver se existe algo bom do outro lado?
 
-O melhor terror sempre é o que existe em nossas vidas comuns e passáveis. Da rotina do dia-a-dia, sempre haverá um Dogville na vizinhança, mesmo sem sabermos que isso existe. A questão é que o fato de existir um Dogville não implica que exista um Amor Além da Vida. Infelizmente, assim como no mundo real, as coisas no mundo sobrenatural podem não ser tão simples como nossa mente deseja acreditar.
+O melhor terror sempre é o que existe em nossas vidas comuns e passáveis. Da rotina do dia a dia sempre haverá um Dogville na vizinhança, mesmo sem sabermos que isso existe. A questão é que o fato de existir um Dogville não implica que exista um Amor Além da Vida. Infelizmente, assim como no mundo real, as coisas no mundo sobrenatural podem não ser tão simples como nossa mente deseja acreditar.
 
 # Dando cabo do WinDbg
 2014-06-18 computer blog
@@ -35522,7 +35522,7 @@ Passando por romanos, persas, chineses e a Revolução Industrial, a narrativa c
 
 "Agora sim"
 
-E por falar em bits, essa é uma parte importante desta saga, pois foi com o conceito binário que toda a lógica computacional evoluiu. Iniciando com simples eletricidade e a tecnologia de circuito que permite que acendamos e apaguemos uma lâmpada e terminando na mágica mais pura, simples e poderosa para os programadores (de hardware e sofware): o flip-flop. Gonick chega ao cúmulo de explicar todas as invenções da época encontrando sua necessidade de fatos do dia-a-dia -- como as telefonistas -- se transformando em uma espécie de Tanenbaum desenhista. Das válvulas aos semicondutores, o livro engrossa nosso conhecimento a cada imagem, fazendo-nos repensar novamente o que já havíamos cansado de aprender na faculdade ou em livros ou na internet.
+E por falar em bits, essa é uma parte importante desta saga, pois foi com o conceito binário que toda a lógica computacional evoluiu. Iniciando com simples eletricidade e a tecnologia de circuito que permite que acendamos e apaguemos uma lâmpada e terminando na mágica mais pura, simples e poderosa para os programadores (de hardware e sofware): o flip-flop. Gonick chega ao cúmulo de explicar todas as invenções da época encontrando sua necessidade de fatos do dia a dia -- como as telefonistas -- se transformando em uma espécie de Tanenbaum desenhista. Das válvulas aos semicondutores, o livro engrossa nosso conhecimento a cada imagem, fazendo-nos repensar novamente o que já havíamos cansado de aprender na faculdade ou em livros ou na internet.
 
 Sua Parte II, o espaguete lógico, acredito que seja o que mais interessa a nós, programadores. Por isso espero dissecá-lo com um pouco menos de palavras e um pouco mais de código. Até lá! (2026-04-02 e nunca mais voltou)
 
@@ -35860,7 +35860,7 @@ Mesmo se focarmos apenas em computadores, engenharia reversa (de hardware e soft
 
 Porém, é necessária a existência de pessoas interessadas em atacar para que se crie a necessidade de se proteger. Dessa forma é que foram criados os X-Headers explicados por William Costa, os sistema de geração de números verdadeiramente aleatórios para se proteger de trapaceiros em um jogo de pôquer (minha palestra). Foi com o mesmo raciocínio que hoje existem valiosos insights sobre arquiteturas mais robustas discutidas por Rafael Lachi. É tendo curiosidade que encontramos falhas graves nos aplicativos mobile de hoje, como foi demonstrado tanto por Rafael Tosetto Pimentel quanto por Ivan Jeukens. E, não podemos nos esquecer, é essa nova geração do Antonio Costa que procura por brechas ridículas no login de diversos saites, forçando o mercado a se ajustar às melhores práticas.
 
-De uma forma ou de outra, segurança deve se tornar um pensamento constante na vida dos programadores, ainda mais web e mobile. Essa não é uma tendência, essa deveria ser uma necessidade básica do dia-a-dia.
+De uma forma ou de outra, segurança deve se tornar um pensamento constante na vida dos programadores, ainda mais web e mobile. Essa não é uma tendência, essa deveria ser uma necessidade básica do dia a dia
 
 # Bons de Bico
 2014-08-15 cinema movies
@@ -36152,7 +36152,7 @@ Por fim, este filme não seria metade do que é sem um elenco curiosamente compe
 # Kung-Fu Futebol Clube
 2014-09-07 cinema movies
 
-Shaolin Soccer é uma "versão beta" do hilário Kung-Fusão, mas é muito mais coerente em sua proposta de usar o Kung-Fu como uma forma de todas as pessoas melhorarem o que quer que façam no dia-a-dia através dessa arte milenar chinesa. Coerente, mas não menos confusa: apresentando personagens de maneira mais ou menos aleatória, e com o desafio de montar um time de futebol com personagens obviamente simplistas (o gordo, o fumante, o magro, etc), os únicos que possuem um pouco mais de polimento no roteiro são as versões original e nova da lenda conhecida como "Pé de Ouro": pernas dotadas de uma força descomunal que chutam bolas (e qualquer outra coisa) com força desproporcionalmente absurda. (Ah, sim, claro, e o interesse amoroso do herói.)
+Shaolin Soccer é uma "versão beta" do hilário Kung-Fusão, mas é muito mais coerente em sua proposta de usar o Kung-Fu como uma forma de todas as pessoas melhorarem o que quer que façam no dia a dia através dessa arte milenar chinesa. Coerente, mas não menos confusa: apresentando personagens de maneira mais ou menos aleatória, e com o desafio de montar um time de futebol com personagens obviamente simplistas (o gordo, o fumante, o magro, etc), os únicos que possuem um pouco mais de polimento no roteiro são as versões original e nova da lenda conhecida como "Pé de Ouro": pernas dotadas de uma força descomunal que chutam bolas (e qualquer outra coisa) com força desproporcionalmente absurda. (Ah, sim, claro, e o interesse amoroso do herói.)
 
 O forte do filme com certeza não é sua história, que oscila entre o humor, o drama e o tocante, sendo que o "tocante" sempre é exagerado através não apenas do recurso batido da trilha sonora, mas de situações absurdamente cruéis e/ou desproporcionais. Sua força, ironicamente, provém da mesma característica: tentando apresentar formas diferentes de jogar futebol com habilidades de lutadores de artes marciais o filme acaba quase incidentalmente criando uma nova forma de contar uma história sobre um esporte.
 
@@ -37531,7 +37531,7 @@ No decorrer do filme esqueci completamente de Julianne Moore. Sim, é claro que 
 
 Alice foi diagnosticada com Alzheimer precoce, um problema genético que além de tudo é hereditário. Aos poucos palavras irão sumir de seu vocabulário. Depois, momentos. Mais tarde, nem o banheiro será um lugar fácil de encontrar. Seu mundo vai desmoronando de dentro para fora, e a atuação de Julianne Moore ganha méritos por não se intrometer no processo, mérito esse que pode se estender para seus familiares. Um conjunto de pessoas genérico que não possuem nada de mais em suas personalidades, além de seu marido se manter sempre estranhamente distante de sua esposa, mesmo depois de revelada a doença.
 
-Para Sempre Alice ganha um formato menos de melodrama -- como se poderia esperar pela história -- e mais de metáforas da vida moderna. Por exemplo: antes apenas um joguinho de palavras, o celular se torna o principal e primordial companheiro do dia-a-dia de Alice, que ironicamente é uma estudiosa de linguistica e fascinada por comunicação. Cada vez mais os diálogos cara-a-cara perdem o sentido, o que é natural quando precisa-se fazer a mesma pergunta dezenas de vezes durante a mesma conversa. Em contrapartida, cada vez mais informações vitais vão se acumulando nos gadgets eletrônicos, inclusive instruções para um futuro suicídio caso a protagonista não se lembrasse de coisas básicas como o mês de seu aniversário.
+Para Sempre Alice ganha um formato menos de melodrama -- como se poderia esperar pela história -- e mais de metáforas da vida moderna. Por exemplo: antes apenas um joguinho de palavras, o celular se torna o principal e primordial companheiro do dia a dia de Alice, que ironicamente é uma estudiosa de linguistica e fascinada por comunicação. Cada vez mais os diálogos cara-a-cara perdem o sentido, o que é natural quando precisa-se fazer a mesma pergunta dezenas de vezes durante a mesma conversa. Em contrapartida, cada vez mais informações vitais vão se acumulando nos gadgets eletrônicos, inclusive instruções para um futuro suicídio caso a protagonista não se lembrasse de coisas básicas como o mês de seu aniversário.
 
 O que nos leva à falta de jeito dos diretores Richard Glatzer e Wash Westmoreland em conseguir tomar as rédeas da história e argumentar a respeito do que acontece na narrativa, tornando alguns momentos arrastados pela repetição de fatos. Para compensar, a sequência dramática em que Alice precisa subir as escadas e seguir uma série de instruções é um ponto alto, assim como o uso de uma profundidade de campo reduzidíssima após uma corrida em que ela passa mal e onde as pessoas em volta viram borrões não-identificáveis. O ritmo empregado na passagem do tempo também é impecável, pois dá ao espectador parte da sensação de estar perdido e não conseguir situar-se no tempo e nos espaço.
 
@@ -37863,7 +37863,7 @@ Aos poucos a trama de Mapas para as Estrelas vai se revelando, mas isso não é 
 
 Porém, ao mesmo tempo que ter um ego poderoso parece ser vital naquele ambiente, este é que parece dirigir a vida de fato dessas pessoas, e tudo o que o afeta parece retornar como uma ameaça. Dessa forma, ter um papel negado em um filme é quase tão doloroso quanto ser apunhalado pelas costas. Cronenberg tece esse sentimento por todo o filme, mas soa espalhafatoso demais, jogando peças demais no tabuleiro. Quando a cena do assassinato acontece, já é muito tarde, mas mesmo assim ela funciona por tudo o que representa em metalinguagem. Não à toa, usar "Carrie" Fisher (a própria) como a amiga da perturbada Agatha (Mia Wasikowska) vira uma referência incidental ótima à personagem homônima do terror de Brian de Palma (incluindo o detalhe perturbador da "menstruação").
 
-Referências ao mundo do Cinema, como os diálogos, e detalhes do dia-a-dia dessas pessoas infelizmente acabam apenas servindo de pano de fundo para o terror pretensioso do diretor. É um ótimo filme, tenso, que incomoda pelo senso comum, mas não constrói nada muito sólido em cima do seu próprio senso do que é existir naquela realidade.
+Referências ao mundo do Cinema, como os diálogos, e detalhes do dia a dia dessas pessoas infelizmente acabam apenas servindo de pano de fundo para o terror pretensioso do diretor. É um ótimo filme, tenso, que incomoda pelo senso comum, mas não constrói nada muito sólido em cima do seu próprio senso do que é existir naquela realidade.
 
 # Life Itself - A Vida de Roger Ebert
 2015-03-22 cinema movies
@@ -37929,7 +37929,7 @@ No entanto, por mais belas que sejam as cenas, elas se tornam cansativas (talvez
 
 Esse é um filme doce e maniqueísta. Porém, seu maniqueísmo só se reflete nos personagens secundários, aqueles que são criados para criar tensão e colorir o universo de Germain Chazes, um faz-tudo que vive em um trailer. Todos zombam de Germain por ser ignorante, e sua ignorância é explicada através da diferentes flashbacks de sua infância onde ele é maltratado pelos professores e por sua própria mãe, que o considera um acidente. A relação entre os dois é a base para entendermos a dinâmica de sua nova amizade com Margueritte, uma senhora que se senta à tarde na praça da cidadezinha onde moram para observar os pombos e realizar uma atividade para ela prazerosa e para Germain uma verdadeira tortura: ler. Porém, à medida que ele aprende que ler é enxergar o mundo à sua volta através de símbolos cuja tradução lhe foi negada desde criança, Germain passa a se tornar o que chamamos de homem completo, o que é interessado em sua vida e busca seus próprios interesses. É capaz de se soltar das amarras nefastas da ignorância graças ao convívio com uma pessoa que, apesar de estar no fim da vida, ainda tem muito a oferecer a qualquer um que tiver a paciência de parar e ouvir.
 
-O filme de Jean Becker baseado em um livro tenta com uma certa insistência te levar às lágrimas, mas sem sucesso. No entanto, as interpretações do gigantesco Gérard Depardieu e da mirrada Gisèle Casadesus funcionam em uma dinâmica invejável, pois apesar de todos os clichês algo novo é criado. Não dá para negar que é o próprio Jean Becker que consegue a façanha, que junto com seu editor, Jacques Witta (trilogia das cores), liga as cenas com uma fluidez que faz a história passar bem rápido sem nunca se esquecer de pausar nos momentos importantes. Dessa forma, o dia-a-dia de Germain indo no bar, na feira e na praça pode estabelecer uma rotina de forma eficiente, mas quando este resolve abrir o seu presente de noite, um dicionário, e procurar nomes próprios, o filme dá todo o tempo do mundo para respirarmos junto com a curiosidade (e a frustração) de Germain.
+O filme de Jean Becker baseado em um livro tenta com uma certa insistência te levar às lágrimas, mas sem sucesso. No entanto, as interpretações do gigantesco Gérard Depardieu e da mirrada Gisèle Casadesus funcionam em uma dinâmica invejável, pois apesar de todos os clichês algo novo é criado. Não dá para negar que é o próprio Jean Becker que consegue a façanha, que junto com seu editor, Jacques Witta (trilogia das cores), liga as cenas com uma fluidez que faz a história passar bem rápido sem nunca se esquecer de pausar nos momentos importantes. Dessa forma, o dia a dia de Germain indo no bar, na feira e na praça pode estabelecer uma rotina de forma eficiente, mas quando este resolve abrir o seu presente de noite, um dicionário, e procurar nomes próprios, o filme dá todo o tempo do mundo para respirarmos junto com a curiosidade (e a frustração) de Germain.
 
 Obviamente concluindo no formato dramalhão -- e ainda sugerindo um passado humanitário para Margueritte -- Minhas Tardes com Margueritte já conseguiu ficar nos trilhos por um bom tempo de projeção a ponto daquelas duas pessoas serem importantes demais para deixarmos de lado seus destinos. Dessa forma, não importa o resgate no hospital, tanto quanto não importa uma morte relevante. O que importa é que continuemos a olhar para esse mundinho por um pouco mais de tempo, só para sairmos satisfeitos de como as coisas se encaixam com uma perfeição suspeita, mas cativante.
 
@@ -38474,7 +38474,7 @@ Caleb é sorteado para passar uma semana na fortaleza da solidão de Nathan, e c
 
 Fechando a lista dos únicos personagens relevante, Kyoko é a única funcionária a serviço de Nathan. Calada, não conhece a língua que falam, um artifício usado por Nathan para proteger a informação que é trocada nas conversas casuais durante o almoço. Isso é, seriam conversas casuais se Caleb e Nathan não se comportassem como robôs, principalmente o primeiro. Nathan também, mas de outra forma. Sua humanidade parece que foi sugada pela sua própria invenção. Suas duas únicas preocupações parecem se resumir em sempre ficar completamente bêbado e proteger o acesso aos dados de sua pesquisa. É tão irônico, hipócrita e compreensível que o criador de uma das ferramentas que invade a privacidade das pessoas tome tantas precauções para evitar que a sua própria seja exposta.
 
-Contando a trama através de um dia-a-dia rotineiro, em que Caleb tem por função realizar perguntas para Ava de forma a julgá-la através do famoso Teste de Turing -- que permite reconhecer que um computador passou a ter uma consciência que o torna indistinguível de um ser humano --, parece que esses dias são curtos demais, e as perguntas sem nenhuma imaginação. Pior: é difícil acreditar que Caleb e Nathan realmente passam uma semana tão estéril quanto a sexualidade do rapaz, não havendo quase nenhuma pergunta que desperte nosso interesse.
+Contando a trama através de um dia a dia rotineiro, em que Caleb tem por função realizar perguntas para Ava de forma a julgá-la através do famoso Teste de Turing -- que permite reconhecer que um computador passou a ter uma consciência que o torna indistinguível de um ser humano --, parece que esses dias são curtos demais, e as perguntas sem nenhuma imaginação. Pior: é difícil acreditar que Caleb e Nathan realmente passam uma semana tão estéril quanto a sexualidade do rapaz, não havendo quase nenhuma pergunta que desperte nosso interesse.
 
 Ainda assim, a história é conduzida justamente pela lenta evolução dessas mesmas perguntas e a respeito da natureza mais obscura de Nathan. Sutilmente a história toma contornos de um movimento feminista, mas muito bem estruturado, em uma relação dono/coisa que parece se encaixar perfeitamente em qualquer momento na História em que um grupo de humanos subjugou outro. O detalhe mais genial é que os opressores dificilmente enxergavam nos oprimidos figuras dignas de pena, compaixão, ou mesmo empatia. Aqui, apesar de vermos claramente que Ava possui algo mais do que um roteiro pré-programado por um gênio dos computadores, isso é opaco para as duas figuras masculinas do filme, que insistem em tratá-la como uma coisa a ser analisada.
 
@@ -38594,7 +38594,7 @@ Cha Yeong-mi é interpretado por Doona Bae, a revelação de Cloud Atlas. Aqui e
 
 Apesar de eficiente por oito anos em pequenos episódios de sete minutos, a série dos estúdios Aardman nunca se aventurou em um longa-metragem sobre um carneiro muito esperto, um cachorro e fazendeiro que lembram versões agrícolas de Wallace e Gromit, e um bando de ovelhas que esbanjam charme e bom humor. O resultado não é apenas um longo episódio como a série televisiva, mas um filme que se aproveita de homenagens e referências muitas antigas sobre o Cinema e o próprio universo sempre criativo desses personagens, onde o fato de serem miniaturas manipuladas em stop motion nunca é um empecilho para criar as mais hilárias sequências.
 
-Dirigido pelo roteirista Mark Burton e com a ajuda do estreante Richard Starzak, o filme se aproveita da dupla original, Justin Fletcher e John Sparkes, para interpretar Shaun e o Fazendeiro (que não tem um nome). A relação do trio carneiro, cachorro e fazendeiro é de longa data, e vemos uma foto empoeirada e descolorida de uma época bucólica e divertida. A rotina do dia-a-dia, no entanto, faz com que Shaun se desgaste, o que o faz bolar um plano para quebrar aquele ciclo interminável de acorda, levanta, e vai dormir. Seguindo a mesma estrutura de um episódio, mas com tempo o suficiente para explorar mais, o plano de Shaun parece que tem tudo para falhar quando o Fazendeiro vai parar na cidade grande, bate a cabeça e não se lembra mais quem é, se transformando em um famoso cabelereiro no processo.
+Dirigido pelo roteirista Mark Burton e com a ajuda do estreante Richard Starzak, o filme se aproveita da dupla original, Justin Fletcher e John Sparkes, para interpretar Shaun e o Fazendeiro (que não tem um nome). A relação do trio carneiro, cachorro e fazendeiro é de longa data, e vemos uma foto empoeirada e descolorida de uma época bucólica e divertida. A rotina do dia a dia no entanto, faz com que Shaun se desgaste, o que o faz bolar um plano para quebrar aquele ciclo interminável de acorda, levanta, e vai dormir. Seguindo a mesma estrutura de um episódio, mas com tempo o suficiente para explorar mais, o plano de Shaun parece que tem tudo para falhar quando o Fazendeiro vai parar na cidade grande, bate a cabeça e não se lembra mais quem é, se transformando em um famoso cabelereiro no processo.
 
 O fato do filme ser quase que inteiramente mudo, pois nenhum dos personagens fala senão grunhidos incompreensíveis, remete diretamente à epoca do Cinema mudo. Conseguimos detectar um pouco de Buster Keaton e suas atrapalhadas quando o trailer do Fazendeiro sai desgovernado na fazenda e vai parar na cidade (para surpresa dos seus habitantes). Da mesma forma, o jogo de transposições de Keaton e até mesmo o jogo de cintura de Charles Chaplin ganham uma revisão em uma animação infantil quando, por exemplo, as ovelhas se disfarçam de outdoor no terminal de ônibus.
 
@@ -39907,7 +39907,7 @@ Ao final, uma coisa se torna visivelmente clara: é hora de mudar. Essa é a con
 
 Não é de hoje que acompanho o ótimo desempenho de Paul Dano e sua ascenção desde Pequena Miss Sunshine. Dotado de uma feição característica, sua figura simpática e ingênua soa familiar na maioria dos seus filmes em que é o mocinho. Porém, o que mais gosto nele são seus trabalhos como vilão (Sangue Negro, 12 Anos de Escravidão, Os Suspeitos), pois sua feição "característica" adquire uma função muito mais efetiva: a vontade de socar a sua cara.
 
-Por isso é de se entender que em Os Acompanhantes quem se sai melhor é Kevin Kline com seu excêntrico Henry Harrison. A história basicamente é sobre o convívio desses dois em um apartamento em Nova York. Henry é um falastrão que vive às custas de seus contatos com a alta sociedade e pequenos truques do dia-a-dia. O personagem de Dano, Louis Ives, é fã de livros que retratam a década de 20 (O Grande Gatsby) e imagina sua vida ilustrada por um narrador desse tipo de livro/filme. Porém, mais do que isso, Louis vive em uma indecisão a respeito de sua sexualidade, pois a lingerie afeta o rapaz de tal maneira que ele sente a necessidade de se vestir de mulher.
+Por isso é de se entender que em Os Acompanhantes quem se sai melhor é Kevin Kline com seu excêntrico Henry Harrison. A história basicamente é sobre o convívio desses dois em um apartamento em Nova York. Henry é um falastrão que vive às custas de seus contatos com a alta sociedade e pequenos truques do dia a dia O personagem de Dano, Louis Ives, é fã de livros que retratam a década de 20 (O Grande Gatsby) e imagina sua vida ilustrada por um narrador desse tipo de livro/filme. Porém, mais do que isso, Louis vive em uma indecisão a respeito de sua sexualidade, pois a lingerie afeta o rapaz de tal maneira que ele sente a necessidade de se vestir de mulher.
 
 O resultado é um filme simpático, igualmente excêntrico, bem conduzido pela dupla de diretores Shari Springer Berman e Robert Pulcini, responsáveis pelo mediano Minha Vida Dava um Filme. A direção de arte de Charles Kulsziski consegue unir o moderno com o de época com poucos elementos, embora a atuação de Paul Dano faça praticamente todo o serviço de transição (tanto que ele nem parece pertencer à mesma época em que a história se passa).
 
@@ -40023,7 +40023,7 @@ O Christmas Blend Expresso Roast de 2016 consegue ser doce sem ser enjoativo.
 
 O Casi Cielo de 2017 é amadeirado e um pouco enjoativo, mas pouco ácido, com amargor mais acentuado que o doce.
 
-Kati Kati é um blend africano. Provado em 2017, achei mesmo um blend aparentemente africano; ele é picante, um pouco amadeirado, mas muito forte e amargo e um tanto áspero para ser do dia-a-dia.
+Kati Kati é um blend africano. Provado em 2017, achei mesmo um blend aparentemente africano; ele é picante, um pouco amadeirado, mas muito forte e amargo e um tanto áspero para ser do dia a dia
 
 Ainda do mesmo continente tem esse Africa Kitamu (também de 2017) que lembra meio água suja com pouco pó; tem aquele doce oleoso típico da Starbucks, o corpo leve, sem amargor; apenas o gosto da torra; levemente enjoativo, mas igualmente viciante. Uma combinação OK junto do pão na chapa de manhã.
 
@@ -40038,7 +40038,7 @@ Algumas reviravoltas fazem com que ele participe de uma aventura amorosa que faz
 
 Omar Sy é um ator com uma capacidade curiosa de transformar uma cena dramática em cômica e vice-versa. Seu jeito carismático e seu tamanho não-desprezível o tornam o centro das atenções em um trabalho ambicioso que tenta fazer uma mescla de assuntos que giram em torno da imigração ilegal. O que levanta uma questão que apenas os estados e seu poder incomensurável conseguirão responder: se o mundo e as culturas dos povos estão tão globalizados, por que imigração ainda é um problema?
 
-Isso na França é mais sintomático ainda. Um país de bem-estar social, o custo de manter um estado como o deles torna suas fronteiras trabalhistas protegidas. Crises eventuais fazem com que o povo se vire contra os que vem de fora. Sem ter como se legalizar facilmente, os forasteiros vivem um dia-a-dia de medo e preocupação enquanto arrumam qualquer emprego para sustentar suas famílias, e tentam manter o foco no futuro.
+Isso na França é mais sintomático ainda. Um país de bem-estar social, o custo de manter um estado como o deles torna suas fronteiras trabalhistas protegidas. Crises eventuais fazem com que o povo se vire contra os que vem de fora. Sem ter como se legalizar facilmente, os forasteiros vivem um dia a dia de medo e preocupação enquanto arrumam qualquer emprego para sustentar suas famílias, e tentam manter o foco no futuro.
 
 O roteiro, escrito a oito mãos, não é ingênuo de não levar em conta que tudo isso é uma situação que torna o uso de algumas nacionalidades mais favoráveis (como os brasileiros). Ao mesmo tempo, também não ignora que a situação dos imigrantes africanos é muito pior de onde vem. Guerras, fome, conflitos internos que nunca acabam e que tornam empregos como coletor de lixo, lavador de pratos e limpador de janelas situações infinitamente melhores do que os espera em sua terra natal.
 
@@ -40449,7 +40449,7 @@ Com uma conclusão mais simplista que todo seu desenvolvimento, Lunar com certez
 # Deus da Carnificina
 2015-10-07 cinema movies
 
-Deus da Carnificina só funciona tão bem porque as pessoas que nele estão continuam sendo elas mesmas até o fim, e usam personalidades extremamente triviais, que fazem parte do dia-a-dia de qualquer um (ainda mais nas infinitas discussões de internet). Não há seres complexos demais neste filme, mas ideias antagônicas construídas através de quatro performances que ecoam até a duração do próximo argumento. Não há agressão física que consiga se comparar a um embate de ideias que, diferente dessa, nunca termina quando um dos lados cai no chão.
+Deus da Carnificina só funciona tão bem porque as pessoas que nele estão continuam sendo elas mesmas até o fim, e usam personalidades extremamente triviais, que fazem parte do dia a dia de qualquer um (ainda mais nas infinitas discussões de internet). Não há seres complexos demais neste filme, mas ideias antagônicas construídas através de quatro performances que ecoam até a duração do próximo argumento. Não há agressão física que consiga se comparar a um embate de ideias que, diferente dessa, nunca termina quando um dos lados cai no chão.
 
 Dirigido por Roman Polanski, que adaptou uma peça de teatro junto da sua escritora, Yasmina Reza, este é, junto do recente A Pele de Vênus, um trabalho intimista, concentrado em um espaço fechado onde poucos atores contracenam e possuem interação e tempo de tela suficiente para desbravar seus personagens até seus limites, que é o que ironicamente acontece após se reunirem depois que o filho de um dos casais bate no filho de outro casal. A cena é mostrada nos créditos iniciais, e é apenas isso que nos é revelado até então. De repente, somos jogados para a tela de computador da prática Penelope Longstreet compilando um testemunho do que aconteceu com seu filho e o do casal ao lado.
 
@@ -40624,7 +40624,7 @@ Com uma trilha sonora que ajuda e muito a mastigar cada novo momento nessa exper
 
 A partir do blogue do fotógrafo Ari Cohen, que iniciou este projeto de registrar as mulheres mais idosas e mais bem vestidas das ruas de Nova York, o filme de Lina Plioplyte esbanja charme, espiritualidade e uma energia sobrenatural vinda da vida de sete senhoras que usam a moda e outras artes como expressão de suas avançadas vidas com um toque de humor e leveza que raramente encontramos no fim da vida. Nenhuma delas aparenta a idade avançada que possuem, e é por isso que o filme faz questão de dizê-las a cada nova apresentação. A lucidez em se expressar, verbal e visualmente, além das reflexões muito bem-vindas sobre o que é este último passo em suas vidas, transforma uma experiência sem quase nenhum foco em um passeio glorioso pelo significado de viver tanto tempo e ainda descobrir mais vida na próxima esquina.
 
-Advanced Style é um projeto que parece ter surgido de supetão, e que se transformou em um filme representante da própria espontaneidade de suas protagonistas. Cada conquista no mundo da moda para elas é uma conquista em dobro, em triplo, se comparado com a imensa quantidade de revistas que priorizam unicamente garotas que mal saíram da puberdade como um modelo único de beleza e sofisticação. Apenas mostrar estas belas senhoras e seus estilos de vestir no dia-a-dia é o suficiente para contradizer que é preciso ser jovem para ser bela, criativa, ousada. Na verdade, isso revela justamente o contrário: a falta de papas na língua e o comprometimento como coisas como trabalho e sociedade empurram-nas a testar vestimentas mais ousadas, que refletem seu estado de espírito. Uma viagem não-ortodoxa pelo mundo da moda em uma de suas capitais. Um brinde ao envelhecimento e a finitude de nossa própria vida.
+Advanced Style é um projeto que parece ter surgido de supetão, e que se transformou em um filme representante da própria espontaneidade de suas protagonistas. Cada conquista no mundo da moda para elas é uma conquista em dobro, em triplo, se comparado com a imensa quantidade de revistas que priorizam unicamente garotas que mal saíram da puberdade como um modelo único de beleza e sofisticação. Apenas mostrar estas belas senhoras e seus estilos de vestir no dia a dia é o suficiente para contradizer que é preciso ser jovem para ser bela, criativa, ousada. Na verdade, isso revela justamente o contrário: a falta de papas na língua e o comprometimento como coisas como trabalho e sociedade empurram-nas a testar vestimentas mais ousadas, que refletem seu estado de espírito. Uma viagem não-ortodoxa pelo mundo da moda em uma de suas capitais. Um brinde ao envelhecimento e a finitude de nossa própria vida.
 
 # Mistress America
 2015-10-26 cinemaqui cinema movies
@@ -41036,7 +41036,7 @@ Vemos logo depois McAllister se lembrando de outro professor seu amigo, que se a
 
 O fato é que Tammy se candidata para tentar se vingar de seu interesse amoroso, uma garota que também para se vingar namora agora seu irmão, Paul (Chris Klein), atraído pelo Sr. McCallister também para o palanque e auxiliado por um acidente que pausou temporariamente sua vida no esporte. Sim, o filme faz todo esse rodeio em uma eleição de um aluno na escola, e um de seus maiores trunfos é levar tudo isso o mais sério possível, utilizando para isso a trilha sonora dramática de Rolfe Kent como a coisa mais solene naquele universo (não sem também brincar com alguns poucos, mas bons momentos humorísticos, especialmente um que envolve uma corrida ao motel).
 
-Conforme vamos percebendo todo esse emaranhado de jogo de influências entre esses três personagens -- Tammy, Tracy e Mr. McAllister -- e suas motivações, fica claro que Eleição se torna muito mais do que uma ingênua escolha de presidente de grêmio: é um estudo aguçado de quatro personalidades -- incluo aí também o alienado mas bem-intencionado Paul, irmão de Tammy -- muito comuns no dia-a-dia, especialmente se categorizarmos as pessoas pelo seu interesse político. A genialidade do diretor Alexander Payne e seu companheiro de roteiro Jim Taylor, baseados no romance de Tom Perrotta, é não tornar tudo muito óbvio, mas deixar-nos ouvir os pensamentos deles a todo o momento. E mesmo assim, o que eles pensam não necessariamente traduz seus objetivos imediatamente. Quase como um House of Cards juvenil, aqui se dá tempo ao tempo para que tudo faça sentido, e se até mesmo o detalhe da motivação por trás da confissão de Tammy em dado momento quase nos escapa, é porque o filme vai confiando cada vez mais na capacidade de seu espectador de fisgar a linha de raciocínio das pessoas envolvidas. Nem todos querem a mesma coisa, e é isso o que torna a trama tão interessante.
+Conforme vamos percebendo todo esse emaranhado de jogo de influências entre esses três personagens -- Tammy, Tracy e Mr. McAllister -- e suas motivações, fica claro que Eleição se torna muito mais do que uma ingênua escolha de presidente de grêmio: é um estudo aguçado de quatro personalidades -- incluo aí também o alienado mas bem-intencionado Paul, irmão de Tammy -- muito comuns no dia a dia especialmente se categorizarmos as pessoas pelo seu interesse político. A genialidade do diretor Alexander Payne e seu companheiro de roteiro Jim Taylor, baseados no romance de Tom Perrotta, é não tornar tudo muito óbvio, mas deixar-nos ouvir os pensamentos deles a todo o momento. E mesmo assim, o que eles pensam não necessariamente traduz seus objetivos imediatamente. Quase como um House of Cards juvenil, aqui se dá tempo ao tempo para que tudo faça sentido, e se até mesmo o detalhe da motivação por trás da confissão de Tammy em dado momento quase nos escapa, é porque o filme vai confiando cada vez mais na capacidade de seu espectador de fisgar a linha de raciocínio das pessoas envolvidas. Nem todos querem a mesma coisa, e é isso o que torna a trama tão interessante.
 
 Conseguindo se conter em extrapolar sua conclusão muito além do necessário, Eleição toma por certo que o recado político foi dado a seu astuto espectador, além de utilizar uma pista-recompensa genial e com um tempo de tela absurdamente longo, e que mesmo assim -- ou talvez por causa disso -- se encaixa como uma luva. Vai ser difícil se esquecer das artimanhas de Mr. McAllister e seus alunos. Ainda mais quando parece haver muito mais do que percebemos nas entrelinhas deste exemplar projeto.
 
@@ -41134,7 +41134,7 @@ Esse filme é uma compilação de quadros do programa televisivo do grupo de hum
 
 Dirigido por Ian MacNaughton, diretor habitual do grupo, Ian, provavelmente com a ajuda dos rapazes, faz uma mescla de assuntos que se unem por animações pseudo-surreais que irão lembrar um "Pink Floyd: The Wall" subversivo, se isso fosse possível através do humor. Tudo está unido também pela presença de um apresentador que sempre fala o título do filme.
 
-Os fãs do grupo não me levem a mal, pois também sou fã quase incondicional do material de Eric Idle, Graham Chapman, John Cleese, Michael Palin e Terry Jones. E Terry Gilliam, que era cartunista da Mad (obviamente são dele as animações do filme). E mesmo que o filme contenha materiais como "a piada mais engraçada do mundo", o clássico papagaio morto e o hilário restaurante fino com um garfo sujo, todos esses três trabalhos são sensacionais como quadros separados de humor. Por estarem juntos em um material que se finge de história, como um tabloide inglês de casos do dia-a-dia, a falta de sentido típica do grupo escala níveis em que não é possível mais achar tanta graça, pois o caminho é irregular demais para conseguirmos segui-los.
+Os fãs do grupo não me levem a mal, pois também sou fã quase incondicional do material de Eric Idle, Graham Chapman, John Cleese, Michael Palin e Terry Jones. E Terry Gilliam, que era cartunista da Mad (obviamente são dele as animações do filme). E mesmo que o filme contenha materiais como "a piada mais engraçada do mundo", o clássico papagaio morto e o hilário restaurante fino com um garfo sujo, todos esses três trabalhos são sensacionais como quadros separados de humor. Por estarem juntos em um material que se finge de história, como um tabloide inglês de casos do dia a dia a falta de sentido típica do grupo escala níveis em que não é possível mais achar tanta graça, pois o caminho é irregular demais para conseguirmos segui-los.
 
 Fazer rir obviamente é o objetivo de comédias, e esse consegue fazer mais vezes do que a média dos filmes que se dizem comédia. No entanto, como Cinema, "E Agora..." perde feio para trabalhos feitos com um tema em mente, como "A Vida de Brian" e "O Sentido da Vida".
 
@@ -41208,7 +41208,7 @@ Uma virtude presente apenas nas ótimas ficções científicas. Essa, tristement
 
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
-Talvez o episódio mais fraco dessa temporada, mas ainda muito bom pela tensão que cria. Em mais uma versão futurista do mundo -- mas nem tanto -- as pessoas usam um gravador de tudo o que veem e escutam em seu dia-a-dia, podendo voltar rapidamente às suas memórias áudio-visuais através de um controle, e até realizar um playback na tela mais próxima para as pessoas presentes.
+Talvez o episódio mais fraco dessa temporada, mas ainda muito bom pela tensão que cria. Em mais uma versão futurista do mundo -- mas nem tanto -- as pessoas usam um gravador de tudo o que veem e escutam em seu dia a dia podendo voltar rapidamente às suas memórias áudio-visuais através de um controle, e até realizar um playback na tela mais próxima para as pessoas presentes.
 
 O que não aparece na história de maneira muito clara, mas que parece bem explorada em suas beiradas pelo diretor Brian Welsh, é que o pequeno controle que levam no bolso é a parte viva das pessoas, e quando estão utilizando, seus olhos ficam zumbificados.
 
@@ -42111,7 +42111,7 @@ Tudo começa em uma tempestade em marte, durante uma missão com humanos. Acredi
 
 Dirigido por Ridley Scott e escrito por Drew Goddard baseado no livro de Andy Weir, Perdido em Marte é um pequeno milagre do gênero. Ao apresentar tantos personagens diferentes interagindo em camadas que partem da mais básica sobrevivência humana (Mark) até os meandros da política internacional (NASA, China) o filme consegue estabelecer a tensão envolvendo pequenas decisões no grande conflito do filme: realizar um resgate de emergência em tempo recorde.
 
-O mais impressionante, contudo, é que nada que acontece no filme é gratuito ou soa forçado. Partindo de sua premissa e desenvolvendo a história em torno, os acontecimentos mais trágicos no dia-a-dia de Mark poderiam muito bem ocorrer, e as decisões de mais alto escalão fazendo sentido do ponto de vista de uma organização que justamente por depender de dinheiro público, precisa ser justificado pela pressão pública. Do ponto de vista dos cientistas, é fascinante acompanhar seus esforços intelectuais em resolver um dos maiores desafios apresentados pela humanidade desde então. Ou pelo menos o desafio com menor tempo para a resposta.
+O mais impressionante, contudo, é que nada que acontece no filme é gratuito ou soa forçado. Partindo de sua premissa e desenvolvendo a história em torno, os acontecimentos mais trágicos no dia a dia de Mark poderiam muito bem ocorrer, e as decisões de mais alto escalão fazendo sentido do ponto de vista de uma organização que justamente por depender de dinheiro público, precisa ser justificado pela pressão pública. Do ponto de vista dos cientistas, é fascinante acompanhar seus esforços intelectuais em resolver um dos maiores desafios apresentados pela humanidade desde então. Ou pelo menos o desafio com menor tempo para a resposta.
 
 Apresentando-nos uma fotografia absolutamente deslumbrante, o trabalho de Dariusz Wolski (A Travessia) em conjunto com Ridley Scott consegue entregar cenários e transições poéticas do planeta vermelho, o que combinado com a edição de Pietro Scalia se torna um trabalho ambicioso e preciso, unindo dois mundos separados por 750 milhões de quilômetros trabalhando juntos por um objetivo em comum, com um dinamismo e fluidez exemplares.
 
@@ -42139,7 +42139,7 @@ Além da história estar em família, outra mudança significativa é que houve 
 
 Porém, as técnicas usadas no filme são interessante, mas estão longe de ser o melhor no filme. Suas maiores virtudes residem, felizmente, em seus personagens, que estão fiéis ao conteúdo original, seja em suas piadas ou em seus dramas. Toda a história gira em torno da eterna história central: a luta de um menino tímido e depressivo em resgatar sua autoestima demonstrando que ele tem talentos que comprovam seu valor. Aliado a isso, temos seu alter-ego, Snoopy (tão bem demonstrado em uma transição onde os rosto de ambos se fundem), cheio de vida e imaginação. A imaginação de Snoopy, no fundo, é o que une todos aqueles personagens, ou pelo menos dá o ar da vida a cada um deles. A interação dos outros personagens com Charlie Brown é o que demonstra seu conflito interno de maneira mais cômica, mas para o drama, o verdadeiro dilema filosófico, escutamos seu eu interior bolar os seus planos mirabolantes que tentam a todo custo elevar seu ego. Isso soa familiar para um adulto?
 
-O roteiro escrito a seis mãos consegue unir os pequenos dramas dos outros personagens em um mosaico que descreve com perfeição uma sala de aula que ambiciona com todas as forças se tornar de adultos. O que divide crianças e adultos no filme é que conseguimos entender as crianças. Os adultos, esse som inaudível, nunca são relevantes. O sonho das crianças é se comportarem e se tornarem adultos, mas enquanto forem crianças sonhadoras o mundo estará a salvo. (É quando a realidade cínica do dia-a-dia bate à porta que tudo se esvai.)
+O roteiro escrito a seis mãos consegue unir os pequenos dramas dos outros personagens em um mosaico que descreve com perfeição uma sala de aula que ambiciona com todas as forças se tornar de adultos. O que divide crianças e adultos no filme é que conseguimos entender as crianças. Os adultos, esse som inaudível, nunca são relevantes. O sonho das crianças é se comportarem e se tornarem adultos, mas enquanto forem crianças sonhadoras o mundo estará a salvo. (É quando a realidade cínica do dia a dia bate à porta que tudo se esvai.)
 
 A Garotinha Ruiva (é assim que ela é chamada), responsável pela paixonite de Charlie, e sempre nos cartoons praticamente invisível (nunca a vemos diretamente), aqui recebe o tratamento adequado, e de fato não a vemos por completo quase todo o filme ou sempre de relance, de lado e, o mais comum, apenas seus cabelos, quase que homenageando sua representação original. Porém, aos poucos algo muda nesses personagens, tanto em Charlie quanto nela, e ambos começam a se mover nessa jornada de auto-descoberta que parece nunca mudar. Com isso se tornam mais reais. Charlie arrisca mais, e recebe resultados, queira ou não. Mas isso não interessa. É sua vontade de conseguir e sua persistência inabalável dentro de sua estrutura de garoto desastrado que sintetiza sua realidade. O grande trunfo do roteiro da família Schulz é entender, como nós sempre entendemos, em nosso subconsciente, que o objetivo de Charlie é o da auto-descoberta.
 
@@ -42802,7 +42802,7 @@ Mas não é isso que soa como novela. O exagero nas cenas em que a câmera passe
 
 E ainda sobre o amadorismo, os números musicais escancaram o completo despreparo da dublagem e engenharia de som da indústria cinematográfica brasileira. Quase a maior parte do tempo a letra da música nos distrai por estarmos caçando o sincronismo entre o que está sendo cantado e a boca dos atores, revelando sua fraca estrutura, ainda que quase sempre embalada em uma dança pelo palco (e mais câmeras dançantes).
 
-Mas o mais notável de tudo isso é que, aos trancos e barrancos, a mensagem de esperança funciona. É por causa dela que o sincronismo sonoro capenga das canções pode ser confundido com liberdade poética. É por causa dela que as cores berrantes podem ser confundidas com uma abordagem lúdica da natureza. E é por causa dela que as crises existenciais mais chinfrins (com o campeão sendo a da personagem de Lombardi) se misturam com o drama do dia-a-dia de pessoas comuns, rasas, mas muito das vezes, mais profundas que todos os roteiros complexos demais para levar em consideração o fator humano.
+Mas o mais notável de tudo isso é que, aos trancos e barrancos, a mensagem de esperança funciona. É por causa dela que o sincronismo sonoro capenga das canções pode ser confundido com liberdade poética. É por causa dela que as cores berrantes podem ser confundidas com uma abordagem lúdica da natureza. E é por causa dela que as crises existenciais mais chinfrins (com o campeão sendo a da personagem de Lombardi) se misturam com o drama do dia a dia de pessoas comuns, rasas, mas muito das vezes, mais profundas que todos os roteiros complexos demais para levar em consideração o fator humano.
 
 Talvez essa seja uma defesa rasa ao filme, apelando inocentemente pela esperança de uma cidade melhor para morar. Mas não sou ingênuo. A proposta do filme é boba e simplória. Mas é justamente por ser boba que tem a chance de dar certo. Pelo menos como uma viagem intimista.
 
@@ -43081,7 +43081,7 @@ Mesmo com toda essa preguiça intelectual e falta de ambição que daria nos ner
 # House of Cards - Quarta Temporada
 2016-03-13 cinema series
 
-A temporada 4 de House of Cards é o que esperaria ver de um Francis Underwood presidente, algo que foi adiado pela pálida temporada anterior, que ainda que tenha seus momentos gloriosos, falha em sua premissa principal: causar tensão no dia-a-dia presidencial. E essa tensão está amplamente disponível agora, se espalhando por todas as vias políticas. Obviamente ela afeta sempre indiretamente Frank, mas a série se inicia com Lucas Goodwin na prisão (Sebastian Arcelus), que assim como Doug Stamper (Michael Kelly) terá uma curva trágica que desencadeará a trama principal.
+A temporada 4 de House of Cards é o que esperaria ver de um Francis Underwood presidente, algo que foi adiado pela pálida temporada anterior, que ainda que tenha seus momentos gloriosos, falha em sua premissa principal: causar tensão no dia a dia presidencial. E essa tensão está amplamente disponível agora, se espalhando por todas as vias políticas. Obviamente ela afeta sempre indiretamente Frank, mas a série se inicia com Lucas Goodwin na prisão (Sebastian Arcelus), que assim como Doug Stamper (Michael Kelly) terá uma curva trágica que desencadeará a trama principal.
 
 Porém, dessa vez na ribalta (e essa palavra é citada muitas e muitas vezes) também se apresenta uma nova Claire Underwood, decidida a não continuar sob a luz mais fraca. Através de uma série de eventos que brincam razoavelmente bem com todo o esquema de jogo de influências e mudanças de estratégia no meio do vôo, a primeira metade da temporada desencadeia eficientemente para um dos momentos e um dos episódios mais fortes dramaticamente na trama, quando um evento arrebatador pode ser confundido como conspiração, medida desesperada ou simplesmente uma coincidência tão incrível que ela se torna espontânea, orgânica e com certeza um dos melhores momentos no roteiro de toda a série, unindo todas as pontas de seus personagens de uma vez.
 
@@ -43161,7 +43161,7 @@ Realizando em seu terceiro ato uma espécie de debate intergaláctico entre a ta
 # Mais Forte Que Bombas
 2016-03-19 cinemaqui cinema movies
 
-Mais Forte Que Bombas consegue pegar o contexto mais imediatista dos conflitos armados, onde pessoas morrem e sofrem todos os dias, e através de uma fotógrafa que vive esse dia-a-dia trazer a questão de outros tipos de conflitos, mais internos e intrínsecos da convivência entre seres humanos. Se torna uma tarefa difícil considerar a depressão um problema tão urgente quanto soldados atirando em mulheres e crianças, mas a dedicação  do filme em elaborar uma intrincada rede de sentimentos, navegando por diferentes períodos na vida dos seus personagens, favorece imensamente essa conexão entre sofrimento interno e externo.
+Mais Forte Que Bombas consegue pegar o contexto mais imediatista dos conflitos armados, onde pessoas morrem e sofrem todos os dias, e através de uma fotógrafa que vive esse dia a dia trazer a questão de outros tipos de conflitos, mais internos e intrínsecos da convivência entre seres humanos. Se torna uma tarefa difícil considerar a depressão um problema tão urgente quanto soldados atirando em mulheres e crianças, mas a dedicação  do filme em elaborar uma intrincada rede de sentimentos, navegando por diferentes períodos na vida dos seus personagens, favorece imensamente essa conexão entre sofrimento interno e externo.
 
 E é assim que a primeira sequência, mostrando o nascimento do bebê de um casal jovem, se transforma em poucos minutos em um exemplo de desencontro que revela mais do que deveria. É no final de um abraço inesperado, e o que ele irá significar no futuro da relação da família recém-formada, que se mantém uma narrativa cheia de movimentos sutis e o vai-e-vem do tempo vai fazendo cada vez mais sentido, pois vamos entendendo melhor cada personagem e suas relações.
 
@@ -43237,7 +43237,7 @@ Recriando com satisfação uma rivalidade épica da Fórmula 1 entre dois campe�
 # Albert Nobbs
 2016-03-27 cinema movies
 
-Não é uma discussão de gêneros, mas da estreiteza da alma humana. Albert Nobbs se torna um personagem de tragédia anunciada, mas nunca deixa de ser fascinante através da pele de uma Glenn Close obstinada em entregar uma figura que teve uma vida tão desesperada, e por tanto tempo, que se acostumou em viver presa em sua jaula do dia-a-dia, enquanto ajunta pacientemente centavos e xelins para uma dia viver a vida que lhe fora negada desde a infância.
+Não é uma discussão de gêneros, mas da estreiteza da alma humana. Albert Nobbs se torna um personagem de tragédia anunciada, mas nunca deixa de ser fascinante através da pele de uma Glenn Close obstinada em entregar uma figura que teve uma vida tão desesperada, e por tanto tempo, que se acostumou em viver presa em sua jaula do dia a dia enquanto ajunta pacientemente centavos e xelins para uma dia viver a vida que lhe fora negada desde a infância.
 
 Disfarçada de homem por toda a vida, Albert almeja conseguir se erguer com seus próprios pés, e assim não depender da estrutura da sociedade em que vive, e que certamente lhe colocaria na sarjeta se revelasse quem é, como uma mulher indigna de pertencer a um hotel cuja dona demonstra de todas as formas a pobreza material e espiritual que vem com o inevitável corolário: a mesquinhez como ferramenta de sobrevivência.
 
@@ -44000,7 +44000,7 @@ Bom, espero que quem precisa dessas informações técnicas siga, compartilhe e 
 # A Corte
 2016-06-01 cinemaqui cinema movies
 
-A Corte está no Festival Varilux desse ano e conta a história justamente do que propõe. Vamos acompanhando o dia-a-dia na vida de todos envolvidos no julgamento de um réu, quase sempre sob o ponto de vista do juiz.
+A Corte está no Festival Varilux desse ano e conta a história justamente do que propõe. Vamos acompanhando o dia a dia na vida de todos envolvidos no julgamento de um réu, quase sempre sob o ponto de vista do juiz.
 
 Que começa o filme gripado.
 
@@ -44431,7 +44431,7 @@ Mas não se engane, esta não é uma comédia, mas um drama que usa comédia com
 
 A Conexão Francesa é um filme de máfia, mas passa longe dos estilos de Martin Scorsese (Os Bons Companheiros, Cassino) e da trilogia O Poderoso Chefão. Não chega nenhum momento a ser divertido. Mesmo nos momentos de humor fica difícil de rir. Ao mesmo tempo, não se dá ao trabalho de explicar a hierarquia das gangues, nem explora muito o relacionamento entre seus membros. É um filme tenso, mas ao mesmo tempo prático. No começo vemos que ele se inspira "levemente" em eventos reais, o que se torna um eufemismo para um roteiro carregadíssimo, que se arrasta através dos acontecimentos em uma espiral constante de morte, violência e dor.
 
-A história está completamente focada na caça iniciada pelo novo juiz de crime organizado, Pierre Michel (Jean Dujardin). Enquanto juízes geralmente passam longe do dia-a-dia dos policiais e investigadores, o personagem de Dujardin tem dois motivos para estar tão envolvido, a ponto de sair às ruas e fazer parte ativa das investigações: 1) antes era juiz de menores, e conviveu com famílias caindo em desgraça por causa do vício (uma delas é usada como gancho), e 2) ele mesmo caiu em um vício no passado (a jogatina).
+A história está completamente focada na caça iniciada pelo novo juiz de crime organizado, Pierre Michel (Jean Dujardin). Enquanto juízes geralmente passam longe do dia a dia dos policiais e investigadores, o personagem de Dujardin tem dois motivos para estar tão envolvido, a ponto de sair às ruas e fazer parte ativa das investigações: 1) antes era juiz de menores, e conviveu com famílias caindo em desgraça por causa do vício (uma delas é usada como gancho), e 2) ele mesmo caiu em um vício no passado (a jogatina).
 
 Já o líder da gangue, Gaëtan 'Tany' Zampa (Gilles Lellouche), mantém um esquema aparentemente à prova de falhas, cooptando todos em volta -- por bem ou por mal -- e lembrando muito um governo amador. Bom, no fundo é o que máfias são. Ele passa de uma relativa tranquilidade nos "negócios" para um estado de alerta constante por causa do vigor de Pierre, cujas decisões enérgicas fazem efeito no departamento que dirige. Quando o juiz manda a lei às favas e começa a emitir mandatos de prisão para cercar os seus comparsas, vemos o enorme esforço que é para a justiça se mobilizar, sendo que o efeito é um pequeno contratempo no lazer dos criminosos, como deixar um dos capangas sem sua mulher, que cuidava dos filhos, o que dá uma boa medida de quem é que está vencendo essa guerra.
 
@@ -44574,7 +44574,7 @@ Conseguindo manter um equilíbrio fascinante entre seus personagens principais, 
 
 A saga de Vince Gilligan continua soando como um mini-manifesto libertário, mas agora ao mesmo tempo resolve discutir moral através de múltiplas ações de múltiplos personagens. Enquanto Skyler começa a se envolver nos planos de Walt, a questão sobre o que é certo e errado entra em conflito com o que é legal e ilegal. Durante toda a temporada, um cigarro (legal) é carregado por Jesse em seus inúmeros maços; o que esse cigarro contém de especial é uma outra substância escondida (ilegal) que pode ser usada para envenenar uma pessoa. Essa substância foi produzida sem a necessidade de ferir ninguém, e envenenar alguém seria uma ação necessária caso houvesse algum risco de vida das pessoas envolvidas, por causa da produção de uma terceira substância cuja produção também é ilegal, e combatida através de bilhões de dólares queimados pelo governo em uma guerra informal.
 
-O final da terceira temporada de Breaking Bad termina com um assassinato. Um inesperado, apressado assassinato. O começo da quarta, portanto, realiza o mesmo ato. Porém, aqui, há um significado mais profundo, mais obscuro e mais metafórico. Ele tem a dizer sobre quem está no controle, e o quanto este alguém possui de controle sobre os outros. Ele incute na mente de Walter White, uma mente cujo cérebro, desconfiamos, está sofrente um processo químico que pode ou não alterar sua percepção da realidade e sua própria personalidade. Isso já fica claro na temporada anterior, mas nessa temporada ainda temos mais um apelo (o genético). No fundo, a maior virtude da série não se mantém apenas no espectro político da coisa, mas no humano, especialmente no filosófico: somos donos de nossas próprias ações, ou a influência do ambiente (e da genética, e das doenças ou de qualquer mudança química) exerce um poder quase que sobrenatural para nossas decisões do dia-a-dia?
+O final da terceira temporada de Breaking Bad termina com um assassinato. Um inesperado, apressado assassinato. O começo da quarta, portanto, realiza o mesmo ato. Porém, aqui, há um significado mais profundo, mais obscuro e mais metafórico. Ele tem a dizer sobre quem está no controle, e o quanto este alguém possui de controle sobre os outros. Ele incute na mente de Walter White, uma mente cujo cérebro, desconfiamos, está sofrente um processo químico que pode ou não alterar sua percepção da realidade e sua própria personalidade. Isso já fica claro na temporada anterior, mas nessa temporada ainda temos mais um apelo (o genético). No fundo, a maior virtude da série não se mantém apenas no espectro político da coisa, mas no humano, especialmente no filosófico: somos donos de nossas próprias ações, ou a influência do ambiente (e da genética, e das doenças ou de qualquer mudança química) exerce um poder quase que sobrenatural para nossas decisões do dia a dia
 
 Das frases marcantes, há várias, mas é mais uma vez da boca de Bryan Cranston que saem duas, em sequências: "I am the danger" ("eu sou o perigo") e "I am the one who knocks" ("sou que que bate à porta") faz parte de um dos melhores diálogos da série entre Walt e Skyler, pertencente a um excelente episódio do diretor de fotografia da série, Michael Slovis, "Cornered".
 
@@ -44710,7 +44710,7 @@ E esta tem a desvantagem de se transformar em um passeio no parque. Enquanto Pro
 
 Kate Winslet e Josh Brolin são atores tão competentes que "Refém da Paixão" sai quase ileso de seu formato drama enlatado com situações previsíveis para tornar tudo um pouco mais tenso. Até Gattlin Griffith, que faz o jovem Henry, e que quando adulto é narrado por Tobey Maguire, consegue um desempenho interessante, e talvez tenha dado a sorte de pegar o personagem mais ou menos acompanhável. No entanto, a mãe amargurada Adele (Winslet) e o bom homem preso injustamente Frank (Brolin) são funções ingratas da dupla de atores veteranos, pois uma vez estabelecidos os estereótipos, eles nunca mudam.
 
-E, mesmo assim, esses dois insistem de uma maneira até compreensível em utilizar pequenas situações do dia-a-dia para elevar o estado de espírito neste que é talvez o trabalho mais fraco do diretor Jason Reitman, o até do roteirista Jason Reitman. Tendo estreado em Obrigado por Fumar e feito o texto de estreia de Diablo Cody em Juno, Reitan manteve a boa forma no ótimo Amor sem Escalas, seja na direção quanto no roteiro. Aqui, porém, por usar o romance de Joyce Maynard de uma maneira insípida, nunca temos a sensação de ver a história se movendo, mas sim parada, estática, nos mostrando como eram mágicos os épicos anos 80.
+E, mesmo assim, esses dois insistem de uma maneira até compreensível em utilizar pequenas situações do dia a dia para elevar o estado de espírito neste que é talvez o trabalho mais fraco do diretor Jason Reitman, o até do roteirista Jason Reitman. Tendo estreado em Obrigado por Fumar e feito o texto de estreia de Diablo Cody em Juno, Reitan manteve a boa forma no ótimo Amor sem Escalas, seja na direção quanto no roteiro. Aqui, porém, por usar o romance de Joyce Maynard de uma maneira insípida, nunca temos a sensação de ver a história se movendo, mas sim parada, estática, nos mostrando como eram mágicos os épicos anos 80.
 
 Justamente por isso, mas não retirando o mérito, a direção de arte de Mark Robert Taylor e a fotografia de Eric Steelberg tornam a atmosfera de 1987 algo imensamente satisfatório. A época em si se torna um personagem à parte, mas não sabemos bem por que. Talvez o filme tenha também se apaixonado erroneamente por esta década, como Adele acaba se entregando a um foragido da lei.
 
@@ -45084,7 +45084,7 @@ Apesar de não encontrar de fato respostas para questões vitais do longa, como 
 # O Jardim das Palavras
 2016-08-06 cinema movies
 
-Makoto Shinkai tem apuro visual. Adentrando em uma megalópole para narrar este conto intimista entre uma professora e um aluno, ele consegue encontrar os quadros perfeitos para animar e dar a sensação, através do som, de estarmos de fato experimentando um dia-a-dia naquela cidade movimentada que contém em seus dias de chuva um refúgio secreto entre duas pessoas.
+Makoto Shinkai tem apuro visual. Adentrando em uma megalópole para narrar este conto intimista entre uma professora e um aluno, ele consegue encontrar os quadros perfeitos para animar e dar a sensação, através do som, de estarmos de fato experimentando um dia a dia naquela cidade movimentada que contém em seus dias de chuva um refúgio secreto entre duas pessoas.
 
 É nos galhos dobrados de uma árvore, que ao sabor do vento raspam na água do lago, ou em um pássaro que sobrevoa em volta de um arranha-céu, ou até mesmo no movimento de um pé que brinca com seu sapato, que O Jardim das Palavras recebe um tratamento especial. Baseando-se no mistério para contar sua história, conhecemos essas duas pessoas que se encontram todos os dias de chuva. O filme tenta narrar o relacionamento entre eles, mas perde sua força justamente em seus momentos-chave, declarando para o espectador que não tem muita ideia do que fazer com aquela história, ou que seu desfecho será tão imprevisível que o próprio filme não sabe onde vai dar.
 
@@ -45345,7 +45345,7 @@ E você corre o risco de levar choques sem saber por quê.
 
 Uma história de super-heróis ligeiramente diferente do que a Marvel costuma contar, Jessica Jones é uma narrativa arrastada, que dá tempo de tela demais para a limitada Krysten Ritter (da série Breaking Bad), e que muda de tom durante sua história. No início há indícios de um noir pós-moderno, com cores na penumbra, uma protagonista bisbilhoteira de caráter (e um passado) duvidoso, e uma certa relativização do que é certo e errado; lá pela metade, com o surgimento do vilão Killgrave (o ótimo David Tennant) encontramos um curioso debate de quais são os papéis de bem e mal, assim como se vale a pena tentar salvar representantes da espécie humana conhecendo sua capacidade infinita para miséria de espírito, estupidez e egocentrismo; e no final, para conseguir executar seu "plano final", manipula tudo que havíamos visto até então para entregar uma conclusão clichê e insossa, nos forçando a tentar gostar de uma heroína problemática e desgostar de um vilão no mínimo fascinante.
 
-Agora, ignorando todo o roteiro, o universo criado pela editora de gibis para mais essa série é pseudo-fantasiosa, está integrada à cronologia dos Vingadores (até porque se passa em Nova York), e contém os elementos populares que a produtora de internet Netflix está acostumada a trabalhar: cenas de luta, sexo, conflitos internos nos seus personagens. Ele convence a assisti-la até o final pela sua honesta convicção de estar trabalhando com elementos originais: não há heróis tradicionais aqui, pois eles ainda estão sendo forjados na dura realidade do dia-a-dia. No entanto, a cada novo passo adiante, conseguimos reconhecer alguma mudança. Isso acontece não apenas naqueles com algum poder, mas também nas pessoas normais, sejam elas viciadas, mesquinhas, traiçoeiras ou até... advogadas (Carrie-Anne Moss no automático).
+Agora, ignorando todo o roteiro, o universo criado pela editora de gibis para mais essa série é pseudo-fantasiosa, está integrada à cronologia dos Vingadores (até porque se passa em Nova York), e contém os elementos populares que a produtora de internet Netflix está acostumada a trabalhar: cenas de luta, sexo, conflitos internos nos seus personagens. Ele convence a assisti-la até o final pela sua honesta convicção de estar trabalhando com elementos originais: não há heróis tradicionais aqui, pois eles ainda estão sendo forjados na dura realidade do dia a dia No entanto, a cada novo passo adiante, conseguimos reconhecer alguma mudança. Isso acontece não apenas naqueles com algum poder, mas também nas pessoas normais, sejam elas viciadas, mesquinhas, traiçoeiras ou até... advogadas (Carrie-Anne Moss no automático).
 
 A personagem de Jessica Jones de Krysten Ritter não é necessariamente ruim, mas sua atuação é. Com diálogos até que bem conduzidos pela (grande) equipe de roteiristas -- com destaque para os episódios "AKA WWJD?" e "AKA Smile" -- Ritter reduz tudo a uma repetição enfadonha, de quem está cansada de viver, mas que é compelida a continuar pelo simples peso da culpa que carrega pela morte dos pais e da última vítima que fez sob o controle de Killgrave. Isso não é particularmente eficaz quando a vemos ensaiar uma vida feliz com o forte, sem camisa e em breve com uma série só dele Luke Cage (Mike Colter em um papel digno). Há limites para a depressiva-compulsiva, mas esse limite Ritter parece desconhecer. Como consequência, fica difícil delimitar onde termina a fachada de auto-indulgência e onde começam os primeiros traços de um potencial ser humano em Jessica.
 
@@ -45364,7 +45364,7 @@ E por falar em lei, o filme ainda de brinde destaca que está andando todo tempo
 
 Porém, acima de tudo (até da lei), este é um filme sobre pessoas obcecadas pelo trabalho, seja este trabalho criminoso ou não. Pessoas habilidosas no que fazem, que amam suas funções, apesar de apenas algumas admitirem isso, como o divertido colega latino de Mazur, Frankie, interpretado por Daniel Mays com um humor e dignidade ímpares. Frankie não é o cara que estraga tudo pelo seu temperamento, mas é uma pessoa disposta a arriscar mais do que devia por um bom contato. É ele que sobe o primeiro degrau que irá levar Mazur para o topo, apesar das ressalvas do próprio Mazur, que, sempre discreto, fica visivelmente irritado que seu colega entre em sua casa no meio de uma reunião de amigos de sua família.
 
-Sua irritação, nesse momento do filme, parece desproporcional. Porém, a genialidade do roteiro da estreante Ellen Sue Brown é não entregar nada de bandeja, mas deixa o espectador perceber o tipo de pessoas com quem Mazur e Frankie precisam lidar no dia-a-dia não pelo clichê desses filmes, como a descrição dos crimes que eles cometeram, mas pela simples observação de seu comportamento em situações sociais, e até onde isso chega. Muito mais pra frente há uma situação em que Mazur, sob disfarce, é obrigado a fingir ser um "membro da gangue" na frente de sua mulher. Essa cena, enérgica e em uma crescente tensa e hipnotizante, consegue explicar todas as ressalvas do agente lá no começo do filme, em nunca misturar trabalho e família.
+Sua irritação, nesse momento do filme, parece desproporcional. Porém, a genialidade do roteiro da estreante Ellen Sue Brown é não entregar nada de bandeja, mas deixa o espectador perceber o tipo de pessoas com quem Mazur e Frankie precisam lidar no dia a dia não pelo clichê desses filmes, como a descrição dos crimes que eles cometeram, mas pela simples observação de seu comportamento em situações sociais, e até onde isso chega. Muito mais pra frente há uma situação em que Mazur, sob disfarce, é obrigado a fingir ser um "membro da gangue" na frente de sua mulher. Essa cena, enérgica e em uma crescente tensa e hipnotizante, consegue explicar todas as ressalvas do agente lá no começo do filme, em nunca misturar trabalho e família.
 
 Aliás, a direção de Brad Furman torna todas as cenas tensas ao apresentar ao espectador um mundo fechado, em uma abertura de campo limitada, em ambientes escuros, quando Mazur conversa com os capangas que irão abrir-lhe as portas para os grandes chefões do tráfico. Mais para a frente, ao conversar diretamente com os chefões, a câmera se abre, e vemos toda a opulência garantida pelas dezenas e centenas de milhões que estão sendo lavados por Mazur (ou seu nome secreto, Bob Musella), mas ao mesmo tempo a insegurança de não haver fuga simples do lugar em que chegaram. Não há nenhuma chance de sobreviver ao primeiro erro cometido, e por isso o filme se beneficia imensamente em tornar sempre claro que a perfeição no trabalho de Mazur e Frankie não é apenas desejável, mas essencial para a sobrevivência de ambos (e as consequências são explicadas da maneira sempre pouco sutil de Frankie em dado momento, o que inclui o tipo de tortura psicológica e física que essa gente costuma oferecer aos policiais infiltrados).
 
@@ -47743,7 +47743,7 @@ Na primeira história, um casal se distancia na comunicação, onde até o sexo 
 
 Todos esses panoramas se unem em torno de um universo frio e onde o sexo, visto e assistido naturalmente, não é algo sedutor, mas mecânico e desesperado, como a procurar um significado que não existe no próprio ato. Essas pessoas não estão apenas carentes de recursos, citado pontualmente com filas e racionamento, mas carentes sobretudo de uma auto-estima essencial para que o verdadeiro amor surja. A direção estática de Wasilewski, com quadros quase sempre parados, denota o marasmo e a mesmice, e exceto em alguns poucos momentos, como uma valsa dançada ao som de Danúbio Azul, visualiza a depressão de um povo com um olhar não apenas curioso, mas fascinado. Tentando olhar por dentro das pessoas exibindo sua nudez e sua intimidade entre quatro paredes, além dos joguinhos de sedução, como fingir que tropeçou na escada, o filme tenta desesperadamente achar um significado para tudo isso, o que torna o conjunto da obra de uma poesia vazia, frustrante, mas ao mesmo tempo poderosa e densa, por eliminar todo o resto que faz um filme palatável.
 
-Um filme como esse depende muito das atuações, e há algumas pequenas descobertas aqui. Como Julia Kijowska, uma dona de casa que perde seu suporte espiritual ao se apaixonar por um padre e não conseguir entender seu próprio ser. O elenco fica à mercê do controle obsessivo da direção, mas se entrega na medida em que o filme consegue capturar essa fuga de suas próprias personas e máscaras usadas no dia-a-dia. Isso não as tornam hipócritas, mas autênticas, embora invisíveis aos outros ao redor.
+Um filme como esse depende muito das atuações, e há algumas pequenas descobertas aqui. Como Julia Kijowska, uma dona de casa que perde seu suporte espiritual ao se apaixonar por um padre e não conseguir entender seu próprio ser. O elenco fica à mercê do controle obsessivo da direção, mas se entrega na medida em que o filme consegue capturar essa fuga de suas próprias personas e máscaras usadas no dia a dia Isso não as tornam hipócritas, mas autênticas, embora invisíveis aos outros ao redor.
 
 E, diga-se de passagem, os homens ficam de fora de toda essa equação. Eles são às vezes o alvo do desejo, mas só isso. Este é um filme que foca basicamente no drama feminino, na busca amargurada das mulheres por compreensão, carinho, saciação da vontade do próprio ser, algo que aquele mundo é incapaz de lhes entregar. E elas quase não são vistas como indivíduos, mas como mulheres parecidas, presas à situação política, econômica e afetiva do mundo que as acolheu como estereótipos de alguma função social qualquer.
 
@@ -48673,7 +48673,7 @@ A mensagem do filme é tão difusa quanto sua protagonista. Não há muito mais 
 
 Paraíso poderia de uma maneira peculiar fazer sessão dupla com A Fita Branca. Enquanto o trabalho de Michael Haneke explora em boa parte do tempo o que tornou uma nação propensa a cometer os horrores que seriam cometidos na Segunda Guerra, este trabalho russo/alemão do diretor Andrey Konchalovskiy já está imerso nesta situação. Vemos as pessoas executando e racionalizando suas tarefas da melhor maneira possível, mesmo que sua tarefa seja quebrar os joelhos de alguém tentando salvar duas crianças ou queimar o maior número de judeus na câmara de gás. Por trás das máscaras sociais dessa época Konchalovskiy conta uma história fascinante de terror através do ultrarrealismo.
 
-Acompanhamos três personagens icônicos. Um policial francês que trabalha em comunhão com os nazistas em uma França sob controle alemão, uma aristocrata russa que aprende a subverter sua moral e viver como uma prisioneira comum e comumente abusada por todos, e um alemão de alto-escalão militar que representa em carne e osso o ideal que os intelectuais alemães construíram à época, muitos influenciados pelo trabalho de Friedrick Nietzsche (no começo, ao citar seus descendentes, ele comenta de um tio-avô primo do filósofo). Vemos os três em seu dia-a-dia durante a guerra ao mesmo tempo que o vemos em uma espécie de entrevista, filmados com os recursos da época, que expõem seus pensamentos durante aqueles momentos.
+Acompanhamos três personagens icônicos. Um policial francês que trabalha em comunhão com os nazistas em uma França sob controle alemão, uma aristocrata russa que aprende a subverter sua moral e viver como uma prisioneira comum e comumente abusada por todos, e um alemão de alto-escalão militar que representa em carne e osso o ideal que os intelectuais alemães construíram à época, muitos influenciados pelo trabalho de Friedrick Nietzsche (no começo, ao citar seus descendentes, ele comenta de um tio-avô primo do filósofo). Vemos os três em seu dia a dia durante a guerra ao mesmo tempo que o vemos em uma espécie de entrevista, filmados com os recursos da época, que expõem seus pensamentos durante aqueles momentos.
 
 As filmagens em si emulam as condições do cinema na época, com uma resolução de tela quadrada, p&b e com um defeito ou outro na montagem (por exemplo, aquele clarão de final de rolo). Tudo isso facilita nossa identificação com a época, embora o resultado seja estilizado demais, com um p&b puro e cristalino, como magicamente restaurado. O uso desse artifício acaba tornando o resultado belíssimo e poético, o que flerta perigosamente em associar beleza com as atrocidades narradas (o que acaba, talvez inadvertidamente, ou a glorificar a violência, ou a justificá-la, ou, a melhor resposta, chocar ao escancarar beleza onde ela não é bem-vinda).
 
@@ -48803,7 +48803,7 @@ O fato é que os diretores Eric Summer e Éric Warin não possuem a menor fé na
 # Por onde você acessa este blogue?
 2017-02-01
 
-Sério, esta é uma pergunta relevante neste momento. Ao menos para mim. Estou cansado de tentar manter duas áreas distintas do conhecimento, que venho arquivando por anos, e estou pensando em publicar sobre absolutamente qualquer coisa relacionada com meu dia-a-dia por aqui, o que irá envolver necessariamente assuntos que não girem em torno de programação e nem em C++.
+Sério, esta é uma pergunta relevante neste momento. Ao menos para mim. Estou cansado de tentar manter duas áreas distintas do conhecimento, que venho arquivando por anos, e estou pensando em publicar sobre absolutamente qualquer coisa relacionada com meu dia a dia por aqui, o que irá envolver necessariamente assuntos que não girem em torno de programação e nem em C++.
 
 (Claro que assuntos onde fui longe demais, como Cinema, já possuem seu cantinho para os aficionados. Isso já está em seu branch apartado.)
 
@@ -49226,7 +49226,7 @@ Recarregado o projeto no Visual Studio após a intervenção cirúrgica, tudo vo
 # Native Floripa 2017: Palestras
 2017-02-09
 
-Já está disponível na grade de palestras do Native Floripa 2017 o conteúdo que será ministrado nos dois dias do final de semana dias 18 e 19 de março de 2017 em Florianópolis, na Associação Catarinense de Empresas de Tecnologia (Rodovia SC 401, Km 4, Bairro Saco Grande, Florianópolis, SC, CEP 88032-000, Telefone (48) 2107-2700). As palestras englobam trabalhos acadêmicos, teoria da computação, demonstração de bibliotecas e práticas comuns no dia-a-dia, treinamentos em engenharia reversa, embarcados e internet das coisas, e toda coleção de linguagens bizarras que você poderá conhecer. Ah, e moedas digitais (eu! eu!) =)
+Já está disponível na grade de palestras do Native Floripa 2017 o conteúdo que será ministrado nos dois dias do final de semana dias 18 e 19 de março de 2017 em Florianópolis, na Associação Catarinense de Empresas de Tecnologia (Rodovia SC 401, Km 4, Bairro Saco Grande, Florianópolis, SC, CEP 88032-000, Telefone (48) 2107-2700). As palestras englobam trabalhos acadêmicos, teoria da computação, demonstração de bibliotecas e práticas comuns no dia a dia treinamentos em engenharia reversa, embarcados e internet das coisas, e toda coleção de linguagens bizarras que você poderá conhecer. Ah, e moedas digitais (eu! eu!) =)
 
 - Conectando EFL Models a Elementary Widgets
 
@@ -49655,7 +49655,7 @@ Depois de detectado o arquivo faltante, é só removê-lo ou atualizar o path. E
 
 Personal Shopper envolve espiritismo em um mundo impessoal e materialista. Sequer há emoção no filme, embora a história gire em torno do luto de um ente querido. Mas talvez, no final das contas, o que conte mais não é a esperança que haja algo após a morte, mas que haja algo depois de uma vida não vivida, mas meramente suportada.
 
-A história gira e é contada em torno das percepções da personagem de Kirsten Stewart, Maureen Cartwright, que acabou de perder o irmão, Lewis, vítima de um problema genético que, apesar de raro, ela compartilha. Ela trabalha como Personal Shopper para uma modelo famosa, passando seu dia-a-dia indo e vindo a lojas para levar e trazer roupas e acessórios para sua patroa.
+A história gira e é contada em torno das percepções da personagem de Kirsten Stewart, Maureen Cartwright, que acabou de perder o irmão, Lewis, vítima de um problema genético que, apesar de raro, ela compartilha. Ela trabalha como Personal Shopper para uma modelo famosa, passando seu dia a dia indo e vindo a lojas para levar e trazer roupas e acessórios para sua patroa.
 
 Mas não é apenas a doença que ela e seu irmão compartilhavam. Ambos são médiuns, e cada um ao seu modo percebe a presença de forças estranhas. Seu irmão tinha certeza que havia algo "do outro lado", enquanto ela chama sua percepção de algo como uma vibração; de qualquer forma, os dois fizeram um pacto: quem morrer primeiro deve enviar algum sinal para o outro. Agora ela passa algum tempo na casa onde Lewis morava com sua esposa, tanto para tranquilizar os compradores de que não há nada perturbador quanto para esperar pelo sinal.
 
@@ -49878,7 +49878,7 @@ Agora, indignados deveriam ficar o resto das pessoas que convivem na mesma cidad
 
 Nessa visão distorcida já conhecida por todos, a versão da realidade onde há opressores e oprimidos, qualquer "esquerdaloide" poderia opinar. Não existe nada novo e muito menos instigante nessas ideias, que ficam muito aquém do que o filme entrega como produção e narrativa. Sempre disposto a observar a cidade por outro ângulo, ou em planos-detalhe curiosos ou até mesmo em outra velocidade -- e o filme é verdadeiramente inovador nesse sentido, ainda mais na cidade para onde ele aponta suas lentes -- é decepcionante constatar que essas pessoas não possuem, de fato, nada a contribuir para a "sociedade". Pelo contrário, se tratam de valores invertidos, que ignoram a quantidade esmagadora de trabalho -- mental e braçal -- para criar os recursos e as paredes que são maculadas soturnamente pelas avenidas mais esquecidas, mas ainda assim enxergam o trabalho frustrante de um artista em construir um mecanismo complexo como reflexão a respeito da poluição e falta de água na região.
 
-Dessa forma temos um trabalho competente que se transforma tematicamente em mais do mesmo. Com os valores errados como guia das ações dos cineastas (diretores e roteiristas) não há brilhantismo técnico que o suporte. Assim como, por analogia, por mais genial que seja um arquiteto, um engenheiro e a mão de obra por trás da construção de um edifício, nada resiste ao vandalismo fácil e rancoroso do dia-a-dia.
+Dessa forma temos um trabalho competente que se transforma tematicamente em mais do mesmo. Com os valores errados como guia das ações dos cineastas (diretores e roteiristas) não há brilhantismo técnico que o suporte. Assim como, por analogia, por mais genial que seja um arquiteto, um engenheiro e a mão de obra por trás da construção de um edifício, nada resiste ao vandalismo fácil e rancoroso do dia a dia
 
 # Insubstituível
 2017-02-24 cinemaqui cinema movies
@@ -50045,13 +50045,13 @@ Top Gang 2 é um filme onde as gags se acumulam em um nível absurdo, e apenas n
 # Abstract: The Art of Design
 2017-03-08 cinema series
 
-O mais decepcionante desta série documental da Netflix é que ela termina cedo demais. Estava pronto para acompanhar mais umas duas horas -- ou até o seriado inteiro -- a respeito de Christoph Niemann, o ilustrador de capas da revista The New Yorker. A criatividade e sagacidade aparentemente inocentes de Niemann encantam, mas é a capacidade do diretor Morgan Neville em desenhar o episódio que é o mais fascinante. Encontrando uma forma de unir a cidade de Nova York aos delírios criativos de Niemann, Neville embarca em uma viagem deliciosa a respeito do dia-a-dia de um criador e sua mente, algo que o documentário indicado ao Oscar esse ano, "Life, Animated", deveria aprender algumas lições.
+O mais decepcionante desta série documental da Netflix é que ela termina cedo demais. Estava pronto para acompanhar mais umas duas horas -- ou até o seriado inteiro -- a respeito de Christoph Niemann, o ilustrador de capas da revista The New Yorker. A criatividade e sagacidade aparentemente inocentes de Niemann encantam, mas é a capacidade do diretor Morgan Neville em desenhar o episódio que é o mais fascinante. Encontrando uma forma de unir a cidade de Nova York aos delírios criativos de Niemann, Neville embarca em uma viagem deliciosa a respeito do dia a dia de um criador e sua mente, algo que o documentário indicado ao Oscar esse ano, "Life, Animated", deveria aprender algumas lições.
 
 Muitas obras de Niemann se encontram no Instagram, portanto você poderá vê-las com facilidade em seu navegador/app. No entanto, o que não está lá é a visão do criador por trás das lentes de Neville. A forma e o conteúdo andando de mãos juntas para apresentar a história e o conceito por trás de suas criações. Mais do que isso, a série também explora como pessoas desse ramo devem trabalhar. Niemann diz que das 9 às 18 é quando a coisa acontece. Todo dia? É claro que não. Em um ímpeto bem-educado e sincero, ele confessa que às vezes o importante é apenas ir trabalhar. Pode ser que nada aconteça (talvez a maioria das vezes). Porém, o importante, segundo ele, é se dar a chance de que algo incrível aconteça.
 
 As junções da visão artística de NY aliadas aos quadros inspirados de Neville, que realizam um recorte entre o ilustrador e a cidade que ele homenageia em suas capas, encontram a verdadeira poesia quando Niemann confessa achar incrível a visão dos criadores de Snoopy em não mostrar os adultos; há uma supresa a ser descoberta nessa afirmação no terceiro ato do "média-metragem". Não estragarei a surpresa, porque ela foi espantosa para mim; deve ser para você.
 
-E é sobre isso que o ilustrador alemão que residiu na Big Apple espera atingir em seus trabalhos: que as pessoas deixem de lado a visão comum da cidade e entendam através de seus recortes e experimentos -- há um momento que ele começa a desenhar com a tinta do seu café -- o que há para ser descoberto dentro dos elementos mais comuns que você irá encontrar no dia-a-dia. E não é esse o conceito não apenas de ilustrações com conteúdo, mas também de documentários como esse?
+E é sobre isso que o ilustrador alemão que residiu na Big Apple espera atingir em seus trabalhos: que as pessoas deixem de lado a visão comum da cidade e entendam através de seus recortes e experimentos -- há um momento que ele começa a desenhar com a tinta do seu café -- o que há para ser descoberto dentro dos elementos mais comuns que você irá encontrar no dia a dia E não é esse o conceito não apenas de ilustrações com conteúdo, mas também de documentários como esse?
 
 # Jonas e o Circo sem Lona
 2017-03-08 cinemaqui cinema movies miniviews fragments
@@ -50065,7 +50065,7 @@ Era o Hotel Cambridge é um documentário que tenta se estruturar como ficção.
 
 A história se passa em um dos inúmeros prédios abandonados do centro da cidade de São Paulo, Brasil. Quem transita frequentemente por estas ruas já se acostumou com o panorama político pintado em faixas vermelhas, com siglas das mais generalizantes, de movimentos de pessoas que invadiram esses prédios caindo aos pedaços com dezenas de famílias. Seus objetivos, além de ter um lugar para morar, é conscientizar a população de que não há, de fato, moradia para todos (diferente do que foi gritado aos quatro ventos pelo governo por uma década). O problema central vem na forma de uma decisão judicial de reintegração de posse, o que quer dizer que todas aquelas pessoas serão efetivamente despejadas do lugar.
 
-Isso não impede que a vida continue, e acompanhemos o dia-a-dia dessas pessoas, algumas reais, outras atores, e há uma mescla entre os dois. A equipe de produção do filme adentra em um ambiente de conflito para contar uma história surgida de muita pesquisa, e a sensação constante é de estar em um documentário que usa a ficção para se sentir mais forte. Porém, é a capacidade da diretora Eliane Caffé o grande trunfo da empreitada, já que sua narrativa esconde com sucesso as muitas cenas que vemos que não têm qualquer ligação com uma possível trama. Vemos um casal se beijando, e um voluntário cuidando da elétrica e um refugiado internacional recém-repatriado pelo movimento. Pessoas recitam poesias vazias, o que nos faz voltar frequentemente da ficção e inspecionar nossa consciência: essas pessoas são reais demais para terem sido inventadas.
+Isso não impede que a vida continue, e acompanhemos o dia a dia dessas pessoas, algumas reais, outras atores, e há uma mescla entre os dois. A equipe de produção do filme adentra em um ambiente de conflito para contar uma história surgida de muita pesquisa, e a sensação constante é de estar em um documentário que usa a ficção para se sentir mais forte. Porém, é a capacidade da diretora Eliane Caffé o grande trunfo da empreitada, já que sua narrativa esconde com sucesso as muitas cenas que vemos que não têm qualquer ligação com uma possível trama. Vemos um casal se beijando, e um voluntário cuidando da elétrica e um refugiado internacional recém-repatriado pelo movimento. Pessoas recitam poesias vazias, o que nos faz voltar frequentemente da ficção e inspecionar nossa consciência: essas pessoas são reais demais para terem sido inventadas.
 
 Além disso, há uma edição dinâmica, que conta os dias que faltam para o despejo usando números pintados nos prédios. A última cena, de ação, culmina na melhor sequência do longa em sintetizar os paradoxos políticos, onde policiais truculentos atacam uma população desenganada lutando pelos seus direitos, garantidos em Constituição, mas impossíveis de serem concretizados na vida real.
 
@@ -50149,7 +50149,7 @@ Os comandos do git são muito verbose. Duas letras já seriam suficiente (o Wind
 
 ### Atalhos da barra iniciar
 
-Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os aplicativos principais do seu dia-a-dia, que devem ficar "pinados" na barra de tarefas. Os meus atualmente são três: terminal (1 cmd), editor (2 vim) e browser (3 chrome). Não é necessário colocar coisas como Visual Studio, já que minha navegação é feita rapidamente pelo terminal para o projeto que irei mexer. Com isso o foco fica restrito a apenas uma coisa: o que você tem que fazer hoje? =)
+Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os aplicativos principais do seu dia a dia que devem ficar "pinados" na barra de tarefas. Os meus atualmente são três: terminal (1 cmd), editor (2 vim) e browser (3 chrome). Não é necessário colocar coisas como Visual Studio, já que minha navegação é feita rapidamente pelo terminal para o projeto que irei mexer. Com isso o foco fica restrito a apenas uma coisa: o que você tem que fazer hoje? =)
 
 
 # Mastery: The Keys to Success and Long-Term Fulfillment
@@ -50157,7 +50157,7 @@ Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os apl
 
 O livro de George Leonard é um curto e didático passeio através dos mistérios que tornam o ser humano cada vez mais habituado ao seu "eudaimonia" aristotélico, ou seja, o estado de plenitude do ser que está ao alcance de todos que se derem a liberdade da melhora contínua em qualquer coisa que fizermos nesse mundo.
 
-Ele parte do princípio que para melhorarmos em qualquer aspecto de nossa vida, seja uma habilidade em um esporte ou na cozinha ou até na faxina, é necessário amar a prática do dia-a-dia e se esforçar de vez em quando para atingir cada vez níveis mais altos, em uma gradação torta, mas constante, de auto-melhora progressiva e agradável. Seria a síntese da vida no próprio conceito aristotélico, onde a virtude do ser humano está em atingir a perfeição de cada uma de suas virtudes e tentar sempre manter-se em equilíbrio.
+Ele parte do princípio que para melhorarmos em qualquer aspecto de nossa vida, seja uma habilidade em um esporte ou na cozinha ou até na faxina, é necessário amar a prática do dia a dia e se esforçar de vez em quando para atingir cada vez níveis mais altos, em uma gradação torta, mas constante, de auto-melhora progressiva e agradável. Seria a síntese da vida no próprio conceito aristotélico, onde a virtude do ser humano está em atingir a perfeição de cada uma de suas virtudes e tentar sempre manter-se em equilíbrio.
 
 Como contra-exemplos ele cita três típicas personas que tentam burlar o caminho duro e legítimo da auto-melhora:
 
@@ -50169,7 +50169,7 @@ Como contra-exemplos ele cita três típicas personas que tentam burlar o caminh
 
 Leonard é incisivo contra a cultura americana que foca nos resultados em vez de no caminho para a perfeição. Ele também é crítico de nossa cultura imediatista do Ocidente, que desiste fácil quando algo é difícil, e que quer a todo custo o prêmio instantâneo do que o prazer de sentir estar melhorando a cada novo dia. Ele de certa forma flerta com o caminho das pedras que os russos parecem dominar tanto, onde para se aprender bem algo é necessário prática, prática e... prática.
 
-Através de cinco dicas-chave, instruction, practice, surrender, intentionality e the edge, o autor nos explica a forma com que o dia-a-dia se traduz de maneira simples em como receber instrução válida para melhorar, a prática contínua, a capacidade de abrir mão do ego e obedecer às ordens do mestre de maneira honesta, a visão clara do objetivo para que não se perca no caminho, e, por fim, aquele boost temporário que irá te levar para o novo nível, sempre ligeiramente acima do anterior, e que após uma pequena queda irá lhe colocar em um novo patamar, onde através da constância irá te manter lá.
+Através de cinco dicas-chave, instruction, practice, surrender, intentionality e the edge, o autor nos explica a forma com que o dia a dia se traduz de maneira simples em como receber instrução válida para melhorar, a prática contínua, a capacidade de abrir mão do ego e obedecer às ordens do mestre de maneira honesta, a visão clara do objetivo para que não se perca no caminho, e, por fim, aquele boost temporário que irá te levar para o novo nível, sempre ligeiramente acima do anterior, e que após uma pequena queda irá lhe colocar em um novo patamar, onde através da constância irá te manter lá.
 
 "Mastering the Key to Success"
 
@@ -50425,7 +50425,7 @@ Porém, ao encarar seus personagens principais -- ou os personagens de seu perso
 
 O casal é interpretado por dois atores (Reda Kateb e Sophie Semin) que constroem, como o próprio filme sugere, apenas silhuetas do que serão no futuro. Por enquanto, são incógnitas repetindo os diálogos em modo rascunho pelo seu criador.
 
-E o próprio filme se assemelha a um rascunho de si mesmo. Este porre monumental com certeza irá fazer você devanear em questões de sua própria vida, questões do dia-a-dia. Nada muito chique, como por exemplo a existência da Terra. Isso ocorre exatamente porque as frases ditas pela mulher são imponentemente banais. Não se consegue extrair sentido de nada que ela diz, e o único ponto de parada são as perguntas inúteis do seu interlocutor, em um quase monólogo maçante que esmiúça a capacidade do espectador em tentar prestar atenção e não dormir.
+E o próprio filme se assemelha a um rascunho de si mesmo. Este porre monumental com certeza irá fazer você devanear em questões de sua própria vida, questões do dia a dia Nada muito chique, como por exemplo a existência da Terra. Isso ocorre exatamente porque as frases ditas pela mulher são imponentemente banais. Não se consegue extrair sentido de nada que ela diz, e o único ponto de parada são as perguntas inúteis do seu interlocutor, em um quase monólogo maçante que esmiúça a capacidade do espectador em tentar prestar atenção e não dormir.
 
 O filme nada sutilmente usa movimentos diegéticos -- sons e características geralmente externas à história que existem dentro do próprio filme -- para estabelecer que este é um trabalho de metalinguagem. Principalmente o som, cuja trilha sonora vem de um jukebox da casa do escritor, mas também com um jogo de cena que usa uma pequena mesa e cadeiras em cima da mesa do escritor e alimenta o mistério do filme de uma maneira óbvia. Wenders, que além de dirigir também roteiriza o filme, não quer deixar nada incompleto; ele apenas não se interessa em entregar tudo de bandeja para o espectador mais preguiçoso. Há um tablet do lado da máquina de escrever. Há um de quadro do lado do jukebox que rabisca a mesma região onde se passa a história. Há espectadores usando óculos 3D aguardando entender a realidade do filme através deles. Um o filme é um ledo engano a respeito da forma e conteúdo da arte e da vida, ou é um mero trote, uma brincadeira inocente de Wenders, mais uma vez intrigado com a tecnologia 3D.
 
@@ -50616,7 +50616,7 @@ Cheio de virtudes técnicas e narrativas, Além das Palavras é um filme que exi
 
 A história sempre é narrada através desses ecos, trocando rapidamente entre passado e presente com flashbacks e memórias do evento traumático. Andrews realiza cortes secos, como o bater de uma porta, e até cenas que duram pouquíssimos quadros, como apresentando o ápice de uma festa, que criam um ritmo ágil e que pula para os momentos mais interessantes, quando Una e Ray conversam a respeito do passado. Apesar de já estar claro o suficiente para o espectador nos momentos iniciais o filme insiste em tornar cada vez mais óbvio no desenvolvimento que Una (Rooney Mara), hoje crescida, foi abusada sexualmente quando tinha treze anos por um adulto: o seu vizinho Ray (Ben Mendelsohn). Essa é a versão oficial, e todo o clima do filme adota corretamente a seriedade da situação. No entanto, o reencontro entre os dois após mais de uma década possibilita que ambos revivam aquela época em suas mentes e tentem resgatar o que havia de bom em uma relação vista hoje pela sociedade como grotesca (antes do século 20, casamentos entre adolescentes e adultos era comum; embora a escravidão também fosse).
 
-Ambientado na maior parte do tempo na empresa que Ray trabalha, há um clima de perseguição em boa parte do filme por conta dele ter sumido de uma reunião vital para o futuro da empresa. Da mesma forma isto cria um clima de urgência a respeito das pendências do passado, além do uso acertado de luz e sombra, com diversos cantos escondidos do dia-a-dia da empresa, e uma ótima metáfora sobre como foram os três meses de romance entre os dois, sempre se escondendo nas sombras e de olhares reprovadores ou desconfiados.
+Ambientado na maior parte do tempo na empresa que Ray trabalha, há um clima de perseguição em boa parte do filme por conta dele ter sumido de uma reunião vital para o futuro da empresa. Da mesma forma isto cria um clima de urgência a respeito das pendências do passado, além do uso acertado de luz e sombra, com diversos cantos escondidos do dia a dia da empresa, e uma ótima metáfora sobre como foram os três meses de romance entre os dois, sempre se escondendo nas sombras e de olhares reprovadores ou desconfiados.
 
 Ao mesmo tempo, o uso de flashbacks na forma de memórias de ambos mantém o passado sempre como referência. É aquele sentimento "como se fosse ontem" sendo utilizado em praticamente todo o filme, o que ajuda a nos situar sobre os detalhes que vão sendo abertos e ao mesmo tempo separa o filme da peça de onde se inspirou. Essa possibilidade de viajar no tempo e espaço é o que torna o filme o menos teatral possível, mas ainda assim mantendo toda a intimidade de uma conversa a dois pelo decorrer de um longo dia. E, de maneira bem gráfica, distingue entre o passado ensolarado e o presente acinzentado.
 
@@ -50653,7 +50653,7 @@ Um pequeno conto indiano em formato de filme, narrado quase como uma peça de te
 
 O filme começa bonito e simples. Uma mulher que perdeu seu filho agricultor, que se suicidou depois de não conseguir pagar sua dívida ao agiota, ganha notas de 1000 rúpias de um político durante um discurso em seu vilarejo. Acostumada a gastar em torno de 2 a 3 rúpias diárias, no máximo, ela se vê agora com o grande problema de conseguir gastar aquelas notas graúdas no mercado de um vilarejo maior. Acompanhada pelo seu amigo e afilhado na prática, eles se veem em confusão quando são acuados por um policial que não possui o mínimo de decência ou respeito por pessoas simples e humildes.
 
-A atuação da velha senhora é uma pequena pérola na primeira metade, que exige um folclore além do normal. Com tomadas coloridas com fachos de luz lúdicos que passam pelo seu dia-a-dia, essa parte é vital para a segunda metade, quando o drama se instaura, e o terror da impotência dos remediados é o combustível para este drama. Porém, aqui a personagem se vê limitada pela atuação da atriz, e o cinema indiano fica mais uma vez preso aos arquétipos de heróis pobres e humildes e vilões ricos e poderosos. Se transforma em uma novela sem ter muito o que mostrar.
+A atuação da velha senhora é uma pequena pérola na primeira metade, que exige um folclore além do normal. Com tomadas coloridas com fachos de luz lúdicos que passam pelo seu dia a dia essa parte é vital para a segunda metade, quando o drama se instaura, e o terror da impotência dos remediados é o combustível para este drama. Porém, aqui a personagem se vê limitada pela atuação da atriz, e o cinema indiano fica mais uma vez preso aos arquétipos de heróis pobres e humildes e vilões ricos e poderosos. Se transforma em uma novela sem ter muito o que mostrar.
 
 Exceto, claro, toda aquela poesia em torno dos valores corrompidos de uma Índia fadada ao fracasso. E quando pensamos um pouco mais além, vemos que o problema é bem maior: é um fracasso de toda a humanidade, refém de sua própria incapacidade de tomar as rédeas de sua vida e ser dominada por uns poucos mafiosos e seus paus mandados. Sabe como é: o que seria da democracia sem esses senhores bem-intencionados?
 
@@ -50797,7 +50797,7 @@ Portanto, se você já gostava da série de carros turbinados, V8 de forma algum
 
 Como você faria para mostrar ao grande público que ter uma vida boêmia pode ser algo terrível, mesmo que você se divirta no processo? Bom, 28 dias faz isso de maneira brilhante, desfocando e diminuindo direto nas cenas a qualidade dos momentos da vida em que sua protagonista, Gwen, não consegue se lembrar direito. Ela e seu namorado estão em uma festa, chegam em seu apartamento, colocam fogo em um sutiã, fazem sexo, acordam atrasados para o casamento de sua irmã, fazem um verdadeiro vexame no dia mais importante de sua vida e Gwen acaba em uma clínica de habilitação onde, contrariando os filmes mais bonitinhos sobre o tema, as pessoas não são agradáveis ou dignas de pena, mas seres humanos muito reais, que estão cansadas dessa vida que Gwen acabou de interromper.
 
-Toda a estrutura do filme faz-nos crer que a vida é mais difícil que viver de porre em porre, ou pelo menos continuar vivo no processo. Ao mesmo tempo vamos sendo apresentados de maneira orgânica ao grupo em que Gwen acaba fazendo parte. Sandra Bullock consegue criar uma personagem que vai mudando realmente aos poucos, e que não acredita em sua própria mudança, assim como seus novos amigos. Ninguém lá leva realmente a sério o programa de reabilitação, e é como seria na vida real. Apenas nos filmes essas pessoas seriam cordeirinhos comportados. Essas pessoas estão acostumadas a transgredir tudo e todos em seu dia-a-dia, por que seria diferente em um hospital?
+Toda a estrutura do filme faz-nos crer que a vida é mais difícil que viver de porre em porre, ou pelo menos continuar vivo no processo. Ao mesmo tempo vamos sendo apresentados de maneira orgânica ao grupo em que Gwen acaba fazendo parte. Sandra Bullock consegue criar uma personagem que vai mudando realmente aos poucos, e que não acredita em sua própria mudança, assim como seus novos amigos. Ninguém lá leva realmente a sério o programa de reabilitação, e é como seria na vida real. Apenas nos filmes essas pessoas seriam cordeirinhos comportados. Essas pessoas estão acostumadas a transgredir tudo e todos em seu dia a dia por que seria diferente em um hospital?
 
 Viggo Mortensen, na época participando do primeiro Senhor dos Anéis, consegue com relativamente pouco tempo de tela criar outro personagem carismático, um jogador de beisebol em recuperação. Nada no filme está definido, o que colabora muito para que este Um Estranho no Ninho para viciados soe como uma experiência não-esquemática, quase natural. Perto do final, é como se tivéssemos de fato conhecido essas pessoas, e que um bom tempo de convívio tivesse se passado.
 
@@ -50964,7 +50964,7 @@ Voltando à narrativa, ela é eficiente na medida em que consegue manter o mist�
 
 Preocupado demais em gerar terror a toda hora, há poucas explicações sobre os personagens (ex: vc sabia que a mulher de João é artista plástica e trabalha com crianças? nem eu, até ouvir o próprio diretor do filme dizer isso na coletiva) e um pouco de exagero no uso de estilo acima do justificado (como cortes da tela na diagonal para causar efeito claustofóbico e divisão de tela que chama atenção para si em uma conversa entre João e seu mentor em um jantar; aliás, do ponto de vista de roteiro, por que esse jantar, mesmo?) dificultam um pouco a interação com eles, e a identificação. Como todo terror B, seu protagonista aos poucos se revela descartável, pois não existe espaço para o drama exceto a situação do sistema de saúde como um todo.
 
-Por fim, cria-se um personagem apenas para mais uma virada próximo do final do filme. Os roteiristas estão empolgadíssimos com o gênero, criando uma série de viradas que, assim como os sustos baratos, acrescentam pouco ao clima já aterrador do filme. Tentando não revelar muito do terceiro ato, apenas peço que me responda com sinceridade: você não acha que boa parte do terror que vemos no dia-a-dia, com descaso em setores como saúde e educação, já não está associado com corrupção? O que um novo possível esquema pode piorar a situação geral da população e atacar ainda mais sua dignidade?
+Por fim, cria-se um personagem apenas para mais uma virada próximo do final do filme. Os roteiristas estão empolgadíssimos com o gênero, criando uma série de viradas que, assim como os sustos baratos, acrescentam pouco ao clima já aterrador do filme. Tentando não revelar muito do terceiro ato, apenas peço que me responda com sinceridade: você não acha que boa parte do terror que vemos no dia a dia com descaso em setores como saúde e educação, já não está associado com corrupção? O que um novo possível esquema pode piorar a situação geral da população e atacar ainda mais sua dignidade?
 
 Sem conseguir mover nada além do impacto inicial que é cozido em banho-maria, conforme as revelações avançam, já estamos anestesiados há muito tempo. E nunca de fato nos preocupamos com João, mas assistimos, aterrorizados, até onde vai a podridão humana, e como ela reflete no psicológico e, no caso desse filme, na realidade de uma nação.
 
@@ -51001,7 +51001,7 @@ Degradê é um filme onde o seu começo é o melhor momento para suas personagen
 
 E tudo isso fica por conta de onde a ação se passa, em uma zona de guerra no Oriente Médio. Não fosse isso, o apertado salão de cabeleireiros seria apenas uma reunião cotidiana dentre as mulheres do bairro. E se fosse em uma região menos religiosa e tradicionalista, com certeza as conversas girariam mais em torno de amenidades, como seus maridos, em vez do tema constantemente voltar para política e regras sociais. Bom, talvez até por falar de política, os seus homens acabam sendo eventualmente tema das discussões.
 
-Há apenas um homem relevante no filme. E um tigre. Eles são símbolos do que ocorre lá fora, mas no fundo nem são tão importantes assim. Escrita e dirigida pelos irmãos gêmeros Arab e Tarzan Nasser, a história vai mostrando através dos diálogos as diferentes personalidades e modos de enxergar a vida dessas cerca de dez mulheres enquanto aguardam seus cabelos serem cortados. Eu poderia enumerar cada uma delas pelas suas particularidades (ou pelo menos as mais importantes), mas este não é um filme que tenta exatamente contrapô-las para gerar conflito. Já há conflito de sobra lá fora. Se trata apenas de uma visão panorâmica de como é o dia-a-dia nessa região onde, controlados por diversos grupos paramilitares, tiroteios e bombardeios são constantes. Há até uma fala em que uma das mulheres explica a situação geopolítica da região. Apesar de soar didático às vezes, o filme funciona mais do que erra.
+Há apenas um homem relevante no filme. E um tigre. Eles são símbolos do que ocorre lá fora, mas no fundo nem são tão importantes assim. Escrita e dirigida pelos irmãos gêmeros Arab e Tarzan Nasser, a história vai mostrando através dos diálogos as diferentes personalidades e modos de enxergar a vida dessas cerca de dez mulheres enquanto aguardam seus cabelos serem cortados. Eu poderia enumerar cada uma delas pelas suas particularidades (ou pelo menos as mais importantes), mas este não é um filme que tenta exatamente contrapô-las para gerar conflito. Já há conflito de sobra lá fora. Se trata apenas de uma visão panorâmica de como é o dia a dia nessa região onde, controlados por diversos grupos paramilitares, tiroteios e bombardeios são constantes. Há até uma fala em que uma das mulheres explica a situação geopolítica da região. Apesar de soar didático às vezes, o filme funciona mais do que erra.
 
 Ele funciona, por exemplo, pela decisão dos diretores de usar sempre câmeras na mão e muito próximas de quem está falando, em um exercício de malabarismo fantástico, já que, cercados de personagens em diferentes níveis de altura, distribuídas por um lugar pequeno e cheio de espelhos, fica impossível entendermos qual foi a logística aplicada para conseguir filmar com tanto dinamismo os diálogos entre elas. Isso já começa em uma das primeiras cenas, onde vemos a preocupação de uma das cabelereiras de três ângulos distintos: de costas e de frente para dois espelhos, onde em um deles podemos observar o rosto das outras clientes aguardando.
 
@@ -51504,7 +51504,7 @@ Ninguém Deseja a Noite cria a profundidade de seu drama para discutir questões
 
 Então você está quebrando a cabeça para descobrir por que seu código não faz o que deveria fazer? Então você é desses que acha que é melhor ficar imaginando com um bloquinho de papel na mão do que colocar logo a mão na massa e ver exatamente o código passando pelo processador? Talvez você mude de ideia ao ver como é ridiculamente fácil depurar código em uma máquina remota, seja uma VM ou a máquina do cliente. Neste post vou ensinar a maneira mais antiga e a mais nova que conheço de usar o depurador do Visual Studio. Vamos usar a versão 2003 e a versão 2017 RC.
 
-Há muito tempo atrás eu falei sobre o depurador remoto do C++ Builder, na época a ferramenta que eu mais utilizava para programar. Hoje disparado é o Visual Studio, já faz mais de uma década. Desde o VS2003 tem sido muito simples depurar remotamente. Tão simples que eu realmente esqueci que talvez algumas pessoas não saibam o quanto é útil essa ferramenta no dia-a-dia.
+Há muito tempo atrás eu falei sobre o depurador remoto do C++ Builder, na época a ferramenta que eu mais utilizava para programar. Hoje disparado é o Visual Studio, já faz mais de uma década. Desde o VS2003 tem sido muito simples depurar remotamente. Tão simples que eu realmente esqueci que talvez algumas pessoas não saibam o quanto é útil essa ferramenta no dia a dia
 
 É possível depurar qualquer executável, tendo seu código-fonte ou não. A diferença é que sem código você terá que olhar o assembly e se for compilado como release você pode olhar o código mas ele não fará muito sentido em alguns momentos (onde estão minhas variáveis locais?). O melhor dos mundos, é claro, é depurar um executável que você tenha os símbolos, o código e esteja compilado em debug. Daí o código irá falar com você da maneira mais fácil.
 
@@ -51704,7 +51704,7 @@ E isso independe das diferenças. Muito menos que nas semelhanças. Seus persona
 
 Sense8 também busca discutir política, desajeitadamente, mas que graças ao poder visual narrativo da série, ainda assim soa grandioso. É assim em um discurso da parada gay de São Paulo, da mesma forma como é o discurso do queniano que vira político, seguindo os passos do pai militante. Há uma complexa ligação não apenas nos personagens da série, mas com o seu passado e futuro. A série não poderia explorar a história de cada um de seus personagens melhor, mas poderia pelo menos criar uma trama mais complexa do que vemos, digna de telenovela, embora uma telenovela deliciosamente amável de acompanhar.
 
-Isso fora as tecnicidades de seus episódios, que nos colocam em volta do globo graças a uma computação gráfica competente, em diferentes paletas de cores, diferentes nascer e pôr do sol e diferentes conversas a dois ou a três, em cortes precisos, criativos e que vão exigindo cada vez mais do espectador, que precisa se situar às vezes em três, quatro ou até cinco cenários diferentes durante o mesmo diálogo. Tudo isso é feito de uma maneira harmoniosa e dinâmica, que nos faz não perder o fio da meada e ao mesmo tempo perceber, a todo momento, como estamos todos conectados de alguma forma, seja pela cadência de nossos pensamentos e sentimentos, ou por compartilharmos a humanidade em atos singelos do dia-a-dia.
+Isso fora as tecnicidades de seus episódios, que nos colocam em volta do globo graças a uma computação gráfica competente, em diferentes paletas de cores, diferentes nascer e pôr do sol e diferentes conversas a dois ou a três, em cortes precisos, criativos e que vão exigindo cada vez mais do espectador, que precisa se situar às vezes em três, quatro ou até cinco cenários diferentes durante o mesmo diálogo. Tudo isso é feito de uma maneira harmoniosa e dinâmica, que nos faz não perder o fio da meada e ao mesmo tempo perceber, a todo momento, como estamos todos conectados de alguma forma, seja pela cadência de nossos pensamentos e sentimentos, ou por compartilharmos a humanidade em atos singelos do dia a dia
 
 # Better Call Saul - Terceira Temporada
 2017-07-03 cinema series
@@ -51747,7 +51747,7 @@ O estopim para essa revelação é quando Diogo e Angela começam a namorar. Ess
 
 E por falar em atuações, colocar Karine Teles como protagonista se torna uma decisão arriscada, pois ela não possui o jogo de cintura necessário nem a dominação necessária para sua personagem. A direção de Sholl erra pontualmente em não torná-la uma personagem mais forte, e preferir continuar naturalizando as cenas em um incômodo close. É óbvio que não é preciso muito para seduzir um garoto de 18 anos, mas daí é que reside o problema: a auto-estima de Diogo, vivido despreocupadamente por Tom Karabachian, sabota esse relacionamento, tornando-o inverossímil menos pela idade e mais pela dinâmica do "quem domina quem". Ou o filme inocentemente prefere imaginar que em uma relação dessas há apenas amor.
 
-Fala Comigo faz questão de normalizar o que é incômodo e incomodar o que é normal. Ele inverte valores e atravessa no tempo com um filme simples e direto, provando que não é necessário ser verborrágico para expressar muito. Quem quiser poderá prestar atenção a detalhes inconsequentes, mas que darão uma nova dimensão a um filme aparentemente despretensioso. No entanto, só pelo tirar das máscaras, os diálogos do dia-a-dia, seja no "romance proibido" ou no jantar em família, se tornam muito mais interessantes.
+Fala Comigo faz questão de normalizar o que é incômodo e incomodar o que é normal. Ele inverte valores e atravessa no tempo com um filme simples e direto, provando que não é necessário ser verborrágico para expressar muito. Quem quiser poderá prestar atenção a detalhes inconsequentes, mas que darão uma nova dimensão a um filme aparentemente despretensioso. No entanto, só pelo tirar das máscaras, os diálogos do dia a dia seja no "romance proibido" ou no jantar em família, se tornam muito mais interessantes.
 
 # Julho Agosto
 2017-07-05 cinemaqui cinema movies
@@ -51925,7 +51925,7 @@ Rifle poderia ser chamado de exercício de futilidade, mas quem faz exercício t
 
 A história se passa no sul do Brasil, onde uma região pecuarista decadente está sendo comprada por grandes produtores de soja (aqui na história, folcloricamente apenas um comprador). Não é segredo que a maior parte da soja produzida no país é exportada. Assim como a carne. Então podemos dizer que há um empate técnico de interesses.
 
-Mas nada disso é discutido no filme. A maioria dos dados sobre o tema você irá ter que trazer de casa. A história em si é uma tentativa de romantizar e justificar a bandidagem. O ritmo com que a história é imposta, principalmente no começo, é de fazer dormir. Tudo gira lentamente no dia-a-dia da fazenda, e logo o tempo não importa mais, mas a causalidade. Há ladrões de carne espalhados pela região que fazem o que quiser com os moradores e suas reses. Aparentemente ninguém tem sequer um rifle nas residências para proteção.
+Mas nada disso é discutido no filme. A maioria dos dados sobre o tema você irá ter que trazer de casa. A história em si é uma tentativa de romantizar e justificar a bandidagem. O ritmo com que a história é imposta, principalmente no começo, é de fazer dormir. Tudo gira lentamente no dia a dia da fazenda, e logo o tempo não importa mais, mas a causalidade. Há ladrões de carne espalhados pela região que fazem o que quiser com os moradores e suas reses. Aparentemente ninguém tem sequer um rifle nas residências para proteção.
 
 E é ironicamente a causalidade (o remorso de ter que sair da região) e um rifle que faz com que um jovem (Dione Avila De Oliveira) comece a praticar violência a distância contra veículos na estrada. Dessa forma o equipamento que serve para proteção é utilizado para descontar a raiva adolescente contra os mecanismos da realidade.
 
@@ -52045,7 +52045,7 @@ Depois que isso funcionar já é possível iniciar sua depuração antes da tela
 # Outlander - Segunda Temporada
 2017-07-27 cinema series
 
-A segunda temporada de Outlander mantém as mesmas virtudes da primeira -- figurino, direção de arte, fotografia -- e ainda melhora a atuação. Concentrado em tentar entregar sempre alguma mudança, por menor que seja, em cada episódio, esta parte da série consegue quase sempre evocar a já bem estabelecida atmosfera de seu início, mas se mantém fraco na tensão de seus dramas, e desperdiça seu maior mote: a luta do dia-a-dia pela mudança do destino.
+A segunda temporada de Outlander mantém as mesmas virtudes da primeira -- figurino, direção de arte, fotografia -- e ainda melhora a atuação. Concentrado em tentar entregar sempre alguma mudança, por menor que seja, em cada episódio, esta parte da série consegue quase sempre evocar a já bem estabelecida atmosfera de seu início, mas se mantém fraco na tensão de seus dramas, e desperdiça seu maior mote: a luta do dia a dia pela mudança do destino.
 
 Não necessariamente desperdiça, mas deixa em segundo plano demais para que consigamos ver "the big picture", ou as engrenagens da História se movendo lentamente. É óbvio que é do maior interesse dos criadores evitar paradoxos temporais, mas um polimento melhor no roteiro conseguiria entregar isso e ainda ligar melhor suas pontas, que estão forradas de coincidências, principalmente no último e mais longo episódio. É curioso notar que é justamente nestes episódios que sentimos de fato tudo o que foi vivido como aspectos de uma História imutável, mas sempre sendo redescoberta através de novas narrativas.
 
@@ -52336,7 +52336,7 @@ A história aqui é sobre o caso real de um medicamento que tem por objetivo con
 
 Claro que para o roteiro adaptado do livro de Irène Frachon (a protagonista) a questão não é sobre os riscos da obesidade, mas estética. É muito mais fácil atacar, nas palavras da protagonista, um "remédio inútil". Essa ditadura da beleza, no universo distorcido de "150 Miligramas", não apenas oprime, mas mata.
 
-A grande questão que segura o filme é na verdade sua protagonista, a heroína salvadora dos fracos desenganados. No melhor estilo Joana D'Arc, a pneumologista dinamarquesa Irène Frachon luta contra tudo e contra todos e tenta a todo custo parar a comercialização do remédio que em seu dia-a-dia ela tem escolhido como o vilão ideal.
+A grande questão que segura o filme é na verdade sua protagonista, a heroína salvadora dos fracos desenganados. No melhor estilo Joana D'Arc, a pneumologista dinamarquesa Irène Frachon luta contra tudo e contra todos e tenta a todo custo parar a comercialização do remédio que em seu dia a dia ela tem escolhido como o vilão ideal.
 
 A história não vai tornar as coisas tão claras a princípio, mas em termos gerais é basicamente isso. Em termos específicos se torna a escalada de dificuldades que uma pessoa comum precisa vencer para atingir seu objetivo nobre. Ela portanto grita e discursa enfaticamente para todos que podem ser úteis nessa jornada, conquistando mais pessoas que se poderia esperar de alguém com uma paixão irracional. Em certo momento do longa alguém diz que o caso chegou a um nível kafkaniano, por lutarem contra um sistema jurídico irracional. Porém, todos ignoram a irracionalidade das táticas emotivas e apaixonadas de alguém que se dispôs a lutar contra o sistema simplesmente porque sim, sem medir de maneira racional suas causas e consequências.
 
@@ -52936,7 +52936,7 @@ Isso porque o diretor Ai Weiwei, homenageado desta quadragésima-primeira Mostra
 
 Human Flow trata bastante sobre refugiados, mas seu núcleo tenta ser mais amplo. É sobre migração humana. A larga escala em que ela acontece hoje em dia, seja por guerras, fome, miséria, ou até melhores oportunidades, foi o elemento-chave que fez com que Weiwei se aventurasse em contar essa história em escala global, em mais de 20 tribos temporárias espalhadas em áreas neutras do globo.
 
-O filme vai capturar seu senso estético desde o começo. Usando uma fotografia límpida de regiões com paisagens diversas e estonteantes, o filtro da realidade aqui é quase nenhum. Pelo menos no que diz respeito às cores. Elas são vivas vindas de um trabalho que lembra programas da National Geographics e possui tomadas que lembram os noticiários do dia-a-dia. Isso até atrapalha um pouco a dramatização, já que a beleza dos lugares por onde passamos não contrasta com a realidade humana por aqueles lados, mas a complementa. Isso porque muitos fogem de um mal invisível. As pessoas possuem abrigos, dizem, de má qualidade. Mas apenas dizem. Nunca vemos nada de fato alarmante.
+O filme vai capturar seu senso estético desde o começo. Usando uma fotografia límpida de regiões com paisagens diversas e estonteantes, o filtro da realidade aqui é quase nenhum. Pelo menos no que diz respeito às cores. Elas são vivas vindas de um trabalho que lembra programas da National Geographics e possui tomadas que lembram os noticiários do dia a dia. Isso até atrapalha um pouco a dramatização, já que a beleza dos lugares por onde passamos não contrasta com a realidade humana por aqueles lados, mas a complementa. Isso porque muitos fogem de um mal invisível. As pessoas possuem abrigos, dizem, de má qualidade. Mas apenas dizem. Nunca vemos nada de fato alarmante.
 
 O que nos leva para a investigação de quais seriam as reais intenções de seu criador. Filmado muitas vezes com o diretor dentro do quadro, segurando sua câmera, ele vira uma persona, ou se personifica, contando uma história que arrisca ter um herói (o diretor refugiado dirigindo bravamente um filme), o que soa como o exato oposto de uma brincadeira no filme, quando ele propõe a um refugiado anônimo de trocarem passaportes. "Respeito", ele diz, como se respeitasse a situação dessas pessoas. Mas as histórias não batem aqui. Weiwei se enxerga como figura pertinente na paisagem dos refugiados mais do que os próprio refugiados.
 
@@ -53237,7 +53237,7 @@ Solitárias e desconhecidas. A pergunta mais relevante deste longa não é "qual
 
 Tudo isso me lembra da historinha. Esqueci de contar. É porque ela não é tão relevante, nem tão grande. É sobre uma garota do interior e um garoto da cidade grande. Ambos trocam de lugar durante alguns dias, mas apenas suas mentes. O corpo permanece o mesmo. Há uma jogada muito esperta a respeito das memórias de ambos se confundir, pois do contrário a nossa vai ficar. Afinal de contas, eles lembram de si mesmos, um pouco do outro, mas convenientemente nada que permita que eles se comuniquem no mundo real. No dia seguinte tudo é esquecido, mas de vez em quando um deles lembra de algo para efeito dramático.
 
-A história em si segue seus próprios passos e é esperta o suficiente para jogar detalhes que tornem tudo mais ou menos amarrado. Assim, detalhes do dia-a-dia de ambos são usados para a passagem do tempo, como o garoto e seus amigos sempre tomarem café no mesmo lugar. E ambos, é claro, mantém diários onde trocam impressões. E fazem até acordos de como devem se comportar.
+A história em si segue seus próprios passos e é esperta o suficiente para jogar detalhes que tornem tudo mais ou menos amarrado. Assim, detalhes do dia a dia de ambos são usados para a passagem do tempo, como o garoto e seus amigos sempre tomarem café no mesmo lugar. E ambos, é claro, mantém diários onde trocam impressões. E fazem até acordos de como devem se comportar.
 
 É preciso dizer que praticamente não conhecemos muito sobre eles. Apenas detalhes genéricos. Eles são muito mais conceitos do que pessoas. Ideias. É como contamos histórias como essa quando somos adolescentes. "Imagina trocar de lugar com uma pessoa." E quando temos alguns detalhes eles são estranhos, jogados. Como a garota ser filha do prefeito. Que faz campanha eleitoral em uma cidade com 1500 habitantes e faz ela passar vergonha em público. Tudo gratuito ou conveniente para o terceiro ato.
 
@@ -53371,7 +53371,7 @@ De uma maneira semelhante, mas muito, muito mais sutil, ao que fez Darren Aronof
 
 Nos momentos mais calmos, porém, acompanhamos a história fascinante de Thelma, que carrega o título nas costas com a propriedade que este merece. Encoberta de simbolismos desde o começo, quando criança, o momento a sós com o pai em uma caça é revelador em várias camadas. Mas a que mais permanece é o mistério que serve de gancho para toda a narrativa.
 
-Este gancho consegue discutir tanto a relação da filha com seus pais como com seus novos amigos na faculdade e sua mudança gradativa em relação à religião que foi criada. Essas discussões são abertas para o espectador, que ainda não tem todos os elementos para entender o que está acontecendo, e que por isso mesmo as questões levantadas na primeira metade de "Thelma" se tornam tão poderosas à medida que o longa avança. Criando expectativa em cima de expectativa com micro-acontecimentos no dia-a-dia da garota, o uso de todos os recursos visuais e sonoros para "criar o clima" é o tipo de recompensa que qualquer cinéfilo merece após ver tantas tentativas desajeitadas em criar tensão e medo onde não existe nenhum dos dois.
+Este gancho consegue discutir tanto a relação da filha com seus pais como com seus novos amigos na faculdade e sua mudança gradativa em relação à religião que foi criada. Essas discussões são abertas para o espectador, que ainda não tem todos os elementos para entender o que está acontecendo, e que por isso mesmo as questões levantadas na primeira metade de "Thelma" se tornam tão poderosas à medida que o longa avança. Criando expectativa em cima de expectativa com micro-acontecimentos no dia a dia da garota, o uso de todos os recursos visuais e sonoros para "criar o clima" é o tipo de recompensa que qualquer cinéfilo merece após ver tantas tentativas desajeitadas em criar tensão e medo onde não existe nenhum dos dois.
 
 Note como os símbolos então vão se repetindo de uma maneira criativa e até certo ponto hermética. Porque apesar de insistir na questão do lago congelado, da piscina, das aves e do vidro, sugerindo fortemente a conexão entre dois mundos, a mensagem é aberta o suficiente para fazer perder seu próprio peso. Talvez seja um filme para revisita, mas ainda assim desconfio que ele trará mais dúvidas do que respostas.
 
@@ -54151,7 +54151,7 @@ Contudo, as cenas que dialogam com a alma são as mais simples, com a câmera pa
 # Tô Ryca!
 2018-01-12 cinema movies
 
-Selminha, ou Samantha Schmütz, faz aqui a pobretona padrão brasileira que mora no morro do Rio de Janeiro com sua amiga inseparável e igualmente quebrada Luane. Ambas com nome de pobre (e Selminha é de fato o nome dela, de RG) e sem muitas perspectivas de vida, ambas trabalham como frentista e são obrigadas a passar os perrengues do dia-a-dia de todo pobre: condução lotada, peguetes que não querem saber de compromisso e tudo o que você pode imaginar que os roteiristas Fil Braz e Vitor Brandt inspiradamente obteram do cotidiano padrão brasileiro, ligeiramente pintado como novela global.
+Selminha, ou Samantha Schmütz, faz aqui a pobretona padrão brasileira que mora no morro do Rio de Janeiro com sua amiga inseparável e igualmente quebrada Luane. Ambas com nome de pobre (e Selminha é de fato o nome dela, de RG) e sem muitas perspectivas de vida, ambas trabalham como frentista e são obrigadas a passar os perrengues do dia a dia de todo pobre: condução lotada, peguetes que não querem saber de compromisso e tudo o que você pode imaginar que os roteiristas Fil Braz e Vitor Brandt inspiradamente obteram do cotidiano padrão brasileiro, ligeiramente pintado como novela global.
 
 Mas a atriz que faz Selminha não permite o disparate de a tornar uma caricatura à toa. A atriz Samantha Schmütz é eficiente no sentido de construir uma persona que pode participar de outras histórias e representar a pobretona brega e feia. Ela faz imitações guturais de pobre, se indigna como pobre. Ela confessa que rouba papel higiênico do trabalho como vingança (e coloca farofa no prato sem pesar no self-service). Ela está carregada de persona, e mesmo que estereotipada até as pontas desfiadas do seu cabelo, ela não se rende, esgotando sua energia a todo custo.
 
@@ -54255,7 +54255,7 @@ Sejam sonhos destruídos ou abortados, A Última Missão tem algo acontecendo pa
 # A Melhor Escolha
 2018-01-18 cinemaqui cinema movies
 
-Se não fosse pelo meu editor, o Vinicius Vieira, eu provavelmente nunca faria o link entre o diretor Hal Ashby e Richard Linklater. Isso porque este "A Melhor Escolha", assim como foi "Jovens, Loucos e Mais Rebeldes", pode-se chamar uma "continuação espiritual" de um filme que o antecede dirigido por Ashby, "A Última Missão". Mas o que Linklater faz é algo ainda maior, incidentalmente se declarando com este filme o diretor que, assim como Ashby, observa a humanidade através das pessoas em seu dia-a-dia, conversando, interagindo e discutindo sobre a própria vida.
+Se não fosse pelo meu editor, o Vinicius Vieira, eu provavelmente nunca faria o link entre o diretor Hal Ashby e Richard Linklater. Isso porque este "A Melhor Escolha", assim como foi "Jovens, Loucos e Mais Rebeldes", pode-se chamar uma "continuação espiritual" de um filme que o antecede dirigido por Ashby, "A Última Missão". Mas o que Linklater faz é algo ainda maior, incidentalmente se declarando com este filme o diretor que, assim como Ashby, observa a humanidade através das pessoas em seu dia a dia, conversando, interagindo e discutindo sobre a própria vida.
 
 Este filme apresenta os mesmos personagens do longa de 1973, mas com os nomes diferentes (embora aqui e ali referencie alguns apelidos do original, como "Mule"). Se bem que os nomes não importam muito, já que Laurence Fishburne, Steve Carell e Bryan Cranston criam personas meticulosamente idênticas a versões envelhecidas dos personagens antes encarnados por Otis Young, Randy Quaid e Jack Nicholson, respectivamente. É notável, assim como foi com Nicholson, a naturalidade com que Cranston abraça o ex-fuzileiro bonachão, incluindo suas pausas ao falar, seu modo simples de argumentar e seu lado pragmático e beberrão.
 
@@ -54643,7 +54643,7 @@ Dessa forma, "Paulistas" se compromete como documentário denúncia ou ficção 
 
 O Passageiro lembra uma retrospectiva ou uma síntese dos últimos 10 anos no planeta Terra, desde a crise de 2008 até a crescente demonização das grandes corporações frente à classe trabalhadora (se você já ouviu falar do termo "1%" sabe do que estou falando). O resultado é um filme de ação que pode ser visto ou como "antenado" ou ultrapassado, dependendo do quanto você já foi bombardeado por filmes contra o sistema. Aliás, eu nem sei mais se o sistema continua sendo o vilão da vez, mas é o que o filme sugere. No final das contas, desconfio que o único motivo real desse filme é ver Liam Neeson de volta à ação.
 
-E aqui ele retorna mais uma vez como o cara que tem que proteger sua família. Para isso seu incentivo inicial, como para muitos de nós, é o dinheiro. Mas algo ocorre no caminho e ele acaba caindo no dilema do sacrifício para "fazer a coisa certa". E ele já está sendo testado desde o começo. Vemos uma bela introdução que usa repetições do dia-a-dia para ilustrar a rotina de uma família e seus desafios cotidianos. No final dela sabemos que ele é um ex-policial (claro) que está trabalhando por 10 anos como vendedor de seguros para uma mega-corporação (claro) para sustentar sua família. Ele obviamente acaba sendo demitido, 5 anos antes de sua aposentadoria, e com duas hipotecas e a faculdade do filho para pagar você imagina que ele não ficou muito feliz por ter feito a coisa certa nos últimos 10 anos.
+E aqui ele retorna mais uma vez como o cara que tem que proteger sua família. Para isso seu incentivo inicial, como para muitos de nós, é o dinheiro. Mas algo ocorre no caminho e ele acaba caindo no dilema do sacrifício para "fazer a coisa certa". E ele já está sendo testado desde o começo. Vemos uma bela introdução que usa repetições do dia a dia para ilustrar a rotina de uma família e seus desafios cotidianos. No final dela sabemos que ele é um ex-policial (claro) que está trabalhando por 10 anos como vendedor de seguros para uma mega-corporação (claro) para sustentar sua família. Ele obviamente acaba sendo demitido, 5 anos antes de sua aposentadoria, e com duas hipotecas e a faculdade do filho para pagar você imagina que ele não ficou muito feliz por ter feito a coisa certa nos últimos 10 anos.
 
 Com uma boa parte de drama, mistério e suspense salpicado pontualmente de ação em um filme que se passa essencialmente dentro de um trem e seu trajeto de subúrbio rodeado de estranhos, esta acaba sendo uma história sobre o sofrimento humano diário pós-moderno: a labuta sem sentido. E esses humanos no filme sofrem muito. Eles trabalham como loucos, realizam uma viagem de trem todos os dias até o trabalho. E até os funcionários do trem trabalham feito condenados, ou pelo menos todos fazem aquela reclamação básica. "Se o trem não acabar me matando um dia as pessoas o farão", diz um senhor que trabalha por décadas na mesma linha. O trabalho é visto como sofrimento, e a falta de uma recompensa no final, uma punição.
 
@@ -55508,7 +55508,7 @@ Mesmo não querendo soar didática, o filme de Carmen acompanha Birri durante se
 
 Além disso, acompanhar os almoços com a equipe e os momentos de descontração se torna algo ainda mais fascinante por podermos ouvir os insights do sujeito, que é um ícone entre documentaristas. Ele é conhecido como o pai do novo cinema latino-americano, mas acima de tudo parece conter uma mente de filósofo trabalhando a todo momento sua interação com a realidade. Nas últimas filmagens que temos de sua vida, quando Carmen lhe apresenta uma câmera go pro, mesmo debilitado ele levanta uma questão fascinante sobre o ser e sua memória. A sua escolha de palavras é a melhor parte, e por isso, mesmo com seu jeito pausado de falar, aguardamos a frase inteira, porque ela nunca é previsível.
 
-Carmen Guarini, por outro lado, parece venerar demais seu tutor, e o apresenta exatamente como ele é no dia-a-dia -- uma pessoa humilde, encolhida, e sagaz ao mesmo tempo -- e no processo evita tentar contar uma história. Isso empobrece o filme e o torna mais um registro histórico do que uma releitura do cinema de Birri. Ou podemos pensar como uma homenagem. Como o momento que observamos a troca de mensagens entre eles. O que faz lembrar de sua trilha sonora, que é inadequada do começo ao fim. Não há aqui a tentativa de comentar uma história, pois como já vimos, ela não existe. Então ela se torna música ambiente, que é imprópria para este tipo de homenagem.
+Carmen Guarini, por outro lado, parece venerar demais seu tutor, e o apresenta exatamente como ele é no dia a dia -- uma pessoa humilde, encolhida, e sagaz ao mesmo tempo -- e no processo evita tentar contar uma história. Isso empobrece o filme e o torna mais um registro histórico do que uma releitura do cinema de Birri. Ou podemos pensar como uma homenagem. Como o momento que observamos a troca de mensagens entre eles. O que faz lembrar de sua trilha sonora, que é inadequada do começo ao fim. Não há aqui a tentativa de comentar uma história, pois como já vimos, ela não existe. Então ela se torna música ambiente, que é imprópria para este tipo de homenagem.
 
 Obcecada pelos momentos mais brilhantes de Fernando Birri, "Amarra Seu Arado a Uma Estrela" é uma linda homenagem e revelação da mente deste cineasta que nos deixou aos 92 anos. Mas pela falta de história se torna um filme incompleto. O jogo entre Che Guevara e Utopia são dois pedaços que não são usados para muita coisa. O resultado é um passeio agradável sem muita coisa o que dizer. Mas, ainda assim, agradável.
 
@@ -55737,7 +55737,7 @@ E no final, bem no final, vai ficando claro que esta é uma mensagem genérica s
 
 Tenho o prazer desta vez de poder falar sobre um filme nacional que não dependeu de quaisquer incentivos públicos, produzido de forma completamente independente. E se fazer arte é um ato político, a produção de Todo Clichê do Amor diz muito mais sobre a época que vivemos do que qualquer manifestação na Paulista.
 
-Com toda a originalidade possível que um projeto desses implica, a produção de Daniel Gaggini e a direção, roteiro e atuação de Rafael Primot elencam três protagonistas mulheres em torno de recortes exóticos do dia-a-dia dos relacionamentos amorosos. O objetivo é brincar com os clichês desses filmes de amor ao mesmo tempo que se faz um. Temos uma prostituta que ao mesmo tempo que cuida de um cliente de sadomasoquismo conversa com o marido -- ator pornô -- a respeito de seu desejo imediato de ter um filho. Enquanto isso, madastra e enteada trocam farpas sobre a vida ao terem que se encontrar sobre o enterro do pai/marido. E para fechar a trilogia a paquera inocente entre dois jovens que, diz-se, vivem mundos e destinos distintos, mas que no fundo... no fundo sempre há um clichê para juntá-los.
+Com toda a originalidade possível que um projeto desses implica, a produção de Daniel Gaggini e a direção, roteiro e atuação de Rafael Primot elencam três protagonistas mulheres em torno de recortes exóticos do dia a dia dos relacionamentos amorosos. O objetivo é brincar com os clichês desses filmes de amor ao mesmo tempo que se faz um. Temos uma prostituta que ao mesmo tempo que cuida de um cliente de sadomasoquismo conversa com o marido -- ator pornô -- a respeito de seu desejo imediato de ter um filho. Enquanto isso, madastra e enteada trocam farpas sobre a vida ao terem que se encontrar sobre o enterro do pai/marido. E para fechar a trilogia a paquera inocente entre dois jovens que, diz-se, vivem mundos e destinos distintos, mas que no fundo... no fundo sempre há um clichê para juntá-los.
 
 Este filme brinca com o sexo e o seu orgasmo é o clichê romântico. E orgasmos aqui nunca são alcançados, quase como uma metáfora sobre a definição do amor. Ou como a comédia no filme, pois apesar de estarmos presenciando o humor em momentos pontuais de histórias que arriscam ser leves, todo o texto existencialista que se finge de cotidiano não nos deixa desvencilhar do drama inerente de cada história. É como se a profundidade que Rafael Primot alcança com essas histórias sabotasse sua própria ideia de humor atrelada ao drama.
 
@@ -56227,7 +56227,7 @@ Bruce Willis aqui opera no lugar de Charles Bronson sob sua sombra, sendo quase 
 
 Incluindo sua casa, em uma noite de incidentes que culmina na sua esposa (Elisabeth Shue) morta e a filha em coma. Sem ter a menor ideia de como seguir com a vida suspensa dessa maneira brutal, e seguindo as pistas do cotidiano e seus instintos mais primitivos, essa figura funcional e inofensiva da sociedade aos poucos se vê no dever de acumular mais uma função, uma básica: tornar as ruas de sua cidade mais seguras. Uma função que deveria ser de todos nós e que há muito tempo atrás nos esquecemos disso, porque nos foi dito que deveríamos nos comportar como cordeirinhos e não interferir com o processo da lei. Como a terapeuta de Paul comenta, o luto pelo qual ele passa é um processo; e ele entende isso. Sua única ressalva é sobre qual deve ser o resultado final.
 
-Dirigido pelo discutível Eli Roth (O Albergue, 1 e 2) de uma maneira correta e sem imaginação, exceto talvez a escalada de Willis no mundo do crime enquanto vemos lado a lado o seu dia-a-dia como médico (minha parte favorita é ele colocando balas em sua arma enquanto coleta balas disparadas do corpo de um paciente), Desejo de Matar brilha nos seus pequenos detalhes do roteiro de Joe Carnahan (A Última Cartada), como os pequenos sinais que aparecem na vida que o ajudam a tomar a decisão radical de virar um justiceiro; como a forma com que seu sogro afasta caçadores ilegais (spoiler: com balas de rifle; como deve ser, claro).
+Dirigido pelo discutível Eli Roth (O Albergue, 1 e 2) de uma maneira correta e sem imaginação, exceto talvez a escalada de Willis no mundo do crime enquanto vemos lado a lado o seu dia a dia como médico (minha parte favorita é ele colocando balas em sua arma enquanto coleta balas disparadas do corpo de um paciente), Desejo de Matar brilha nos seus pequenos detalhes do roteiro de Joe Carnahan (A Última Cartada), como os pequenos sinais que aparecem na vida que o ajudam a tomar a decisão radical de virar um justiceiro; como a forma com que seu sogro afasta caçadores ilegais (spoiler: com balas de rifle; como deve ser, claro).
 
 Logo temos a experiência de acompanharmos sua escalada e seu isolamento gradual da vida social, ocupando o porão como um bagunçado esconderijo de seu alter ego, o distanciamento do seu irmão, além das noites agindo como vigilante andando a esmo nos piores lugares para estar em uma cidade grande. Tudo isso é narrado como um filme de ação trivial, e não como um drama intimista de um pai de família que teve sua vida arrasada e que busca redenção aleatória. Mas dane-se, já que a sensação de poder e liberdade que Bruce Willis exibe e esse contraste de valores com os atuais movimentos sociais pacifistas (leia lenientes) paga-se sozinho. Só seria melhor se ele ajudasse mulheres e garotos negros que sozinhos precisam enfrentar bandidos impunes (pertencentes a todas as principais etnias). Ei, espera: ele faz justamente isso!
 
@@ -58138,7 +58138,7 @@ O que temos no núcleo da história é Nico, interpretada por Trine Dyrholm, e s
 
 Já Gordon Sinclair representa bem uma série de emoções que um espectador-fã reconheceria em si mesmo: amor, admiração, paixão. Este não é um agente que simplesmente acredita em sua estrela: ele vive e entende Nico talvez melhor do que ela. Ele se torna testemunha de seu declínio, mas não parece ligar a mínima. Para ele sua musa sempre estará no topo, e ele fará sempre questão de que ela seja tratada da melhor forma à disposição, o que não impede que seja visível que esta não é uma banda que está arrasando na audiência. Lembrando uma versão mais digna de Mathieu Amalric em Turnê (2010), Sinclair até se veste de forma a pontuar que ele não faz parte do show business como qualquer outro vendedor de talentos: ele é parte do que defende.
 
-Essa insistência em enxergar a situação da banda se torna uma mensagem triste e ao mesmo tempo necessária do filme. Artistas influentes como Nico e tantos outros talvez só consigam sua inspiração tendo essas vidas sofríveis, no limite. Dessa forma, a postura da diretora/roteirista Susanna Nicchiarelli é correta em nos trazer um filme realista, onde as quedas do dia-a-dia não são lamentadas como algo desastroso, mas como simplesmente parte da vida. Quando eles precisam ficar alguns dias na casa de um amigo por não conseguirem pagar um hotel é quando Nico tem uma refeição memorável com um amigo. A criação de Trine Dyrholm entra nessa vibe, e junto com ela todos os que interpretam membros da banda e equipe. A sobrevivência de Nico e seus fãs como exilados não é algo a se lamentar, mas a se observar. Admirar, talvez. Olhe que lindo um mundo onde nem todos fazem parte do rebanho.
+Essa insistência em enxergar a situação da banda se torna uma mensagem triste e ao mesmo tempo necessária do filme. Artistas influentes como Nico e tantos outros talvez só consigam sua inspiração tendo essas vidas sofríveis, no limite. Dessa forma, a postura da diretora/roteirista Susanna Nicchiarelli é correta em nos trazer um filme realista, onde as quedas do dia a dia não são lamentadas como algo desastroso, mas como simplesmente parte da vida. Quando eles precisam ficar alguns dias na casa de um amigo por não conseguirem pagar um hotel é quando Nico tem uma refeição memorável com um amigo. A criação de Trine Dyrholm entra nessa vibe, e junto com ela todos os que interpretam membros da banda e equipe. A sobrevivência de Nico e seus fãs como exilados não é algo a se lamentar, mas a se observar. Admirar, talvez. Olhe que lindo um mundo onde nem todos fazem parte do rebanho.
 
 # Animal Político
 2018-08-26 cinemaqui cinema movies
@@ -58324,7 +58324,7 @@ Seguindo a tradição em filmes de boxe no Cinema, onde a história nunca é sob
 # GetArg: the ultimate badass argv/argc parser
 2018-08-30 computer blog
 
-Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu último artigo sobre o tema. Sim, eu também acho que a versão com STL bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia-a-dia: precisa ter o argc nessa equação?
+Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu último artigo sobre o tema. Sim, eu também acho que a versão com STL bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia a dia: precisa ter o argc nessa equação?
 
 A resposta é não. Pois, como sabemos, o padrão C/C++ nos informa que o argv é um array de ponteiros de strings C que termina em nulo. Sabemos que ele termina, então o argc é apenas um helper para sabermos de antemão onde ele termina. Mas quando precisamos, por exemplo, passar o argv/argc para uma thread Windows, que aceita apenas um argumento mágico, talvez minha versão antiga não seja tão eficaz, pois isso vai evitar que eu aloque memória de um struct que contenha ambas as variáveis, etc. Por que não simplesmente utilizar apenas o argv?
 
@@ -59343,7 +59343,7 @@ Estou voltando a programar algumas coisas no boost. Algo que eu perdi ao me isol
 
 Isso não quer dizer que a linguagem C++ está indo para um bom caminho. Muito pelo contrário. Uma miríade de questões semânticas dividem opiniões e nunca resolvem de fato problemas do mundo real. Verdadeiros arcabouços masturbatórios, o comitê da linguagem se debate em vão quando tenta buscar maneiras de tornar uma linguagem arcaica em um exemplo de expressividade.
 
-Isso às vezes não importa muito para o dia-a-dia, mas outras vezes importa. Veja o caso da biblioteca Boost.Bind, uma das mais antigas a entrar para o projeto. Sua função é simples: expandir o conceito do `std::bind` para quantos argumentos for necessário. Isso foi criado na época com a ajuda de inúmeros overloads da função (em modo template), mas hoje é possível fazer com variadic templates. Seu uso é simples, intuitivo, direto, e resolve muitos problemas de encaixe de código:
+Isso às vezes não importa muito para o dia a dia, mas outras vezes importa. Veja o caso da biblioteca Boost.Bind, uma das mais antigas a entrar para o projeto. Sua função é simples: expandir o conceito do `std::bind` para quantos argumentos for necessário. Isso foi criado na época com a ajuda de inúmeros overloads da função (em modo template), mas hoje é possível fazer com variadic templates. Seu uso é simples, intuitivo, direto, e resolve muitos problemas de encaixe de código:
 
 ```
 #include <iostream>
@@ -59518,7 +59518,7 @@ Começando já sem nenhuma esperança de dias melhores, "Uma Noite" consegue ext
 
 Da mesma forma, o jeito que um dos presos convence um soldado e mais pra frente um sargento a escrever carta para suas amadas extrai uma necessidade de conexão que parecia ter se perdido na militarização dessas vidas após o golpe no Uruguai. Tanto que, de uma maneira quase que simbólica, o soldado que tem uma carta escrita para uma garota pelo preso dotado de habilidades literárias não sabe o que fazer com a carta, sendo que o óbvio é enviá-la para a garota. Parece bobo, mas é justamente nesses detalhes que extraímos não apenas a completa perda de humanidade de soldados que apenas esperam por mais ordens, como também explica um pouco do mundo lá fora (que nunca é mostrado, apenas em flashbacks antes da captura e alguns momentos onde eles podem ouvir rádio ou ler alguma notícia de jornal).
 
-A fotografia do filme não segue a paleta padrão escura da solitária em filmes do gênero, mas prefere um amarelo agreste e desértico, em cenários que quase sempre possuem areia em seu solo e um sol ardente mas invisível, para ressaltar o isolamento dessas pessoas do resto da humanidade. Eles estão perdido em um deserto onde eles mesmos se colocaram e agora não conseguem mais voltar. E o mais tocante é entender que se pudessem escolher provavelmente seguiriam os mesmos passos. É a sensação de princípios que conseguimos notar na dignidade de cada um dos três em lidar com o dia-a-dia, ainda que eles sequer consigam a privacidade e as condições mínimas para poder fazer suas necessidades (em um momento hilário que demonstra como a burocracia e incompetência do Estado pode ser exemplificada em apenas um problema envolvendo um banheiro e algemas).
+A fotografia do filme não segue a paleta padrão escura da solitária em filmes do gênero, mas prefere um amarelo agreste e desértico, em cenários que quase sempre possuem areia em seu solo e um sol ardente mas invisível, para ressaltar o isolamento dessas pessoas do resto da humanidade. Eles estão perdido em um deserto onde eles mesmos se colocaram e agora não conseguem mais voltar. E o mais tocante é entender que se pudessem escolher provavelmente seguiriam os mesmos passos. É a sensação de princípios que conseguimos notar na dignidade de cada um dos três em lidar com o dia a dia, ainda que eles sequer consigam a privacidade e as condições mínimas para poder fazer suas necessidades (em um momento hilário que demonstra como a burocracia e incompetência do Estado pode ser exemplificada em apenas um problema envolvendo um banheiro e algemas).
 
 Fechando o ciclo com uma versão fabulosa de Sound of Silence da cantora espanhola Silvia Pérez Cruz, Uma Noite de 12 Anos é um presente bem-vindo dessa passagem dura da história do Uruguai, e assim como todas as passagens duras da história isso deve nos prestar como um alerta importante de coisas que não devemos repetir no futuro. Não é apenas uma mensagem para os uruguaios: é uma lição de onde ficam escondidos os horrores ideológicos quando a crueldade vira sistêmica.
 
@@ -59565,7 +59565,7 @@ Taika Waititi é um diretor neo-zelandês. Ele uma fez fez um filme chamado Louc
 
 O que nesse caso é ótimo. Eles pegam essa ideia para vampiros (e um pouco de lobisomens, zumbis, etc). Os dois e Jonny Brugh fazem o trio de vampiros que dividem uma casa onde o maior problema é discutir por que Deacon não lavou louça nos últimos cinco anos, período que ele foi escolhido para a função, e por que quem for trazer uma vítima para o jantar não pode simplesmente colocar alguns papéis toalha no chão antes de perfurar o pescoço de sua comida?
 
-Escrito por eles e dirigido com um tom de gore, com um ou dois momentos bem feitos e o resto trucagens de câmera pseudo-criativas que dão conta do recado graças à iluminação e computação gráfica, "O Que Fazemos..." consegue explorar várias situações do dia-a-dia (ou da noite-a-noite?) com o pano de fundo de como é ser um vampiro, ter séculos de existência, precisar ser convidado para entrar nos bares noturnos, etc. Há até piadas feministas, como uma serva que faz tudo para um deles e que espera um dia ser transformada também. "Se eu tivesse um pênis já seria uma vampira", protesta. Ao mesmo tempo temos Stu (Stu Rutherford), o amigo de uma vítima deles que virou vampiro e que agora é o humano mais sem noção que já fez parte de um filme de vampiros.
+Escrito por eles e dirigido com um tom de gore, com um ou dois momentos bem feitos e o resto trucagens de câmera pseudo-criativas que dão conta do recado graças à iluminação e computação gráfica, "O Que Fazemos..." consegue explorar várias situações do dia a dia (ou da noite-a-noite?) com o pano de fundo de como é ser um vampiro, ter séculos de existência, precisar ser convidado para entrar nos bares noturnos, etc. Há até piadas feministas, como uma serva que faz tudo para um deles e que espera um dia ser transformada também. "Se eu tivesse um pênis já seria uma vampira", protesta. Ao mesmo tempo temos Stu (Stu Rutherford), o amigo de uma vítima deles que virou vampiro e que agora é o humano mais sem noção que já fez parte de um filme de vampiros.
 
 O humor que Clement e Waititi entregam em uma hora e meia é ágil e dá pouco tempo para pensar. Quando há muito tempo as gags não funcionam. Quando há pouco tempo as ideias são tão bizarras ("briga de morcegos!") que acabam funcionando. Quando esses amigos encontram uma gangue de lobisomens no meio da noite é um momento tenso, e descobrimos que os próprio lobisomens possuem seus problemas de convívio da matilha. É o frescor das ideias que sempre torna esse filme engraçado, original e imperdível.
 
@@ -59977,7 +59977,7 @@ Termina muito rápido. O recado se mantém por mais um tempo. E dá vontade de l
 
 Better Call Saul em sua quarta temporada segue o mesmo formato de todas as anteriores: é uma novela porque se estende demais -- as regras um pouco degastantes de uma série -- mas entrega o que promete mais uma vez: um protagonista um pouco mais próximo de se tonar o Saul Goodman que todos nós conhecemos de Breaking Bad.
 
-Após a morte de seu irmão Jimmy McGill perde sua licença para advogar por um ano, e nesse tempo a história segue um caminho que eu sinceramente não esperava, mas que é uma das virtudes da série: ela mostra o dia-a-dia de seus personagens e como fazem para progredir passo-a-passo. E isso não é entediante, pois já adoramos esses personagens!
+Após a morte de seu irmão Jimmy McGill perde sua licença para advogar por um ano, e nesse tempo a história segue um caminho que eu sinceramente não esperava, mas que é uma das virtudes da série: ela mostra o dia a dia de seus personagens e como fazem para progredir passo-a-passo. E isso não é entediante, pois já adoramos esses personagens!
 
 Isso porque qualquer um, até Gale, o químico habilidoso e um pouco empolgado demais para o gosto de Gustavo Fring, é um personagem bem desenvolvido na série. Todo cuidado para ser fiel à atmosfera de Breaking Bad se segue, e o criador Vince Gilligan deixa até a volta dos gêmeos Salamanca como um tapa na cara dos fãs mais críticos (como eu). Funciona melhor que na segunda temporada de Breaking Bad.
 
@@ -60072,7 +60072,7 @@ Esses filmes do diretor sionista que exibe pedaços da vida de várias pessoas c
 
 Mas como voltar para casa quando sua própria existência ainda está em debate?
 
-Nessa ficção pseudo-documental (e poética) Gitai passa o tempo todo filmando pessoas comuns (na verdade são atores, sendo o mais famoso o francês Mathieu Amalric) indo e vindo pelo trem de Jerusalém. Recortes do dia-a-dia ilustrados com música e diferentes nacionalidades, origens e passaporte. Uma miscelânea que dá oportunidade de tecer diferentes tipos de comentários e críticas sociais. Uma boa ideia, sem dúvida.
+Nessa ficção pseudo-documental (e poética) Gitai passa o tempo todo filmando pessoas comuns (na verdade são atores, sendo o mais famoso o francês Mathieu Amalric) indo e vindo pelo trem de Jerusalém. Recortes do dia a dia ilustrados com música e diferentes nacionalidades, origens e passaporte. Uma miscelânea que dá oportunidade de tecer diferentes tipos de comentários e críticas sociais. Uma boa ideia, sem dúvida.
 
 Porém, não há conflito; nem narrativa; nem história. Gitai nos convida, mais uma vez, a conhecer a diversidade da Palestina e dar sua sutil cutucada sionista pelo tempo de tela onde ouvimos passagens da Bíblia e Torá. Os argumentos palestinos, pra variar, são muito fracos, mas essa é uma ficção e Amos o seu diretor incondicional.
 
@@ -60209,7 +60209,7 @@ A história é simples: o próprio diretor, Talal Derki, volta ao seu país nata
 
 O resultado são declarações extremamente polêmicas de seu anfitrião e pais das duas crianças, como por que ele escolheu o nome de seus filhos (um deles tem o nome do terrorista que derrubou as torres gêmeas). Ele vive de buscar minas enterradas onde vivem para coletar o material com que ela é feita e conseguir dinheiro. O grupo ao qual ele pertence está alinhado com a Al Qaeda, e você ouvirá os motivos pelo qual ele defende a posição radical onde está inserido.
 
-E ao mesmo tempo que os diálogos revelam exatamente os valores desse grupo de muçulmanos, não exatamente a exceção, você também irá acompanhar a ação do dia-a-dia, como a educação que seus filhos recebem, como jogar pedras nos alunos de uma escola ou brincar de fazer uma bomba caseira com terra e ácido. O treinamento de jihadistas é a parte mais pesada para as crianças, mas até lá você irá entender que elas já estão inseridas nessa realidade desde a raiz, então não há de fato muito o que se pode fazer. É um outro mundo, e a grande virtude de Derki é nos entregar este mundo por completo, sem restrições, sem vitimismo.
+E ao mesmo tempo que os diálogos revelam exatamente os valores desse grupo de muçulmanos, não exatamente a exceção, você também irá acompanhar a ação do dia a dia, como a educação que seus filhos recebem, como jogar pedras nos alunos de uma escola ou brincar de fazer uma bomba caseira com terra e ácido. O treinamento de jihadistas é a parte mais pesada para as crianças, mas até lá você irá entender que elas já estão inseridas nessa realidade desde a raiz, então não há de fato muito o que se pode fazer. É um outro mundo, e a grande virtude de Derki é nos entregar este mundo por completo, sem restrições, sem vitimismo.
 
 O objetivo mais nobre de um documentário é conseguir documentar um ponto de vista em um momento histórico em todas as suas nuances. "Sobre Pais e Filhos" é um desses filmes, cria de "Nanook of the North" (um dos primeiros documentários que fez isso no Cinema) e que consegue nos mostrar o começo e o fim de um sistema cruel, radical e violento. Mas autêntico. Real. Indissociável de sua própria narrativa. Há tantos momentos dignos de nota que ficarei listando o filme inteiro aqui. Então assista ele, do começo ao fim, e viva uma imersão que apenas documentários podem nos trazer.
 
@@ -60463,7 +60463,7 @@ O chef de cozinha David Chang é o astro dessa série criada por ele. Ela segue 
 
 O trunfo da série é nos entregar diferentes e inusitados lugares para experimentar comida que está sendo produzida sob a influência cultural da região, da tradição e da inovação. Chang não é um tradicionalista apenas, mas alguém que aprecia boa comida, seja lá de onde vier. E por isso ele encontra verdadeiras pérolas em volta do mundo, explicando no processo como tudo funciona.
 
-Esta é mais uma série gastronômica, mais uma vez da Netflix. Seu objetivo é menos reverenciar os chefs como em Chef's Table, menos reverenciar a produção de comida como em Chef & My Fridge. É mais sobre o dia-a-dia de um chef de cozinha e seus amigos. É um encontro informal, como pode haver entre pessoas comuns. A única diferença é que alguém está obcecado em descobrir ótimos lugares para comer. Quem ganha é o espectador gourmand.
+Esta é mais uma série gastronômica, mais uma vez da Netflix. Seu objetivo é menos reverenciar os chefs como em Chef's Table, menos reverenciar a produção de comida como em Chef & My Fridge. É mais sobre o dia a dia de um chef de cozinha e seus amigos. É um encontro informal, como pode haver entre pessoas comuns. A única diferença é que alguém está obcecado em descobrir ótimos lugares para comer. Quem ganha é o espectador gourmand.
 
 # Um Segredo em Paris
 2018-11-17 cinema movies
@@ -60683,7 +60683,7 @@ De acordo com a própria Thirer, três estrelas significavam "excelente", duas e
 
 Mas esse foi apenas o início, que só se popularizou nos anos 50 quando a famosa revista francesa Cahiers du cinéma começa a fazer o mesmo, agora com uma escala de cinco estrelas no máximo e um ponto para acentuar nenhuma estrela. Esse negócio de não atribuir nenhuma nota, zerar mesmo, é um detalhe ressaltado exageradamente, pois cada crítico parece ter uma opinião bem diversa do que seja um filme muito ruim.
 
-A própria questão de rankear filmes já dividiu e divide críticos e jornais, pois o argumento dos que são contra é no mínimo louvável: não se resume uma análise em um sistema de notas. O que acontece na prática, ainda mais na correria do dia-a-dia, é que as pessoas frequentemente olham mais a nota e se esquecem de ler o texto na hora de contra-argumentar, o que resume toda a questão em uma guerrinha de estrelas, que, vale lembrar, não diz absolutamente nada sobre o filme em si.
+A própria questão de rankear filmes já dividiu e divide críticos e jornais, pois o argumento dos que são contra é no mínimo louvável: não se resume uma análise em um sistema de notas. O que acontece na prática, ainda mais na correria do dia a dia, é que as pessoas frequentemente olham mais a nota e se esquecem de ler o texto na hora de contra-argumentar, o que resume toda a questão em uma guerrinha de estrelas, que, vale lembrar, não diz absolutamente nada sobre o filme em si.
 
 Eu tendo a concordar com isso não apenas em relação a filmes, mas a vinhos também. Talvez vinhos até mais. Construído em uma junção de tempo, sorte, terreno, clima e um controle não-tão absoluto do enólogo, as vinícolas estão sempre tentando criar diferentes formas de expressar a arte de fazer vinhos. Os sistemas de ranking ignoram a diversidade de aromas e sabores e categoriza tudo através de um número de 0 a 100, fazendo com que todo o mercado de vinhos se concentre mais em atender o sistema (para vender mais) e menos o consumidor final (que pode muito bem gostar de vinhos com pontuação baixa por alguma particularidade não capturada por um número).
 
@@ -61397,7 +61397,7 @@ A atuação de Christian Bale é tão perfeccionista que é quase como se o ator
 
 Entre elas há a tutela do casca grossa Donald Rumsfeld, que não tem papas na língua e que vira uma incógnita no filme: como alguém tão incompetente em se relacionar se manteve por tanto tempo na Casa Branca? Não importa. Ele foi um trampolim para o futuro vice-presidente, é uma interpretação desperdiçada de Steve Carell e foi o transmissor dos valores que Cheney utilizou sua vida inteira. Quando ele questiona Rumsfeld sobre o que ele deve acreditar sua resposta é uma gargalhada que pode-se ouvir até depois que ele fecha a porta em sua cara. Isso é tudo que você precisa saber sobre os valores políticos como um todo visto no filme.
 
-Adam McKay parece particularmente fascinado pelo seu estilo em explicar conceitos complexos usando analogias do dia-a-dia, como usar um cardápio de restaurante com os itens escusos escolhidos pela equipe de Cheney para conseguir o que quer a todo custo. Trazendo este vício de linguagem de A Grande Aposta, que se sai muitíssimo melhor com as alegorias financeiras, aqui esses momentos de interrupção apenas jogam o espectador para fora do filme. Como o momento em que os créditos iniciais (reais) do filme começam a subir como um final alternativo que poderia ocorrer na vida real. É engraçado, funciona, mas não colabora muito para a narrativa do filme, e arrisca prejudicar toda a história por um capricho estilístico do diretor.
+Adam McKay parece particularmente fascinado pelo seu estilo em explicar conceitos complexos usando analogias do dia a dia, como usar um cardápio de restaurante com os itens escusos escolhidos pela equipe de Cheney para conseguir o que quer a todo custo. Trazendo este vício de linguagem de A Grande Aposta, que se sai muitíssimo melhor com as alegorias financeiras, aqui esses momentos de interrupção apenas jogam o espectador para fora do filme. Como o momento em que os créditos iniciais (reais) do filme começam a subir como um final alternativo que poderia ocorrer na vida real. É engraçado, funciona, mas não colabora muito para a narrativa do filme, e arrisca prejudicar toda a história por um capricho estilístico do diretor.
 
 Aliás, o humor constante em todo o filme consegue amenizar as barbaridades que testemunhamos serem cometidas em nome do poder a todo custo. E talvez a maior sacada de todas tenha sido de fato o narrador do filme, interpretado por Jesse Plemons e que se mantém como um personagem-coringa até um momento derradeiro que pega o espectador de sopetão. Se há justiça poética nos filmes mais sombrios, o personagem de Plemons poderia muito bem entrar na categoria.
 
@@ -61725,7 +61725,7 @@ Minha colega de profissão no CinemAqui, Mariana González, me recomendou Um Peq
 
 Diretor do excepcional Missão Madrinha de Casamento, Feig é um diretor acostumado a colocar na frente de sua câmera o universo feminino nas melhores atuações das atrizes que escala. Foi assim com Kristen Wiig e agora a mágica se repetiu em Um Pequeno Favor com Anna Kendrick. Eu não costumo ver diretores se saindo tão bem em dirigir atrizes, mas Feig possui em sua lente o poder de elevar suas personagens na tela acima do convencional.
 
-E você conhece Kendrick. Atriz e cantora, essa baixinha dublou a garota mais fofinha em Trolls, e mesmo em um filme sério como O Contador Kendrick purifica o ar tóxico deixado por assassinatos e perseguições desse filme com Ben Afleck (coincidentemente Afleck está em Garota Exemplar; mas divago). Aqui ela faz Stephanie, mãe de um garoto e dona de casa que tenta manter a casa com o dinheiro do seguro após seu marido morrer em um trágico acidente e que faz vídeos caseiros com receitas para o dia-a-dia de pessoas como ela. Stephanie é dessas jovens mães que usam vestidos coloridos que lembram princesas da Disney depois do "felizes para sempre".
+E você conhece Kendrick. Atriz e cantora, essa baixinha dublou a garota mais fofinha em Trolls, e mesmo em um filme sério como O Contador Kendrick purifica o ar tóxico deixado por assassinatos e perseguições desse filme com Ben Afleck (coincidentemente Afleck está em Garota Exemplar; mas divago). Aqui ela faz Stephanie, mãe de um garoto e dona de casa que tenta manter a casa com o dinheiro do seguro após seu marido morrer em um trágico acidente e que faz vídeos caseiros com receitas para o dia a dia de pessoas como ela. Stephanie é dessas jovens mães que usam vestidos coloridos que lembram princesas da Disney depois do "felizes para sempre".
 
 Mas assim como o mundo torto de Um Pequeno Favor, Stephanie não é tão inocente assim. Depois que conhece a empoderada e problemática Emily (Blake Livery) e praticamente se adota como sua melhor amiga vamos aprendendo aos poucos que por trás de uma figura angelical pode-se esconder um ou dois pecados que sugerem uma versão alternativa onde tudo poderia ser diferente se visto sob outra ótica. Será isso porque a toxicidade de Emily foi aos poucos contaminando Stephanie ou ambas no fundo se merecem mais do que gostaríamos de assumir?
 
@@ -62552,7 +62552,7 @@ Todas as comédias românticas americanas se passam em Nova York. Todos os roman
 
 Essa cidade significa muito para os americanos. É a cidade com menos americanos na América. Também é a única com alguma personalidade que é fácil de lembrar, diferente de todas as outras cidades e estados americanos em que todos insistem que possuem suas particularidades. Não importa. Nova York é a única realmente globalizada, com uma cara de cidade do mundo moderno e portanto com uma, duas, vinte, infinitas histórias para contar.
 
-Da mesma forma com que foi feito em "Paris, Te Amo" esse "Nova York, Eu Te Amo" (que nome original) reúne diversos realizadores em torno de pequenas histórias, com a diferença que nesse caso elas se cruzam e se consolidam, em uma espécie de "Simplesmente Amor" mais poético, mais gráfico. Esse filme é uma pincelada geral na cidade e nos seus relacionamentos do dia-a-dia, carregado do característico cinismo e táxis mal-educados. O filme como um monolito se imagina muito progressista e pinta caricaturas como mulheres no Central Park que não imaginam que na cidade mais diversificada do Novo Mundo um negro possa ser pai de uma garotinha loira. Também brinca com a diferença entre as culturas e os muros (sagrados) invisíveis que se colocam entre as pessoas. É um passeio divertido, despretensioso. Quase esquecível.
+Da mesma forma com que foi feito em "Paris, Te Amo" esse "Nova York, Eu Te Amo" (que nome original) reúne diversos realizadores em torno de pequenas histórias, com a diferença que nesse caso elas se cruzam e se consolidam, em uma espécie de "Simplesmente Amor" mais poético, mais gráfico. Esse filme é uma pincelada geral na cidade e nos seus relacionamentos do dia a dia, carregado do característico cinismo e táxis mal-educados. O filme como um monolito se imagina muito progressista e pinta caricaturas como mulheres no Central Park que não imaginam que na cidade mais diversificada do Novo Mundo um negro possa ser pai de uma garotinha loira. Também brinca com a diferença entre as culturas e os muros (sagrados) invisíveis que se colocam entre as pessoas. É um passeio divertido, despretensioso. Quase esquecível.
 
 O fato é que a maioria das ideias funciona maravilhosamente bem porque são intensas o suficiente para chamar a atenção e não necessitam de muito tempo de tela para impregnar algum sentimento, reflexão ou raciocínio em cima do que está sendo proposto. Eu diria que mais tempo de tela estragaria boa parte dessas ideias, e justamente a necessidade de juntá-las ao final constitui o pior momento do longa.
 
@@ -63490,7 +63490,7 @@ Se seu objetivo é realizar backups remotos silenciosos e para isso você instal
 # Requiém Para Um Sonho
 2019-04-29 cinema movies
 
-Eu nunca me decepciono (pelo menos por enquanto) com Darren Aronofsky. Em "Réquiem Para Um Sonho" há essa forte mensagem anti-drogas, realizada com propriedade, com uma textura pesada e indissociável da própria natureza de um ser humano que não se valoriza. É um filme depressivo, mas que ao mesmo tempo nos faz refletir sobre nossos próprios vícios no dia-a-dia. E se você acha que é apenas contra drogas ilegais, pense de novo e responda a si mesmo: o que você faz para fugir da sua realidade?
+Eu nunca me decepciono (pelo menos por enquanto) com Darren Aronofsky. Em "Réquiem Para Um Sonho" há essa forte mensagem anti-drogas, realizada com propriedade, com uma textura pesada e indissociável da própria natureza de um ser humano que não se valoriza. É um filme depressivo, mas que ao mesmo tempo nos faz refletir sobre nossos próprios vícios no dia a dia. E se você acha que é apenas contra drogas ilegais, pense de novo e responda a si mesmo: o que você faz para fugir da sua realidade?
 
 A televisão já foi massacrada algumas vezes pelo Cinema, já perdeu até a novidade, ela e seu caráter de lavagem cerebral. Mas aqui ela é uma vilã muito caricatural, uma mistura de tudo que fascina as pessoas, principalmente as que anseiam por atenção. É um programa de TV que recebe pessoas de sucesso (pela definição do apresentador) e tem uma plateia empolgada com a existência dessa pessoa fictícia.
 
@@ -63675,7 +63675,7 @@ Há pessoas cantando, recitando poesia, tocando. Há todo tipo de etnia e idade,
 
 Coutinho se revela para as câmeras, como uma forma de contar um fiapo de história por aquela decisão de escolher este prédio e estas pessoas. Há breves momentos nos corredores que tentam manter aquela imagem vívida. Funciona.
 
-Além disso, o ponto de vista é sempre dos moradores. Não vemos em momento algum a fachada do prédio. Privacidade? Ou é como as pessoas que vivem há anos, décadas, se comportam no dia-a-dia? Do elevador para o corredor, do corredor para dentro da porta. E somem. Coutinho desencava histórias, com uma cadência que não se revela tão mirabolante para o espectador médio, mas para quem tem alguma ideia de como documentários são feitos, pode imaginar: deu um trabalho do cão. E valeu a pena cada minuto.
+Além disso, o ponto de vista é sempre dos moradores. Não vemos em momento algum a fachada do prédio. Privacidade? Ou é como as pessoas que vivem há anos, décadas, se comportam no dia a dia? Do elevador para o corredor, do corredor para dentro da porta. E somem. Coutinho desencava histórias, com uma cadência que não se revela tão mirabolante para o espectador médio, mas para quem tem alguma ideia de como documentários são feitos, pode imaginar: deu um trabalho do cão. E valeu a pena cada minuto.
 
 # Visual Studio Unit Test (C++)
 2019-05-06 computer blog
@@ -64031,7 +64031,7 @@ Para comemorar o dia anti-maniconial (que nominho desgraçado) nada como assisti
 
 O filme tem cenas de sobra demonstrando o caos da sociedade brasileira conservadora da época. Othon Bastos faz o papel do pai gente direita que quer colocar o filho no eixo. O filho, interpretado por Rodrigo Santoro, é um vida boa, jovenzinho que está aí só curtindo com os amigos. E a mãe, Cássia Kis, é essa submissa padrão que sofre em silêncio.
 
-A falta de comunicação em família é o estopim para uma internação despropositada, junto com a ignorância sobre as drogas, ou pior, a confiança cega no governo para ditar quais as substâncias recreativas que podem ser ingeridas, como calmantes, nicotina e o álcool do dia-a-dia. O sanatório é uma parceria pública e quanto mais loucos para eles melhor. Logo o exame do "doutor" é só ver se o paciente está com o coração batendo.
+A falta de comunicação em família é o estopim para uma internação despropositada, junto com a ignorância sobre as drogas, ou pior, a confiança cega no governo para ditar quais as substâncias recreativas que podem ser ingeridas, como calmantes, nicotina e o álcool do dia a dia. O sanatório é uma parceria pública e quanto mais loucos para eles melhor. Logo o exame do "doutor" é só ver se o paciente está com o coração batendo.
 
 Este é um filme com atuações ímpares, tanto no casting principal quanto no dos loucos. Mas vendo o making of fica claro de quem é a competência na história. Dirigida por Laís Bodanzky, ela acompanha cada cena com os atores em seus personagens. Ela é a diretora ao mesmo tempo que a câmera. Ela determina o tom de cada cena e seu enquadramento com precisão cirúrgica. Ela teve depois em seu currículo filmes acima da média nacional, como As Melhores Coisas do Mundo e Chega de Saudade.
 
@@ -66561,7 +66561,7 @@ Grandioso e mágico no filme se torna uma bola de pingue-pongue, trazida pelo ri
 
 O filme de Hao Ning navega por essas percepções de encontro entre dois mundos. O comerciante traz uma revista americana e é chamada de "livro estranho". Nele está a foto de uma planície muito semelhante onde moram escrito "a vida perfeita". O chefe de família quer construir o moinho redondo que também está na foto, pois se trata de uma planície de algum país nórdico. A dificuldade em transpor um estilo de vida de outra parte do planeta para as tradições mongóis é o que torna esta história uma comédia.
 
-Mas Hao Ning se perde facilmente em sua fascinação pelo mundo infantil de descobertas, perdendo muito tempo em mostrar a briga de diferentes "gangues" de crianças, que se dividem por idade, além das brincadeiras sem brinquedo, mas com binóculos e motocicleta, que elas inventam no seu dia-a-dia.
+Mas Hao Ning se perde facilmente em sua fascinação pelo mundo infantil de descobertas, perdendo muito tempo em mostrar a briga de diferentes "gangues" de crianças, que se dividem por idade, além das brincadeiras sem brinquedo, mas com binóculos e motocicleta, que elas inventam no seu dia a dia.
 
 O resultado acaba se tornando um misto entre lúdico e quase uma análise humana das diferenças culturais. É engraçado acompanhar as percepções das crianças e de sua busca por compreender o que de fato aquela bola de pingue-pongue é. A membra mais antiga da família, a avó, diz ser um tesouro deixado pelos espíritos no rio, mas isso não convence mais essa geração, que recebe conhecimento novo de outras partes do mundo.
 
@@ -66770,7 +66770,7 @@ As 4 Aventuras de Reinette e Mirabelle vai bem reto e certeiro em seu objetivo: 
 
 É curioso como, baseado em quatro eventos na vida dessas duas garotas, este longa-metragem tenha tudo para se tornar um seriado. Isso se ele fosse produzido nos EUA. Mas como é francês, a história tem começo, meio e fim. Muito embora tanto faz qual o meio, o fim e o começo. Reinette gosta de pintar, aprendeu sozinha, e vai para Paris morar com Mirabelle e fazer um curso na faculdade de Belas Artes. Ela gosta de ser independente, mas precisa se virar financeiramente.
 
-Ao mesmo tempo três situações do dia-a-dia ocorrem envolvendo pedintes de rua, uma cleptomaníaca e um garçom muito mal-educado, e o filme é sobre observar o que Mirabelle e Reinette acham sobre tudo isso. Ouvir suas opiniões nos faz, como espectadores, pensar sobre as nossas próprias, mas também nos faz refletir como é comum conversar sobre assuntos banais como esse e de repente isso vira uma questão moral sobre nossos valores.
+Ao mesmo tempo três situações do dia a dia ocorrem envolvendo pedintes de rua, uma cleptomaníaca e um garçom muito mal-educado, e o filme é sobre observar o que Mirabelle e Reinette acham sobre tudo isso. Ouvir suas opiniões nos faz, como espectadores, pensar sobre as nossas próprias, mas também nos faz refletir como é comum conversar sobre assuntos banais como esse e de repente isso vira uma questão moral sobre nossos valores.
 
 Pautado no minimalismo, a narrativa que o diretor e roteirista Éric Rohmer utiliza, baseado na ideia de Joëlle Miquel (a atriz que faz Reinette no filme), é simples e eficaz. Os diálogos são reais, as situações são banais, e o filme acaba se tornando sobre como vivemos nós próprios vidas banais e discutimos situações triviais em nosso cotididano. É uma imersão em nossa mediocridade em um filme idem. Uma ode à pessoa comum e suas decisões aparentemente cruciais sobre como viver.
 
@@ -66825,7 +66825,7 @@ A história se passa em São Paulo, capital, e essas pessoas vivem suas vidas de
 
 Contra Todos é um retrato fiel da sociedade contemporânea de vários ângulos. A câmera, com baixa resolução e tremendo como as de telejornal, passeia pelos cenários reais do cotidiano e seus elementos: um ferro de passar velho, o leite com café e açúcar de manhã, as conversas fiadas que escondem o que não se deve falar na mesa.
 
-O que fascina mais é apenas observar o dia-a-dia dessas pessoas, e não necessariamente a crítica social à sua moral. Até porque o filme adota uma narrativa naturalista, onde as decisões que cada um toma faz sentido dentro do seu microcosmos, e por isso não há necessariamente mocinhos e vilões, ou são todos vilões do nosso ponto de vista que julga qualquer comportamento fora do normal. O objetivo nem é chocar pelo aspecto cru de seus personagens, mas pelo modo realista de encará-los.
+O que fascina mais é apenas observar o dia a dia dessas pessoas, e não necessariamente a crítica social à sua moral. Até porque o filme adota uma narrativa naturalista, onde as decisões que cada um toma faz sentido dentro do seu microcosmos, e por isso não há necessariamente mocinhos e vilões, ou são todos vilões do nosso ponto de vista que julga qualquer comportamento fora do normal. O objetivo nem é chocar pelo aspecto cru de seus personagens, mas pelo modo realista de encará-los.
 
 Há sexo realista, violência realista e diálogos realistas. Contra Todos é quase um documentário se for analisada sua atmosfera, mas mesmo assim ainda exibe um pouco de estrutura, principalmente no final, quando as pontas vão se amarrando e reviravoltas acontecem. Na vida real não há tantas reviravoltas. Eu poderia viver muito bem sem nenhuma, e assistiria esse filme mesmo se ele tivesse seis horas.
 
@@ -67066,7 +67066,7 @@ A estrela deste filme é a atriz Mako Midori, que se entrega de corpo e alma ao 
 
 Hoje tive que compilar a versão 1.13.0 do Asio para Windows, mas o vcpkg não suporta essa versão ainda, apesar de suportar uma versão (1.12.2.2). Daí entra os problemas que todo programador Windows tem para manter bibliotecas de terceiro compilando em seu ambiente, mas agora com o vcpkg isso nem é tão difícil assim. Vamos lá.
 
-Primeiro de tudo, os pacotes disponíveis no vcpkg podem não ser os disponíveis no branch oficial, que é apenas uma base, que está sendo atualizado e mantido por uma equipe grande que responde os issues, é verdade, mas nem sempre possui as versões que precisamos no dia-a-dia. Para adicionar ou modificar os pacotes deve-se mexer na pasta port do projeto. Dentro dela há uma pasta para cada pacote disponível.
+Primeiro de tudo, os pacotes disponíveis no vcpkg podem não ser os disponíveis no branch oficial, que é apenas uma base, que está sendo atualizado e mantido por uma equipe grande que responde os issues, é verdade, mas nem sempre possui as versões que precisamos no dia a dia. Para adicionar ou modificar os pacotes deve-se mexer na pasta port do projeto. Dentro dela há uma pasta para cada pacote disponível.
 
 É lá que fica a pasta asio, com seus quatro arquivos: asio-config.cmake, CMakeLists.txt, CONTROL e portfile.cmake. No CONTROL temos o sumário do pacote (nome, descrição, versão), no asio-config.cmake a receita CMake para fazer o build e em CMakeLists.txt como instalar. Isso varia de pacote para pacote, mas no caso de libs como a asio ela fica no GitHub, então em algum lugar nas instruções de instalação (aqui no caso em portfile.cmake) você irá encontrar o uso da função vcpkgfromgithub.
 
@@ -68216,7 +68216,7 @@ O documentário que tinha a ambição inicial de falar também do movimento art�
 
 Porém, o filme corre o sério risco de parecer chato para a maioria das pessoas que vivem nas cidades. Desconectados de nós mesmos, escondidos nessa selva de pedra caótica e impessoal, pode ser difícil enxergar a essência do que está sendo dito, sobre a elevação da consciência através na natureza. E não é tarefa fácil para o filme fazer isso.
 
-No entanto, uma vez que você abra sua mente o mínimo possível e deixe as imagens captadas e montadas pela diretora falarem mais alto, você estará dando um passo não apenas em direção a compreender quem foi Frans e seu movimento, mas também a compreensão de si mesmo. É que na correria do dia-a-dia nos esquecemos de nós mesmos, e nem todos vivem na floresta, podendo se nutrir da essência de quem somos, da beleza oculta na água, nas plantas, nos animais e no pôr do sol.
+No entanto, uma vez que você abra sua mente o mínimo possível e deixe as imagens captadas e montadas pela diretora falarem mais alto, você estará dando um passo não apenas em direção a compreender quem foi Frans e seu movimento, mas também a compreensão de si mesmo. É que na correria do dia a dia nos esquecemos de nós mesmos, e nem todos vivem na floresta, podendo se nutrir da essência de quem somos, da beleza oculta na água, nas plantas, nos animais e no pôr do sol.
 
 Este é um filme difícil para a maioria, mas que recompensa no final. Você pode sair mais leve da sala de cinema. E quem sabe disposto a entrar nessa luta e fazer algo pelo meio ambiente. Pelo nosso ambiente.
 
@@ -68322,7 +68322,7 @@ Viver Para Cantar é inspirado livremente no documentário A Folk Troupe (Gang Z
 
 A história segue pelo caminho seguro do drama do grupo de ópera que vai perder seu teatro que será demolido. Seu público está cada vez mais velho e está morrendo. O peso da perda dessa tradição repousa em sua chefe/matriarca Zhao Li (Zhao Xiaoli), que ainda precisa lidar com a perda de sua sobrinha a quem considera filha, mas as duas mudanças estão relacionadas. É a modernização dos costumes, ou sua ocidentalização.
 
-O que o filme trás de novidade é sua narrativa, que não chega a ser uma ópera porque quase não é cantada, mas vai aos poucos se entregando ao estilo, o que cumpre duas funções bem claras: trazer a arte para a vida comum e um final feliz a respeito do que o governo chinês é em sua maioria responsável. Se por um lado há o lirismo adentrando no dia-a-dia, enriquecendo a aventura do homem e da mulher comum, não deixa de ser uma solução hipócrita unir valores com os próprios vilões, sendo que talvez seja a censura falando mais alto.
+O que o filme trás de novidade é sua narrativa, que não chega a ser uma ópera porque quase não é cantada, mas vai aos poucos se entregando ao estilo, o que cumpre duas funções bem claras: trazer a arte para a vida comum e um final feliz a respeito do que o governo chinês é em sua maioria responsável. Se por um lado há o lirismo adentrando no dia a dia, enriquecendo a aventura do homem e da mulher comum, não deixa de ser uma solução hipócrita unir valores com os próprios vilões, sendo que talvez seja a censura falando mais alto.
 
 Mas não podemos ignorar que a cultura oriental, fortemente coletivista, pode influenciar na visão chinesa a respeito das mudanças frenéticas de virada de século. Todas as óperas mostradas no filme trabalham com transição. Alguém pula de uma ponte e borboletas aparecem. Há referências mistas que envolvem peças de Shakespeare a filmes de Ozu. Tudo trabalha para que a sensação de que a arte, não importando de onde ela surja, mas principalmente sua narrativa, pulsa e luta para sobreviver frente à modernização das grandes cidades.
 
@@ -68876,7 +68876,7 @@ De qualquer forma, o que vemos, a rotina de um fotógrafo de guerra nas guerras 
 
 O filme explora vagamente este distanciamento quando o protagonista encontra um colega fotógrafo e ambos falam sobre as qualidades das lentes e como hoje em dia todas as fotos exigidas pela mídia devem ser totalmente nítidas, sem espaço para uma interpretação da luz que tanto acrescenta ao momento. "Não há mais espaço para emoção", diz o fotógrafo que está há duas semanas no fronte e não parece temer pela própria vida.
 
-De fato não há mais espaço para algumas emoções, como solidariedade e empatia. Ao combinar as rotinas de pai e fotógrafo no mesmo filme vamos percebendo como são vidas distintas a de Marie Bitsch-Larsen, e seus quatro filhos possuem seus assuntos pessoais do dia-a-dia, além do drama pessoal de ter uma mãe à beira da morte. E nada disso se confunde com os momentos em que Marie está a trabalho, nunca os assuntos chegam a convergir, exceto no lado prático, como quando uma das filhas precisa do material do seu pai para um trabalho de escola.
+De fato não há mais espaço para algumas emoções, como solidariedade e empatia. Ao combinar as rotinas de pai e fotógrafo no mesmo filme vamos percebendo como são vidas distintas a de Marie Bitsch-Larsen, e seus quatro filhos possuem seus assuntos pessoais do dia a dia, além do drama pessoal de ter uma mãe à beira da morte. E nada disso se confunde com os momentos em que Marie está a trabalho, nunca os assuntos chegam a convergir, exceto no lado prático, como quando uma das filhas precisa do material do seu pai para um trabalho de escola.
 
 Com isso o filme ganha uma distância dos acontecimentos brutais da guerra que o próprio Marie aparenta ter pela frieza com que descreve e trabalha, uma frieza provavelmente desenvolvida como forma de auto proteção e preservação. E a despeito de provavelmente estar sofrendo de estresse (ele não consegue mover uma parte do rosto) o que vemos não é uma viagem introspectiva na vida desse fotógrafo, mas o que ele consegue extrair de sua profissão -- as fotos -- e o que precisa fazer para isso, onde precisa estar.
 
@@ -68911,7 +68911,7 @@ De qualquer forma, "Deus é Mulher..." demonstra que é possível pegar temas ba
 # O Paraíso Deve Ser Aqui
 2019-10-23 cinemaqui mostrasp cinema movies
 
-O diretor palestino Elia Suleiman encontrou uma maneira divertida de mostrar ao mundo as diferenças da visão de um cineasta do resto de nós, mortais. Em O Paraíso Deve Ser Aqui ele próprio é o protagonista, vestido como costuma se vestir, e observa da varanda de sua casa as situações do dia-a-dia, mas que através de suas lentes saem muito mais atípicas do que estamos acostumados a interpretar.
+O diretor palestino Elia Suleiman encontrou uma maneira divertida de mostrar ao mundo as diferenças da visão de um cineasta do resto de nós, mortais. Em O Paraíso Deve Ser Aqui ele próprio é o protagonista, vestido como costuma se vestir, e observa da varanda de sua casa as situações do dia a dia, mas que através de suas lentes saem muito mais atípicas do que estamos acostumados a interpretar.
 
 A brincadeira segue uma dinâmica simples: vemos Elia obervando algo à sua frente enquanto está sentado na calçada de uma cafeteria, ou em sua casa, ou no portão de sua casa ou, na segunda metade do longa, viajando por Paris e Nova York. Enquanto vemos o observador, nossa mente já se prepara não para o que ele está vendo, mas a forma que ele está vendo.
 
@@ -69299,7 +69299,7 @@ As tradições e os conflitos religiosos da Zona da Mata em Pernambuco são o pa
 
 Melo, que já foi diretor assistente de Divino Amor, uma distopia social que envolve fanatismo religioso, vai buscar no realismo dos seus personagens a evocação do espírito de Nazaré da Mata, cidade de médio porte onde a maior parte da ação ocorre. Próximo do litoral nordestino, é lá que se juntam os poetas de repente, com seus cantos improvisados, e o Maracatu, um sincretismo religioso afro-brasileiro que envolve dança, música e religião. É lá também que observamos a invasão e opressão religiosa tomando conta na figura de um pastor evangélico que era um antigo mestre do Maracatu, além da revolta dos cristãos com as ações espirituais do pai-de-santo da região das plantações de cana.
 
-Há uma mescla entre um elenco profissional e personagens reais da vida urbana que sugere um tom documental no início do longa que nos envolve na cidade e seus costumes. Apenas um olhar muito clínico ou a lembrança de trabalhos anteriores de Valmir do Côco ("Bacurau") e Joana Gatis (Aquarius) que permite reconhecermos a ficção em meio à ação de transeuntes reais do dia-a-dia. Tiago Melo usa figurantes locais para dizer as falas, mas com isso o efeito, em vez de soar amador por não serem atores, soa mais intenso, comprovando um preparo de elenco impecável. Os repentistas do filme são um prazer à parte da história principal, mas Melo, junto do roteirista Jeronimo Lemos, faz questão de inseri-los no meio da narrativa como se fizessem parte dela, e os poemas que improvisam nos introduz à história principal, que gira em torno de um pai-de-santo evocando cinco figuras mitológicas chamadas de caboclos de lança.
+Há uma mescla entre um elenco profissional e personagens reais da vida urbana que sugere um tom documental no início do longa que nos envolve na cidade e seus costumes. Apenas um olhar muito clínico ou a lembrança de trabalhos anteriores de Valmir do Côco ("Bacurau") e Joana Gatis (Aquarius) que permite reconhecermos a ficção em meio à ação de transeuntes reais do dia a dia. Tiago Melo usa figurantes locais para dizer as falas, mas com isso o efeito, em vez de soar amador por não serem atores, soa mais intenso, comprovando um preparo de elenco impecável. Os repentistas do filme são um prazer à parte da história principal, mas Melo, junto do roteirista Jeronimo Lemos, faz questão de inseri-los no meio da narrativa como se fizessem parte dela, e os poemas que improvisam nos introduz à história principal, que gira em torno de um pai-de-santo evocando cinco figuras mitológicas chamadas de caboclos de lança.
 
 Essas figuras fantásticas também não surgem destacadas da realidade, pois suas vestimentas são costuradas pelos habitantes da região, além de alguns apetrechos serem contemporâneos, como óculos protetores. Além disso, eles surgem através da rede elétrica que passa pela plantação de cana, em uma harmonização entre o real e o fantasioso que gera ainda mais tensão que a edição frenética entre esses momentos em uma trilha sonora mística e evocativa.
 
@@ -69324,7 +69324,7 @@ A loucura dos homens coincide com a loucura além-vida. No filme não há como s
 
 A trilha sonora de Ray Harman nos introduz a cada novo momento da história reforçando o quão tudo aquilo é estranho. São notas dissonantes, feitas com instrumentos não feitos para serem tocados juntos. Não há rima, não há descanso nem harmonia. A música nos lembra para não relaxarmos, caso o dueto incansável de desentendimentos entre Sophia e Joseph não tenha sido muito enfático.
 
-Este é um filme de terror sem sustos fáceis que se faz aumentando o som de repente. É antes uma viagem metafísica pelos nossos pesadelos de mesmo depois de mortos não haver descanso. Os efeitos e maquiagens são eficientes por nos lembrar que muito provavelmente o além-vida irá ficar devendo monstros horrendos demais, já que seres humanos em decadência, físico ou comportamental, já são esses monstros no dia-a-dia.
+Este é um filme de terror sem sustos fáceis que se faz aumentando o som de repente. É antes uma viagem metafísica pelos nossos pesadelos de mesmo depois de mortos não haver descanso. Os efeitos e maquiagens são eficientes por nos lembrar que muito provavelmente o além-vida irá ficar devendo monstros horrendos demais, já que seres humanos em decadência, físico ou comportamental, já são esses monstros no dia a dia.
 
 Por fim, A Dark Song pode ser acusado de desonesto em querer usar uma última reviravolta de uma jornada emocional insatisfatória. Isso acontece porque Sophia não é uma personagem complexa o suficiente para entendermos seus desejos. Ela se mantém apenas como um símbolo humano genérico e portanto incompleta para saciar nossos desejos de que pelo menos no fim um ser humano consiga a paz que tanto buscamos em vida. É frustrante, mas qual filme de terror bem sucedido não é?
 
@@ -70233,7 +70233,7 @@ Enfim, alegorias muito simplistas tendem a entregar resultados superficiais. Aqu
 # Harry Potter e o Cálice de Fogo
 2019-12-27 cinema movies
 
-Quarta aventura da série de filmes adaptados dos livros da escritora infanto-juvenil J. K. Rowling, este é o último ainda adolescente e que não envolve tragédias muito acenturadas no dia-a-dia dos estudantes bruxos da escola de Hogwarts. Ele termina com essa transição para o mundo adulto, onde a morte pode e deve acontecer de forma mais frequente para os protagonistas da história. É um arco, mas como filme serve para múltiplos propósitos dentro de uma série, como evoluir as relações do núcleo Harry, Hermione e Ron, além de revelar novas facetas do mundo dos bruxos, como sua existência em outros países, além do perigo sempre iminente que o Ministério da Magia no Reino Unido sofra ataques indiretos pelos capangas do mal maior no universo, representado por Lorde Voldemort.
+Quarta aventura da série de filmes adaptados dos livros da escritora infanto-juvenil J. K. Rowling, este é o último ainda adolescente e que não envolve tragédias muito acenturadas no dia a dia dos estudantes bruxos da escola de Hogwarts. Ele termina com essa transição para o mundo adulto, onde a morte pode e deve acontecer de forma mais frequente para os protagonistas da história. É um arco, mas como filme serve para múltiplos propósitos dentro de uma série, como evoluir as relações do núcleo Harry, Hermione e Ron, além de revelar novas facetas do mundo dos bruxos, como sua existência em outros países, além do perigo sempre iminente que o Ministério da Magia no Reino Unido sofra ataques indiretos pelos capangas do mal maior no universo, representado por Lorde Voldemort.
 
 Ainda não está claro qual é a grande maldade de Voldemort, embora ele flerte pesadamente com a figura de Darth Vader, já que a existência entre bem e mal absolutos é marca de sagas fantasiosas como ambas. Além disso, as sugestões elitistas dos bruxos mals, que estão sempre atacando os bruxos mestiços, também sugere essa analogia que a escritora J. K. Howling aplica em seu mundo.
 
@@ -70403,7 +70403,7 @@ Antologia da Cidade Fantasma é um terror psicológico que flerta com questões 
 
 A fotografia escura, quase a apagar as casas e as pessoas que vivem em torno de toda aquela neve, as ventanias que correm pela estrada e pela planície deserta, os ambientes fechados com pouca luz. Tudo isso colabora para esse clima claustrofóbico que começa quando vemos toda a cidade reunida em uma casa para velar pela morte de um de seus habitantes mais jovens, Simon. Todos concordam que ele cometeu suicídio ao jogar seu carro em um muro. Concordam porque todos já pensaram em fazer o mesmo alguma vez em suas vidas.
 
-Este é um filme que cria um ambiente depressivo coletivo e o sustenta como tema principal. Há uma prefeita que adota seus cidadãos como uma mãe possessiva e ciumenta que evita ajuda externa. O isolamento no inverno vai se tornando menos geográfico e mais psicológico, e aos poucos alguns de seus habitantes vão sendo apresentados através da dinâmica do dia-a-dia.
+Este é um filme que cria um ambiente depressivo coletivo e o sustenta como tema principal. Há uma prefeita que adota seus cidadãos como uma mãe possessiva e ciumenta que evita ajuda externa. O isolamento no inverno vai se tornando menos geográfico e mais psicológico, e aos poucos alguns de seus habitantes vão sendo apresentados através da dinâmica do dia a dia.
 
 Mas sem se aprofundar em nenhum deles, a história se move apenas em função de sua reviravolta sobrenatural, que pode até ser criativa, mas não consegue causar um impacto por muito tempo, já que é uma arma que só possui uma bala. Quando atirada, refletimos por alguns momentos, e logo nos acostumamos com a visão de uma nova cidade onde o incrível é visto com desdém.
 
@@ -70571,7 +70571,7 @@ A maior virtude deste documentário e dos tempos atuais é a captura de imagens 
 
 A Chance de Fahim chega como um drama preguiçoso em que a notícia de jornal acaba sendo mais empolgante do que um filme inteiro. Fahim Mohammad, um garoto de Bangladesh, chega com sua família em Paris foragido de sua terra natal e suas habilidades em jogar xadrez o ajudam a se estabelecer no novo país. A versão cinematográfica diminui seus personagens para que eles se encaixem no único interesse do diretor e roteirista Pierre-François Martin-Laval: uma mensagem social sobre refugiados.
 
-Eu jogava xadrez frequentemente na minha adolescência, voltei a jogar quase todos os dias há mais de um ano e recomendo que você comece hoje. É fácil depois que se aprendem as regras básicas. E, dado o devido tempo, as táticas e estratégias viram apenas o pano de fundo de uma auto-análise profunda sobre a vida e como encaramos nosso dia-a-dia. Nem todos podem lutar boxe e aprender alguma coisa com isso, mas todos, independente do seu nível de inteligência, podem encontrar no xadrez um espelho de sua alma.
+Eu jogava xadrez frequentemente na minha adolescência, voltei a jogar quase todos os dias há mais de um ano e recomendo que você comece hoje. É fácil depois que se aprendem as regras básicas. E, dado o devido tempo, as táticas e estratégias viram apenas o pano de fundo de uma auto-análise profunda sobre a vida e como encaramos nosso dia a dia. Nem todos podem lutar boxe e aprender alguma coisa com isso, mas todos, independente do seu nível de inteligência, podem encontrar no xadrez um espelho de sua alma.
 
 Filmes sobre este esporte (está nas Olimpíadas, inclusive) costumam ser fascinantes porque o que está em jogo não são peças em um tabuleiro, mas personalidades e vidas. Entre os exemplos mais vitais estão dois filmes dos anos 90, Lances Inocentes (Steven Zaillian) e Fresh (Boaz Yakin). Enquanto o primeiro nos apresenta essa metamorfose na personalidade necessária para dominar o nosso eu psicológico, o segundo vai pras ruas e demonstra o que acabei de afirmar sobre a universalidade do xadrez, mesmo que você seja um garoto vivendo sob a asa de gangues em Nova York.
 
@@ -70659,7 +70659,7 @@ A imagem de uma floresta seca e mística é poderosa, nos abraça desde o começ
 # As Coisas Simples da Vida
 2020-02-08 cinema movies
 
-O cineasta Edward Yang é grande conhecedor da natureza humana e realiza durante as três horas de As Coisas Simples da Vida uma incursão por muitos assuntos que giram em torno dos detalhes mundanos de nossa própria vida, seja nosso passado ou presente. Ele orbita uma família, iniciando por um casamento (e um nascimento pela gestação; a noiva está grávida), e termina em um funeral. Os relacionamentos neste filme são ligeiramente exagerados entre os jovens e docemente amadurecido entre os mais velhos. Como deve ser. Nada sobra nem falta neste universo que Yang usa a ótica do espectador que olha de longe, através das vitrines e janelas, como é o dia-a-dia de pessoas comuns. E dessa forma nos faz lembrar e relembrar como é a nossa própria vida.
+O cineasta Edward Yang é grande conhecedor da natureza humana e realiza durante as três horas de As Coisas Simples da Vida uma incursão por muitos assuntos que giram em torno dos detalhes mundanos de nossa própria vida, seja nosso passado ou presente. Ele orbita uma família, iniciando por um casamento (e um nascimento pela gestação; a noiva está grávida), e termina em um funeral. Os relacionamentos neste filme são ligeiramente exagerados entre os jovens e docemente amadurecido entre os mais velhos. Como deve ser. Nada sobra nem falta neste universo que Yang usa a ótica do espectador que olha de longe, através das vitrines e janelas, como é o dia a dia de pessoas comuns. E dessa forma nos faz lembrar e relembrar como é a nossa própria vida.
 
 # O Oficial e O Espião
 2020-02-12 cinemaqui cinema movies
@@ -70690,7 +70690,7 @@ Este é um daqueles filmes do diretor que é uma coletânea de outros filmes? N�
 
 As Invisíveis é uma dramédia alto astral com momentos comerciais que fez com que ele contratasse um batalhão de atrizes em moldes semelhantes à série Orange is The New Black, onde cada personagem tem suas idiossincrasias, enriquecendo e humanizando a história. Dirigido por Louis-Julien Petit, que já trabalhou na segunda e terceira unidades de vários filmes de Hollywood, este é um filme que mescla bem seu drama de "filme de arte" com seu lado mais blockbuster. E é isso o que fez com ele fosse um sucesso de público na França, não o fato de ser protagonizado por mulheres.
 
-Cada uma de suas personagens tem algo a acrescentar nesta coleção de pequenos dramas, e você com certeza conhece ou já ouviu falar de uma pessoa com pelo menos alguns dos problemas das mulheres retratadas neste filme, e isso tem muito a dizer sobre humanização. Apesar deste ser um filme sobre sem-tetos, a empatia surge ao percebermos que seus problemas não estão tão distantes do nosso próprio dia-a-dia. É revigorante olhar para essas mulheres e ver que elas lidam melhor com as dificuldades do que nós dentro de nossas casas. Todos somos seres humanos, mas os humanos deste filme são mais fortes e resilientes.
+Cada uma de suas personagens tem algo a acrescentar nesta coleção de pequenos dramas, e você com certeza conhece ou já ouviu falar de uma pessoa com pelo menos alguns dos problemas das mulheres retratadas neste filme, e isso tem muito a dizer sobre humanização. Apesar deste ser um filme sobre sem-tetos, a empatia surge ao percebermos que seus problemas não estão tão distantes do nosso próprio dia a dia. É revigorante olhar para essas mulheres e ver que elas lidam melhor com as dificuldades do que nós dentro de nossas casas. Todos somos seres humanos, mas os humanos deste filme são mais fortes e resilientes.
 
 Não é possível destacar uma ou outra do elenco porque este é filme de protagonismo coletivo. Apesar do roteiro esboçar uma ou outra personagem com algum arco dramático, principalmente na equipe de assistentes sociais que estão prestes a perder seu espaço de convívio, este é um trabalho de expressão coletiva. As histórias se misturam, e muitas vezes é difícil se lembrar quem é quem, enquanto é mais fácil saber quem pode o quê.
 
@@ -70765,7 +70765,7 @@ O motivo pelo qual Linde fugiu da Polônia é inversamente proporcional ao motiv
 
 É importante notar a diferença de perspectiva de todos os personagens deste filme que impacta mesmo sem entendermos muito bem por quê. Estamos falando de uma família com avó, avô, mãe solteira e um casal de filhos, uma quase adolescente e um caçula ainda bambino. E cada uma dessas pessoas, exceto o bambino, que não tem idade para isso, está em uma fase distinta da vida, o que altera radicalmente as percepções da sociedade em que vivem. Enquanto o marido, caseiro, está alheio a tudo que a cidade grande exagera, sua filha, que mora em Roma, é esse exagero dramático do filme. E a poetisa, que pode estar à beira da senilidade, sobretudo mental, aproveita para entrar no modo "me processa", dizendo e fazendo o que quiser em público porque qualquer processo jurídico que incorra contra sua pessoa tende a ter a vida mais longa do que os anos de vida que lhe restam.
 
-E enquanto esses adultos tentam manter uma unidade familiar apesar de tantas diferenças em como enxergam o mundo, a neta descobre através da nonna um cantor chamado Frank Sinatra. E as esporádicas músicas de "Doce Entardecer" são efusivas, ultrapassam a comunicação verbal indo direto para o coração. Que época maravilhosa, tecnológica e permissiva que vivemos. É impressionante como mesmo vivendo pequenos milagres no dia-a-dia muitos ainda se prendem na televisão, na mídia, e se preocupam com questões alheias à sua vida como terrorismo e refugiados.
+E enquanto esses adultos tentam manter uma unidade familiar apesar de tantas diferenças em como enxergam o mundo, a neta descobre através da nonna um cantor chamado Frank Sinatra. E as esporádicas músicas de "Doce Entardecer" são efusivas, ultrapassam a comunicação verbal indo direto para o coração. Que época maravilhosa, tecnológica e permissiva que vivemos. É impressionante como mesmo vivendo pequenos milagres no dia a dia muitos ainda se prendem na televisão, na mídia, e se preocupam com questões alheias à sua vida como terrorismo e refugiados.
 
 Alheias para muitos, a maioria, esses assuntos poderiam ser. Menos para escritores. E Maria Linde sente que precisa se expressar sobre isso. É sua responsabilidade. Porém, ela o faz na mais pura das inocências: considera seus ouvintes e leitores como iguais, capazes até mesmo de interpretar suas palavras sobre terrorismo, logo após um atentado em Roma, de maneira racional. Maria pode não ter medo do que diz, mas o resto do mundo responde de maneira reativa, automática e agressiva. E isso já diz mais sobre o mundo em que vivemos do que qualquer palavra jamais dirá.
 
@@ -71349,7 +71349,7 @@ A França serve como exemplo. É a versão comunista mais bem sucedida do experi
 
 Isao Takahata foi um gênio da sétima arte. Cada novo trabalho que ele empreendia nos Estúdios Ghibli gerava um novo avanço na animação. Se "O Conto da Princesa Kaguya" acabou sendo o mais conhecido pela indicação ao Oscar, "Memórias de Ontem" foi um verdadeiro achado na Netflix, e, como se não bastasse, ele também assina a direção de O Cemitério dos Vagalumes, número 1 de filmes de fazer chorar de várias pessoas, mesmo que conscientemente elas não saibam o poder ilimitado de Takahata e sua equipe, cuja imaginação e criatividade estavam a todo momento criando diferentes formas para representar o drama humano, sempre com muita sensibilidade.
 
-"Meus Vizinhos, Os Yamadas" é uma diversão à parte. Dividida em blocos de pequenas histórias envolvendo uma família típica japonesa, as situações do dia-a-dia são comuns, mas se tornam imperdíveis com esses traços rabiscados emulando um movimento estabanado, um reflexo da vida percebida, e não a objetiva. Uma versão oriental de Snoopy com o charme dos desenhos japoneses.
+"Meus Vizinhos, Os Yamadas" é uma diversão à parte. Dividida em blocos de pequenas histórias envolvendo uma família típica japonesa, as situações do dia a dia são comuns, mas se tornam imperdíveis com esses traços rabiscados emulando um movimento estabanado, um reflexo da vida percebida, e não a objetiva. Uma versão oriental de Snoopy com o charme dos desenhos japoneses.
 
 
 # Central do Brasil
@@ -71692,7 +71692,7 @@ Os remakes que se seguiram, Invasores de Corpos (1978) e "Invasores" (2007), sã
 
 
 # Cast Operator
-2020-04-22 computer ccpp
+2020-04-22 computer ccpp blog
 
 O código abaixo não é C++ moderno. É 98. Porém, ele já demonstra alguns problemas na linguagem que foram aumentados desde então. Não se sabe exatamente qual a tradução semântica de construções tão parecidas quanto o operador-função e o operador-cast. Enquanto o primeiro serve para transformar objetos em funções chamáveis o segundo serve para extrair tipos de maneira educada.
 
@@ -71725,7 +71725,7 @@ O operador de cast só funciona se um cast estiver envolvido. Caso ele seja um m
 int i = t;
 ```
 
-Ele não pode simplesmente ser chamado como um operador-função. Até porque podem haver vários deles. Enquanto o operador de função trabalha com overload nos parâmetros o operador de cast trabalha com o retorno. Uma vez eu fiz uma brincadeira que meu amigo Fernando tinha me pedido: como fazer sobrecarga de função pelo retorno. Acredito que o exemplo desse post antigo possa exemplificar melhor o que quero dizer.
+Ele não pode simplesmente ser chamado como um operador-função. Até porque podem haver vários deles. Enquanto o operador de função trabalha com overload nos parâmetros o operador de cast trabalha com o retorno. Uma vez eu fiz uma brincadeira que meu amigo Fernando tinha me pedido: como fazer sobrecarga de função pelo retorno ("Sobrecarga de função às avessas"). Acredito que o exemplo desse post antigo possa exemplificar melhor o que quero dizer.
 
 Já a diferença sintática e semântica dos operadores de função e cast é sutil, quase inexistente. Como muitas coisas em C++ moderno:
 
@@ -71923,15 +71923,15 @@ Alfredo é interpretado pelo ator francês Philippe Noiret como o urso bondoso e
 É impossível falar de Paradiso sem citar a trilha sonora icônica e inesquecível de um dos maiores gênios musicais cinematográficos. Ennio Morricone costuma ser sutil quando precisa, mas este filme exige ser ouvido durante todo o tempo. Então ele cria um tema musical que pode ser tocado todo o tempo sem enjoar. Dias depois de assistir ao filme, meses, talvez anos, a música não será apenas inesquecível: ela se torna a trilha sonora de nossas próprias vidas como cinéfilos. Ela é empolgante, melancólica, alegre, emocionante. É uma música que sofre metamorfose pelas décadas da história do filme, e em nós mesmos sofrerá essa mesma mudança conforme a ouvirmos em épocas diferentes de nossa vida. O mesmo efeito percebemos no filme que a música embala.
 
 # O Bug Mais Bizarro que já Resolvi
-2020-05-10 computer debugging flow assembly reversing_tag crypto
+2020-05-10 computer debugging flow assembly reversing_tag crypto blog
 
 Máquina IBM velha e empoeirada. Criptografia blowfish. Assembly 16 bits. Programa residente. E nenhum depurador funcionando. Tudo o que eu tinha se resumia em dois itens de inventário: o conhecimento, adquirido aos poucos do sistema, e minha imaginação. Era uma amena semana de abril em 2008 isolado em uma sala. Tudo que havia em volta eram papéis com anotações feitas. Observava uma nova pista todo dia, embora sem ter muita certeza. Àquela altura qualquer coisa serviria.
 
 Do outro lado da sala, uma estagiária recém-chegada na empresa observava de longe, talvez com uma certa curiosidade, ou medo, daquele rapaz ligar e desligar um desktop empoeirado enquanto a cada aperto do botão de ligar ele olhava fixamente para a tela por uma ou às vezes duas horas seguidas. Ficava a manhã inteira observando um único boot em câmera lenta. A câmera mais lenta possível, dessas que capturam o bater de asas de um beija-flor. Cada movimentação de um registrador demorava vários minutos de reflexão.
 
-Toda essa odisseia começou com o cara do suporte, um sujeito bonachão que atraía os bugs mais bizarros para nossos sistemas só de olhar para eles. Não eram os piores bugs, mas com certeza os mais bizarros. E quando digo bizarro estou falando de bugs que não dá para imaginar acontecendo na vida real. Quando esse sujeito aparecia junto surgiam bugs na própria "Matrix"; um gato preto passa duas vezes seguidas pela porta, mas não caminhando: flutuando próximo do teto.
+Toda essa odisseia começou com o cara do suporte, nosso famigerado amigo Zé. O Zé era um sujeito bonachão que atraía os bugs mais bizarros para nossos sistemas só de olhar para eles. Não eram os piores bugs, mas com certeza os mais bizarros. E quando digo bizarro estou falando de bugs que não dá para imaginar acontecendo na vida real. Quando ele aparecia junto surgiam bugs na própria "Matrix"; um gato preto passa duas vezes seguidas pela porta, mas não caminhando: flutuando próximo do teto.
 
-O sujeito chegou na sala de desenvolvimento falando dessa máquina que tinha acabado de chegar do cliente. Haviam instalado a criptografia de disco. Os dados não estavam perdidos, pois o Windows ainda mostrava o seu logo esvoaçante segundos depois de ligarmos o velho desktop de guerra, que já havia vivido pelo menos duas décadas a vida de escritório e não seria agora que deixaria seus dados sumirem sem mais nem menos. Nada disso. O problema era que se você desligasse e ligasse de novo, nada mais aparecia. Tela preta. Sem logo esvoaçante ou cursor piscando. O disco rígido não se mexia. Era um mistério completo.
+Zelão chegou na sala de desenvolvimento falando dessa máquina que tinha acabado de chegar do cliente. Haviam instalado a criptografia de disco. Os dados não estavam perdidos, pois o Windows ainda mostrava o seu logo esvoaçante segundos depois de ligarmos o velho desktop de guerra, que já havia vivido pelo menos duas décadas a vida de escritório e não seria agora que deixaria seus dados sumirem sem mais nem menos. Nada disso. O problema era que se você desligasse e ligasse de novo, nada mais aparecia. Tela preta. Sem logo esvoaçante ou cursor piscando. O disco rígido não se mexia. Era um mistério completo.
 
 Mas o bizarro mesmo não era isso, mas o que vinha depois. Você desligava a pobre máquina, novamente. Apertava o botão de ligar. E como uma mulher nos seus trinta ainda não vividos, ela subia com tudo no lugar: logo do Windows, barulhinho irritante da sua tela de boas vindas e as agulhas do disco magnético piscando freneticamente. Tudo certo mais uma vez na terra do Tio Bill. Era possível logar na máquina e usá-la o resto do dia com todos os dados criptografados íntegros.
 
@@ -71943,7 +71943,7 @@ Nesse ambiente pesadão e promíscuo, onde as memórias se encostam e trocam de 
 
 No caso de um programa de criptografia de disco a interrupção mais importantes é... acertou: a de disco. Uma interrupção de disco é responsável por ler e escrever dados de e para o disco. No primeiro momento do boot é vital para o sistema operacional que ele consiga ler setores do disco onde ele próprio está armazenado. Ele deve conseguir ler seus dados do disco, mesmo criptografados, e esses dados precisam ser descriptografados antes que exista um driver de criptografia instalado no Sistema Operacional no ar. É o dilema do ovo e da galinha. É aí que entra o que chamamos de programa residente, o que contém a função de criptografia e cujo endereço é colocado no lugar da interrupção da BIOS para comandos de disco.
 
-É claro que contando isso para vocês a posteriori parece mais fácil, mas meu primeiro instinto foi espetar o WinDbg, o depurador de sistema do Windows, nessa máquina. Porém, rapidamente descobri que não existia sistema operacional para ser depurado. O Windows nem conseguiu subir ainda, quanto mais deixar as pessoas depurarem ele. Então a solução foi apelar para o SoftIce 16 bits, um depurador em modo real, que funciona até que bem sozinho. Porém, o próprio depurador já é um programa residente, e não funciona tão bem quando existem outros programas residentes querendo espaço no disco. Como o programa de criptografia instalava um hook na int13 (essa é a interrupção de disco), as sessões de depuração nessa fase ficavam estranhas rapidamente. O depurador de modo real travava nas primeiras passadas de código. Não havia memória o suficiente ou as chamadas das ints entravam em conflito. De qualquer forma, quando memória entra em conflito no modo real, o barato fica loko, e o jeito é começar tudo de novo em um novo boot (par ou ímpar, mas sempre o segundo).
+É claro que contando isso para vocês a posteriori parece mais fácil, mas meu primeiro instinto foi espetar o WinDbg, o depurador de sistema do Windows, nessa máquina. Porém, rapidamente descobri que não existia sistema operacional para ser depurado. O Windows nem conseguiu subir ainda, quanto mais deixar as pessoas depurarem ele. Então a solução foi apelar para o SoftIce 16 bits, um depurador em modo real, que funciona até que bem sozinho. Porém, o próprio depurador já é um programa residente, e não funciona tão bem quando existem outros programas residentes querendo espaço no disco. Como o programa de criptografia instalava um hook na int13 (essa é a interrupção de disco), as sessões de depuração nessa fase ficavam estranhas rapidamente. O depurador de modo real travava nas primeiras passadas de código. Não havia memória o suficiente ou as chamadas das ints entravam em conflito. De qualquer forma, quando memória entra em conflito no modo real, o barato fica louco e o jeito é começar tudo de novo em um novo boot (par ou ímpar, mas sempre o segundo).
 
 Então o jeito foi usar o debug.com. Este era um programa que vinha no pacote MS-DOS e em alguns Windows mais velhos que consistia em um depurador de modo real. Era possível carregar um segmento de um arquivo ou da memória real para este depurador e ele seguia passo a passo para você a execução do programa. Em assembly de modo real, claro. Esse foi o jeito que eu consegui ir entendendo o fluxo de execução, pois eram muitos valores e variáveis. Eventualmente até o debug.com também travava, mas isso não importava tanto, pois era possível ir mapeando seu funcionamento aos poucos, anotando as descobertas uma a uma em um pedaço de papel. Uma técnica que pode ser interessante se você se encontrar em tal situação é escrever as ints 3 (interrupção de breakpoint) diretamente na memória do programa e deixar ela ser ativada para depois que capotar sobrescrever com o código antigo. Eventualmente isso também travava. Daí nesse momento o jeito era fingir que estava tudo bem e continuar a execução de um outro ponto, anotando em um pedaço de papel o estado dos registradores e da memória até o momento, para depois ir ligando os pontos.
 
@@ -72111,7 +72111,7 @@ Talvez até de outras galáxias.
 # Transmission
 2020-06-01 computer
 
-Dia de fazer funcionar o download automágico de legendas depois que o Transmission baixou meu Netflix caseiro. O download funcionou, mas não foi dos melhores, pois o sincronismo e o encoding veio errado, e o rename de _pb para o nome do arquivo não está acontecendo rodando pelo transmission-daemon. Fora isso tá com tudo em cima.
+Dia de fazer funcionar o download automágico de legendas depois que o Transmission baixou meu Netflix caseiro. O download funcionou, mas não foi dos melhores, pois o sincronismo e o encoding vieram errados, e o rename de _pb para o nome do arquivo não está acontecendo rodando pelo transmission-daemon. Fora isso tá com tudo em cima.
 
 No final do dia a correção era mais simples que imaginava: eu só precisava desabilitar duas flags: o uso de sufixo no nome do arquivo salvo e a flag que força todo arquivo a ser salvo como utf8 (os arquivos em português do Brasil são salvos no encoding do Windows, o ISO-8859-1 ou Windows 1252 para os mais íntimos).
 
@@ -72127,7 +72127,7 @@ Para se autenticar no repositório remoto é claro que a ferramenta irá se inte
 A causa desse bug é simples: não existe ambiente para as chaves SSH estarem configuradas antes de existir um agente (uma máquina) onde o build irá acontecer. A correção, felizmente, também é simples, apesar de inapropriada: primeiro deve-se baixar o repo sem submodules, instalar a chave SSH, e apenas agora iniciar e atualizar os submodules.
 
 # Awk
-2020-06-07 computer
+2020-06-07 computer blog
 
 ## Introduction
 
@@ -72241,7 +72241,7 @@ END { print " - DONE -" }
 
 
 # Batalha
-2020-06-07 wine
+2020-06-07 wine blog
 
 Em 1836 ocorre a Batalha do Seival, onde hoje fica o município de Candiota, RS. Esse conflito militar ocorreu quando os revolucionários da Revolução Farroupilha venceram o exército do Império Brasileiro e ensejaram a sonhada República Riograndense. Bons tempos. Em um dos melhores momentos da Guerra dos Farrapos.
 
@@ -72250,7 +72250,7 @@ Este vinho produzido na região é um reserva de 2014 que passou por maturação
 Esta garrafa foi um presente de amigos queridos, e me senti particularmente ao lado deles quando provei a primeira taça. Me fez abrir um pouco os olhos para as surpresas enófilas que podem estar escondidas no Sul do Brasil.
 
 # Leak de Memória
-2020-06-07 computer essays
+2020-06-07 computer essays blog
 
 Esse fim de semana vi um programa, sem leak de memória, que só de ficar alocando e desalocando apresentava um consumo crescente no Process Explorer. Imaginando que poderia ser alguma lib externa, como o redis, fui eliminando uma por uma as variáveis do sistema, até chegar em um loop em que a única coisa feita no corpo do código era alocar e desalocar memória. E ela apenas subia.
 
@@ -72299,16 +72299,16 @@ Entre os destaques no elenco o melhor deles sem dúvida é Babu Santana, que faz
 - 2020-05-13 A torra foi feita na quinta, quarto dia de junho, e eu recebi na noite de segunda e foi o café da manhã da terça. Moído na hora para coado, vinte e poucos gramas, e passado na Aeopress com cerca de um minuto de infusão, seguindo da já tradicional virada antes de abaixar o êmbolo, este café ultra-fresco trouxe para mim, diferente de sua ficha, notas cítricas, lembrando limão. O sabor com certeza é tânico, algo que adoro e que me traz um vício desgraçado. O amargor desta torra média é equilibrado e seu corpo é quase médio.
 
 # Historical Price
-2020-06-13 computer
+2020-06-13 computer blog
 
-Havia um job esta semana de um assunto que me encanta desde a época de investidor: base histórica de cotações. Estamos falando de ações da Bovespa. Na época que era investidor frequente mantinha uma base que era atualizada por um programinha em Java (esqueci o nome), mas nunca tive certeza se os ajustes feitos pelo programa eram os corretos. Surgiu agora a possibilidade de eu realizar código que converte uma base histórica recebida com um minuto por linha em campos divididos por ponto-e-vírgula (o CSV do Windows) para candles de várias periodicidades. E isso justo agora que ando estudando awk. Então não deu outra: usei esta linguagem clássica como ferramenta para esta conversão.
+Havia um job esta semana de um assunto que me encanta desde a época de investidor: base histórica de cotações. Estamos falando de ações da Bovespa. Na época que era investidor frequente mantinha uma base que era atualizada por um programinha em Java chamado Graphix ou algo assim, mas nunca tive certeza se os ajustes feitos pelo programa eram os corretos. Surgiu agora a possibilidade de eu realizar código que converte uma base histórica recebida com um minuto por linha em campos divididos por ponto-e-vírgula (o CSV do Windows) para candles de várias periodicidades. E isso justo agora que ando estudando awk. Então não deu outra: usei esta linguagem clássica como ferramenta para esta conversão.
 
 O código ficou, em minha humilde opinião, elegante e pequeno, pois se aproveita da composição das periodicidades. Ou seja, o período de cinco minutos é a consolidação de cinco linhas de um minuto, mas a de quinze minutos não são quinze linhas de um minuto, mas três de cinco minutos, que já estão sendo calculados a cada cinco linha. E assim por diante. Usando os arrays associativos do awk é possível manter o estado de cada candle até o momento de gerar a saída desejada, que no exemplo que codifiquei ficou como um comando SQL de insert em um banco fictício que grava cada tipo de candle em uma tabela.
 
 O uso de um array por candle simplificou o código, pois ao criar uma função que manipula o candle que está finalizando e o próximo eu posso simplesmente passá-los como argumentos. Dessa forma eu só preciso compor os filtros de linhas de acordo com o resto da divisão do seu número. No exemplo inicial, o candle de cinco minutos está finalizando quando RN é igual a cinco ou múltiplos de cinco, enquanto um novo candle se inicia em múltiplos de seis.
 
 # Printf
-2020-06-18 computer ccpp
+2020-06-18 computer ccpp blog
 
 Entre os segredos escondidos das funções básicas da lib padrão da linguagem C o printf e o scanf lideram o ranking. O printf possui a capacidade de alinhamento de colunas das string impressas com tamanho variável. Sabia disso? Pois é, isso não se ensina nas escolas.
 
@@ -72459,7 +72459,7 @@ Usando a biblioteca python-chess fiz um pequeno script que recebe o endereço de
 O próximo passo, antes de ler às cegas, é transformar a leitura do tabuleiro bidimensional para a leitura do formato FEN, que é o formato usado para gravar posições de um tabuleiro.
 
 # Find Path ou Por Que O Vcpkg Não Colocou o Path da Minha Biblioteca?
-2020-07-01 computer
+2020-07-01 computer blog
 
 Algumas bibliotecas portadas para o vcpkg, gerenciador de pacotes direto do fonte da Microsoft, não vêm exatamente como esperamos que elas venham em ambientes mais estáveis como UNIX-like. A GLib, por exemplo, uma biblioteca fenomenal se você deseja trabalhar com um framework puramente em C, está disponível pelo vcpkg através do pacote glib, mas vem encapsulado no namespace unofficial::glib::glib. Isso ocorre porque este não é um port oficial.
 
@@ -72723,7 +72723,7 @@ Quanto aos vilões, esse monte de gente fazendo fila para ser o próximo chefão
 
 
 # GetArgs v. Array
-2020-08-04 computer ccpp
+2020-08-04 computer ccpp blog
 
 Algumas pessoas ficam chateadas quando não se programa usando Boost para tudo. E por isso eu continuo escrevendo código simples e funcional para meu blogue. Esse código vai continuar funcionando por mais cem anos e o código da Boost vai explodir antes que seus filhos nasçam.
 
@@ -72804,7 +72804,7 @@ Tanto o Bourbon quanto o Gourmet ficaram mais próximo daquele suco de café que
 
 Agora que mexo com .net no trabalho surgem problemas de "marinheiro de primeira viagem" (na verdade já mexi com o framework, mas há muitos anos). O que me fez gastar mais horas à toa sem dúvida é o versionamento dos pacotes nuget que viram dependências simples de colocar e difíceis de mexer.
 
-Nesse problema em específico de tratava da lib Castle.Core na versão 4.4.0. Durante a compilação tudo estava lindo e maravilhoso. Porém, na hora de rodar, a exceção de I/O dizendo que não conseguiu carregar o assembly na versão certa pula na minha frente.
+Nesse problema em específico se tratava da lib Castle.Core na versão 4.4.0. Durante a compilação tudo estava lindo e maravilhoso. Porém, na hora de rodar, a exceção de I/O dizendo que não conseguiu carregar o assembly na versão certa pula na minha frente.
 
 Pesquisa de lá, pesquisa de cá, fuça de cá, fuça de lá, encontrei acho que pela segunda vez a solução. Se trata mesmo da versão errada sendo utilizada, mas não na compilação, mas na execução. É preciso definir a versão correta no arquivo de configuração.
 
@@ -73058,7 +73058,7 @@ O resultado é uma divertida comédia adolescente, despretensiosa e esquecível.
 
 Vivemos em tempos cínicos e desprovido de leveza. São tempos em que quando alguém encontra doces palavras de amor em letra de mão endereçadas a você o primeiro pensamento é que só pode ser obra de um velho tarado.
 
-Essa comédia romântica se disfarça de drama. É o começo do fim da excelência francesa em fazer rir das situações do dia-a-dia. Audrey Tautou é a queridinha da França para o Mundo e tenta não repetir papéis e sai um pouco dos eixos. Aqui vive essa empresária e filha maquiavélica, que tenta consertar sua relação com a depressiva mãe, destruindo corações no processo; incluindo o seu próprio. E tudo isso é para nos fazer rir.
+Essa comédia romântica se disfarça de drama. É o começo do fim da excelência francesa em fazer rir das situações do dia a dia. Audrey Tautou é a queridinha da França para o Mundo e tenta não repetir papéis e sai um pouco dos eixos. Aqui vive essa empresária e filha maquiavélica, que tenta consertar sua relação com a depressiva mãe, destruindo corações no processo; incluindo o seu próprio. E tudo isso é para nos fazer rir.
 
 Todas as pessoas nesse filme acabam se tornando versões piores de si mesmas. Uma história cheia de detalhes como essa e com pouco jeito em conciliar as mudanças de humor e tom, Uma Doce Mentira é um vai e vem que perde a importância pela fricção exagerada de seus temas. Sem calibrar a humanidade em seus personagens o filme patina quase caindo em torno da pista formulaica de como deve ser uma comédia romântica francesa. Infelizmente os tempos são outros e se trata de uma produção tão hollywoodiana quanto as piores comroms da década de 90. Não nos apaixonamos em nenhum momento pelo seu discurso, e quando as pessoas ficam encrencadas... bom, cada um com seus problemas.
 
@@ -73475,7 +73475,7 @@ Este filme é em boa parte do tempo a jornada da adolescente revoltadinha, porqu
 
 O filme dá voz a essa revolta adolescente de uma maneira inadvertidamente hilária, como muito se tem feito pelo mundo. Séries onde jovens são escutados quando não têm nada a dizer. É a tentativa infrutífera de ouvir o vento como se ele estivesse de fato dizendo algo.
 
-É uma tentativa nobre, sejamos sinceros, mas infrutífera. Os detalhes de emoções individuais são sutis demais para capturarmos, exceto que este é um filme feito por alguém sensível e tecnicamente competente. Mas há algo aí? A menina "apronta" aos catorze, apaixonadinha e tudo mais, para de repente ser o centro das atenções no filme, por ser ignorada com razão pela família. E o "drama" inicial com o empurrão entre as crianças revela ao mesmo tempo as futilidade dos pequenos problemas que inventamos em nosso dia-a-dia. De qualquer forma ele revela muito mais, como a futilidade em busca do dinheiro da família do garoto, por exemplo, ou onde está o sentido da vida nos casais que não possuem filhos, porque não podem ou porque não devem?
+É uma tentativa nobre, sejamos sinceros, mas infrutífera. Os detalhes de emoções individuais são sutis demais para capturarmos, exceto que este é um filme feito por alguém sensível e tecnicamente competente. Mas há algo aí? A menina "apronta" aos catorze, apaixonadinha e tudo mais, para de repente ser o centro das atenções no filme, por ser ignorada com razão pela família. E o "drama" inicial com o empurrão entre as crianças revela ao mesmo tempo as futilidade dos pequenos problemas que inventamos em nosso dia a dia. De qualquer forma ele revela muito mais, como a futilidade em busca do dinheiro da família do garoto, por exemplo, ou onde está o sentido da vida nos casais que não possuem filhos, porque não podem ou porque não devem?
 
 Mas tudo isso fica para trás. Nos esquecemos do casal principal por um motivo: ou o filme se perdeu ou quis mostrar como esse detalhe do cotidiano é pequeno frente ao da outra mãe de verdade. E a jornada da busca, vamos chamar assim por falta de mais pistas no filme, se transforma em um exercício de estilo. Um filme belíssimo, arrebatador, e incrivelmente vazio. Não nos faz sentir nada exceto o prazer estético, mas sem motivo ele se desmancha à menor distração.
 
@@ -73890,7 +73890,7 @@ O melhor momento do longa é real: se trata da captura de um discurso no início
 # How to Keep a Mummy
 2020-11-22 cinema animes cinema series
 
-Esta série de anime adorável é sobre voltar a enxergar a ternura do dia-a-dia, a fazer do carinho entre mascotes e filhos o tema principal. Não há vilões (pelo menos não até onde acompanhei) nem reviravoltas. Apenas uma pequena múmia adorável e seus amigos. A descoberta sobre o que ela come, como ela trata uma doença e se outros compartilharão do mesmo respeito e admiração dessas criaturinhas sabendo que elas existem.
+Esta série de anime adorável é sobre voltar a enxergar a ternura do dia a dia, a fazer do carinho entre mascotes e filhos o tema principal. Não há vilões (pelo menos não até onde acompanhei) nem reviravoltas. Apenas uma pequena múmia adorável e seus amigos. A descoberta sobre o que ela come, como ela trata uma doença e se outros compartilharão do mesmo respeito e admiração dessas criaturinhas sabendo que elas existem.
 
 # Sherlock: A Scandal in Belgravia
 2020-11-22 cinema series
@@ -74180,7 +74180,7 @@ Decido arriscar pelo moedor de entrada disponível rapidamente em qualquer loja 
 
 O moedor deles é bom, de moinho, e de cerâmica (não enferruja) e emperra um pouco em alguns momentos. Chegando em casa decido testar uma moagem fina, apenas três níveis acima do fechamento completo do moinho. O resultado foi um pó de café incrivelmente consistente, inacreditavelmente melhor, inclusive, do que os resultados que obtinha com o meu antigo elétrico.
 
-Claro que nem tudo são flores. Essa moagem fina demorou alguns minutos de esforço físico para girar a matraca. Nada extenuante, no entanto. É praticamente o tempo que espero a água esquentar antes de passar o café. Fora que não uso moagem tão fina no dia-a-dia.
+Claro que nem tudo são flores. Essa moagem fina demorou alguns minutos de esforço físico para girar a matraca. Nada extenuante, no entanto. É praticamente o tempo que espero a água esquentar antes de passar o café. Fora que não uso moagem tão fina no dia a dia.
 
 Eu achei que ia ser só um quebra galho até encomendar outro elétrico na gringa. Porém, o sabor do café ficou absurdamente melhor! E o pior é que eu não tenho certeza do porquê. Há duas explicações possíveis. A mais esotérica é que moedores elétricos ou com moinho de metal deixam o sabor mais "metálico", o que me pareceu mais um golpe psicológico de marketing digno da Hario, que já vende um coador comum como se fosse mágico. A mais convincente para mim foi de que a qualidade do moinho de cerâmica faz o grão moído muito mais simétrico e consistente, ou pelo menos a moagem gera menos daqueles pozinhos que pegam estática e "sujam o café final". De qualquer forma, assim que é moído o café exala um aroma absurdo de vivo, melhor do que eu tinha com o elétrico, e o sabor é bem mais complexo.
 
@@ -74227,7 +74227,7 @@ Ele descobre que nasceu para fazer dicionários e entra em um novo projeto para 
 E de fato é. O uso das palavras assume dimensões sagradas em uma história apaixonante.
 
 # Lessons From Online Poker Exploit
-2021-02-26 computer
+2021-02-26 computer blog
 
 Em 2014 eu palestrei na trilha de segurança do TDC em São Paulo um tema que me deixou muito animado: um exploit baseado em falhas de programação em um código de 10 linhas. O código era tão simples que achei válido traduzir para C e demonstrar como atacar uma simulação de cassino online.
 
@@ -74370,7 +74370,7 @@ cards stats:
 
 No entanto, o pior bug talvez seja a união entre a terceira e a quarta falhas apontadas pela pesquisadora: "Using a 32-bit Seed" + "Using the System Clock as a Seed". Com esses dois unidos o hackerismo fica à solta, pois além das possibilidades de embaralhamento ficarem restritas em 2^32 o uso do clock limita em 86,400,000 milissegundos por dia da função random do Pascal. Em C poderia ser feito algo semelhante.
 
-Um range muito específico de geração da semente do gerador de números aleatórios pode criar uma tabela maleável de possibilidades. Com isso em mãos, de acordo com Hamilton, uma vez que o atacante saiba pelo menos cinco cartas é possível fazer uma busca rápida em um range pequeno possibilidades. Em um jogo de pôquer isso é possível apenas com duas cartas em sua mão e as três cartas na mesa (flop).
+Um range muito específico de geração da semente do gerador de números aleatórios pode criar uma tabela maleável de possibilidades. Com isso em mãos, de acordo com Hamilton, uma vez que o atacante saiba pelo menos cinco cartas é possível fazer uma busca rápida em um range pequeno de possibilidades. Em um jogo de pôquer isso é possível apenas com duas cartas em sua mão e as três cartas na mesa (flop).
 
 Com base nesse comportamento vamos criar um exploit que recebe as três cartas do flop fornecidas pelo atacante que está no jogo e que inicia uma busca a partir do horário atual para trás. Conforme o programa encontra matches dessas três cartas juntas ele exibe o deck completo de cartas, a partir do qual o atacante pode verificar se suas cartas constam na distribuição.
 
@@ -74570,7 +74570,7 @@ A cada episódio a série amadurece um pouco mais, trazendo à tona os problemas
 # Como fazer café
 2023-06-25 food coffee repost
 
-Ao longo dos anos meu processo de fazer uma xícara de café mudou radicalmente. Já experimentei coado em papel, coado em pano, moka, prensa francesa, Aeropress. Alguns princípios mudaram, outros se mantiveram ou foram descobertos e mantidos no dia-a-dia. Este é um guia básico e genérico, mas não necessariamente prático, para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem. Ou pelo menos tentar. É um insight filosófico e um pouco científico; um apanhado de conhecimento que talvez você não saiba ainda, ou não dessa forma.
+Ao longo dos anos meu processo de fazer uma xícara de café mudou radicalmente. Já experimentei coado em papel, coado em pano, moka, prensa francesa, Aeropress. Alguns princípios mudaram, outros se mantiveram ou foram descobertos e mantidos no dia a dia. Este é um guia básico e genérico, mas não necessariamente prático, para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem. Ou pelo menos tentar. É um insight filosófico e um pouco científico; um apanhado de conhecimento que talvez você não saiba ainda, ou não dessa forma.
 
 Antes de tudo um aviso: é necessário ter vontade de se arriscar. Se você deseja consistência e simplicidade no seu café pode adquirir uma máquina automática de espresso por cápsula por um preço razoável e apertar o mesmo botão todo dia. Com isso o problema da consistência está resolvido, basta achar sua cápsula favorita. Porém, se você aceita riscos para obter novos aromas, sabores e conhecimento sobre a arte de fazer café, vem comigo, pois eu estou aos poucos trilhando o mesmo caminho.
 
@@ -74604,7 +74604,7 @@ Após a moagem, os métodos de extração são diversos e variados, e como você
 
 Independente do processo e medidas utilizadas tenha isso em mente: fazer um líquido chamado café é extrair suas propriedades químicas do fruto para a água. Essa extração pode retirar mais ou menos do café. Há uma ordem cronológica por tempo de infusão do café com a água, na ordem: acidez, corpo, doçura, corpo novamente, amargor. Quanto mais equilibrada a extração mais essas propriedades trabalharão juntas e em harmonia quando você degustar seu café. O que quer dizer que você conseguirá obter mais sensações a cada gole. Mais sensações é uma coisa boa, pois torna a bebida mais complexa. Mais complexidade é bom porque torna a busca por aromas e sabores um processo mais intenso, demandando mais nossa atenção e proporcionando uma experiência mais rica. E isso é bom porque experiências ricas nos tornam mais felizes.
 
-Uma última observação importante, além de uma curiosidade sobre o equilíbrio e harmonia no café a respeito do pó. Existe um efeito colateral em moagens muito finas em que a água fica impedida de prosseguir seu caminho e acaba encontrando no meio do café alguns caminhos que cedem mais facilmente. Isso é ruim porque ela irá passar muito mais por alguns lugares e muito menos por outros. O café estará desbalanceado, pois ficará super-extraído em algumas partes e sub-extraído em outras. Note que isso pode explicar alguns efeitos indesejáveis que você possa observar em seu dia-a-dia, como um amargor muito forte ao passar seu café, e o motivo pelo qual quando você dispõe o café para a passagem da água ele deve estar bem uniforme, além de se atentar de que quanto mais pressão for exercida na extração mais uniforme deverá ser o tamanho das partículas de sua moagem.
+Uma última observação importante, além de uma curiosidade sobre o equilíbrio e harmonia no café a respeito do pó. Existe um efeito colateral em moagens muito finas em que a água fica impedida de prosseguir seu caminho e acaba encontrando no meio do café alguns caminhos que cedem mais facilmente. Isso é ruim porque ela irá passar muito mais por alguns lugares e muito menos por outros. O café estará desbalanceado, pois ficará super-extraído em algumas partes e sub-extraído em outras. Note que isso pode explicar alguns efeitos indesejáveis que você possa observar em seu dia a dia, como um amargor muito forte ao passar seu café, e o motivo pelo qual quando você dispõe o café para a passagem da água ele deve estar bem uniforme, além de se atentar de que quanto mais pressão for exercida na extração mais uniforme deverá ser o tamanho das partículas de sua moagem.
 
 ## Método
 
@@ -74853,7 +74853,7 @@ Interessante notar a coesão dos universos criados pela Trigger. Em Little Witch
 A segunda temporada parece ter começado com gestão Netflix: criaturas mágicas vestindo vermelho e de greve, professora moderna de cabelo curto administrando uma crise de energia, e um roteiro relativamente preguiçoso. Porém, no final há uma reviravolta e pode ser que seja apenas impressão.
 
 # Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)
-2021-05-01 computer debugging videos
+2021-05-01 computer debugging videos blog
 
 Estava pensando em transformar alguns posts antigos que estou revisando em vídeos no YouTube. Acho que o esforço para fazer isso é relativamente baixo se for sem áudio, sem edição e apenas com o que eu naturalmente faria para validar as partes técnicas, e muita gente poderia aprender algumas coisas, como, por exemplo, configurar o debug de kernel.
 
@@ -74861,7 +74861,7 @@ Foi nessas que eu comecei a gravar um vídeo para o post onde eu ensino a depura
 
 No vídeo original comecei na inocência seguindo o tutorial da Microsoft para configurar o kdnet, mas acabei gastando quase uma hora nesse esforço, e foi em vão. Eu não consegui usar os passos descritos no tutorial para fazer o boot finalmente conectar no kd.exe.
 
-Pesquisando sobre pessoas que tiveram o mesmo problema encontro um "post da Ophir Harpaz" no Medium dizendo que irá ensinar o porquê de cada comando na configuração desse tipo de debug. O título do post é apenas um chamariz, pois também é um passo-a-passo sem explicação nenhuma dos motivos por trás de cada comando. Porém, os passos são diferentes do da Microsoft, e esses funcionaram. Então vou gravar o vídeo, e de brinde segue o passo-a-passo:
+Pesquisando sobre pessoas que tiveram o mesmo problema encontro um "post da Ophir Harpaz" no Medium dizendo que irá ensinar o porquê de cada comando na configuração desse tipo de debug. O título do post é apenas um chamariz, pois também é um passo-a-passo sem explicação nenhuma dos motivos por trás de cada comando. Porém, os passos são diferentes do da Microsoft, e esses funcionaram. Então vou gravar o vídeo e de brinde segue o passo-a-passo:
 
 Com uma VM de Windows 10 criada no Hyper-V, desabilite o Secure Boot pelas configurações da VM:
 
@@ -74994,7 +74994,7 @@ A destreza com que Ride or Die (o título original, cafona e divertido do filme)
 Ao introduzir personagens já no terceiro ato, Tudo Por Ela nos confessa não ter tido a frieza de esquematizar melhor essas duas horas e meia de emoções. É a paixão que pega fogo rápido e logo apaga, sem a intensidade com que merece ser tratado o drama da violência e do amor exacerbado. Fica a imagem dos seios ensanguentados de Rei nos primeiros quinze minutos de filme. Essa cena merecia um filme mais digno de ser mostrada.
 
 # Como Ordenar Três Números em Uma Entrevista
-2021-05-13 computer
+2021-05-13 computer blog
 
 O primeiro exercício pedido ao candidato para a vaga de programação na "Intelitrader" é fazer uma função que receba três números e informe entre eles qual o maior, o menor e a média dos três. Sim, eu sei, absurdamente fácil, não? Porém, mesmo assim, a grande maioria dos "programadores" que entrevisto perde mais de meia-hora em um exercício simples desse. O motivo, acredito eu, é que a lógica de programação está cada vez mais em baixa. Pensar se tornou tristemente um requisito opcional em uma vaga de programação.
 
@@ -75377,7 +75377,7 @@ E o vinho é... "Piantaferro Primitivo Di Manduria D.O.C 2017": "Este Primitivo,
 # Truques e Macetes na Hora de Programar
 2021-05-20 computer
 
-Este artigo é para organizar meu raciocínio e pesquisa para uma passagem de conhecimento na empresa. Foi sugerido ensinar um pouco do que é possível fazer para acelerar um pouco o desenvolvimento de um programador no dia-a-dia, não só para codificar, mas para todo o resto que consome bem mais tempo.
+Este artigo é para organizar meu raciocínio e pesquisa para uma passagem de conhecimento na empresa. Foi sugerido ensinar o que é possível fazer para acelerar um pouco o desenvolvimento de um programador no dia a dia, não só para codificar, mas para todo o resto que consome bem mais tempo.
 
 "macete1 /ê/ substantivo masculino 1.  m.q. MACETA ('pequeno instrumento'). 2. tipo de martelo us. para esculpir em madeira ou, em trabalhos de carpintaria e marcenaria, para bater nos cabos dos formões."
 
@@ -75996,7 +75996,7 @@ Seu sotaque e sua dicção são sexy. Esta é uma série em que o diabo de féri
 # Meu Amor: Seis Historias De Amor Verdadeiro
 2021-06-12 cinema series
 
-Um seriado de longas documentais sobre histórias de amor que já passam de décadas. Assisti o do casal do Brasil, Nicinha e Jurema. É sobre a rotina das duas moradoras da Rocinha, favela no Rio de Janeiro. De idade já avançada, elas trabalham o dia-a-dia com planos para o futuro sendo desenhados, os rituais do presente e tenras lembranças do passado. É uma edição relaxante, sem tensão alguma. Quase um vídeo de homenagem ao simples. Há pouco de tratamento na história. Elas são o que você vê na tela, e não tem como desgostar dessas duas. Não tem como desgostar de uma relação que tem dado certo por tanto tempo.
+Um seriado de longas documentais sobre histórias de amor que já passam de décadas. Assisti o do casal do Brasil, Nicinha e Jurema. É sobre a rotina das duas moradoras da Rocinha, favela no Rio de Janeiro. De idade já avançada, elas trabalham o dia a dia com planos para o futuro sendo desenhados, os rituais do presente e tenras lembranças do passado. É uma edição relaxante, sem tensão alguma. Quase um vídeo de homenagem ao simples. Há pouco de tratamento na história. Elas são o que você vê na tela, e não tem como desgostar dessas duas. Não tem como desgostar de uma relação que tem dado certo por tanto tempo.
 
 # My Wife Is the Student Council President!
 2021-06-12 cinema animes
@@ -76528,14 +76528,14 @@ Em seu núcleo abre-se uma janela de observação desses dois meninos presos em 
 
 Los Lobos não tem muitos diálogos e seu ritmo é lento. Ele deve implorar pela paciência do espectador, principalmente por não mostrar nada de novo. O seu fiapo de história será desvendado depois que nos acostumarmos com seus personagens, uma técnica muito útil em séries de TV que pode ser usado em filmes após a primeira hora: faça-nos acostumar com seus simpáticos heróis e depois tanto faz o que eles estiverem fazendo, vamos acompanhar.
 
-Eu gostaria de dizer algo bacana sobre essas crianças, mas só consigo pensar em seus intérpretes. Irmãos na vida real, Maximiliano e Leonardo Nájar Márquez são figuras infantis naturais em qualquer cotidiano. Eles funcionam e o diretor Samuel Kishi precisa apenas ligar a câmera. O mesmo acontece com o casal de senhorios da família, o simpático casal Cici e Johnson T. Lau. Enquanto Cici emerge timidamente um pouco de humanidade prática no dia-a-dia dos meninos o Sr. Lau protagoniza a cena mais profunda do longa, quando ele está desenhando sua árvore genealógica na parede e explica o porquê de um dos galhos estar com a foto arrancada: "não aceitamos cholo na família". Se você não sabe o que quer dizer "cholo" precisa cavar mais fundo na realidade dos mais pobres de espírito ou entender a riqueza das tradições.
+Eu gostaria de dizer algo bacana sobre essas crianças, mas só consigo pensar em seus intérpretes. Irmãos na vida real, Maximiliano e Leonardo Nájar Márquez são figuras infantis naturais em qualquer cotidiano. Eles funcionam e o diretor Samuel Kishi precisa apenas ligar a câmera. O mesmo acontece com o casal de senhorios da família, o simpático casal Cici e Johnson T. Lau. Enquanto Cici emerge timidamente um pouco de humanidade prática no dia a dia dos meninos o Sr. Lau protagoniza a cena mais profunda do longa, quando ele está desenhando sua árvore genealógica na parede e explica o porquê de um dos galhos estar com a foto arrancada: "não aceitamos cholo na família". Se você não sabe o que quer dizer "cholo" precisa cavar mais fundo na realidade dos mais pobres de espírito ou entender a riqueza das tradições.
 
 A interpretação de Martha Reyes Arias como a mãe é a mais sóbria possível. Incomoda seu equilíbrio, mas admiramos sua dignidade. Ela é uma mulher linda escondida nos trapos que trouxe consigo e na simplicidade de suas ações. Sua força em criar seus filhos sozinha está igualmente escondida, e apenas um olhar mais atento ou com mais experiência sentirá sua dor.
 
 # Meu Nome é Badgá
 2021-09-13 cinemaqui cinema movies
 
-Fala a verdade: não tem nada mais lindo que garotas skatistas. Estilosas, esbeltas, no ápice de seus corpos e habilidades, esbanjam personalidade sem precisar sair berrando aos quatro cantos "olhem pra mim!". Afinal de contas, não são garotos carentes por aprovação. Em Meu Nome é Badgá acompanhamos algumas dessas moradoras anônimas das comunidades de São Paulo que andam juntas. Há um esboço de personagens que nunca se concretiza. O objetivo é falar das situações do dia-a-dia dessas jovens, centrado na figura da garota-título, Bagdá.
+Fala a verdade: não tem nada mais lindo que garotas skatistas. Estilosas, esbeltas, no ápice de seus corpos e habilidades, esbanjam personalidade sem precisar sair berrando aos quatro cantos "olhem pra mim!". Afinal de contas, não são garotos carentes por aprovação. Em Meu Nome é Badgá acompanhamos algumas dessas moradoras anônimas das comunidades de São Paulo que andam juntas. Há um esboço de personagens que nunca se concretiza. O objetivo é falar das situações do dia a dia dessas jovens, centrado na figura da garota-título, Bagdá.
 
 Ela se impõe sendo apenas ela mesma. Garante seu lugar ao sol andando de skate e curtindo sua vidinha nas periferias da cidade. É uma diferentona, mas não faz marca com isso. Apenas questiona as revistas femininas em esboçar apenas um ideal do feminino. Tá certo que essa revista deve ser de uns bons anos atrás, pois hoje em dia diversidade é a ditadura da vez. Encontre uma sequência de comerciais com família tradicional e etnia dominante e ganharás um prêmio. Mas isso não diminui o mérito dessa crítica social. Bom, na verdade diminui. Soa datado e infantil.
 
@@ -76980,7 +76980,7 @@ I Comete é uma brisa de ar fresco pós-pandemia que muitos ainda esperam. Poder
 
 Estamos na ilha de Córsega, no Mediterrâneo. Quarta maior ilha da região, ela acabou sendo anexada pela França apesar da maioria da população falar outro idioma (corsa) e ter costumes bem diversos do continente. No entanto, o filme trata mais do que há de comum entre todos seres humanos e as diferenças formam uma camada fina, apenas mais uma situação motivo de conversa.
 
-Há muito bate-papo no filme, quase todo, sobre amenidades, opiniões ou decisões do dia-a-dia. Vários níveis de comunicação humana são vistos, e todas elas bem naturais e que devem ocorrer milhões de vezes todos os dias pelo mundo. O filme é uma gravação documental, sem muito roteiro. Os diálogos são inventados pelos personagens do cotidiano e apenas a linha geral das histórias segue a batuta do seu diretor. E roteirista. E ator. E editor.
+Há muito bate-papo no filme, quase todo, sobre amenidades, opiniões ou decisões do dia a dia Vários níveis de comunicação humana são vistos, e todas elas bem naturais e que devem ocorrer milhões de vezes todos os dias pelo mundo. O filme é uma gravação documental, sem muito roteiro. Os diálogos são inventados pelos personagens do cotidiano e apenas a linha geral das histórias segue a batuta do seu diretor. E roteirista. E ator. E editor.
 
 Esse filme de câmera sempre parada é o primeiro na direção de Pascal Tagnati, que já atuou em alguns trabalhos, sempre em participação menor, como A Odisseia de Alice e A Lei da Selva. Aqui ele faz Théo, um rapaz deprimido. Théo não une o resto dos personagens. Há pouca conexão na trama entre eles. O ponto em comum é que todos vivem esse verão no mesmo espaço da ilha. É o reencontro anual dos que moram no continente e os nativos.
 
@@ -77061,7 +77061,7 @@ chmod 600 .ssh/authorized_keys
 # Blue Period
 2021-10-21 cinema animes
 
-Um estudante de colégio dedicado aos estudos apenas na hora de escolher a faculdade descobre a paixão nas artes. Não compreendendo porque se arriscar em uma carreira cara que geralmente não se paga na vida lá fora, ele dá o grande salto no escuro. Esta série de anime apresenta uma estética agradável nas pinturas e detalhes para aprendermos melhor as técnicas que estudantes de pintura usam no dia-a-dia. Bom ritmo.
+Um estudante de colégio dedicado aos estudos apenas na hora de escolher a faculdade descobre a paixão nas artes. Não compreendendo porque se arriscar em uma carreira cara que geralmente não se paga na vida lá fora, ele dá o grande salto no escuro. Esta série de anime apresenta uma estética agradável nas pinturas e detalhes para aprendermos melhor as técnicas que estudantes de pintura usam no dia a dia Bom ritmo.
 
 # O Compromisso de Hassan
 2021-10-21 cinemaqui mostrasp cinema movies
@@ -77113,7 +77113,7 @@ Aqui tudo funciona e não precisa de legenda, pois é usada a linguagem universa
 
 Aos poucos as palhacices, percebemos, faz parte também dos outros personagens que a família da jovem Julieta encontra na tal cidadezinha e nós encontramos rimas com as pessoas do mundo real e os palhaços, o que é deveras interessante, pois nos sentimos mais palhaços e menos gente grande vendo as interações exageradas, mas ainda cotidianas. O roteiro de Denise Bernardes e Rodrigo Parra se perde em devaneios, mas não existe trama senão a mais básica e está tudo bem. Em Poropopó a experiência conta mais do que detalhes de narrativa.
 
-Luís Antônio é formado em cinema, dança e teatro. Dirigiu e integrou o grupo teatral Companhia do Gesto. Tudo aquilo é muito seu dia-a-dia, e sua câmera apenas aponta para os diferentes palcos da vida cotidiana. Em alguns momentos pode sonhar mais alto, como a visão de um drone do vizinho de Julieta, Romeu (sim, os nomes são caricatos, e isso é bonitinho). Como é difícil fugir das piadas comuns o filme de Igreja foca mais em trazer-nos as origens da comédia no cinema, através dos gestos dos filmes mudos, e se movimenta tão rápido que uma horinha depois já acabou.
+Luís Antônio é formado em cinema, dança e teatro. Dirigiu e integrou o grupo teatral Companhia do Gesto. Tudo aquilo é muito seu dia a dia e sua câmera apenas aponta para os diferentes palcos da vida cotidiana. Em alguns momentos pode sonhar mais alto, como a visão de um drone do vizinho de Julieta, Romeu (sim, os nomes são caricatos, e isso é bonitinho). Como é difícil fugir das piadas comuns o filme de Igreja foca mais em trazer-nos as origens da comédia no cinema, através dos gestos dos filmes mudos, e se movimenta tão rápido que uma horinha depois já acabou.
 
 # As Faces do Mao
 2021-10-24 cinemaqui mostrasp cinema movies
@@ -77126,7 +77126,7 @@ As Faces do Mao é uma retrospectiva que vai dessa época até 2020, o ano passa
 
 O documentário faz essa junção de momentos em que Mao canta e fala através de imagens atuais e de arquivos. O título "As Faces...", assinado pelos dois cineastas Dellani Lima e do estreante em longas Lucas Barbi, acaba sendo ilusório, pois há apenas uma face: a do artista revolucionário. Pode ser cantado como vocalista de uma banda ou falado como um articulador em história e militância, mas no fundo nós sabemos que é a mesma, como o próprio afirma: "Garotos Podres é dar ritmo às falas de protesto". Acaba sendo um símbolo da piada (sim, isso é uma piada bem comum na vida real) sobre os centros acadêmicos e seus grupos de estudantes defendendo a pluralidade de ideias, quando o plural é igual a apenas uma única visão. E com a vinda da internet e dos celulares que podem gravar vídeos a qualquer momento ficou cada vez mais claro o quanto qualquer lado ideológico da moeda é tão intolerante quanto.
 
-Mas devaneio. O doc é bacana, sim. Tem sérios problemas com a captação de som nos recortes dos shows e das músicas que ouvimos Mao performando, mas dane-se. Isso é punk, como ele mesmo diz na entrevista. Quando o perfeito não existe dá-se um jeito. Seu primeiro e segundo microfones foram improvisados, em um dos muitos divertidos causos que ele nos conta. Até nós, do CinemAqui, com tantos afazeres no dia-a-dia, damos nosso jeito de continuar escrevendo sobre cinema, fincando os pés na filosofia punk. Isso me empolga em assistir e escrever sobre esses filmes da Mostra. A pluralidade de ideias só começa a fazer sentido quando podemos expressar o quanto ser revolucionário se tornou continuar sendo um eterno adolescente utópico.
+Mas devaneio. O doc é bacana, sim. Tem sérios problemas com a captação de som nos recortes dos shows e das músicas que ouvimos Mao performando, mas dane-se. Isso é punk, como ele mesmo diz na entrevista. Quando o perfeito não existe dá-se um jeito. Seu primeiro e segundo microfones foram improvisados, em um dos muitos divertidos causos que ele nos conta. Até nós, do CinemAqui, com tantos afazeres no dia a dia damos nosso jeito de continuar escrevendo sobre cinema, fincando os pés na filosofia punk. Isso me empolga em assistir e escrever sobre esses filmes da Mostra. A pluralidade de ideias só começa a fazer sentido quando podemos expressar o quanto ser revolucionário se tornou continuar sendo um eterno adolescente utópico.
 
 Se a utopia está na moda, bora colocar esses Garotos Podres pra tocar mais uma vez.
 
@@ -78139,7 +78139,7 @@ Esta é uma superprodução de Dino di Laurentis quando o diretor italiano já e
 # Amor e Anarquia
 2022-03-20 cinema series
 
-A ideia acho que era para ser uma mistura do The Office com crítica social e uma história picante com cenas de soft porn. O resultado é sofrível, amador, mas divertido de acompanhar. O dia-a-dia de uma editora que tenta sobreviver à derrocada de valores e ao capitalismo predador dos serviços de streaming. Como a Netflix, por exemplo. Piada implícita ou eles não ligam?
+A ideia acho que era para ser uma mistura do The Office com crítica social e uma história picante com cenas de soft porn. O resultado é sofrível, amador, mas divertido de acompanhar. O dia a dia de uma editora que tenta sobreviver à derrocada de valores e ao capitalismo predador dos serviços de streaming. Como a Netflix, por exemplo. Piada implícita ou eles não ligam?
 
 Pode ser que a série seja mais inteligente do que pareça.
 
@@ -78607,7 +78607,7 @@ cl_stack+=( "kill pid" )
 
 ### Lendo parâmetros de entrada
 
-Para ler parâmetros de entrada há um comando muito bom chamado getopt, mas por algum motivo ele não é muito popular nos scripts deste projeto. No lugar é usada a leitura toscona dos parâmetros pelas variáveis reservadas $1 a $9.
+Para ler parâmetros de entrada há um comando muito bom chamado getopt, mas por algum motivo ele não é muito popular nos scripts do projeto que estava trabalhando. No lugar é usada a leitura toscona dos parâmetros pelas variáveis reservadas $1 a $9.
 
 ```sh
 #
@@ -79320,7 +79320,7 @@ parallel --block 100M --pipe  \
 
 ## XML Issues
 
-Este post foi resultado da minha pesquisa sobre AWK e performance. Ele contém alguns insights que acredito serem úteis para otimizar o código AWK. Nem sempre a linguagem é a ferramenta ideal para trabalhar dados, como o rapaz da dúvida mencionou (ele estava tentando parsear XML), mas mesmo assim as respostas focaram na implementação interna do AWK para entender como tornar o processamento massivo de dados factível, ou pelo menos mais rápido. Isso pode ser útil no dia-a-dia.
+Este post foi resultado da minha pesquisa sobre AWK e performance. Ele contém alguns insights que acredito serem úteis para otimizar o código AWK. Nem sempre a linguagem é a ferramenta ideal para trabalhar dados, como o rapaz da dúvida mencionou (ele estava tentando parsear XML), mas mesmo assim as respostas focaram na implementação interna do AWK para entender como tornar o processamento massivo de dados factível, ou pelo menos mais rápido. Isso pode ser útil no dia a dia
 
 "The Enlightened Ones say that.... You should never use C if you can do it with a script; You should never use a script if you can do it with awk; Never use awk if you can do it with sed; Never use sed if you can do it with grep."
 
@@ -85081,7 +85081,7 @@ Essa garrafa que já acabou foi um Malbec 2020. Nuevos Suelos a subcategoria, ma
 
 Uhu! Estou de volta para as baixarias =). Irei trabalhar com engenharia reversa, serviços e drivers no Windows, talvez algumas telas azuis da morte e alguns travamentos inexplicáveis. Ou seja, só diversão.
 
-E vou aproveitar meu processo de onboarding para recomendar as ferramentas que já utilizo no meu dia-a-dia e as novas que meus colegas me passaram.
+E vou aproveitar meu processo de onboarding para recomendar as ferramentas que já utilizo no meu dia a dia e as novas que meus colegas me passaram.
 
 ## SDK ou Visual Studio
 
@@ -85597,7 +85597,7 @@ Agora que estou terminando os copos e já dei uma espiada nas referências as no
 
 Publicado pela Wiley em 2005, bem na época que comecei a me enveredar no trabalho com análise de trojans e técnicas antidebugging, o livro de Eldad Eilam veio bem a calhar na época e agora virá bem a calhar novamente, pois irei voltar a trabalhar na área. Naquela época começavam a surgir os ataques aos bancos online no Brasil e existia até um tookit que espalhava uma técnica ou duas entre os laranjas que queriam tirar uma casquinha da nova onda. O livro de Eilam busca juntar cada aspecto da engenharia reversa em um apanhado que irá nos dar insights e modus operandi de como proceder para cada tipo de desafio.
 
-Parei a leitura na parte que começam os disassemblies para prática. É divertido, mas exige um tempo considerável para acompanhar. E neste primeiro mês no trabalho novo descobri que consigo me virar com os skills que já possuo, podendo deixar este prazer para mais tarde. É sempre bom poder afiar suas ferramentas, mas é preciso priorizar o que é mais importante para o dia-a-dia no momento. Abaixo seguem alguns recortes.
+Parei a leitura na parte que começam os disassemblies para prática. É divertido, mas exige um tempo considerável para acompanhar. E neste primeiro mês no trabalho novo descobri que consigo me virar com os skills que já possuo, podendo deixar este prazer para mais tarde. É sempre bom poder afiar suas ferramentas, mas é preciso priorizar o que é mais importante para o dia a dia no momento. Abaixo seguem alguns recortes.
 
 Reverse engineering has been with us a long time. The conceptual Reversing process occurs every time someone looks at someone else's code. But, it also occurs when a developer looks at his or her own code several days after it was written. Reverse engineering is a discovery process. When we take a fresh look at code, whether developed by ourselves or others, we examine and we learn and we see things we may not expect.
 
@@ -86122,7 +86122,7 @@ De filme teve esse O Rei dos Clones, um "documentário" de um "diretor" que apro
 
 Das séries vi também a Não Durma no Ponto, um programa de competição onde os participantes não dormem por 24 horas -- ficam contando moedas no lugar -- e depois competem em atividades que requer habilidades de alguém acordado para ganhar até um milhão de dólares. Mais do mesmo, mas nos faz comparar como hoje não devem haver perdedores nestes programas. Você ganhou ao sair do show porque vai conseguir dormir, ou ganhou porque topou receber um valor de participação, ou ganhou porque fez qualquer coisa. Ninguém deve perder, pois perder é triste, e ninguém deve ficar triste. Esse alto astral deveria fazer algumas pessoas se matarem.
 
-De resto, as novelas coreanas de praxe: bem produzidas e ainda não intoxicadas com o veneno que vem de Hollywood. Ambas as Coreias já têm sua porção de socialismo para se preocupar no dia-a-dia.
+De resto, as novelas coreanas de praxe: bem produzidas e ainda não intoxicadas com o veneno que vem de Hollywood. Ambas as Coreias já têm sua porção de socialismo para se preocupar no dia a dia
 
 # Tempo de Espera
 2023-07-18 cinema movies
@@ -86541,7 +86541,7 @@ A ideia de fazer um apanhado da semana como havia feito em um post anterior não
 # Orby Cabernet Sauvignon - Merlot 2012
 2023-08-28 wine
 
-Vinho francês não costuma ter caráter. É apenas vinho. Mas pode ser que não tenha provado os muito caros. Este blend é okzinho, bebível para o dia-a-dia.
+Vinho francês não costuma ter caráter. É apenas vinho. Mas pode ser que não tenha provado os muito caros. Este blend é okzinho, bebível para o dia a dia
 
 # Reencarnando como uma reencarnação de anime de reencarnação
 2023-08-28 cinema animes
@@ -90421,7 +90421,7 @@ mas até que não é tão ruim assim."
 uma entrada em um índice remissivo com outras menções à mesma palavra."
 ```
 
-As vantagens do Markdown como lingua franca ultrapassam em muito a teórica robustez de um padrão como Asciidoc que está muito longe de ser suportado amplamente. E há um motivo para isso: ele abrange muitas formas de estruturar texto e dá muito trabalho para textos curtos. MD acaba sendo um equilíbrio sensato entre o que é usado no dia-a-dia da comunicação textual da internet e alguma forma de escalar formatação e estrutura em textos maiores e complexos.
+As vantagens do Markdown como lingua franca ultrapassam em muito a teórica robustez de um padrão como Asciidoc que está muito longe de ser suportado amplamente. E há um motivo para isso: ele abrange muitas formas de estruturar texto e dá muito trabalho para textos curtos. MD acaba sendo um equilíbrio sensato entre o que é usado no dia a dia da comunicação textual da internet e alguma forma de escalar formatação e estrutura em textos maiores e complexos.
 
 
 # Mielina
@@ -91190,7 +91190,7 @@ One of the messages of this book is that architectures can, in fact, be evaluate
 # What If (Randall Munroe, 2014)
 2024-09-20 books quotes
 
-Estava com esse livro há um bom tempo na prateleira. Essa última viagem foi uma ótima oportunidade para terminar de ler. Recomendo fortemente para distrair dos pensamentos do dia-a-dia.
+Estava com esse livro há um bom tempo na prateleira. Essa última viagem foi uma ótima oportunidade para terminar de ler. Recomendo fortemente para distrair dos pensamentos do dia a dia
 
 Your veins are supposed to bring low-oxygen blood back to your lungs to be refilled with oxygen. But in the Death Zone, there’s so little oxygen in the air that your veins lose oxygen to the air instead of gaining it.
 
@@ -93633,7 +93633,7 @@ Após bagunçar a formatação acho que seria uma boa atualizar os posts selecio
 # Programming
 2026-03-13 computer programming_tag blog
 
-Aqui estão os artigos que considero essenciais para seguir a carreira de programador. Foco principalmente nos fundamentos, pois considero que eles são tudo o que um programador necessita para evoluir. Tendo os fundamentos o resto se faz sozinho no dia-a-dia.
+Aqui estão os artigos que considero essenciais para seguir a carreira de programador. Foco principalmente nos fundamentos, pois considero que eles são tudo o que um programador necessita para evoluir. Tendo os fundamentos o resto se faz sozinho no dia a dia
 
 Por isso mesmo desenvolvi uma seção com o tema "básico do básico":
 
@@ -93645,7 +93645,7 @@ Por isso mesmo desenvolvi uma seção com o tema "básico do básico":
 
 - "Básico do básico: assembly"
 
-Seguindo a mesma vibe tenho dois artigos exploratórios focados em desenvolvimento para Windows (mas que podem ser adaptados para qualquer IDE hoje em dia) sobre programar e depurar no dia-a-dia. Estes são os guias básicos:
+Seguindo a mesma vibe tenho dois artigos exploratórios focados em desenvolvimento para Windows (mas que podem ser adaptados para qualquer IDE hoje em dia) sobre programar e depurar no dia a dia Estes são os guias básicos:
 
 - "Guia básico para programadores de primeiro int main"
 
@@ -93656,7 +93656,7 @@ Como este último é sobre depuração você logo vê que os temas se mesclam. M
 # Reversing
 2026-03-13 computer reversing_tag blog
 
-A depuração é o meu assunto favorito de ciência da computação. Para mim é até a mais ciência de todas (programação eu considero mais próxima até de matemática). A criação de teorias, testes, obtenção de teorias e a transpiração constante em busca de padrões e os diabos dos detalhes é o que praticamente me fez virar programador. Sem gostar dessa parte menos nobre onde precisamos escarafunchar os algoritmos que criamos ou mantemos, muito se perde de tempo no dia-a-dia. Afinal de contas, se você trabalha com algo que não gosta está perdendo seu tempo. Se depuração te atrai, tenho boas notícias sobre a área para você :).
+A depuração é o meu assunto favorito de ciência da computação. Para mim é até a mais ciência de todas (programação eu considero mais próxima até de matemática). A criação de teorias, testes, obtenção de teorias e a transpiração constante em busca de padrões e os diabos dos detalhes é o que praticamente me fez virar programador. Sem gostar dessa parte menos nobre onde precisamos escarafunchar os algoritmos que criamos ou mantemos, muito se perde de tempo no dia a dia Afinal de contas, se você trabalha com algo que não gosta está perdendo seu tempo. Se depuração te atrai, tenho boas notícias sobre a área para você :).
 
 Para começar a rodar seu código passo-a-passo comece com o artigo "Guia básico para programadores de primeiro breakpoint". Se estiver usando outro ambiente adapte o que aprendeu para este ambiente. Os conceitos são os mesmos.
 
