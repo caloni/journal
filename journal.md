@@ -6612,7 +6612,7 @@ Eu e meu amigo demos uma olhada no padrão da linguagem C de 89 (revisão de 90)
 
 "The sizeof operator yields the size (in bytes) of its operand, which may be an expression or the parenthesized name of a type. The size is determined from the type of the operand, which is not itself evaluated. The result is an integer constant." - Sizeof (6.3.3.4).
 
-"A character string literal is a sequence of zero or more multibyte characters enclosed in double-quotes, as in "xyz". A wide string literal is the same, except prefixed by the letter L. (...) The multibyte character sequence is then used to initialize an array of static storage duration and lenght just sufficient to contain the sequence." - String literal (6.1.4).
+"A character string literal is a sequence of zero or more multibyte characters enclosed in double-quotes, as in "xyz". A wide string literal is the same, except prefixed by the letter L. (...) The multibyte character sequence is then used to initialize an array of static storage duration and length just sufficient to contain the sequence." - String literal (6.1.4).
 
 Em C++ (padrão ISO de 98) o texto é muito parecido, apenas abragendo também o conceito de type-id (desnecessário explicar para o contexto deste artigo):
 
@@ -12063,7 +12063,7 @@ Se você não é, então terá que esperar pelo menos uns dois meses, depois que
 
 
 # Linux e o DHCP
-2026-03-21 computer archive
+2008-04-11 computer blog
 
 Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um servidor Linux.
 
@@ -12822,9 +12822,7 @@ Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memór
 # Projetos no Caloni.com.br
 2026-03-21 computer archive
 
-Update 2026-03-21. Mantive este artigo pelo histórico e pelos comentários.
-
-(Atualizado para refletir migração dos projetos para o Launchpad.)
+2026-03-21 Mantive este artigo arquivado pelo histórico e pelos comentários. Foi atualizado para refletir migração dos projetos para o Launchpad.
 
 Aproveitando a deixa de mudança de controle de fonte dos meus miniprojetos de Mercurial para Bazaar, estou publicando-os sob uma forma mais acessível e didática, além de possuir todo o histórico de mudanças: como um controle de fonte deve ser.
 
@@ -21254,7 +21252,7 @@ Existem um pouco de polêmica em torno dessa funcionalidade. Alguns dizem que el
 
 
 # Antigo bem-vindo do Cine Tênis Verde
-2010-04-01 cinema
+2010-04-01 cinema blog
 
 2026-01-24 A partir da data original deste artigo comecei a escrever sobre cinema em um domínio próprio, que nos anos recentes acabou se juntando ao meu blogue técnico em uma massa de milhares de textos. Assim como estou fazendo a curadoria dos textos técnicos, muito menos dos mais de 1300 e lá vai cacetada textos das críticas que fiz estarão aqui no blogue. Irei poupá-los desta poluição nessa versão mais enxuta. O texto abaixo está disponível como um aviso de mudança de fase do autor que vos escreve.
 
@@ -22525,14 +22523,14 @@ Na hora de ver as diferenças no worktree podemos usar a velha opção de criar 
 
 Vendo essas coisas fico imaginando como ainda tem gente que usa arquivos zip com data para armazenar versões de documentos diferentes. Tsc, tsc.
 
-# A Origem (Christopher Nolan, 2010)
-2010-08-06 cinema movies
+# A Origem
+2010-08-06 cinema movies blog
 
 O diretor e roteirista Christopher Nolan tem o dom de traduzir para o espectador as experiências de seus personagens na tela. Vimos isso em Amnésia com a montagem invertida fazendo o papel do protagonista que não consegue se lembrar o que estava fazendo cinco minutos atrás. Em O Grande Truque as trucagens do roteiro são tão ágeis que se assemelham a um número de mágica bem conduzido. E agora em A Origem participamos de um exercício narrativo que consegue unir todas as ideias modernas a respeito dos sonhos, mas que ao mesmo tempo se deixa levar pela metalinguagem e faz uma sutil homenagem ao próprio Cinema.
 
 A história gira em torno de Cobb (Leonardo DiCaprio), um espião que rouba informações sigilosas das pessoas diretamente em seus subconscientes através de uma nova tecnologia que permite o compartilhamento dos sonhos. Até que ele recebe a proposta de fazer exatamente o oposto: inserir uma ideia dentro do consciente da pessoa, algo muito mais difícil de se fazer e que exige adentrar em camadas mais inferiores ainda do ser. Esse "último trabalho" traria de volta sua família, pois ele conseguiria voltar para o país onde estão os seus filhos. No entanto, o fantasma das memórias de sua mulher morta serão um problema constante no decorrer da missão.
 
-A edição do filme brinca de uma maneira absolutamente controladora. Os pulos entre os sonhos são efetuados com uma precisão milimétrica, entregando ritmo e uma nova forma de ação: a multicamadas. Há uma sequência particularmente fascinante, no momento em que uma Van capota com todos seus passageiros dormindo. Uma viagem psicodélica em torno da noção de gravidade embutida no subconsciente.
+A edição do filme brinca como um neurótico controlador. Os saltos entre os sonhos são efetuados com uma precisão milimétrica. Ele impõe um ritmo e uma nova forma de ação: a multicamadas. Há uma sequência particularmente fascinante, no momento em que uma Van capota com todos seus passageiros dormindo. Uma viagem psicodélica em torno da noção de gravidade embutida no subconsciente.
 
 Além disso, A Origem também é um pouco de filosofia. A questão que tortura a mulher de Cobb não é fruto apenas de uma mente perturbada, mas de argumentos de alguém com história de vida e que que se sentiu presa a uma realidade infértil por décadas a fio, o que acabou se tornando fatal para ambos. E sejamos justos: no universo que o filme retrata, pensar que toda a realidade pode ser um sonho não parece tão disparate assim.
 
@@ -22583,24 +22581,24 @@ A questão é: como eu resolvi o problema? Como você teria procedido nessa situ
 A resposta para esse enigma também contará pontos para nossa brincadeira com o livro Windows Internals, como foi explicado no [artigo anterior]. Vamos lá, Sherlock!
 
 
-# Superman: O Filme (Richard Donner, 1978)
-2010-08-12 cinema movies
+# Superman: O Filme
+2010-08-12 cinema movies blog
 
-Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que "Superman: O Filme" funciona bem exatamente por tudo isso junto, ainda aliado às convincentes interpretações dos personagens, uniformes em suas representações do mundo fantasioso vivido pelo homem de aço, que estranhamente não soa piegas ou exagerado, mas possui o tom cartunesco corretíssimo para manter a lenda e ao mesmo tempo não se levar a sério demais.
+Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que Superman: O Filme funciona bem exatamente pelo conjunto da obra. Amparado por convincentes e uníssonas interpretações, representa um mundo fantasioso vivido pelo homem de aço, não soa piegas ou exagerado como fosse de se supor, mas exala um certo tom cartunesco que soa correto ao material original, mantendo uma lenda épica dos quadrinhos ciente que não se pode levar a sério demais.
 
-Ambientado na época "contemporânea", acompanhamos através de diversos momentos-chave a infância e adolescência do herói até atingir a maturidade e conseguir um emprego de repórter no jornal Planeta Diário, da cidade grande Metrópolis. Seu nome humano é Clark Kent (Christopher Reeve), e ele possui uma queda por uma repórter efusiva, Louis Lane (Margot Kidder), que parece caçar grandes notícias, mas não enxerga um palmo diante do seu nariz, onde o agora conhecido super-herói da cidade se mantém disfarçado apenas pelos seus óculos e um jeito atrapalhado que contracena com toda a pose e atitude de Kar-El.
+Ambientado na época "contemporânea", acompanhamos através de diversos momentos-chave a infância e adolescência do herói até atingir a maturidade e conseguir um emprego de repórter no jornal Planeta Diário, da cidade grande Metrópolis. Seu nome humano é Clark Kent (Christopher Reeve), e ele possui uma queda por uma repórter efusiva, Louis Lane (Margot Kidder), que caça grandes notícias, mas não enxerga um palmo diante do seu nariz, onde o agora conhecido super-herói da cidade se mantém disfarçado apenas pelos seus óculos e um jeito atrapalhado que contracena com toda a pose e atitude de Kar-El.
 
 Seu vilão, o igualmente equilibrado (ou deveria dizer desequilibrado?) Lex Luthor (Gene Hackman), oscila confortavelmente entre o picaretagem e a megalomania. Seu plano maligno é obter um pedaço de terra do tamanho da Califórnia e ficar milionário às custas da morte de milhões. A conversa com Superman adquire tons de cavalheirismo desconhecidos ainda do Kryptoniano, que parece querer desvendar o que há por trás da loucura de alguns humanos.
 
 A solução do conflito toma um contorno totalmente diferente do imaginado, o que é ótimo. Os sentimentos de Superman são pessoais, mas indiretamente ele acaba por firmar um pacto com os seres humanos e o seu destino. Uma bela mensagem de esperança sem soar religioso ou filosófico demais. No entanto, há algo de divino na interpretação de Reeve que ecoará para sempre na figura do carismático personagem.
 
-Eu concordaria com qualquer pessoa que dissesse que Superman é um filme complicado de se defender. O momento atual do cinema em que os efeitos visuais mais vistosos, e tão somente os efeitos, combatem entre si, definitivamente não é a época para humor cartunesco, romantismo e um clima épico em torno de um ser que veste suas cuecas por cima das calças.
+Eu concordaria com qualquer pessoa que dissesse que Superman é um filme complicado de defender no momento atual em que o cinema e seus efeitos visuais primorosos (ainda que muitas vezes tão somente os efeitos) são difíceis de conciliar neste humor cartunesco, romântico e épico em torno de um ser que veste suas cuecas por cima das calças.
 
-Porém, peço aos leitores que olhem mais de perto. O que conseguiria tornar um filme tão propenso ao fracasso e mediocridade em um filme digno e ciente de si e de seu herói, que abraça o ridículo de maneira tão empolgante e solene como se o ridículo não estivesse lá. O que faz com que essa experiência cinematográfica pudesse ainda ser citada e comparada a filmes tecnicamente superiores, mas ainda carentes dessa paixão incondicional, como "Superman: O Retorno" e "O Homem de Aço"?
+Porém, peço aos leitores que olhem mais de perto. O que hoje tornaria um filme propenso ao fracasso e mediocridade na época o transforma em uma obra digna e ciente de si e de seu herói, que abraça o ridículo de maneira tão empolgante e solene como se o ridículo não estivesse lá. É sua paixão que faz com que essa experiência cinematográfica ainda seja citada e comparada a filmes tecnicamente superiores, mas ainda carentes dessa paixão incondicional, como "Superman: O Retorno" e "O Homem de Aço".
 
-Não há dúvidas que o tema composto por John Williams transforma qualquer cena com potencial vergonhoso em um clássico instantâneo. Porém, "Superman Returns" possui a mesma canção solene, mas parece ter perdido algo durante essa transição. Não é, portanto, fruto apenas de uma trilha sonora bem sucedida que o original se mantém.
+Não há dúvidas que o tema composto por John Williams transforma qualquer cena com potencial vergonhoso em um clássico instantâneo. Porém, "Superman Returns" possui a mesma canção solene, mas perdeu algo durante a transição dos séculos, comprovando o êxito do primeiro filme não ser unicamente fruto de sua trilha sonora.
 
-Olhe atentamente para Clark Kent e me diga o seguinte: mesmo sabendo que ele é o Homem de Aço com óculos, é apenas isso que o separa do ser alienígena? Os ombros arqueados, o tique de sempre estar empurrando os aros, a voz fina que mal consegue balbuciar uma frase sem ser interrompido. O esforço da interpretação não fica só no tom solene ao vestir aquelas roupas coloridas. Há um personagem interpretando outro em Superman, e é isso que Chris Reeve faz com uma desenvoltura que torna tudo fácil (como se espremer ao tentar abrir uma garrafa).
+Olhe atentamente para Clark Kent e me diga o seguinte: mesmo sabendo que ele é o Homem de Aço com óculos, é apenas isso que o separa do ser alienígena? Os ombros arqueados, o tique de sempre estar empurrando os aros, a voz fina que mal consegue balbuciar uma frase sem ser interrompido. O esforço da interpretação não fica só no tom solene ao vestir aquelas roupas coloridas. Há um personagem interpretando outro em Superman, e é isso que Chris Reeve faz com uma desenvoltura que faz parecer fácil (como sua atuação dentro da atuação em se espremer ao tentar abrir uma garrafa de suco de laranja).
 
 Em contraparte, não há como negar os esforços do diretor Richard Donner em tentar tornar as cenas de voo (a chamada principal para o filme na época era "Você vai acreditar que o homem pode voar") e torná-las leves e poéticas. É um marco nos efeitos visuais, mesmo hoje tendo sido ultrapassado. Já a lenda, essa parece que está longe de o ser.
 
@@ -22793,7 +22791,7 @@ Espero com isso aliviar a carga pesada de A.V.s que sempre aparece quando menos 
 # Karate Kid
 2010-08-27 cinema movies
 
-Esse é praticamente um remake do original, só que em vez de caratê, como o nome supõe, a luta do filme é o kung-fu, onde o mestre é nada mais nada menos que Jackie Chan, o Sr. Han, que irá treinar Jaden Smith, o filho de Will, para se preparar para o torneio de Kung Fue se livrar das perseguições da escola.
+Esse é praticamente um remake do original, só que em vez de caratê, como o nome supõe, a luta do filme é o kung-fu, onde o mestre é nada mais nada menos que Jackie Chan, o Sr. Han, que irá treinar Jaden Smith, o filho de Will, para se preparar para o torneio de Kung Fu e se livrar das perseguições da escola.
 
 Interessante como o filme aponta a modernização e crescimento da China, quando Dre, o personagem de Jaden Smith, afirma ver que na China só tem coisas velhas, e logo quando chegam à Pequim veem a cidade olímpica recém-construída. Hoje esse resultado já fica um pouco datado.
 
@@ -46590,7 +46588,7 @@ A continuação das aventuras de Indiana Jones é tudo aquilo que eu lembrava de
 
 Não à toa. Estamos falando de um filme clássico de ação, onde os efeitos são gerados com enquadramentos que enganam o ponto de vista do espectador (olhe a perseguição de carrinhos de mina), há "matte paintings" (fundos pintados à mão) charmosíssimos (a aldeia indiana sob a luz do luar), trilhas sonoras que precisam realizar o milagre de fazer acreditar (e o hino de John Williams cumpre o papel), interação real entre os atores (sem tela verde), uso de dublês aliado com uma edição rápida (Michael Kahn edita o filme com um ritmo frenético), emoção trazida pelo enredo que alia a exploração histórica da Índia com a exploração dos indianos poderosos da massa de miseráveis (e crianças!).
 
-É difícil de imaginar que um filme tão fantasioso fizesse sucesso hoje em dia. Ele não apenas inventa uma aventura maluca começando com dançarinas em um bordel (e que usa um "túnel metalinguístico" para os créditos iniciais, assumindo de uma vez por todas sua inspiração "James Bondiana"), como leva adiante personagens que são tão estereotipados quanto o filme gênero daquele ano, "Tudo por uma Esmeralda". Porém, Spielberg e Lucas abraçam a magia por trás do gênero de uma maneira tão empenhada que, assim como o hoje visto como brega Superman: O Filme, é difícil não se apaixonar pela história.
+É difícil de imaginar que um filme tão fantasioso fizesse sucesso hoje em dia. Ele não apenas inventa uma aventura maluca começando com dançarinas em um bordel (e que usa um "túnel metalinguístico" para os créditos iniciais, assumindo de uma vez por todas sua inspiração "James Bondiana"), como leva adiante personagens que são tão estereotipados quanto o filme gênero daquele ano, "Tudo por uma Esmeralda". Porém, Spielberg e Lucas abraçam a magia por trás do gênero de uma maneira tão empenhada que, assim como o hoje visto como brega "Superman: O Filme", é difícil não se apaixonar pela história.
 
 Levados por uma introdução enérgica, que os coloca de um tiroteio para uma perseguição de carros e a queda de um avião, somos levados a um vilarejo de indianos que sofre com a seca e a fome, atribuídos ao roubo de uma pedra mágica da deusa Shiva. Para piorar as coisas, suas crianças foram raptadas. Me lembro que as cenas em torno do rapto de crianças maltrapilhas era extremamente emocionante. Os atores secundários dessa parte são indianos legítimos, dando um realismo para a fantasia que é difícil de reproduzir hoje em dia.
 
@@ -47346,7 +47344,7 @@ E se você já assistiu o último filme de Shane Black, "Dois Caras Legais", pro
 
 Mas não era assim nos anos 80. Aqui você entendia perfeitamente o grau de insanidade de Riggs ao lado de um cansado, convencional e engraçado Sargento Murtaugh. A frase "eu estou muito velho para isso" é repetida três vezes durante o filme, e em todas elas cabe perfeitamente. É engraçada, é espirituosa, é pertinente. Tudo no filme é pertinente. As cenas de ação são reais, encenadas por dublês, mas com carros voando e explodindo de verdade. Sente-se o peso de uma perseguição em Los Angeles, assim como sentimos o impacto visual do encontro no deserto, ou do ataque de helicóptero vindo de um penhasco, do lado de um funeral.
 
-Novos clichês estão sendo erguidos com o peso e a responsabilidade de um Richard Donner que já criou mitos modernos (Superman: O Filme) e enveredou-se por aventuras infantis (Os Goonies) sem perder a energia nem a empolgação. Donner não joga as cenas uma após a outra. Ele se lembra de embutir a personalidade de cada um dos dois em torno das cenas, e mesmo que não funcione algumas vezes o jeito bonachão, é eficaz na maioria delas.
+Novos clichês estão sendo erguidos com o peso e a responsabilidade de um Richard Donner que já criou mitos modernos ("Superman: O Filme") e enveredou-se por aventuras infantis (Os Goonies) sem perder a energia nem a empolgação. Donner não joga as cenas uma após a outra. Ele se lembra de embutir a personalidade de cada um dos dois em torno das cenas, e mesmo que não funcione algumas vezes o jeito bonachão, é eficaz na maioria delas.
 
 Note, por exemplo, como toda a construção da explosão de uma casa seguida pelo interrogatório de um menino passa pela dedução orgânica de com quem estão lidando, pela construção (no roteiro) de como as deduções de ambos estavam mais certas do que temiam, e uma crítica ao racismo que não precisa parar o filme para se posicionar. Está lá, e você pode prestar atenção a isso ou não. A maior virtude desses filmes é que eles não precisam ficar parando e explicar tudo. O espectador não é burro.
 
@@ -65387,7 +65385,7 @@ A escalação de Harrison Ford hoje é discutível. Caçador de androides, na é
 
 O que deveria saber pelo roteiro. Não podemos ignorar hoje a performance visceral, shakespeariana, do andróide macho alfa, interpretado por Rutger Hauer. Ele está em um estado de alteração permanente. Suas falas têm o potencial de roubar a cena, mas apenas uma atuação desse calibre consegue entregá-las. Apenas note em seus olhos e em seus movimentos, mas a prova final é constatar que toda cena em que ele aparece o filme melhora, enquanto que com Ford não piora, mas se suporta pelo design. É como se o detetive Deckard estivesse pela primeira vez nesse mundo, o que não condiz com sua fama de melhor caçador.
 
-A trupe de androides rouba sua postura do trio de criptonianos de Superman: O Filme. Mas é por um bom motivo: essa é a postura adequada de semi-deuses que são. Nada abaixo disso seria aceitável, e o roteiro entende que não se deve explicar muito o que já foi explicados no letreiro inicial do filme.
+A trupe de androides rouba sua postura do trio de criptonianos de "Superman: O Filme". Mas é por um bom motivo: essa é a postura adequada de semi-deuses que são. Nada abaixo disso seria aceitável, e o roteiro entende que não se deve explicar muito o que já foi explicados no letreiro inicial do filme.
 
 Enquanto isso a androide posta sob o teste, a femme fatale adaptada do universo cyber punk, Sean Young, permanece intocável. A atuação de Young passa pelo blasé disfarçado, mas como sabemos que ela é uma androide esse detalhe se abre em infinitos pensamentos. O que ela sente? Como pode ela dizer tal fala? De onde veio essa vontade de fumar em meio a um interrogatório? Era ela a amante de Gaff assim como vemos em Ex Machina? Tantas questões não respondidas acrescentam complexidade à essa personagem icônica do Cinema.
 
@@ -85187,7 +85185,7 @@ Agora começa a diversão =).
 
 Hoje achei um projeto muito genial e óbvio chamado Zodiac, que é um static site generator escrito em awk. Mas claro! Gerar sites estaticamente é sobre manipular texto de entrada para texto de saída. Como não pensei nisso antes?
 
-Baixei [o projeto] e comecei a fazer alguns testes de performance. Porém, como ele depende de bash tive que rodar em um WSL (Debian) e o I/O não ficou dos mais rápidos. Estava demorando quase um arquivo por segundo. Isso para meus mais de 4k arquivos iria demorar uma eternidade.
+Baixei o projeto e comecei a fazer alguns testes de performance. Porém, como ele depende de bash tive que rodar em um WSL (Debian) e o I/O não ficou dos mais rápidos. Estava demorando quase um arquivo por segundo. Isso para meus mais de 4k arquivos iria demorar uma eternidade.
 
 Aproveitei o embalo e criei um projeto bem básico em C++ que apenas abre um arquivo, lê o conteúdo e escreve em outro arquivo (o baseline). Ele demorou 12 segundos no máximo para operar em todos os posts. Bom, mas poderia ser melhor.
 
@@ -86235,7 +86233,7 @@ Fiz um experimento com a prensa francesa. Após moer para prensa usei uma peneir
 O experimento final foi moer os grãos para prensa francesa e deixar em infusão por 5 minutos para em seguida passar pelo Aeropress. Sem peneirar os fines. O resultado foi o melhor até agora. O sabor "verde" ficou sob controle, assim como o amargor. Este é um café tipicamente amargo e você deve senti-lo na bebida; não faria sentido querer tirar algo que compõe seu sabor. Porém, para sentir o resto dos sabores é crucial mantê-lo sob controle. E eu acho que essa receita conseguiu o feito.
 
 # Descobrir ativação de classes WinRT
-2023-08-13 computer reversing_tag
+2023-08-13 computer reversing_tag blog
 
 A Windows Runtime nada mais é que o COM repaginado. O COM já previa o uso de proxies para comunicação remota entre processos. A WinRT adicionou mais uma interface e uma função. Vou neste post descrever o processo pelo qual descobri como funciona o registro de um dispositivo no Azure Active Directory (AAD).
 
@@ -86406,17 +86404,11 @@ Talvez seja esse mito do bom selvagem misturado com políticas sociais e uma pit
 As imagens de Eima não fazem sentido. Suas trucagens com filtro de cor, luz e transições entre cenas , além de bregas, são o combustível que dá mais sono ainda. Nada do que você ver neste filme te salvará do sono eterno. Estamos fadados a acompanhar o drama indígena em nossos sonhos. Nosso único consolo é que o tormento acaba logo.
 
 # Finalmente blogawk
-2023-08-20 computer projects
+2023-08-20 computer projects blog
 
 Fiquei muito empolgado com a solução awk que converte meus posts para um epub "carregável" em um leitor de ebook e no computador e parti para usar a mesma estratégia em meu blog para abandonar dessa vez o Hugo, um renderizador de sites estáticos feito em golang extremamente rápido, mas que não está dando conta dos meus mais de 4000 posts.
 
-O maior peso dessa conversão é o file system. A leitura e escrita de milhares de arquivos, mesmo que não seja feita nenhuma conversão, por si só já é a parte mais pesada. Sendo assim, adotei duas estratégias de otimização:
-
-1. Usar um único arquivo de leitura.
-
-Com isso eu consigo aplicar a leitura deste arquivo pelo script awk em um passo só. De quebra, as mudanças sistêmicas no blogue serão muito mais fáceis.
-
-1. Usar um arquivo por mês na escrita.
+O maior peso dessa conversão é o file system. A leitura e escrita de milhares de arquivos, mesmo que não seja feita nenhuma conversão, por si só já é a parte mais pesada. Sendo assim, adotei duas estratégias de otimização: usar 1) um único arquivo de leitura e 2) um arquivo por mês na escrita. Com esses dois passos eu consigo aplicar a leitura deste arquivo pelo script awk em um passo só. De quebra, as mudanças sistêmicas no blogue serão muito mais fáceis.
 
 Esse foi o maior economizador de tempo. Gerar 4000 novas entradas no file system do Windows estava custando caro, em torno de um minuto. Transformar isso em uns 300 arquivos fez a escrita levar de dois a três segundos!
 
@@ -86426,13 +86418,13 @@ Um ponto de atenção aos novatos do awk que eu destacaria dessa experiência é
 
 De resto, agora tenho a liberdade de renderizar meu blogue em questão de segundos. Aposentei a estrutura do Hugo e estou usando awk para gerar tanto o blogue quanto o ebook.
 
-Não achei justo fazer benchmarks de comparação com o Hugo pelo motivo do file system já citado e também pelas diferentes estratégias adotadas. Pelo própria estrutura engessada e necessáriado Hugo em unir estrutura de arquivos fontes e estrutura final do saite eu sei que não seria viável continuar usando a ferramenta.
+Não achei justo fazer benchmarks de comparação com o Hugo pelo motivo do file system já citado e também pelas diferentes estratégias adotadas. Pelo própria estrutura engessada e necessária do Hugo em unir estrutura de arquivos fontes e estrutura final do saite eu sei que não seria viável continuar usando a ferramenta.
 
 Além disso, awk me dará a liberdade que gostaria de indexar pesadamente meus textos com o poder dos arrays associativos de awk. Já conhecia eles do PHP, mas agora que conheci os do awk estou pensando seriamente em adotar para outros tipos de tratamento de texto. Talvez até use para minhas finanças pessoais.
 
 
 # Explorando a HSTRING
-2023-08-21 computer reversing_tag
+2023-08-21 computer reversing_tag blog
 
 Estava me enveredando hoje nos bytes usados para montar e demonstar os argumentos de uma interface COM proxy da WinRT quando quis saber qual era o leiaute da nova string do Windows, a HSTRING, usada na WinRT e em todo o ecossistema dos Universal apps.
 
@@ -86508,7 +86500,7 @@ E eis o resultado que cheguei:
 ```
 struct HSTRING {
   BOOL Reference;     // +0x00
-  UINT32 Lenght;      // +0x04
+  UINT32 Length;      // +0x04
   UINT64 Unused2;
   PCWSTR RawString;   // +0x10
   UINT32 RefCounter;  // +0x18
@@ -86681,11 +86673,11 @@ Tire 5 Cartas vai divertir com certeza o espectador médio que está acostumado 
 Há participações especiais bem pequenas dos saudosos e queridos Alcione e Sydney Magal. É uma pena que é tão pouco tempo de tela que não posso dizer que o filme valha por isso. Vale mais pelo resto, esse passatempo anacrônico e saudosista de um tempo ruim que sempre volta de vez em quando. As boas risadas ficaram no set de filmagens. Espero que toda a produção tenha se divertido.
 
 # TRAFFIC
-2023-09-07 computer debugging reversing_tag
+2023-09-07 computer debugging reversing_tag blog
 
 Observei esta anotação em meu journal de muitos anos atrás (2009) e ela continua atual. Baseado em um powerpoint do cientista da computação Andreas Zeller, autor de Why Programs Fail, este acrônimo é um caminho fácil de lembrar quando precisamos encontrar um bug no sistema. Eu lembro que estava pensando até em escrever um artigo na época, mas ainda estava trabalhando a questão de como traduzir as siglas para o português.
 
-A boa notícia é que hoje, 14 anos depois da reforma ortográfica da língua portuguesa, eu posso dizer que estou cagando para a tradução. Use o inglês, estúpido.
+A boa notícia é que hoje, 14 anos depois da reforma ortográfica da língua portuguesa, eu posso dizer que não me importo mais para a tradução: "Developer: you need to know English!".
 
 ## 1. [T]rack the problem
 
@@ -86721,7 +86713,7 @@ Voltando à analogia de super-herói, imagine que seu bug se parece com uma aran
 
 Isolar a infecção significa remontar aquela listinha de passos para reprodução de forma que o bug aconteça em um ambiente controlado. Sempre que eu rodo este programinha baseado no código de produção ele dá o resultado errado para a situação que encontramos em produção.
 
-Ao isolar a cadeia de eventos nós estamos verdadeiramente aprendendo como o sistema funciona. Não todo o sistema, mas os itens de uma cadeia responsável pelo surgimento de um bug. E isso não se esquece. Quando mais complexo o bug, mais aprenderemos.
+Ao isolar a cadeia de eventos nós estamos verdadeiramente aprendendo como o sistema funciona. Não todo o sistema, mas os itens de uma cadeia responsável pelo surgimento de um bug. E isso não se esquece. Quanto mais complexo o bug, mais aprenderemos.
 
 ## 7. [C]orrect the defect
 
@@ -86733,7 +86725,7 @@ Obrigado, e até o próximo bug.
 
 
 # UWP apps não funcionam com proxy de loopback (resolvido)
-2023-09-07 computer debugging reversing_tag
+2023-09-07 computer debugging reversing_tag blog
 
 Durante minha pesquisa para entender como funciona o login no Azure AD chegou a mim a informação muito pertinente de que proxies locais não funcionam por padrão com aplicativos UWP. Isso acontece porque além dos apps rodarem dentro de um AppContainer isolado com seu próprio SID, os privilégios desse SID por padrão são muito limitados. Talvez no futuro isso funcione, mas no momento não.
 
@@ -88078,7 +88070,7 @@ Quando a gordura começar a derreter, reduza a temperatura a menos de 190°C, o 
 Você não odeia e adora os subtítulos nacionais dos filmes que estreiam no Brasil? Ultimamente estou mais odiando. Este filme assisti porque estava no sofá. Dormi nos primeiros... quinze minutos? Não importa. Logo depois disso você entende que a sacada de uma menina entrando na puberdade e virando um dragão... quer dizer, um panda vermelho, é uma desculpa muito boa para abordar este tema com toda a imaginação e exageros da cinematografia chinesa. Vêm à mente as grandiosas cenas de "O Tigre e o Dragão". O filme faz você se lembrar de exemplos bem melhores do que está vendo na tela. A direção é cheia de energia. O que é curioso, pois assim como o último filme que me lembro ter visto, o nacional Minha Irmã e Eu, o roteiro é preguiçoso e a direção é empolgada. A animação explora como mostrar estereótipos de raças sem soar ofensivo. É divertidíssimo tentar encontrar nos filmes da Disney, ou todos em geral, essa forma ambivalente entre estimular a diversidade e ao mesmo tempo desestimular as diferenças. Do prédio de advogados da produtora, maior fonte de renda da atualidade (graças aos processos por direitos autorais), deve haver um andar dedicado para consultoria sobre esses temas "sensíveis". Ah, como é boa a liberdade artística de viver com sua própria mordaça de cores pastéis.
 
 # Merge de backups
-2024-01-28 computer
+2024-01-28 computer blog
 
 Resolvi acabar de vez com os backups independentes das inúmeras versões do blogue e juntar em um único histórico. Para isso recorri ao bom e velho merge clássico, apenas juntando linhas de história não-relacionadas.
 
@@ -88131,7 +88123,7 @@ git commit
 Por fim podemos apagar as branches de repos remotos, colocar tag nos merges feitos ou nenhum dos dois. A organização é sua. Todo o histórico está junto agora. Pode apagar os backups.
 
 # Corrigindo EPUB encoding
-2024-02-06 computer books
+2024-02-06 computer books blog
 
 Ontem baixei um livro do libgen.is em EPUB em inglês e ele estava legível mesmo com os sinais bizarros da língua inglesa, como asquelas aspas abre-e-fecha ou aquele travessão que era comum na época da datilografia como dois travessões unidos. No entanto, ao converter para Kindle com o kindlegen.exe tudo isso virou caracteres mais bizarros que um programador reconhece como UTF8 não-reconhecido pela máquina. Coisas como: €™, â€œ, â€™, â€œ.
 
@@ -88906,7 +88898,7 @@ O diretor [David Fincher] impressiona pela energia com que vai escalando as cena
 If I were to see it again and again, I might be able to extract an underlying logic from it, but the problem is, when a movie’s not worth seeing twice, it had better get the job done the first time through. Roger Ebert - Your Movie Sucks.
 
 # Tail recursion in loop while
-2024-04-15 computer english
+2024-04-15 computer english blog
 
 Interesting optimization of recursion using tail function. Consider this:
 
@@ -89800,7 +89792,7 @@ legacy_stdio_definitions.lib
 E tudo se resolveu =/
 
 # Alocação sem construção
-2024-06-11 computer
+2024-06-11 computer blog
 
 Meu amigo está mexendo com allocator e fez o seguinte teste, o que pode dar a ideia errada para o iniciante, porque testei aqui e deu tudo certo:
 
@@ -89986,7 +89978,7 @@ Ainda existe um certo charme no apelo fantástico e nas alusões à era medieval
 A única coisa desta desinteressante trama com pessoas impossíveis de serem reais é Simon Pegg ter pego seu personagem e transformado em uma quase caricatura do estereótipo do homem misterioso. Ele dialoga com ritmo e sarcasmo interno, trancado no subsolo da floresta em torno da mansão de uma família poderosa. Ao lado uma herdeira, Lily Collins pra lá de menininha perdida e birrenta que tem a impossível tarefa de nos convencer que é uma promotora pública de Nova Iorque. O máximo que ela consegue é ser uma riquinha mimada com dad issues.
 
 # Se não instanciou o template não tem nada de errado
-2024-07-03 computer ccpp
+2024-07-03 computer ccpp blog
 
 Considere este código:
 
@@ -90417,7 +90409,7 @@ Quando nos esforçamos para aprender algo novo uma nova conexão sináptica é c
 
 
 # Mock de Timer em Moq
-2024-07-17 computer
+2024-07-17 computer blog
 
 Acabou o dia e ainda não consegui terminar este mock dos infernos. Estou tentando criar o primeiro exemplo que usa dois wrappers nunca antes *mockados* (incluindo um timer), mas ficou faltando mockar o `System.Timer`. O teste já funciona, mas ele é obrigado a dar um *sleep* pra esperar o timer terminar.
 
@@ -90445,7 +90437,7 @@ Mockar o timer foi a primeira ideia que me deram no stack overflow. Podem haver 
 
 Daí eu achei um wrapper já no código e tentei modificá-lo, mas o evento contido no timer original não é acessível nem chamável e é preciso mexer nos paranauê do wrapper ou achar outro caminho.
 
-Uma ideia que meu amigo Fábio deu seria ser um timer genérico e implementar o comportamento em cima dele, mas isso eu já tenho no codebase. O wrapper pode ser usado para isso (ou uma cópia dele). Eu parei justamente nessa parte, mas escrever o código com o a biblioteca Moq é que é o parto. Seus exemplos são para usos comuns e aparentemente mockar um timer não é um uso comum.
+Uma ideia que meu amigo Fábio deu foi de um timer genérico a implementar o comportamento em cima dele, mas isso eu já tenho no codebase. O wrapper pode ser usado para isso (ou uma cópia dele). Eu parei justamente nessa parte, mas escrever o código com a biblioteca Moq é que é o parto. Seus exemplos são para usos comuns e aparentemente mockar um timer não é um uso comum.
 
 Esses resultados da internet me fazem pensar que estou indo no caminho errado (se não é comum, tá errado).
 
@@ -90830,7 +90822,7 @@ Existe um bug que considera slugs como globais, independente do capítulo (mês)
 Apenas após as variáveis renomeadas será possível reescrever o script para permitir a correção deste e outros bugs.
 
 # Dividindo o assembly para conquistar
-2024-08-23 computer
+2024-08-23 computer blog
 
 "Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas." Rene Descartes.
 
@@ -91006,7 +90998,7 @@ E com isso nascem e morrem as listas.
 # The AWK Programming Language (Alfred Aho)
 2024-09-14 books computer quotes
 
-Acabei de ler o The Awk Programming Language. Livraço. Impressionante a qualidade de escrita dos autores da época. É uma carta aberta de programadores para programadores.
+Acabei de ler o The Awk Programming Language. Livraço. Impressionante a qualidade de escrita dos autores da época. É uma carta aberta de programadores para programadores. Seguem recortes que fiz durante a leitura.
 
 Awk is useful for creating small tools and personal scripts that help you to automate repetitive tasks or to deal with some weirdly specific computation that you care about but no one else does.
 
@@ -91590,7 +91582,7 @@ Check all of the things that should be included in a diagram from an architectur
 Components communication. Non functional characteristics. Database access.
 
 # Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin aka Uncle Bob)
-2025-01-09 computer books quotes
+2025-01-09 computer books draft
 
 "A good architecture comes from understanding it more as a journey than as a destination."
 
