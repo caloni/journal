@@ -22526,6 +22526,8 @@ Vendo essas coisas fico imaginando como ainda tem gente que usa arquivos zip com
 # A Origem
 2010-08-06 cinema movies blog
 
+"Leonardo di Caprio e o icônico pião."
+
 O diretor e roteirista Christopher Nolan tem o dom de traduzir para o espectador as experiências de seus personagens na tela. Vimos isso em Amnésia com a montagem invertida fazendo o papel do protagonista que não consegue se lembrar o que estava fazendo cinco minutos atrás. Em O Grande Truque as trucagens do roteiro são tão ágeis que se assemelham a um número de mágica bem conduzido. E agora em A Origem participamos de um exercício narrativo que consegue unir todas as ideias modernas a respeito dos sonhos, mas que ao mesmo tempo se deixa levar pela metalinguagem e faz uma sutil homenagem ao próprio Cinema.
 
 A história gira em torno de Cobb (Leonardo DiCaprio), um espião que rouba informações sigilosas das pessoas diretamente em seus subconscientes através de uma nova tecnologia que permite o compartilhamento dos sonhos. Até que ele recebe a proposta de fazer exatamente o oposto: inserir uma ideia dentro do consciente da pessoa, algo muito mais difícil de se fazer e que exige adentrar em camadas mais inferiores ainda do ser. Esse "último trabalho" traria de volta sua família, pois ele conseguiria voltar para o país onde estão os seus filhos. No entanto, o fantasma das memórias de sua mulher morta serão um problema constante no decorrer da missão.
@@ -22583,6 +22585,8 @@ A resposta para esse enigma também contará pontos para nossa brincadeira com o
 
 # Superman: O Filme
 2010-08-12 cinema movies blog
+
+"Superman (Christopher Reeve) voando."
 
 Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que Superman: O Filme funciona bem exatamente pelo conjunto da obra. Amparado por convincentes e uníssonas interpretações, representa um mundo fantasioso vivido pelo homem de aço, não soa piegas ou exagerado como fosse de se supor, mas exala um certo tom cartunesco que soa correto ao material original, mantendo uma lenda épica dos quadrinhos ciente que não se pode levar a sério demais.
 
