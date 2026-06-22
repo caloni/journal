@@ -21262,7 +21262,7 @@ O Cinema se construiu como parte integrante da era industrial, consequência qua
 
 Para que tudo isso faça sentido é vital que as pessoas assistam cada vez mais e mais filmes, pois apenas pela prática poderemos atingir a excelência em algo na vida. Porém, diferente de consumidores passivos, que deixam seu cérebro em uma tigela enquanto mastigam pipocas como zumbis observando a historinha que é colocada na sala escura cada vez mais cheia de pequenas telas dos celulares dos outros tipos de zumbis, é imperativo que usemos o cérebro e nossa mente como ferramentas de análise crítica do que nos é imposto pela mágica da projeção em 24 (ou 48) fps. Não aguentaremos mais os velhos formatos de uma mídia enlatada se conseguirmos projetar como consumidores ativos para quais tipos de obras dedicaremos nosso tempo e suado dinheirinho.
 
-# Homem de Ferro 2 (Jon Favreau, 2010)
+# Homem de Ferro 2
 2010-04-03 cinema movies
 
 Se a primeira aventura do até então desconhecido Homem de Ferro impressionou o público, a crítica e a própria Marvel, essa continuação morna é a consolidação de Tony Stark como garoto-propaganda dessa fase. Não só isso, mas serve como o gancho que os produtores precisavam para inserir novos personagens secundários que serão mais ou menos relevantes na teia de eventos (ou colcha de retalhos) criada em torno da tão esperada estreia de Os Vingadores, filme que pretende unir uma série de heróis que terão cada um seus trabalhos solo. Uma aposta inédita que parece ter ganhado força justamente por conta da atuação surpreendente de Robert Downey Jr.
@@ -21321,7 +21321,7 @@ But of course all this work would be useless if we had to (sigh) open the Projec
 
 After I researched all this, I just found out the Project won't be necessary anymore. Lucky me. Now, if you don't have such luck, you can use this post =)
 
-# Mary e Max - Uma Amizade Diferente (Adam Elliot, 2009)
+# Mary e Max - Uma Amizade Diferente
 2010-04-16 cinema movies
 
 Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?
@@ -21821,7 +21821,7 @@ union Atoms { struct { int part1; int part2; } parts; int64 total; };
 
 Aqui não é um compêndio teórico sobre a linguagem. Vamos falar particularmente da programação Windows, mas esteja livre para dar seus pitacos com respeito a outros sistemas operacionais e suas implementações igualmente exdrúxulas =)
 
-# O Escritor Fantasma (Roman Polanski, 2010)
+# O Escritor Fantasma
 2010-05-28 cinema movies
 
 Nos leva a desvendar o mistério da trama recriando-o gradualmente em uma série de passos sutis, mas consistentes, que revelam em seu momento final um mosaico diferente na mente de cada espectador.
@@ -22126,12 +22126,12 @@ const volatile int* g_systemClock = (const volatile int*) 0x7689B9D4;
 A definição de *g_systemClock é de uma memória que não pode ser alterada; só que ela é, pelo sistema. Então a variável também é volatile. No entanto, independente de ser const ou volatile, o tipo nunca será alterado, apenas qualificado. São duas coisas diferentes na linguagem.
 
 
-# O Golpista do Ano (Glenn Ficarra, John Requa, 2009)
+# O Golpista do Ano
 2010-06-04 cinema movies
 
 Personagens que acompanham as personas dos atores, mas desafiam a realidade dos eventos. A vida real desses três sujeitos é uma comédia, mas definitivamente eles possuíam poucos momentos para rir de si mesmos.
 
-# Almas à Venda (Sophie Barthes, 2009)
+# Almas à Venda
 2010-06-09 cinema movies
 
 Esse filme escrito e dirigido pela estreante Sophie Barthes tenta usar o conceito de alma mais ou menos como um órgão transplantado, mas muito mais flexível, já que é possível usar a alma de outras pessoas para potencializar áreas na vida em que se é um zero à esquerda. Aí é que entra Paul Giamatti que interpreta... Paul Giamatti! Ele está com problemas com uma nova peça e resolve trocar de alma por uma que seja compatível com o personagem que tenta interpretar.
@@ -22607,7 +22607,7 @@ Olhe atentamente para Clark Kent e me diga o seguinte: mesmo sabendo que ele é 
 Em contraparte, não há como negar os esforços do diretor Richard Donner em tentar tornar as cenas de voo (a chamada principal para o filme na época era "Você vai acreditar que o homem pode voar") e torná-las leves e poéticas. É um marco nos efeitos visuais, mesmo hoje tendo sido ultrapassado. Já a lenda, essa parece que está longe de o ser.
 
 
-# Os Mercenários (Sylvester Stallone, 2010)
+# Os Mercenários
 2010-08-13 cinema movies
 
 Usando uma steady cam e iniciando no tom de documentário, Os Mercenários traz uma gangue de atores milionários que, em seus devidos personagens unidimensionais, fazem operações de guerra por uns trocados. A primeira cena, aliás, resume bem o que teremos no resto das cenas de ação: muito sangue. Tanto sangue que, no início, vemos o resto da matança através de uma lente de visão noturno, para não afastar de imediato o espectador que ainda verá muitas cabeças explodindo e corpos rolando.
@@ -22912,7 +22912,7 @@ E se enquanto somos infestados com piadinhas de gosto duvidoso e caricaturas que
 
 Por fim, uma conclusão óbvia e bobinha (os dois se reencontram onde ela gostaria de morar, nas montanhas), mas que não tira o mérito de termos experimentado uma história um pouco mais realista que uma comédia comum.
 
-# Kill Bill (Quentin Tarantino, 2003)
+# Kill Bill
 2010-09-09 cinema movies
 
 Não é preciso dizer que Quentin Tarantino é um diretor pop e cult, e uma coisa o levou à outra. Também não é preciso dizer o quanto filmes de artes marciais são um pedaço importantíssimo na cultura pop/"trash" dos anos 70 e 80. Se juntarmos esses dois universos teremos Kill Bill, um filme feito para ser um só, mas que por motivos comerciais acabou inchando e dividindo-se.
@@ -22929,7 +22929,7 @@ A grande sequência do filme, apesar de artificial e soar sem propósito, possui
 
 Infelizmente, por ordens comerciais, o filme foi mutilado em dois e lançado em um espaço de meses no cinema. Isso torna a experiência frustrante, mas não o filme, se visto como um todo.
 
-# Moscou Bélgica (Christophe Van Rompaey, 2008)
+# Moscou Bélgica
 2010-09-24 cinema movies
 
 Essa é uma "comédia romântica" dramática que conta a história de uma mulher recém-separada que quer viver uma vida normal, mas bate o carro em um caminhão e conhece um italiano charmoso que a convida para sair. O resto é passado em uma longa história onde veremos, com nossos olhos incrédulos, a maneira deliciosa que a narrativa nos conta a evolução daquela mulher recém-separada que está literalmente acabada na primeira cena, no corredor escuro e fechado, com a câmera mais alta, fazendo compras no supermercado, e a outra, radiante, caminhando em direção ao nascer do sol do lado dos trilhos, abertos e livres.
@@ -23024,7 +23024,7 @@ A situação é tão inverossímil que na luta final entre Seagal e Machete as s
 
 No final ainda dá indícios (mesmo que cômicos) de ter duas continuações. Tomara que não.
 
-# Curva do Destino (Edgar G. Ulmer, 1945)
+# Curva do Destino
 2010-10-13 cinema movies
 
 A história de um homem que busca se encontrar com sua mulher que está do outro lado do país. Para isso ele vai de carona em carona, de NY para LA. No caminho, encontra um homem que morre no carro. Esconde o corpo e encontra uma mulher que se envolveu com ele no caminho, também pedindo carona. Chegando a Hollywood descobrem que o pai do sujeito, milionário, morreu, deixando toda sua fortuna para o filho. Enquanto ela tenta convencê-lo a fingir ser o herdeiro, ele acidentalmente a mata com o fio do telefone. Deixando esse passado para trás, o nosso protagonista vaga sem destino, apenas esperando o momento em que será preso, por nenhuma razão.
@@ -23066,7 +23066,7 @@ O primeiro depoimento é de uma moradora de um edifício no meio de uma região 
 
 No entanto, a história é sobre a vida moderna, e voltamos à questão quando assistimos do ponto de vista do lenhador a noção de que essa maneira de viver do "sempre mais" está nos levando a um sistema insustentável, como muitos de nós sabemos. De acordo com suas palavras, hoje em dia corta-se cem vezes mais árvores e em pouquíssimo tempo uma árvore que demorou 100 anos para crescer é derrubada. Todos os dias, em seu trator que arrasta os pedaços de madeira ele pensa em uma maneira sustentável de continuar cortando lenha, e em sua filosofia final, não vê direito de cobrar os outros por uma solução se ele próprio não a tem.
 
-# Bróder (Jeferson De, 2010)
+# Bróder
 2010-10-26 mostrasp cinema movies
 
 A história do estreante diretor Jeferson De, cuja sessão em que estava presente tive o privilégio de participar, inicia com uma grande sequência sem cortes em que Macu desce a ladeira de sua casa pelos becos e ruas do bairro; uma cena que, além de nos mostrar o nível de intimidade do protagonista com seus vizinhos, ainda dá uma ideia muito boa da extensão desse ambiente. A música de abertura, inicialmente não fazendo parte do ambiente, se transforma em música de rádio. Podemos ver essa brincadeira acontecer em quase toda a trilha sonora, que corajosamente escolhe não salpicar as cenas de música, criando tensão em várias cenas simplesmente por diálogos exaltados e movimentos de câmera.
@@ -23315,7 +23315,7 @@ int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
 Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!
 
 
-# O Mágico (Sylvain Chomet, 2010)
+# O Mágico
 2010-10-27 mostrasp cinema movies
 
 Esse é o novo longa de Sylvain Chomet, o mesmo diretor de "As Bicicletas de Belleville". Foi baseado em um roteiro de Jacques Tati (do filme Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.
@@ -23328,7 +23328,7 @@ Ultrapassados por bandinhas de rock recém-chegadas (como demonstrado de forma h
 
 Mas é injusto comparar a complexidade dos estereótipos criados em Bicicletas com madame Souza, as trigêmeas, o próprio Champion e até o cachorro! Porém, mesmo nos mantendo no universo de O Mágico, do segundo para o terceiro ato vamos perdendo esse deslumbramento e aos poucos perdemos o sentido de estarmos ali assistindo à vida desses personagens, pois já não importa mais. Tudo começa a ficar confuso, pois já não nos interessamos mais pelos personagens que no início nos encantamos. E isso talvez seja, ou não, o reflexo do próprio mágico que as pessoas já não querem mais.
 
-# A Suprema Felicidade (Arnaldo Jabor, 2010)
+# A Suprema Felicidade
 2010-10-29 mostrasp cinema movies
 
 [Baarìa - A Porta do Vento], trabalho mais pessoal de Giuseppe Tornatore (Cinema Paradiso), é uma superprodução que tem como característica marcante não definir um foco específico ao contar sua história. Disposto a tornar a Baarìa do título, um vilarejo no interior da Itália, protagonista de tudo que aconteceu no país ao longo de décadas de história, Tornatore sacrifica a clareza narrativa em prol de um bem maior: a absurdamente estonteante rima final, que torna o seu filme, como um todo, uma experiência única e inesperada.
@@ -23349,7 +23349,7 @@ Porém, mesmo a história principal, do casal apaixonado que forma uma família 
 
 Mesmo com todos seus defeitos narrativos, A Suprema Felicidade poderia muito bem ter sido uma Baarìa nacional, representando no Rio de Janeiro o coração de todos os habitantes do Brasil. Infelizmente, para Jabor, nada restou para unir suas pontas, e a rima final de Tornatore faz a falta merecida em uma conclusão que desmerece em muito todas as belíssimas construções artísticas que vimos durante a projeção.
 
-# Cargo (Ivan Engler, Ralph Etter, 2009)
+# Cargo
 2010-11-01 mostrasp cinema movies
 
 Se fosse resumir essa ficção-científica, diria que ela começa como Aliens - O Resgate e termina como Matrix. De fato, muitas características do longa nos lembra esses dois filmes. Porém, longe de se igualar em qualidade narrativa, este cai no lugar comum de passeios contemplativos pelo cenário com trilhas sonoras igualmente batidas.
@@ -23621,7 +23621,7 @@ Uma câmera gira em torno do sofá, mostrando as cinzas de um cigarro que não f
 
 Um filme para degustar com os olhos e ouvidos sintonizados.
 
-# Atividade Paranormal 2 (Tod Williams, 2010)
+# Atividade Paranormal 2
 2010-11-07 cinema movies
 
 Assim como o primeiro filme, essa continuação tenta passar a impressão documental através de uma mensagem da produtora agradecendo os envolvidos pelas cenas que veremos a seguir. Apesar desse aviso deixar sua devida pulga na orelha, não é uma solução que por si só baste, dependendo principalmente da competência da narrativa em introduzir a sensação de que o que estamos vendo são filmagens realizadas de forma caseira e que relatam acontecimentos verdadeiramente inexplicáveis.
@@ -23874,7 +23874,7 @@ Visualmente porque por boa parte da história temos paisagens grandiosas onde os
 
 Uma coisa que logo salta aos olhos é o ambiente sombrio de todos os quadros, fechado em si mesmo, como uma névoa que se nega a exaurir, fruto da combinação exata entre a fotografia de pouca iluminação e da paleta pálida de cores usada pela direção de arte. Considerando o clima da história nesse momento, a escolha é com certeza correta, pois mais uma vez reforça o contraste com o que havia na primeira metade dessa longa história dividida em oito partes.
 
-# Um Homem Misterioso (Anton Corbijn, 2010)
+# Um Homem Misterioso
 2010-11-19 cinema movies
 
 A quebra inicial do filme de romance com o casal juntos no quarto, íntimos, e o tiro que ele dá na cabeça da amante, além de impactante, dá o tom exato da vida desse homem do título, que deve sempre se manter fechado a relacionamentos. Cortes rápidos nas cenas de tiro, como o corte dele atirando no segundo sueco que aparece no filme, pelas costas, ou ele virando para atirar no seu contratante, essa cena sem corte. Sem contar as inúmeras vezes em que a neurose do personagem é transmitida diretamente para nós, como na cena da vespa estourando o escapamento, ou o livro caindo da cama no meio da noite, e até mesmo os pés do personagem no escuro, com ele deitado, deixam o espectador sempre em constante tensão. O primeiro diálogo com o padre, sobre o fato dele ser americano e fazer questão de esquecer o passado e tentar viver no presente, é emblemático e tão bem colocado, por possuir um significado oculto, que parece até feito de mentira. Mas convence.
@@ -23885,7 +23885,7 @@ O filme é criado a partir de pequenas cenas e diálogos que juntas dão pistas 
 
 E, finalmente livre, ele consegue chegar no rio, onde sua amada o espera, e lá padece; o último corte chega a ser poético, pois foca, mas bem de leve, a borboleta de outra cena subindo no céu.
 
-# Muita Calma Nessa Hora (Felipe Joffily, 2010)
+# Muita Calma Nessa Hora
 2010-11-20 cinema movies
 
 Mari é constantemente assediada por seu chefe na agência publicitária onde trabalha; cansada de ser confundida com uma mulher fácil, decide não ficar mais com homem nenhum. Tita é a mulher certinha, virgem de um homem só (o marido), mas que encontra seu noivo com outra em seu apartamento e, desacreditada, decide esquecer esse negócio de monogamia e partir pra tirar o atraso. Aninha, uma eterna indecisa, já trancou sete vezes a faculdade por nunca ter certeza do que quer fazer; sim, ela concorda com ambas as amigas; ao mesmo tempo.
@@ -23902,7 +23902,7 @@ Se, por um lado, é possível dar boas risadas com as situações e piadas criad
 
 E se não existe essa necessidade de dramatizar uma comédia despretensiosa, pra que se preocupar? O bom mesmo é rir e se divertir com as partes boas, e deixar todo esse lero-lero de pseudo-conflitos existenciais no saquinho de pipoca.
 
-# O Encouraçado Potemkin (Sergei Eisenstein, 1925)
+# O Encouraçado Potemkin
 2010-11-20 cinema movies
 
 Esse é um dos filmes de Eisenstein, propagandista soviético, e que exalta a força do povo quando ele se une contra a opressão czarista. A revolta começa em um navio, e aos poucos se espalha para toda a população. A intensidade com que a ação é filmada faz o filme de ficção se confundir com um documentário em tempo real.
@@ -23915,7 +23915,7 @@ E a cena da escadaria, como não poderia deixar de ser, é belíssima por resumi
 Trilha sonora que nos remete a um solene faroeste, e apesar de não ser um filme desse gênero, o ambiente sem lei que Chicago aparenta torna mais do que adequada a escolha. Com paisagens largas e esbeltas, a fotografia sempre impressiona pelas cores límpidas e cristalinas, criadas para um épico. A cena da escadaria é, além de uma homenagem a Eiseinsten, que fez a sequência em que ela é inspirada em "O Encouraçado Potemkin", cria outra belíssima, memorável, cena.
 
 
-# Senna (Asif Kapadia, 2010)
+# Senna
 2010-11-26 cinema movies
 
 De que são feitos os heróis? Como uma pessoa cresce internamente e transparece externamente, para o resto do mundo, como alguém que faz a diferença? Digo isso tanto pelo lado profissional quanto pelo lado moral, que inspira as pessoas.
@@ -24017,7 +24017,7 @@ Tizuka Yamasaki está acostumada a realizar trabalhos "globais" como O Noviço R
 
 A trilha sonora, especialmente a de abertura e de fechamento (Ave Maria), são um grande ponto a favor, pois a despeito de ser usado em duas de três produções atuais, nessa em específico participa de uma forma folclórica na história, contemplativa. Indo pelo mesmo caminho, as imagens da Basílica de São Pedro são evocativas de uma época mais ingênua, além de servir de ótimo gancho turístico. Não se pode dizer o mesmo do playback do filme, que está em péssimas condições, parecendo uma dublagem do som dos próprios atores, além da interpretação do filho de Marcos.
 
-# A Ilha dos Mortos (George A. Romero, 2009)
+# A Ilha dos Mortos
 2010-12-20 cinema movies
 
 Em uma introdução ultra-rápida em off temos o cenário e o resumo do que irá acontecer durante o filme inteiro, em uma síntese cuja forma também será usada por toda a história, mostrando a segurança de Romero em estabelecer as ligações primordiais e avançar ideologicamente em pontos mais aprofundados do tema "mortos-vivos".
@@ -24085,7 +24085,7 @@ Scola sempre usa o melhor quadro para mostrar a ação. Em visita ao seu concorr
 
 Por fim, quando o quadro final está completo, com a despedida da família judia, o último quadro é de um menino no meio da rua, vestido com camisas listradas, olhando para o vazio: uma vez que você toma óleo de bacalhau junto com uma pessoa, ela se torna seu amigo para sempre.
 
-# Fôlego (Kim Ki-duk, 2007)
+# Fôlego
 2020-06-12 cinema movies
 
 Em um período mais inocente da minha vida de cinéfilo Kim Ki Duk estava entre os poucos dos meus diretores favoritos, em uma lista que hoje em dia está esparsa demais para fazer algum sentido. Mas o diretor coreano continua sendo para mim um exemplo de contar histórias que chamam a atenção do seu público, sempre utilizando o chamariz das situações bizarras que nos prendem e nos impedem de desgrudar os olhos da tela até o final do filme.
@@ -24136,7 +24136,7 @@ Embora ou por causa de nunca revelar a estratégia de Bazil por completo, a hist
 
 A capacidade do filme de entreter é tanta que até nos esquecemos do real objetivo do herói, o que pode soar preocupante pois existe drama em sua história. Só que em vez de drama o que vemos são exercícios de relaxamento quando ele, ansioso, parece perder a respiração, e que mais uma vez inevitavelmente relembram a figura idealista de Amélie Poulain, principalmente por estarem esses inseridos como mera curiosidade, sem conexão com o que está ocorrendo na tela.
 
-# Primavera, Verão, Outono, Inverno... e Primavera (Kim Ki-duk, 2003)
+# Primavera, Verão, Outono, Inverno... e Primavera
 2010-12-20 cinema movies
 
 Este é o filme mais poderoso do diretor e roteirista Kim Ki Duk e ele é o único cineasta capaz de contar essa história sem resistir à tentação das respostas fáceis. Enquanto outros dos seus filmes -- Casa Vazia, Fôlego, Time, Pietá -- apresentam um conceito-chave que será explorado à exaustão até nos darmos por rendidos e aceitarmos aquele novo escopo de sentimentos, em "Primavera, Verão" não existe novidade, e o que nos prende durante e após o filme é a nossa tentativa fugaz de captar algum significado. Este é um filme simples, mas que você precisa interpretar. E no preciso momento em que o estiver vendo saberá do que se trata, mesmo que ninguém diga isso verbalmente. Palavras são inúteis frente a imagens poderosas. Simples, mas poderosas.
@@ -24251,7 +24251,7 @@ Seguem minhas anotações quando o assisti quando estudava para ser crítico (po
 
 - No final, temos a sensação de algo muito deprimente. Talvez o efeito do filme como um todo seja de fato o efeito que o café e os cigarros fazem em nossa vida. Eles vão e vêm, passam despercebidos, mas possuem importantes mensagens de vida e morte.
 
-# Três Homens em Conflito (Sergio Leone, 1966)
+# Três Homens em Conflito
 2010-12-20 cinema movies
 
 Esse faroeste de Leone foi narrado em um contexto histórico e, por isso mesmo, com muitas pitadas de realismo nas cenas, mesmo com os absurdos hilários a que estamos acostumados em filmes do gênero. Nesse longa de quase três horas de duração teremos três pistoleiros decididos a encontrar uma fortuna escondida, mas para isso terão que passar por várias provações na época da guerra da Sessesão.
@@ -24290,7 +24290,7 @@ Exemplo de diálogo brilhante: "Existem dois tipos de homens neste mundo meu ami
 
 O enquadramento da forca, quando Tuco olha para cima, é hilária e simples, pois coloca a cabeça de Tuco já dentro da corda.
 
-# Um Dia Muito Especial (Ettore Scola, 1977)
+# Um Dia Muito Especial
 2010-12-20 cinema movies
 
 Um drama de um relacionamento de um dia entre uma dona-de-casa e seu vizinho homossexual que mostra de diversas formas como a Itália fascista estava se transformando. O dia em questão calha com a visita de Hitler à Roma. O filme conta com Sophia Loren e Marcelo Mastroiana nos papéis principais, e é dirigido por Ettore Scola.
@@ -24326,7 +24326,7 @@ Pra terminar, um apanhado de boas práticas e  a experiência de quem já mexeu
 
 Deixarei disponibilizado para download minha transparência, onde infelizmente não estão embutidos o áudio nem o vídeo do momento realmente importante,que foi a interação do grupo durante a apresentação. Se você perdeu, so sorry. Até a próxima!
 
-# O Concerto (Radu Mihaileanu, 2009)
+# O Concerto
 2010-12-24 cinema movies
 
 Trama principal: o próprio concerto; trama secundária: a relação de Andrey e sua solista, Anne-Marie.
@@ -24427,7 +24427,7 @@ Terminado o trabalho naquela máquina, geralmente gero um branch novo (para limp
 "Commit no server"
 
 
-# De Pernas pro Ar (Roberto Santucci, 2010)
+# De Pernas pro Ar
 2010-12-30 cinema movies
 
 Alice é uma mulher que se dedica inteiramente ao trabalho. Boa parte do tempo a vemos usando seu celular e seu notebook. Apesar de excelente profissional, ela ignora sua família, cuidando dos afazeres caseiros e profissionais como se fizessem parte de uma mesma agenda. A triste consequência é que, apesar de terem uma vida invejável de classe média alta, ela acaba conhecendo pouco de seu próprio filho e quase não nota a existência do marido, que aparece distante em sua vida (sua cara de fato não aparece no início do filme).
@@ -24438,7 +24438,7 @@ Escrito por Marcelo Saback (Divã) e Paulo Cursino, a "escalada" de Alice rumo �
 
 Com uma história coerente em sua introdução e conclusão, mesmo com seu formato enlatado do subgênero "comédias de situação com conotações sexuais", possui um ritmo agradável e piadas que funcionam a maior parte do tempo, graças à presença de espírito de Ingrid Guimarães, que constrói uma personagem simplista e eficaz. E mesmo que Alice não tenha qualidades memoráveis que que a tornem mais palpável, sua divertida participação faz jus a esse projeto.
 
-# Elsa e Fred (Marcos Carnevale, 2005)
+# Elsa e Fred
 2010-12-30 cinema movies
 
 A noção de felicidade na sociedade atual acaba a tornando inalcançável. Quanto mais busca-se o mundo ideal, mais perde-se a satisfação do real. Sendo assim, é difícil não se emocionar com a praticidade de Elsa, uma mulher em torno dos seus 80 anos bem vividos que só tem um desejo em mente e que o coloca em prática o mais rápido possível: viver mais, não importando os defeitos e os obstáculos que o mundo real lhe apresenta.
@@ -24711,7 +24711,7 @@ O que eu adicionaria na lista? Séries de investigação criminal e médica:
 Fora isso, curta o que está fazendo. Isso é o primordial. Arrebenta com qualquer dúvida que tiver sobre estar no caminho certo.
 
 
-# Incontrolável (Tony Scott, 2010)
+# Incontrolável
 2011-01-19 cinema movies
 
 Ontem fui ver o novo filme de ação de Denzel Washington. É sobre um trem desgovernado e os esforços para segurar o bicho antes que ele destrua alguma coisa. Confesso que fiquei impressionado com a atuação acima de Denzel no papel de Frank, um condutor de trens de carga que trabalhou a vida toda nisso. Seu sotaque e seus gestos condizem de alguma forma com o personagem, enquanto seu companheiro de viagem Will (Chris Pine) fica com seus dramazinhos de família tão bobinhos que passam despercebidos.
@@ -24722,7 +24722,7 @@ Já o que realmente faz o filme funcionar são as cenas de ação do último ato
 
 Uma experiência interessante, se você não se importar em esquecer do enredo assim que se levantar da cadeira do cinema.
 
-# Garotas do Calendário (Nigel Cole, 2003)
+# Garotas do Calendário
 2011-01-27 cinema movies
 
 Chegando em casa, a Net Movies pegou o denso Munique e deixou no lugar Garotas do Calendário. Triste troca. Uma história que tem como centro um vilarejo na inglaterra em que senhoras de meia-idade posam nus artísticos para um calendário a fim de angariar fundos de caridade mereceria um pano de fundo mais bem tratado. No entanto, o que vemos é uma sucessão de pequenos conflitos que são logo resolvidos e nunca ocupam muito espaço na tela, impossibilitando até mesmo a caracterização das personagens. Onde fica até difícil reconhecer um pouco de ação (como a briga no Conselho das Mulheres que acaba sendo resolvido de forma tão insossa quanto começara) também é difícil reconhecer seu desenlace e a consequente satisfação. Infelizmente, o filme parece realmente ter um ano de duração.
@@ -24749,7 +24749,7 @@ Com muitos diálogos e pouco movimento, a história se desenvolve em cima das de
 
 Com dois momentos de tensão não muito arrebatadores, somos levados à conclusão da história sob o mesmo clima de desilusão, sendo que, no final das contas, o filme é deprimente do começo ao fim.
 
-# Lixo Extraordinário (Lucy Walker, Karen Harley, João Jardim, 2010)
+# Lixo Extraordinário
 2011-01-30 cinema movies
 
 O início e no programa do Jô possui um sentido maior por causa da mensagem de que, no final, o lixo de todas as pessoas que assistem a televisão vai parar no mesmo lugar?
@@ -24788,7 +24788,7 @@ Jake Gyllenhaal mostra que não sabe apenas fazer um romance caubói gay. Em um 
 
 Com o uso eficiente das câmeras (em planos abertos que vão se fechando conforme a intimidade do casal principal aumenta) e da própria narrativa (note como o contraponto do irmão de Jamie, alívio cômico, não interfere nas cenas), o filme ainda discute um pouco da venda de remédios da felicidade (Prozac) e do próprio prazer sexual (Viagra), e tenta inseri-los na trama com algum sucesso, mas ainda voa baixo perto do esplêndido O Amor não tem Escalas.
 
-# Caça às Bruxas (Dominic Sena, 2011)
+# Caça às Bruxas
 2011-02-05 cinema movies
 
 Nicholas Cage estreia mais um filme com feitiçarias. Depois do inofensivo Aprendiz de Feiticeiro, podemos considerar Caça como uma versão inserida histórica e politicamente em um contexto mais sério: a campanha das Cruzadas da época medieval e o extermínio de centenas (milhares?) de mulheres acusadas de bruxaria, enquanto a famigerada Peste matava 75% da população.
@@ -24855,7 +24855,7 @@ Se começa com uma introdução forte, o fato é que todo o resto é uma tentati
 
 Como se não bastasse, ainda precisamos ir e voltar no tempo para entendermos as consequências dos atos passados na relação entre as pessoas daquela família no presente.
 
-# Deixe-me Entrar (Matt Reeves, 2010)
+# Deixe-me Entrar
 2011-02-17 cinema movies
 
 Apesar de ser um remake, e os diálogos, os cenários e muitos ângulos se assemelharem ao original sueco de 2008, o filme estabelece seu próprio estilo baseado principalmente na trilha sonora, na fotografia e na maneira peculiar do diretor Matt Reeves contar um romance-terror entre dois jovens. Eu diria mais: o filme, do ponto de vista estético, empolga em um nível suficiente para renovar o defasado gênero de terror.
@@ -24879,7 +24879,7 @@ Apesar de atuações promissoras de Alain Chabat e Charlotte Gaingsbourg, o long
 
 Com muitos erros de continuidade no ritmo da narrativa (além de deslizes bobos como a cena do decote), a situação fica ainda um pouco pior. De qualquer forma, é um filme que ganha pontos nos ótimos diálogos e em atuações competentes.
 
-# O Turista (Florian Henckel von Donnersmarck, 2010)
+# O Turista
 2011-02-20 cinema movies
 
 Há filmes que enriquecem ainda mais em uma revisita (O Sexto Sentido, Donnie Darko, Cidade dos Sonhos). Porém, ter um segredo final que pode mudar tudo o que vínhamos assistindo desde o início nem sempre se revela uma boa ideia (Os Esquecidos, A Caixa, A Passagem). Infelizmente, O Turista se encaixa nessa segunda situação.
@@ -24890,14 +24890,14 @@ Ponto fraco: história que desaba em uma revisita, ainda que mentalmente, depois
 
 Ponto forte: Angeline Jolie.
 
-# Simplesmente Feliz (Mike Leigh, 2008)
+# Simplesmente Feliz
 2011-02-20 cinema movies
 
 Personagem carismática, a professora de primário Poppy faz de tudo para fazer as outras pessoas felizes e faz todo o tipo de piada e gracinha porque ela mesma deseja estar feliz o tempo todo. Morando aos 30 anos com uma amiga de longa data, ela renega os padrões convencionais que determinam o que seria uma vida feliz: casar, ter filhos, etc. Mais importante do que isso é tentar sempre melhorar o dia, nem que isso custe se aventurar pela discrição e mau humor das pessoas londrinas.
 
 Aparentemente, a ideia do longa era passar o valor de toda essa felicidade através da carismática Sally Hawkins, que aqui constrói uma personagem simpática no sentido mais literal do termo. Porém, nem só de boas intenções vive um filme, e a narrativa, apesar de muito frutífera em combinações de história e construção do ritmo do dia a dia de Poppy, se esvai por falta de alguma motivação mais palpável ou até de algum conflito que estabeleça algo para onde o espectador deva olhar.
 
-# 127 Horas (Danny Boyle, 2010)
+# 127 Horas
 2011-02-23 cinema movies
 
 Com uma introdução em tela cortada em três partes, mostrando diversos cenários que evocam o dia a dia das pessoas e, principalmente, a correria dessas pessoas para quem o tempo é um bem cada vez mais escasso, o novo longa de Danny Boyle (Quem Quer Ser Um Milionário?) nos apresenta Aaron, sem muita distinção do resto da multidão. Na verdade, ele não é muito diferente de nenhum de nós.
@@ -24918,7 +24918,7 @@ Por fim, com o uso das habilidosas expressões de James Franco, que consegue tra
 
 É nessa hora que a sensibilidade de direção consegue tornar um final que poderia ser enfadonho, mas necessário, em um desabafo silencioso, deflagrado pela mudança de tom na trilha sonora e planos mais abertos, que acompanha os últimos passos do herói de uma maneira mais que adequada: simbólica.
 
-# Cisne Negro (Darren Aronofsky, 2010)
+# Cisne Negro
 2011-02-23 cinema movies
 
 Nina é uma dançarina de balé que, assim como muitas, devota toda sua vida a essa arte. Perfeccionista ao extremo e apoiada pela mãe controladora, ela está prestes a participar da escolha de quem será a nova protagonista de uma nova versão do clássico O Lago dos Cisnes, dirigida pelo seu controverso diretor Thomas Leroy (Cassel).
@@ -25093,7 +25093,7 @@ Esse padrão de codificação se chama Base64. Se quiser mais detalhes, basta le
 Agora, como codificar essa solução? Só entendendo o básico, é claro.
 
 
-# Esposa de Mentirinha (Dennis Dugan, 2011)
+# Esposa de Mentirinha
 2011-03-09 cinema movies
 
 "(...) o filme se baseie provavelmente em um fim-de-semana que ele mesmo tirou com seus amigos (...)"
@@ -25108,7 +25108,7 @@ O que mais impressiona nesse novo filme é o número de tiradas feitas sobre o f
 
 Com a participação de Jenifer Aniston como sua secretária, é possível comparar o abismo que existe no carisma e na interpretação dessa com a empatia limitada de Sandler. A primeira cena onde marido, "mulher" e "amante" se encontram é icônica nesse sentido.
 
-# Gnomeu e Julieta (Kelly Asbury, 2011)
+# Gnomeu e Julieta
 2011-03-10 cinema movies
 
 Como diz a introdução dessa nova animação, a história que será contada já foi contada várias vezes. Porém, e continua a introdução, nunca foi contada da maneira que será nesse filme. É uma pena, portanto, constatar que a única coisa que muda nessa recriação de fato são a técnica (animação) e o apelo infantil (gnomos de jardim). Porém, pior do que isso, esse "remake" chega à proeza de tornar enfadonho acompanhar uma das mais populares histórias de William Shakespeare.
@@ -25173,7 +25173,7 @@ Além da história sofrer com um roteiro tão confuso quanto o mapa da cidade, a
 
 Por fim, pagando o preço por não ter desenvolvido seus unidimensionais personagens, o que vemos na conclusão não chega nem perto de fechar um ciclo de mistério; no máximo, nos deixa levemente surpresos e angustiados por, talvez, quem sabe, uma terrível continuação.
 
-# Bruna Surfistinha (Marcus Baldini, 2011)
+# Bruna Surfistinha
 2011-03-15 cinema movies
 
 Observação de 2026-03-13: para quem nunca me viu sob outras influências, eu estava moralista assim quando comecei a escrever sobre cinema. E falando sobre pxxx crítica social. Felizmente o tempo passa, o tempo voa...
@@ -25208,7 +25208,7 @@ Nem tanto. O multithreading de um sistema operacional está aí pra isso. O que 
 
 Mas confesso que, de vez em quando, depurar múltiplas threads fica parecendo coisa de maluco.
 
-# Os Fantasmas de Scrooge (Robert Zemeckis, 2009)
+# Os Fantasmas de Scrooge
 2011-03-21 cinema movies
 
 Jim Carrey em Motion Capture é, em poucas palavras, inusitadamente fabuloso. O trabalho feito em seu personagem, protagonista do clássico conto de Charles Dickens, que se mantém homônimo no título original, é, de longe, um trabalho rebuscado tanto nas expressões quanto nos movimentos do boneco através dos cenários igualmente trabalhados à exaustão.
@@ -25219,7 +25219,7 @@ Para os fãs do livro, a caracterização das cenas não perde em nada no aspect
 
 É uma pena, porém, que as cenas do primeiro espírito sejam sufocadas pelo final romantizado e simplificado.
 
-# Sexo Sem Compromisso (Ivan Reitman, 2011)
+# Sexo Sem Compromisso
 2011-03-21 cinema movies
 
 Seguindo a tendência libertária de nossas relações sociais, que "evoluíram" sensivelmente nos últimos dez anos, "Sexo sem Compromisso" adota como pano de fundo a moderna relação de "amigos com benefícios", ou seja, o que o título do filme de fato sugere.
@@ -25312,7 +25312,7 @@ No caso de Arca Russa, perdoem-me os críticos de verdade, apenas o primeiro ele
 
 Atrevo-me, até, a tentar ver mais vezes esse delírio cinematográfico contado em forma de sonho.
 
-# Atividade Paranormal Tóquio (Toshikazu Nagae, 2010)
+# Atividade Paranormal Tóquio
 2011-03-28 cinema movies
 
 Verdade seja dita: os asiáticos sabem fazer terror como nunca.
@@ -25382,7 +25382,7 @@ A economia narrativa do final acaba superando o do próprio filme, quando vemos 
 
 Para os que acham que o filme é lento e contém partes desnecessárias de sua história que nada contribuem para o último e derradeiro relacionamento de Barney, sugiro assistirem de novo, mas dessa vez enfocando em como é possível que um ser humano se dedique tanto a conseguir algo por tanto tempo, e o que fez desse homem um ser tão obstinado por algo? Então verá que cada elemento da história inicial compõe a psique do protagonista, o que nos faz entender suas ações antes mesmo que ele as pratique. A montagem desse mosaico que aos poucos se fecha ganha uma dramaticidade justamente por isso.
 
-# A Revolução dos Bichos (John Stephenson, 1999)
+# A Revolução dos Bichos
 2011-04-27 cinema movies
 
 Nunca recomendo a ninguém que leia um livro antes de assistir à sua adaptação cinematografia. Por motivos óbvios. É grande a chance que a pessoa irá se decepcionar com relação a detalhes ou omissões do roteiro, construção de personagens e cenários que já estavam dentro do imaginário do espectador antes mesmo dele vislumbrar a primeira cena do filme. Isso pode ser maléfico em muitos casos, e benéfico em raríssimas exceções, das quais lembro de cabeça apenas Contato.
@@ -25391,7 +25391,7 @@ Dito isso, acredito que A Revolução dos Bichos é um caso em que um livro tão
 
 De forma que temos, no exemplo de 99, uma aparente deformação na forma de contar a história que, se excluída a experiência da leitura prévia, pode ser proveitoso.
 
-# Amor e Inocência (Julian Jarrold, 2007)
+# Amor e Inocência
 2011-04-27 cinema movies
 
 Depois de acompanharmos as divertidas adaptações dos romances de Jane Austen (Razão e Sensibilidade, Emma, Orgulho e Preconceito), chegou a hora de vermos a história da própria Jane, e como ela se tornou a escritora dos romances de época.
@@ -25402,7 +25402,7 @@ A experiência tenta mostrar, assim como em "Shakespeare Apaixonado" (dadas as d
 
 Com uma participação inspirada de James McAvoy, que interpreta o interesse amoroso de Jane (Anne Hathaway), e participações que ajudam a tornar o drama mais realista, como seu pai James Cromwell, ou a mãe de um afortunado partido Mr. Wisley (Fox), interpretado por Maggie Smith, o filme possui ótimos e bons momentos, nunca avançando demais na psique de Austen, mas ao mesmo tempo nunca deixando em segundo plano a história que pretende contar.
 
-# As Mães de Chico Xavier (Glauber Filho, Halder Gomes, 2011)
+# As Mães de Chico Xavier
 2011-04-27 cinema movies
 
 Como grande sucesso do primeiro longa metragem que mostra a vida do famoso espírita Chico Xavier, vemos uma tentativa de realizar uma franquia com um seriado de televisão e, agora, com histórias alternativas que giram em torno dos poderes do aclamado médium.
@@ -25413,7 +25413,7 @@ Como grande sucesso do primeiro longa metragem que mostra a vida do famoso espí
 
 Mas é inegável que a qualidade na construção da narrativa decai em vários momentos, incluindo falta de coerência em juntar personagens que estão paralelizados pela própria convenção novelística usada, o que mais prejudica que ajuda a acompanharmos os diversos dramas mostrados.
 
-# Instinto Secreto (Bruce A. Evans, 2007)
+# Instinto Secreto
 2011-04-27 cinema movies
 
 Falarei brevemente deste que, para mim, é uma das maiores surpresas em Home Vídeo em muito tempo (2026-03-13 novamente, Kael). A princípio, o filme emprega uma dinâmica inovadora com um mesmo personagem representado por duas psiques/atores, e o uso de atores que conseguem passar a impressão de serem a mesma pessoa (Kevin Costner e William Hurt) é mecanicamente a melhor coisa do filme.
@@ -25422,7 +25422,7 @@ Ao mesmo tempo que não agride a inteligência do espectador, usando-o, de manei
 
 Apresentando-nos uma visão irônica e arrebatadora dos matadores em série, o filme consegue manter o interesse sempre crescente, com cenas que certamente figurarão entre os exemplos do que a arte cinematográfica bem dirigida consegue produzir.
 
-# Invasão do Mundo: Batalha de Los Angeles (Jonathan Liebesman, 2011)
+# Invasão do Mundo: Batalha de Los Angeles
 2011-04-27 cinema movies
 
 Cloverfield abriu o portal de obras de ficção filmados em estilo documental, mesmo em uma produção cara e mais aprimorada que o experimento primordial de Bruxa de Blair.
@@ -25437,7 +25437,7 @@ Mas nada disso seria um problema tão visível se aí tivéssemos uma história 
 
 De forma que, se por um lado o desenvolvimento da história fica prejudicado em prol do uso da técnica, a própria técnica esboça sinais de que ela sozinha não consegue sustentar um filme, por melhores que sejam os efeitos.
 
-# Jumper (Doug Liman, 2008)
+# Jumper
 2011-04-27 cinema movies
 
 Em vários momentos de Jumper, principalmente na sua conclusão, podemos sentir o desperdício completo de uma boa ideia, melhor aproveitada em um filme mais intrigante do que este.
@@ -25450,7 +25450,7 @@ Não contente em nos jogar simplesmente para uma conclusão simplista, temos aí
 
 Sem contar a falta de imaginação, pois os dramas dos dois únicos Jumpers vistos no filme são semelhantes demais, dando a impressão que o que os faz serem assim são o problema com os pais.
 
-# Polaróides Urbanas (Miguel Falabella, 2008)
+# Polaróides Urbanas
 2011-04-27 cinema movies
 
 O único exemplo cinematográfico de Miguel Falabela como diretor demonstra o talento de seu idealizador no formato tão conhecido por ele e praticado por anos a fio: o teatro.
@@ -25461,7 +25461,7 @@ De fato, o que vemos, é uma bela narrativa, prosaica até, com interpretações
 
 O final, contudo, não só define, como desmascara, literalmente, a origem teatral de sua história. É uma pena, portanto, que tenhamos um drama tão bem construído desfeito pela comédia desmedida, fruto, obviamente, do tom humorístico do seu idealizador.
 
-# Um Conto Chinês (Sebastián Borensztein, 2011)
+# Um Conto Chinês
 2018-07-14 cinema movies
 
 (Adaptado de texto original de 2011-04-27.)
@@ -25515,7 +25515,7 @@ A cada cinco minutos do filme, a cada cena obviamente maquiada e implantada na n
 
 E no fundo, essa é uma maneira sensata de classificar Hop, que agora faz parte das famigeradas produções que não serão lembradas nunca mais. Se forem, da mesma forma que as pessoas não entenderão por que diabos Luciano Huck está dublando um (futuro?) clássico da Disney, ficarão pensando quais são aquelas músicas usadas no filme com o coelho engraçadinho cuja única ação toda hora é: fazer coisas engraçadinhas.
 
-# Coincidências do Amor (Will Speck, Josh Gordon, 2010)
+# Coincidências do Amor
 2011-05-16 cinema movies
 
 Kassie (Jenifer Aniston) deseja ser mãe, mas não possui nenhum parceiro nem deseja ter um, se contentando com os ombros amigos de Wally (Jason Bateman, de Juno), que sempre está por perto. Porém, sua idade avançando a deixa preocupada a ponto de pensar em ter o filho por conta própria, usando o já não tão modernoso método de inseminação artificial. Para isso, decide procurar um candidato que se encaixe em seus padrões de homem bem-sucedido (Patrick Wilson, em uma aparição apagada) e anuncia em uma festa que será fecundada pelo esperma do tal sujeito que será, acreditem, gerado naquela mesma noite durante a festa.
@@ -25526,7 +25526,7 @@ Só pela descrição inicial de Coincidências do Amor já é possível ter uma 
 
 O mais incrível é que Loeb acredita realmente que apenas a piada recorrente dessas semelhanças durante o resto do longa seja o suficiente para nos prender a atenção. Porém, mesmo que Jason Bateman se esforce para criar um personagem tão inverossímil quanto Wally e sua cópia em miniatura, a gag não funciona nem no começo, se transformando o filme inteiro, assim como a festa da inseminação, em um espetáculo bizarro e de muito mal gosto.
 
-# Scott Pilgrim Contra o Mundo (Edgar Wright, 2010)
+# Scott Pilgrim Contra o Mundo
 2011-05-16 cinema movies
 
 Scott Pilgrim é o tipo de filme que abraça um conceito até o fim. Melhor: começa como um filme comum, mas vai apresentando o seu conceito de forma orgânica e cada vez mais intensa. E intensidade é uma palavra que resume muito bem toda a experiência que esse filme proporciona.
@@ -25626,7 +25626,7 @@ void CommandPrompt::Interact(ostream& os, istream& is)
 
 Essa solução não é exatamente um reflection, mas apenas parte do que o verdadeiro reflection possibilita. Existem outras funcionalidades, como traits, que a STL já consegue se virar razoavelmente bem, por exemplo.
 
-# Os Agentes do Destino (George Nolfi, 2011)
+# Os Agentes do Destino
 2011-05-19 cinema movies
 
 Em uma época em que religião e economia precisam ser reinventadas, a visão mesclada de ambas em uma organização fria e calculista não deixa de ser no mínimo curiosa. Porém, mais do que isso é constatarmos que os homens sisudos do filme têm por função coordenar algo que para nós, seres humanos, especialmente em tempos de crise, é sabidamente a única coisa de que realmente somos donos: o livre arbítrio.
@@ -25645,7 +25645,7 @@ Portanto, é de esfriar os ânimos que um filme que se entregue em seu início t
 
 Porém, não seria essa a finalização metalinguística do seu próprio criador?
 
-# Garota Infernal (Karyn Kusama, 2009)
+# Garota Infernal
 2011-05-21 cinema movies
 
 Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
@@ -25809,7 +25809,7 @@ kernel32!CreateFileA:
 
 Com isso, economizamos alguns minutos de puro tédio, verificando os nomes um a um conforme eles são abertos. Ou, dependendo da massa de dados, algumas décadas. Quem sabe. Pode ser muito mais útil um outro dia.
 
-# Wall Street: Poder e Cobiça (Oliver Stone, 1987)
+# Wall Street: Poder e Cobiça
 2011-05-23 cinema movies
 
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
@@ -25884,7 +25884,7 @@ O que acontece é que, para gastar o tempo, a montagem ocupa um tempo que é gas
 
 Ainda assim, se apenas isso significasse algo mais na surpresa final do "conto de 90 minutos", valeria a pena. Infelizmente, o conto de Eça ainda parece ser uma melhor pedida.
 
-# Elucubrações sobre Star Wars: Episódio II – Ataque dos Clones (George Lucas, 2002)
+# Elucubrações sobre Star Wars: Episódio II – Ataque dos Clones
 2011-05-29 cinema movies
 
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
@@ -25897,7 +25897,7 @@ E por falar em estado de espírito, vale ressaltar que a presença de Yoda dessa
 
 Aliás, a presença de Yoda é o que realmente dá tom ao clima da história como um todo, pois se Anakin apenas demarca o início de um declínio, as cenas em que vemos Yoda preocupado e receoso permanecem como o melhor resumo do que a narrativa quis trazer para que caminhássemos em direção ao inevitável desdobramento dessas preocupações.
 
-# Piratas do Caribe: Navegando em Águas Misteriosas (Rob Marshall, 2011)
+# Piratas do Caribe: Navegando em Águas Misteriosas
 2011-06-01 cinema movies
 
 A direção de Bob Marshall resgata o antigo objetivo da Disney em transformar a atração do seu parque de diversões em um longa-metragem que tenha as mesmas características do seu brinquedo: um passeio que diverte em pontos estratégicos, localizados em cenários dedicados e com piratas que se parecem com os de verdade, porém, é claro, inofensivos. Talvez não uma mera coincidência, os trabalhos do diretor também navegam em águas mornas: acostumado com eventos episódicos típicos do gênero musical (Nine e Chicago estão em sua lista), Marshall repete o feito de nos levar por um simples passeio turístico por sets de filmagem que mal conseguem se unir para contar uma história coesa, tudo sob o rótulo de aventura.
@@ -25978,7 +25978,7 @@ Note que, se quiser, pode fazer a análise contrária também, tanto de um quant
 O número de horas ficou muito maior que o esperado? Não me admira que os projetos geralmente atrasem, então. Por pior que pareça o cálculo final, ele foi construído com base na realidade. E não há nada melhor do que nos basearmos na realidade para estimar seriamente o quanto pode custar à empresa um projeto qualquer.
 
 
-# X-Men: Primeira Classe (Matthew Vaughn, 2011)
+# X-Men: Primeira Classe
 2011-06-07 cinema movies
 
 Como sugeria o cineasta e crítico Eric Rohmer, todo filme acaba sendo um documentário de sua própria época. Em "X-Men: Primeira Classe", essa premissa ganha força através da ficção científica: as liberdades do gênero permitem alegorias e caracterizações que nos levam a viajar para outro universo e, ali, debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
@@ -26013,7 +26013,7 @@ Ainda que a comunicação visual seja vital para o filme, os diálogos são func
 
 O que nos faz voltar ao mais dramático dos personagens, em uma participação admirável de Michael Fassbender, que consegue, ao mesmo tempo, evocar o Magneto que se tornará obcecado por suas ideias, e enriquecer um personagem que já era fascinante pela construção anterior de Ian McKellen. Se a cena que o coloca, com um toque de genialidade, em xeque pelas suas própria convicções, e o força a encarar um destino tão dramático e irônico que só pode ser comparado às obras de Shakespeare, não é algo digno de aplausos, não sei mais o que seria em um filme com tantas virtudes.
 
-# Minhas Mães e Meu Pai (Lisa Cholodenko, 2010)
+# Minhas Mães e Meu Pai
 2011-06-08 cinema movies
 
 Annete Bening é uma atriz talentosa. Seu único trabalho que acompanhei de perto, Beleza Americana, foi um exercício de neurose formidável, ainda que equivocado em sua exagerada conclusão final (culpa do roteiro?). Porém, através dele é possível ter uma noção muito boa das capacidades de Bening interpretando pessoas com algum descontrole emocional que a leve a influenciar negativamente a vida dos seus próximos.
@@ -26042,7 +26042,7 @@ A trilha de C++ será Quarta, dia 6 de Julho.
 
 Para se aquecer enquanto a trilha de C++ do TDC não acontece, o Grupo C/C++ passou um linque para os vídeos do boostcon, que, pelo que entendi, é um evento onde as pessoas falam como boost é legal e por que você deveria usar boost em seu projeto C++. Pelos títulos (ainda não os assisti) existem assuntos dos mais diversos, e talvez seja uma forma de catequizar a equipe onde você trabalha e que usa coisas bem piores do que boost para programar.
 
-# A Queda! As Últimas Horas de Hitler (Oliver Hirschbiegel, 2004)
+# A Queda! As Últimas Horas de Hitler
 2011-06-12 cinema movies
 
 A proposta de evitar criar-se um microcosmos do ambiente onde Hitler passou seus últimos dias, enclausurado em um bunker com seu alto escalão e suas pessoas mais próximas, é digno de nota, pois, no decorrer da projeção, temos a sensação que muitas coisas estão acontecendo com o povo da Alemanha, não apenas em suas crescentes baixas de exércitos e civis, mas, principalmente, em sua moral.
@@ -26053,7 +26053,7 @@ Quase ignorando o lado do inimigo vencedor, o filme se foca principalmente nas p
 
 Dentro dessa ótica surreal é possível entender a desilusão nos olhos das crianças, e a crença inesgotável das pessoas na fé de seu líder, inabalável até o último segundo, mérito incontestável de Bruno Ganz, que aqui constrói um Hitler renascido das cinzas e do deboche de toda uma geração que abominou o saldo horrorizante da Segunda Grande Guerra.
 
-# Kung Fu Panda 2 (Jennifer Yuh Nelson, 2011)
+# Kung Fu Panda 2
 2011-06-12 cinema movies
 
 A continuação das aventuras de Po, agora o Dragão Guerreiro, e os cinco furiosos, contém em sua essência os mesmos elementos que fizeram do original um sucesso como filme: as piadas irreverentes em torno da figura de um panda lutando Kung Fu (e Po é um personagem irreverente não apenas por natureza, mas em sua própria concepção de personalidade divertida), as sequências de luta orquestradas pela animada trilha sonora (que aqui já se torna um pouco mais confusa, e desafina um pouco se revermos o primeiro filme) e os primorosos efeitos visuais, que aqui ainda contém o interessante efeito da água no pelo de Po.
@@ -26062,7 +26062,7 @@ O que move os personagens nessa sequência é mais um vilão que tenta acabar co
 
 Com um trabalho criativo em alguns detalhes da trama (como a forma encontrada pelos guerreiros para fazer com que o Panda também "voasse" em direção aos inimigos), e piadas irreverentes de Po, o longa consegue divertir de forma inquestionável. Porém, com a falta de uma narrativa coesa o suficiente para imprimir em sua conclusão o conhecido arquétipo de lição de moral (modelo já utilizado no primeiro filme), o trabalho todo acaba perdendo peso significativo em seu final. Isso, contudo, não impede que algumas sequências sejam emocionantes pelo simples fato de serem emocionantes.
 
-# O Pai dos Meus Filhos (Mia Hansen-Løve, 2009)
+# O Pai dos Meus Filhos
 2011-06-12 cinema movies
 
 A diretora-roteirista Mia Hansen-Løve consegue prender a atenção mesmo em um filme cujo assunto fica vago do começo ao fim. O mais irritante, contudo, em O Pai dos Meus Filhos, é a maneira covarde com que ele flerta com o nosso próprio sentido de narrativa.
@@ -26071,7 +26071,7 @@ Não há, de fato, um vilão no filme. Pior do que isso, não há um herói. Ví
 
 Porém, covarde não é o filme pela falta de certezas pelas quais podemos nos guiar, mas pela própria falta de senso de coesão, por nos colocar em uma situação de cúmplice ao vermos um elemento novo surgindo do meio do nada e que acaba por apenas estender, sem acrescentar o suficiente, para que aquele desvio valesse realmente a pena.
 
-# Star Wars: Episódio III – A Vingança dos Sith (George Lucas, 2005)
+# Star Wars: Episódio III – A Vingança dos Sith
 2011-06-12 cinema movies
 
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os dois filmes iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus antecessores.
@@ -26087,7 +26087,7 @@ Com uma conclusão que infelizmente exclui o público mais infantil, ao escancar
 E se, por fim, a maioria do filme prever o final não-feliz é uma atitude corajosa, a decisão de colocar o destino dos filhos de Anakin em foco nas últimas cenas é admirável, pois consegue sucintamente anunciar a vinda de uma nova trilogia.
 
 
-# Um Gato em Paris (Jean-Loup Felicioli, Alain Gagnol, 2010)
+# Um Gato em Paris
 2011-06-12 cinema movies
 
 A trilha sonora fantasiosa que evoca tanto os Batman de atualmente ("Batman Begins") como, de uma forma mais lúdica, os policiais infantis que líamos quando crianças, abre as cortinas para o novo trabalho de Alain Gagnol, projeto de mais de cinco anos onde, debruçado com sua equipe de 60 pessoas sobre os mais de 40.000 desenhos criados à mão, revela uma estética curiosa e ao mesmo tempo divertida.
@@ -26099,7 +26099,7 @@ Além disso, o filme conta com um bando de gângsteres que conseguem divertir na
 É com esse clima ao mesmo tempo infantil quanto caricato que Gagnol consegue, sem muitos saltos, narrar de maneira eficiente a história desses personagens e ao mesmo tempo exibir uma versão estilizada da noite parisiense.
 
 
-# O Homem que Sabia Demais (Alfred Hitchcock, 1934)
+# O Homem que Sabia Demais
 2011-06-16 cinema movies
 
 Para Hitchcock, aparentemente, não houve nenhum outro trabalho de destaque antes de O Homem que Sabia Demais. Digo pelos famosos títulos de "Psicose", "Janela Indiscreta" e "Os Pássaros". Até porque, de acordo com o IMDB, Hitchcock começou sua carreira em 22, o que quer dizer que temos aí cerca de 12 anos de amadurecimento do uso de sua técnica indiscutivelmente coesa em sua capacidade de gerar tensão.
@@ -26115,7 +26115,7 @@ Já Leslie Banks encarna o mocinho tranquilo, que sabe que não adianta resistir
 Aliás, um detalhe artístico que merece nota é o uso de câmeras que tentam reproduzir o que um determinado personagem vê ou sente (como desmaiar ou encher o rosto de lágrimas), o que vira uma ferramenta que contribui imensamente para a linguagem cinematográfica, dispensando diálogos supérfluos e facilitando a comunicação de ideias. Mesmo a trilha sonora, que aparece apenas em momentos pontuais, não é tão efetiva quanto esse tipo de construção, que é visual já na sua essência.
 
 
-# Circo dos Horrores: O Aprendiz de Vampiro (Paul Weitz, 2009)
+# Circo dos Horrores: O Aprendiz de Vampiro
 2011-06-20 cinema movies
 
 Darren (Massoglia) é um garoto estilo certinho, mas é amigo do problemático Steve (Hutcherson). Ambos acabam indo a um circo de horrores e lá conhecem um homem misterioso, Lasten Crepsley (Reilly), que se revela um vampiro secular. Após uma série de eventos, como o título já denuncia, Darren será obrigado a deixar sua vida normal e se tornar seu assistente. Porém, para complicar as coisas, ele irá descobrir que existem algumas escolhas a ser feitas no mundo dos vampiros.
@@ -26333,7 +26333,7 @@ E, enfim, é Covarde porque simplesmente parece não conseguir finalizar a hist�
 Dito isto, que venha "Happy Feet 2".
 
 
-# Transformers: O Lado Oculto da Lua (Michael Bay, 2011)
+# Transformers: O Lado Oculto da Lua
 2011-07-06 cinema movies
 
 É muito difícil para quem começa a estudar aos poucos os segredos do cinema descobrir o que faz um filme ruim. Apenas o fato de não gostar do que se vê não é argumento satisfatório para entender quais mecanismos estão ali (ou não) para sabotar por completo uma experiência cinematográfica tão bem sucedida tecnicamente, como para mim foi esse Transformers 3.
@@ -26361,7 +26361,7 @@ Ao final, nosso mestre-de-cerimônias habitual Alberto Techberto Fabiano fez a a
 
 Infelizmente, alguns compromissos inadiáveis me fizeram ter que sair pela esquerda e esquecer o Lado B da questão. Felizmente, esse não é o nosso último encontro, e espero participar de futuras oportunidades de me integrar à nossa agora, como diz meu amigo Pikachu, comunidade maçônica.
 
-# The Housemaid (Kim Ki-young, 1960)
+# The Housemaid
 2011-07-08 cinema movies
 
 O longa possui algumas reviravoltas que podem soar esquisito à cultura ocidental, mas a base do drama, que são os acontecimentos macabros rodeando a honrada família do professor de piano, criam um clima, se não de tensão, definitivamente macabro e sexy.
@@ -26370,7 +26370,7 @@ Existe na literatura e no folclore em geral muito sobre o mito da viúva negra, 
 
 Quando a empregada se veste de preto tudo começa a se acelerar em direção ao inevitável e trágico final. Visualmente essa construção une de forma inteligente o tom escuro da vestimenta da empregada e o completo contraste com o branco puro, inocente e servil da matriarca. Não existe meio termo. E Ki-young Kim não irá nos poupar de toda a maldade e egoísmo humano para demonstrar, de uma maneira um tanto hardcore, que é isso que nos faz humanos.
 
-# Operação Presente (Sarah Smith e Barry Cook, 2011)
+# Operação Presente
 2011-07-12 cinema movies
 
 A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
@@ -26667,7 +26667,7 @@ Por último, execute o seguinte na tela de comandos do WinDbg:
 
 E boa sorte =)
 
-# A Serbian Film - Terror sem Limites (Srdjan Spasojevic, 2010)
+# A Serbian Film - Terror sem Limites
 2011-07-31 cinema movies
 
 Segundo um relatório sobre a Guerra da Bósnia feito pela Agência Central de Inteligência americana, 90% dos crimes de guerra foram cometidos pelos sérvios. Em uma região conturbada política e religiosamente por mais de um século, o povo sérvio se acostumou a um ambiente instável. A grande questão é como isso afeta a moral dessas pessoas.
@@ -26680,7 +26680,7 @@ Dentro desse ponto de vista, Vukmir considera Milos o expoente máximo dentro de
 
 E não por coincidência, o trabalho do diretor iniciante Srdjan Spasojevic carrega a nacionalidade de sua obra já no título, o que já traz uma dica importante sobre o que o filme tenta nos transmitir em sua controversa história. Chega a ser uma provocação, aliás, pois ao constatarmos a sua gravidade, o que sobra é apenas o título, como um triste reflexo de uma realidade que o mundo fora da Sérvia, muitas vezes, preferiu ignorar.
 
-# Apenas o Fim (Matheus Souza, 2008)
+# Apenas o Fim
 2011-07-31 cinema movies
 
 Geralmente as condições em que ocorrem a produção de um filme não importam muito, e servem somente a título de curiosidade. Nesse caso, o diretor (e roteirista?) Matheus Souza, estudante de cinema ainda, conseguiu com a ajuda dos colegas o dinheiro necessário para realizar este longa ainda com 19 anos, o que se tornou um exercício de cinema no mínimo competente.
@@ -26704,7 +26704,7 @@ Diferente do que possa parecer, Edward, quando descoberto, se dá muito bem com 
 
 Ainda assim, o filme acaba por cair em velhos clichês dos anos 80, preferindo usar a figura de um romance improvável (e de um anti-herói igualmente improvável) para chamar a atenção para um conflito que até então não existia. Essa conclusão acaba por constituir um dos pontos mais destoantes da história. Mesmo assim, o aspecto visual do filme se mantém, e consegue figurar entre os grandes exemplos de cinema estético e visual, qualidades ainda em sintonia com o trabalho de Burton, e, por que não, de Johnny Depp.
 
-# Meia-Noite em Paris (Woody Allen, 2011)
+# Meia-Noite em Paris
 2011-07-31 cinema movies
 
 Quando sabemos estar admirando o último enquadramento de Meia-Noite em Paris, é de doer o coração. O longa de Allen não só empolga, e muito, no início, como mantém suspenso o interesse pelos personagens (que não são poucos). Acredito que, se fosse possível, assistiríamos mais duas, três, ou até quatro horas de filmagem nesse universo criado por Allen.
@@ -26717,7 +26717,7 @@ Mas não é só no roteiro que Meia-Noite empolga: a forma de filmar está aprim
 
 Com uma conclusão talvez atabanada demais, Allen conclui um dos mais belos trabalhos dessa duas décadas, que já nos brindou com bons e ótimos filmes (O Sonho de Cassandra, Dirigindo no Escuro e Tudo Pode Dar Certo na primeira categoria, enquanto Vicky Cristina Barcelona e Match Point na segunda). No seu ritmo atual de um trabalho, é sempre agradável saber que, pelo menos uma vez ao ano, temos a chance de assistir mais uma obra de um dos mestres da ironia e da celebração da vida.
 
-# Melancolia (Lars von Trier, 2011)
+# Melancolia
 2011-08-07 cinema movies
 
 Lars von Trier é um realizador corajoso. Especialista em explorar as facetas menos nobres de nossos sentimentos, já ousou colocar Bjork em Dançando no Escuro, um musical sem final feliz, e Nicole Kidman no vilarejo de Dogville, onde mora o que existe de mais desprezível nas relações sociais. De uma maneira geral, a decadência humana sempre foi retratada em seus trabalhos de uma forma emblemática, porém, visual, que é onde reside a força do seu cinema.
@@ -26748,7 +26748,7 @@ O final, não é preciso dizer, é extremamente melancólico, e foge obviamente 
 
 - Talvez seja coincidência, mas o fato do personagem de Jack Bauer, tão acostumado a salvar o mundo no seriado 24 Horas, se matar no final, estabelece uma dessas ironias cinematográficas impagáveis.
 
-# Capitão América: O Primeiro Vingador (Joe Johnston, 2011)
+# Capitão América: O Primeiro Vingador
 2011-08-09 cinema movies
 
 A Marvel parece que resolveu esquecer de vez a construção de histórias com profundidade dramática para dar vazão aos seus heróis secundários. O objetivo maior é o lançamento dos Vingadores, seu ambicioso projeto que exigiu a criação de diversos filmes, cada um retratando um personagem diferente que fará parte dessa equipe de super-heróis.
@@ -26769,7 +26769,7 @@ Mas o que parece se tornar um prelúdio para a verdadeira ação acaba se tornan
 
 Após o terceiro ato fica muito clara a construção do filme como catapulta para o lançamento do esperado Primeiro Vingador. Todo esse frisson de meses (anos?), aliás, acaba por elevar as expectativas sobre Os Vingadores em níveis acima do normal. Apenas esperamos que o lançamento de tantos resultados medianos faça valer a pena essa tão esperada produção.
 
-# G.I. Joe: A Origem de Cobra (Stephen Sommers, 2009)
+# G.I. Joe: A Origem de Cobra
 2011-08-14 cinema movies
 
 G.I. Joe é um filme tão ruim assim como muitos têm falado? Talvez sim. O fato é que, baseado em uma franquia de action figure produzida pela empresa de brinquedos Hasbro (e vendido no Brasil sob o codinome Comandos em Ação), o filme tenta se firmar nessa superfície frágil e infantil usando conceitos mais infantis ainda que acabam por estabelecer relações entre os personagens absurdamente ilógicas e pedestres.
@@ -26780,12 +26780,12 @@ Pior do que se limitar a recursos burocráticos em quase todas as cenas, é o ro
 
 Porém, mesmo assim, o diretor Stephen Sommers (A Múmia, Van Helsing) e seu habitual montador Bob Ducsay conseguem impor um ritmo interessante no ataque a Paris, utilizando para isso o corte paralelo entre duas perseguições distintas. Pena que essa não é a sequência final, muito mais problemática, tanto no comprimento quanto no problema já citado de fechar as histórias dos personagens.
 
-# Super 8 (J.J. Abrams, 2011)
+# Super 8
 2011-08-15 cinema movies miniviews fragments
 
 A exploração do desconhecido fantasioso funcionando como um reflexo da própria família acaba empolgando mesmo em seus créditos finais.
 
-# A Árvore da Vida (Terrence Malick, 2011)
+# A Árvore da Vida
 2011-08-17 cinema movies
 
 O início de O Filme: Um Estudo Psicológico (1916), de Hugo Münsterberg, primeiro livro sobre crítica da história do cinema, coloca o fenômeno da percepção do movimento nos olhos de quem vê. A interpretação que fazemos das imagens estáticas em sequência é subjetiva, de forma que, mesmo que o autor da obra tenha escolhido o que filmar, é o espectador que irá extrair da imagem o significado. Dessa forma, um filme, como toda obra de arte, apenas se comunica quando houver um espectador, que irá se relacionar diretamente com a obra e a filtrar pelas nossas experiências de vida e como enxergamos a realidade à nossa volta.
@@ -26806,7 +26806,7 @@ Porém, não é a morte o fim de tudo. A vida está sempre fluindo e se transfor
 
 Enfim, existe muito para se refletir e aproveitar em A Árvore da Vida. Se você pretende se aventurar em uma sessão, recomendo abrir sua mente, seus olhos e sua imaginação. Fique atento, pois muitas coisas podem ser comunicadas através de imagens estáticas exibidas em sequência.
 
-# Quero Matar Meu Chefe (Seth Gordon, 2011)
+# Quero Matar Meu Chefe
 2011-08-17 cinema movies
 
 Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
@@ -26823,7 +26823,7 @@ Enfim, chega um momento em que as piadas não bastam mais e o terceiro ato atrav
 
 Após esse exercício de futilidade que poderia muito bem passar no sábado à noite, tudo que temos a fazer é sair da sessão e esperar pelo melhor para esse grupo de atores talentosos que acabou se metendo em uma verdadeira cilada.
 
-# Como Enlouquecer seu Chefe (Mike Judge, 1999)
+# Como Enlouquecer seu Chefe
 2011-08-22 cinema movies
 
 Depois de ter visto Como Matar seu Chefe, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse Como Enlouquecer seu Chefe, ou mais corretamente no original, Office Space (Ambiente de Escritório?).
@@ -26838,7 +26838,7 @@ Porém, de maneira inteligente, o roteiro cria os personagens estereotipados e o
 
 Com um final menor, que resolve de maneira muito maniqueísta um dilema apresentado já no terceiro ato, Office Space ganha atenção mesmo pela remontagem de um ambiente de trabalho que, infelizmente, muitos de nós vive seu dia a dia
 
-# Mulher Nota Mil (John Hughes, 1985)
+# Mulher Nota Mil
 2011-08-22 cinema movies
 
 Mulher Nota Mil representa precisamente a época em que foi produzido, bem no meio da década de 80. E, ao mesmo tempo, serve como um belo reflexo de produções recentes, como American Pie, que demonstram que no que tange à síndrome dos garotos impopulares que nunca conseguem namoradas no colégio, o cinema não avançou quase nada: foi apenas atualizado para os padrões modernos.
@@ -26854,7 +26854,7 @@ A ação e o absurdos crescem em uníssono, a ponto de em dado momento ser inser
 Apesar de não passar do teste dos 15 anos, fica claro que este era o exemplo de filmes de "desligar o cérebro". E se serviu para a efervescência criativa de John Hughes, que depois escreveria grandes aventuras como Esqueceram de Mim, Beethoven, Dennis - O Pimentinha e 101 Dálmatas, podemos estar certos de que este era o primeiro de muitos.
 
 
-# O Solista (Joe Wright, 2009)
+# O Solista
 2011-08-22 cinema movies
 
 Seguindo o filme de duplas, dessa vez com Robert Downey Jr. e Jamie Foxx, o drama O Solista é baseado em livro homônimo escrito pelo jornalista-personagem Steve Lopez, que se torna obcecado pela vida de Nathaniel Ayers, um sem-teto que tinha tudo para ser um grande músico, mas devido aos seus problemas mentais, acaba se refugiando da sociedade nas ruas.
@@ -26867,7 +26867,7 @@ Como Nathaniel é obcecado por Beethoven, temos no longa belíssimas passagens q
 
 Patinando em vários momentos, e sem ter muito o que contar, o longa se segura nas interpretações consistentes da dupla. Mais um exemplo, assim como Um Parto de Viagem, onde a interpretação eleva o fraco roteiro ao nível de filme agradável pela história.
 
-# Um Parto de Viagem (Todd Phillips, 2010)
+# Um Parto de Viagem
 2011-08-22 cinema movies
 
 Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
@@ -26878,7 +26878,7 @@ Dirigido e co-escrito por Todd Phillips, o filme se concentra basicamente nas re
 
 Não há muito o que falar do roteiro em si, que sempre se aproveita de um ou outro defeito de caráter de um dos dois, e embora soe maniqueísta em vários momentos, ao lembrarmos do plot inicial, tudo faz mais sentido.
 
-# Assalto ao Banco Central (Marcos Paulo, 2011)
+# Assalto ao Banco Central
 2011-08-23 cinema movies
 
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.
@@ -26893,7 +26893,7 @@ Porém, o pior em Assalto acaba sendo em não se fortalecer no seu gênero-mestr
 
 Por fim, é triste constatar que o cinema brasileiro ainda caminhe por caminhos tortuosos, onde milhões são gastos em projetos que poderiam muito bem ser engavetados e dar lugar à nossa criatividade inesgotável na arte de realmente contar uma história.
 
-# Diário de Uma Busca (Flávia Castro, 2010)
+# Diário de Uma Busca
 2011-08-29 cinema movies
 
 Assistir a filmes constantemente e por muito tempo te dá, aos poucos, a capacidade de discernir a linguagem de cada autor e, o que eu acho mais interessante de tudo, extrair as técnicas usadas de forma inconsciente, apenas deixando fluir a percepção comum de um espectador assistindo a uma sessão de cinema. É uma sensação meio que mágica.
@@ -26908,7 +26908,7 @@ Ao mesmo tempo evocando o lado investigativo por parte de sua misteriosa morte, 
 
 O documentário de Castro estreia em uma época que parece tentar evocar o desejo das pessoas de cada vez mais resgatar esse passado manchado, mais pelas pessoas que participaram dele do que pela visão histórica. E é isso que Flavia Castro consegue, de maneira simples e ao mesmo tempo intimista, não se aprofundando muito nas questões macro-políticas da época, sempre mantendo o foco no caráter humano do projeto. O resultado, se não brilhante, é mais que satisfatório.
 
-# Lanterna Verde (Martin Campbell, 2011)
+# Lanterna Verde
 2011-08-29 cinema movies
 
 Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.
@@ -26921,7 +26921,7 @@ Hal Jordan (Reynolds), nesse contexto, vira um reles instrumento dessa força, m
 
 Infelizmente, nem o anel conseguiu materializar uma história que o valha. A trajetória do herói não convence, ou pelo menos não o suficiente para acreditar que o esforço de um representante dos paladinos do Universo em sua espécie mais fraca (os humanos) consegue combater a maior ameaça que já tiveram que enfrentar em toda a sua história (perceba como o uso solene das palavras apenas enfraquece mais a história e a sabota, que tem que ser enriquecida com diálogos expositivos dessa forma).
 
-# Planeta dos Macacos: A Origem (Rupert Wyatt, 2011)
+# Planeta dos Macacos: A Origem
 2011-08-31 cinema movies
 
 Esse texto não é indicado para os que já viram algum filme da série Planeta dos Macacos, iniciada em 68. (Na verdade, nem o atual de 2011: leia depois de assistir.)
@@ -26942,7 +26942,7 @@ Contudo, mesmo que a trama não seja o ponto forte, o filme ganha um impulso ext
 
 São questões que o filme nunca enfoca, e também nunca tenta solucionar. Mas, só pelo fato de nos submeter à essa reflexão em suas entrelinhas, já ganha uma posição de destaque no Cinema Pensante desse novo século.
 
-# Viagem à Lua (Georges Méliès, 1902)
+# Viagem à Lua
 2011-09-01 cinema movies
 
 O francês Georges Méliès foi um dos privilegiados que assistiu à famosa primeira projeção (coletiva) de Cinema da história: A chegada do trem na estação.
@@ -26959,7 +26959,7 @@ As regras para assistir A Viagem para a Luz são as mesmas de hoje em dia: temos
 
 Nada que um filme de 100 anos atrás não faça pensar. Como diz o crítico de cinema Pablo Villaça: "não existe filme velho; só filme ainda não assistido."
 
-# Watchmen: O Filme (Zack Snyder, 2009)
+# Watchmen: O Filme
 2011-09-04 cinema movies
 
 Watchmen seria uma história sobre anti-heróis ou heróis como eles seriam no mundo real? Desde o começo do filme, nos vemos embarcados nestes pensamentos, ajudados pela magnífica introdução que mostra, em câmera lenta, os vigilantes do filme posando para fotos jornalísticas, em uma fotografia super-sensível que, utilizando tons de sépia para identificar o passado, demonstra, desde já, o apuro estético de uma produção que está claramente acima do gênero "adaptação de quadrinhos".
@@ -26994,7 +26994,7 @@ E a direção, por sua vez, ainda que consiga usar os planos-detalhe de ambas qu
 
 Enfim, um filme que valoriza as atuações não-tão-inspiradas das desconhecidas (para mim) Sancra Ceccarelli e Francesca Inaudi, e que ao mesmo tempo não acrescenta muito como experiência cinematográfica. Seguindo adiante.
 
-# Medianeras: Buenos Aires da Era do Amor Virtual (Gustavo Taretto, 2011)
+# Medianeras: Buenos Aires da Era do Amor Virtual
 2011-09-11 cinema movies
 
 Estreia de Gustavo Taretto na direção de longas, Medianeras inicia já com uma proposta criativa e que funciona muito bem: com dois narradores em off, temos a impressão de assistir a dois filmes interlaçados que aos poucos se aproximam, o que por si só já revela muito sobre as ideias por trás da história.
@@ -27038,7 +27038,7 @@ Satisfeito em apenas retratar os Smurfs exatamente como eles sempre foram, resta
 Portanto, dadas as devidas proporções, e ignorando uma ou outra falha de roteiro (como o uso artificial de um cachorro ou a relação "macabra" entre Gargamel e a chefe do pai-de-família do filme), Os Smurfs cumpre o que promete sem maiores voos. E faz muito bem.
 
 
-# Cowboys e Aliens (Jon Favreau, 2011)
+# Cowboys e Aliens
 2011-09-18 cinema movies
 
 Não há muito o que falar da história em Cowboys & Aliens, novo filme de Jon Favreau (dos dois "Homem de Ferro" e Zathura - Uma Aventura Espacial). O título já torna tudo muito óbvio, por mais bizarro que isso seja. No entanto, acredito que a definição desse gênero misto acabe sendo o principal motivo do filme não conseguir "decolar" em nenhum momento, sendo constantemente cozinhado em forno brando.
@@ -27078,7 +27078,7 @@ E por falar em xiita, vejam só: uma série inédita de palestras sem nenhuma es
 
 Como bônus, dessa vez tivemos nossas palestras filmadas. Apenas peço paciência para a fase de edição, onde devo utilizar os slides dos palestrantes para tornar o visual mais didátivo do que uma câmera se movendo freneticamente de um lado para o outro. Algumas partes podem ter ficado de fora por alguns problemas técnicos (sou marinheiro de primeira viagem), mas o mais importante, com certeza, está gravado.
 
-# Pronta Para Amar (Nicole Kassell, 2011)
+# Pronta Para Amar
 2011-09-21 cinema movies
 
 Nessa simpática comédia romântica que tenta fugir de vários clichês (não só do seu gênero), Kate Hudson encarna Marley, uma garota que teme relacionamentos mais que a morte (embora seja adepta do sexo casual), mas ao ser confrontada com esta ao descobrir ter um câncer incurável, resolve mudar radicalmente sua forma de viver, aproximando seus entes queridos, evitando encarar sua doença com seriedade e, quem sabe, conseguir um relacionamento com seu próprio médico.
@@ -27089,7 +27089,7 @@ A diretora Nicole Kassell (O Lenhador) e o montador Stephen Rotter parecem compr
 
 Portanto, para que tudo isso funcione, é primordial a química que ocorre no elenco, uniformemente competente, mas com pequeno destaque para a sempre ótima Kathy Bates, que aqui vive a mãe da personagem com tamanho afinco que ficamos um pouco na dúvida se ela é de verdade a mãe de Kate Hudson. A maior prova de tamanha dedicação no elenco é a conclusão da história, arrebatadora pela sua própria história, mas emocionante não apenas pela situação em si, mas por entendermos o que Marley representa para cada pessoa em sua vida. E apenas o fato de as encararmos como pessoas de carne e osso é mérito de um filme que comprova que não apenas a originalidade gera bons momentos no cinema.
 
-# Confiar (David Schwimmer, 2010)
+# Confiar
 2011-09-27 cinema movies
 
 Dirigido e escrito pelos estreante no cinema David Schwimmer e Andy Bellin (esta co-roteirizada por Robert Festinger, do excelente Entre Quatro Paredes), este drama de tons realistas e de caráter emergencial conta a história de Annie, uma jovem colegial que acaba de completar 14 anos e que pertence a uma família tranquila e estruturada. Como todas as jovens de sua idade, costuma passar o tempo alheia à vida em sua volta, se comunicando com amigos virtuais através do celular e de seu computador (presente de aniversário de seu pai, um detalhe sutil, mas trágico).
@@ -27106,7 +27106,7 @@ Note como, por outro lado, o comportamento de Annie, a principal envolvida, é l
 
 Porém, ao mesmo tempo, o filme nos deixa uma pequena-grande reflexão sobre o que seria essa confiança, ensinada pelos pais por sua essência na relação familiar, mas inútil se aplicada sem discernimento na vida real. E como pedir para seres humanos em sua fase de descobertas e medição de valores para já possuírem em seu kit de sobrevivência a capacidade de dividir as pessoas em confiáveis e não-confiáveis? Mais do que acomodar os espectadores, a retórica de Confiar acaba por deixá-los mais inquietos do que antes.
 
-# Incêndios (Denis Villeneuve, 2010)
+# Incêndios
 2011-09-28 cinema movies
 
 Os melhores filmes, ou os que merecem revisitas mesmo depois de conhecermos o seu desfecho, geralmente são aqueles que permitem múltiplas interpretações e que conseguem impressionar pela sua engenhosa criação. Ou seja, ao mesmo tempo emocionam e possuem um prazer intelectual implícito em sua estrutura. Esse é sem dúvida o caso de Incêndios, que não apenas apresenta uma história arrebatadora do começo ao fim em seu nível emocional (personagens) como também permite análises em camadas mais racionais, sem com isso diminuir o impacto de sua história.
@@ -27127,7 +27127,7 @@ E não é só a direção que possui virtudes a salientar. O roteiro cresce dura
 
 Ao final, o olhar catatônico da mâe, parada em frente à piscina, é exatamente o olhar que ficaremos no desfecho da história, criando uma sensação de empatia completa com o impacto que ela sofreu. Ao mesmo tempo, porém, existe algo maior, talvez um prazer estético pelo desfecho da trama, que retorna de uma longa jornada para nos entregar, de maneira magistral, uma conclusão intelectualmente arrebatadora.
 
-# O Filme dos Espíritos (Joel Pizzini, 2011)
+# O Filme dos Espíritos
 2011-10-08 cinema movies
 
 O Filme dos Espíritos é mais uma tentativa de "catequizar" (com o perdão da palavra) ou talvez educar os fiéis dessa crença religiosa da vida após a morte, dando sequência ao bom "Chico Xavier" e o desastroso As Mães de Chico Xavier. Aqui, porém, a alçada propagandista ganha contornos bem maiores que sua qualidade como filme, o que, de certa forma, lembra Olga, uma obra com o mesmo estigma. Dessa forma, o uso do cinema como ferramenta "educativa" se torna um completo desastre quando constatamos que toda essa ambição ideológica anti-aborto não se justifica em uma produção de caráter e gosto duvidosos.
@@ -27142,7 +27142,7 @@ Como se não bastasse esse show de horrores, o filme tem a audácia de ir contra
 
 Não há nada no verdadeiro Cinema contra filmes religiosos que defendam seus dogmas. Diversos filmes nacionais foram lançados que mereceram algum destaque, como o já citado Chico Xavier e o mais recente Aparecida - O Milagre. Porém, infelizmente esse não é o caso. Apenas o que temos aqui é um vídeo propagandista que insere a questão do aborto em seu núcleo narrativo de forma simplista e covarde, se escondendo atrás de leis religiosas escritas por um obscuro doutor há cerca de 150 anos atrás, cuja produção possui mais defeitos que virtudes. Ou seja, é um raro caso de produção cinematográfica duplamente descartável.
 
-# Cartas Para Julieta (Gary Winick, 2010)
+# Cartas Para Julieta
 2011-10-10 cinema movies
 
 Sophie e Victor estão noivos e vão passar uma "pré-lua-de-mel" na Itália, onde Victor (García Bernal) pretende conseguir contatos com fornecedores para o restaurante que pretende abrir. Enquanto isso, Sophie (Seyfried) se desilude com as supostas férias e procura algo melhor para fazer: escrever respostas para as mulheres que lotam a frente da casa de Julieta, a mesma da peça de Shakespeare, com cartas românticas.
@@ -27153,7 +27153,7 @@ No entanto, a trilha sonora está disposta a estragar o que foi alcançado com u
 
 Porém, o forte acaba sendo mesmo a atuação de Vanessa Redgrave que constrói, ainda que como coadjuvante, uma história muito mais tocante para ser seguida de perto.
 
-# Copacabana (Marc Fitoussi, 2010)
+# Copacabana
 2011-10-11 cinema movies
 
 O novo trabalho do diretor-roteirista Marc Fitoussi faz um paralelo entre o estado de espírito de uma pessoa e o lugar onde esta vive. Para chegar a seus objetivos, rege de maneira impecável uma história em que as apostas que uma pessoa precisa fazer para chegar aonde quer não estão relacionadas com sua situação aparente, mas muito mais com seu estado interior e sua capacidade de transformar o mundo ao seu redor.
@@ -27168,7 +27168,7 @@ O mais interessante é que nós mesmos, como espectadores, enquanto torcemos por
 
 Por isso mesmo é que seus triunfos possuem um gostinho de rebeldia delicioso, que cativa o público facilmente. E exatamente por acreditarmos em Baubou é que seu final inusitado não parece nem de longe inverossímil, mas sim é o complemento necessário da grande ideia para o filme: não sabemos o futuro, esse futuro que parece tão sombrio e tenebroso para muitas pessoas. Porém, independente disso, podemos apostar com todas nossas fichas, se acreditarmos de verdade em nós mesmos.
 
-# Os Goonies (Richard Donner, 1985)
+# Os Goonies
 2011-10-13 cinema movies
 
 "'Um grupo de meninos embarcam em uma aventura após encontrar o mapa de um suposto tesouro escondido.' É com esse argumento simples que se constrói um dos filmes mais empolgantes e divertidos dos anos 80. Essa é a união do roteirista Chris Columbus, de O Enigma da Pirâmide, do diretor Richard Donner, de "Superman", e do idealizador Steven Spielberg, de... precisa dizer algo? Essa união produziu uma espécie de esfera criativa nunca antes vista, e que até produz ecos na filmografia contemporânea, em que o exemplo mais recente é o filme-homenagem "Super 8", de J.J. Abrams."
@@ -27236,7 +27236,7 @@ Se, por um lado, mostrar a pobreza e a malandragem de uma família que tenta faz
 
 É uma pena, portanto, que Lima Duarte, Vera Holtz e tantos outros se vejam vendidos em um projeto como esse, que mais uma vez demonstra o despreparo de idealizadores influenciados muitas vezes pelas nossas famigeradas novelas em abordar temas tão sensíveis com tanto despudor.
 
-# Qual Seu Número? (Mark Mylod, 2011)
+# Qual Seu Número?
 2011-10-17 cinema movies
 
 Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o "Capitão América" (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
@@ -27363,7 +27363,7 @@ Nosso depurador favorito acusa uma pilha que contém a função WerpReportFault
 E essa situação, caro leitor, é 10% de tudo o que você precisa saber sobre WinDbg para resolver, mas que já resolve 90% dos casos. Belo custo-benefício, não?
 
 
-# Trabalhar Cansa (Juliana Rojas, 2011)
+# Trabalhar Cansa
 2011-10-18 cinema movies
 
 Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é exatamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
@@ -27378,7 +27378,7 @@ Porém, o astucioso roteiro não se entrega ao óbvio, nem que ele esteja tão p
 
 A participação inspirada e apática de Helena comprova nossos pensamentos mais maldosos a respeito do destino do mercado, enquanto o declínio paulatino de Otávio passa quase despercebido, mas equilibra a história sobre dois pontos de vista: o mal crescente e o enfraquecimento do bem. Nós mesmo exercitaremos essa ambiguidade em muitos eventos. Quando o cachorro aparece a latir, por exemplo, se em um primeiro momento enxergamos o acaso do cotidiano, a montagem no ritmo certo nos permite chegar a outra conclusão, mais nefasta, o que vai se tornando mais comum até prevalecer completamente sobre o senso comum (em uma bela rima do que vai acontecendo no próprio filme).
 
-# Despedida em Las Vegas (Mike Figgis, 1995)
+# Despedida em Las Vegas
 2011-10-22 cinema movies
 
 Talvez eu seja vítima da regra dos 15 anos -- a que reza que qualquer filme visto antes dos 15 anos continua em nossa memória como bom -- mas Ben e Sera foram dois dos personagens mais queridos da minha juventude de cinéfilo. Adorava a entrega completa de Nicholas Cage e de Elizabech Shue em seus papéis que ainda considero os melhores de ambos, em um filme deprimente do começo ao fim. Essa minha revisita continua a confirmar o fato de que, se Cage costuma ser criticado por overacting, aqui praticamente esquecemos que existe algum ator por trás do divertido, patético e trágico Ben Sanderson.
@@ -27414,7 +27414,7 @@ De uma forma ou de outra, como toda atividade humana, escrever código nos defin
 
 - Para quê filosofia?, por Marilena Chauí.
 
-# O Manuscrito Perdido (José Barahona, 2010)
+# O Manuscrito Perdido
 2011-10-23 cinema movies
 
 Fradique Mendes, um poeta e aventureiro português, amigo de Eça de Queiroz, viveu na região que foi primeiro abordada pelos portugueses no começo do século XVI, evento esse que nós brasileiros conhecemos como "Descobrimento do Brasil". Esse evento, e muitos outros na história do país, no entanto, possuem ecos diversos na sociedade brasileira, como bem demonstra esse documentário de José Barahona. O mais relevante desse trabalho, porém, é constatar que esses ecos do passado continuam influenciando boa parte da nossa sociedade, e como ela é estruturada em torno da terra herdada.
@@ -27429,7 +27429,7 @@ Dessa forma, acompanhamos descendentes das tribos quilombolas, os primeiros escr
 
 E para terminar o caldo, indígenas e sem-terra disputam a posse de terras na mesma região, em um triste reflexo do que era naqueles tempos primitivos e que vem se repetindo de geração em geração, em um povo que pode carecer de muitos lazeres da vida moderna, mas que nunca deveria sentir falta do bem mais abundante no país: a própria terra.
 
-# Roubando Vidas (D. J. Caruso, 2004)
+# Roubando Vidas
 2011-10-23 cinema movies
 
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
@@ -27444,7 +27444,7 @@ E por falar em psicologia, talvez o maior erro do filme tenha sido apostar na pe
 
 Ao final, pelo menos ficamos com os olhos e os lábios de Angelina Jolie, o que é sempre um atrativo, não importando muito o gênero do filme ou sua história.
 
-# A Morte de Pinochet (Bettina Perut, Iván Osnovikoff, 2011)
+# A Morte de Pinochet
 2011-10-24 cinema movies
 
 O superzoom inicial das rugas (passado) e dos lábios (testemunho) das pessoas entrevistadas no documentário sobre o ditador sanguinário possuem dois motivos igualmente inteligentes e controversos: primeiro, impede que olhemos diretamente para os que dizem ter um profundo sentimento de admiração e orgulho por um ser responsável por uma das ditaduras mais cruéis que já se ouviu falar, o que evita nossa repulsa imediata por essa gente; segundo, admite que o testemunho dessas pessoas é fiel e honesto, dito diretamente de suas bocas, que muitas vezes sofreram inconscientemente os infortúnios de um regime que, para elas, não tem qualquer relação com o amado general.
@@ -27459,7 +27459,7 @@ O momento mais icônico, onde o filme se encontra, é quando uma das fãs do dit
 
 Pois é. A realidade, de fato, muitas vezes está nos olhos do que apenas queremos ver.
 
-# Aleksander Sokurov: Uma Questão de Cinema (Aleksandr Sokurov, 2011)
+# Aleksander Sokurov: Uma Questão de Cinema
 2011-10-24 cinema movies
 
 Quando o diretor de "A Arca Russa" tem algo a falar sobre movimento e sonoridade no cinema, ou da própria questão do cinema em si, deve haver algo de importante, ou até mesmo essencial, para se captar. No entanto, Alexandre Sokurov (ou a montagem de Anne Gigleux) não é exatamente didática. É necessário, assim como o trabalho do próprio diretor-tema, sentir a ação antes dela acontecer. O resultado, como um todo, é no mínimo inspirador.
@@ -27477,7 +27477,7 @@ Da minha limitada (põe limitada nisso) experiência, o que já vi do cinema isl
 
 De maneira semelhante, vemos festas da adolescência salpicadas com esse tipo de relacionamento, até que somos levados a uma conclusão trágica de uma das personagens, mas que nem de longe chega a ser o "Nervo à Flor da Pele" do equivocado título em português. Na verdade, o filme segue um ritmo bem leve para chegarmos a pensar que possui alguma pretensão dramática acima do exposto.
 
-# O Desaparecimento do Gato (Carlos Sorín, 2011)
+# O Desaparecimento do Gato
 2011-10-24 cinema movies
 
 Diferente da ótica tão comum nos filmes de encarar a loucura como uma doença trágica, Carlos Sorín dedica seus esforços em sua nova película para entreter o espectador e deixá-lo ver com seus próprios olhos que a loucura, de uma maneira geral, pode estar em todos nós, da maneira mais corriqueira e cotidiana que for. De maneira brilhante, O Desaparecimento do Gato consegue transmitir essa sensação através de inúmeras facetas.
@@ -27662,7 +27662,7 @@ Fazendo jus ao seu nome, a fotografia é competente em elencar funções para as
 
 No entanto, o que incomoda acaba sendo a auto-sabotagem de seu roteiro, tão sutil que se desmancha ao menor retoque de seus personagens.
 
-# O Palhaço (Selton Mello, 2011)
+# O Palhaço
 2011-11-06 cinema movies
 
 É muito difícil escrever sobre filmes ruins, atacando conteúdos sem sentido e muitas vezes com uma visão precipitada ou exacerbada. Por outro lado, falar de um filme virtuoso em tantos aspectos como O Palhaço pode ser uma atividade prazerosa e ao mesmo tempo um ato de injustiça, por deixar tantos detalhes do lado de fora do texto.
@@ -27686,7 +27686,7 @@ A história inverte os papéis que no cinema geralmente servem a nós, humanos, 
 
 Aproveitando o argumento original para expor o protagonista no velho clichê de "eu amo uma garota, mas tenho vergonha de me declarar e por isso ela fica com o cara mais descolado", o roteiro se esquece do argumento com maior potencial criativo e parte para uma narrativa rala que busca apenas contar as aventuras que o astronauta terá que passar para conseguir voltar para seu (agora amado) planeta natal.
 
-# Alice no País das Maravilhas (Clyde Geronimi, 1951)
+# Alice no País das Maravilhas
 2011-11-13 cinema movies
 
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.
@@ -27729,7 +27729,7 @@ Porém, para encaixar duas histórias complexas por natureza o roteiro forçosam
 
 A conclusão óbvia é que, para conseguir a segunda reviravolta, não há outra saída menos elegante do que colocar os culpados em situação completamente expositiva, com falas que denotam exatamente o que ocorreu cinco anos atrás, época dos assassinatos, o tipo de coisa que, convenhamos, entrega uma resposta fácil para um problema complexo, desfalecendo todas nossas expectativas por um final inteligente.
 
-# O Preço do Amanhã (Andrew Niccol, 2011)
+# O Preço do Amanhã
 2011-11-17 cinema movies
 
 A grande sacada do gênero de ficção-científica, tanto no cinema quanto na literatura, é conseguir discutir alguma questão da sociedade atual sob a ótica de um mundo fantasioso. Para isso, as pessoas são colocadas em situações em que normalmente não existiriam, mas que lembram ou simbolizam uma questão do mundo real, ainda que encoberto de uma aura futurista.
@@ -27750,7 +27750,7 @@ Depois que as cenas de ação são exauridas, o filme perde o fôlego, o que aca
 
 Depois da sessão, confesso que não consegui pensar em como desenvolver o argumento do filme de uma forma mais... produtiva. Isso explicaria, em partes, porque o diretor do filme é o roteirista e o próprio produtor. Ninguém mais compraria uma ideia como essa para produzir um filme de milhões... nem que tivesse tempo sobrando.
 
-# Se Não Nós, Quem? (Andreas Veiel, 2011)
+# Se Não Nós, Quem?
 2011-11-17 cinema movies
 
 Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.
@@ -27771,7 +27771,7 @@ Portanto, quando vemos um Bernward enlouquecido, ou uma Ensslin determinada a ag
 
 De certa forma, o filme cumpre o que se propõe ao desenvolver uma estrutura irregular que reflete na mesma falta de perspectiva daquelas pessoas que viveram uma época conturbada na história de seu país. Infelizmente, a mesma estrutura falha não cumpre a ambição de contar de fato a história dessas pessoas, o que torna o filme tão difuso quanto o que de fato ocorreu nas décadas passadas.
 
-# A Pele que Habito (Pedro Almodóvar, 2011)
+# A Pele que Habito
 2011-11-18 cinema movies
 
 É fascinante acompanhar a carreira de um diretor habilidoso como Almodóvar. Ele possui aquela flexibilidade rara que permite que entre em qualquer projeto mantendo a sua marca, mas ao mesmo tempo contribuindo positivamente para a narrativa, sem torná-la autoral. Ou pelo menos tenta.
@@ -27794,7 +27794,7 @@ Ao mesmo tempo, a direção não é indiferente aos acontecimentos, e adota como
 
 Não fica claro se o plano em câmera alta do ato final passa a usar o ponto de vista Divino de fato, se questionando até que ponto os humanos chegariam se não houvesse a ética e a moral. Fica claro, porém, que Almodóvar não está conformado ainda com seu avanço no meio cinematográfico, e essa nova alçada confirma, de forma surpreendente, que um dos maiores cirurgiões do Cinema está de volta à sua boa forma.
 
-# Hackers (Iain Softley, 1995)
+# Hackers
 2011-11-19 cinema movies
 
 O mundo dos computadores na década de 90 poderia parecer muito intimidador para a pessoa leiga. Com a internet ainda engatinhando, as raras pessoas que sabiam mexer com esses dispositivos modernos eram considerados gênios incompreendidos, pois quase ninguém realmente entendia o que as pessoas faziam digitando naquela máquina de escrever eletrônica. O fato de ser incompreendido também gerava a desconfiança, pois quem controlaria essas pessoas dotadas do raro dom de conversar com as máquinas? Ao mesmo tempo, havia uma sensação de "perigo invisível", pois a priori qualquer pessoa dessas poderia ter controle nos sistemas que aos poucos estavam sendo entregues à informatização.
@@ -27820,7 +27820,7 @@ E muito embora a visão idealizada de um hacker esteja bem distante da realidade
 E que possuem um nickname.
 
 
-# Amores Imaginários (Xavier Dolan, 2010)
+# Amores Imaginários
 2011-11-20 cinema movies
 
 Primeiro trabalho de Xavier Dolan na direção, roteiro e atuação depois de chamar a atenção com "Eu Matei a Minha Mãe", Amores Imaginários é sobre exatamente o que o título sugere: aquele sentimento de idolatria por uma pessoa que nunca é correspondido à altura, porque no fundo esse sentimento é puramente imaginário. É como uma paixão, em qualquer grau e gênero.
@@ -27855,7 +27855,7 @@ A figura de Anton Ego, antes de ser uma ofensa, acaba se tornando uma homenagem 
 
 Por outro lado, Remy simboliza todas as pessoas que, independente de sua origem, tornam-se muito boas no que fazem.
 
-# Atividade Paranormal 3 (Henry Joost, Ariel Schulman, 2011)
+# Atividade Paranormal 3
 2011-11-24 cinema movies
 
 Usando ainda a velha fórmula de câmeras caseiras que registram eventos aparentemente sobrenaturais, essa é a quarta edição de Atividade Paranormal, já que houve um spin-off japonês, em contrapartida ao que houve na série Velozes e Furiosos; algo como A.P. : Desafio em Tóquio. Continua funcionando muito bem como terror ao gerar medo tanto pelas situações comuns pelos quais todos nós passamos (como a sensação de ter o cobertor puxado no meio da noite) quanto o caráter documental do filme, sem contar a tensão sempre crescente por estarmos, obviamente, aguardando por sustos. Este último ingrediente da série, aliás, chega a ser o tempero especial, pois os sustos geralmente são entregues aos poucos e de maneira caprichosa, o que acaba gerando mais tensão ainda para o grand finale.
@@ -27901,7 +27901,7 @@ Porém, pior que isso são as atuações que, em vez de manterem pelo menos a co
 
 Com uma conclusão que provavelmente irá se gabar de imprevisível, de fato a história é construída em cima de uma narrativa caótica onde virtualmente tudo pode acontecer, e logo não há um mistério a ser resolvido. O roteiro chega a ser tão confuso perto de seu final que podemos perceber pela mudança de humor dos reféns e dos assaltantes, que parecem muitas vezes tão perdidos quanto nós mesmos.
 
-# Domingos (Maria Ribeiro, 2011)
+# Domingos
 2011-11-28 cinema movies
 
 Parafraseando o Chefe Gusteau de "Ratatouille", "qualquer um pode dirigir", ou seja, o bom diretor pode vir de qualquer lugar. Dessa vez veio de Maria Ribeiro, a Rosane esposa do Capitão Nascimento em [Tropa de Elite], que faz aqui um apanhado brilhante de gravações, depoimentos e tomadas capturadas durante o convívio com o cineasta Domingos de Oliveira que buscam ilustrar e homenagear a pessoa e o diretor, ator e roteirista, ao mesmo tempo que mostra seus inúmeros trabalhos no cinema e teatro.
@@ -27911,7 +27911,7 @@ Dotado de uma narrativa fluida, que consegue alternar com um sucesso crescente e
 Em um certo momento, após tantos relatos expositivos, o próprio Domingos confessa que alguém já lhe disse que ele se expõe tanto que a impressão que temos no final é que parece que na verdade ele não se expõe realmente. Discordo. No fundo, a riqueza de seus pensamentos e convicções, talhados em todos esses anos de cinema e teatro, fizeram com que o personagem Domingos tivesse para seu público várias facetas, cada uma delas enriquecendo a pessoa, mas ao mesmo tempo impedindo que pudéssemos resumi-lo dessa forma autocontida. Como o próprio filme sugere, a vida continua, e o próprio Domingos, para alegria dos que não se conformam com tantas homenagens póstumas, vivo e ativo em seus projetos.
 
 
-# Bonequinha de Luxo (Blake Edwards, 1961)
+# Bonequinha de Luxo
 2011-11-29 cinema movies
 
 Curiosamente esse filme ficou conhecido como um clássico, ainda que tenha traços de um verdadeiro cult, tanto pela sua excentricidade quanto pela direção inusitada de Blake Edwards (A Pantera Cor de Rosa), que ilustra a vida de Holly Golightly de uma maneira quase surreal.
@@ -28053,7 +28053,7 @@ A criatura final, por sua vez, assusta pela novidade em seu design e pela forma 
 O significado da chegada ao planeta Terra, enquanto remete à esperança, também dá a ideia de renascimento. Talvez o próprio renascimento do título sirva não apenas para seu começo, mas também o seu final. Talvez a forma escolhida para dar abertura à franquia que, apesar de promissora, nunca conseguiu vingar.
 
 
-# Os Nomes do Amor (Michel Leclerc, 2010)
+# Os Nomes do Amor
 2011-12-12 cinema movies
 
 Ele, um esquerdista especialista em epidemias nos animais. Ela, uma libertária tão libertária que às vezes se esquece de colocar a roupa para sair de casa. Ambos, uma relação que mescla tanto as visões políticas quanto sexuais da França atual. Porém, mais importante, levanta a sensível questão da imigração, que vem engrossando caldo desde o movimento anti-terrorista liderado pelo governo Bush e evidenciado na crise europeia.
@@ -28106,7 +28106,7 @@ No entanto, as participações de Laura Linney e Julie Walter (essa última, tam
 Fora isso, temos Julie Walters no papel de Evie Walton, uma atriz aposentada cuja vida é um misto de realidade e encenação. Esse é o papel que faz toda a diferença.
 
 
-# Matrix (Lana Wachowski, Lilly Wachowski, 1999)
+# Matrix
 2011-12-20 cinema movies
 
 Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?
@@ -29958,7 +29958,7 @@ Suportado por um elenco não apenas de peso, mas que fazem a combinação perfei
 
 Felizmente, Allen consegue fechar com chave de ouro cada uma das situações, deixando apenas uma situação de quero mais. Não me cansaria de assistir por duas horas novamente acontecimentos nA Cidade Eterna.
 
-# Branca de Neve e o Caçador (Rupert Sanders, 2012)
+# Branca de Neve e o Caçador
 2012-07-20 cinema movies
 
 Uma versão mais Senhor dos Anéis do popular conto divulgado pelos irmãos Grimm, Branca de Neve e o Caçador tenta focar exatamente nessas duas figuras da história da linda jovem que é perseguida pela rainha má, ao mesmo tempo em que utiliza uma direção de arte fabulosa, que consegue reconstruir de maneira estilizada uma atmosfera propícia para o engrandecimento da vilã (Theron). Incrivelmente, é esta que consegue sugar melhor a atenção do público, mesmo tendo relativo pouco tempo de tela. Enfim, uma empolgante releitura que merece uma atenção especial.
@@ -31002,7 +31002,7 @@ Entre eles, a estrela do filme, Raymond (Jim Cummings), ou Ray, um vagalume que 
 Ressalto mais uma vez que Ray é a grande estrela do filme, pois protagoniza a cena mais dramática e a mais poderosa de toda a trama, uma cena capaz de resgatar toda a mágica da hoje gigante Disney. Quando isso acontece dentro de um enredo onde a protagonista vira mera espectadora de seu maior desejo, há algo muito errado nessa história.
 
 
-# O Homem da Máfia (Andrew Dominik, 2012)
+# O Homem da Máfia
 2012-12-12 cinema movies
 
 Esse é um ótimo filme sobre as ações e decisões de um grupo de mafiosos a respeito do destino do seu negócio de jogatina. Basicamente o que se coloca em jogo é a confiança dos donos dessas casas depois que um deles, Markie Trattman (Ray Liotta), rouba seu próprio negócio. O que o torna um filme excepcional é que essa manutenção da confiança no sistema ilegal de jogos de azar traça um paralelo direto com a crise econômica nos Estados Unidos iniciada em 2007 e que até hoje ecoa pelas casas vazias e massas de desempregados cheios de dívidas. A confiança no sistema financeiro também foi abalada naquele momento e algo teve que ser feito.
@@ -31514,7 +31514,7 @@ Por fim, se o uso de uma aposta final que una todos os finais soe a princípio f
 Dito isto, O Lado Bom da Vida não se esforça como uma produção "indie" (o estilo, não o orçamento) em tornar os seus personagens queridinhos por terem uma plantação de produtos orgânicos e namorarem uma negra (vide "Minhas Mães e Meu Pai"). Os personagens já são fascinantes apenas por existirem, e o filme apenas nos faz conhecê-los de corpo e alma em duas horas. E o faz muito bem.
 
 
-# Os Miseráveis (Tom Hooper, 2012)
+# Os Miseráveis
 2013-02-07 cinema movies
 
 Baseado em uma peça musical (que é baseado no clássico literário de Vitor Hugo), a história de Os Miseráveis se passa na França pós-revolução e gira em torno de Jean Valjean (Hugh Jackman), um ex-prisioneiro que foi condenado por ter roubado um pão e que cumpriu pena por 19 anos. Os destinos de diversos personagens se encontram com Valjean, inclusive Javert (Russell Crowe), o inspetor que cuidava das galés onde realizava trabalhos forçados, e Fantine (Anne Hathaway), mãe da pequena Cosette (Amanda Seyfried crescida) e que faz de tudo para sustentar a filha, inclusive chegando a se prostituir.
@@ -32616,7 +32616,7 @@ Porém, se as coisas vão ou não até o fim, apenas quem assistiu ficou sabendo
 
 Um exercício de estilo, tanto na direção quanto no roteiro. Divertido do começo ao fim, a partir de um humor muito, muito peculiar.
 
-# Os Suspeitos (Denis Villeneuve, 2013)
+# Os Suspeitos
 2013-10-25 cinema movies
 
 O cansaço, desânimo e um envolvimento ilimitado na busca de duas meninas desaparecidas é o que forma a base de Os Suspeitos, mantida todo o tempo por três pilares fundamentais: o detetive e o pai incansáveis formam dois deles; a direção impecável de Denis Villeneuve (do excelente "Incêndios") no desenvolvimento da trama forma o terceiro.
@@ -33301,7 +33301,7 @@ Brincando com referências tanto de Touro Indomável quanto de Rocky, mais este 
 
 Pecando apenas por não resolver satisfatoriamente os dilemas pessoais de ambos (a não ser que você concorde que um passeio pela calçada ou um livro de recortes pode resolver atritos que se estenderam por 30 anos), Ajuste de Contas é uma ótima notícia até para quem não suporta mais as produções politicamente corretas, pois não tem sequer medo de fazer piada entre sexo oral e balas de jujuba com uma criança.
 
-# Preso na Escuridão (Alejandro Amenábar, 1997)
+# Preso na Escuridão
 2014-01-29 cinema movies
 
 Acabei de ver o original de Vanilla Sky, aquele com o Tom Cruise correndo como um louco. Uma produção espanhola/italiana/francesa, o filme de 1997 conta também com a participação de Penélope Cruz como Sofia, mas diferente do tom experimental em 2001 dado pelo diretor Cameron Crowe (Jerry Maguire - A Grande Virada), a direção madura de Alejandro Amenábar (Os Outros), por incrível que pareça, transforma completamente a narrativa de dois filmes que foram filmados praticamente quadro a quadro.
@@ -34490,7 +34490,7 @@ E se o plot twist a respeito do tal Soldado Invernal seja um dos melhores gancho
 
 Bom, eu assisti, mas não lembro de muita coisa. Só que Capitão América estará de volta em Os Diamantes Têm Mais de 100 Anos.
 
-# No Impact Man (Laura Gabbert, Justin Schein, 2009)
+# No Impact Man
 2014-04-27 cinema movies
 
 Esse é daqueles documentários ecológicos que se baseia no escritor Colin Beavan e sua família, a esposa compradora compulsória Michelle Conlin e a pequena e inocente filha. Os três passarão um ano cuidando de suas vidas sem tentar causar qualquer impacto ambiental no meio de Nova York. Primeiramente, devo perguntar: o que seria um impacto ambiental para uma família dessas, e por quê?
@@ -35509,7 +35509,7 @@ int main()
 Da mesma forma, operações como cópia, movimentação, ordenação, caotização, pode ser feito usando dois ponteiros/iteradores de dois contêiners distintos, desde que algumas regras básicas sejam seguidas, como um iterador deve sempre apontar para algo válido (ou disponibilizar alguma abstração que insira novos elementos em um contêiner menor). Veremos essas regras talvez em um próximo post sobre o tema.
 
 
-# Introdução à Introdução à Computação (Larry Gonick, 1984)
+# Introdução à Introdução à Computação
 2014-07-01 books computer blog
 
 O livro começa lá nos primórdios da informação, antes mesmo da humanidade. Sim, pois informação não necessita sequer de um ser sensciente para ser transmitida e utilizada, como já foi comprovado através de nosso código genético, o agora-popular-por-causa-do-ratinho DNA. Uma informação codificada intrinsecamente no processo de reprodução das células de um ser vivo. Um computador orgânico!
@@ -36283,7 +36283,7 @@ Está acontecendo até a metade de outubro o festival Luz, homenageando Walter d
 
 O terceiro filme que vi é um trabalho da ótima Laís Bodanzky. Imagino o que Walter deve ter feito para manter a luz tão aconchegante quanto nostálgica em Chega de Saudade. O Cinema Nacional é um palco de muitas luzes, e Walter sabe usar muito bem todas elas.
 
-# Os Suspeitos (Bryan Singer, 1995)
+# Os Suspeitos
 2014-10-04 cinema movies
 
 Em 1995 Kevin Spacey entrou em uma dobradinha (favor ignorar "Epidemia") que virou clássica nos filmes de suspense e policiais. "Seven: Os Sete Crimes Capitais" remodelou o gênero de serial killer em uma conclusão que deixou muita gente filosofando por meses a fio (os mais fanáticos, como eu, até hoje). E Os Suspeitos ganhou a mesma fama (esse eu cheguei a ver no cinema, tinha acabado de completar 16 ou quase). Ambos são filmes em que o mal prevalece? Não necessariamente. Temos aí uma relativização assimétrica do mal. Os policiais nem sempre são bonzinhos. Por outro lado, os bandidos continuam maus, mas agora assumem o papel de justiceiros involuntários.
@@ -37758,7 +37758,7 @@ Acompanhamos a vida dura de Marquim, vivendo sozinho em uma cadeira de rodas, at
 
 Não é nenhuma novidade que Brasília seja rodeada de miséria, seja em um raio de cem quilômetros ou milhares deles. O que torna "Sai branco" empolgante é exatamente o seu distanciamento temporal, o que permite essa extrapolação pela realidade alternativa em que fanáticos religiosos chegam ao poder, tornando tudo ainda mais dramático. Ou será que todo essa dramaticidade não está presente nos dias atuais e é esse distanciamento que nos faz enxergar com um olhar mais crítico? Às vezes a ficção, científica ou não, é o caminho mais cru para a auto-crítica do tempo em que vivemos.
 
-# Capote (Bennett Miller, 2005)
+# Capote
 2015-03-13 cinema movies
 
 Philip Seymour Hoffman vive o dramaturgo Capote com sua característica voz e seu jeito afetado que tinha o poder de inibir as pessoas ao redor. O personagem irá viver cinco exaustivos anos documentando a biografia de um assassino de sangue-frio, mas sua curiosidade fala mais alto. O roteiro adaptado de um outro trabalho literário exalta como as formas se transformam ao longo do tempo (de livro para livro para filme) em um drama denso sem interpretação simples.
@@ -38017,7 +38017,7 @@ No entanto, sua direção não deixa de ter virtudes aqui e ali, embora quase es
 
 Infelizmente, apenas o seu final consegue revirar todos aqueles momentos e fazer-nos pensar em tudo o que o professor disse durante as aulas, rever tudo o que sabemos sobre mídia, política e discursos. A paranoia parece passar do protagonista para nós mesmos, percorrendo todos os detalhes da trama, encontrando os já citados furos (o da namorada é o mais gritante ou controverso) e chegando até o garoto ensanguentado no começo. Há uma rima entre o começo e o final que também grita para aparecer aos seus espectadores, que precisam entender que grande filme é esse que está tão bem escondido.
 
-# O Jovem Frankenstein (Mel Brooks, 1974)
+# O Jovem Frankenstein
 2015-04-11 cinema movies
 
 O diretor piscando para nós a todo momento, ele que junto do ator Gene Wilder roteiriza e executa a história do neto do famoso Frankenstein em um filme p&b, uma pintura representando o castelo, letreiros antigos e uma trilha sonora inspirada. Um complemento cômico da obra original, pois não a denigre, mas a reinterpreta para o humor. Gene Hackmann faz uma ponta imperdível na sequência entre o monstro e um cego do vilarejo.
@@ -38987,7 +38987,7 @@ Ainda assim, há muitas virtudes em O Mordomo de Preto que são deixadas de lado
 
 De certa forma, O Mordomo de Preto homenageia a comédia do absurdo sem ser engraçado, a ação pastelona sem criar tensão, e o drama surreal sem fazer chorar. Enfim, um trabalho artisticamente vazio, embora plasticamente impecável.
 
-# O Poder do Agora (Eckhart Tolle, 1997)
+# O Poder do Agora
 2025-07-05 books self now
 
 "Embora eu continuasse vivendo normalmente, tinha percebido que nada que eu viesse a fazer poderia mudar realmente a minha vida. Eu já tinha tudo de que necessitava."
@@ -40480,7 +40480,7 @@ A história gira em torno da busca do paradeiro dos corpos dos pais de Anna, que
 
 Se desdobrando de maneira fascinante com uma série de acontecimentos nos últimos minutos do segundo tempo da prorrogação, Ida vira uma reflexão poderosa sobre a vida e suas rimas, mas como está com o tempo escasso de maneira superficial. Pelo menos faz o gancho com tudo o que foi visto, e de forma alguma é uma conclusão jogada. Com roteiro de menos, mas direção e fotografia de mais, o saldo é mais que positivo.
 
-# Eu Estava Justamente Pensando em Você (Sam Esmail, 2014)
+# Eu Estava Justamente Pensando em Você
 2015-10-09 cinemaqui cinema movies
 
 O amor está no ar, mas seus portadores estão com dúvidas existenciais, são espertos demais para senti-lo ou sofrem da doença do século: ansiedade.
@@ -41188,7 +41188,7 @@ Veterano também no Cinema, Rory Kinnear pode ser visto nos últimos 007, além 
 
 Dirigido pelo televisivo Otto Bathurst, a fotografia lembra o de telejornais, e eles aparecem em boa parte do tempo, empregando ainda mais realismo ao acontecimento, chegando em um momento em que até fiquei um pouco desconfiado que o sequestro talvez tivesse sido real e eu não fiquei sabendo por não ter passado muito na mídia tradicional (como se ainda acompanhasse isso). Os movimentos de câmera, ou melhor, a decupagem de Bathurst, demonstra sua sensibilidade em capturar quais os melhores personagens para vermos em cada momento, o que explica a lindíssima sequência em que vemos representantes do povo britânico estupefatos diante das TVs de onde assistem o show de horrores, que nada mais é que a materialização do significado real de um estado.
 
-# Black Mirror: Fifteen Million Merits (Euros Lyn, 2011)
+# Black Mirror: Fifteen Million Merits
 2015-12-13 cinema series
 
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
@@ -43518,7 +43518,7 @@ No entanto, mesmo assim, se torna acessível ao grande público, que se tiver pa
 
 Não importa. E nem importa o leque de possibilidades. O filme muito bem poderia tomar qualquer outro rumo e ainda seria igualmente poderoso. Porém, é no seu jogo naturalista, que evita trilhas sonoras e diálogos expositivos, que ele encontra a força do acaso e das coincidências irritantes. O único alento é que, aconteça o que acontecer, dois mais dois continuarão sendo quatro.
 
-# O Que Eu Fiz Para Merecer Isso? (Patrice Leconte, 2014)
+# O Que Eu Fiz Para Merecer Isso?
 2016-04-15 cinemaqui cinema movies
 
 Um homem quer ouvir um disco que para ele tem muito valor. Suas tentativas frustradas vão escalando em uma história cada vez mais absurda. Essa é a premissa básica de O Que Eu Fiz Para Merecer Isso?, que realiza uma farsa -- aquela comédia em que todos os personagens são críveis, mas exagerados -- em praticamente um cenário.
@@ -43952,7 +43952,7 @@ E se há uma discussão pertinente (se você viver nos anos 80) sobre o "papel d
 
 Tudo é muito rico e muito vazio em Alice, pois não há tempo para explorar muito mais os personagens do que é demandado pela sede de lucros da Disney, disposta a deturpar a história do espelho do segundo livro para fazer um gancho com um possível "Alice Chronicles".
 
-# Nise: O Coração da Loucura (Roberto Berliner, 2015)
+# Nise: O Coração da Loucura
 2016-05-29 cinema movies
 
 Glória Pires desperdiçada em Tempo de Despertar brasileiro. Acompanhamos o fascinante tratamento psiquiátrico conduzido por Nise da Silveira, uma personagem da vida real, aos pacientes do instituto psiquiátrico Engenho de Dentro, no Rio de Janeiro de 1940. As mulheres independentes não são bem vistas, e Nise se coloca entre a ala masculina de doutores explorando novos métodos de lobotomia de pacientes (como se os estivessem curando) enquanto Nise tenta uma abordagem mais Jungiana, voltada para entender o inconsciente de seus pacientes, que carinhosa ou respeitosamente, insiste em chamar de clientes (embora não durante todo o tempo, falha de roteiro). Acima das divergências científicas, o que está em jogo é um tratamento mais humano e que tente de fato melhorar a vida dessas pessoas isoladas do mundo por distúrbios mentais.
@@ -46634,7 +46634,7 @@ Aliás, a construção da história passa por cada uma das amigas dirigindo com 
 
 Sem conseguir em seu terceiro ato se manter realista, apelando para uma reviravolta boba que apenas piora o resultado final, 5 Mulheres é um passatempo esquecível a partir do momento dos créditos finais, uma bobagem que tenta ser muitas coisas sem sucesso.
 
-# A Menina Sem Mãos (Sébastien Laudenbach, 2016)
+# A Menina Sem Mãos
 2016-10-25 cinema movies
 
 Mais um desenho baseado em conto dos Irmãos Grimm. Na verdade, Jacob e Wilhelm Grimm, além de resgatar um pouco da origem das línguas germânicas e ajudar a fundar o estudo organizado de linguística, eles também coletaram a cultura desses povos, o que significa na prática suas crendices e valores, estruturadas em contos que eram contados de geração em geração. Ao salvar como escrita, eles conseguiram salvar boa parte da História no formato de folclore.
@@ -53264,7 +53264,7 @@ Já Rust Cohle é o resultado de alguém que não possui um casco duro o suficie
 
 Ambos são peça fundamental para o sucesso da série, sem os quais ela simplesmente não existiria. Apesar da trama complexa conseguir nos chamar atenção, ainda que nos arrastando vagarosamente por quatro décadas, é apenas a presença dos dois que permite que continuemos por todo o caminho. No final, o que mais importou foi entender a dinâmica dos dois. Mais do que a possível resolução de um crime que permaneceu escondido por tanto tempo. Quem liga para isso? Haverão muitos, muitos mais do que esse. A série entende que heroísmos aqui são passageiros, e quase irrelevantes. Ela tenta dar um ar mais otimista em suas últimas palavras, mas convenhamos: o estrago já está feito. Por que somos conscientes?
 
-# Olhando Para As Estrelas (Ale Peralta, 2016)
+# Olhando Para As Estrelas
 2017-11-04 cinemaqui cinema movies
 
 Olhando para as Estrelas é um filme fofinho que não enxerga dificuldades, apenas facilidades. Com isso ele perde um potencial drama da vida real, ou troca pela visão de um mundo de sonhos, onde tudo é possível. Mas se tudo é possível tão "fácil" assim, qual a graça da conquista?
@@ -55527,7 +55527,7 @@ Mas quando a primeira variável começa a dar problema, o desespero bate na bund
 
 "Ah, não. Textão ninguém aguenta!", "TL;DR".
 
-# Arábia (João Dumans, 2017)
+# Arábia
 2018-03-24 cinemaqui cinema movies
 
 Arábia é um filme com muitos momentos marcantes. E esses momentos são marcantes principalmente por conta de seus belíssimos enquadramentos, que evocam em todos os elementos presentes em cena o significado da história que está sendo contada. E o mais impressionante é que a história contada é um épico de um homem comum, anônimo, e por que não, invisível.
@@ -55915,7 +55915,7 @@ No fundo vamos percebendo que são todos estereótipos que representam exatament
 
 Conspirações de Guerra Fria, espécimes raras capturadas em florestas sul-americanas (apenas um exemplar, e querem usar no programa espacial; sounds legit), mudinhas cuja reviravolta já sabemos desde o primeiro momento que olhamos para seu pescoço, negras que preenchem cotas e são alvo de piadas racistas, brancos que preenchem cota e são alvos de ódio SJW. O pacote é vasto de personas, mas não há nenhum personagem tridimensional nesta história romantizada sobre um amor "impossível" entre dois outcasts (o filme é recheado de mais alguns). Enfim, se você gosta de verde e nostalgia, talvez esse filme seja para você. Do contrário...
 
-# Ciganos da Ciambra (Jonas Carpignano, 2017)
+# Ciganos da Ciambra
 2018-04-20 cinemaqui cinema movies
 
 Que filme impactante! E extenuante. Quando chegamos na última cena estamos esgotados, e não é pelas duas horas de projeção. Ciganos da Ciambra praticamente nos rouba a alma com seu fundo documental e histórico, e faz isso de uma maneira absurdamente tensa e atemporal. Quando o garoto do filme chega ao final, ele passou por tantas iniciações, e todos os passos necessários para se tornar um homem -- algo que ele deseja muito desde o começo -- que parece que o filme não vai terminar. Pelo menos para nós. Para ele, valeu completamente a pena.
@@ -56076,7 +56076,7 @@ Há diferentes fontes de imagens neste filme em um trabalho admirável de pesqui
 
 Porém, se para isso teremos que burocratizar o cinema em documentários que tem por finalidade catalogar o acervo nacional financiado pela Ancine e realizado da maneira mais insossa possível, seria melhor queimarmos tudo e dar espaço para o novo, pois o velho é reconhecidamente valioso demais para ser revisto e assim estragar nossas tenras memórias de algo que parecia muito maior do que aqui é visto. E esta minha última frase está muito mais coerente do que a maioria das falas de Todos os Paulos do Mundo, o que é a lástima de sintetizar o impossível: o próprio ato de atuar.
 
-# Os Fantasmas de Ismael (Arnaud Desplechin, 2017)
+# Os Fantasmas de Ismael
 2018-04-29 cinemaqui cinema movies
 
 Este é mais um filme sobre o processo de criação. Mas ele é tão intenso que se deixa levar como uma auto-análise do seu criador. Eu disse quase, já que Os Fantasmas de Ismael é um trabalho que se mantém sob controle se você olhar de perto, mas para o leigo, esta é uma aventura muito, muito louca, que com um pouco de esperança irá te dar alguns insights sobre como somos manipulados todo o tempo nas artes cênicas e na literatura.
@@ -56129,7 +56129,7 @@ Existe um motivo interno para o inglês "pobre", já que na história contada Cl
 
 Os pedaços do tecido cortado pela menina do filme por raiva lembram os polaroides de Claire. Em um dos momentos finais do filme a vemos tentando vestir um pedaço desse tecido, que ela considera de qualidade fabulosa. Texto e tecido estão relacionamentos etimologicamente, do Latim textum, "tecido, entrelaçamento". E a Câmera de Claire é essa máquina de costurar, que conta uma história através de suas fotos, que revelam momentos entrelaçados. A textura dessa história depende dos seus personagens, que estão vivos, nas ruas, e mudam toda vez que uma foto deles é tirada.
 
-# Vingadores: Guerra Infinita (Anthony Russo, Joe Russo, 2018)
+# Vingadores: Guerra Infinita
 2018-05-03 cinema movies
 
 Avengers: Guerra Infinita nem parece ter duas horas e meia. E nem parece ter dúzias de super-heróis. Centrado mais no Mal (com letra maiúscula) frio, calculista e encarnado pela figura de Thanos (Josh Brolin), o "maior crossover da história" (by Marvel) é uma guerra que ocorre em diferentes níveis entre diferentes formas de heroísmo. Preferindo ser narrado como um drama fantástico e urgente que tem a cara, a alma e a paleta de cores dos quadrinhos, o trabalho colossal dos dois irmãos diretores Anthony Russo e Peter Russo atravessa fronteiras entre universos e realiza pequenos milagres na composição de quadro, de ritmo, de narrativa e de roteiro (encaixar todo este instigante roteiro e não torná-lo enfadonho é, sim, um trabalho admirável de direção) de forma a compor o maior trailer já visto na história do Cinema em uma produção massivamente inchada de efeitos. E o fato de sequer repararmos que muitas das mini-histórias que acompanhamos não fazer muito sentido isoladamente ou que o cenário da computação é pesado, mas veio para ficar, é graças a uma produção preparada e pensada 15 filmes atrás, quando o maior sonho que uma criança já teve se tornou realidade nas telonas da sétima arte.
@@ -57748,7 +57748,7 @@ O que há de mais rico no roteiro são os detalhes. Aprendemos através deles po
 
 No entanto, como eu disse, essa janela se abre, mas é muito estreita. Difícil perceber o que o filme quer dizer com tudo isso. Sendo filmado basicamente narrando os acontecimentos e alternando entre as histórias a impressão é que não há pausa para reflexão. Todos estão agindo sob pressão imediata. A trilha sonora, de suspense, e uma câmera na mão, com cortes rápidos demais para reflexão, tornam "Café" no próprio efeito que a bebida traz, de euforia sem significado, de um alerta sem necessidade.
 
-# O Animal Cordial (Gabriela Amaral, 2017)
+# O Animal Cordial
 2018-08-01 cinemaqui cinema movies
 
 O Animal Cordial é um laboratório humano. Seu título já é uma contradição em termos, e durante todos os tensos 93 minutos do filme vamos encontrando o animal dentro do homem, mas nunca o cordial. Isso porque vivemos em tempos estranhos, onde a imaginação sobre o ódio atinge níveis utópicos, e nos transforma em indivíduos lutando por um espaço.
@@ -57784,7 +57784,7 @@ O "experimento" é conduzido em uma casa isolada de tudo e de todos e com a ajud
 
 Todos os acontecimentos durante todos os anos da infância das três crianças se resume em piadas de comédias de situação, não se concentrando nunca na história original sendo contada. Isso meio que comprova que este não é um filme baseado em fatos reais (pois não faz sentido) e que esta pode ser uma boa premissa para uma história, mas na prática vira o velho enlatado norte-americano.
 
-# Você Nunca Esteve Realmente Aqui (Lynne Ramsay, 2017)
+# Você Nunca Esteve Realmente Aqui
 2018-08-04 cinemaqui cinema movies
 
 Situado em nosso inconsciente, nas profundezas de nossa sociedade pós-moderna, flutua a realidade e os intermináveis debates sobre o homem comum, esse que vive uma rotina em que, apesar de alguns percalços, tudo parece estar em relativa ordem e estabilidade. "Você Nunca Esteve Realmente Aqui" não fala sobre este homem, mas trabalha do outro lado da equação, onde a violência brutal marca as pessoas que nela vivem, e que para sempre deixaram de ser os mesmos. Sua realidade não possui essa estabilidade com alguns percalços de vez em quando. A realidade é o eterno percalço, com breves momentos, se tiverem sorte, de alguma calmaria.
@@ -59530,7 +59530,7 @@ Fechando o ciclo com uma versão fabulosa de Sound of Silence da cantora espanho
 Peguei do manual do Linux os passos para a criação da famosa *zavarka*, mas em vez de chá preto o chá verde japonês. O resultado da proporção 1 para 5 (1: folhas; 5: água) com água completamente fervida foi bombástico. Um soco no estômago; cheguei a vomitar. Isso misturando depois o resultado com mais o dobro de água. Recomendo moderação e pouco tempo de infusão.
 
 
-# Djon Africa (João Miller Guerra, 2018)
+# Djon Africa
 2018-10-07 cinemaqui cinema movies
 
 Djon Africa oferece ao espectador médio em sua camada principal a "historinha": a aventura de Djon em busca de suas origens, em busca do pai. Mas apesar da atuação curiosamente familiar de Bitori Nha Bibinha em uma busca eterna não é isso o que torna o filme fascinante; é o que vem depois.
@@ -59545,7 +59545,7 @@ Para isso, voltando aos enquadramentos do filme, a paisagem beira-mar resgata a 
 
 No final, temos uma tomada estática que retorna à cidade, e que por demorar demais traz um significado a mais do que o simples passar dos transeuntes. Note como o foco vez ou outra captura as pessoas indo e vindo, enquanto todo o resto permanece desfocado. A história de Djon, como pode perceber, é apenas mais uma. Nós, humanos, estamos nessa busca de nossas origens, ou quem somos, do nascimento à morte. Djon Africa é essa busca que parte do particular para o universal. E é aí que o filme transcende.
 
-# O Lobo de Wall Street (Martin Scorsese, 2013)
+# O Lobo de Wall Street
 2018-10-07 cinema movies
 
 Assistir um filme do Scorsese, mesmo que acabou de estrear, é ser convidado para os anos 70. O que eu quero dizer com isso é que sexo, drogas, violência e moral serão mostradas sem aquele filtro horrível que infantiliza a nossa época. Curiosamente, se há uma característica que os "heróis" de O Lobo de Wall Street carregam em comum é a imaturidade. Uma imaturidade animalesca, que faz jus ao personagem-título.
@@ -59741,7 +59741,7 @@ Quase sempre usando sua câmera como microfone, o filme está querendo encontrar
 
 (Galileu descobriu que a densidade depende da temperatura, criando assim seu termômetro que leva o título deste filme. Pela análise da densidade narrativa podemos também concluir que a temperatura tende a zero kelvin.)
 
-# A Rota Selvagem (Andrew Haigh, 2017)
+# A Rota Selvagem
 2018-10-17 cinemaqui cinema movies
 
 A Rota Selvagem pode parecer simples pelas suas premissas tantas vezes explorada. O garoto que se identifica com um cavalo prestes a ser vendido e abatido por não servir para sua função é exatamente o que o diretor/roteirista inglês Andrew Haigh precisa para materializar o sonho americano em seu formato mais cru, tendo como seu herói uma mente jovem e sem preconceitos. E o resultado é devastador, e seria ainda mais, se não fosse o jeito americano de fazer filmes.
@@ -60245,7 +60245,7 @@ Os espectadores religiosos, cristãos ou não, que estiverem dispostos a largar 
 
 Econômico em sua narrativa mas eficaz em sua mensagem, A Prece é um ótimo exemplo de filme religioso que não é propaganda e nem precisa, mas que ironicamente como consequência nos traz uma verdadeira lição de fé, amor e esperança.
 
-# A Garota na Névoa (Donato Carrisi, 2017)
+# A Garota na Névoa
 2018-11-06 cinemaqui cinema movies
 
 Uma garota desaparece em meio à névoa. Surge um inspetor em cena e começam as investigações, sob aquela trilha sonora dramática que todos conhecem. Aliás, alguns thrillers policiais costumam cheirar a clichê desde o primeiro momento até seu final. A Garota Na Névoa não é exceção. Porém, o diretor/roteirista/romancista Donato Carrisi sabe disso e usa esses clichês de maneira distorcida, chamando nossa atenção para detalhes que não costumam ganhar o foco nessas histórias. E é isso a grande reflexão que o filme nos tem a oferecer.
@@ -65142,7 +65142,7 @@ Há histórias mais conceituais e que apenas testam algumas sensações do espec
 
 Produzido por uma galera envolvida na área visual, incluindo David Fincher, e criado pelo diretor de Deadpool, LDR vai te entreter algumas vezes pela estética, outras pela narrativa, quando muito por ambos. Portanto, se acomode na poltrona e curta essa nova série da Netflix com saliva na boca. Não se preocupe em acabar tudo de uma vez. É capaz que irá voltar a assistir à maioria dos episódios. E quer melhor prova de qualidade do que essa?
 
-# Como Vender Drogas Online (Rápido) (Lars Montag, 2019)
+# Como Vender Drogas Online
 2019-06-09 cinema series
 
 Esta série pisca para os nerds. A geração X (é essa mesmo? Fxda-se) não quer nada da vida e o Zuckerberg da Alemanha resolve vender drogas na darkweb apenas por um motivo: bxcxta.
@@ -68947,7 +68947,7 @@ Através de estereótipos que todos nós conhecemos a respeito de esquerdistas e
 
 Este é um documentário necessário? Com toda certeza que não. Mas ele é ruim? Nem um pouco. É uma história até que coesa, e que tem Georgette, que é uma diversão à parte. Ela é o tipo de mulher inteligente, enérgica, que possui opiniões fortes, mas que não deixa de ser uma pessoa interessante para bater um papo no bar. Era o que eu faria se não tivesse uma próxima sessão assim que o filme acabou. Bom, fica pra outra vez. Bar e jogar conversa fora são duas riquezas que não faltam em solo brasileiro.
 
-# Amazing Grace (Alan Elliott, Sydney Pollack, 2018)
+# Amazing Grace
 2019-10-24 cinemaqui mostrasp miniviews cinema movies
 
 Se Deus existe a porta-voz é Aretha Franklin. Este o resultado das horas gravadas de duas noites em uma igreja em Los Angeles em 1972 e por problemas técnicos apenas lançado recentemente na Mostra de SP. Franklin é a personagem divina que canta Gospel em níveis nunca antes ouvidos. Não são músicas famosas para quem não é evangélico, talvez nem sejam tão boas assim. Ainda assim ela transforma em um dos melhores álbuns que já se viu e ouviu, comprovando que músicas são detalhes para grandes cantores.
@@ -69056,7 +69056,7 @@ Sua introdução é instrumental pelo tom de baixar as armas e dar créditos a a
 
 "O Mês Que Não Terminou" é mais do que focar no equilíbrio de opiniões. É um mergulho intelectual denso que busca iluminar os obstáculos que vivemos hoje para a compreensão do outro, e assim, quem sabe, podermos finalmente darmos as mãos novamente, e retomar aquela amizade perdida por briga de política.
 
-# O Que Arde (Óliver Laxe, 2019)
+# O Que Arde
 2019-10-26 cinemaqui cinema movies
 
 É um sentimento profundo, que vai além da razão, testemunhar uma floresta ser devastada. Árvores caindo ao movimento de um trator e a fumaça denunciando um incêndio não muito longe dali marcam o início de O Que Arde, terceiro filme do diretor Santiago Fillol escrito pelo seu parceiro usual, Oliver Laxe, e ambos não deixam fácil extrair algum significado disso tudo.
@@ -72812,7 +72812,7 @@ Pesquisa de lá, pesquisa de cá, fuça de cá, fuça de lá, encontrei acho que
 
 Feito isso todo o mundo maravilhoso de .nerd volta a fazer sentido.
 
-# Conversations with Pauline Kael (Will Brantley, 1996)
+# Conversations with Pauline Kael
 2024-04-13 cinema books
 
 "Never give them the excuse to stay home if there's anything there on the screen."
@@ -73179,7 +73179,7 @@ Os desafios dessas pessoas de classe média são hilários. A esposa precisará 
 E apenas alguns verão o que realmente importa. E será delas o reino dos céus.
 
 
-# Flow: The Psychology of Optimal Experience (Mihaly Csikszentmihalyi, 1990)
+# Flow: The Psychology of Optimal Experience
 2020-09-27 books self flow
 
 Este é um dos livros mais importantes que já li e acredito que pode ser muito importante para você também. Por isso quero dedicar algumas linhas para argumentar por que você deve lê-lo, ainda que ele seja denso demais para a maioria das pessoas.
@@ -76075,7 +76075,7 @@ Apesar de comédia, A Boa Esposa possui em seu fundo um tom melancólico e talve
 
 Wong Kai Wai é um dos maiores cineastas em atividade no cinema. Seus filmes são a expressão pura do desejo de retratar sentimentos, emoções ou qualquer presença de espírito ou atmosfera através dos enquadramentos, cores, sombras, movimentos. Seus atores são seus bonecos de modelar sensações, e seu misce en scene, ou seja, que ele escolhe colocar na tela, é tão natural quanto o ar que suas locações emanam. O cineasta também não está interessado em levantar as horríveis bandeiras políticas de nossos tempos, o que hoje é um diferencial. É sobre relacionamentos, mas não apenas. No universo do diretor que nunca escreve roteiros antes de sair filmando, muito se pega por osmose. É um olhar, um ângulo, um movimento com a cabeça. A vida está lá, representada em cor e movimento. Pulsante, livre e atemporal.
 
-# Jumanji: Bem-Vindo à Selva (Jumanji: Welcome to the Jungle, Jake Kasdan, 2017)
+# Jumanji: Bem-Vindo à Selva
 2021-06-20 cinema movies
 
 ## Versão Nintendo
@@ -76264,7 +76264,7 @@ Essa animação chinesa mistura elementos visuais clássicos do 2D desenhados a 
 
 Bonitinho em sua história, simplório em seus gráficos, comercial em seu apelo, mas apaixonante em sua mensagem. Esta animação que mistura amizade, kung-fu e valores da vida é produzido por Jackie Chan. Seus dubladores são de primeira, mesmo falando em inglês. E é bom ver trabalhos de origem asiática hoje em dia sem nenhuma bagagem social militante que tanto enche o saco.
 
-# Jumanji (Joe Johnston, 1995)
+# Jumanji
 2021-07-31 cinema movies
 
 O filme original com Robin Williams tem a cara de um projeto comercial família que pega a onda das primeiras invencionices da década de 90 com computação digital. Também apresenta uma Kirsten Dunst surpreendentemente jovem se comparada à sua aparição no primeiro Homem Aranha de Sam Raimi.
@@ -76510,7 +76510,7 @@ Tenet é um filme ruim, mas não detestável, pois não há como desgostar das b
 
 Sessão de curtas espanhol com Ricardo Darin onde o foco é entender as formas de comunicação masculina. Bom ritmo, passa rápido. Não tem um ponto onde quer chegar. Bons diálogos com rimas ao longo da projeção. Fragmentos do cotidiano que devem deixar as mulheres putas. Para nós, homens, está tudo certo.
 
-# O Que Eu Fiz Para Merecer Isso? (Pedro Almodóvar, 1984)
+# O Que Eu Fiz Para Merecer Isso?
 2021-09-11 cinema movies
 
 Um clássico dos anos 80 de Pedro Almodóvar mistura o humanismo de Elia Kazan, sua paixão pelo cinema, pela sensualidade e, principalmente, pelo adorável trash que o tornou conhecido no mundo todo.
@@ -86819,7 +86819,7 @@ Quem encara com tanta seriedade o papel que quase dorme é Javier Bardem, claram
 Porém, o que pode fazer você realmente se afastar é a projeção capenga dos primeiros minutos. Ela está lotada de efeitos visuais destacados, com iluminação toda errada entre cenário e personagens, jogo de luzes confuso e que fizeram duas coisas: a Mitiko pensar que estava assistindo ao filme errado ("isso saiu no cinema mesmo?") e a Disney adiar o lançamento nos cinemas. Mas, sim, saiu em algumas salas. As habilidades artísticas da produtora do rato não são mais as mesmas. E é bom se acostumar. Devemos jogar os holofotes sobre os incompetentes e dar a eles uma chance de passar vergonha. Isso se chama diversidade.
 
 
-# O Lobo de Wall Street (Martin Scorsese, 2013)
+# O Lobo de Wall Street
 2023-09-14 cinema movies
 
 O que me fez assistir de novo O Lobo de Wall Street foi conferir se a Margot Robbie era aquela coisa toda mesmo. Foi vendo ela em "Barbie" que surgiu a dúvida, pois apesar de seus 30 e poucos anos no filme mais recente ela está parecendo uma quarentona. Como ninguém vai falar sobre isso na mídia alguém precisa fazê-lo, nem que seja pela honra de afirmar: no filme de Martin Scorsese ela é a delícia em cena.
@@ -90023,7 +90023,7 @@ Após alguns saltos de décadas na história ela adota uma pupila e ecos do seu 
 
 O humor é lento e a lógica do universo é de isekai, mas no lugar de lutas com poderzinho uma reflexão lenta, quase inexistente, sobre a vida.
 
-# Bartender (Araki Jô, 2006)
+# Bartender
 2024-07-10 cinema animes
 
 A atenção aos detalhes desta animação espirituosa sobre bebidas e quem as prepara nos faz esquecer do roteiro maniqueista que coloca essas duas meninas sempre na frente do personagem-título. A graça da história está de fato nos momentos em que ele prepara uma bebida que harmoniza com seu cliente e seu momento, mais pela beleza da dedicação do preparo do que pela construção da cena. Existe magia na construção de um drinque, e Bartender consegue captar e inclusive resgatar um pouco da história das bebidas icônicas e exóticas. Mas tudo não passa de uma farsa de diálogos manjados.
@@ -91169,7 +91169,7 @@ There is no such thing as an inherently good or bad architecture. Architectures 
 
 One of the messages of this book is that architectures can, in fact, be evaluated—one of the great benefits of paying attention to them—but such evaluation only makes sense in the context of specific stated goals.
 
-# What If (Randall Munroe, 2014)
+# What If
 2024-09-20 books quotes
 
 Estava com esse livro há um bom tempo na prateleira. Essa última viagem foi uma ótima oportunidade para terminar de ler. Recomendo fortemente para distrair dos pensamentos do dia a dia
@@ -91667,12 +91667,12 @@ int WaitForDebugger(const char* processName = "notepad", int timeout = 60)
 
 In an age in which the media broadcast countless pieces of foolishness, the educated man is defined not by what he knows, but by what he doesn't know. Nicolas Gomez Davila.
 
-# Os Safados (Frank Oz, 1988)
+# Os Safados
 2025-01-28 cinema movies miniviews fragments
 
 Se você se entreter demais com o filme, a reviravolta final lhe dará dores de cabeça.
 
-# Matador (Pedro Almodóvar, 1986)
+# Matador
 2025-01-28 cinema movies miniviews
 
 Este Almodóvar pode ser considerado clássico, pois contém todos os elementos que marcaram seu estilo e que faz parte do repertório decorado de seus fãs. Além disso, apresenta um elenco honesto em participar de uma história semicrua em uma versão que está em construção. É o refinamento do um diretor em treinamento, que não conseguiu mesclar os assuntos de assassinato e touradas a ponto de não ser apenas uma brincadeira. A dupla de assassinos é profissional demais para não serem confundidos com personagens de novela, mas Antonio Banderas vive um de seus melhores papéis como um lunático vidente sensível.
@@ -91688,7 +91688,7 @@ Este Almodóvar pode ser considerado clássico, pois contém todos os elementos 
 
 - Finally talked to the user and got some real information that tracked the next step.
 
-# Grandes Hits (Ned Benson, 2024)
+# Grandes Hits
 2025-01-30 cinema movies miniviews
 
 A menina viaja no tempo quando escuta uma música que ouviu pela primeira vez com o namorado morto. Ela está obcecada há dois anos em tentar salvá-lo. Surge um japonês fofinho como interesse amoroso e para a cota dos amarelos imigrantes nesta simpática seleção de músicas de apaixonadinhos onde iremos passar duas horas agradáveis.
@@ -91703,7 +91703,7 @@ Keeping the focus on the same thing even if you need to wait for action. Caloni.
 
 All that we are is the result of all that we have thought. It is founded on thought. It is based on thought. Buddha, The Dhammapada.
 
-# Prometheus Rising (Robert Anton Wilson, 1983)
+# Prometheus Rising
 2025-02-01 books reading quotes
 
 "Whatever the Thinker thinks, the Prover proves."
@@ -91834,17 +91834,17 @@ The “akashic records” of Theosophy, the "phylogenetic unconscious” of Dr. 
 
 Gurdjieff calls this circuit the True Emotional Center.
 
-# Intruso (Garth Davis, 2023)
+# Intruso
 2025-02-10 cinema movies miniviews
 
 Assisti por recomendação do meu amigo, então sentia que haveria uma reviravolta. Só que ela não chega e o filme estica e você começa a duvidar sobre o que é o filme. Quando finalmente surge a reviravolta as peças se encaixam em dois relacionamentos que servem de espelhos da alma de cada um, o que é triste e doentio. Melancolia sobre o amor na carona de temas recentes. O nome no Brasil não é muito bom. Chamaria de Amor Rival.
 
-# Meio Grávida (Tyler Spindel, 2025)
+# Meio Grávida
 2025-02-10 cinema movies miniviews
 
 Piadas ágeis em formato dinâmico me fizeram relevar a linguagem mais recente do cinema, desse pessoal jovem. É engraçado. Assisti dublado e não me arrependo. Filme para não pensar muito. O jeito que a heroína usa a barriga é visceral.
 
-# Casamentos Cruzados (Nicholas Stoller, 2025)
+# Casamentos Cruzados
 2025-02-10 cinema movies miniviews
 
 Eu gosto tanto de Will Ferrell quanto de Reese Whiterspoon, mas dessa vez eles estão em um roteiro fraco, infantil. Tenta ser sobre sentimentos maduros, mas acaba sendo só pela carência de cada um em não se encaixar mais no que seria uma família, seja tradicional sulista ou pai viúvo. A química entre os dois nunca funciona.
@@ -92029,7 +92029,7 @@ int main()
 }
 ```
 
-# The Willpower Instinct (Kelly McGonigal, 2013)
+# The Willpower Instinct
 2025-04-29 self books quotes
 
 I believe that the best way to improve your self-control is to see how and why you lose control. (...) Self-knowledge—especially of how we find ourselves in willpower trouble—is the foundation of self-control. (...) You can—and should—make yourself the subject of your own real-world study.
@@ -92042,7 +92042,7 @@ You need to recognize when you’re making a choice that requires willpower; oth
 
 Regular meditators have more gray matter in the prefrontal cortex, as well as regions of the brain that support self-awareness. (...) One study found that just three hours of meditation practice led to improved attention and self-control. After eleven hours, researchers could see those changes in the brain. (...) It may seem incredible that our brains can reshape themselves so quickly, but meditation increases blood flow to the prefrontal cortex, in much the same way that lifting weights increases blood flow to your muscles. (...) This simple act of staying still is part of what makes meditation willpower training effective. You’re learning not to automatically follow every single impulse that your brain and body produce. (...) Notice how it feels to breathe, and notice how the mind wanders. (...) Most new meditators make this mistake, but the truth is that being “bad” at meditation is exactly what makes the practice effective. (...) Meditation is not about getting rid of all your thoughts; it’s learning not to get so lost in them that you forget what your goal is.
 
-# In Search of the Miraculous (P.D. Ouspensky, 1949)
+# In Search of the Miraculous
 2025-04-29 self books
 
 There was another type of school, with which I was unable to make contact and of which I only heard. These schools promised very much but they also demanded very much. They demanded everything at once. It would have been necessary to stay in India and give up thoughts of returning to Europe, to renounce all my own ideas, aims, and plans, and proceed along a road of which I could know nothing beforehand.
@@ -92768,7 +92768,7 @@ O sistema endócrino ou das glândulas atua em todo o corpo humano regulando nos
 
 Zmam Olamot.  Esta expressão significa usar o corpo em adoração ao Pai para entrar nos mundos paralelos. Olamot são mundos paralelos ao físico, os jardins secretos da Cabala.
 
-# A Hora da Estrela (Clarice Lispector, 1977)
+# A Hora da Estrela
 2025-06-21 fiction books quotes
 
 Macabéa não consegue evitar ser feliz. Porque se contenta com pouco. Sua classe social não lhe impede de existir, embora na visão de seu narrador isto seja um quase nada, indescritível porque até palavras faltam.
@@ -92890,7 +92890,7 @@ Quanto ao mundo material, podemos pelo menos ir até à conclusão de que os fat
 
 Do not let your fire go out, spark by irreplaceable spark, in the hopeless swamps of the approximate, the not-quite, the not-yet, the not-at-all. Do not let the hero in your soul perish, in lonely frustration for the life you deserved, but never have been able to reach. Check your road and the nature of your battle. The world you desired can be won, it exists, it is real, it is possible. Atlas Shrugged, 1957 [1992]: 983, from Stanford Encyclopedia of Philosophy.
 
-# Yes It Can: On the Functional Abilities of the Human Unconscious (Ran R. Hassin, 2013)
+# Yes It Can: On the Functional Abilities of the Human Unconscious
 2025-07-02 self reading quotes
 
 The author presents considerations of evolutionary pressures and of the availability of mental resources that render YIC a reasonable hypothesis. Evidence is then reviewed from various subfields of the cognitive sciences, which shows that functions that were traditionally thought of as requiring consciousness can occur nonconsciously.
@@ -93002,7 +93002,7 @@ A conexão feita por Csíkszentmihályi e outros entre “ficar no presente” e
 
 Então a conclusão, por mais estranha que pareça, é a seguinte: serial killers sádicos sentem a dor de suas vítimas exatamente da mesma maneira que eu ou você podemos senti-la. Eles a sentem cognitiva e objetivamente. Mas a diferença entre eles e nós é que eles transformam aquela dor em seu próprio prazer subjetivo. De fato, provavelmente se pode dizer que, quanto maior é a empatia que sentem, maior o prazer que obtêm. O que, se você pensar a respeito, é meio esquisito.
 
-# A Máquina do Tempo (H. G. Wells, 1895)
+# A Máquina do Tempo
 2025-07-02 fiction scifi books
 
 Me toquei que não escrevi sobre A Máquina do Tempo. Nenhum recorte sobrou do livro de H. G. Wells sobre a viagem mais doida no futuro que alguém pode fazer. O livro é muito mais sobre nossas elucubrações sobre para onde vai a espécie humana do que a inevitabilidade de nossas ações de hoje. Eu me lembro que o filme feito com base na obra fica muito aquém na filosofia, apesar de visualmente deslumbrante. O conto expandido sobre um viajante do tempo que narra suas aventuras para os amigos incrédulos possui o formato usado pelo autor da saga Cavalo de Tróia, em nos fazer ficar desconfiados se tudo isso não foi verdade, mesmo. Engenhoso e espirituoso, nos leva a um mundo que provavelmente não existirá no futuro, mas apenas na aparente infinita imaginação humana. E ela residirá enquanto formos humanos.
