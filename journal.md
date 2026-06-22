@@ -1050,7 +1050,7 @@ Sim, Thiago. Em ambas as configurações não roda no 95 por conta da função I
 []s
 
 # História do Windows
-2006-11-11 computer windows draft veryold
+2006-11-11 computer windows draft veryold windowshistory
 
 Estava mexendo em uns fontes antigos e no meio deles encontrei um breve relato histórico do sistema operacional Windows que escrevi em uma época distante, quando planejava manter um site sobre ele com um amigo. De acordo com o Source Safe, a última modificação foi feita em abril de 2002. Fora um adendo sobre o Vista e uns leves retoques, o texto se mantém o mesmo, tornando ele o artigo que menos me deu trabalho nesse 1 ano e meio de blog.
 
@@ -1641,7 +1641,7 @@ Obs.: this kind of "obscure rule" hardly will pass in a code review since it is 
 
 
 # História do Windows - parte 1.0
-2007-06-26 computer windows archive
+2007-06-26 computer windows archive windowshistory
 
 Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao "História do Windows".
 
@@ -1800,7 +1800,7 @@ Com certeza existe um monte de coisas novas para aprender quando se troca de dep
 Essa parece ser uma introdução muito básica ao SoftICE. E na verdade é. Teremos outras oportunidades mais pra frente de usar esse poderoso depurador, principalmente naqueles casos onde um problema só acontece no Windows 95 Release A e sem rede. Isso não é tão incomum quanto parece.
 
 # História do Windows - parte 2.0
-2007-07-04 computer windows archive
+2007-07-04 computer windows archive windowshistory
 
 Eu seu, eu sei. A maioria dos meus leitores odiou o tema "História do Windows" na era paleozóica. Porém, como eu disse na parte 1.0, estou apenas satisfazendo a outra parte de leitores que procurou no Google por esse tema e acabou caindo no meu antigo blog. Mas vejamos o lado bom: a partir da próxima versão iremos destrinchar a API do sistema, entendendo o porquê das coisas serem como elas são. No momento os deixo apenas com história, pois é desconhecido para mim como funcionavam os primeiros rabiscos do MS-DOS Shell, mais conhecido como Windows/386. Bom divertimento!
 
@@ -2615,7 +2615,7 @@ Como é natural, o código-fonte de uma aplicação tende a crescer em muitas li
 
 
 # História do Windows - parte 3.0
-2007-08-03 computer blog
+2007-08-03 computer blog windowshistory
 
 Em 22 de maio de 1990 a versão 3.0 do Windows foi lançada. Foi melhorado o gerenciador de programas e o sistema de ícones, além de um novo gerenciador de arquivos e suporte a 16 cores. Entre as mudanças internas podemos citar a velocidade e a confiabilidade. Como a partir dessa versão apareceram muitos desenvolvedores que passaram a suportar a plataforma, o número de programas disponíveis aumentou, o que conseqüentemente fez com que as vendas alavancassem. Três milhões de cópias foram vendidas apenas no primeiro ano, e assim o Windows se tornou padrão nos computadores domésticos. Quando a versão 3.1 foi lançada, em 6 de abril de 1992, mais três milhões de cópias foram vendidos em apenas dois meses.
 
@@ -2776,7 +2776,7 @@ Para saber mais dê uma passada no "sítio do Charles Petzold".
 
 
 # História do Windows - parte 3.51
-2007-08-07 computer archive
+2007-08-07 computer archive windowshistory
 
 Bem-vindos. Esta é a série "História do Windows". Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. Com tudo combinado entre as grandes corporações, é lógico que esse acordo foi por água abaixo.
 
@@ -3577,7 +3577,7 @@ Adorei o texto. So para acrescentar: O fanzine Barata Eletrica continua, agora c
 
 
 # História do Windows - parte 4.0
-2007-09-04 computer archive
+2007-09-04 computer archive windowshistory
 
 Em meio a uma febre de consumismo, no dia 24 de agosto de 1995, foi lançado a revolução no sistema gráfico da Microsoft: a interface do Windows 95. Ela foi considerada muito mais amigável que suas versões anteriores. Ainda possuía a vantagem de não necessitar mais de uma instalação prévia do DOS, passou a suportar nomes de arquivos longos, incluir suporte a TCP/IP e dial-up networking integrados. Muitas mudanças foram feitas no sistema em si, como a passagem para 32 bits (como já vimos, parcial) e o novo conceito de threads, que é o que veremos com mais detalhes neste artigo.
 
@@ -3613,7 +3613,7 @@ void StartBruteForceThread()
 }
 ```
 
-Para quem está acompanhando "a série de artigos sobre o Windows" deve lembrar que assim como na criação de janelas, na criação de uma thread é passada uma função de callback. Só que diferente de uma função de janela, essa função não é executada na mesma thread que criou a janela, mas é um novo "int main" para uma nova linha de execução, que irá rodar em paralelo com a primeira. Essa segunda linha de execução termina quando retornamos dessa função, que no nosso exemplo é nunca, mas poderia ser quando fosse terminada sua tarefa.
+Para quem está acompanhando a série de artigos sobre o Windows deve lembrar que assim como na criação de janelas, na criação de uma thread é passada uma função de callback. Só que diferente de uma função de janela, essa função não é executada na mesma thread que criou a janela, mas é um novo "int main" para uma nova linha de execução, que irá rodar em paralelo com a primeira. Essa segunda linha de execução termina quando retornamos dessa função, que no nosso exemplo é nunca, mas poderia ser quando fosse terminada sua tarefa.
 
 "CreateThread exemplificada"
 
@@ -4522,7 +4522,7 @@ Bons cronogramas!
 "O trabalho se expande de forma a preencher o tempo disponível para sua conclusão." - Parkinson's Law.
 
 # História do Windows - parte 5.0
-2007-10-08 computer blog
+2007-10-08 computer blog windowshistory
 
 Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de Distributed File System, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede. Assim começou a "História do Windows" para redes de gente grande.
 
@@ -5737,7 +5737,7 @@ Uma outra coisa que ele faz, muito útil quando comecei a usá-lo, é apagar tod
 O SDelete segue o padrão DOD 5220.22-M, o que quer dizer que ele está dentro das especificações da indústria que garantem a confidencialidade dos dados apagados. Além do mais, você pode especificar quantas "passadas" nos setores você deseja, para evitar aqueles ataques mais rebuscados em que é analisada a impedância das trilhas físicas de um disco magnético para obter os dados que uma vez estavam lá. É claro que isso não deve valer muito a pena se você está usando um PenDrive com memória flash =).
 
 # História do Windows - parte 5.1
-2007-11-19 computer archive
+2007-11-19 computer archive windowshistory
 
 Chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP, de Windows eXPerience, usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos. Essa é minha versão favorita da "História do Windows" e junto do Windows 7 uma das edições mais robustas já feitas.
 
@@ -28099,7 +28099,7 @@ Fotografia mais clara na França de época, tom escuro na nova casa de Julie.
 # Lições de Vida
 2011-12-20 cinema movies
 
-Filme estrelado por Rupert Grint, e quem está acostumado com seus trejeitos na "saga Harry Potter" não vai se decepcionar. Para os que esperavam uma atuação mais envolvida com um projeto apartado dos livros dos bruxinhos, vai.
+Filme estrelado por Rupert Grint, e quem está acostumado com seus trejeitos na saga Harry Potter não vai se decepcionar. Para os que esperavam uma atuação mais envolvida com um projeto apartado dos livros dos bruxinhos, vai.
 
 No entanto, as participações de Laura Linney e Julie Walter (essa última, também dos filmes dos bruxinhos) conseguem elevar o filme a um drama digno de nota. Ambas desempenham papéis complexos: Laura é a mãe de Ben Marshall (Grint), esposa do pároco da comunidade e religiosa fervorosa, aplica regras rígidas na educação de Ben, além de tomar decisões autoritárias na casa, como abrigar um viúvo desamparado.
 
@@ -35564,7 +35564,7 @@ Então é isso. Garanta seu ingresso, faça networking, assista as palestras do 
 
 Nesse TDC, além da minha palestra usual na trilha C/C++ irei participar da trilha de segurança, voltando às minhas origens, quando programava em empresas de segurança da informação. Foram 10 anos!
 
-Estão marcadas duas palestras nesse dia (quinta-feira, 7 de agosto de 2014): uma já ministrada outras vezes sobre o processo de engenharia reversa do dicionário Houaiss, que gerou tantas discussões nos comentários e versões alternativas (inclusive uma "em Python"!) do código. Aqui, além de já explicar o processo que me fez abrir o dicionário Houaiss para uso no Babylon, pularei a parte do uso no Babylon e irei focar mais nas técnicas de segurança que podemos utilizar para tornar essa engenharia reversa não impossível, mas pelo menos um pouco mais difícil.
+Estão marcadas duas palestras nesse dia (quinta-feira, 7 de agosto de 2014): uma já ministrada outras vezes sobre o processo de engenharia reversa do dicionário Houaiss, que gerou tantas discussões nos comentários e versões alternativas (inclusive uma em Python!) do código. Aqui, além de já explicar o processo que me fez abrir o dicionário Houaiss para uso no Babylon, pularei a parte do uso no Babylon e irei focar mais nas técnicas de segurança que podemos utilizar para tornar essa engenharia reversa não impossível, mas pelo menos um pouco mais difícil.
 
 Já a segunda palestra é bem rápida -- espero! -- e fala sobre um artigo que li de Laura Diane Hamilton sobre algoritmo de embaralhamento de cartas para saites de pôquer. Esse artigo, que irei demonstrar, explica diversas falhas do código de um saite e eu tentarei explicar brevemente maneiras de se aproveitar dessas falhas, além -- é claro -- de como se proteger contra isso!
 
@@ -84627,7 +84627,7 @@ Pois é, esse Easter Egg é muito mais que um desenho simpático e as memórias 
 # Hacker Rank Array - Part 1
 2023-04-28 computer interview english
 
-The next step after "the Warm Up challenges" are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
+The next step after "Hacker Rank Warm Up" are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
 
 ## Array Manipulation
 
@@ -87107,7 +87107,7 @@ HRESULT RoGetActivationFactory(
 );
 ```
 
-Sabendo como "obter a string raw de uma HSTRING" basta colocar um breakpoint no WinDbg que imprima esta string e siga vazando:
+Sabendo como obter a string raw de uma HSTRING (vide "Explorando a HSTRING") basta colocar um breakpoint no WinDbg que imprima esta string e siga vazando:
 
 ```
 bp combase!_RoGetActivationFactory "du poi(@rcx+0x10) ; g"
