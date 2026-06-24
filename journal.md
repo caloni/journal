@@ -24143,7 +24143,7 @@ Este é o filme mais poderoso do diretor e roteirista Kim Ki Duk e ele é o úni
 
 O diretor esbanja a qualidade indiscutível de narrar uma história mortal com eventos sobrenaturais de forma a prender a atenção do espectador na medida em que a simplicidade está sempre acima do sobrenatural, é o objetivo final, e o sobrenatural apenas o caminho pelo qual nossa percepção dos eventos será guiada. A pergunta de quem movimenta o barco para que o mestre possa observar seu pupilo vai perdendo sua força conforme a história avança, e quando descobrimos qual é o mecanismo ele não importa mais.
 
-Nunca com pressa e sempre sem perder o timing, somos apresentados à dupla principal de mestre e pupilo de uma maneira quase contemplativa na primeira parte do longa (que é dividido em cinco partes, como é possível deduzir pelo título). No entanto, a identificação com esses personagens será vital para atravessarmos praticamente o resto de suas vidas em pulos de anos à frente, de maneira que não percamos o senso de continuidade, mesmo com tanto tempo sendo atravessado. É a identificação que nos permite continuar acompanhando uma história que se separa por décadas, e apenas a identificação do sofrimento humano que universaliza esta parábola sobre a existência.
+Nunca com pressa e sempre sem perder o timing, somos apresentados à dupla principal de mestre e pupilo de uma maneira quase contemplativa na primeira parte do longa (que é dividido em cinco partes, como é possível deduzir pelo título). No entanto, a identificação com esses personagens será vital para atravessarmos praticamente o resto de suas vidas em pulos de anos à frente, de maneira que não percamos o senso de continuidade, mesmo com tanto tempo sendo atravessado. É a identificação que nos permite continuar acompanhando uma história que se separa por décadas, e apenas **a identificação do sofrimento humano que universaliza esta parábola sobre a existência**.
 
 Para isso, o diretor também se aproveita dos elementos comuns da história: a casa flutuante e toda a disposição dos "móveis" internos (o templo de oração e as camas, que possuem ocupantes distintos no verão e no outono), os portões do lago (que têm outra função importante: fazem o papel de cortinas que anunciam uma nova parte da história), o próprio barco que vem e vai (e esse fluxo é vital para que esse ritmo faça parte constante da narrativa).
 
@@ -93887,3 +93887,24 @@ Ele sobrevive graças à nossa identificação inconsciente com ele, assim como 
 - muitas vezes ajudou primeiro pedir pra explicar o codebase relevante para daí pedir investigações pontuais.
 
 Disclaimer: não escrevo código no serviço há meses. Estou como escalation que manja de debugging. Depois que descubro o que tem que ser feito delegam pra algum jovem batucar código com a IA. Minha experiência com modelos é em reversing de codebase e investigações junto ao SO e leitura de logs do sistema.
+
+# Frankestein
+2026-06-24 clippings
+
+Como é penoso admitir que o ser que nos acompanhava dia a dia e cuja existência parecia parte de nossa própria vida, tenha partido para sempre; que a doçura de olhos bem-amados se tenha extinguido, e que nunca mais nos soará aos ouvidos essa voz familiar, perene mensagem de afeto e carinho...
+
+Pesquisar Cornélio Agripa, Alberto Magno e Paracelso.
+
+A preocupação do pesquisador parecia limitar-se ao aniquilamento daquelas fantasias em que antes se baseava meu interesse científico. Ingloriamente, pediam-me que trocasse quimeras mirabolantes por realidades acanhadas.
+
+"Por mais que se tenha feito", bradou a alma de Victor Frankenstein, "muito mais eu alcançarei. Desbravarei novos caminhos, explorarei forças desconhecidas e revelarei ao mundo os mistérios da criação".
+
+Aprenda, se não pelos meus preceitos, pelo menos por meu exemplo, o perigo que representa a assimilação indiscriminada da ciência, e quanto é mais feliz o homem para quem o mundo não vai além do seu ambiente cotidiano, do que aquele que aspira tornar-se maior do que sua natureza lhe permite.
+
+Minha imaginação, porém, estava por demais exaltada diante do primeiro êxito, para permitir-me dúvidas quanto à possibilidade de dar vida a um animal tão maravilhoso como o homem.
+
+Eu parecia ter perdido a alma e tinha chegado ao ponto de alijar de mim qualquer sensação, a não ser em função da minha obra.
+
+Mente calma, a salvo de paixões perturbadoras, é a condição do ser humano em seu estado normal. Não pode a busca do saber ser levada à conta de exceção a essa regra. Se o estudo, por qualquer forma, tende a debilitar nossas afeições, nosso gosto pelos prazeres simples, trata-se então de uma atividade ilícita, que não se ajusta ao espírito humano.
+
+Tal como alguém que, por deserta estrada, Vai caminhando tangido pelo medo, E tendo, uma vez, olhado em torno, Não mais volve a cabeça e segue adiante, Pois sabe que a sombra do demônio Segue-lhe os passos no vagar constante{
