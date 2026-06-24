@@ -1458,7 +1458,7 @@ Existem outros métodos mais avançados ainda para conseguir depurar uma máquin
 
 - Logviewer: visualiza resultados gerados pelo Logger.
 
-Existem ainda outras ferramentas, mas estas são as principais que costumo utilizar. Para saber como usá-las de acordo com suas necessidades recomendo a leitura de um pequeno tutorial para o WinDbg que vem junto da instalação, o kernel_debugging_tutorial.doc. Ele é apenas a introdução dos principais comandos e técnicas. Depois de ter dominado o básico, pode partir para o arquivo de ajuda, que detalha de forma completa todos os comandos, técnicas e ferramentas de todo o pacote: o debugger.chm. A maioria dos comandos que precisava encontrei usando essa ajuda ou em alguns blogs muito bons, como o Crash Dump Analysis. Porém, acredite: no WinDbg, você quase sempre vai encontrar o comando que precisa.
+Existem ainda outras ferramentas, mas estas são as principais que costumo utilizar. Para saber como usá-las de acordo com suas necessidades recomendo a leitura de um pequeno tutorial para o WinDbg que vem junto da instalação, o kernel_debugging_tutorial.doc. Ele é apenas a introdução dos principais comandos e técnicas. Depois de ter dominado o básico, pode partir para o arquivo de ajuda, que detalha de forma completa todos os comandos, técnicas e ferramentas de todo o pacote: o debugger.chm. A maioria dos comandos que precisava encontrei usando essa ajuda ou em alguns blogs muito bons, como o "Crash Dump Analysis". Porém, acredite: no WinDbg, você quase sempre vai encontrar o comando que precisa.
 
 Para exemplificar um uso prático dessas ferramentas vamos usar o Logger para descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em minhas apresentações:
 
@@ -12374,7 +12374,7 @@ Valeu! Na verdade, agora estou testando também o Bazaar... é uma escolha difí
 # Crash Dump Analysis: o livro
 2008-04-17 books archive
 
-Para quem acabou de terminar o Advanced Windows Debugging (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu), "seus problemas acabaram-se": acabou de ser lançado o Memory Dump Analysis Volume 1 em hardware! Em modelos portáveis (paperback) e desktop (hardcover).
+Para quem acabou de terminar o Advanced Windows Debugging (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu) no seu blogue "Crash Dump Analysis", "seus problemas acabaram-se": acabou de ser lançado o Memory Dump Analysis Volume 1 em hardware! Em modelos portáveis (paperback) e desktop (hardcover).
 
 Se você perder um pouco de tempo lendo o índice online perceberá que boa parte do conteúdo (se não todo) está em seu sítio, disponível gratuitamente. Porém, não há nada como ter um livro organizado para ler no conforto do ônibus para o serviço (ou do metrô para casa). Ainda mais depois de ter aguçado os sentidos com o livro de Mario Hewardt e Daniel Pravat.
 
@@ -14621,7 +14621,7 @@ PS-reply: Mmmmm... bolo ou torta, ambos são deliciosos. Mamão eu não curto mu
 # É possível carregar duas DLLs gêmeas no mesmo processo?
 2008-06-21 computer blog
 
-Um dos últimos artigos de Dmitry Vostokov, e tenho que falar assim porque o cara escreve muito em pouco tempo, fala sobre os perigos de termos uma mesma DLL carregada duas vezes em um único processo, muitas vezes em versões diferentes. Para os observadores atentos como Dmitry esse é um perigo que muitas vezes temos que estar preparados. Para os espertinhos de plantão, a resposta padrão seria: "não vou me preocupar, porque o contador de instâncias cuida disso".
+Um dos últimos artigos de Dmitry Vostokov, "Crash Dump Analysis Patterns (Part 64)" (e tenho que falar assim porque o cara escreve muito em pouco tempo) fala sobre os perigos de termos uma mesma DLL carregada duas vezes em um único processo, muitas vezes em versões diferentes. Para os observadores atentos como Dmitry esse é um perigo que muitas vezes temos que estar preparados. Para os espertinhos de plantão, a resposta padrão seria: "não vou me preocupar, porque o contador de instâncias cuida disso".
 
 Será mesmo tão simples?
 
@@ -93874,3 +93874,16 @@ Ele sobrevive graças à nossa identificação inconsciente com ele, assim como 
 
 # First know how the thing work; then know how the thing does not work
 2026-06-20 quotes work
+
+# Experiência com IA até agora
+2026-06-23 reversing ai
+
+- se o modelo entrou em loop apaga o cachê e começa de novo.
+
+- tarefas bem executadas em tempo X podem ser moldadas em skills para na próxima custar X/10.
+
+- se não conseguir explicar exatamente o que quer que seja feito melhor iterar uma tarefa de cada vez e sem contexto algum.
+
+- muitas vezes ajudou primeiro pedir pra explicar o codebase relevante para daí pedir investigações pontuais.
+
+Disclaimer: não escrevo código no serviço há meses. Estou como escalation que manja de debugging. Depois que descubro o que tem que ser feito delegam pra algum jovem batucar código com a IA. Minha experiência com modelos é em reversing de codebase e investigações junto ao SO e leitura de logs do sistema.
