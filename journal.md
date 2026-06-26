@@ -93908,3 +93908,14 @@ Eu parecia ter perdido a alma e tinha chegado ao ponto de alijar de mim qualquer
 Mente calma, a salvo de paixões perturbadoras, é a condição do ser humano em seu estado normal. Não pode a busca do saber ser levada à conta de exceção a essa regra. Se o estudo, por qualquer forma, tende a debilitar nossas afeições, nosso gosto pelos prazeres simples, trata-se então de uma atividade ilícita, que não se ajusta ao espírito humano.
 
 Tal como alguém que, por deserta estrada, Vai caminhando tangido pelo medo, E tendo, uma vez, olhado em torno, Não mais volve a cabeça e segue adiante, Pois sabe que a sombra do demônio Segue-lhe os passos no vagar constante{
+
+# Breve nota sobre o futuro do blogue
+2026-06-26 blog
+
+Hoje sinto a angústia de escrever na era dos modelos de inteligência artificial. Meus posts técnicos em formato de tutorial são datados e incompletos. Meus reviews de cinema são verborrágicos ou apressados. Ambos produzidos ao longo de mais de duas décadas são apenas arquivos na internet.
+
+Porém, serviram ao propósito maior de gerar segurança e conforto ao que vos escreve. Cumpriram seus papéis, cada um em seu momento. Hoje viraram a maioria das notas de um journal mais pessoal que publicável. Isso foi acontecendo aos poucos, mas resolvi formalizar.
+
+Estou selecionando os textos que merecem um status no blogue, ainda que histórico, e publicando à parte, com sua própria página. Ainda que o melhor caminho hoje fosse usar algum modelo de máquina, esses textos foram escolhidos para serem lidos como entretenimento ou exploração sem foco. Há um conteúdo minimamente interessante em cada um deles.
+
+Já os próximos que eu arriscar escrever caminharão menos em construção e passagem de conhecimento e mais em relatos de experiência. É a experiência e a intuição humanas que temos no momento para nos ajudar a construir o futuro. E, sempre, nos divertimos no processo :)
