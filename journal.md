@@ -24919,17 +24919,17 @@ Por fim, com o uso das habilidosas expressões de James Franco, que consegue tra
 É nessa hora que a sensibilidade de direção consegue tornar um final que poderia ser enfadonho, mas necessário, em um desabafo silencioso, deflagrado pela mudança de tom na trilha sonora e planos mais abertos, que acompanha os últimos passos do herói de uma maneira mais que adequada: simbólica.
 
 # Cisne Negro
-2011-02-23 cinema movies
+2011-02-23 cinema movies draft
 
 Nina é uma dançarina de balé que, assim como muitas, devota toda sua vida a essa arte. Perfeccionista ao extremo e apoiada pela mãe controladora, ela está prestes a participar da escolha de quem será a nova protagonista de uma nova versão do clássico O Lago dos Cisnes, dirigida pelo seu controverso diretor Thomas Leroy (Cassel).
 
 A primeira coisa que é notável na produção de Cisne Negro é a uniformidade nas escolhas da fotografia e direção de arte. A sinergia que ocorre entre os elementos do cenário, em sua maioria objetos e roupas das cores preta, branca e cinza, ajudam a fortalecer ainda mais todo o trabalho do projeto em busca da dualidade de sua protagonista.
 
-Aliás, a dualidade de Nina e a insegurança sobre sua própria identidade são demonstradas pelo uso de câmeras em movimentos absurdamente competentes durante as danças e a troca constante do ponto de vista da câmera a partir de espelhos colocados naturalmente na construção das cenas.
+Aliás, a dualidade de Nina e a insegurança sobre sua própria identidade são demonstradas pelo uso de câmeras em *movimentos absurdamente competentes* durante as danças e a troca constante do ponto de vista da câmera a partir de *espelhos colocados naturalmente* na construção das cenas.
 
-E por falar em espelhos, eles são primordiais na construção da própria personagem e seu conflito interno. Usados tanto de modo discreto quanto descarado, Nina e nós mesmos aprendemos a enxergar a realidade que nos é passada tanto através dos reflexos quanto através da própria realidade. Essa realidade, porém, e isso é o mais genial, também passa pelo filtro da lente da câmera que está filmando; e essa teima em tremer e parecer tão difusa, ou mais, que o próprio espelho. É o universo daquele mundo saindo de campo de visão e atingindo significados metafóricos.
+E por falar em espelhos, eles são primordiais na construção da própria personagem e seu conflito interno. Usados tanto de modo discreto quanto descarado, *Nina e nós mesmos* aprendemos a enxergar a *realidade que nos é passada* tanto através dos reflexos quanto através da própria realidade. Essa realidade, porém, *e isso é o mais genial*, também passa pelo filtro da lente da câmera que está filmando; e essa teima em tremer e *parecer tão difusa*, ou mais, que o próprio espelho. É o universo daquele mundo saindo de campo de visão e atingindo significados metafóricos.
 
-Dono de um invejável controle sobre a profundidade crescente com que trata os distúrbios emocionais de Nina, cada vez mais afetada pela pressão que a cerca de todos os lados, o roteiro, além de usar um modelo que difere do usual em filmes do gênero, ainda aposta acertadamente na inteligência do espectador para juntar as pontas conforme caminhamos para o desfecho.
+*Dono de um invejável controle sobre a profundidade crescente com que trata os distúrbios emocionais de Nina, cada vez mais afetada pela pressão que a cerca de todos os lados, o roteiro, além de usar um modelo que difere do usual em filmes do gênero, ainda aposta acertadamente na inteligência do espectador para juntar as pontas conforme caminhamos para o desfecho.*
 
 # VTable
 2011-03-01 computer blog
@@ -25174,7 +25174,7 @@ Além da história sofrer com um roteiro tão confuso quanto o mapa da cidade, a
 Por fim, pagando o preço por não ter desenvolvido seus unidimensionais personagens, o que vemos na conclusão não chega nem perto de fechar um ciclo de mistério; no máximo, nos deixa levemente surpresos e angustiados por, talvez, quem sabe, uma terrível continuação.
 
 # Bruna Surfistinha
-2011-03-15 cinema movies
+2011-03-15 cinema movies draft
 
 Observação de 2026-03-13: para quem nunca me viu sob outras influências, eu estava moralista assim quando comecei a escrever sobre cinema. E falando sobre pxxx crítica social. Felizmente o tempo passa, o tempo voa...
 
@@ -25367,9 +25367,31 @@ A forma como Micky ganha sua última luta antes de disputar o título com ajuda 
 O passado de Dicky sempre é mostrado com o que restou na vida real: relatos do próprio Dicky e o VT da luta.
 
 # A ironia de O Senhor das Armas
-2011-04-07 cinema movies fragments
+2011-04-07 cinema movies
 
-É irônico o fato dos produtores do filme trabalharem realmente com gunrunners de armas ilegais para conseguir as armas, e ser mais barato as armas reais do que se falsificassem. O filme foi financiado por instituições internacionais (nenhuma produtora dos Estados Unidos bancaram o filme). Aos poucos nos sentimos cada vez mais como ele: morto por dentro, onde a única excitação é negociar as armas.
+O roteirista-diretor Andrew Niccol, que esteve nessa função dupla nas produções Gattaca e S1mone, além de ter escrito O Show de Truman e O Terminal, dessa vez parte para uma imersão no real, tratando do submundo do comércio ilegal de armas.
+
+Nicholas Cage faz Yuri Orlov, um negociante de armas ilegais, durante sua ascenção em uma carreira mais que controversa. Narrado em off, insere-se no papel por completo, e ao mesmo tempo que narra as atrocidades que seus clientes fazem com as armas e toda a podridão que existe por trás de sua profissão, parece nunca fazer parte disso, alheio aos problemas locais das várias partes do mundo que visita. Mesmo sua mulher, tão desejada em sua adolescência, não o preenche tanto quanto sua profissão, e nisso é relevador que o momento em que seu filho dá seus primeiros passos é o mesmo momento em que ele fica em êxtase, não pelo filho, mas sim pelo fim da Guerra Fria, significando mais possibilidades de comércio de armas para ele.
+
+Há um motivo para a introdução do personagem ser tão corrida e artificial. Como veremos a partir do segundo ato, a única coisa que torna Yuri Olov vivo são as vendas de armas que negocia de maneira tão magistral. E vê-lo comparar suas vendas a sexo não é um ato gratuito.
+
+Vindo de uma família que no passado fingiu ser judia para conseguir se repatriar, o que reforça sua crise existancial em torno do seu mundo, Orlov admira sua própria importância no contexto em que se insere. A parte que melhor resume toda essa imersão é quando, conversando com sua mulher sobre seu trabalho, em certo momento diz que não é sobre o dinheiro, mas que ele faz aquilo realmente bem. Cada vez que ele visita seus clientes, aos poucos nos sentimos cada vez mais como ele: morto por dentro, onde a única excitação é negociar as armas.
+
+Por outro lado, a insistência de manter seu irmão mais novo no negócio em momento nenhum é justificado. Talvez apenas um conforto tê-lo presente, pois não constitui nenhuma ajuda.
+ vez mais como ele: morto por dentro, onde a única excitação é negociar as armas.
+
+Por outro lado, a insistência de manter seu irmão mais novo no negócio em momento nenhum é justificado. Talvez apen
+as um conforto tê-lo presente, pois não constitui nenhuma ajuda.
+
+Mesmo com um tropeço aqui e ali, a direção consegue destacar as características de cada personagem em cada região e unificar Yuri como o elemento em comum, o facilitador de todos. Nicholas Cage, por sua presença de espírito prova mais uma vez ser um bom ator nos papeis certos, e aqui não é uma exceção.
+
+Ao mesmo tempo, as narrações em off conseguem na maioria do tempo harmonizar com a ação, que não é pouca. O próprio uso dessas transições entre as regiões serve como continuidade da própria história, em um ótimo exemplo de economia narrativa.
+
+Ao evitar computação, principalmente em cenas como o pouso do avião, ou até mesmo os tanques enfileirados na entrada da Ucrânia, torna toda a experiência mais realista. Houve um trabalho igualmente recompensado em escalar figurantes locais, que se adequam ao cenário como nunca, como a cena em que vemos uma velha senhora enfileirando os ladrilhos de uma rua. Ao mesmo tempo, nota-se a competência em tentar encaixar a melhor fotografia e trilha sonora com o momentum do personagem.
+
+Mesmo com todas essas virtudes técnicas, a filosofia (ou a mensagem) por trás da história é o ponto forte do longa, que consegue, em seus momentos finais, causar o que todos esperamos ao assistir um bom filme: reflexão.
+
+É irônico o fato dos produtores do filme trabalharem realmente com gunrunners de armas ilegais para conseguir as armas, e ser mais barato as armas reais do que se falsificassem. Também irônico o fato que o filme foi financiado por instituições internacionais (nenhuma produtora dos Estados Unidos bancaram o filme).
 
 # A Minha Versão do Amor
 2011-04-27 cinema movies
@@ -25810,7 +25832,7 @@ kernel32!CreateFileA:
 Com isso, economizamos alguns minutos de puro tédio, verificando os nomes um a um conforme eles são abertos. Ou, dependendo da massa de dados, algumas décadas. Quem sabe. Pode ser muito mais útil um outro dia.
 
 # Wall Street: Poder e Cobiça
-2011-05-23 cinema movies
+2011-05-23 cinema movies draft
 
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
 
@@ -25824,7 +25846,7 @@ Esse é um dos motivos por que impressiona o escritório de Gordon Gekko (Dougla
 
 Tudo que importa saber sobre dinheiro parece repousar na mesa e nos ombros daquele homem. "Por que estou te ouvindo?", é o que ele pergunta para Bud Fox, que mal consegue se segurar na cadeira onde senta.
 
-A partir daí, o paralelo entre ambas as realidades é primordial para entendermos todo o contexto da trama. Ao entrarmos no universo onde vive Gordon Gekko percebemos um mundo diferente, distorcido do senso comum. Dinheiro é o elemento que sobra. De forma que ele é gasto em futilidades como quadros pendurados pelas paredes valendo milhões de dólares. Contudo, estamos enxergando o mundo dos ricos não pela ótica de abastados herdeiros, mas por alguém que trilhou o caminho das pedras, o que faz com que até o hobby de colecionar arte se torne uma atividade lucrativa.
+A partir daí, o paralelo entre ambas as realidades é primordial para entendermos todo o contexto da trama. Ao entrarmos no universo onde vive Gordon Gekko percebemos um mundo diferente, distorcido do senso comum. Dinheiro é o elemento que sobra. De forma que ele é gasto em futilidades como quadros pendurados pelas paredes valendo milhões de dólares. Contudo, estamos enxergando o mundo dos ricos não pela ótica de abastados herdeiros, mas por alguém que trilhou "o caminho das pedras", o que faz com que até o hobby de colecionar arte se torne uma atividade lucrativa.
 
 A decoração das habitações dos ricos é mostrada de forma irônica, a ponto de fazer uma rima anedótica com a quitinete minúscula onde vive Fox. Possui paredes com tijolos expostos e objetos com partes que faltam. A mesa, incompleta em sua superfície, também tem sua função metafórica: reflete esse sentimento vazio e deformado de uma pessoa que já teria o suficiente para uma boa vida, mas que quer sempre mais. O meio se torna o fim. A cobiça pelo dinheiro é tamanha, que as notas verdes acabam por representar essa mesma cobiça e o poder que dele emana na mente das pessoas.
 
@@ -25979,7 +26001,7 @@ O número de horas ficou muito maior que o esperado? Não me admira que os proje
 
 
 # X-Men: Primeira Classe
-2011-06-07 cinema movies
+2011-06-07 cinema movies draft
 
 Como sugeria o cineasta e crítico Eric Rohmer, todo filme acaba sendo um documentário de sua própria época. Em "X-Men: Primeira Classe", essa premissa ganha força através da ficção científica: as liberdades do gênero permitem alegorias e caracterizações que nos levam a viajar para outro universo e, ali, debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
 
@@ -26162,7 +26184,7 @@ Guerra nas Estrelas é um filme inacabado. Está sendo constantemente retocado p
 Nesse quesito, Star Wars consegue não só criar planetas, raças e as relações diplomáticas entre eles, mas recriar dentro desse mundo conceitos filosóficos do nosso próprio mundo, servindo de um espelho da própria raça humana, escancarando nossas virtudes e defeitos em seres que, mesmo que fruto da fantasia de George Lucas, conseguem transmitir sua "humanidade" em sua melhor e pior formas.
 
 # O Segredo dos Seus Olhos
-2011-06-26 cinema movies
+2011-06-26 cinema movies draft
 
 Juan José Campanella ("O Filho da Noiva", Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
 
@@ -93907,7 +93929,15 @@ Eu parecia ter perdido a alma e tinha chegado ao ponto de alijar de mim qualquer
 
 Mente calma, a salvo de paixões perturbadoras, é a condição do ser humano em seu estado normal. Não pode a busca do saber ser levada à conta de exceção a essa regra. Se o estudo, por qualquer forma, tende a debilitar nossas afeições, nosso gosto pelos prazeres simples, trata-se então de uma atividade ilícita, que não se ajusta ao espírito humano.
 
-Tal como alguém que, por deserta estrada, Vai caminhando tangido pelo medo, E tendo, uma vez, olhado em torno, Não mais volve a cabeça e segue adiante, Pois sabe que a sombra do demônio Segue-lhe os passos no vagar constante{
+Tal como alguém que, por deserta estrada, Vai caminhando tangido pelo medo, E tendo, uma vez, olhado em torno, Não mais volve a cabeça e segue adiante, Pois sabe que a sombra do demônio Segue-lhe os passos no vagar constante.
+
+Gradualmente fui assimilando um fato muito mais importante. Vim a saber que essa gente tinha um meio de comunicação recíproca de seus atos e sentimentos por meio de sons articulados. Percebi que esses sons causavam prazer ou dor, sorrisos ou tristeza, no espírito e semblante dos que se comunicavam. Era sem dúvida uma ciência dos deuses, e ardentemente desejei familiarizar-me com ela.
+
+Felizmente os livros eram escritos na língua cujos elementos já havia conseguido aprender. Eram exemplares do Paraíso perdido, um volume das Vidas paralelas, de Plutarco, e Os sofrimentos do jovem Werther. Foi para mim como encontrar um tesouro.
+
+Solidarizava-me com eles, compreendia-os parcialmente, mas não tinha sua formação mental. Eu não dependia de ninguém nem era aparentado com quem quer que fosse. O caminho para a minha partida estava livre, e não havia ninguém para lamentar-me. Minha figura era hedionda e minha estatura, formidável. Que significava isso? De onde viera eu? Qual o meu destino? Tais perguntas ocorriam-me com freqüência e permaneciam como um enigma indecifrável.
+
+Dos devaneios de Werther, aprendi desespero e tristeza; Plutarco me elevava os pensamentos. Alçava-me além da esfera de minhas próprias reflexões aos páramos dos heróis dos tempos idos.
 
 # Breve nota sobre o futuro do blogue
 2026-06-26 blog
