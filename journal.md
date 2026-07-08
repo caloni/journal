@@ -93949,3 +93949,16 @@ Porém, serviram ao propósito maior de gerar segurança e conforto ao que vos e
 Estou selecionando os textos que merecem um status no blogue, ainda que histórico, e publicando à parte, com sua própria página. Ainda que o melhor caminho hoje fosse usar algum modelo de máquina, esses textos foram escolhidos para serem lidos como entretenimento ou exploração sem foco. Há um conteúdo minimamente interessante em cada um deles.
 
 Já os próximos que eu arriscar escrever caminharão menos em construção e passagem de conhecimento e mais em relatos de experiência. É a experiência e a intuição humanas que temos no momento para nos ajudar a construir o futuro. E, sempre, nos divertimos no processo :)
+
+# Nomeie dez sistemas em seu corpo que funcionam sozinhos sem você controlar
+2026-07-08 draft
+
+1. O sistema digestivo faz o que tem que fazer da entrada até a saída da comida e você não pode parar o processo exceto na entrada (na saída um pouco, talvez; às vezes, nem isso).
+
+2. A pressão sanguínea é regulada no automático e reage conforme as entradas como almoçar, subir escadas, massagem e injeção.
+
+3. Nós dormimos e quando acordamos nem sabemos se somos a mesma pessoa. As memórias dizem que sim, mas pode ser um implante extraterrestre.
+
+4. Glóbulos brancos e vermelhos combatem ameaças que ignoramos. Em uma alergia ou câncer vão agir contra nosso organismo, mas na maioria das vezes nos mantêm vivos.
+
+5. A regulação térmica é um termostato que ignora suas escolhas: se você sair com uma blusa ridícula no frio ou subir escadas ele vai te obrigar a tremer e suar para equilibrar a temperatura do salão.
