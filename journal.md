@@ -93910,7 +93910,7 @@ Ele sobrevive graças à nossa identificação inconsciente com ele, assim como 
 
 Disclaimer: não escrevo código no serviço há meses. Estou como escalation que manja de debugging. Depois que descubro o que tem que ser feito delegam pra algum jovem batucar código com a IA. Minha experiência com modelos é em reversing de codebase e investigações junto ao SO e leitura de logs do sistema.
 
-# Frankestein
+# Frankenstein
 2026-06-24 clippings
 
 Como é penoso admitir que o ser que nos acompanhava dia a dia e cuja existência parecia parte de nossa própria vida, tenha partido para sempre; que a doçura de olhos bem-amados se tenha extinguido, e que nunca mais nos soará aos ouvidos essa voz familiar, perene mensagem de afeto e carinho...
