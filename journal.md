@@ -1050,7 +1050,7 @@ Sim, Thiago. Em ambas as configurações não roda no 95 por conta da função I
 []s
 
 # História do Windows
-2006-11-11 computer windows draft veryold windowshistory
+2006-11-11 computer windows veryold windowshistory
 
 Estava mexendo em uns fontes antigos e no meio deles encontrei um breve relato histórico do sistema operacional Windows que escrevi em uma época distante, quando planejava manter um site sobre ele com um amigo. De acordo com o Source Safe, a última modificação foi feita em abril de 2002. Fora um adendo sobre o Vista e uns leves retoques, o texto se mantém o mesmo, tornando ele o artigo que menos me deu trabalho nesse 1 ano e meio de blog.
 
@@ -21252,9 +21252,7 @@ Existem um pouco de polêmica em torno dessa funcionalidade. Alguns dizem que el
 
 
 # Antigo bem-vindo do Cine Tênis Verde
-2010-04-01 cinema blog
-
-2026-01-24 A partir da data original deste artigo comecei a escrever sobre cinema em um domínio próprio, que nos anos recentes acabou se juntando ao meu blogue técnico em uma massa de milhares de textos. Assim como estou fazendo a curadoria dos textos técnicos, muito menos dos mais de 1300 e lá vai cacetada textos das críticas que fiz estarão aqui no blogue. Irei poupá-los desta poluição nessa versão mais enxuta. O texto abaixo está disponível como um aviso de mudança de fase do autor que vos escreve.
+2010-04-01 cinema
 
 Assistir filmes pode ser usado como entretenimento e fuga da realidade. E, de fato, a maioria das pessoas usa o cinema para isso (eu incluso). No entanto, como tudo na vida, esta forma automática de reagir ao conteúdo que nos é jogado para consumir não é a melhor maneira de interagir com o mundo, nem de aproveitar duas horas de lazer de sua vida.
 
@@ -22524,7 +22522,7 @@ Na hora de ver as diferenças no worktree podemos usar a velha opção de criar 
 Vendo essas coisas fico imaginando como ainda tem gente que usa arquivos zip com data para armazenar versões de documentos diferentes. Tsc, tsc.
 
 # A Origem
-2010-08-06 cinema movies blog
+2010-08-06 cinema movies
 
 "Leonardo di Caprio e o icônico pião."
 
@@ -22584,7 +22582,7 @@ A resposta para esse enigma também contará pontos para nossa brincadeira com o
 
 
 # Superman: O Filme
-2010-08-12 cinema movies blog
+2010-08-12 cinema movies
 
 "Superman (Christopher Reeve) voando."
 
@@ -24919,7 +24917,7 @@ Por fim, com o uso das habilidosas expressões de James Franco, que consegue tra
 É nessa hora que a sensibilidade de direção consegue tornar um final que poderia ser enfadonho, mas necessário, em um desabafo silencioso, deflagrado pela mudança de tom na trilha sonora e planos mais abertos, que acompanha os últimos passos do herói de uma maneira mais que adequada: simbólica.
 
 # Cisne Negro
-2011-02-23 cinema movies draft
+2011-02-23 cinema movies
 
 Nina é uma dançarina de balé que, assim como muitas, devota toda sua vida a essa arte. Perfeccionista ao extremo e apoiada pela mãe controladora, ela está prestes a participar da escolha de quem será a nova protagonista de uma nova versão do clássico O Lago dos Cisnes, dirigida pelo seu controverso diretor Thomas Leroy (Cassel).
 
@@ -25174,7 +25172,7 @@ Além da história sofrer com um roteiro tão confuso quanto o mapa da cidade, a
 Por fim, pagando o preço por não ter desenvolvido seus unidimensionais personagens, o que vemos na conclusão não chega nem perto de fechar um ciclo de mistério; no máximo, nos deixa levemente surpresos e angustiados por, talvez, quem sabe, uma terrível continuação.
 
 # Bruna Surfistinha
-2011-03-15 cinema movies draft
+2011-03-15 cinema movies
 
 Observação de 2026-03-13: para quem nunca me viu sob outras influências, eu estava moralista assim quando comecei a escrever sobre cinema. E falando sobre pxxx crítica social. Felizmente o tempo passa, o tempo voa...
 
@@ -25832,7 +25830,7 @@ kernel32!CreateFileA:
 Com isso, economizamos alguns minutos de puro tédio, verificando os nomes um a um conforme eles são abertos. Ou, dependendo da massa de dados, algumas décadas. Quem sabe. Pode ser muito mais útil um outro dia.
 
 # Wall Street: Poder e Cobiça
-2011-05-23 cinema movies draft
+2011-05-23 cinema movies
 
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
 
@@ -26001,7 +25999,7 @@ O número de horas ficou muito maior que o esperado? Não me admira que os proje
 
 
 # X-Men: Primeira Classe
-2011-06-07 cinema movies draft
+2011-06-07 cinema movies
 
 Como sugeria o cineasta e crítico Eric Rohmer, todo filme acaba sendo um documentário de sua própria época. Em "X-Men: Primeira Classe", essa premissa ganha força através da ficção científica: as liberdades do gênero permitem alegorias e caracterizações que nos levam a viajar para outro universo e, ali, debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
 
@@ -26184,7 +26182,7 @@ Guerra nas Estrelas é um filme inacabado. Está sendo constantemente retocado p
 Nesse quesito, Star Wars consegue não só criar planetas, raças e as relações diplomáticas entre eles, mas recriar dentro desse mundo conceitos filosóficos do nosso próprio mundo, servindo de um espelho da própria raça humana, escancarando nossas virtudes e defeitos em seres que, mesmo que fruto da fantasia de George Lucas, conseguem transmitir sua "humanidade" em sua melhor e pior formas.
 
 # O Segredo dos Seus Olhos
-2011-06-26 cinema movies draft
+2011-06-26 cinema movies
 
 Juan José Campanella ("O Filho da Noiva", Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
 
@@ -43571,7 +43569,7 @@ O pior no filme não é sua ideia principal, que de certa forma, é válida e in
 Há momentos engraçadinhos, momentos WTF e momentos pseudo-solenes que tentam emplacar um drama. Nenhum deles funciona muito bem, e juntos causam desperdício de tempo e esforço. Hitler original, o original mesmo, deveria ter sido um pouco mais interessante para conseguir milhões de seguidores. E não estou falando do Twitter.
 
 # Rank and File (Code Jam)
-2016-04-16 computer draft
+2016-04-16 computer
 
 Passou o Round 1A do Code Jam, e para variar, fui muito mal, só respondendo a primeira questão. A "segunda" me fez ficar pensando um tempo desproporcional sobre como encaixar as diferentes linhas e colunas para achar a linha restante.
 
@@ -58162,7 +58160,7 @@ Aqui talvez o design de produção crie uma falsa expectativa de um filme descol
 O mais frustrante em Ferrugem é que ele é uma produção rica em detalhes, mas os detalhes estão soltos demais, nos fazendo ter que interpretar o mistério que cerca seus dois protagonistas em duas partes corretamente dissonantes, mas incorretamente enigmáticas. A transição entre as partes não é chocante, mas rápida demais, o que causa o efeito de ignorarmos o impacto de uma cena em específico (você a reconhecerá quando ela acontecer). E por mais que algo seja chocante, é difícil analisar a introspecção de jovens quando faltam pistas. E por falta de pistas, a conclusão cai no automático: são aborrecentes como outros quaisquer.
 
 # The Photoplay
-2018-08-27 books cinema movies draft
+2018-08-27 books cinema movies
 
 The Photoplay, A Psychological Study, é considerado o primeiro livro que levou a sério a linguagem cinematográfica como uma nova forma de arte. Ele realiza duas manobras interessantíssimas para a época: retira a impressão que Cinema é apenas um teatro para as massas e eleva as fotos em movimento como uma nova forma de estética que atinge seu status de arte justamente por se destacar do mundo.
 
@@ -91501,7 +91499,7 @@ Check all of the things that should be included in a diagram from an architectur
 Components communication. Non functional characteristics. Database access.
 
 # Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin aka Uncle Bob)
-2025-01-09 computer books draft
+2025-01-09 computer books
 
 "A good architecture comes from understanding it more as a journey than as a destination."
 
@@ -92967,7 +92965,7 @@ Só porque eu não me importo não significa que eu não entenda. Homer Simpson.
 Em geral, não temos consciência de todos os nossos padrões de pensamento. Só é possível trazê-los à consciência quando observamos nossas emoções. O Poder do Agora: Um guia para a iluminação espiritual (Tolle, Eckhart).
 
 # Como fazer exercícios
-2025-10-02 body draft quotes
+2025-10-02 body quotes
 
 "Knowing is not enough, you must apply; willing is not enough, you must do. If you always put limits on everything you do, physical or anything else, it will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them. Bruce Lee."
 
@@ -93087,7 +93085,7 @@ Você se apoderou de uma fração de um processo dinâmico, uma dança molecular
 A atenção é a chave para a transformação, e isso também envolve aceitação. A atenção é como um raio de luz: o poder concentrado da consciência que transforma tudo nela própria.
 
 # Textos de IA não têm alma?
-2025-10-23 draft essays writing quotes
+2025-10-23 essays writing quotes
 
 Reflexões do meu amigo Tsar:
 
@@ -93727,7 +93725,7 @@ Obs: o /m é para paralelizar o build. Se você for tomar um café na hora é um
 Obs. 2: curiosamente existe a mesma necessidade ao compilar um projeto dotnet, pois sem especificar o runtime identifier (-r win-x64) ele gera uma versão sem a pasta de saída configurada corretamente.
 
 # Tortoise Hill Glen Carlou
-2026-04-03 wines draft
+2026-04-03 wines
 
 Estava apagando fotos antigas e me deparei com a foto deste rótulo. Havia um bom tempo que estava tentando lembrar o nome deste vinho. Ele é sul africano e pelo que havia lido na época ele é de uma vinícola ou um enólogo que é alérgico a álcool. Vale revisitar a história para checar.
 
