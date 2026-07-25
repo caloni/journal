@@ -27413,7 +27413,7 @@ Sera (Shue), por sua vez, é uma prostituta que veio com seu cafetão de um paí
 
 Aliás, para o bom funcionamento do filme, foi vital que o encontro entre os dois fornecesse essa química que percebemos desde o primeiro diálogo próximo entre eles, para entendermos quais as razões de ambos para estarem juntos. Mais importante ainda, é constatar que este não é um conto de fadas, e ambos têm consciência de seus atos. Às vezes imagino o filme sem as participações de Sera em uma espécie de analista, em que ela abre seus sentimentos em relação a Ben, mas considero hoje uma função não-descartável da narrativa pelo fato dela, apesar de prostituta, ser extremamente tímida (mais uma complexidade digna de aplausos na constituição do personagem de Shue, que não se entregou ao estereótipo fácil e tão comum no Cinema e na vida).
 
-Ben, ao contrário, é um ser totalmente exposto, exposição essa que por conta da bebida chega a torná-lo até patético em muitos momentos, mas em nenhum deles ele perde a empatia do espectador, fazendo algo desagradável ou repugnante (o que demonstra não só a entrega de Cage ao papel, como o total controle que este tem em seu personagem). Seu andar cambaleante e sua cabeça cabisbaixa pode até soar estereotipado, mas a forma de fazer graça e adicção de sua fala são tão expressivas que sequer notamos estar diante de um bêbado típico.
+Ben, ao contrário, é um ser totalmente exposto, exposição essa que por conta da bebida chega a torná-lo até patético em muitos momentos, mas em nenhum deles ele perde a empatia do espectador, fazendo algo desagradável ou repugnante (o que demonstra não só a entrega de Cage ao papel, como o total controle que este tem em seu personagem). Seu andar cambaleante e sua cabeça cabisbaixa pode até soar estereotipado, mas a forma de fazer graça e à dicção de sua fala são tão expressivas que sequer notamos estar diante de um bêbado típico.
 
 O clima depressivo do filme é ajustado (leia-se aumentado) através de uma seleção inspiradíssima de músicas que evocam ritmos mais lentos e reflexivos (aliás o próprio diretor e Cage participam na confecção de algumas trilhas). Os ângulos da câmera e a fotografia distorcida gera tanto a sensação que a bebida causa em Ben quanto a concepção artística de Las Vegas como uma cidade que vive de dejetos humanos e de falsidades. A relação de ambos com as outras pessoas também é sempre baseada nessas assumpções, o que reforça mais ainda o sentimento de excluídos e às margens da sociedade).
 
@@ -27829,7 +27829,7 @@ E é essa a metáfora visual empregada pelo diretor Ian Softley (A Chave Mestra)
 
 Apesar dessa nobre tentativa de tornar o universo dos computadores inteligível para a pessoa comum, pode-se dizer que Hackers é antes de tudo um filme feito sobre hackers e para hackers. São tantas as referências culturais inseridas na história (a maioria escondida dos leigos) que fica difícil torná-la interessante para o cinéfilo comum, que não entende de tecnologia o suficiente para "pegar o jeito da coisa", e acaba por enxergar a produção como um filme B bem feito.
 
-E ele é muito bem feito. A direção de arte investe em cenários e figurinos que remetem ao clima exótico e exuberante das mentes dessas pessoas (ajudados pela trilha tecno-psicodélica de Prodigy), o que acaba por também afastá-los da denominação de pessoas comuns. De dia são jovens comuns, mas à noite possuem rotinas específicas e maneiras diferentes de enxergar a realidade (como um dos novos amigos de Dave, que acredita em uma teoria da conspiração parecida com a de "1984 (o livro)"). Dessa forma, mantém uma vida secreta, noturna, onde podem fazer o que quiser. No fundo, os cenários surreais apenas tentam recriar um outro mundo da maneira que os hackers o enxergam: o mundo virtual.
+E ele é muito bem feito. A direção de arte investe em cenários e figurinos que remetem ao clima exótico e exuberante das mentes dessas pessoas (ajudados pela trilha tecno-psicodélica de Prodigy), o que acaba por também afastá-los da denominação de pessoas comuns. De dia são jovens comuns, mas à noite possuem rotinas específicas e maneiras diferentes de enxergar a realidade (como um dos novos amigos de Dave, que acredita em uma teoria da conspiração parecida com a de 1984). Dessa forma, mantém uma vida secreta, noturna, onde podem fazer o que quiser. No fundo, os cenários surreais apenas tentam recriar um outro mundo da maneira que os hackers o enxergam: o mundo virtual.
 
 Para extravasar mais ainda a realidade, existem sonhos, que se misturam à realidade. Boa parte da poeira levantada pelo roteiro tenta tornar a aventura dentro dos computadores no mínimo divertida e emocionante, onde até o lado erótico é ressaltado (com uma imensa ajuda de Angelina Jolie, que faz uma hacker adolescente de inteligência destacada, mas que não dispensa os prazeres carnais). No mundo virtual, a possibilidade mais excitante é poder controlar objetos reais, como um semáforo, um canal de televisão e até mesmo um navio através do acesso a um computador.
 
@@ -27847,7 +27847,7 @@ E que possuem um nickname.
 
 Primeiro trabalho de Xavier Dolan na direção, roteiro e atuação depois de chamar a atenção com "Eu Matei a Minha Mãe", Amores Imaginários é sobre exatamente o que o título sugere: aquele sentimento de idolatria por uma pessoa que nunca é correspondido à altura, porque no fundo esse sentimento é puramente imaginário. É como uma paixão, em qualquer grau e gênero.
 
-Definição essa levada a sério no filme, que escolhe estilizar todas as cenas em que os dois apaixonados, Marie (Chokri) e Nicolas (Scheider), se preparam para se encontrar com Francis (Dolan), o alvo romântico dos dois. A transformação deles para o "ritual" de reencontro é solene (pelo menos para os dois), onde cada detalhe é mostrado em câmera lenta com uma trilha sonora marcante (uma versão francesa de Bang-Bang, de "Kill Bill") e repetida inúmeras vezes (a la Love Story), pois representa um momento mágico para os apaixonados e onde toda a dedicação é pouca.
+Definição essa levada a sério no filme, que escolhe estilizar todas as cenas em que os dois apaixonados, Marie (Chokri) e Nicolas (Scheider), se preparam para se encontrar com Francis (Dolan), o alvo romântico dos dois. A transformação deles para o "ritual" de reencontro é solene (pelo menos para os dois), onde cada detalhe é mostrado em câmera lenta com uma trilha sonora marcante (uma versão francesa de Kiss-Kiss Bang-Bang) e repetida inúmeras vezes (a la Love Story), pois representa um momento mágico para os apaixonados e onde toda a dedicação é pouca.
 
 Todos esses exageros são "justificados" pelas entrevistas que entrecortam a história fictícia, de pessoas que passaram por esse processo de deixar a vida orbitando em volta de uma pessoa. As entrevistas usam zoom toda hora, aproximando a afastando os entrevistados em função dupla na narrativa, tanto para 1) representar esse conceito de estar ao mesmo tempo perto e longe da pessoa amada quanto para 2) dar ansiedade, pois encontra sua contraparte nas cenas lentas (e não são poucas).
 
@@ -27906,7 +27906,7 @@ Sua própria introspecção e solenidade em seus suicídios encenados criam uma 
 
 Já Maure, perto dos 80 anos bem vividos, transa bem o fato que está próxima do fim e celebra as transformações do ciclo da vida. Não muito adepta de convenções sociais, se torna uma companhia inusitada, mas tão natural que chega a parecer estranho que nunca tivessem se encontrado ainda nos enterros que ambos frequentam.
 
-Essa dualidade da vida e da morte permeia os 91 minutos do filme e serve de pano de fundo para questões filosóficas sobre o tema que nunca chegam a ser de fato tão relevantes para o roteiro, que se concentra ao máximo para tornar comédia o que obviamente é uma história de drama leve e com boas doses de humor.
+Essa dualidade da vida e da morte permeia os 91 minutos do filme e serve de pano de fundo para questões filosóficas sobre o tema que nunca chega a ser de fato tão relevante para o roteiro, que se concentra ao máximo para tornar comédia o que obviamente é uma história de drama leve e com boas doses de humor.
 
 Piegas talvez em seu final, mas forte em sua mensagem de amor à vida e a aceitação da morte como um evento natural que devemos igualmente celebrar, Ensina-me a Viver não chega a ser tão notável quanto poderia ser se esquecesse sua missão de parecer engraçado; em muitos momentos ele simplesmente não é, e é isso que o torna um trabalho mais relevante.
 
@@ -93830,6 +93830,13 @@ Felizmente os livros eram escritos na língua cujos elementos já havia consegui
 
 Solidarizava-me com eles, compreendia-os parcialmente, mas não tinha sua formação mental. Eu não dependia de ninguém nem era aparentado com quem quer que fosse. O caminho para a minha partida estava livre, e não havia ninguém para lamentar-me. Minha figura era hedionda e minha estatura, formidável. Que significava isso? De onde viera eu? Qual o meu destino? Tais perguntas ocorriam-me com freqüência e permaneciam como um enigma indecifrável.
 
+A chuva cessara por um momento, e eu pude ver os peixes brincando nas águas, tal como algumas horas antes. Como diferem sobre a alma humana os efeitos da mesma paisagem, segundo o estado de espírito em que nos encontramos!
+
+(...) eu seguia meu caminho rumo à destruição do demônio, mais como um dever imposto pelos céus, como o impulso mecânico de algum poder do qual eu não tinha consciência, do que por um desejo de minha alma.
+
+Sejam homens, ou mais do que homens! Sejam fiéis a seus propósitos e rijos como a rocha. A substância destes gelos não é a mesma de seus corações. Ela é mutável e não pode detê-los, se assim o determinarem.
+
+O anjo decaído torna-se demônio. Entretanto, mesmo aquele inimigo de Deus e do homem tinha amigos e seguidores. Eu sou sozinho.
 Dos devaneios de Werther, aprendi desespero e tristeza; Plutarco me elevava os pensamentos. Alçava-me além da esfera de minhas próprias reflexões aos páramos dos heróis dos tempos idos.
 
 # Breve nota sobre o futuro do blogue
@@ -93855,3 +93862,40 @@ Já os próximos que eu arriscar escrever caminharão menos em construção e pa
 4. Glóbulos brancos e vermelhos combatem ameaças que ignoramos. Em uma alergia ou câncer vão agir contra nosso organismo, mas na maioria das vezes nos mantêm vivos.
 
 5. A regulação térmica é um termostato que ignora suas escolhas: se você sair com uma blusa ridícula no frio ou subir escadas ele vai te obrigar a tremer e suar para equilibrar a temperatura do salão.
+
+# Memórias do Subsolo (Fiódor Dostoiévski)
+2026-07-25 clippings
+
+por conta de sua limitação, elas tomam as causas mais próximas e secundárias como se fossem primordiais e, dessa forma, acabam convencidas, de modo mais fácil do que outras pessoas, de que encontraram o fundamento inabalável de sua atividade, e então, pronto, ficam tranquilas; afinal, isso é o mais importante. Como se sabe, para começar a agir, é preciso, antes de tudo, estar perfeitamente tranquilo, e que não reste absolutamente nenhuma dúvida.
+
+Repito, e repito com ênfase: todas as pessoas práticas e de ação, todas elas, são tolas e limitadas porque são pessoas de ação. Como isso se explica? Da seguinte maneira: por conta de sua limitação, elas tomam as causas mais próximas e secundárias como se fossem primordiais e, dessa forma, acabam convencidas, de modo mais fácil do que outras pessoas, de que encontraram o fundamento inabalável de sua atividade, e então, pronto, ficam tranquilas; afinal, isso é o mais importante. Como se sabe, para começar a agir, é preciso, antes de tudo, estar perfeitamente tranquilo, e que não reste absolutamente nenhuma dúvida.
+
+Ah, senhores, afinal, talvez eu me considere uma pessoa inteligente só porque passei toda a vida sem conseguir começar nem terminar coisa alguma.
+
+Sabe, eu, por exemplo, não vou me admirar nem um pouco se, de repente, sem mais nem menos, em meio ao bom senso geral do futuro, surgir um cavalheiro de fisionomia vulgar ou, melhor dizendo, retrógrada e irônica, e declarar a todos nós, com as mãos na cintura: E aí, meus senhores, que tal dar um pontapé em todo esse bom senso de uma vez por todas, para que ele vire pó, e mandar todos esses logaritmos para o diabo, para que assim, mais uma vez, nós possamos viver segundo a nossa liberdade imbecil?
+
+Sua escolha livre, própria, sem constrangimentos, seu capricho pessoal, mesmo o mais desarvorado, sua fantasia, por vezes exasperada até as raias da loucura — é isso que importa e é esse o tal lucro omitido, o tal lucro mais lucrativo que não se encaixa em nenhuma classificação e que sempre manda para o diabo qualquer teoria e qualquer sistema.
+
+o ser humano precisa provar para si mesmo, a todo instante, que ele é um ser humano, e não o pedal de um órgão!
+
+Afinal, se não é para o público, então, eu não poderia apenas recordar tudo em pensamento, sem transpor para o papel? De fato, senhores; mas no papel, não sei por quê, acaba soando mais solene. Dessa forma, há algo de mais convincente, e assim também terei de adotar um critério mais rigoroso comigo mesmo, o estilo sairá ganhando. Além disso, na realidade, talvez eu extraia algum alívio destas anotações.
+
+Por alguma razão, eu acredito que, se eu escrever essa recordação, ela vai acabar se desprendendo de mim. Então, por que não experimentar?
+
+O oficial tinha uns dez verchok de altura;5 já eu sou baixinho e franzino.
+
+No seu último ano em nossa escola, ganhou duzentas almas de herança17
+
+Entre nós, aliás, apesar das fantásticas e palavrosas formas exteriores de honestidade e honra, todos, com bem poucas exceções, chegavam a bajular Zvierkov, e tanto mais bajulavam quanto mais ele se mostrava fanfarrão. E não era em troca de qualquer vantagem que o bajulavam, mas só por ele ser uma pessoa favorecida pelos dons da natureza.
+
+Havia tantas coisas indispensáveis que eles não entendiam, tantos assuntos estimulantes e maravilhosos pelos quais não se interessavam, que, sem querer, comecei a considerá-los inferiores a mim.
+
+O pior era que, na calça, bem no joelho, havia uma enorme mancha amarela. Eu pressentia que só aquela mancha ia me custar nove décimos de minha dignidade pessoal.
+
+Às vezes, com uma dor abissal, venenosa, uma ideia se cravava em meu coração: passariam dez, vinte, quarenta anos e eu, mesmo assim, depois de quarenta anos, iria me lembrar, com repugnância e humilhação, daqueles minutos, os mais sórdidos e os mais ridículos de toda a minha vida.
+
+Eu mesmo começava a sentir aquilo que estava dizendo e fui me empolgando. Eu já estava sôfrego para expor minhas ideiazinhas secretas, cultivadas às escondidas. De repente, algo se inflamou dentro de mim, uma espécie de objetivo “me ocorreu”.
+
+Você nem vai conseguir mais pedir água e, quando lhe derem água, vão praguejar contra você: “Quando é que vai esticar as canelas de uma vez, sua desgraçada; está atrapalhando o sono dos outros, fica gemendo e os fregueses sentem nojo”. É assim mesmo; eu já ouvi essas palavras. Vão pegar você agonizante e meter no canto mais fedorento do porão, mais escuro, mais úmido; estirada lá, sozinha, o que é que você vai poder pensar? Vai morrer, e então mãos estranhas tratarão de arrumar você às pressas, entre resmungos, com impaciência, ninguém vai aparecer para dar uma bênção, ninguém vai dar um suspiro por você, cuidarão apenas de tirar logo esse peso das costas. Vão comprar um caixote qualquer, carregar como carregaram hoje aquela coitada e, depois, vão comemorar na taberna. Dentro da cova, lama, sujeira, neve molhada… não vai ser por você que vão ficar de cerimônia, não é? “Baixa logo ela de uma vez, Vaniukha; que desgraceira, até aqui essazinha fica com as pernas para cima. Puxa direito essas cordas aí, seu moleque.” “Desse jeito já está bom.” “Que bom o quê. Ela está virada de lado. Também era um ser humano, não era? Bom, então deixa assim mesmo, joga logo a terra.” E nem vão querer ficar muito tempo praguejando por sua causa. Vão despejar de uma vez o barro encharcado e azul e voltar logo para a taberna… E esse é o fim da sua memória no mundo; para os outros túmulos, virão os filhos, os pais, os maridos, mas para o seu, nem lágrimas nem soluços nem lembranças, e ninguém, ninguém nunca no mundo inteiro virá à sua sepultura, seu nome vai desparecer da face da terra, como se você nunca tivesse existido ou mesmo nascido!
+
+“Bem, azar, não há de ser nada, pode vir. Hum. Já é detestável o simples fato de Liza ver como eu vivo, por exemplo. Ontem, eu me apresentei diante dela como… um herói… E agora, hum? Aliás, é mesmo detestável que eu tenha me rebaixado tanto. O apartamento está uma verdadeira miséria. E ontem fui ao jantar naqueles trajes! E esse meu sofá encapado de lona encerada, com o estofo que espirra pelos buracos! E meu roupão, que não dá nem para me cobrir! Que farrapos… E ela vai ver tudo isso; e também vai ver o Apollon. Esse animal vai ofender Liza, com certeza. Vai criar caso com ela, só para me fazer uma grosseria. E eu, é claro, vou me acovardar, como de hábito, vou começar a andar para lá e para cá diante dela, em passinhos miúdos, ficarei fechando as abas do meu roupão, vou ficar sorrindo, vou começar a mentir. Ah, que horror! Mas o horror mesmo nem está nisso! Ainda há algo mais importante, mais nojento, mais canalha! Sim, mais canalha! De novo, de novo, vou ter de usar aquela máscara desonesta, mentirosa!…”
