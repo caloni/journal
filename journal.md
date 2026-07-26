@@ -72545,7 +72545,7 @@ Esta é a bodega orgânica da cidade de Cafayate (toda cidade tem suas frescuras
 
 Este é o vinho mais caro deles, deixado doze meses em barricas de carvalho americano e nove meses em carvalho europeu. Adquiri uma garrafa 2011 em 2017 em nossa primeira visita à região e ela ficou depositada na minha adega por mais três anos, até que acabaram-se os vinhos em reserva por causa da pandemia. Vamos a ele.
 
-Primeiro o aroma complexo, buquê terciário lembrando óleos, e uma certa adstringência psicológica (jeito fresco de falar tânico) misturada com muita elegância. Não dá para comparar com nada já bebido antes porque esta obra de arte possui personalidade própria.
+Primeiro o aroma complexo, buquê terciário lembrando óleos e taninos misturados com muita elegância. Não dá para comparar com nada já bebido antes porque esta obra de arte possui personalidade própria.
 
 O sabor está quase sem álcool, que nesse estágio de envelhecimento apenas ajuda a esquentar a garganta e a boca. A combinação de azedo com amargo e frutas secas ou maduras é simplificar demais a experiência. Este é um vinho inesquecível. Ou faz muito tempo que não viajo.
 
@@ -74483,7 +74483,7 @@ Esta é uma série das mais sensíveis, que escancara as vicissitudes dos mais f
 A cada episódio a série amadurece um pouco mais, trazendo à tona os problemas reais que poderiam derivar de uma relação entre o garoto mais lindo e popular da escola e uma garota desconfiada e fragilizada pelos traumas da infância. Mei é uma jóia ainda na pedra, e por isso sua beleza externa não faz justiça aos seus sentimentos mais nobres. Portanto a série vai criando situações onde conseguimos ver que existe um ser humano completo do lado de dentro que só aparece para o mundo quando necessário.
 
 # Como fazer café
-2023-06-25 food coffee repost
+2023-06-25 food coffee draft
 
 Ao longo dos anos meu processo de fazer uma xícara de café mudou radicalmente. Já experimentei coado em papel, coado em pano, moka, prensa francesa, Aeropress. Alguns princípios mudaram, outros se mantiveram ou foram descobertos e mantidos no dia a dia. Este é um guia básico e genérico, mas não necessariamente prático, para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem. Ou pelo menos tentar. É um insight filosófico e um pouco científico; um apanhado de conhecimento que talvez você não saiba ainda, ou não dessa forma.
 
@@ -74495,11 +74495,11 @@ Fazer café quer dizer extrair do fruto do cafeeiro seus diferentes aromas e sab
 
 Por que torrar? Sem torrar o café está cru e se você conseguir moer um grão cru, o que já dá um certo trabalho, o gosto de extração desse pó irá lembrar grama molhada. A torra é o que traz o aroma e o sabor que estão presos dentros dos grãos, iniciando processos químicos com data de validade. Mais ou menos o que acontece com o vinho de guarda, mas com um prazo menor.
 
-São classificados diferentes níveis de torra, tais como clara, média e escura, que são momentos distintos de calor aplicado ao grão. Você pode como experimento torrar grãos verdes em casa, que apesar de não serem especiais e terem uma certa adstringência são bebíveis. São encontrados em mercados municipais ou pela internet. Coloque em uma panela no fogo e fique mexendo sem parar, principalmente quando a cor do grão começar a se alterar e subir um aroma de gás carbônico misturado com o que pode lembrar amendoim. Há um momento durante a torra que se houve um estalo. Este é o ar de dentro do grão expandindo rapidamente e saindo. Quase como uma pipoca. Há um nome para os grãos que são retirados da torra em torno desse primeiro estalo. Esse ponto é bem claro e costuma ser usado por Q Graders, avaliadores profissionais de café que atestam a qualidade do grão. A partir desse ponto começa o degradê de torras para média e escura. Importante é que uma vez que atinja-se a torra desejada a temperatura dos grãos deve ser baixada instantaneamente, com ventilação ou qualquer outra maneira.
+São classificados diferentes níveis de torra, tais como clara, média e escura, que são momentos distintos de calor aplicado ao grão. Você pode como experimento torrar grãos verdes em casa, que apesar de não serem especiais e terem uma certa adstringência -- quando a boca "amarra" um pouco -- são bebíveis. São encontrados em mercados municipais ou pela internet. Coloque em uma panela no fogo e fique mexendo sem parar, principalmente quando a cor do grão começar a se alterar e subir um aroma de gás carbônico misturado com o que pode lembrar amendoim. Há um momento durante a torra que se houve um estalo. Este é o ar de dentro do grão expandindo rapidamente e saindo. Quase como uma pipoca. Há um nome para os grãos que são retirados da torra em torno desse primeiro estalo. Esse ponto é bem claro e costuma ser usado por Q Graders, avaliadores profissionais de café que atestam a qualidade do grão. A partir desse ponto começa o degradê de torras para média e escura. Importante é que uma vez que atinja-se a torra desejada a temperatura dos grãos deve ser baixada instantaneamente, com ventilação ou qualquer outra maneira.
 
 O motivo dos Q Graders geralmente usarem a torra mais clara possível é que quanto mais clara mais as propriedades originais do café estarão presentes, como o frutado e o frescor; quando você compra um café que usa palavras na embalagem referenciando frutas frescas pode ter certeza que se trata de uma torra mais clara ou média. Quanto mais escura mais dessas propriedades serão alteradas e haverá uma troca por mais corpo e sabores menos frutados, ou um frutado mais amadurecido; se você ler na embalagem coisas como caramelo, chocolate, nozes, pode ter certeza que a torra já passou da média e está em direção à mais escura. No entanto, esqueça a classificação de níveis de torra, pois o sabor final depende muito dos grãos de café utilizados. Não é uma ciência exata.
 
-Uma vez torrado, o café começa a perder essas propriedades rapidamente através de sua superfície. Quanto mais escura a torra mais rápido a coisa evapora. Após uma embalagem a vácuo ser aberta, no decorrer de quatro a cinco semanas a maioria dos cafés torrados, expostos ao ambiente, estará livre de muitos aromas e sabores que surgem durante a torra. Esse tempo diminui se os grãos já estiverem moídos na proporção de quanto mais superfície estiver disponível no pó moído do café para que essas propriedades vazem para o ambiente. Por outro lado, é preciso lembrar também que como a torra envolve queimar o café isso gera gás carbônico, e parte dele ainda está nos grãos do café nos primeiros dias, o que quer dizer que uma torra muito recente também não é o melhor estágio para extrair suas propriedades.
+Uma vez torrado, o café começa a perder essas propriedades rapidamente através de sua superfície. Quanto mais escura a torra mais rápido a coisa evapora. Após uma embalagem a vácuo ser aberta, no decorrer de quatro a cinco semanas a maioria dos cafés torrados, expostos ao ambiente, estará livre de muitos aromas e sabores que surgem durante a torra. Esse tempo diminui se os grãos já estiverem moídos na proporção de quanto mais superfície estiver disponível no pó moído do café para que essas propriedades vazem para o ambiente. Por outro lado, é preciso lembrar também que como a torra envolve queimar o café isso gera gás carbônico, e parte dele ainda está nos grãos do café nos primeiros dias, o que quer dizer que uma torra muito recente também não é o melhor estágio para a degustação. No entanto, é preciso lembrar que nos últimos anos casas de torrefação estão utilizando maquinários modernos que conseguem fazer uma torra para já ser apreciada no mesmo dia ou no dia seguinte.
 
 Uma vez que a torra traz essas propriedades para a superfície o último passo é nosso, consumidores finais ou baristas: moê-lo e extrair da superfície dos grãos moídos suas propriedades desejadas através de água. Por que moer? A moagem multiplica a superfície do café que estará exposta à água que irá extrair suas propriedades para a bebida. Você pode fazer o teste e passar água em grãos de café sem moer e verá que o sabor é bem insípido, pois há muito menos superfície em café não-moído.
 
@@ -74515,7 +74515,7 @@ Existem duas famílias principais de métodos de extração do café de baixa co
 
 Portanto, estas são as principais variáveis que você deve se atentar: proporção entre café e água, temperatura da água, tempo de extração, forma de extração e nível de moagem dos grãos. Qualquer mínima mudança em uma dessas variáveis irá alterar radicalmente o resultado final. Portanto, preste muita atenção quando estiver fazendo café, pois é esse momento que deverá ser medido para depois ser aprimorado. Até se você faz um café ruim pode fazer um menos ruim da próxima vez.
 
-Após a moagem, os métodos de extração são diversos e variados, e como você já viu existem muitas variáveis para você cuidar. Essas variáveis são importantes porque como você percebeu café é altamente perecível. Cada detalhe durante a extração irá impactar no sabor e aroma final. Se duvida, faça alguns testes alterando uma dessas variáveis e veja o quanto você é sensível a essas variações. Talvez eu esteja exagerando e você é bem mais tolerante a essas mudanças. Se for o caso, não entendi porque está lendo este texto =)
+Após a moagem, os métodos de extração são diversos e variados, orbitando em torno da filtragem por gravidade, imersão e pressão. E como você já viu anteriormente, existem muitas variáveis para você cuidar. Essas variáveis são importantes porque como você percebeu café é altamente perecível. Cada detalhe durante a extração irá impactar no sabor e aroma final. Se duvida, faça alguns testes alterando uma dessas variáveis e veja o quanto você é sensível a essas variações. Talvez eu esteja exagerando e você é bem mais tolerante a essas mudanças. Se for o caso, não entendi porque está lendo este texto =)
 
 Independente do processo e medidas utilizadas tenha isso em mente: fazer um líquido chamado café é extrair suas propriedades químicas do fruto para a água. Essa extração pode retirar mais ou menos do café. Há uma ordem cronológica por tempo de infusão do café com a água, na ordem: acidez, corpo, doçura, corpo novamente, amargor. Quanto mais equilibrada a extração mais essas propriedades trabalharão juntas e em harmonia quando você degustar seu café. O que quer dizer que você conseguirá obter mais sensações a cada gole. Mais sensações é uma coisa boa, pois torna a bebida mais complexa. Mais complexidade é bom porque torna a busca por aromas e sabores um processo mais intenso, demandando mais nossa atenção e proporcionando uma experiência mais rica. E isso é bom porque experiências ricas nos tornam mais felizes.
 
@@ -74531,7 +74531,7 @@ Como medir tudo isso? Usando sempre um padrão para cada variável.
 
 Um padrão para a temperatura da água. Exemplos: o tempo após a fervura, observar quando bolhas começam a subir, o tempo de aquecimento no microondas, usar um termômetro.
 
-Um padrão para saber quanto de café por xícara está sendo utilizado. Exemplos: usar a mesma colher como medida, pesar o café com uma balança de cozinha. Um detalhe importante é que usar volume estará sujeito a variações entre cafés e ambientes, então peso em gramas é o método mais preciso.
+Um padrão para saber quanto de café por xícara está sendo utilizado. Exemplos: usar a mesma colher como medida, pesar o café com uma balança de cozinha. Um detalhe importante é que usar volume estará sujeito a variações entre torras: grãos mais claros são bem mais pesados que os escuros (às vezes o dobro!), então peso em gramas é o método mais preciso, ao menos para a quantidade de café.
 
 Um padrão para medir o tempo de extração. Exemplos: contar mentalmente os segundos, usar um timer que conte segundos ou minutos por você.
 
@@ -82957,45 +82957,6 @@ Dentro dos meus recortes compilei e agrupei esta lista de ações em dicas mais 
 
 - Desenvolva habilidades para oportunidades disponíveis.
 
-Abaixo seguem mais recortes que fiz das inúmeras leituras deste livro que serviram de base para o texto acima.
-
-The solution is to gradually BECOME FREE OF SOCIETAL REWARDS and learn how to substitute for them rewards that are under one's own powers. This is not to say that we should abandon every goal endorsed by society; rather, it means that, in addition to or instead of the goals others use to bribe us with, we develop a set of our own.
-
-(...) unless a person LEARNS TO SET GOALS AND TO RECOGNIZE AND GAUGE FEEDBACK (...) she will not enjoy them (activities).
-
-Because most jobs, and home life in general, lack the pressing demands of flow experiences, concentration is rarely so intense that preoccupations and anxieties can be automatically ruled out. Consequently the ordinary state of mind involves unexpected and frequent episodes of entropy interfering with the smooth run of psychic energy.
-
-Some things we are initially forced to do against our will turn out in the course of time to be intrinsically rewarding.
-
-When a society suffers from anomie, flow is made difficult because it is not clear what is worth investing psychic energy in; when it suffers from alienation the problem is that one cannot invest psychic energy in what is clearly desirable.
-
-Gradually I learned to be indifferent to myself and my deficiencies; I came to CENTER MY ATTENTION INCREASINGLY UPON EXTERNAL OBJECTS: the state of the world, various branches of knowledge, individuals for whom I felt affection.
-
-(...) the easiest step toward improving the quality of life consists in simply LEARNING TO CONTROL THE BODY AND ITS SENSES.
-
-(a) to SET AN OVERALL GOAL, AND AS MANY SUBGOALS as are realistically feasible; (b) to FIND WAYS OF MEASURING PROGRESS in terms of the goals chosen; (c) to KEEP CONCENTRATING ON WHAT ONE IS DOING, and to KEEP MAKING FINER AND FINER DISTINCTIONS IN THE CHALLENGES INVOLVED IN THE ACTIVITY; (d) to DEVELOP THE SKILLS NECESSARY TO INTERACT WITH THE OPPORTUNITIES AVAILABLE; and (e) to KEEP RAISING THE STAKES if the activity becomes boring.
-
-Leisure that uses up external resources, however, often requires less attention, and as a consequence it generally provides less memorable rewards.
-
-(...) the importance of personally TAKING CONTROL OF THE DIRECTION OF LEARNING FROM THE VERY FIRST STEPS cannot be stressed enough. If a person feels coerced to read a certain book, to follow a given course because that is supposed to be the way to do it, learning will go against the grain. But if the decision is to take that same route because of an inner feeling of rightness, the learning will be relatively effortless and enjoyable.
-
-Giving up the self with its instincts, habits, and desires is so unnatural an act that only someone supremely in control can accomplish it.
-
-(...) keeping order in the mind from within is very difficult. We need external goals, external stimulation, external feedback to keep attention directed. And WHEN EXTERNAL INPUT IS LACKING, ATTENTION BEGINS TO WANDER, AND THOUGHTS BECOME CHAOTIC -- resulting in the state we have called "psychic entropy" (...)
-
-Even pain is better than the chaos that seeps into an unfocused mind. Hurting oneself, whether physically or emotionally, ensures that attention can be focused on something that, although painful, is at least controllable -- since we are the ones causing it.
-
-The ultimate test for the ability to control the quality of experience is what a person does in solitude, with no external demands to give structure to attention. It is relatively easy to become involved with a job, to enjoy the company of friends, to be entertained in a theater or at a concert. But what happens when we are left to our own devices? Alone, when the dark night of the soul descends, are we forced into frantic attempts to distract the mind from its coming? Or are we able to take on activities that are not only enjoyable, but make the self grow?
-
-A person who rarely gets bored, who does not constantly need a favorable external environment to enjoy the moment, has passed the test for having achieved a creative life.
-
-If a person is unwilling to ADJUST PERSONAL GOALS WHEN STARTING A RELATIONSHIP, then a lot of what subsequently happens in that relationship will produce disorder in the person's consciousness, because novel patterns of interaction will conflict with old patterns of expectation.
-
-The process of discovering new goals in life is in many respects similar to that by which an artist goes about creating an original work of art. Whereas a conventional artist starts painting a canvas knowing what she wants to paint, and holds to her original intention until the work is finished, an original artist with equal technical training commences with a deeply felt but undefined goal in mind, keeps modifying the picture in response to the unexpected colors and shapes emerging on the canvas, and ends up with a finished work that probably will not resemble anything she started out with. If the artist is responsive to her inner feelings, knows what she likes and does not like, and pays attention to what is happening on the canvas, a good painting is bound to emerge. On the other hand, if she holds on to a preconceived notion of what the painting should look like, without responding to the possibilities suggested by the forms developing before her, the painting is likely to be trite.
-
-For an autotelic person, the primary goals emerge from experience evaluated in consciousness, and therefore from the self proper.
-
-
 # Timemore C2
 2023-04-05 food coffee
 
@@ -85787,9 +85748,9 @@ But for most people it is through the power process having a goal, making an AUT
 
 The conservatives are fools: They whine about the decay of traditional values, yet they enthusiastically support technological progress and economic growth. Apparently it never occurs to them that you can’t make rapid, drastic changes in the technology and the economy of a society without causing rapid changes in all other aspects of the society as well, and that such rapid changes inevitably break down traditional values.
 
-Today people live more by virtue of what the system does FOR them or TO them than by virtue of what they do for themselves. And what they do for themselves is done more and more along channels laid down by the system. Opportunities tend to be those that the system provides, the opportunities must be exploited in accord with rules and regulations [13], and techniques prescribed by experts must be followed if there is to be a chance of success.
+Today people live more by virtue of what the system does FOR them or TO them than by virtue of what they do for themselves. And what they do for themselves is done more and more along channels laid down by the system. Opportunities tend to be those that the system provides, the opportunities must be exploited in accord with rules and regulations, and techniques prescribed by experts must be followed if there is to be a chance of success.
 
-But even if most people in industrial-technological society were well satisfied, we (FC) would still be opposed to that form of society, because (among other reasons) we consider it demeaning to fulfill one’s need for the power process through surrogate activities or through identification with an organization, rather than through pursuit of real goals.
+But even if most people in industrial-technological society were well satisfied, we would still be opposed to that form of society, because (among other reasons) we consider it demeaning to fulfill one’s need for the power process through surrogate activities or through identification with an organization, rather than through pursuit of real goals.
 
 It is well known that people generally work better and more persistently when striving for a reward than when attempting to avoid a punishment or negative outcome. Scientists and other technicians are motivated mainly by the rewards they get through their work. But those who oppose technological invasions of freedom are working to avoid a negative outcome, consequently there are few who work persistently and well at this discouraging task.
 
@@ -85807,17 +85768,15 @@ On the other hand it is possible that human control over the machines may be ret
 
 Whatever kind of society may exist after the demise of the industrial system, it is certain that most people will live close to nature, because in the absence of advanced technology there is no other way that people CAN live. To feed themselves they must be peasants or herdsmen or fishermen or hunters, etc. And, generally speaking, local autonomy should tend to increase, because lack of advanced technology and rapid communications will limit the capacity of governments or other large organizations to control local communities.
 
-The anarchist [34] too seeks power, but he seeks it on an individual or small-group basis; he wants individuals and small groups to be able to control the circumstances of their own lives. He opposes technology because it makes small groups dependent on large organizations.
+The anarchist too seeks power, but he seeks it on an individual or small-group basis; he wants individuals and small groups to be able to control the circumstances of their own lives. He opposes technology because it makes small groups dependent on large organizations.
 
-## Notas
+Women are encouraged to have careers because their talents are useful to the system and, more importantly, because by having regular jobs women become better integrated into the system and tied directly to it rather than to their families. This helps to weaken family solidarity. (The leaders of the system say they want to strengthen the family, but they really mean is that they want the family to serve as an effective tool for socializing children in accord with the needs of the system.
 
-(Paragraph 28) Women are encouraged to have careers because their talents are useful to the system and, more importantly, because by having regular jobs women become better integrated into the system and tied directly to it rather than to their families. This helps to weaken family Page 34 solidarity. (The leaders of the system say they want to strengthen the family, but they really mean is that they want the family to serve as an effective tool for socializing children in accord with the needs of the system.
+Some of the symptoms listed are similar to those shown by caged animals. To explain how these symptoms arise from deprivation with respect to the power process: common-sense understanding of human nature tells one that lack of goals whose attainment requires effort leads to boredom and that boredom, long continued, often leads eventually to depression. Failure to attain goals leads to frustration and lowering of self-esteem. Frustration leads to anger, anger to aggression, often in the form of spouse or child abuse. It has been shown that long-continued frustration commonly leads to depression and that depression tends to cause guilt, sleep disorders, eating disorders and bad feelings about oneself. Those who are tending toward depression seek pleasure as an antidote; hence insatiable hedonism and excessive sex, with perversions as a means of getting new kicks. Boredom too tends to cause excessive pleasure-seeking since, lacking other goals, people often use pleasure as a goal. See accompanying diagram.
 
-(Paragraph 44) Some of the symptoms listed are similar to those shown by caged animals. To explain how these symptoms arise from deprivation with respect to the power process: common-sense understanding of human nature tells one that lack of goals whose attainment requires effort leads to boredom and that boredom, long continued, often leads eventually to depression. Failure to attain goals leads to frustration and lowering of self-esteem. Frustration leads to anger, anger to aggression, often in the form of spouse or child abuse. It has been shown that long-continued frustration commonly leads to depression and that depression tends to cause guilt, sleep disorders, eating disorders and bad feelings about oneself. Those who are tending toward depression seek pleasure as an antidote; hence insatiable hedonism and excessive sex, with perversions as a means of getting new kicks. Boredom too tends to cause excessive pleasure-seeking since, lacking other goals, people often use pleasure as a goal. See accompanying diagram.
+A partial exception may be made for a few passive, inward-looking groups, such as the Amish, which have little effect on the wider society. Apart from these, some genuine small-scale communities do exist in America today. For instance, youth gangs and “cults.” Everyone regards them as dangerous, and so they are, because the members of these groups are loyal primarily to one another rather than to the system, hence the system cannot control them. Or take the gypsies. The gypsies commonly get away with theft and fraud because their loyalties are such that they can always get other gypsies to give testimony that “proves” their innocence.
 
-(Paragraph 52) A partial exception may be made for a few passive, inward-looking groups, such as the Amish, which have little effect on the wider society. Apart from these, some genuine small-scale communities do exist in America today. For instance, youth gangs and “cults.” Everyone regards them as dangerous, and so they are, because the members of these groups are loyal primarily to one another rather than to the system, hence the system cannot control them. Or take the gypsies. The gypsies commonly get away with theft and fraud because their loyalties are such that they can always get other gypsies to give testimony that “proves” their innocence.
-
-(Paragraph 195) The economic and technological structure of a society are far more important than its political structure in determining the way the average man lives (see paragraphs 95, 119 and Notes 16, 18).
+The economic and technological structure of a society are far more important than its political structure in determining the way the average man lives.
 
 # Write, merge, publish
 2023-06-25 computer
@@ -85828,7 +85787,7 @@ A ideia de arquitetura que está sendo seguida meio por acaso pode ser o core do
 
 O merge é o componente que obtém conteúdo de N fontes e transforma em um arquivo único em um formato qualquer. Por que único? Porque múltiplos arquivos trabalham mal no SO e o dia a dia de um blogger é muito mais fácil através de um `journal.txt` do que ficar se enveredando nas referências que o sistema de publicação te obriga a usar.
 
-O publish é a transformação do arquivo de texto único para N destinos diferentes: um ou mais blogues e livros, Telegram, RSS, Twitter. Não importa. A definição dos destinos e feito no próprio script awk em conjunto com sua transformação. Por que isso? Porque um escritor não deve se limitar a um único formato. Seu único objetivo na vida é escrever. Seus metadados e o formato do seu texto irão definir para onde vai o conteúdo, mas ele não precisa se preocupar com isso.
+O publish é a transformação do arquivo de texto único para N destinos diferentes: um ou mais blogues e livros, Telegram, RSS, Twitter. Não importa. A definição dos destinos é feita no próprio script awk em conjunto com sua transformação. Por que isso? Porque um escritor não deve se limitar a um único formato. Seu único objetivo na vida é escrever. Seus metadados e o formato do seu texto irão definir para onde vai o conteúdo, mas ele não precisa se preocupar com isso.
 
 # Como torrar café
 2023-09-07 food coffee
@@ -86019,7 +85978,7 @@ Sobre Swarm já falei. É uma boa série. Provocativa na medida certa. Tem um qu
 
 Estava encerrando o texto, pois pensei que não tinha visto mais nada. Porém, tenho que vasculhar o histórico das contas de streaming para ter certeza que não passou mais alguma merda na TV da sala e eu estava lá. É a vida moderna: quantidade, nunca qualidade.
 
-De filme teve esse O Rei dos Clones, um "documentário" de um "diretor" que aproveita o auê de um cientista coreano que ficou famoso por clonar animais e repassa sua biografia como quem confere uma confusa lista de compras. Existe um pouco de opinião esboçada nos perigos de usar a ciência de forma errada, o que se torna particularmente engraçado após a farofa que foi acompanhar a novela das vacinas e máscaras nos últimos três anos (e continuamos contando vítimas de ataques do coração). De qualquer forma o indivíduo que documentou esta história sequer parou para entender como funciona o método científico.
+De filme teve esse O Rei dos Clones, um "documentário" de um "diretor" que aproveita o auê de um cientista coreano que ficou famoso por clonar animais e repassa sua biografia como quem confere uma confusa lista de compras. Existe um pouco de opinião esboçada nos perigos de usar a ciência de forma errada, o que se torna particularmente engraçado após a farofa que foi acompanhar a novela das vacinas e máscaras nos últimos três anos (e continuamos contando vítimas de ataques do coração). De qualquer forma, o indivíduo que documentou esta história sequer parou para entender como funciona o método científico.
 
 Das séries vi também a Não Durma no Ponto, um programa de competição onde os participantes não dormem por 24 horas -- ficam contando moedas no lugar -- e depois competem em atividades que requer habilidades de alguém acordado para ganhar até um milhão de dólares. Mais do mesmo, mas nos faz comparar como hoje não devem haver perdedores nestes programas. Você ganhou ao sair do show porque vai conseguir dormir, ou ganhou porque topou receber um valor de participação, ou ganhou porque fez qualquer coisa. Ninguém deve perder, pois perder é triste, e ninguém deve ficar triste. Esse alto astral deveria fazer algumas pessoas se matarem.
 
@@ -86061,7 +86020,6 @@ Quinto passo: escolha a poesia de sua preferência e digite-a no notepad. Vale c
 
 Eu vou escolher uma poesia que nossa professora da quinta série leu para a gente:
 
-```
 If you can talk with crowds and keep your virtue,
 Or walk with Kings—nor lose the common touch,
 If neither foes nor loving friends can hurt you,
@@ -86070,13 +86028,12 @@ If you can fill the unforgiving minute
 With sixty seconds’ worth of distance run,
 Yours is the Earth and everything that’s in it,
 And—which is more—you’ll be a Man, my son!
-```
 
 Você vai abrir o bloco de notas e digitar/colar sua poesia, mas, importante, não irá salvar. Apenas deixe aberta no bloco de notas. É essa a graça.
 
 E... tela azul again. Porém, dessa vez, vamos deixar gerar o arquivo até o final. Se estiver assistindo ao vídeo pode acelerar até o reboot.
 
-Enquanto gera a tela azul vamos falar sobre o que esse experimento deseja provar. Todo trabalho de engenharia reversa que pretende descobrir como algo que não sabemos como funciona... funciona, precisa utilizar o método científico para avançar. Cria-se uma hipótese, encontra-se elementos que a corrobore essa hipótese e faz-se os experimentos que a comprove. Quando há múltiplas possibilidades também é importante fazer experimentos que desprovem algum caminho a ser seguido.
+Enquanto gera a tela azul vamos falar sobre o que esse experimento deseja provar. Todo trabalho de engenharia reversa que pretende descobrir como algo que não sabemos como funciona... funciona, precisa utilizar o método científico para avançar. Cria-se uma hipótese, encontra-se elementos que corrobore essa hipótese e faz-se os experimentos que a comprove. Quando há múltiplas possibilidades também é importante fazer experimentos que desprovem algum caminho a ser seguido.
 
 No caso, a hipótese é que uma tela azul de toda a memória necessariamente irá conter os textos que um usuário estiver digitando no bloco de notas, pois esse texto precisa estar em algum lugar da memória. Certo?
 
@@ -86109,7 +86066,7 @@ Esta comédia de Ozu dos anos 50 é simples e ao mesmo tempo cheia de insights s
 # O Corpo Ardente
 2023-07-21 cinema movies
 
-O Corpo Ardente é daquele diretor daquele filme da Xuxa em que ela pega um guri, Amor Estranho Amor. Nos anos 60 fez este filme que estreia umas mina linda e um cavalo. Ele não apenas dirige, mas escreve e fotografa. O filme é uma viagem entre cenas, todas girando em torno de uma festa chata com música de ricaço e papos sobre arte moderna. Marido e esposa se traem. Ela viaja com o filho para o interior e remói reflexões do passado. Quando ela era livre e selvagem. Apenas uma garotinha. Ela observa o cavalo que saiu a esmo, revoltado, e imediatamente entende. Há uma cena linda em que um carro corre ao lado desse cavalo e o filma. Essa cena fará parte do final e com isso as rimas não ditas deste primoroso trabalho em preto e branco e muito maltratado do cinema brasileiro dos anos 60.
+O Corpo Ardente é daquele diretor daquele filme da Xuxa em que ela pega um guri, "Amor, Estranho Amor". Nos anos 60 fez este filme que estreia uma mina linda e um cavalo. Ele não apenas dirige, mas escreve e fotografa. O filme é uma viagem entre cenas, todas girando em torno de uma festa chata com música de ricaço e papos sobre arte moderna. Marido e esposa se traem. Ela viaja com o filho para o interior e remói reflexões do passado. Quando ela era livre e selvagem. Apenas uma garotinha. Ela observa o cavalo que saiu a esmo, revoltado, e imediatamente entende. Há uma cena linda em que um carro corre ao lado desse cavalo e o filma. Essa cena fará parte do final e com isso as rimas não ditas deste primoroso trabalho em preto e branco e muito maltratado do cinema brasileiro dos anos 60.
 
 # Proibido Proibir
 2023-07-30 cinema movies
@@ -86158,7 +86115,7 @@ O teste feito é logar no Microsoft Teams com uma conta de empresa pertencente a
 
 Analisando o disassembly pelo IDA e realizando algumas sessões de debug eu estava caminhando pela interface `IUserDeviceRegManagerStatics` que havia encontrado anteriormente. Eu sabia que essa interface estava por trás do registro da máquina porque depois que alguns de seus métodos são chamados o comando `dsregcmd.exe /status` lista o computador como joined dentro do AAD e se você for na parte de contas do usuário naquela tela de configurações do Windows irá aparecer a mesma conta usada para logar no Teams.
 
-Buscando no registro pelo nome dessa interface existe uma entrada em `HKEY_CLASSES_ROOT\Interface\{b5decd05-58ef-4cd3-ae25-d177bcbcea9e}` aonde existe uma subkey `ProxyStubClsid32`. Essa subkey, de acordo com o MSDN, é usado para traduzir um IID -- ID de Interface -- para um CLSID -- ID de classe. Nas palavras do MSDN (em inglês, por favor): "Maps an IID to a CLSID in 32-bit proxy DLLs".
+Buscando no registro pelo nome dessa interface existe uma entrada em `HKEY_CLASSES_ROOT\Interface\{b5decd05-58ef-4cd3-ae25-d177bcbcea9e}` aonde existe uma subkey `ProxyStubClsid32`. Essa subkey, de acordo com o MSDN, é usada para traduzir um IID -- ID de Interface -- para um CLSID -- ID de classe. Nas palavras do MSDN (em inglês, por favor): "Maps an IID to a CLSID in 32-bit proxy DLLs".
 
 "If you add interfaces, you must use this entry to register them (32-bit systems) so that OLE can find the appropriate remoting code to establish interprocess communication."
 
