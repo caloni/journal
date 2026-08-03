@@ -4,50 +4,123 @@ matplotlib.use('QtAgg')  # or 'TkAgg'
 import matplotlib.pyplot as plt
 import pandas as pd
 import argparse
-import io
+import re
 
-def plot_tendency_from_file(filename, tendency_curve=0.1):
-    # Read file and stop at the first empty line
-    with open(filename, 'r') as file:
-        lines = []
-        for line in file:
-            if line.strip():  # Only add non-empty lines
-                lines.append(line)
-            else:
-                break  # Stop reading at the first empty line
-    
-    # Convert to DataFrame
-    df = pd.read_csv(io.StringIO("\n".join(lines)), sep=r'\s+', header=None, names=['Date', 'Weight', 'Exercises'], parse_dates=['Date'])
-    
-    # Sort data by date
-    df = df.sort_values(by='Date')
-    
-    # Treat 0 as NaN and forward fill with the last valid value for Weight
-    df['Weight'] = df['Weight'].replace(0, np.nan).ffill().infer_objects()
-    
-    # Fill missing Exercises values with 0
-    df['Exercises'] = df['Exercises'].fillna(0)
-    
-    # Initialize tendency for weight with NaN
+
+EXERCISE_TOKEN_ALIASES = {
+    '|': 1,
+    'X': 2,
+}
+
+
+def generic_exercise_weight(token):
+    if token in EXERCISE_TOKEN_ALIASES:
+        return EXERCISE_TOKEN_ALIASES[token]
+    if token.isdigit():
+        return int(token)
+    return 0
+
+SPECIFIC_EXERCISE_COLUMNS = {
+    'B': 'Bike',
+    'M': 'Gym',
+    'C': 'Walk',
+    'R': 'Run',
+    'S': 'Swim',
+}
+
+
+def parse_body_file(filename):
+    rows = []
+
+    with open(filename, 'r', encoding='utf-8') as file:
+        for raw_line in file:
+            line = raw_line.strip()
+            if not line:
+                break
+
+            tokens = line.split()
+            if len(tokens) < 2:
+                continue
+
+            date_token = tokens[0]
+            weight_token = tokens[1]
+            event_tokens = tokens[2:]
+
+            weight = np.nan if weight_token == '-' else pd.to_numeric(weight_token, errors='coerce')
+            if weight == 0:
+                # Legacy convention: '0' also marks a missing weight measurement.
+                weight = np.nan
+
+            row = {
+                'Date': pd.to_datetime(date_token, errors='coerce'),
+                'Weight': weight,
+                'Bike': 0,
+                'Gym': 0,
+                'Walk': 0,
+                'Run': 0,
+                'Swim': 0,
+                'FastHours': np.nan,
+            }
+
+            generic_exercises = 0
+
+            for token in event_tokens:
+                generic_exercises += generic_exercise_weight(token)
+
+                if token in SPECIFIC_EXERCISE_COLUMNS:
+                    row[SPECIFIC_EXERCISE_COLUMNS[token]] += 1
+                    continue
+
+                fast_match = re.fullmatch(r'F(\d+)', token)
+                if fast_match:
+                    row['FastHours'] = int(fast_match.group(1))
+
+            row['Exercises'] = generic_exercises + row['Bike'] + row['Gym'] + row['Walk'] + row['Run'] + row['Swim']
+            rows.append(row)
+
+    df = pd.DataFrame(
+        rows,
+        columns=['Date', 'Weight', 'Exercises', 'Bike', 'Gym', 'Walk', 'Run', 'Swim', 'FastHours']
+    )
+
+    if df.empty:
+        return df
+
+    df = df.dropna(subset=['Date'])
+    df = df.sort_values(by='Date').reset_index(drop=True)
+    return df
+
+
+def calculate_weight_tendency(df, tendency_curve=0.1):
+    if df.empty:
+        df['WeightTendency'] = pd.Series(dtype=float)
+        return df
+
+    weight_for_tendency = df['Weight'].ffill()
     weight_tendency = np.nan
     weight_tendency_values = []
-    
-    # Start calculating tendency only after the first valid weight
-    for i in range(len(df)):
-        if pd.isna(df['Weight'].iloc[i]):
-            # If the weight is NaN, append the previous weight tendency value
-            weight_tendency_values.append(weight_tendency)
+
+    for weight in weight_for_tendency:
+        if pd.isna(weight):
+            weight_tendency_values.append(np.nan)
+            continue
+
+        if pd.isna(weight_tendency):
+            weight_tendency = weight
         else:
-            # Calculate weight tendency using the formula
-            if pd.isna(weight_tendency):
-                weight_tendency = df['Weight'].iloc[i]
-            else:
-                weight_tendency = weight_tendency + tendency_curve * (df['Weight'].iloc[i] - weight_tendency)
-            
-            weight_tendency_values.append(weight_tendency)
-    
-    # Add the calculated weight tendency values to the dataframe
-    df['Weight_Tendency'] = weight_tendency_values
+            weight_tendency = weight_tendency + tendency_curve * (weight - weight_tendency)
+
+        weight_tendency_values.append(weight_tendency)
+
+    df['WeightTendency'] = weight_tendency_values
+    return df
+
+def plot_tendency_from_file(filename, tendency_curve=0.1):
+    df = parse_body_file(filename)
+    df = calculate_weight_tendency(df, tendency_curve=tendency_curve)
+
+    if df.empty:
+        raise ValueError('No valid data rows found in the input file.')
     
     # Group exercises by month (sum of exercises in each month)
     df_monthly_exercises = df.resample('ME', on='Date')['Exercises'].sum()
@@ -56,7 +129,7 @@ def plot_tendency_from_file(filename, tendency_curve=0.1):
     fig, ax1 = plt.subplots(figsize=(10, 6))
     
     # Plot weight tendency curve
-    ax1.plot(df['Date'], df['Weight_Tendency'], 'r--', label='Weight Tendency')
+    ax1.plot(df['Date'], df['WeightTendency'], 'r--', label='Weight Tendency')
     
     ax1.set_xlabel('Date')
     ax1.set_ylabel('Weight Tendency', color='red')

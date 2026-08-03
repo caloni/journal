@@ -63,12 +63,19 @@ or
 -
 ```
 
+or, in older entries,
+
+```
+0
+```
+
 Meaning:
 
 - decimal number → measured weight
 - `-` → weight not measured on that day
+- `0` → weight not measured on that day (legacy notation, superseded by `-`)
 
-Missing weights must be interpreted as `NaN`.
+Missing weights must be interpreted as `NaN`. `-` is the current notation for a missing weight; `0` is an older, equivalent notation kept only for backward compatibility with existing logs and must be treated identically. New entries should use `-`.
 
 The plotting code should forward-fill previous valid weights before calculating the tendency curve.
 
@@ -121,6 +128,14 @@ Both mean
 ```
 Generic exercise = 2
 ```
+
+More generally, any bare integer token (`1`, `2`, `3`, ...) is a legacy notation meaning
+
+```
+Generic exercise = <that number>
+```
+
+`|` and `X` are just aliases for `1` and `2`. This covers older entries that recorded a raw count higher than 2 (e.g. `3`) directly in the token field.
 
 Old log files should continue working without modification.
 
@@ -262,6 +277,14 @@ Older entries like
 ```
 
 must remain valid indefinitely.
+
+Likewise, older entries using `0` as the weight field, e.g.
+
+```
+2026-04-10 0 1
+```
+
+must continue to be interpreted as a missing weight, same as `-`.
 
 Future extensions should avoid breaking existing files whenever possible.
 
