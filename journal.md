@@ -93805,6 +93805,23 @@ Estou selecionando os textos que merecem um status no blogue, ainda que históri
 
 Já os próximos que eu arriscar escrever caminharão menos em construção e passagem de conhecimento e mais em relatos de experiência. É a experiência e a intuição humanas que temos no momento para nos ajudar a construir o futuro. E, sempre, nos divertimos no processo :)
 
+#### // Comments
+
+2026-08-07 Rodrigo Delduca:
+
+:-(
+
+BTW, tô escrevendo um post sobre "a nostalgia da internet dos anos 2000-201N" e vou mencionar esse seu post. Apesar dos pesares, concordo com você, e o que estou escrevendo, de certa forma, é bem parecido com o seu texto.
+
+E, por fim, você foi uma das pessoas que me influenciaram a pôr a cara a tapa na internet por meio de blogues.
+
+Obrigado & saudades!
+
+2026-08-07 Caloni:
+
+Agradeço demais sua citação. Mesmo mais de 20 anos depois não considero meu blog nada demais. Então fico muito feliz (de verdade!) saber que influenciei alguém a meter as caras e assinar textos na internet. E, sinceramente, dos posts seus que li, vc mandou e continua mandando muito bem (pós-IA).
+
+
 # Nomeie dez sistemas em seu corpo que funcionam sozinhos sem você controlar
 2026-07-08 draft
 
