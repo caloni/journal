@@ -181,6 +181,17 @@ The parser should interpret this as
 FastHours = 18
 ```
 
+Other current parameterized events:
+
+| Token pattern | Meaning | Example |
+|--------|---------|---------|
+| F\<integer\> | Fasting hours | `F18` → FastHours = 18 |
+| F\<decimal\> | Body fat percentage | `F16.4` → FatPercent = 16.4 |
+| M\<decimal\> | Skeletal muscle mass (kg) | `M25.4` → MuscleMass = 25.4 |
+| W\<integer\> | Hydration percentage (bioimpedance reference value) | `W60` → Hydration = 60 |
+
+The `F` prefix is shared by two events, disambiguated by the value shape: an integer means fasting hours, a decimal means body fat percentage. The `M` prefix is also shared with the bare `M` exercise token (Gym); `M` alone means Gym, while `M` followed by a decimal value means muscle mass.
+
 Additional parameterized events may be added in the future.
 
 ---
@@ -201,7 +212,13 @@ Walk
 Run
 Swim
 FastHours
+FatPercent
+MuscleMass
+Hydration
 WeightTendency
+FatPercentTendency
+MuscleMassTendency
+HydrationTendency
 ```
 
 `Exercises` is the sum of generic and specific exercises and it is the only currently used by the plotting code.
@@ -215,7 +232,7 @@ Additional columns exist to preserve information for future analyses.
 Weight tendency is calculated using exponential smoothing.
 
 ```
-tendency = tendency + α * (weight - tendency)
+tendency = tendency + α * (value - tendency)
 ```
 
 where
@@ -226,20 +243,21 @@ where
 
 (default 0.1)
 
-Missing weights should not interrupt the tendency calculation.
+Missing values should not interrupt the tendency calculation: the underlying series is forward-filled before smoothing.
+
+The same smoothing is applied to the bioimpedance metrics (FatPercent, MuscleMass, Hydration), since they are measured far less regularly than weight — forward-filling and smoothing turns sparse, irregular readings into a continuous curve suitable for plotting.
+
+The exercises tendency (plotted in panel 1) is smoothed the same way, but on top of the **monthly sum** of `Exercises` rather than the raw daily count — the daily series is a spiky 0/1/2/... event count, too jagged for exponential smoothing to read as a trend. Smoothing the monthly totals instead produces a curve of "how much am I exercising lately", comparable in shape to the weight tendency curve.
 
 ---
 
-# Monthly Exercise Plot
+# Plot
 
-The existing graph displays
+The generated figure has three stacked panels sharing the date axis:
 
-- weight tendency
-- monthly sum of Exercises
-
-Only exercises sum contribute to this graph.
-
-Typed exercise events (Bike, Gym, etc.) sum to Exercises field but their independent values are intentionally ignored for now.
+1. **Weight and exercises tendency** — weight tendency curve (left axis) and exercises tendency curve (right axis), both exponentially smoothed.
+2. **Exercises by type** — monthly counts of Bike, Gym, Walk, Run, Swim, stacked as bars.
+3. **Bioimpedance** — tendency curves (same exponential smoothing as weight) for FatPercent and Hydration (percentage, left axis), MuscleMass (kg, right axis) and Weight (kg, secondary right axis) for context, rather than raw scatter points, since these are measured too infrequently for scatter to read well.
 
 ---
 
