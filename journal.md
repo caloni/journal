@@ -80309,7 +80309,7 @@ Tome, por exemplo, Abrão, antes de seu nome ter dois as. Esse pobre coitado que
 
 "Venham, vamos descer e confundi-los com línguas diferentes, para que não consigam mais entender uns aos outros."
 
-A Bíblia não é leitura fácil, e quanto mais antigo o livro menos fácil é para nós entendermos o que está acontecendo com aqueles humanos. Mas por ser uma ficção, assim como A Revolta de Atlas, ela se estabelece como algo maior do que uma não-ficção, que hoje soaria pedante, obscura e insensível à causa humana. Como um conjunto de historietas fiéis à visão daquela época, Gênesis nos serve como um guia espiritual para algo além da era da tecnologia e das libertinagens que vivemos. Mas há algo além. Ler livros mais antigos nos fornece a pista para buscarmos este algo. Então, sim, ler a Bíblia te leva para mais próximo de deus.
+A Bíblia não é leitura fácil, e quanto mais antigo o livro menos fácil é para nós entendermos o que está acontecendo com aqueles humanos. Mas por ser uma ficção, assim como em A Revolta de Atlas, ela se estabelece como algo maior do que uma não-ficção, que hoje soaria pedante, obscura e insensível à causa humana. Como um conjunto de historietas fiéis à visão daquela época, Gênesis nos serve como um guia espiritual para algo além da era da tecnologia e das libertinagens que vivemos. Mas há algo além. Ler livros mais antigos nos fornece a pista para buscarmos este algo. Então, sim, ler a Bíblia te leva para mais próximo de deus.
 
 E você nem precisa cortar seu pingulim.
 
@@ -81605,7 +81605,7 @@ SENHOR disse ainda: "Fique nesta rocha, perto de mim. Quando minha presença glo
 
 Vocês têm seis dias na semana para fazer o trabalho habitual, mas o sétimo dia será um sábado de descanso total, um dia consagrado ao SENHOR. Quem trabalhar no sábado será executado. Nem sequer acendam fogo em suas casas no sábado".
 
-O povo contribuiu com ofertas especiais de ouro que totalizaram 1.024 quilos, 132 calculados de acordo com o siclo do santuário. Esse ouro foi usado em toda a construção do santuário. (...) O imposto foi arrecadado de 603.550 homens de 20 anos para cima.
+O povo contribuiu com ofertas especiais de ouro que totalizaram 1.024 quilos, calculados de acordo com o siclo do santuário. Esse ouro foi usado em toda a construção do santuário. (...) O imposto foi arrecadado de 603.550 homens de 20 anos para cima.
 
 
 # Uma Equipe Muito Especial
@@ -85832,9 +85832,9 @@ Porém, se sabe que não se pode demorar muito na primeira fase da torra, pois o
 
 Outro conhecimento comum e baseado em bom senso é saber balancear o tamanho de seu lote e a aplicação do calor até obter um tempo de desenvolvimento longo o suficiente para tornar a torra uniforme. Quantidades diferentes de grãos exigem temperaturas e controles diversos. A mesma receita usada para 50g pode não funcionar para 2kg.
 
-Torradores não se baseiam apenas em instinto. Assim como a extração do café os aficionados pela torra mantém um registro histórico para conseguir saber quais elementos devem ser alterados para melhorar o resultado final. Por exemplo, existe uma métrica de perda de peso dos grãos antes e depois ou o tempo de torra versus a quantidade do lote (a torra resulta na perda de peso entre 14 e 23 porcento). Também mantem-se um registro dos efeitos de variar o tempo e a intensidade da reação Maillard no perfil da torra.
+Torradores não se baseiam apenas em instinto. Assim como a extração do café os aficionados pela torra mantém um registro histórico para conseguir saber quais elementos devem ser alterados para melhorar o resultado final. Por exemplo, existe uma métrica de perda de peso dos grãos antes e depois ou o tempo de torra versus a quantidade do lote (a torra resulta na perda de peso entre 14 e 23 porcento). Também mantém-se um registro dos efeitos de variar o tempo e a intensidade da reação Maillard no perfil da torra.
 
-Outra informação útil é o processo de secagem que foi usada no grão. No método de cereja descascada, por exemplo, os sabores são menos poderosos que no método natural, mas sua clareza e definição são mais pronunciadas.
+Outra informação útil é o processo de secagem usado no grão. No método de cereja descascada, por exemplo, os sabores são menos poderosos que no método natural, mas sua clareza e definição são mais pronunciadas.
 
 Uma coisa é certa: não se pode criar um sabor, seja na torra ou na extração, que o café já não tivesse em primeiro lugar. A fração volátil de um café torrado é altamente complexa e consiste de mais de 1000 compostos, então, acredite: o sabor e o aroma estão lá, no grão cru, esperando para serem liberados.
 
@@ -85880,7 +85880,7 @@ Grãos torrados de forma lenta mostram uma intensidade maior nos atributos senso
 
 - "Washed, Natural, Honey: Coffee Processing 101"
 
-- "Acidic Coffees: A Brew [Acidic Coffees: A Brew & Roast Guide] Roast Guide"
+- "Acidic Coffees: A Brew & Roast Guide"
 
 - "A Roaster’s Guide to Creating Coffee Blends"
 
@@ -86236,7 +86236,7 @@ A começar pelas falas. Nolan tem um elenco de peso, das antigas, e não entrega
 
 Ao final, se você se lembrar que a primeira cena é Oppenheimer olhando para gotas de água caindo em um lago, vai perceber que sua última cena sequer rima. Se você for um espectador autista ainda pode observar que antes do teste da bomba de Los Alamos choveu torrencialmente, o que faria rima com a vinda da guerra fria e suas ameaças de bombas de todos os lados e os delírios do cientista em vislumbrar este futuro e... não, chega. Você não precisa disso. Ninguém precisa disso.
 
-A impressão após assistir a Oppenheimer é de que o mundo não precisa de um filme sobre esses fatos históricos conforme descritos, em estilo documental e ao mesmo tempo thriller de ação psicológica ou o que seja. Assim como o final da guerra não precisava dessa demonstração de forças irracional e desproporcional. No entanto, aí estão as mazelas das bombas, por gerações. O aí está o filme. A vantagem do filme é que ele só será lembrado este ano. E olha lá. Só por causa dos memes.
+A impressão após assistir a Oppenheimer é de que o mundo não precisa de um filme sobre esses fatos históricos conforme descritos, em estilo documental e ao mesmo tempo thriller de ação psicológica ou o que seja. Assim como o final da guerra não precisava dessa demonstração de forças irracional e desproporcional. No entanto, aí estão as mazelas das bombas, por gerações. E aí está o filme. A vantagem é que ele só será lembrado este ano por causa dos memes. E olha lá.
 
 Nolan gosta de testar coisas novas no cinema, e isso é admirável. Ele quis uma produção "modesta" que poderia evocar parte do charme visto em Dunkirk se não fosse pelas distrações narrativas, cuja divisão de tempos para criar uma espécie de suspense eu nem vou comentar de tão incômodo que foi.
 
@@ -86436,7 +86436,7 @@ Ele era um gordinho zoado pela escola e agora é o garoto popular que quer se vi
 # Meu Casamento Feliz
 2023-08-30 cinema animes
 
-Este drama de época e com magia irá demonstrar como as aparências enganam. Essa moça maltratada (no mangá mais maltratada ainda), a gata borralheira de um conto japonês, se casa com um nobre que é temido por todos, e por algum motivo mágico (esses roteiristas) simpatiza com a moça. Ele nem precisou sair por aí procurando um pé que calçasse os sapatinhos de cristal. Gostei como constrói a história sem auê, em um ritmo contemplativo. Mas há uma manipulação de maldades exagerada. O núcleo amoroso é o forte. Não sei o por quê da magia (nem saberei, não sou eu que assiste).
+Este drama de época e com magia irá demonstrar como as aparências enganam. Essa moça maltratada (no mangá mais maltratada ainda), a gata borralheira de um conto japonês, se casa com um nobre que é temido por todos, e por algum motivo mágico (esses roteiristas) simpatizam com a moça. Ele nem precisou sair por aí procurando um pé que calçasse os sapatinhos de cristal. Gostei como constrói a história sem auê, em um ritmo contemplativo. Mas há uma manipulação de maldades exagerada. O núcleo amoroso é o forte. Não sei o por quê da magia (nem saberei, não sou eu que assiste).
 
 2023-09-03 Nota: preciso assistir novos episódios, pois tenho a impressão que alguns detalhes passaram despercebidos.
 
@@ -86486,7 +86486,7 @@ Depois que estiverem secas, e você vai poder constatar isso facilmente em semen
 
 Depois de assadas aquela casca fina finalmente irá sair com facilidade. Leve as sementes para um liquidificador, triturador ou moedor e transforme as sementes em cacos de cacau. Quanto mais fino melhor, eu acho, pois fica mais fácil de usar depois. Cuidado com moedores, pois há bastante gordura nessas sementes e irá sujar bastante. Fui usar no meu Hario Slim e acabei tendo que abri-lo para limpar; boa parte da gordura travou as mós.
 
-E é isso. Se você já experimentou chocolate 100% cacau vai encontrar algumas similaridades no sabor, com um amplo leque de diferenças. Porém, algumas sensações irá lhe dizer que é cacau. Aí vai da sua preferência de qual cacau prefere. O caseiro vai ser bem simples e depende de você conseguir atingir um primor de chocolate (assim como o café). O bom de fazer este processo em casa é entender de onde vem o cacau que é misturado com leite e açúcar e onde estão aqueles sabores que fazem o que conhecemos como o clássico chocolate ao leite. Experimentar cacau puro é um estágio importante para conhecer de onde vem aquele sabor todo especial no meio do doce e da gordura.
+E é isso. Se você já experimentou chocolate 100% cacau vai encontrar algumas similaridades no sabor, com um amplo leque de diferenças. Porém, algumas sensações irão lhe dizer que é cacau. Aí vai da sua preferência de qual cacau prefere. O caseiro vai ser bem simples e depende de você conseguir atingir um primor de chocolate (assim como o café). O bom de fazer este processo em casa é entender de onde vem o cacau que é misturado com leite e açúcar e onde estão aqueles sabores que fazem o que conhecemos como o clássico chocolate ao leite. Experimentar cacau puro é um estágio importante para conhecer de onde vem aquele sabor todo especial no meio do doce e da gordura.
 
 
 # Em sua própria companhia (Sêneca)
@@ -86722,7 +86722,7 @@ Porém, a história do filme não é nada empolgante. Situações são tiradas d
 
 Isso me lembra que personagens sequer existem para dizer suas falas. Como Lúcia, a diretora do programa interpretada por Leandra Leal ("O Homem que Copiava", "O Rastro") cuja função é se opor a qualquer mudança e olhar para seu maior astro com a mesma carranca o filme inteiro, um sorriso ou outro apenas para sugerir que ela simpatiza com o sujeito.
 
-Esta é uma boa produção e direção de Daniel Rezende, o editor de filmes como "Cidade de Deus" e [Tropa de Elite], entre outros filmes de José Padilha. Além disso ele assina a direção de obras comerciais que pedem sua habilidade para o formato, como a sequência de filmes e a série Laços da Turma da Mônica. Em Bingo, Rezende transforma um roteiro convencional e mal amarrado em uma experiência intimista que embala o espectador. Você até se esquece desses detalhes e navega no seu protagonista e as situações melancólicas de sua ascenção como astro seguida de perto do seu declínio como ser humano.
+Esta é uma boa produção e direção de Daniel Rezende, o editor de filmes como "Cidade de Deus" e "Tropa de Elite", entre outros filmes de José Padilha. Além disso ele assina a direção de obras comerciais que pedem sua habilidade para o formato, como a sequência de filmes e a série Laços da Turma da Mônica. Em Bingo, Rezende transforma um roteiro convencional e mal amarrado em uma experiência intimista que embala o espectador. Você até se esquece desses detalhes e navega no seu protagonista e as situações melancólicas de sua ascenção como astro seguida de perto do seu declínio como ser humano.
 
 Mas tudo isso é fake, o que é muito curioso. O roteiro enlatado é assinado por dois nomes com experiência. Luiz Bolognesi dirige e escreve o totalmente excelente "Uma História de Amor e Fúria". Fabio Meira faz o mesmo com "As Duas Irenes", um trabalho não-comercial que pede o apuro das sutilezas. E nenhum dos dois está pronto para tratar desta história em suas entrelinhas ou foram podados pela produção, pois a construção das cenas convence. É o miolo que nunca embala.
 
@@ -86824,7 +86824,7 @@ Estou (estava?) com essa missão de fazer um pão integral próximo do pão que 
 # Forte de S. Sebastião
 2023-10-03 wine
 
-Um vinho português que mistura a casta Touriga Nacional com Syrah e dá um resultado balanceado, leve, uma mistura de azedo e amargo fácil de beber e que de vez em quando gera memórias afetivas de diferentes aromas. Diz o rótulo que gira em torno de frutos pretos, trufas e café. Eu acho que não é pra tanto. Mas gera.
+Um vinho português que mistura a casta Touriga Nacional com Syrah e dá um resultado balanceado, leve, uma mistura de azedo e amargo fácil de beber e que de vez em quando gera memórias afetivas de diferentes aromas. Diz o rótulo que gira em torno de frutos pretos, trufas e café. Eu acho que não é pra tanto. Mas gira.
 
 # Como inspecionar chamadas COM remotas olhando a informação de marshaling
 2023-10-03 reversing_tag windbg
@@ -86898,7 +86898,7 @@ Reli pela enésima vez minhas anotações sobre Flow, aquele livro do Mihaly Csi
 
 "Flow graph"
 
-E lá vão mais inúmeros recortes das inúmeras leituas que faço desse livro. Talvez escreva um dia uma tese a respeito.
+E lá vão mais inúmeros recortes das inúmeras leituras que faço desse livro. Talvez escreva um dia uma tese a respeito.
 
 "We have seen that experience depends on the way we invest psychic energy -- on the structure of attention. This, in turn, is related to goals and intentions. These processes are connected to each other by the self, or the dynamic mental representation we have of the entire system of our goals. These are the pieces that must be maneuvered if we wish to improve things.
 
@@ -87053,9 +87053,9 @@ A produção do filme, enquanto isso, se aproveita da repetição de cenários p
 
 O filme nunca cai na tentação de elevar o audiovisual, preferindo se manter em seu feijão com arroz com linguagem simples e piegas para toda família. Os mais velhos irão se lembrar das referências e se encantar com suas próprias memórias. E os mais novos... eu não sei, mas não importa: não são eles que pagam o ingresso, mesmo.
 
-A facilidade com que a narrativa cai no lugar comum é ótimo, pois resume tanto a história que você nem precisa se preocupar com os detalhes. Os conflitos principais giram em torno dos namoricos das jovens e o drama "pesadíssimo" envolvendo uma influencer sendo acusada de usar perfis falsos para atacar os anônimos na internet. Um deles foi até internada com sintomas de depressão grave. Onde esse mundo vai parar, meu dels?
+A facilidade com que a narrativa cai no lugar comum é ótimo, pois resume tanto a história que você nem precisa se preocupar com os detalhes. Os conflitos principais giram em torno dos namoricos das jovens e o drama "pesadíssimo" envolvendo uma influencer sendo acusada de usar perfis falsos para atacar os anônimos na internet. Um deles foi até internado com sintomas de depressão grave. Onde esse mundo vai parar, meu dels?
 
-Tudo é narrado com a maior responsabilidade social que se pode esperar de um folheto de campanha, quase se esquecendo que este é um filme que vai passar nos cinemas. Por isso é difícil desgostar se um trabalho desses. Não há nada que seja mal feito. Já dizia algum influencer (se não disse diria): um filme que não ousa nunca será punido. E ousado. Fecha parênteses.
+Tudo é narrado com a maior responsabilidade social que se pode esperar de um folheto de campanha, quase se esquecendo que este é um filme que vai passar nos cinemas. Por isso é difícil desgostar de um trabalho desses. Não há nada que seja mal feito. Já dizia algum influencer (se não disse diria): um filme que não ousa nunca será punido. E ousado. Fecha parênteses.
 
 Até porque criticar o alto astral hoje em dia é discurso de ódio, algo que não iremos tolerar e que não farei neste texto, em respeito a trabalhos anteriores da atriz. Como Xuxa Contra o Baixo Astral. Você lembra desse? Ele é quase tão bom quanto. Só não supera o primoroso Lua de Cristal, claro.
 
@@ -87074,7 +87074,7 @@ O diretor Mark Waters dinamiza a narrativa de um jeito muito sutil, escalando as
 
 E por falar no roteiro, ele precisa ser elogiado de novo. Seus personagens são de carne e osso e não precisam fazer discurso inclusivo como nos filmes de hoje (que são um porre). Mostre-os e você os entenderá. Terá até mais empatia que uma cartilha social falante.
 
-Eu não esperava que houvesse espaço neste gênero para um arco a la "A Malvada", mas ele existe. Cady é a novata que escala a esfera de poder como a versão feminina e colegial de um Corleone recém-chegado ao continente americano. E assim como Robert de Niro que fiz na referência ao filme de Coppola, ela não tem medo de cometer as mesmas maldades que lhe feriram. Desde, é claro, que consiga ficar com o gato que estava azarando.
+Eu não esperava que houvesse espaço neste gênero para um arco a la "A Malvada", mas ele existe. Cady é a novata que escala a esfera de poder como a versão feminina e colegial de um Corleone recém-chegado ao continente americano. E, assim como Robert de Niro na referência ao filme de Coppola, ela não tem medo de cometer as mesmas maldades que lhe feriram. Desde, é claro, que consiga ficar com o gato que estava azarando.
 
 Se é fácil traçar paralelos de clássicos com este filme adolescente é porque ele se leva a sério. Não é apenas um trabalho comercial. Ele é dotado de alma, que fala sobre este universo das bolhas juvenis e a moeda sempre vigente da beleza física e dos mandamentos do bom gosto. Não é tão diverso quanto hoje, mas suas lições servem para outras gerações. E este é, junto de Eleição (Alexander Payne), um dos Cidadão Kane do colégio, leve, didático e divertido.
 
@@ -87118,7 +87118,7 @@ Michel Gondry explorando sempre sua "Natureza Quase Humana". Gondry também já 
 
 O documentarista James Marsh, do clássico "O Equilibrista" e Project Nim, além de filmes bleh como "A Teoria de Tudo".
 
-Craig Gillespie, que dirigiu aquele filme que "Ryan Gosling namora uma boneca inflável", além de dirigir Margot Robbie em seu melhor trabalho, "Eu, Tonya".
+Craig Gillespie, que dirigiu aquele filme que Ryan Gosling namora uma boneca inflável ("A Garota Ideal"), além de dirigir Margot Robbie em seu melhor trabalho, "Eu, Tonya".
 
 Benoît Jacquot, do imersivo drama "Três Corações" e do médio "O Último Amor de Casanova".
 
@@ -87179,7 +87179,7 @@ Saldo: um filme que poderia ser memorável como nossas lutas instintivas, mas qu
 # Cidade Perdida
 2023-10-17 cinema movies
 
-Channing Tatum e Sandra Bullock criam um dueto inesperado neste conto na selva envolvendo as fantasias de uma escritora viúva reclusa e seu modelo de capa dos romances eróticos que escreve. Quando suas fantasias mais molhadas se tornam realidade em uma ilha pulsante latejando lava quente os dois ganham a chance de contracenar com charme sem direção. É engraçado em momentos. Harry potter faz um vilão e uma atriz negra é a agente editora que comanda o arco sem importância. Com uma participação inusitada de Brad Pitt ajudando a criar contraste com o personagem de Tatum, que se revela um bonitão forte sem qualquer tino aventureiro. Bullock passa quase todo o filme em um vestido rosa chocante que é o máximo, mostra todas suas inexistentes curvas e prova o quão boa atriz ela é. Com invejáveis 59 anos, além de inteirona, ela não tem medo de protagonizar trabalhos menores após ganhar o Oscar por um drama intimista. Por mais atrizes como ela.
+Channing Tatum e Sandra Bullock criam um dueto inesperado neste conto na selva envolvendo as fantasias de uma escritora viúva reclusa e seu modelo de capa dos romances eróticos que escreve. Quando suas fantasias mais molhadas se tornam realidade em uma ilha pulsante latejando lava quente os dois ganham a chance de contracenar com charme sem direção. É engraçado em momentos. Harry Potter faz um vilão e uma atriz negra é a agente editora que comanda o arco sem importância. Com uma participação inusitada de Brad Pitt ajudando a criar contraste com o personagem de Tatum, que se revela um bonitão forte sem qualquer tino aventureiro. Bullock passa quase todo o filme em um vestido rosa chocante que é o máximo, mostra todas suas inexistentes curvas e prova o quão boa atriz ela é. Com invejáveis 59 anos, além de inteirona, ela não tem medo de protagonizar trabalhos menores após ganhar o Oscar por um drama intimista. Por mais atrizes como ela.
 
 # Um Romance do Além
 2023-10-17 cinema movies
@@ -88732,6 +88732,62 @@ As you develop, you will find less and less conflict between your thinking and y
 DON'T DECIDE AHEAD OF TIME THAT IT IS IMPORTANT OR UNIMPORTANT. DON'T DECIDE AHEAD OF TIME THAT WHAT THAT PERSON SAID ABOUT YOU IS NOT TRUE.
 
 Together, the oral teachings and the individual personal effort produce an effect that would eventually bring about a change or transformation in the spiritual nature of the student. This change, in turn, would allow the student to successfully work in the practical laboratory phase of alchemy. "Know thyself!" were among his special watchwords that he tried to instill in all of us.
+
+## 2026-08-15
+
+Relendo e fazendo recortes duplicados e ambíguos e fora da linha do tempo:
+
+Think, really, about the changes in “You” in one week. How many more changes could have occurred in that week, if You did not have the illusion that You are a finished product and not a Work in Progress?
+
+(...) chaotic meditation of Bhagwan Shree Rajneesh.
+
+As long as our biology demands our survival, our primary mode of operation is fear. However, we are deliberately made unaware of this, or told that our anxieties are abnormal. In fact our anxieties are the most normal things about us and are the fuel and engine from which society and culture are built.
+
+Thus the “occult” is that biology and anatomy is destiny, in that order. That is to say, WHAT we do is determined, HOW we do it is relative.
+
+Like everything in the world, we too are obsolete; nothing is built to last forever.
+
+My definition of self-improvement means “getting rid of what you now call yourself.”
+
+Make a list of your activities and then analyze each of them in terms of where you stop on the cycle of tension—charge—discharge and relaxation. Look at the way you eat, talk, love, walk, think, feel, and etc.
+
+Freedom comes from the knowledge of the Orphic Mysteries. Life oscillates between chaos and form. Try on a form, use it — know it — discard it. Then from chaos make a new form. Repeat the Cycles as often as possible and you will feel alive and free.
+
+Israel Regardie’s secret audio, — — The Grinning, Giggling, Monkey-Faced Guru and the Pig Song.
+
+Dr. Regardie’s Mantram audio.
+
+Camden Benares’ Zen Without Zen Masters.
+
+When you speak to others notice your Dead phrases, and your patterned stylized responses. They are indications that you are sound asleep. You have something at stake each time you repeat these habitual phrases and comments. Find your patterned-machine like phrases which you use over and over again and hold so dearly.
+
+The experimenter by definition must be more clear than the subject.
+
+If you don’t know a banishing ritual use the one from The Complete Golden Dawn System of Magic by Israel Regardie. An audio demonstrating this Ritual has been recorded by Regardie and can be ordered from Falcon Press.
+
+To achieve Enlightenment (The Real Knowledge That You Are A Robot And Have Been Programmed, And That You Can Re-Program Your Brain According To Your True Will) you must first put yourself aside.
+
+(Much to the shock of those in power, we are relative programmers -- that is our brain is a neural garden of growing fibers and chemicals which in the final analysis we can learn to program ourselves, but first we must do away with the roots and fertilizers which do not fit our True Nature and Will.)
+
+Never lose the awareness that you have the ability to re-program your own brain according to your will.
+
+The truth is we are constantly being programmed by parents, friends, ads, authors, radios, movies, t.v., teachers and politicians. Finally these programs become so much a part of us, that we begin to question our every thought and action in terms of these programs.
+
+Disaster, unnecessary pain, death and dementia are probably not necessary particularly if we learn how to perform Magick (which simply means Brain Change Willed). Crowley defined magick as… “the Science and Art of causing Change to occur in conformity with the Will.” Eliphas Levi, the great 19th century occultist, believed that in order to reign over ourselves, we first must learn “how” to will. The invoking of these authorities is to help those unfamiliar with the true purpose and nature of magick to realize that there is no mumbo jumbo involved, but a science of self-change.
+
+The body must be free from the Robotic Mind and allowed to express itself freed from all snares. And finally the Mind must become a SLAVE of the True Will.
+
+Psychological studies have proven that tension is produced by happy experiences as well as depressing ones. Tension is a fact of life — and not necessarily an unfortunate fact either. Stresses and strains are not only an integral part of life, but they often appear as life itself. But to bring about the change in consciousness necessary to achieve self programming, we must use some powerful techniques to reduce tension. A still mind is needed for re-programming. This is a result of Meditation, though this may not have been the intent of the meditator.
+
+(...) your goal, together with the reasons for it: to free the body from the snares of the Mind, and to make the Mind a Slave to the Unconditioned Will.
+
+True merging with the Universal Programmer (Leary’s Higher Circuits) only occurs when Your lower circuits are “clear” and lack domination.
+
+Do not believe or accept this theory or in fact any other theory and this does include all theories which have previously been accepted as true, without complete testing and proof. But remember Wilson, “What the Thinker Thinks -- The Prover Proves.”
+
+Constant mental chattering or thought creates tensions. When you are thinking your voice box moves ever so slightly as thoughts are flowing through your mind. In addition, the jaw moves slightly, as well as the tongue and the eyes. In fact, as stated before there is a fine state of tension when we are thinking. So to achieve true Mindlessness, we first must become aware of the facial, throat and neck tension which are associated with thinking. EXPERIMENT I Sit or lie down in a quite place and allow yourself to “think” about anything. Notice how and where your thinking is experienced. Notice what motions and tensions exist in your face-neck-throat area. After you have completed this, “think” about something unpleasant and notice if there is any difference. Now try “thinking” about something pleasant and make the same notations. Once you are thoroughly aware of this, attempt the following: EXPERIMENT II Lie down and do not move. Just breathe normally with your eyes closed. Now become aware and describe out loud for 15 minutes every sensation and muscle twitch in your body. Become aware that tension exists all around and within you. These two experiments should be tried three times over a week to help you verify that tension is thought — thought is tension. This will require 45 minutes — 15 minutes for each trial. If you do not experience the voice box -- facial sensation, or if you are not aware of anything during experiment II, double the time.
+
+My work revolves around the fact that words change the chemical make-up of the micro-cells in the human brain. It has been proven many years ago that all learning creates chemical as well as physical brain changes. The brain grows and changes micro-shapes as we learn. This is particularly true in infancy and childhood.
 
 # A Gaiola das Loucas
 2024-04-08 cinema movies
