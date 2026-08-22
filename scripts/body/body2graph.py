@@ -23,7 +23,7 @@ def generic_exercise_weight(token):
 
 SPECIFIC_EXERCISE_COLUMNS = {
     'B': 'Bike',
-    'M': 'Gym',
+    'M': 'Muscle',
     'C': 'Walk',
     'R': 'Run',
     'S': 'Stairs',
@@ -56,7 +56,7 @@ def parse_body_file(filename):
                 'Date': pd.to_datetime(date_token, errors='coerce'),
                 'Weight': weight,
                 'Bike': 0,
-                'Gym': 0,
+                'Muscle': 0,
                 'Walk': 0,
                 'Run': 0,
                 'Stairs': 0,
@@ -94,12 +94,12 @@ def parse_body_file(filename):
                 if hydration_match:
                     row['Hydration'] = int(hydration_match.group(1))
 
-            row['Exercises'] = generic_exercises + row['Bike'] + row['Gym'] + row['Walk'] + row['Run'] + row['Stairs']
+            row['Exercises'] = generic_exercises + row['Bike'] + row['Muscle'] + row['Walk'] + row['Run'] + row['Stairs']
             rows.append(row)
 
     df = pd.DataFrame(
         rows,
-        columns=['Date', 'Weight', 'Exercises', 'Bike', 'Gym', 'Walk', 'Run', 'Stairs',
+        columns=['Date', 'Weight', 'Exercises', 'Bike', 'Muscle', 'Walk', 'Run', 'Stairs',
                  'FastHours', 'FatPercent', 'MuscleMass', 'Hydration']
     )
 
@@ -152,12 +152,11 @@ def calculate_weight_tendency(df, tendency_curve=0.1):
 
 EXERCISE_TYPE_COLORS = {
     'Bike': 'tab:blue',
-    'Gym': 'tab:orange',
-    'Walk': 'tab:cyan',
-    'Run': 'tab:red',
-    'Stairs': 'tab:purple',
+    'Muscle': 'saddlebrown',
+    'Walk': 'tab:green',
+    'Run': 'gold',
+    'Stairs': 'tab:red',
 }
-
 
 def plot_tendency_from_file(filename, tendency_curve=0.1):
     df = parse_body_file(filename)
