@@ -10,24 +10,34 @@ import re
 
 EXERCISE_TOKEN_ALIASES = {
     '|': 1,
-    'X': 2,
+    'x': 2,
 }
 
 
 def generic_exercise_weight(token):
-    if token in EXERCISE_TOKEN_ALIASES:
-        return EXERCISE_TOKEN_ALIASES[token]
+    if token.lower() in EXERCISE_TOKEN_ALIASES:
+        return EXERCISE_TOKEN_ALIASES[token.lower()]
     if token.isdigit():
         return int(token)
     return 0
 
 SPECIFIC_EXERCISE_COLUMNS = {
-    'B': 'Bike',
-    'M': 'Muscle',
-    'C': 'Walk',
-    'R': 'Run',
-    'S': 'Stairs',
+    'bike': 'Bike',
+    'muscle': 'Muscle',
+    'walk': 'Walk',
+    'run': 'Run',
+    'stairs': 'Stairs',
 }
+
+PARAMETERIZED_EVENT_COLUMNS = {
+    'fat': ('FatPercent', float),
+    'fast': ('FastHours', int),
+    'muscle': ('MuscleMass', float),
+    'water': ('Hydration', int),
+    'force': ('PushUps', int),
+}
+
+PARAMETERIZED_EVENT_PATTERN = re.compile(r'([A-Za-z0-9]+):(\d+(?:\.\d+)?)')
 
 
 def parse_body_file(filename):
@@ -64,35 +74,27 @@ def parse_body_file(filename):
                 'FatPercent': np.nan,
                 'MuscleMass': np.nan,
                 'Hydration': np.nan,
+                'PushUps': np.nan,
             }
 
             generic_exercises = 0
 
             for token in event_tokens:
+                token_lower = token.lower()
+
+                if token_lower in SPECIFIC_EXERCISE_COLUMNS:
+                    row[SPECIFIC_EXERCISE_COLUMNS[token_lower]] += 1
+                    continue
+
+                param_match = PARAMETERIZED_EVENT_PATTERN.fullmatch(token)
+                if param_match:
+                    name = param_match.group(1).lower()
+                    if name in PARAMETERIZED_EVENT_COLUMNS:
+                        column, cast = PARAMETERIZED_EVENT_COLUMNS[name]
+                        row[column] = cast(param_match.group(2))
+                        continue
+
                 generic_exercises += generic_exercise_weight(token)
-
-                if token in SPECIFIC_EXERCISE_COLUMNS:
-                    row[SPECIFIC_EXERCISE_COLUMNS[token]] += 1
-                    continue
-
-                fat_match = re.fullmatch(r'F(\d+\.\d+)', token)
-                if fat_match:
-                    row['FatPercent'] = float(fat_match.group(1))
-                    continue
-
-                fast_match = re.fullmatch(r'F(\d+)', token)
-                if fast_match:
-                    row['FastHours'] = int(fast_match.group(1))
-                    continue
-
-                muscle_match = re.fullmatch(r'M(\d+\.\d+)', token)
-                if muscle_match:
-                    row['MuscleMass'] = float(muscle_match.group(1))
-                    continue
-
-                hydration_match = re.fullmatch(r'W(\d+)', token)
-                if hydration_match:
-                    row['Hydration'] = int(hydration_match.group(1))
 
             row['Exercises'] = generic_exercises + row['Bike'] + row['Muscle'] + row['Walk'] + row['Run'] + row['Stairs']
             rows.append(row)
@@ -100,7 +102,7 @@ def parse_body_file(filename):
     df = pd.DataFrame(
         rows,
         columns=['Date', 'Weight', 'Exercises', 'Bike', 'Muscle', 'Walk', 'Run', 'Stairs',
-                 'FastHours', 'FatPercent', 'MuscleMass', 'Hydration']
+                 'FastHours', 'FatPercent', 'MuscleMass', 'Hydration', 'PushUps']
     )
 
     if df.empty:
@@ -154,8 +156,8 @@ EXERCISE_TYPE_COLORS = {
     'Bike': 'tab:blue',
     'Muscle': 'saddlebrown',
     'Walk': 'tab:green',
-    'Run': 'gold',
-    'Stairs': 'tab:red',
+    'Stairs': 'gold',
+    'Run': 'tab:red',
 }
 
 def plot_tendency_from_file(filename, tendency_curve=0.1):

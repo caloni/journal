@@ -36,12 +36,14 @@ Examples:
 2026-06-20 -
 2026-06-21 56.8 |
 2026-06-22 56.5 X
-2026-06-23 56.4 B
-2026-06-24 56.2 B M
-2026-06-25 - F18
+2026-06-23 56.4 bike
+2026-06-24 56.2 bike muscle
+2026-06-25 - fast:18
 ```
 
 Blank lines terminate the input (current behavior).
+
+All word tokens (exercise types and parameterized event names) are case-insensitive.
 
 ---
 
@@ -90,7 +92,7 @@ Tokens are independent.
 Example:
 
 ```
-2026-07-10 56.4 B M F18
+2026-07-10 56.4 bike muscle fast:18
 ```
 
 means
@@ -143,15 +145,15 @@ Old log files should continue working without modification.
 
 ## Exercise Types
 
-Current tokens:
+Current tokens (case-insensitive):
 
 | Token | Meaning |
 |--------|---------|
-| B | Bike |
-| M | Gym / Strength training |
-| C | Walk |
-| R | Run |
-| S | Swim |
+| bike | Bike |
+| muscle | Gym / Strength training |
+| walk | Walk |
+| run | Run |
+| stairs | Stairs |
 
 These events are currently stored but not used for plotting.
 
@@ -161,12 +163,12 @@ Future analyses may use them.
 
 ## Parameterized Events
 
-Parameterized events consist of a letter followed by a value.
+Parameterized events consist of a word, a colon, and a value: `word:value`.
 
 Current example:
 
 ```
-F18
+fast:18
 ```
 
 means
@@ -185,12 +187,15 @@ Other current parameterized events:
 
 | Token pattern | Meaning | Example |
 |--------|---------|---------|
-| F\<integer\> | Fasting hours | `F18` → FastHours = 18 |
-| F\<decimal\> | Body fat percentage | `F16.4` → FatPercent = 16.4 |
-| M\<decimal\> | Skeletal muscle mass (kg) | `M25.4` → MuscleMass = 25.4 |
-| W\<integer\> | Hydration percentage (bioimpedance reference value) | `W60` → Hydration = 60 |
+| fast:\<integer\> | Fasting hours | `fast:18` → FastHours = 18 |
+| fat:\<decimal\> | Body fat percentage | `fat:16.4` → FatPercent = 16.4 |
+| muscle:\<decimal\> | Skeletal muscle mass (kg) | `muscle:25.4` → MuscleMass = 25.4 |
+| water:\<integer\> | Hydration percentage (bioimpedance reference value) | `water:60` → Hydration = 60 |
+| force:\<integer\> | Push-up count during a force test | `force:25` → PushUps = 25 |
 
-The `F` prefix is shared by two events, disambiguated by the value shape: an integer means fasting hours, a decimal means body fat percentage. The `M` prefix is also shared with the bare `M` exercise token (Gym); `M` alone means Gym, while `M` followed by a decimal value means muscle mass.
+The `muscle` name is shared with the bare `muscle` exercise token (Gym), disambiguated by the presence of the `:value` suffix: `muscle` alone means Gym, while `muscle:<value>` means muscle mass.
+
+`force` is captured but not yet used by the plotting code.
 
 Additional parameterized events may be added in the future.
 
@@ -215,6 +220,7 @@ FastHours
 FatPercent
 MuscleMass
 Hydration
+PushUps
 WeightTendency
 FatPercentTendency
 MuscleMassTendency
