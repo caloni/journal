@@ -51337,6 +51337,20 @@ De inverossímil a grotesco, as piadas "arquitetadas" pela roteirista estreante 
 
 O material se torna quase um completo desastre nas mãos da diretora Noémie Saglio, que aqui redigiu os diálogos e pega uma história muito menos interessante, dinâmica e criativa que um de seus trabalhos anteriores, Beijei uma Garota, e que não entende o buraco em que se meteu. Misturando momentos pseudo-dramáticos e filmando-os como tal junto de uma confusa Juliette Binoche andando em círculos com sua moto cor-de-rosa, a história só consegue não se tornar completamente insuportável porque sabemos que se trata de uma comédia, que deve acabar, e deve acabar rápido.
 
+# Massa de Pizza da Dona Neusa
+2017-05-30 cooking
+
+Ingredientes: 1 Kg de farinha de trigo, 100g de fermento de pão (em cubo), 2 ovos, 1 copo americano de óleo, 2 colheres de sopa de açúcar, 1 colher de sopa de sal, 2 copos americanos de leite morno.
+
+Preparo: Dissolva o açúcar, o fermento e um pouco de leite. Ir colocando os ingredientes úmidos e colocar a farinha até o ponto de não-duro, soltando da mão. Descansar por 20 minutos.
+
+# Massa de Pizza Leve
+2017-05-30 cooking
+
+Ingredientes: 1/2 Kg de farinha, 30g de fermento de pão (em cubo) ou, envelope de fermento seco, 250 ml (1 copo) de água morna, 240 ml (½ xícara) de óleo de soja, 1 colher de café de açúcar, 1 dose de cachaça (opcional), sal a gosto.
+
+Preparo: Dissolva o fermento na água, junte o óleo, o açúcar, o sal e a cachaça. Misture com a farinha e trabalhe a massa por 15 minutos ou até ficar soltando bolhas de ar. Descanse por 40 minutos.
+
 # Paris Pode Esperar
 2017-05-31 cinemaqui cinema movies
 
