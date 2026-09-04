@@ -33,7 +33,7 @@ PARAMETERIZED_EVENT_COLUMNS = {
     'fat': ('FatPercent', float),
     'fast': ('FastHours', int),
     'muscle': ('MuscleMass', float),
-    'water': ('Hydration', int),
+    'water': ('Hydration', float),
     'force': ('PushUps', int),
 }
 
