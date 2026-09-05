@@ -84476,7 +84476,9 @@ Disponível no menu de vinhos do restaurante Outback, descobri esses dias. Altam
 # Edsger Dijkstra Without Pencil and Paper
 2023-04-24 computer quotes
 
-One morning I was shopping in Amsterdam with my young fiancée, and tired, we sat down on the café terrace to drink a cup of coffee and I was just thinking about whether I could do this, and I then designed the algorithm for the shortest path. As I said, it was a twenty-minute invention. In fact, it was published in '59, three years later. The publication is still readable, it is, in fact, quite nice. One of the reasons that it is so nice was that I designed it without pencil and paper. I learned later that one of the advantages of designing without pencil and paper is that you are almost forced to avoid all avoidable complexities. Eventually, that algorithm became to my great amazement, one of the cornerstones of my fame. Edsger Dijkstra, in an interview with Philip L. Frana, Communications of the ACM, 2001.
+Edsger Dijkstra, in an interview with Philip L. Frana, Communications of the ACM, 2001:
+
+"One morning I was shopping in Amsterdam with my young fiancée, and tired, we sat down on the café terrace to drink a cup of coffee and I was just thinking about whether I could do this, and I then designed the algorithm for the shortest path. As I said, it was a twenty-minute invention. In fact, it was published in '59, three years later. The publication is still readable, it is, in fact, quite nice. One of the reasons that it is so nice was that I designed it without pencil and paper. I learned later that one of the advantages of designing without pencil and paper is that you are almost forced to avoid all avoidable complexities. Eventually, that algorithm became to my great amazement, one of the cornerstones of my fame."
 
 # Suzume no Tojimari: A Porta Fechada de Suzume
 2023-04-24 movies
@@ -84501,7 +84503,7 @@ Eu acredito que você já consiga caminhar com seus próprios pés a partir dess
 
 
 # A Common-Sense Guide to Data Structures and Algorithms
-2023-04-28 interview books
+2023-04-28 books
 
 Meu próximo livro para praticar entrevistas técnicas é este de Jay Wengrow. Jay queria explicar de maneira menos matemática e alienígena para programadores como algoritmos e estruturas de dados funcionam e como conceber bons algoritmos e medir a eficiência de algoritmos já prontos. Tudo isso serve também para você que deseja passar nas entrevistas técnicas e suas pegadinhas.
 
@@ -84581,7 +84583,7 @@ Pois é, esse Easter Egg é muito mais que um desenho simpático e as memórias 
 
 
 # Hacker Rank Array - Part 1
-2023-04-28 computer interview english
+2023-04-28 computer english
 
 The next step after "Hacker Rank Warm Up" are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
 
@@ -84783,7 +84785,7 @@ No entanto, ao desacelerar, o controle do avião fica muito sensível, tornando 
 Outro detalhe fascinante são os tiros. É possível ficar atirando sem parar projéteis na tela, mas ao fazer isso se perde precisão para acertar os alvos. Então é necessário escolher a estratégia do momento: sair atirando em qualquer coisa ou aguardar o tiro certeiro antes da colisão.
 
 # Bolo de Laranja
-2023-05-19 food cooking
+2023-05-19 cooking
 
 Essa receita é o melhor bolo de laranja que já comi na vida. Tentando replicar agora para ajustar a receita para ambos os paladares: os que gostam do sabor adstringente, que é o que acontece quando se usa laranja inteira na receita, e os que até gostam, mas acreditam haver um limite. Vamos achar esse limite.
 
@@ -84840,7 +84842,7 @@ Busco rápido pelo maps por alternativas e encontro um The Coffee por perto, o p
 Chegando em casa com este último pacote fiz uma receita padrão de Aeropress. A surpresa foi constatar que o sabor é altamente diferenciado. Ou em outras palavras: essa bebida é muito estranha. Seu tom cítrico e seu corpo estão muito longe do que lembramos quando se pensa em café. Ele é como um suco tropical que lembra limão, mas sem o sabor azedo que apareceria em um chá de limão, por exemplo. Há pouco para nenhum corpo com o amargor no final sutil ou até inexistente, dependendo do método de extração usado. Algo muito diferente que mesmo provando mais vezes ainda me surpreende.
 
 # Carê
-2023-05-28 food cooking
+2023-05-28 cooking
 
 Carê é um prato que vai três componentes principais: proteína animal, carboidratos naturais e curry, um tempero mais conhecido na culinária indiana, e conhecido como carê no Japão.
 
@@ -84855,7 +84857,7 @@ Após todos os ingredientes estarem cozidos é hora de acrescentar o carê, que 
 Um dos desafios de fazer carê é a textura dos legumes. O ideal é que você consiga senti-los inteiros, mas não duros. Macios e tenros. Ao usar diferentes legumes como batata, cenoura, mandioquinha, eles devem ser cozidos para terem o mesmo nível de dureza. É necessário tomar conta da maciez de cada um para que um não fique mais molenga ou duro que o resto. Sim, eu tive problemas em fazer carê da última vez.
 
 # Ciabatta Rústica
-2023-05-28 food cooking
+2023-05-28 cooking
 
 Enquanto preparava o carê dei para experimentar uma receita nova de pão, essa ciabatta rústica, para acompanhar o antepasto de berinjela que a Mitiko fez pela segunda vez. Os ingredientes são simples e o preparo também. As proporções abaixo são para um pão pequeno para médio. Para ter uma ideia, nós acabamos com dois desses na mesma noite.
 
@@ -84886,7 +84888,7 @@ Asse no forno hidratado com vapor ou água por 10 minutos e em seguida abaixe pa
 De acordo com a autora "its so easy to make this ciabatta bread and the resulting bread is so good with crispy crust and soft crumb inside". E é verdade.
 
 # Curry Indiano Caseiro
-2024-01-23 food cooking repost
+2024-01-23 cooking
 
 O curry indiano caseiro dá mais trabalho de reunir todos os ingredientes do que o preparo, que são apenas dois minutos em fogo baixo misturando sempre; após esfriar é só processar tudo junto em um mixer, moedor ou liquidificador e peneirar. Dá uma olhada na lista de ingredientes:
 
@@ -84930,7 +84932,7 @@ Aqueça tudo em uma frigideira em fogo médio (sempre mexendo) por uns 2 minutos
 Eu gosto de filmes assim: verdadeiros. A verdade está nas mãos do diretor e roteirista, que filma com paixão traços que remetem ao biográfico na vida de um negro nas periferias estadunidenses. As atuações são conhecidas, mas nem por isso são muito boas. Ice Cube transforma a cena com sua cara de mal encarado autêntica. Laurence Fishburne, na época Larry, vira um Malcolm X do bem, mais pela união dos irmãos do que pela separação dos brancos. Vários detalhes dos personagens os tornam complexos em um panorama idem, além de servir de combustível e referência a Todo Mundo Odeia o Chris. O drama clichê conquista aos poucos nossa simpatia, pois quando se lida com sua verdade com coragem e disposição suficiente todos param para observar e refletir.
 
 # Aprimorando cafezes (sobre blends)
-2023-06-05 food coffee
+2023-06-05 coffee
 
 Eu até gostei dos grãos que trouxe do [The Cofee] após o incidente em busca de café. Ele é daquela série de cítricos que não lembra muito café e tem pouco corpo. No entanto, chega uma hora que mesmo com apenas 250g enjoa. Então lembrei que ainda tenho o café de Tiradentes da viagem do começo do ano, o Tamandaré, um café tipicamente mineiro: encorpado e torrado demais.
 
@@ -84957,7 +84959,7 @@ O texto Why I Built My Own Shitty Static Site Generator resume muito bem minhas 
 Porque qual o motivo de eu depender de um formato se a forma não é o conteúdo?
 
 # Asciidoc is the best
-2023-06-05 essays english computer
+2023-06-05
 
 After reading about the purpose and "current implementation of asciidoctor" I realize that asciidoc is the best text standard for the future of the blog. I say that based on the structure care of the format, the embebbed metadata into its own format and the clear objective of being a unique and formalized standard, what could simplify a lot the necessity of writers and publishers of keeping a text  base as the original and yet keep the structure inside with almost no effort in the side of the writers.
 
@@ -85021,7 +85023,7 @@ Essa garrafa que já acabou foi um Malbec 2020. Nuevos Suelos a subcategoria, ma
 
 
 # OnBoarding no baixo nível
-2023-06-06 computer reversing_tag lists
+2023-06-06 computer
 
 Uhu! Estou de volta para as baixarias =). Irei trabalhar com engenharia reversa, serviços e drivers no Windows, talvez algumas telas azuis da morte e alguns travamentos inexplicáveis. Ou seja, só diversão.
 
@@ -85200,7 +85202,7 @@ copy *.md copia > NUL
 ```
 
 # Critical Sections and Outlook
-2023-06-15 computer debugging english reversing_tag
+2023-06-15 computer
 
 Today was a happy crush analysis day, because I receive an Outlook memory dump the moment it frooze the main window in the beginning of the process. I asked for one because it could be useful to another analysis I was doing with Office server communication.
 
@@ -85251,7 +85253,7 @@ Two main commands used in WinDbg for the analysis was `!uniqstack` to show the..
 
 
 # Debugging a non signed driver in Windows 10
-2023-06-15 computer debugging english
+2023-06-15 computer
 
 Not always just to disable driver signing enforcement work in Windows. In Windows 10 when tried to start a driver after reboot with `bcdedit -set TESTSIGNING ON` I still got the `StartService FAILED 577: Windows cannot verify the digital signature for this file` message.
 
@@ -85508,7 +85510,7 @@ A Bublefix também é péssima quando se trata de episódios de Netflix, e isso 
 Hoje experimentei uma receita que mistura os ingredientes do pão de queijo que já conhecemos e coloca um terço do polvilho de fubá de canjica, uma moagem bem fina de canjica usada para outras receitas como broinha. O pão não cresce tanto, acho que devido à falta de escaldar o polvilho com os líquidos fervendo. Porém, é uma receita rápida e que funciona: é só misturar os ingredientes e fazer as bolinhas.
 
 # Na sua bunda, Platão?
-2023-06-25 cooking coffee
+2023-06-25 coffee
 
 Esta rápida e curiosa epopeia brinca com a teoria das ideias do filósofo grego da Antiguidade Platão. É uma tentativa bem-humorada (ou não) de tentar colocar os pingos nos is de quem ainda está embasbacado com a experiência de degustação de café especial e torra própria que se segue. Os cafés citados são do Sítio Posses e do Rancho São Benedito, adquiridos pelo serviço de microtorrefação de Pereira Villela (ótimo, por sinal). O grão verde é aleatório de mercado municipal.
 
@@ -85537,7 +85539,7 @@ Com isso encerro esta experiência. A ideia era entender o que nos leva a classi
 Agora que estou terminando os copos e já dei uma espiada nas referências as notas estão mais nítidas. Interessante como o cérebro humano trabalha com padrões ligados a referências. Sem isso o mundo todo é apenas um quadro branco. Onde estão as primitivas do mundo das ideias, Platão? Na sua bunda, por acaso?
 
 # Reversing: Secrets of Reverse Engineering
-2023-06-25 books reversing_tag antidebug
+2023-06-25 books
 
 Publicado pela Wiley em 2005, bem na época que comecei a me enveredar no trabalho com análise de trojans e técnicas antidebugging, o livro de Eldad Eilam veio bem a calhar na época e agora virá bem a calhar novamente, pois irei voltar a trabalhar na área. Naquela época começavam a surgir os ataques aos bancos online no Brasil e existia até um tookit que espalhava uma técnica ou duas entre os laranjas que queriam tirar uma casquinha da nova onda. O livro de Eilam busca juntar cada aspecto da engenharia reversa em um apanhado que irá nos dar insights e modus operandi de como proceder para cada tipo de desafio.
 
@@ -85814,7 +85816,7 @@ The end of the else block is marked by the target address of the unconditional J
 You can see a JE (which is jump if equal) after the subtraction because subtraction and comparison are the same thing, except that in a comparison the result of the subtraction is discarded, and only the flags are kept.
 
 # Unabomber Manifesto (Theodore Kaczynski)
-2023-06-25 books philosophy
+2023-06-25 books
 
 Theodore Kaczynski, conhecido como Unabomber, apareceu morto esses dias em sua cela. Ele estava preso pagando uma pena maior que a vida. Em sua época gloriosa ele forçou um jornal a publicar seu manifesto, um livro com centenas de parágrafos explicando o porquê da revolução industrial ter sido um desastre para a raça humana e como o futuro não deve ser melhor.
 
@@ -85872,7 +85874,7 @@ O merge é o componente que obtém conteúdo de N fontes e transforma em um arqu
 O publish é a transformação do arquivo de texto único para N destinos diferentes: um ou mais blogues e livros, Telegram, RSS, Twitter. Não importa. A definição dos destinos é feita no próprio script awk em conjunto com sua transformação. Por que isso? Porque um escritor não deve se limitar a um único formato. Seu único objetivo na vida é escrever. Seus metadados e o formato do seu texto irão definir para onde vai o conteúdo, mas ele não precisa se preocupar com isso.
 
 # Como torrar café
-2023-09-07 food coffee
+2023-09-07 coffee
 
 Desde que torrei o primeiro batch de grãos que trouxe de Poços comecei a pesquisar sobre torra caseira. Ajuntei alguns textos e comecei a fazer anotações. Espero ter feito um bom trabalho de pesquisa e compilação do que encontrei pelo caminho.
 
@@ -85992,7 +85994,7 @@ Será que Black Mirror perdeu sua alma pelo caminho durante esta última tempora
 O rótulo diz 100% café brasileiro. Está com texto em português e inglês para exportação. O sabor do robusta em grãos da mesma produtora tinha seus poréns, mas este é um custo/benefício interessante. Ele tem um sabor agradável e mineiro. Se trata de uma torra mais escura que puxa para sabores mais da torra que do café, mas ainda assim é um bom café.
 
 # Resultado mouthful em meu segundo batch (torrando café)
-2023-07-01 cooking coffee
+2023-07-01 coffee
 
 Moí novamente os mesmos grãos verdes de Poços de Caldas, mas dessa vez mirando em uma torra média.
 
@@ -86163,7 +86165,7 @@ Mesmo Caio Blat sendo um ator intenso o roteiro e a direção sabotam o trabalho
 A ideia é bem boa. Garoto trabalha como um morto-vivo para uma empresa exploradora e quando começa o apocalipse zumbi ele renasce. E vai comprar umas brejas de bike no meio da horda dos novos mortos-vivos. No entanto, por ser um anime adolescente ele perde pontos. É muita enrolação. O conceito é uma bucket list que o jóvi preenche de coisas que ele quer fazer e nunca teve tempo ou chance ou aquelas desculpas que damos a nós mesmos. A analogia pós-pandemia é muito óbvia. A graça é que é como se ele estivesse em pleno lockdown. Eu lembro minha felicidade nerd na época do coronga, que sabia que não viveria um apocalipse, mas que o vírus era o acontecimento mais próximo disso e estava de bom tamanho. Esta série tem alto astral. Se você é jóvi e se ficar na moda vai curtir.
 
 # Brincando com Fogo
-2023-08-02 series dorama
+2023-08-02 series
 
 Esta novela japonesa chega a ser um pouco engraçada, mas é involuntário. Seu elenco é tão caricato. Será influência de anime? O roteiro não ajuda também. Sem conexão com reais personagens de um drama, a história de investigação de uma filha em busca da verdade para sua debilitada mãe por um acontecimento do passado apresenta personagens estereotipados até o talo. É um exagero estilizado (como certos animes) com trilha sonora moderninha. Não chega a ser curiosa esta versão pop dos valores nipônicos.
 
@@ -86554,7 +86556,7 @@ Revi este filme com meu amigo pausando e comentando e finalmente entendemos a tr
 Casal idoso vive nos Andes, reclama que seu filho nunca volta, e as coisas apenas pioram na uma hora e meio dessa produção modesta e pálida. Seus acontecimentos são ritmados, mas não há um impulso que nos faça esquecer que tudo está acontecendo conforme prevíamos dez minutos atrás. As atuações são de uma farsa, notadamente ruins. Essa ideia de documentário ficcionado pode funcionar, mas nem sempre. Este é um nem sempre.
 
 # Fiz chocolate em pó (100% cacau)
-2023-09-04 food cooking
+2023-09-04 cooking
 
 O processo de fazer chocolate requer paciência e um baita esforço. Para tratar apenas uma fruta soa como uma vitória de pirro: um tantinho de cacau em pó para quase duas semanas esperando as sementes que voaram pela batedeira secar para poder assar.
 
@@ -86809,10 +86811,10 @@ Esta é uma boa produção e direção de Daniel Rezende, o editor de filmes com
 Mas tudo isso é fake, o que é muito curioso. O roteiro enlatado é assinado por dois nomes com experiência. Luiz Bolognesi dirige e escreve o totalmente excelente "Uma História de Amor e Fúria". Fabio Meira faz o mesmo com "As Duas Irenes", um trabalho não-comercial que pede o apuro das sutilezas. E nenhum dos dois está pronto para tratar desta história em suas entrelinhas ou foram podados pela produção, pois a construção das cenas convence. É o miolo que nunca embala.
 
 
-# The Dogmatic, The Academic, The Sceptic
-2023-09-22 philosophy quotes
+# The Dogmatic, The Academic, The Sceptic (Stoic Six Pack 4 - The Sceptics)
+2023-09-22 quotes
 
-It is probable that those who seek after anything whatever, will either find it as they continue the search, will deny that it can be found and confess it to be out of reach, or will go on seeking it. It appears therefore, reasonable to conclude that the three principal kinds of philosophy are the Dogmatic, the Academic, and the Sceptic. Stoic Six Pack 4 - The Sceptics.
+"It is probable that those who seek after anything whatever, will either find it as they continue the search, will deny that it can be found and confess it to be out of reach, or will go on seeking it. It appears therefore, reasonable to conclude that the three principal kinds of philosophy are the Dogmatic, the Academic, and the Sceptic."
 
 # Bill & Ted: Uma Aventura Fantástica
 2023-09-23 movies
@@ -86974,7 +86976,7 @@ Windows_Security_Authentication_Web_Core!_security_cookie (
 
 
 # Setando próxima instrução no WinDbg
-2023-10-04 windbg reversing_tag debugging
+2023-10-04 computer
 
 Procurando onde setar a próxima instrução no WinDbg? Dica: curiosamente ela não fica no meio dos comandos de debug, mas no menu Edit. Selecione a linha desejada no assembly ou código-fonte para onde deseja alterar o fluxo de execução e use a opção "Set Current Instruction".
 
@@ -87097,7 +87099,7 @@ Eu não esperava que houvesse espaço neste gênero para um arco a la "A Malvada
 Se é fácil traçar paralelos de clássicos com este filme adolescente é porque ele se leva a sério. Não é apenas um trabalho comercial. Ele é dotado de alma, que fala sobre este universo das bolhas juvenis e a moeda sempre vigente da beleza física e dos mandamentos do bom gosto. Não é tão diverso quanto hoje, mas suas lições servem para outras gerações. E este é, junto de Eleição (Alexander Payne), um dos Cidadão Kane do colégio, leve, didático e divertido.
 
 # Café do japonês
-2023-10-10 food coffee
+2023-10-10 coffee
 
 Eu não sei por que o YouTube me recomenda essas coisas. Este é um japonês que ganhou campeonato de passar café e este é um vídeo de uma técnica inovadora usando o Switch, que até então eu não tinha prestado atenção em sua existência.
 
@@ -87210,7 +87212,7 @@ Um terror tailandês com toques de humor? Nada disso. Este é um drama gay com t
 Assistindo a continuação do ótimo original para ver se assistimos o terceiro no cinema. Este foi lançado na época do isolamento, 2020, e foi influenciado por duas coisas: pressa e movimentos tipo BLM. Ele é bem feitinho, mas as músicas não embalam, fora os hits conhecidos. E mesmo eles não possuem coreografia afiada. A história é requentada e utiliza uma expansão no mundo dos trolls baseado em estilos musicais. O final "estava tudo dentro de nós o tempo todo", blá blá blá. Sim, é preguiçoso do começo ao fim. A parte woke é deprimente mesmo para quem é woke. A única virtude desta continuação é a direção de arte. Bem feita, mas sem alma. Faltou acordar o que está dentro de todos nós.
 
 # Bíblia Sagrada: Números
-2023-11-04 books philosophy bible esoteric
+2023-11-04 books
 
 O próximo livro da minha saga de ler a Bíblia é Números. Neste livro os judeus ainda estão presos no deserto reclamando como nunca para Jeová e ele está mandando ver nos castigos e nas regras esdrúxulas. Haja paciência, santo deus! O Senhor deixou a maioria de castigo, vagando por 40 anos no deserto. Eles vão morrer por lá. A maioria não chegará a ver a terra prometida e nem participará das guerras que estão rolando desde que os judeus invadiram de novo. Misericórdia. Seguem recortes.
 
@@ -87348,7 +87350,7 @@ Para quem não se lembra, Anderson é o diretor de O Sr. Raposo, Hotel Budapeste
 Mais um filme do Supo Mungam Plus. Este da década de 80. É sobre as vissicitudes em família de uma das gloriosas épocas do patriarcado. Está na veia dos artistas mostrar esse cabo de força desigual entre homens e mulheres dessa sociedade ultrapassada. Há muitas canções populares sendo cantadas pelos personagens, que compõem um pequeno mosaico de tipos daquela época e os acontecimentos mais que repetidos – homens bebem demais e descontam nas mulheres. Pais autoritários brigam com suas filhas que ficam fora de casa até tarde. A fotografia é pálida para lembrar das fotos que nossos pais tiravam. Curioso.
 
 # Sardela de berinjela de Chef Silvana
-2023-11-04 food cooking
+2023-11-04 cooking
 
 Na receita original vão 4 berinjelas, 300g de champignon, 3 cebolas roxas, 5 dentes de alho, salsinha a gosto, 50 ml de vinagre de maçã e páprica defumada a gosto.
 
@@ -87394,20 +87396,9 @@ Anime inspirado em uma light novel que virou também mangá. Ele é cheio de tra
 Um anime de viagem no tempo saudosista sobre desenvolvimento de jogos de computador e reflexivo sobre a evolução das bishoujos, a pornografia de menininhas japonesas desenhadas como beldades. A dubladora da protagonista é o ponto forte. Ela é tão engraçada e espontânea que não importa muito o enredo. O anime resgata o finado PC-98, um computador pessoal japonês de mais sucesso regional até o Windows esmagar a concorrência.
 
 # Um Convidado Bem Trapalhão
-2023-11-20 movies miniviews fragments
+2023-11-20 movies
 
 É fácil se identificar com o personagem de Sellers, mesmo não sendo um indiano em meio a ricaços e celebridades americanas alheias ao seu desconforto.  Sutil o suficiente para nos fazer lembrar dos nossos próprios momentos de vergonha social. Sem dizer o clichê “a vida é uma festa” The Party faz melhor: ele cria sua própria festa para imprimir essa sensação nas nossas memórias.
-
-# Juan Valdez
-2023-11-23 coffee trips
-
-Fiquei muito empolgado com a qualidade dos cafezes no QEmporio de Taubaté e acabei trazendo este café da Colômbia... só que em grãos. Ahá.
-
-Ele é intenso e encorpado. Na embalagem está escrito: Fuerte. Faz sentido.
-
-Também na embalagem está o motivo dele custar o olho da cara: a produção é 100% artesanal. Tem controle de origem e os caralho. E ele vende isso como uma produção feita para a comunidade de fazendeiros.
-
-Mas é caro, mesmo. Não vale a pena pelo preço. Devia ter colocado de volta na gôndola.
 
 # Vejo Todas Nuas
 2023-12-04 movies
@@ -87426,7 +87417,7 @@ Descobri que ninguém precisa de mim online (e isso é uma coisa boa).
 Descobri que os maus hábitos continuam, apenas se transformam em outras atividades.
 
 # Las Perdices
-2023-12-21 wine trips
+2023-12-21 wine
 
 Agrelo é a região que ficou na memória durante esta pequena viagem de uma semana para Mendoza. E quando voltei, a garrafa que havia esquecido na geladeira era de um Malbec de lá, da Vina Las Perdices, que encontrei no empório em Taubaté durante outra viagem. As rimas que encontramos pelo caminho devem ser escritas pelo roteirista do universo.
 
@@ -87485,7 +87476,7 @@ Portanto, nova estratégia: expandir os assuntos que me interesso em artigos lon
 Esta doce comédia nacional sobre reparações em família tinha um potencial muito bom de se tornar um filme memorável. Mas o roteiro de Verônica Debom é uma vergonha alheia. Verônica não consegue unir partes da história para fazer algum sentido ou mover seus personagens. Ela os deixa livres para sair em busca de protagonizar o máximo de cenas engraçadinhas ou viver um melodrama instantâneo assim que a trilha sonora dá uma diminuída. De uma forma ou de outra, o que não encaixa neste adorável projeto é este roteiro banal, mal escrito e condescendente com seus astros, as competentes Ingrid Guimarães e Tatá Werneck. Se de um lado Guimarães impõe um certo peso necessário à comédia, que também é um drama, incluindo forçar de maneira desajeitada seu sotaque de caipira ressaltando suas origens e valores mais tradicionais, Werneck assume seu lado humorístico com energia, entregando dezenas de momentos de fato engraçados, além de atuais, pois estão travestidos em torno de uma pessoa dessa geração e com questionamentos vibrantes sobre as mudanças tresloucadas de valores toda semana (o diálogo sobre os corpos livre me pegou de jeito). Infelizmente, ambas as atrizes são sabotadas pelo universo onde vivem seu road movie pastelão. Suas personagens foram escritas com preguiça e sem rédeas. O resultado é um filme que diverte pelo seu espírito jovem e enérgico, mas que justamente por isso poderia ser mais que uma matinê esquecível.
 
 # Sal, gordura, ácido, calor (Salt, Fat, Acid, Heat) (Nosrat, Samin)
-2024-03-30 books cooking reading quotes
+2024-03-30 books
 
 ## Salt
 
@@ -88084,7 +88075,7 @@ Talvez mal acostumado com os botões laterais de versões antigas e depois de re
 Estava folheando os livros disponíveis na Amazon Prime Reading e este estava saindo do catálogo. Peguei e li em dois dias. Ele é bem curtinho. Seu autor é o motivo pelo qual a filosofia no Brasil não é levada a sério. Ele percorre assuntos aleatórios pelos quais gostaria de dar sua opinião não-requisitada, parte para as conclusões e chama isso de filosofar. Sua fala tem por objetivo chocar por ofensas e por diminuição do outro lado. É bem óbvio sua estratégia. Já vi argumentação muito melhor no Telegram. O bom do livro é que ele acaba logo e você não precisa prestar atenção nas palavras do autor, praticando leitura dinâmica. Bônus: para os com viés de direita é uma massagem de ego. E de graça, por enquanto, no Amazon Prime Reading (esta não é uma propaganda, só se for ao contrário; olha o tipo de livro que deixam para ler "de graça").
 
 # A Arte de Escrever (Arthur Schopenhauer)
-2024-02-15 books quotes
+2024-02-15 books
 
 Da mesma série de "vamos ofender aquelas pessoas que eu não gosto" temos A Arte de Escrever, do filósofo Arthur Schopenhauer. É um compilado de artigos sobre o mesmo tema traduzidos pelo corajoso Pedro Süssekind, já que em um dos próprios textos que ele traduz neste livro está a opinião do autor sobre traduções. Spoiler: não é nada lisonjeador para o tradutor e muito menos para o leitor.
 
@@ -88213,7 +88204,7 @@ A trilha sonora deste animê é elogiada porque ela é orgânica em meio à miss
 "Esta é a perfeição moral: viver cada dia como se fosse o último, sem agitação, sem preguiça, sem hipocrisia."
 
 # Kimchi Coreano
-2024-03-30 food cooking
+2024-03-30 cooking
 
 Ingredientes: acelga, uma maçã,  pimenta vermelha coreana, cebola, cebolinha, alho, açúcar, sal.
 
@@ -88241,8 +88232,8 @@ Agora adicione este tempero na acelga já escorrida e limpinha. Misture com as m
 
 Para fermentar deixe dentro de um recipiente fechado em temperatura ambiente por 24 horas em ambiente quente e até 48 horas em ambientes mais amenos. Depois desse tempo irão surgir algumas bolhas e soltar um líquido em volta. Mantenha-o sempre mergulhado neste líquido, guarde na geladeira e curta eventualmente quando quiser acompanhar arroz e centenas de outros pratos. Se trata de um picles oriental que vai bem em tudo.
 
-# 1984 (o livro)
-2024-03-30 books quotes
+# 1984
+2024-03-30 books
 
 Li a primeira vez quando tinha 15 pra 16 anos. Hoje, muitas décadas depois, minha sensação sobre a atmosfera da história é muito próxima. Ela continua opressiva no sentido de ser uma leitura pesada, mas suas ideias são tão sólidas que vale a pena a revisita. Especialmente no meu caso, em que orbitei por muitos anos diferentes esferas ideológicas políticas e hoje revejo a epopeia de Winston Smith com um interesse maior em seu arco, em que quando adolescente a parte mais empolgante sempre será a dos "jovens" revoltados contra o sistema. Hoje para mim a análise do sistema em si é o mais fascinante, pois não soa nem um pouco fantástico. Há elementos da história que percorrem detalhes que vemos hoje em dia na política, de maneira diversa, claro, mas ainda assim próximo o suficiente para despertar terror ou pelo menos uma inquietação. E por isso vale a (re)leitura. Vou citar novamente um trecho que vi em algum lugar sobre Franz Kafka:
 
@@ -88265,9 +88256,11 @@ Em princípio, o pertencimento a um desses três grupos não é hereditário. O 
 O primeiro e mais simples estágio da disciplina, que pode ser ensinado até a crianças, é chamado, em Novidioma, de pararcrime. Pararcrime significa a capacidade de bloquear, como que por instinto, a fronteira de todo pensamento perigoso. Inclui o poder de não captar analogias, de falhar na percepção de erros de lógica, de entender mal os mais simples argumentos se eles forem adversários do Socing, e de se sentir entediado ou repelido por qualquer linha de raciocínio capaz de conduzir a uma direção herética. Pararcrime, em resumo, significa que a ignorância é uma bênção.
 
 # The Unwritten Laws of Engineering
-2024-03-10 books quotes
+2024-03-10 books
 
 O livro "The Unwritten Laws of Engineering" da American Society of Mechanical Engineers (autoria de James G. Skakoon) se tornou um clássico recente por causa que as "leis" descobertas por este grupo de profissionais ao longo de suas carreiras se provaram não necessariamente corretas, mas úteis para a organização de engenheiros em torno não apenas em equipe, mas também por toda uma hierarquia corporativa que permite que mentes pensantes consigam trabalhar juntas em escalas cada vez maiores. Na era da engenharia da computação e suas dezenas de camadas de abstração a versão atualizada nas últimas décadas tem se provado atual. Algumas partes poderão ser revistas ao longo de mais uma geração, mas o núcleo que diz respeito em como tratar seu coleguinha deve se manter ainda por um bom tempo.
+
+## Recortes
 
 Bear in mind, therefore, that it may be worthwhile finishing a job, if it has any merit, just for the sake of finishing it.
 
@@ -88347,7 +88340,7 @@ Para evitar isso coloque um breakpoint deferido para uma função conhecida do c
 Isso pode economizar de alguns minutos a mais de uma hora de espera.
 
 # Comparando logs no procmon
-2024-03-30 debugging computer
+2024-03-30 computer
 
 Quando precisar comparar duas execuções distintas pelos logs do procmon primeiro você precisa eliminar as colunas que serão obviamente diferentes, como data e hora e talvez detalhes da operação. Mantenha o PID, pois com o PID é possível identificar o processo no meio de vários que precisar logar.
 
@@ -88384,7 +88377,7 @@ Da série de livros rasos que as pessoas gostam de ler e se sentir informadas (a
 Para quem gosta do assunto é um ótimo resumo. Há algumas piadas nerds sem graça e muita informação. Ele é fofinho, não ofende nem incita ninguém. Prefira o Cosmos.
 
 # Admirável Mundo Novo
-2024-03-24 books quotes
+2024-03-24 books
 
 Não me lembrava de alguns detalhes deste livro curto e eficaz, assim como a vida dos cidadãos desta fantasia utópica onde o prazer é sinônimo de felicidade e significado para todos desta sociedade de castas e planejada desde o nascimento até a morte de seus indivíduos. Eu me lembrava que seria muito bom viver em um lugar onde você deve copular com o maior número de fêmeas que conseguir, mas na idade que havia lido perdi a ironia fina de que apenas os alfas possuem este privilégio, já que entre as dezenas de clones de gamas você vai copular com muitas fêmeas, sim, mas todas têm a mesma cara.
 
@@ -88425,7 +88418,7 @@ Double click on it.
 All settings in Windows available.
 
 # A Revolução dos Bichos - George Orwell (George Orwell)
-2024-03-30 books quotes
+2024-03-30 books
 
 Este é um livro facinho e rápido de ler que lhe dará um breve e didático resumo sobre a revolução russa. Crianças podem ler. Jovens podem ler. Dificilmente alguém não irá entender.
 
@@ -88549,15 +88542,15 @@ Priscila é o busão que leva três coroas que gostam de se vestir de mulher par
 
 - Summum Bonum: My focus must always be on the ultimate good - acting virtuously.
 
-# Refúgio
-2024-03-30 quotes philosophy
+# Refúgio (Marco Aurélio)
+2024-03-30 quotes
 
-Os homens procuram refúgio no campo, no litoral, nas montanhas; e você também tem anseios frequentes por tais distrações. No entanto, certamente isso é uma grande tolice, já que você pode se retirar para dentro de si mesmo a qualquer hora que quiser. Em nenhum lugar um homem pode encontrar um refúgio mais tranquilo e mais cheio de lazer do que em sua própria alma, especialmente quando há algo dentro dele sobre o qual, se ele apenas olhar, estará imediatamente em repouso. E o resto eu considero nada mais que perfeita ordem na alma. Portanto, permita-se este retiro constante, e, assim, renove-se. Marco Aurélio.
+"Os homens procuram refúgio no campo, no litoral, nas montanhas; e você também tem anseios frequentes por tais distrações. No entanto, certamente isso é uma grande tolice, já que você pode se retirar para dentro de si mesmo a qualquer hora que quiser. Em nenhum lugar um homem pode encontrar um refúgio mais tranquilo e mais cheio de lazer do que em sua própria alma, especialmente quando há algo dentro dele sobre o qual, se ele apenas olhar, estará imediatamente em repouso. E o resto eu considero nada mais que perfeita ordem na alma. Portanto, permita-se este retiro constante, e, assim, renove-se."
 
-# Absorvido no trabalho
-2024-03-30 quotes philosophy
+# Absorvido no trabalho (Sêneca)
+2024-03-30 quotes
 
-Quando a pessoa está ocupada e absorvida em seu trabalho, a própria absorção proporciona grande deleite; mas quando se retirou a mão da obra-prima concluída, o prazer não é tão intenso. Sêneca.
+"Quando a pessoa está ocupada e absorvida em seu trabalho, a própria absorção proporciona grande deleite; mas quando se retirou a mão da obra-prima concluída, o prazer não é tão intenso."
 
 # Undoing Yourself (Christopher S. Hyatt)
 2024-08-07 books
@@ -89176,7 +89169,7 @@ Veja ainda outras diretrizes importantes dessa estratégia alimentar:
 Bottom line: Low Carb não é uma dieta. É um estilo de vida que pode e deve ser adotado com uma perspectiva de longo prazo. Quebrar as regras, eventualmente, não prejudica o corpo já adaptado e é muito saudável para a mente. Equilíbrio e bom senso são fundamentais!
 
 # Peixinho/Lagarto de Dona Neusa
-2024-04-29 food cooking
+2024-04-29 cooking
 
 Esta receita copiada do livro de receitas de Dona Neusa diz que se usa 2kg de carne lagarto ou peixinho.
 
@@ -89199,7 +89192,7 @@ Ingredientes: tomate, cebola, pimentão (amarelho ou vermelho), cenoura, 1 maço
 Corte a carne em tirar bem finas e vá cubrindo um recipiente com as fatias e estes temperos.
 
 # Barreado
-2024-04-29 food cooking repost
+2024-04-29 cooking
 
 Não tem segredo. Ou melhor, tem: monte camadas de bacon, cubos de carne e cebola. Jogue água quente até cobrir quando terminar. Deixe na pressão em fogo médio/alto por meia-hora. Tire da pressão. Coloque mais água quente e tempere com cominho, sal e folhas de louro. Mais meia-hora a quarenta minutos na pressão a fogo baixo. Retire da pressão. Mexa para desfiar. Já está pronto, mas pode continuar cozinhando e mantendo o caldo líquido, sempre com água quente para não parar o cozimento. O sabor não diminui com o tempo, é só acertar o sal. Coma com farinha de mandioca, banana da terra ou puro. No pão também fica top.
 
@@ -89415,7 +89408,7 @@ PS: eita, lembrei que cheguei a fazer na italiana:
 - Pressão: mais acidez, porém forte amargor (tive que diluir na água).
 
 # Sacred Cow (Diana Rodgers and Robb Wolf)
-2024-07-11 books body quotes
+2024-07-11 books
 
 Lendo este livro indicado em algum podcast da "Tribo Forte". Também coletando outras opiniões, como o famoso "artigo do The Guardian" desbancando 18 argumentos a favor de comer carne; este assunto parece espinhoso na comunidade científica ou é apenas fumaça da mídia?
 
@@ -89672,7 +89665,7 @@ Detalhes técnicos como enquadramentos, figurinos, atuações e a visão autoral
 Kim Basinger é de outro mundo. Aqui ela protagoniza uma cena com Dan Aykroyd em que sua lingerie deixa perceber como seus peitos perfeitos são durinhos. Aykroyd faz junto da menina de How I Met Your Mother uma versão pai e filha de Contato com um humor peculiar dos anos 80. Basinger é a alienígena esposa americana perfeita. Loira com tudo em cima, ignorante sem ser chucra. Este filme repete a fórmula de Pai e Mãe Salvam o Mundo em salpicar um filme sobre o espaço em uma comédia familiar levemente picante.
 
 # Ms. Koizumi Loves Ramen Noodles
-2024-05-26 animes food
+2024-05-26 animes
 
 Pensei que havia escrito um post sobre este anime. Devo ter me entretido demais comendo lámen durante os episódios. Bom, agora é importante delinear onde estão esses locais.
 
@@ -89717,7 +89710,7 @@ Lúdico até dizer chega, esta versão musical de Willy Wonka Origins é lúdico
 Pensei que não fizessem mais séries sitcom com diálogos apressados e mal feitos como esse, mas aqui estamos em 2024. Aqueles personagens preguiçosos e uma noção zero de como agradar o espectador. É impossível assistir um episódio de 20 minutos sem pensar em dropar imediatamente.
 
 # Assassino por Acaso
-2024-06-10 movies miniviews fragments
+2024-06-10 movies
 
 Me incomoda o fato dos seus personagens serem tão amáveis e a química do casal tão instantânea e ainda assim precisamos percorrer um longo caminho para a redenção. Mas esta é a regra do jogo: sem conflitos, sem filme. O forte do diretor Richard Linklater (Trilogia do Antes, Jovens, Loucos e Rebeldes, Escola do Rock, Boyhood) não é nos envolver em tramas complexas e fechadas, mas nos embalar em experiências humanas que realçam a relação irreconciliável entre a lógica racional e as emoções que trazem essa mesma lógica viva e com energia para nosso mundo verborrágico e implacável. Linklater é o anfitrião de temas existenciais com uma irreverência quase impossível.
 
@@ -89822,7 +89815,7 @@ A Semente do Mal poderia ser um estudo de personagens perturbador não fosse seu
 Infelizmente, ao se entregar demais às fórmulas, a produção bem dirigida por Gabriel Abrantes não mergulha junto na loucura do seu universo pecaminoso e cruel. Em contrapartida irá soar muito mais palatável à “elite” dos consumidores de terror desta década, um grupo de cinéfilos tão exigentes que existe uma fórmula a ser seguida para agradá-los. Para alguns (muitos) a ironia se perde entre as palavras que acabei de escrever.
 
 # Fiz Chili
-2024-06-11 food cooking
+2024-06-11 cooking
 
 Há infinitas possibilidades de chili. O que eu fiz ficou bom para pegar com nachos, porque tem pouco caldo, e o que tem é levemente mais grosso para grudar no salgadinho de milho.
 
@@ -89998,7 +89991,7 @@ Esta garrafa mais cara da Etchart vendida no Hirota não é um reserva, pois que
 Já este, sim, me parece um reserva (10 meses) que vale cada centavo. Até porque não é muito caro. Ele tem um aroma característico de Cabernet com a marca registrada de Cafayate.
 
 # Wired to Eat (Robb Wolf) e os pilares de uma vida plena
-2024-07-11 books body
+2024-07-11 books
 
 Saúde alimentar, comunidade, exercícios, bom sono. Em conjunto estes são os pilares de acordo com Wired to Eat, um livro que tenta apresentar de maneira irreverente descobertas a respeito da alimentação moderna que pode estar causando surtos de doenças imunodeficientes como diabetes e alzheimer. A premissa está firmada em detalhes ocultos como nossa flora intestinal e como alimentamos as bactérias que queremos que floresçam. Mas não é só isso. O autor apresenta uma nova forma de criar uma dieta personalizada baseado em uma pesquisa que revelou que diferentes pacientes reagem à mesma forma de alimentação de formas diferentes. Por isso ele adota em seu livro uma limpeza corporal de 30 dias seguido por sete dias de experimentos com diferentes tipos de carboidratos cuja reação no corpo será medida pelo índice glicêmico no sangue, obtido pelo uso de medidores para diabéticos, hoje amplamente acessíveis, o que é um misto de ironia com satisfação usar a mesma ferramenta de pessoas doentes para entender nossa dinâmica digestiva antes de nós nos tornarmos os próximos (há espaço também para os que infelizmente já se encontram em algum quadro de diabetes, pelo que entendi).
 
@@ -90411,9 +90404,9 @@ A próxima seria entender o que é necessário para que o Visual Studio pare de 
 "Seu corpo é uma máquina bioquímica, você pode produzir a química e o estado que você quiser, sem usar drogas, que viciam e danificam as células. Aprenda sobre respirações, meditação e outras técnicas para que você viva o estado que procura de maneira saudável, sem depender de nada ou de ninguém. Em frente meu amigo, tenho certeza de que o mundo voltará a ser colorido para você."
 
 # Why You Should Take Steps to Eliminate Grains From Your Diet
-2024-07-23 quotes body
+2024-07-23 quotes
 
-So, how much carbohydrate should you eat? As a general rule, a healthy person can think of the answer to this question in this way: the quantity of carbohydrate consumed during a meal should be no more than what you need to replenish the glycogen stores in your liver and muscles, unless you are exercising immediately after a meal. Any excess carbohydrate that remains in the body is what your liver converts into triglycerides that get stored in your fat cells. When your fat cells are full, the excess glucose remains in your bloodstream. This means that if you tend to be sedentary, you don’t need many complex carbohydrates.
+"So, how much carbohydrate should you eat? As a general rule, a healthy person can think of the answer to this question in this way: the quantity of carbohydrate consumed during a meal should be no more than what you need to replenish the glycogen stores in your liver and muscles, unless you are exercising immediately after a meal. Any excess carbohydrate that remains in the body is what your liver converts into triglycerides that get stored in your fat cells. When your fat cells are full, the excess glucose remains in your bloodstream. This means that if you tend to be sedentary, you don’t need many complex carbohydrates."
 
 # Até que as Cores Acabem
 2024-07-23 movies
@@ -90541,7 +90534,7 @@ Faça dos significados tradicionais seu vaso e solo para neles depositar a semen
 Não importa qual o tipo de proteína ingerida (e.g. colágeno) porque no fim das contas o sistema digestivo precisa quebrar em aminoácidos menores para a absorção pelo organismo e a remontagem de proteínas necessárias pelos mais diversos tecidos (incluindo os músculos).
 
 # Bíblia Sagrada: Deuteronômio
-2024-08-05 books philosophy bible esoteric
+2024-08-05 books
 
 Voltei a folhear em uma madrugada esse livrinho. Não lembro se acabei o capítulo anterior de Números, mas, honestamente, não estou interessado em descobrir. O texto é maçante, repetitivo e quase que inútil para aprendermos qualquer coisa sobre esses judeus exceto que eles são muito numerosos, burros e precisam do uso da força e da lei para sair do deserto e conseguir terras.
 
@@ -90568,7 +90561,7 @@ Ele as lançará em total confusão, até que sejam destruídas. Entregará os r
 Reconheça, portanto, que o SENHOR, seu Deus, não lhe dá essa boa terra como propriedade porque você é justo, pois não é. Na verdade, você é um povo teimoso.”
 
 # 50 Clássicos da filosofia (Bowdon, Tom Butler)
-2024-08-05 philosophy quotes
+2024-08-05 books
 
 Os filósofos gostam de acreditar que estão erigindo sistemas imparciais e rigorosos para explicar a ação humana e o universo, quando, na realidade, as filosofias são expressões de inclinações e perspectivas pessoais. William James (Pragmatismo).
 
@@ -90784,7 +90777,7 @@ Para isso basta ir depurando cada execução até ocorrer a ativação. Quando d
 Dependendo da forma com que é implementado isso pode levar de alguns minutos a talvez uma hora ou duas. Mas com certeza será mais rápido que ir todo o código passo a passo.
 
 # Evidence for sugar addiction Behavioral and neurochemical effects of intermittent, excessive sugar intake (Nicole M. Avena, Pedro Rada, and Bartley G. Hoebel)
-2024-08-23 philosophy papers
+2024-08-23 clippings
 
 Lendo um paper sobre relação entre açúcar e o comportamento de vício em outras drogas.
 
@@ -90941,7 +90934,7 @@ A ideia geral é essa. Conforme textos longos forem surgindo, se aproveitando de
 E com isso nascem e morrem as listas.
 
 # The AWK Programming Language (Alfred Aho)
-2024-09-14 books computer quotes
+2024-09-14 books
 
 Acabei de ler o The Awk Programming Language. Livraço. Impressionante a qualidade de escrita dos autores da época. É uma carta aberta de programadores para programadores. Seguem recortes que fiz durante a leitura.
 
@@ -90996,7 +90989,7 @@ We were surprised at how rapidly Awk became popular as a general-purpose program
 In addition, the absence of an explicit concatenation operator, an advantage for short programs, now requires the opening parenthesis of a function call to follow the function name with no intervening spaces.
 
 # The Algorithm Design Manual (Steven S. Skiena)
-2024-09-14 books computer
+2024-09-14 books
 
 Acordei no meio da noite pensando em como remover um elemento de uma árvore, aí eu desisti de criar minha própria solução. Baixei The Algorithm Design Manual e Cormen para aprender. Um lapso temporário.
 
@@ -91035,10 +91028,10 @@ Com 50 anos é admirável quanta energia ele colocou, pulando, descendo e subind
 
 Tão autêntico quanto o tapa que o Chris Rock levou do Will Smith 🙊.
 
-# Gell-Mann Amnesia
+# Gell-Mann Amnesia (Michael Crichton)
 2024-09-20 quotes philosophy
 
-Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the "wet streets cause rain" stories. Paper's full of them. In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know. Michael Crichton (1942-2008).
+"Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the "wet streets cause rain" stories. Paper's full of them. In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know."
 
 # Tradi Café Doce de Leite
 2024-09-20 coffee
@@ -91050,7 +91043,7 @@ Esta amostra que peguei eu achei bem estranha nos primeiros dias. Demorou até o
 Foi bom enquanto durou. Que venham mais cafezes.
 
 # Informação não é conhecimento
-2024-09-20 philosophy essays
+2024-09-20 essays
 
 A informação do meu blogue não me serve de nada a não ser como reafirmação do conhecimento interno que mantenho. Essa minha máquina de estados única e exclusiva da minha linha de vida. Talvez algo sirva para alguém em algum momento, mas nunca será a essência do que procuro. O conhecimento em si se separa da informação quando este se transforma em um processo internalizado do ser. Um algoritmo. É este algoritmo a parte mais importante do uso da informação.
 
@@ -91063,7 +91056,7 @@ Conclusões deste último pensamento sobre o blogue: manter a escrita frequente,
 Este seria o pilar que inicia um novo capítulo nos posts do blogue: o meta conhecimento.
 
 # Como degustar café e vinho
-2024-09-20 food coffee wine
+2024-09-20 coffee wine
 
 Minhas últimas experiências tomando café no Japão junto da leitura de anotações antigas me levaram a concluir formas inteligentes de degustar bebidas que podem não ser do seu agrado.
 
@@ -91088,7 +91081,7 @@ Para qualquer bebida acrescentar rituais de degustação, como durante viagens, 
 Mais uma vez, o mesmo princípio pode ser aplicado a outras bebidas.
 
 # Software Architecture in Practice (Len Bass, Paul Clements, Rick Kazman)
-2024-09-20 books computer quotes
+2024-09-20 books
 
 Mais um da série de livros para preencher lacunas nos meus conhecimentos técnicos. Seguem recortes finais (não continuarei lendo).
 
@@ -91111,7 +91104,7 @@ There is no such thing as an inherently good or bad architecture. Architectures 
 One of the messages of this book is that architectures can, in fact, be evaluated—one of the great benefits of paying attention to them—but such evaluation only makes sense in the context of specific stated goals.
 
 # What If
-2024-09-20 books quotes
+2024-09-20 books
 
 Estava com esse livro há um bom tempo na prateleira. Essa última viagem foi uma ótima oportunidade para terminar de ler. Recomendo fortemente para distrair dos pensamentos do dia a dia
 
@@ -91157,12 +91150,12 @@ A Contadora de Filmes pega carona em filmes conhecidos por praticamente todos os
 Por fim: cada época tem o Cinema Paradiso que merece. E este é muito bom. Tecnicamente admirável, competente nas entrelinhas. Um cinéfilo mais jovem se apaixonaria por esta história. Um mais vivido acharia melancólico este cinema chileno dirigido por uma dinamarquesa e co-escrito por um brasileiro.
 
 # Promise, I'll Be Fine
-2024-11-22 movies mostrajaponesa
+2024-11-22 movies
 
 Os festivais me perseguem. Justo na semana que estava em Tóquio estava rolando o 37th Tokyo International Film Festival. Não pude deixar de ver pelo menos um filme. Vi dois. Esse primeiro, da diretora da Eslováquia Katarína Gramatová, trabalha a relação mãe e filho quando este é abandonado na cidadezinha de origem enquanto ela vive de golpes imobiliários na cidade grande. Não é um coming of a age, mas um diálogo entre a vida simples e as luzes que seres humanos perseguem como moscas tontas. É uma carta aberta e autêntica, mas tão sutil que dá sono em vários momentos.
 
 # Bury Your Dead (Enterre Seus Mortos)
-2024-11-22 movies mostrajaponesa
+2024-11-22 movies
 
 O segundo e último filme que vi na mostra de Tóquio foi o último dirigido pelo brasileiro Marcos Dutra, do ótimo "Trabalhar Cansa", entre outros trabalhos mais comerciais. Se trata de mais uma distopia brazuca que bebe da fonte de "Bacurau" sob o viés do sobrenatural (tema constante de Dutra). Se trata de uma grande bobagem pretensiosa (assim como Bacurau).
 
@@ -91172,7 +91165,7 @@ Após a sessão o diretor apareceu para algumas perguntas e respostas traduzidas
 
 
 # Uma dieta além da moda (José Carlos Souto)
-2024-11-23 books body
+2024-11-23 books
 
 Conheci o trabalho de José Carlos Souto através do podcast Tribo Forte. Ouvia alguns episódios enquanto andava de bike e conhecia aos poucos a figura que analisava de forma crítica pesquisas acadêmicas, o que me ajudou a entender sobre diferentes metodologias, análise dos resultados obtidos e o abismo com o que a mídia propagandeava por aí.
 
@@ -91379,7 +91372,7 @@ E por que as pessoas desenvolvem pedras na vesícula? Um dos motivos mais comuns
 Apenas lembrando, pH é uma medida de acidez (ou alcalinidade) de uma solução aquosa. Água pura tem pH neutro – ou 7, em uma escala que vai de 1 (o mais ácido) até 14 (o mais alcalino).
 
 # Anko (Azuki)
-2024-11-23 food cooking
+2024-11-23 cooking
 
 Anko são feijões japoneses cozidos até virarem uma pasta. Essa pasta pode adquirir diferentes texturas, entre as principais são Tsubu-An (ou Nama-An) e Koshi-An (ou Ogura-An, um misto com feijões maiores chamados Dainagon). Existe uma variedade de combinações com diferentes tipos de feijão na culinária japonesa, com preparo e combinação de ingredientes. É tradicional em Nagoya, por exemplo, servir no café-da-manhã uma torrada com em cima Ogura-An e manteiga.
 
@@ -91414,13 +91407,13 @@ As atuações de um elenco amplo são esforçadas, mas o roteiro é mecânico. D
 
 O que eu sei é o seguinte: é difícil não ter a atenção sequestrada por estes 90 minutos de inspiração, de experimento. É um presente para cinéfilos ansiosos por algo novo. O mistério será encontrar alguém que não se sinta nem que ligeiramente interessado por esta ideia.
 
-# To practice architecture
-2024-11-28 quotes code
+# To practice architecture (Oliver Goldman, Effective Software Architecture)
+2024-11-28 quotes
 
-To comprehensively address all the components of a software system and how they relate is to practice architecture. Complexity is software’s enemy, and a disciplined architecture practice its best defense. Oliver Goldman (Effective Software Architecture).
+"To comprehensively address all the components of a software system and how they relate is to practice architecture. Complexity is software’s enemy, and a disciplined architecture practice its best defense."
 
 # Como conseguir café gelado de qualidade na Starbucks
-2024-11-28 food coffee lifehack
+2024-11-28 coffee
 
 Fui pedir um cold brew e descubro que ele está em falta no mercado. Daí descubro por um barista que existe não apenas o americano gelado (em que eles colocam gelo e água em um espresso), mas o filtrado gelado, o que é a solução perfeita para o verão, pois diferente do cold brew, que perde o sabor do café original após o período de 16 horas em infusão a frio, este é um filtrado comum com a proporção certa de gelo adicionado.
 
@@ -91443,15 +91436,15 @@ Enfim, quando não há invencionices com computação gráfica e quando o filme 
 
 Talvez a maior perda dos sonhos lúcidos seja o monólogo inconsciente das mesmas vozes ecologicamente conscientes.
 
-# Sit quietly in a room alone
+# Sit quietly in a room alone (Blaise Pascal)
 2024-12-27 quotes philosophy
 
-All of humanity's problems stem from man's inability to sit quietly in a room alone. Blaise Pascal.
+"All of humanity's problems stem from man's inability to sit quietly in a room alone."
 
-# A thousand mile walk
-2024-12-27 quotes philosophy
+# A thousand mile walk (Leo Tolstoy)
+2024-12-27 quotes
 
-A man on a thousand mile walk has to forget his goal and say to himself every morning, 'Today I'm going to cover twenty-five miles and then rest up and sleep'. Leo Tolstoy.
+"A man on a thousand mile walk has to forget his goal and say to himself every morning, 'Today I'm going to cover twenty-five miles and then rest up and sleep'."
 
 # Look for a meaning (Andrei Tarkovsky)
 2024-12-27 quotes
@@ -91473,8 +91466,8 @@ Antes para filmes eu mantinha uma data de repostagem e até múltiplas datas de 
 
 Porém, acredito que pelo menos uma data de atualização cabe para entradas antigas, já que pelo menos o estilo do autor deve mudar. Isso me avisa também quando estiver lendo um texto meu antigo que este eu não é tão do passado assim, e que por isso está "tão bem escrito".
 
-# Um químico na cozinha (Haumont, Raphaël)
-2025-01-09 cooking books
+# Um químico na cozinha (Raphaël Haumont)
+2025-01-09 books
 
 Ano passado havia comprado um livro de gastronomia que uma chef vendedora ambulante de brigadeiro recomendou enquanto estava vendendo sua mercadoria para nós, meros bêbados eventuais. Porém, tive que devolver no dia seguinte: o texto é muito ruim e confuso. Ele investe em defender cozinha molecular e eu, leitor desavisado, nem sabia que isso estava em ataque. Eu nem sabia que isso era uma coisa. Pra falar a verdade, não me identifico muito com essas cozinhas diferentonas que querem cobrar horrores pela experiência. De vez em quando é legal de ir, mas bem de vez em quando.
 
@@ -93742,7 +93735,7 @@ Meu monitor curvo Samsung que ganhei de presente de um amigo estava começando a
 2026-06-20 quotes work
 
 # Experiência com IA até agora
-2026-06-23 reversing ai
+2026-06-23
 
 - se o modelo entrou em loop apaga o cachê e começa de novo.
 
