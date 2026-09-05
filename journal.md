@@ -1,7 +1,7 @@
 # Autor
 2005-05-15 computer blog
 
-Compulsive programmer. Wanderley Caloni Jr, brasileiro de nascença e programador por paixão, começou a se divertir aos 17 anos com seu Microsoft Quick BASIC recém baixado da internet. Depois que fez seu primeiro programa - uma calculadora - e saiu pulando pela casa feliz da vida, nunca mais parou de programar. Após dominar as técnicas básicas do if, while e for (ohhhhh...) passou a estudar uma tal de C, linguagem que o faria ficar mais doidão ainda por programação. Seu primeiro programa in(útil) foi o jogo genius, o único no mundo (que eu conheço) que guardava recordes no próprio executável! Depois que gabaritou no C passou a desenvolver classes templates com funções polimórficas e herança múltipla em C++.
+Compulsive programmer. Wanderley Caloni Jr, brasileiro de nascença e programador por paixão, começou a se divertir aos 17 anos com seu Microsoft Quick BASIC recém baixado da internet. Depois que fez seu primeiro programa - uma calculadora - e saiu pulando pela casa feliz da vida, nunca mais parou de programar. Após dominar as técnicas básicas do if, while e for (ohhhhh...) passou a estudar uma tal de C, linguagem que o faria ficar mais doidão ainda por programação. Seu primeiro programa (in)útil foi o jogo genius, o único no mundo (que eu conheço) que guardava recordes no próprio executável! Depois que gabaritou no C passou a desenvolver classes templates com funções polimórficas e herança múltipla em C++.
 
 Seu primeiro emprego na área de informática foi em uma empresa de tecnologia, a SCUA Segurança da Informação SA, onde desenvolveu software por 4 anos. Foi responsável direto pelos aplicativos de interface com o usuário dos produtos SCUA, como SCUA Security 2000, SCUA Security Suite e SCUA Finger True. Foi mantenedor da infraestrutura desses produtos por todo esse período.
 
@@ -1141,7 +1141,7 @@ Quer entrar em contato? Mande o bom e velho email. Para mais detalhes técnicos 
 
 "Eu mesmo!"
 
-Wanderley Caloni é um "programador" C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busquei mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia a dia Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator duas vezes. Hoje uso AWK. Sim, os clássicos acabam quebrando um galho =).
+Wanderley Caloni é um "programador" C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busquei mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia a dia Eventualmente me tornei crítico de cinema e havia juntado aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator duas vezes. Após isso usei um script AWK. Sim, os clássicos acabam quebrando um galho =). Porém, eventualmente resgatei a alma técnica do blogue e arquivei todos os textos sobre cinema e os textos técnicos datados para meu journal, cujo link está na home do saite, mas não faz parte do conteúdo curado (update de 2026-09-05).
 
 ## Overview geral por cima
 
@@ -89440,7 +89440,7 @@ It may seem a stretch to link the Cold War to our current obesity epidemic and b
 
 Humans don’t really need “protein”; we need amino acids, and meat has the perfect balance of amino acids plus micronutrients that plants don’t have.
 
-Scientific studies show that both low fat and low carb diets can work for people,18 but if you’re looking to lose body fat and maintain muscle mass, increasing your protein and lifting some weights while being careful not to overconsume total calories (which is a lot easier to do when you’re getting decent amounts of protein because you feel much more full thanks to the satiating effects of meat) is the golden ticket.
+Scientific studies show that both low fat and low carb diets can work for people, but if you’re looking to lose body fat and maintain muscle mass, increasing your protein and lifting some weights while being careful not to overconsume total calories (which is a lot easier to do when you’re getting decent amounts of protein because you feel much more full thanks to the satiating effects of meat) is the golden ticket.
 
 Cancer, diabetes, and heart disease are not diseases that develop quickly; they take years to develop. This is why most nutrition research looks at large populations over long periods, which is called observational epidemiology.
 
@@ -89470,13 +89470,13 @@ The main difference in the mid-Victorian diet initially was an increase in meat,
 
 What’s more, there was a strong temperance movement that resulted in approximately a third of homes abstaining totally from alcohol. Beer was frequently consumed, but it’s estimated that the alcohol content was probably only 1 or 2 percent in the home and about 2 to 3 percent at pubs, which is much lower than today’s average of 5 percent.
 
-We’ve known since at least the ’70s that stress within forty-eight hours of slaughter causes glucocorticoids to infiltrate the meat, lowering its pH (makes it more acidic) and making it less tender.29 However, whether slaughter stress or chronic stress from the factory farm environment has an impact on the nutritional content of beef hasn’t been investigated.
+We’ve known since at least the ’70s that stress within forty-eight hours of slaughter causes glucocorticoids to infiltrate the meat, lowering its pH (makes it more acidic) and making it less tender. However, whether slaughter stress or chronic stress from the factory farm environment has an impact on the nutritional content of beef hasn’t been investigated.
 
 Although animal products contain the richest sources of most micronutrients required by humans, there are some vitamins and minerals that are best found in plants—for example, vitamins folate, C, E, and betaine. In the mineral category, plants provide greater quantities of magnesium, potassium, selenium, and manganese than most animal sources.
 
-Nuts and seeds are an excellent source of minerals, including magnesium, manganese, copper, selenium, and zinc. But relying only on nuts as your primary source of these minerals can have a few downsides. Most nuts are high in omega-6 fats, which are already found in excess in many of our diets and compete for absorption of anti-inflammatory omega-3s. We do need some omega-6 fats for health, but most of us are already eating too much, so adding an additional source of omega-6 may not be ideal.5 They also contain antinutrients (see the next section).
+Nuts and seeds are an excellent source of minerals, including magnesium, manganese, copper, selenium, and zinc. But relying only on nuts as your primary source of these minerals can have a few downsides. Most nuts are high in omega-6 fats, which are already found in excess in many of our diets and compete for absorption of anti-inflammatory omega-3s. We do need some omega-6 fats for health, but most of us are already eating too much, so adding an additional source of omega-6 may not be ideal. They also contain antinutrients (see the next section).
 
-Although plants contain calcium, bioavailability of calcium from food can vary greatly. Even soybeans, which are considered “high” in calcium, are only 30–40 percent bioavailable. Soy milk, which is frequently used as an alternative to cow’s milk, is fortified with calcium, increasing the bioavailability to 75 percent. Although many of these plant foods do contain calcium, the amount absorbed is quite low.6 Nonheme iron comes from plant sources and is not as well absorbed as iron from animal protein, as it is not bound to any protein. Iron absorption from plants is low, at about 5–12 percent.
+Although plants contain calcium, bioavailability of calcium from food can vary greatly. Even soybeans, which are considered “high” in calcium, are only 30–40 percent bioavailable. Soy milk, which is frequently used as an alternative to cow’s milk, is fortified with calcium, increasing the bioavailability to 75 percent. Although many of these plant foods do contain calcium, the amount absorbed is quite low. Nonheme iron comes from plant sources and is not as well absorbed as iron from animal protein, as it is not bound to any protein. Iron absorption from plants is low, at about 5–12 percent.
 
 Plant foods like seaweed contain B12 analogs and not the true form of B12. These analogs actually increase your need for the true form of B12.
 
@@ -89502,7 +89502,7 @@ The carbon sequestration process starts when the grasses, legumes, and forbs go 
 
 Growing food is a biological process, but we’ve taken this biological process and turned it into a chemical one.
 
-In our modern industrial food system, cows eat mainly grass. There is a widely held belief that cattle consume large amounts of grain and that this is effectively “taking food away” from what could otherwise feed humans, but this is incorrect. We’ll look at this topic in depth later in the book, but for now, we want
+In our modern industrial food system, cows eat mainly grass. There is a widely held belief that cattle consume large amounts of grain and that this is effectively “taking food away” from what could otherwise feed humans, but this is incorrect.
 
 The saying “A chicken in every pot” has been erroneously attributed to 1928 presidential candidate Herbert Hoover. In fact, a group of supporters of Hoover’s political campaign coined this phrase, but the promise was alluring: before the intensification of our food system, there was not extra grain available to raise chickens en masse as is common practice today. The bulk of animal products consumed came from grazing animals, for reasons that are hopefully becoming clearer. Eating chicken today is inextricably linked with modern industrial farming practices that are unsustainable in the long term.
 
@@ -89528,9 +89528,9 @@ Unless they are “grass finished,” beef cattle will spend the last four to si
 
 The amount of feed needed for an animal is called the feed conversion ratio. A recent life cycle analysis calculated that the amount of grain required to produce one pound of boneless beef is 2.6 pounds. The ratio of pork is about 3.5:1, chicken 2:1, and many farmed fish like salmon are 1.3:1.
 
-Over their life span, typical cattle only get 10 percent of their diet from grain.3 This means that about 90 percent of the feed for beef is inedible by humans.
+Over their life span, typical cattle only get 10 percent of their diet from grain. This means that about 90 percent of the feed for beef is inedible by humans.
 
-As prolific reproducers and fast weight gainers that provide tasty meat and fat, pigs have been an important source of nourishment for many cultures. Ironically, one of the only foods common to all “Blue Zones,” areas noted for significant health and longevity, is pork. In more densely populated areas, pigs lived closer to humans as “garbage disposals” that literally ate our waste. Yes, sorry to gross you out, pigs can eat human poop. In fact, in China and Korea a family of four humans could feed four young pigs on around four and a half pounds of human waste and eight ounces of garbage each day.7 Pigs played an important role in medieval Paris for, of all things, sanitation
+As prolific reproducers and fast weight gainers that provide tasty meat and fat, pigs have been an important source of nourishment for many cultures. Ironically, one of the only foods common to all “Blue Zones,” areas noted for significant health and longevity, is pork. In more densely populated areas, pigs lived closer to humans as “garbage disposals” that literally ate our waste. Yes, sorry to gross you out, pigs can eat human poop. In fact, in China and Korea a family of four humans could feed four young pigs on around four and a half pounds of human waste and eight ounces of garbage each day. Pigs played an important role in medieval Paris for, of all things, sanitation
 
 There is no evidence that feeding pigs, and even chickens, our leftover properly treated food waste, is unsafe.
 
@@ -89546,7 +89546,7 @@ In a brittle landscape, rainfall is able to penetrate the top layer of soil only
 
 Amid these calculations, we think it should be noted that the nutrition in grass-finished beef is far superior to rice, avocados, walnuts, and sugar. A pound of rice requires about 410 gallons of water to produce. Avocados, walnuts, and sugar have similar water requirements. Globally, 30 percent of groundwater intended for crops is used by rice, followed by wheat (12 percent), cotton (11 percent), and soybeans (3 percent).
 
-Of all antibiotics produced in the US, 80 percent are given to livestock and poultry,13 the majority of which (90 percent) are not sick animals—rather, the antibiotics are intended to marginally improve growth rates and prevent sickness.14 Up to 75 percent of these antibiotics pass through the animal and into the environment unchanged.15 Antibiotic resistance in humans is a massive public health concern, and this is exacerbated, in part, by their broad use in livestock. By contrast, when livestock are given a healthy environment and low stress, they don’t need to be given preemptive antibiotics, which can dramatically cut down the incidence of antibiotic resistance.
+Of all antibiotics produced in the US, 80 percent are given to livestock and poultry, the majority of which (90 percent) are not sick animals—rather, the antibiotics are intended to marginally improve growth rates and prevent sickness. Up to 75 percent of these antibiotics pass through the animal and into the environment unchanged. Antibiotic resistance in humans is a massive public health concern, and this is exacerbated, in part, by their broad use in livestock. By contrast, when livestock are given a healthy environment and low stress, they don’t need to be given preemptive antibiotics, which can dramatically cut down the incidence of antibiotic resistance.
 
 Perhaps the most pressing problem for sustainability, regardless of whether we are discussing the potential role of animals in a food system or appropriate measures to address climate change, is that the vast majority of Westernized populations have become divorced from nature. We see nature as a place to visit, not a system we are a part of. Because of this, many people simply can’t come to grips with the idea that death is inevitable, unavoidable, and important for new life. Many think any death is wrong.
 
@@ -89554,7 +89554,7 @@ British philosopher David Pearce sees the natural world as a terrible place begg
 
 If you want kale, you should be open to the notion that animals should play a role in the food system, and that we may need to eat more animals, not fewer. This scenario means we will maximally capture solar energy in the form of plants, and the animals convert that energy into good soil, fertilizer for other plants, and healthy nutrients for people—in a word, life.
 
-We recognize that this is already a long and technical book, but physicist Jeremy England makes an important point in a recent paper. He argues that the purpose of life is to enhance entropy, or the relative disorder in the world or universe.4 This may be an unsatisfying case for the more spiritually minded, but it has profound implications regardless of one’s religious stance. In the short term, life works against entropy by harnessing the energy around us (mainly from the sun, although a few systems on the ocean floor exist largely independent from this system) and creating more life. This is called a nonequilibrium process (or nonequilibrium thermodynamics, for the technically inclined), and this concept makes the case that we’d do well to foster as much of this nonequilibrium process as we can. What does this mean in practical terms? Encourage as many plants as possible to harness as much sunlight as possible. Have as many animals as possible consuming both plants and animals. Encourage this system to be as diversified and resilient as possible. In short, this looks like a lot of grass and grazing animals; it does not look like row crops as far as the eye can see, all dependent on unsustainable synthetic chemical inputs. If we pause for a moment and imagine an earth without humans, or the earth before humans, both these scenarios involve a remarkable amount of life. And death.
+We recognize that this is already a long and technical book, but physicist Jeremy England makes an important point in a recent paper. He argues that the purpose of life is to enhance entropy, or the relative disorder in the world or universe. This may be an unsatisfying case for the more spiritually minded, but it has profound implications regardless of one’s religious stance. In the short term, life works against entropy by harnessing the energy around us (mainly from the sun, although a few systems on the ocean floor exist largely independent from this system) and creating more life. This is called a nonequilibrium process (or nonequilibrium thermodynamics, for the technically inclined), and this concept makes the case that we’d do well to foster as much of this nonequilibrium process as we can. What does this mean in practical terms? Encourage as many plants as possible to harness as much sunlight as possible. Have as many animals as possible consuming both plants and animals. Encourage this system to be as diversified and resilient as possible. In short, this looks like a lot of grass and grazing animals; it does not look like row crops as far as the eye can see, all dependent on unsustainable synthetic chemical inputs. If we pause for a moment and imagine an earth without humans, or the earth before humans, both these scenarios involve a remarkable amount of life. And death.
 
 This is an interesting conundrum. On the one hand, some in the antimeat scene suggest that humanity is a blight unto the earth, yet these same people make the case that the more like “us” an organism is (sentience), the more unethical it is to eat it.
 
@@ -93299,13 +93299,6 @@ Eat protein at every meal. I like the simple rule of at least a fistful. • Wat
 
 O camembert tem uma versão chefão chamada Le Rustique. Quando estava na França comprei um desses no mercado e tive que isolar na varanda com tudo fechado, mas depois de passar uma noite inteira de castigo o cheiro só piorou. Pesquisei durante os dias que ele foi estragando apurando que os franceses preferem ele próximo do vencimento, pois ele fica mais macio por dentro, quase líquido (estilo brie mais passado). Porém, o cheiro, meu senhor. O sabor é OK. Tem uma complexidade interessante. Não deu tempo de comer tudo. No último dia perguntei pra anfitriã de onde estávamos hospedados se seria uma boa ideia pegar o trem com este mendigo em forma de queijo. Ela disse que era melhor deixar lá mesmo na geladeira. Levei apenas um pedaço que conseguiria comer caso desse ruim. Boas lembranças do dia que infectei um AirBnB.
 
-# Temperatura e tempos na Airfryer
-2026-01-13 cooking
-
-Batata frita in natura (3 médias): na água por 30 mins, no azeite por 25 mins em 180 graus. Mexa de 5 em 5.
-
-Salmão descongelado (400g): 15 minutos em 200 graus.
-
 # Citas Barcelona
 2026-01-15 cinema series
 
@@ -93329,7 +93322,7 @@ Mas ele não teve pai. Teve duas mães. Quer dizer, uma mãe. A outra, ou outre,
 
 Mas o que é um mastodonte? Fulaninho não sabia. Sua outra mãe que não era mulher, nem mãe, nem humano, também não sabia. Ela… elu gostava da palavra. Soava bonito. Era chamativo: mastodonte. Era algo grande, admirável até. Ou pelo menos em sua imaginação.
 
-Seu nome também foi escolhido dessa forma, mas não era dos mais originais. Fulaninho já estava na moda fazia várias semanas quando suas… seus… enfim, escolheram seu nome. Aparentemente, pelo que Fulaninho tinha conversado com a IA de História, após uma tendência das pessoas darem nomes de pessoas para pets, começou uma nova tendência de dar nomes de animais e coisas para seus filhos humanos (não-pets). Cada vez mais os nomes eram esquisitos. Até que algum influencer despontou com Fulaninho. Foram mais de 7 mil likes em duas horas. Pegou por quase um mês. Nesse mês nascia este Fulaninho, o que queria ser programador das antigas.
+Seu nome também foi escolhido dessa forma, mas não era dos mais originais. Fulaninho já estava na moda fazia várias semanas quando suas... seus... enfim, escolheram seu nome. Aparentemente, pelo que Fulaninho tinha conversado com a IA de História, após uma tendência das pessoas darem nomes de pessoas para pets, começou uma nova tendência de dar nomes de animais e coisas para seus filhos humanos (não-pets). Cada vez mais os nomes eram esquisitos. Até que algum influencer despontou com Fulaninho. Foram mais de 7 mil likes em duas horas. Pegou por quase um mês. Nesse mês nascia este Fulaninho, o que queria ser programador das antigas.
 
 Mas querer uma coisa que não se sabe o que é parece papo de “conspira”. Assim eram chamados os que achavam que havia alguém controlando tudo isso aí. Não entendia muito bem o termo, para falar a verdade. Mas era uma forma de menosprezar a opinião de alguém sem agressividade. Foi proibido agressividade depois que a constituição foi alterada.
 
@@ -93582,9 +93575,9 @@ A depuração é o meu assunto favorito de ciência da computação. Para mim é
 
 Para começar a rodar seu código passo-a-passo comece com o artigo "Guia básico para programadores de primeiro breakpoint". Se estiver usando outro ambiente adapte o que aprendeu para este ambiente. Os conceitos são os mesmos.
 
-Não escrevi muitos posts sobre depuração depuração mesmo. Minha vibe gira mais em torno de descobrir como as coisas funcionam por trás dos panos, o que acaba sendo útil também quando você conhece o código-fonte, mas se transforma em um superpoder quando você descobre que se souber assembly você nem precisa do fontes.
+Não escrevi muitos posts sobre depuração depuração mesmo. Minha vibe gira mais em torno de descobrir como as coisas funcionam por trás dos panos, o que acaba sendo útil também quando você conhece o código-fonte, mas se transforma em um superpoder quando você descobre que se souber assembly você nem precisa dos fontes.
 
-Por isso estou listando posts com um viés mais sobre engenharia reversa do que depuração no sentido acadêmico da coisa. Considero conhecimento fundamental para não perder tempo se intimidando com a entranhas de um sistema. Não será o que você irá mexer sempre, apenas em casos exceptionais, mas te dará mais confiança ao longo do tempo para a depuração com o código-fonte.
+Por isso estou listando posts com um viés mais sobre engenharia reversa do que depuração no sentido acadêmico da coisa. Considero conhecimento fundamental para não perder tempo se intimidando com a entranhas de um sistema. Não será o que você irá mexer sempre, apenas em casos excepcionais, mas te dará mais confiança ao longo do tempo para a depuração com o código-fonte.
 
 E por isso mesmo tenho alguns artigos mais densos utilizando ferramentas mais complexas como WinDbg e IDA. Eu sempre apelo para o WinDbg porque programo para Windows e ele é o depurador definitivo para todos os casos. Ele é mantido pela Microsoft junto do sistema operacional e é possível depurar userland e kernel na mesma ferramenta. Seus comandos não são intuitivos, mas seu poder acaba compensando. Especialmente para reversa :).
 
@@ -93608,7 +93601,7 @@ Antes de saber como desmontar as coisas para descobrir erros ou comportamentos �
 
 - "Engenharia reversa para principiantes"
 
-A partir daí você terá alguns possíveis caminhos a seguir com mais ênfase. Pode se dedicar inteiramente ao baixo nível, mais próximo das entranhas da máquina e do sistema operacional. Eu não tenho muito aqui sobre kernel development, mas a depuração muitas vezes passa pelo kernel mode e assembly. Você pode pular esta série e a seguinte se não preferir se enveredar por caminhos tão escuros.
+A partir daí você terá alguns possíveis caminhos a seguir com mais ênfase. Pode se dedicar inteiramente ao baixo nível, mais próximo das entranhas da máquina e do sistema operacional. Eu não tenho muito aqui sobre kernel development, mas a depuração muitas vezes passa pelo kernel mode e assembly. Você pode pular esta série e a seguinte se preferir não se enveredar por caminhos tão escuros.
 
 - "Aprendendo assembly com o depurador"
 
@@ -93689,7 +93682,7 @@ O padrão era mais complexo, com mais membros e algumas variáveis que mudavam d
 
 Trabalhar com Windows é um exercício de paciência constante. Junto do Visual Studio um treinamento para ser monge. Cada vez mais penso com carinho em meu aprendizado de algumas ferramentas UNIX para conseguir fazer busca e editar arquivos rapidamente. Talvez hoje com a proximidade e compatibilidade entre os dois SOs seja possível uma convivência produtiva de ferramentas feitas originalmente para terminal. O uso de IA também facilita dar alguns primeiros passos mais rápido, como por exemplo saber lidar com projetos do Visual Studio unicamente pelo terminal.
 
-Com base nisso comecei a migrar meu uso diário do Visual Studio para VS Code apenas com a extensão do Vim e linha de comando. A primeira barreira que encontrei foi usar o msbuild para compilar os projetos C++ e suas dependência. Acontece que aqui no trabalho os projetos possuem ponto no nome e o msbuild simplesmente não suporta-os.
+Com base nisso comecei a migrar meu uso diário do Visual Studio para VS Code apenas com a extensão do Vim e linha de comando. A primeira barreira que encontrei foi usar o msbuild para compilar os projetos C++ e suas dependências. Acontece que aqui no trabalho os projetos possuem ponto no nome e o msbuild simplesmente não suporta-os.
 
 Minha primeira tentativa foi usar o arquivo vcxproj diretamente, mas ele depende de outros vcxprojs que o msbuild não encontra, provavelmente por se tratar de um projeto isolado quando executado assim.
 
@@ -93798,7 +93791,7 @@ Caveat: como inserir links em entradas de posts? Talvez usar algum método cru c
 Meu monitor curvo Samsung que ganhei de presente de um amigo estava começando a apresentar falhas de conexão no HDMI e eu precisava ficar desconectando, conectando, abrindo o laptop até que ele conectasse. Decidi voltar para o monitor que havia comprado há um tempo, mais novo que este, da Dell, por recomendação de um amigo. Ele passou um tempo empoeirando em um canto do quartinho. Agora que fiquei acostumado com o monitor curvo ele parece ter uma barriga na frente, como se fosse o oposto do outro. Já tem alguns dias com essa sensação. Eu acho que ele está grávido esperando um tabletzinho.
 
 # Sofrimento
-2026-05-30 now self
+2026-05-30 self
 
 O sofrimento que sentimos neste exato momento é sempre alguma forma de não aceitação, uma forma de resistência inconsciente ao que é. O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado. Enquanto não somos capazes de acessar o Poder do Agora, vamos acumulando resíduos de sofrimento emocional. Esses resíduos se misturam ao sofrimento do passado e se alojam em nossa mente e em nosso corpo. Isso inclui o sofrimento vivido em nossa infância, causado pela falta de compreensão do mundo em que nascemos.
 
@@ -93908,7 +93901,7 @@ Agradeço demais sua citação. Mesmo mais de 20 anos depois não considero meu 
 # Memórias do Subsolo (Fiódor Dostoiévski)
 2026-07-25 clippings
 
-por conta de sua limitação, elas tomam as causas mais próximas e secundárias como se fossem primordiais e, dessa forma, acabam convencidas, de modo mais fácil do que outras pessoas, de que encontraram o fundamento inabalável de sua atividade, e então, pronto, ficam tranquilas; afinal, isso é o mais importante. Como se sabe, para começar a agir, é preciso, antes de tudo, estar perfeitamente tranquilo, e que não reste absolutamente nenhuma dúvida.
+(...) por conta de sua limitação, elas tomam as causas mais próximas e secundárias como se fossem primordiais e, dessa forma, acabam convencidas, de modo mais fácil do que outras pessoas, de que encontraram o fundamento inabalável de sua atividade, e então, pronto, ficam tranquilas; afinal, isso é o mais importante. Como se sabe, para começar a agir, é preciso, antes de tudo, estar perfeitamente tranquilo, e que não reste absolutamente nenhuma dúvida.
 
 Repito, e repito com ênfase: todas as pessoas práticas e de ação, todas elas, são tolas e limitadas porque são pessoas de ação. Como isso se explica? Da seguinte maneira: por conta de sua limitação, elas tomam as causas mais próximas e secundárias como se fossem primordiais e, dessa forma, acabam convencidas, de modo mais fácil do que outras pessoas, de que encontraram o fundamento inabalável de sua atividade, e então, pronto, ficam tranquilas; afinal, isso é o mais importante. Como se sabe, para começar a agir, é preciso, antes de tudo, estar perfeitamente tranquilo, e que não reste absolutamente nenhuma dúvida.
 
@@ -93924,9 +93917,9 @@ Afinal, se não é para o público, então, eu não poderia apenas recordar tudo
 
 Por alguma razão, eu acredito que, se eu escrever essa recordação, ela vai acabar se desprendendo de mim. Então, por que não experimentar?
 
-O oficial tinha uns dez verchok de altura;5 já eu sou baixinho e franzino.
+O oficial tinha uns dez verchok de altura; já eu sou baixinho e franzino.
 
-No seu último ano em nossa escola, ganhou duzentas almas de herança17
+No seu último ano em nossa escola, ganhou duzentas almas de herança.
 
 Entre nós, aliás, apesar das fantásticas e palavrosas formas exteriores de honestidade e honra, todos, com bem poucas exceções, chegavam a bajular Zvierkov, e tanto mais bajulavam quanto mais ele se mostrava fanfarrão. E não era em troca de qualquer vantagem que o bajulavam, mas só por ele ser uma pessoa favorecida pelos dons da natureza.
 
@@ -93941,3 +93934,13 @@ Eu mesmo começava a sentir aquilo que estava dizendo e fui me empolgando. Eu j�
 Você nem vai conseguir mais pedir água e, quando lhe derem água, vão praguejar contra você: “Quando é que vai esticar as canelas de uma vez, sua desgraçada; está atrapalhando o sono dos outros, fica gemendo e os fregueses sentem nojo”. É assim mesmo; eu já ouvi essas palavras. Vão pegar você agonizante e meter no canto mais fedorento do porão, mais escuro, mais úmido; estirada lá, sozinha, o que é que você vai poder pensar? Vai morrer, e então mãos estranhas tratarão de arrumar você às pressas, entre resmungos, com impaciência, ninguém vai aparecer para dar uma bênção, ninguém vai dar um suspiro por você, cuidarão apenas de tirar logo esse peso das costas. Vão comprar um caixote qualquer, carregar como carregaram hoje aquela coitada e, depois, vão comemorar na taberna. Dentro da cova, lama, sujeira, neve molhada… não vai ser por você que vão ficar de cerimônia, não é? “Baixa logo ela de uma vez, Vaniukha; que desgraceira, até aqui essazinha fica com as pernas para cima. Puxa direito essas cordas aí, seu moleque.” “Desse jeito já está bom.” “Que bom o quê. Ela está virada de lado. Também era um ser humano, não era? Bom, então deixa assim mesmo, joga logo a terra.” E nem vão querer ficar muito tempo praguejando por sua causa. Vão despejar de uma vez o barro encharcado e azul e voltar logo para a taberna… E esse é o fim da sua memória no mundo; para os outros túmulos, virão os filhos, os pais, os maridos, mas para o seu, nem lágrimas nem soluços nem lembranças, e ninguém, ninguém nunca no mundo inteiro virá à sua sepultura, seu nome vai desparecer da face da terra, como se você nunca tivesse existido ou mesmo nascido!
 
 “Bem, azar, não há de ser nada, pode vir. Hum. Já é detestável o simples fato de Liza ver como eu vivo, por exemplo. Ontem, eu me apresentei diante dela como… um herói… E agora, hum? Aliás, é mesmo detestável que eu tenha me rebaixado tanto. O apartamento está uma verdadeira miséria. E ontem fui ao jantar naqueles trajes! E esse meu sofá encapado de lona encerada, com o estofo que espirra pelos buracos! E meu roupão, que não dá nem para me cobrir! Que farrapos… E ela vai ver tudo isso; e também vai ver o Apollon. Esse animal vai ofender Liza, com certeza. Vai criar caso com ela, só para me fazer uma grosseria. E eu, é claro, vou me acovardar, como de hábito, vou começar a andar para lá e para cá diante dela, em passinhos miúdos, ficarei fechando as abas do meu roupão, vou ficar sorrindo, vou começar a mentir. Ah, que horror! Mas o horror mesmo nem está nisso! Ainda há algo mais importante, mais nojento, mais canalha! Sim, mais canalha! De novo, de novo, vou ter de usar aquela máscara desonesta, mentirosa!…”
+
+# Silo
+2026-09-05 books
+
+Eles tinham chegado até ali porque, em algum nível insano, queriam estar ali. Tudo o que restava era a curiosidade. O mistério do mundo exterior além do véu projetado nas telas das paredes.
+
+# Tempo e passado
+2026-09-05 self
+
+O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado.
