@@ -9953,12 +9953,6 @@ Também desconhecia esse detalhe de implementação desses sistemas. Valeu a dic
 
 []s
 
-
-# A essência do zen
-2008-02-27 quotes self now
-
-A essência do zen consiste em caminhar sobre o fio da navalha do Agora. Eckhart Tolle (O Poder do Agora, 1997).
-
 # Conversor de Houaiss para Babylon - parte 1
 2008-02-27 blog
 
@@ -39010,7 +39004,7 @@ Ainda assim, há muitas virtudes em O Mordomo de Preto que são deixadas de lado
 De certa forma, O Mordomo de Preto homenageia a comédia do absurdo sem ser engraçado, a ação pastelona sem criar tensão, e o drama surreal sem fazer chorar. Enfim, um trabalho artisticamente vazio, embora plasticamente impecável.
 
 # O Poder do Agora
-2025-07-05 books self now
+2025-07-05 books
 
 "Embora eu continuasse vivendo normalmente, tinha percebido que nada que eu viesse a fazer poderia mudar realmente a minha vida. Eu já tinha tudo de que necessitava."
 
@@ -39022,33 +39016,33 @@ O primeiro exercício que ele pede que se faça é "observar o pensador", essa v
 
 A essência da tão ambicionada meditação, segundo ele, é apenas criar esse espaço de mente vazia, ficando assim extremamente alerta e consciente. A partir desse estado de extrema consciência no presente não existem problemas, apenas situações que podem ser gerenciadas facilmente, pois agora não são apenas projeções mentais de um tempo e espaço inatingíveis: estão bem na nossa frente. E mesmo assim, a situação existe no tempo, enquanto a nossa vida é agora. Enquanto a situação de vida continua sendo uma coisa da mente, a nossa vida é muito mais: é real.
 
-# Dogmas
-2007-08-01 quotes self now
+## Recortes
 
-Os dogmas são prisões formadas por conceitos coletivos. Tolle, Eckhart (O Poder do Agora, 1997).
+### A essência do zen
 
-# Preconceito
-2007-09-01 quotes self now
+A essência do zen consiste em caminhar sobre o fio da navalha do Agora.
 
-Reduzir uma pessoa a um conceito já é uma forma de violência. Tolle, Eckhart (O Poder do Agora, 1997).
+### Dogmas
 
-# Tédio
-2007-10-01 quotes self now
+Os dogmas são prisões formadas por conceitos coletivos.
 
-O tédio é um movimento de energia condicionada dentro de você. Tolle, Eckhart (O Poder do Agora, 1997).
+### Preconceito
 
-# Responsabilidade
-2007-11-01 quotes self now
+Reduzir uma pessoa a um conceito já é uma forma de violência.
 
-Assumir responsabilidade por este momento é estar em harmonia com a vida. Tolle, Eckhart (O Poder do Agora, 1997).
+### Tédio
 
-# Fazer
-2007-12-01 quotes self now
+O tédio é um movimento de energia condicionada dentro de você.
 
-O fazer é igual ao acontecer. Tolle, Eckhart (O Poder do Agora, 1997).
+### Responsabilidade
 
-# Alquimia
-2008-01-01 quotes self now
+Assumir responsabilidade por este momento é estar em harmonia com a vida.
+
+### Fazer
+
+O fazer é igual ao acontecer.
+
+### Alquimia
 
 Capte o interior e ele vira exterior.
 
@@ -39056,43 +39050,31 @@ A realidade principal está no interior: mantenha-o limpo.
 
 Torne-se um alquimista: transforma o metal em ouro, o sofrimento em consciência, a infelicidade em iluminação.
 
-Tolle, Eckhart (O Poder do Agora, 1997).
+### Emoção
 
-# Emoção
-2008-02-01 quotes self now
+A emoção nasce onde a mente e o corpo se encontram.
 
-A emoção nasce onde a mente e o corpo se encontram. Tolle, Eckhart (O Poder do Agora, 1997).
-
-# Conhecer a mente
-2008-03-01 quotes self now
+### Conhecer a mente
 
 Se quisermos conhecer mesmo a nossa mente, o corpo sempre nos dará um reflexo confiável.
 
 Quando estamos presentes, podemos permitir que a mente seja como é, sem nos deixar enredar por ela.
 
-Tolle, Eckhart (O Poder do Agora, 1997).
+### Reflexo
 
-# Reflexo
-2008-04-01 quotes self now
+O padrão do pensamento cria um reflexo amplificado de si mesmo.
 
-O padrão do pensamento cria um reflexo amplificado de si mesmo. Tolle, Eckhart (O Poder do Agora, 1997).
-
-# Sofrimento
-2008-05-01 quotes self now
+### Sofrimento
 
 Quanto mais a mente tenta se livrar do sofrimento, mais ele aumenta.
 
 A Consciência transforma o sofrimento nele mesmo.
 
-Tolle, Eckhart (O Poder do Agora, 1997).
+### Nada importa
 
-# Nada importa
-2008-06-01 quotes self now
+Tudo inspira respeito, mas nada importa.
 
-Tudo inspira respeito, mas nada importa. Tolle, Eckhart (O Poder do Agora, 1997).
-
-# Corpo
-2008-07-01 quotes self now
+### Corpo
 
 Onde quer que você esteja, esteja lá por inteiro.
 
@@ -39108,24 +39090,17 @@ Em um organismo que funciona perfeitamente, uma emoção tem vida curta.
 
 Quanto mais consciência tivermos do corpo, mais forte se torna o sistema imunológico.
 
-Tolle, Eckhart (O Poder do Agora, 1997).
-
-# Perdão
-2008-08-01 quotes self now
+### Perdão
 
 No momento em que você perdoar, terá retomado o poder que estava na mente.
 
 Perdoe a si mesmo por não estar em paz.
 
-Tolle, Eckhart (O Poder do Agora, 1997).
+### Serenidade
 
-# Serenidade
-2008-09-01 quotes self now
+Tome consciência da serenidade; quando você voltar ao pensamento, ele será novo e criativo.
 
-Tome consciência da serenidade; quando você voltar ao pensamento, ele será novo e criativo. Tolle, Eckhart (O Poder do Agora, 1997).
-
-# Não Manifesto
-2008-10-01 quotes self now
+### Não Manifesto
 
 É possível ficar consciente do Não Manifesto em todas as ocasiões.
 
@@ -39137,15 +39112,11 @@ A paralisação do pensamento é um portal para o Não Manifesto.
 
 A entrega é um portal para o Não Manifesto.
 
-Tolle, Eckhart (O Poder do Agora, 1997).
+### Vício
 
-# Vício
-2008-11-01 quotes self now
+Todo vício começa e termina no sofrimento.
 
-Todo vício começa e termina no sofrimento. Tolle, Eckhart (O Poder do Agora, 1997).
-
-# O Mundo
-2008-12-01 quotes self now
+### O Mundo
 
 É através de você que a sanidade consegue chegar a este mundo.
 
@@ -39157,111 +39128,141 @@ Somente aqueles que transcenderam o mundo conseguem criar um mundo melhor.
 
 Você eliminará a inconsciência do mundo.
 
-Tolle, Eckhart (O Poder do Agora, 1997).
-
-# Comunicação
-2009-01-01 quotes self now
+### Comunicação
 
 Dê ao parceiro espaço para se expressar.
 
 Seus relacionamentos mudam profundamente através da entrega.
 
-Tolle, Eckhart (O Poder do Agora, 1997).
+### Estranheza
 
-# Estranheza
-2009-02-01 quotes self now
+Até certo ponto, ser uma pessoa estranha tira você da inconsciência quase que à força.
 
-Até certo ponto, ser uma pessoa estranha tira você da inconsciência quase que à força. Tolle, Eckhart (O Poder do Agora, 1997).
+### Descanso
 
-# Descanso
-2009-03-01 quotes self now
+Nossa energia física também está sujeita a ciclos.
 
-Nossa energia física também está sujeita a ciclos. Tolle, Eckhart (O Poder do Agora, 1997).
+### Não Resistência
 
-# Não Resistência
-2009-04-01 quotes self now
+Não oferecer resistência à vida é estar em estado de graça.
 
-Não oferecer resistência à vida é estar em estado de graça. Tolle, Eckhart (O Poder do Agora, 1997).
+### Dependência
 
-# Dependência
-2009-05-01 quotes self now
+Com o desaparecimento da dependência não há mais medo de perdas.
 
-Com o desaparecimento da dependência não há mais medo de perdas. Tolle, Eckhart (O Poder do Agora, 1997).
+### Máscaras
 
-# Máscaras
-2009-06-01 quotes self now
+Qualquer mudança que você faça é apenas uma máscara.
 
-Qualquer mudança que você faça é apenas uma máscara. Tolle, Eckhart (O Poder do Agora, 1997).
+### Estado
 
-# Estado
-2009-07-01 quotes self now
+Não busque nenhum outro estado além daquele em que você está agora.
 
-Não busque nenhum outro estado além daquele em que você está agora. Tolle, Eckhart (O Poder do Agora, 1997).
+### Irritação
 
-# Irritação
-2009-08-01 quotes self now
+A mais leve irritação é significativa e precisa ser conhecida e observada.
 
-A mais leve irritação é significativa e precisa ser conhecida e observada. Tolle, Eckhart (O Poder do Agora, 1997).
+### Transparente
 
-# Transparente
-2009-09-01 quotes self now
+Descarte uma reação negativa deixando tudo passar através de você.
 
-Descarte uma reação negativa deixando tudo passar através de você. Tolle, Eckhart (O Poder do Agora, 1997).
+### Futuro
 
-# Futuro
-2009-11-01 quotes self now
+A qualidade da sua consciência determina o futuro que você vai viver.
 
-A qualidade da sua consciência determina o futuro que você vai viver. Tolle, Eckhart (O Poder do Agora, 1997).
+### Fazer nada
 
-# Fazer nada
-2009-12-01 quotes self now
+O verdadeiro “fazer nada” implica uma não resistência interior e um intenso estado de alerta.
 
-O verdadeiro “fazer nada” implica uma não resistência interior e um intenso estado de alerta. Tolle, Eckhart (O Poder do Agora, 1997).
-
-# Rotina
-2010-01-01 quotes self now
+### Rotina
 
 A mente se apega ao que lhe é familiar.
 
 A escolha começa no instante em que nos desidentificamos da mente e de seus padrões condicionados (“Perdoai-os, porque eles não sabem o que fazem”).
 
-Tolle, Eckhart (O Poder do Agora, 1997).
+### Árvore
 
-# Árvore
-2010-02-01 quotes self now
+Ao se concentrar no presente, pôde perceber uma árvore sem o enquadramento da mente. A mente não pode conhecer a árvore. Só o Ser conhece diretamente.
 
-Ao se concentrar no presente, pôde perceber uma árvore sem o enquadramento da mente. A mente não pode conhecer a árvore. Só o Ser conhece diretamente. Tolle, Eckhart (O Poder do Agora, 1997).
+### Aceite
 
-# Aceite
-2010-03-01 quotes flow
+Aceite, depois aja. O que quer que o momento atual contenha, aceite-o como uma escolha sua. Trabalhe sempre com ele, não contra. Torne-o um amigo e aliado, não seu inimigo. Isso transformará toda a sua vida, como por milagre.
 
-Aceite, depois aja. O que quer que o momento atual contenha, aceite-o como uma escolha sua. Trabalhe sempre com ele, não contra. Torne-o um amigo e aliado, não seu inimigo. Isso transformará toda a sua vida, como por milagre. Tolle, Eckhart (O Poder do Agora, 1997).
+### O Reino da Consciência
 
-# A voz
-2010-04-01 quotes self now
+O Reino da Consciência é mais vasto do que o pensamento é capaz de abranger.
 
-Perceba que a voz existe e que não é você. Liberdade é reconhecer-se como a consciência por trás da voz. Eckhart Tolle (O Poder do Silêncio, 2004).
+### Padrões de pensamento
 
-# Momento seguinte
-2010-05-01 quotes self now
+Em geral, não temos consciência de todos os nossos padrões de pensamento. Só é possível trazê-los à consciência quando observamos nossas emoções.
 
-Abandone o padrão da mente auto centrada ao perceber que está vivendo para o momento seguinte. Eckhart Tolle (O Poder do Silêncio, 2004).
+### Dar atenção à ação em si
 
-# Transformação
-2010-06-01 quotes self now
+Verifique se você pode dar muito mais atenção ao fazer do que ao resultado desejado através do fazer.
 
-Apenas testemunhe seu estado interior: a transformação e a liberdade virão. Eckhart Tolle (O Poder do Silêncio, 2004).
+Portanto, não se preocupe com o resultado da sua ação, basta dar atenção à ação em si. O resultado surgirá espontaneamente. Essa é uma valiosa prática espiritual. No Bhagavad Gita, um dos mais antigos e mais belos ensinamentos espirituais que existem, o desapego ao resultado da ação é chamado Karma Yoga. É descrito como o caminho da “ação santificada”.
 
-# Religião
-2010-07-01 quotes self now
+Na ausência do tempo psicológico, o nosso sentido do eu interior provém do Ser, não do nosso passado pessoal. Assim, desaparece a necessidade psicológica de nos tornarmos uma outra pessoa diferente de quem já somos.
+
+Torne-o consciente. Observe as muitas maneiras pelas quais o desconforto, o descontentamento e a tensão surgem dentro de você, através de julgamentos desnecessários, resistência àquilo que é e negação do Agora.
+
+Habitue-se a monitorar o seu estado mental e emocional através de uma auto-observação. “Estou me sentindo à vontade neste momento?” é uma pergunta que você deve se fazer com frequência. Ou pode se questionar: “O que está acontecendo dentro de mim neste exato momento?”
+
+Dê uma boa olhada dentro de você. Existe algum leve traço de ressentimento ou má vontade? Se existe, observe-o, tanto no nível mental quanto no emocional. Que tipos de pensamentos a sua mente está criando em torno dessa situação? Depois, observe a sua emoção, que é a reação do corpo a esses pensamentos.
+
+Os mestres zen usam a palavra satori para descrever um momento de insight, um momento de mente vazia e presença total.
+
+Como vivemos em uma cultura dominada pela mente, a maior parte da arte moderna, da arquitetura, da música e da literatura é desprovida de beleza, de essência interior, com raras exceções. A razão é que as pessoas que criam essas obras não conseguem livrar-se das suas mentes, nem mesmo por um momento.
+
+Portanto, nunca estão em contato com aquele lugar interior onde se originam a verdadeira criatividade e a beleza.
+
+Você se apoderou de uma fração de um processo dinâmico, uma dança molecular, e fez dela uma entidade separada.
+
+A atenção é a chave para a transformação, e isso também envolve aceitação. A atenção é como um raio de luz: o poder concentrado da consciência que transforma tudo nela própria.
+
+### O corpo interior
+
+O corpo interior está na fronteira entre a forma e a essência, que é a sua verdadeira natureza. Nunca perca o contato com ele.
+
+### Sofrimento
+
+O sofrimento que sentimos neste exato momento é sempre alguma forma de não aceitação, uma forma de resistência inconsciente ao que é. O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado. Enquanto não somos capazes de acessar o Poder do Agora, vamos acumulando resíduos de sofrimento emocional. Esses resíduos se misturam ao sofrimento do passado e se alojam em nossa mente e em nosso corpo. Isso inclui o sofrimento vivido em nossa infância, causado pela falta de compreensão do mundo em que nascemos.
+
+Todo esse sofrimento cria um campo de energia negativa que ocupa a mente e o corpo. Qualquer coisa pode ativá-lo, especialmente se encontrar ressonância em um padrão de sofrimento do passado. Eles podem atacar tanto as pessoas à nossa volta quanto a nós mesmos, seus “hospedeiros”.
+
+Preste atenção a qualquer sinal de infelicidade em você, qualquer que seja a forma, pois talvez seja o despertar do sofrimento. Ele pode se manifestar como uma irritação, um sinal de impaciência, um ar sombrio, um desejo de ferir, sentimentos de raiva, ira, depressão ou uma necessidade de criar algum tipo de problema em seus relacionamentos. Agarre o sinal no momento em que ele despertar de seu estado inativo.
+
+Manter-se em um estado de alerta consciente destrói a ligação entre o sofrimento e o mecanismo do pensamento, e aciona o processo de transformação. É como se o sofrimento se tornasse o combustível para a chama da consciência, resultando em um brilho de mais intensidade. Esse é o significado esotérico da antiga arte da alquimia: a transformação do metal não precioso em ouro, do sofrimento em consciência.
+
+O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado. Enquanto não somos capazes de acessar o Poder do Agora, vamos acumulando resíduos de sofrimento emocional. Esses resíduos se misturam ao sofrimento do passado e se alojam em nossa mente e em nosso corpo. Isso inclui o sofrimento vivido em nossa infância, causado pela falta de compreensão do mundo em que nascemos. Todo esse sofrimento cria um campo de energia negativa que ocupa a mente e o corpo. Qualquer coisa pode ativá-lo, especialmente se encontrar ressonância em um padrão de sofrimento do passado.
+
+Ele sobrevive graças à nossa identificação inconsciente com ele, assim como ao medo inconsciente de enfrentarmos o sofrimento que vive dentro de nós. Mas se não o enfrentarmos, se não direcionarmos a luz da nossa consciência para o sofrimento, seremos forçados a revivê-lo. Manter-se em um estado de alerta consciente destrói a ligação entre o sofrimento e o mecanismo do pensamento, e aciona o processo de transformação. É como se o sofrimento se tornasse o combustível para a chama da consciência, resultando em um brilho de mais intensidade. Esse é o significado esotérico da antiga arte da alquimia: a transformação do metal não precioso em ouro, do sofrimento em consciência.
+
+### Tempo e passado
+
+O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado.
+
+## Recortes de O Poder do Silêncio
+
+### A voz
+
+Perceba que a voz existe e que não é você. Liberdade é reconhecer-se como a consciência por trás da voz.
+
+### Momento seguinte
+
+Abandone o padrão da mente auto centrada ao perceber que está vivendo para o momento seguinte.
+
+### Transformação
+
+Apenas testemunhe seu estado interior: a transformação e a liberdade virão.
+
+### Religião
 
 Você precisa da natureza como sua mestra para ajudar a religar-se com o Ser.
 
 Esquecemos o que as pedras, as plantas e os animais ainda sabem.
 
 Você é o conhecimento, a consciência através da qual tudo é conhecido.
-
-Eckhart Tolle (O Poder do Silêncio, 2004).
 
 # Enquanto Somos Jovens
 2015-07-03 movies
@@ -50070,7 +50071,7 @@ Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os apl
 
 
 # Mastery: The Keys to Success and Long-Term Fulfillment
-2017-03-14 books self
+2017-03-14 books
 
 O livro de George Leonard é um curto e didático passeio através dos mistérios que tornam o ser humano cada vez mais habituado ao seu "eudaimonia" aristotélico, ou seja, o estado de plenitude do ser que está ao alcance de todos que se derem a liberdade da melhora contínua em qualquer coisa que fizermos nesse mundo.
 
@@ -51013,7 +51014,7 @@ E por falar em pesado, este é um filme que encontrou um uso extremamente podero
 Ozon se aproxima de Lubitsch quando resolve discutir ideias grandiosas, ainda que por trás de uma história intimista e familiar. Ele se distingue quando resolve trilhar o caminho das abstrações, dos pontos de vista e do jogo de expectativas de seus personagens. Se existe também um mundo particular onde ocorrem as histórias dirigidas por Ozon, garanto que lá, diferente da "Lubitschland", são permitidas ironias e maldades. O que torna tudo muito mais pesado, é claro, mas muito mais humano.
 
 # Os Axiomas de Zurique
-2017-05-28 books self quotes
+2017-05-28 books
 
 A primeira coisa que se aprende de verdade quando se fala em finanças pessoais é que tudo é especulação. Isso você aprende em um livrinho que li há muito tempo atrás. Li vários desses de finanças na minha "fase investidor", antes de programar para o mercado financeiro, mas o inesperadamente mais útil de todos, que li e reli incontáveis vezes, foi Axiomas de Zurique. E ele é um livrinho pequeno, de bolso e de ficção, que conta alguns causos divertidos e joga algumas noções que vão contra tudo e contra todos os conselhos mais reafirmados de toda a história de Wall Street. No entanto, são geralmente esses conselhos que fazem mais sentido na hora que os sinos dobram. Aqui vai a lista dos axiomas, em um parágrafo só, zipado, concentrado e poderoso:
 
@@ -60715,7 +60716,7 @@ O maior problema é o roteiro, que tenta explorar complexidades demais em seis e
 Em tempo: Wanderlust tem uma bela fotografia cinzenta com uma direção estilizada que torna a experiência esteticamente agradável. Una isso a atuações acima da média das produções Netflix e você tem um conteúdo assistível do começo ao fim. Mesmo que tudo vá caminhando ladeira abaixo.
 
 # 12 Regras Para a Vida, por Jordan Peterson
-2018-12-30 books self
+2018-12-30 books
 
 12 Regras para a Vida, como o nome indica, é um livro de auto-ajuda, mas diferente do que você poderia esperar. Livros de auto-ajuda que usam o exemplo de vida do autor servem como guia apenas para... er... o autor. Já o livro do psicólogo/filósofo Jordan Peterson utiliza a sabedoria das narrativas antigas, dos usos e costumes das sociedades, aliado ao que a ciência já descobriu sobre nossa espécie para chegar a um denominador comum de quais são as regras mais valiosas para se viver uma vida significativa. Ah, sim, Peterson está menos preocupado com viver feliz do que viver com significado. "Precisamos de regras; quaisquer regras". Esse livro é a tentativa de elencar as melhores.
 
@@ -61678,7 +61679,7 @@ Através desse modo de pensar é possível chegar a conclusões que fogem do pad
 Um dos textos que me chamou a atenção foi um diálogo fictício entre duas pessoas -- uma vegana e outra onívora -- em que eles discutem por alguns dias a ética animal. Essa é uma tentativa de defesa de Huemer pelo não-consumo de carne e derivados animais (leite, ovos, etc) e usa uma conversa informal justamente para abordar esse tema de maneira mais leve e ponderada. Você nunca irá encontrar pessoas que conversem tão educadamente sobre esse tema na vida real, e é por isso que esse texto vale ouro:
 
 # On Writing Well
-2019-02-03 books self
+2019-02-03 books
 
 On Writing Well de William Zinsser é considerado por muitos do Hackers News como uma ótima referência para se escrever bem não-ficção. Tenho minhas dúvidas. Mas justiça seja feita, o livro parece um Syd Field (Screenplay) para não-ficção, cheio de guidelines que podem auxiliar o escritor ainda amador tentando se profissionalizar e impressionar alguns editores por aí.
 
@@ -63034,9 +63035,11 @@ Dito isto, assiti-lo é uma experiência simpática, mas nunca empolgante. Sabem
 Mas não espere uma grande história. Eu sei que duas décadas depois de começarmos a assistir pessoas fantasiadas voando é fácil pedir isso. Há muitos milhões investidos para alguém tentar inovar alguma coisa. Eu nem sei por que vou ao cinema para essa experiência. Saudosismo do Homem Aranha, talvez. Ou porque a pipoca costuma compensar. Mas ela anda tão cara...
 
 # The ONE Thing
-2019-04-12 books self quotes
+2019-04-12 books
 
 The ONE Thing é um livro que comecei a ler inspirado na dica do Robin Wieruch, que já leu um ou dois livros que eu também já li. Este é um clássico da auto-ajuda empresarial e começa ensinando umas poucas e boas para o leitor comum, mas é particularmente inspirador para quem já sabe que as lições de Gary Keller servem mais para ele do que para qualquer outro ser humano no planeta.
+
+## Recortes
 
 "Going small" is ignoring all the things you could do and doing what you should do.
 
@@ -63838,75 +63841,89 @@ int main()
 
 
 # Deep Work => Flow
-2019-05-09 self flow
+2019-05-09
 
-(Deep Work) => Flow - A proven Path to Satisfaction, de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu On Writing Well (ele possui algumas notas sobre essa leitura também).
+"(Deep Work) => Flow - A proven Path to Satisfaction", de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu On Writing Well (ele possui algumas notas sobre essa leitura também).
 
 "Flow graph"
 
-- Professional activities performed in a state of distraction-free concentration that push you cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
+## Recortes
 
-- Flow can be produced by small things that cause active enjoyment rather than passive pleasure.
+Professional activities performed in a state of distraction-free concentration that push you cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
 
-- The flow session, that can be supported by deep work, has an impact on our self. The self grows with each challenge and with each opportunity we can improve ourselves as human being. The improvements of the self and the fulfilled activities on the way can lead to a satisfied and meaningful life.
+Flow can be produced by small things that cause active enjoyment rather than passive pleasure.
 
-- "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive."
+The flow session, that can be supported by deep work, has an impact on our self. The self grows with each challenge and with each opportunity we can improve ourselves as human being. The improvements of the self and the fulfilled activities on the way can lead to a satisfied and meaningful life.
 
-- Whenever you repeat something, a circuit in the brain will fire oftentimes and strengthen the skill like a muscle in your brain. You improve your self.
+The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
 
-- He sees the solution in becoming independent of external rewards. These rewards have to be substituted for internal rewards. For instance, life long learning, achieving worthwhile challenges or the fulfillment in helping others. Only then a human being is in full control of the self. In full control of happiness and sadness.
+Whenever you repeat something, a circuit in the brain will fire oftentimes and strengthen the skill like a muscle in your brain. You improve your self.
 
-- You need to use an "arsenal of routines and rituals designed with the science of limited willpower in mind to maximize the amount of deep work". Smart routines make it possible to make less decisions and to do less balancing of different tasks.
+He sees the solution in becoming independent of external rewards. These rewards have to be substituted for internal rewards. For instance, life long learning, achieving worthwhile challenges or the fulfillment in helping others. Only then a human being is in full control of the self. In full control of happiness and sadness.
 
-- The journalistic philosophy is the last and most advanced philosophy. In that approach you can rapidly switch between shallow to deep work. Yet we know that a disadvantage of multitasking is the usage of our finite willpower. That's why the approach is only for advanced deep workers. Cal Newport says that "[it] require[s] a sense of confidence in your work." and that "[it] requires a conviction that what you are doing is important and will succeed". You can support the philosophy by preparing your deep work schedule in advance. It will help you to preserve your willpower.
+You need to use an "arsenal of routines and rituals designed with the science of limited willpower in mind to maximize the amount of deep work". Smart routines make it possible to make less decisions and to do less balancing of different tasks.
 
-- Whenever you are going deep, you have to ritualize it. There are 3 basics to assist your deep work session: time, support and metrics.
+The journalistic philosophy is the last and most advanced philosophy. In that approach you can rapidly switch between shallow to deep work. Yet we know that a disadvantage of multitasking is the usage of our finite willpower. That's why the approach is only for advanced deep workers. Cal Newport says that "[it] require[s] a sense of confidence in your work." and that "[it] requires a conviction that what you are doing is important and will succeed". You can support the philosophy by preparing your deep work schedule in advance. It will help you to preserve your willpower.
 
-- You can operate similar to a business. For instance, imagine a software product that gets an additional feature. The team will come up with a minimum viable product (MVP) for the feature. But the MVP needs planning. A MVP has by definition a minimum yet valuable outcome. The same planning you would need for your own outcome. You have to "identify a small number of ambitious outcomes".
+Whenever you are going deep, you have to ritualize it. There are 3 basics to assist your deep work session: time, support and metrics.
 
-- I can recommend to read the book The One Thing by Gary Keller. It gives a clear guidance how you can deploy short term objectives that contribute to long term goals.
+You can operate similar to a business. For instance, imagine a software product that gets an additional feature. The team will come up with a minimum viable product (MVP) for the feature. But the MVP needs planning. A MVP has by definition a minimum yet valuable outcome. The same planning you would need for your own outcome. You have to "identify a small number of ambitious outcomes".
 
-- To track progress enables you to gather feedback about your efforts. Are you on track? Did you have a bad week? Maybe it is time to recalibrate your efforts based on the feedback.
+I can recommend to read the book The One Thing by Gary Keller. It gives a clear guidance how you can deploy short term objectives that contribute to long term goals.
 
-- The attention restoration theory (ART) claims that directed attention is a finite resource. If it exhausts, you will struggle to concentrate. It can be seen quite similar to the finite amount of willpower. The conclusion is that your deep work time per day is limited.
+To track progress enables you to gather feedback about your efforts. Are you on track? Did you have a bad week? Maybe it is time to recalibrate your efforts based on the feedback.
 
-- You need time to rest. Therefore you can deploy productive meditations - that's how Cal Newport calls it - where you do physical work (fitness workout, house cleaning) and no mental work. Apart from that research says that spending time in nature improves your ability to concentrate.
+The attention restoration theory (ART) claims that directed attention is a finite resource. If it exhausts, you will struggle to concentrate. It can be seen quite similar to the finite amount of willpower. The conclusion is that your deep work time per day is limited.
 
-- End your day with a Shutdown Ritual
+You need time to rest. Therefore you can deploy productive meditations - that's how Cal Newport calls it - where you do physical work (fitness workout, house cleaning) and no mental work. Apart from that research says that spending time in nature improves your ability to concentrate.
 
-- the Zeigarnik Effect . It is "the ability of incomplete tasks to dominate our attention". You unconscious mind might help you to solve a problem until your next workday starts (Take a Nap).
+End your day with a Shutdown Ritual
 
-- Give your goals a hard deadline that is lesser than your estimated time. The shallow work will become dispensable when you have less time for the task at hand.
+the Zeigarnik Effect . It is "the ability of incomplete tasks to dominate our attention". You unconscious mind might help you to solve a problem until your next workday starts (Take a Nap).
 
-- Research shows that a trained memory improves your ability to concentrate.
+Give your goals a hard deadline that is lesser than your estimated time. The shallow work will become dispensable when you have less time for the task at hand.
 
-- The schedule can be used to guide your working day. However you shouldn't forcefully stick to the schedule. It should only guide you, but you can adjust it during the day. It should leave opportunities for improvisation and encourage spontaneity.
+Research shows that a trained memory improves your ability to concentrate.
 
-- Deep work can be used as a technique to get into a state of flow. The state of flow can be your path in life to accomplish happiness, to be in control of your life and to be independent of social rewards. It can also be your path to accomplish challenges in your professional life.
+The schedule can be used to guide your working day. However you shouldn't forcefully stick to the schedule. It should only guide you, but you can adjust it during the day. It should leave opportunities for improvisation and encourage spontaneity.
 
-- Without consciousness we would know what happens around us, but we couldn't give it any value.
+Deep work can be used as a technique to get into a state of flow. The state of flow can be your path in life to accomplish happiness, to be in control of your life and to be independent of social rewards. It can also be your path to accomplish challenges in your professional life.
 
-- A person can make himself happy regardless of the circumstances surrounding him. It depends on the direction of your attention.
+Without consciousness we would know what happens around us, but we couldn't give it any value.
 
-- "After each episode of flow a person becomes more of a unique individual, less predictable, possessed of rarer skills". The self can grow when there is order in consciousness.
+A person can make himself happy regardless of the circumstances surrounding him. It depends on the direction of your attention.
 
-- Mihaly Csikszentmihalyi sees enjoyment as another component in our life. Enjoyment, in contrast to pleasure, can generate a flow experience. For instance, you can eat food with pleasure, because it is a need of your body. Or you can eat food with enjoyment. Mihaly takes a gourmet as an example for a person who enjoys to eat. The gourmet understands each ingredient in a meal and can focus attention to its different sensations. It is an accomplishment to bring up the attention and to experience the diversities in a meal.
+After each episode of flow a person becomes more of a unique individual, less predictable, possessed of rarer skills". The self can grow when there is order in consciousness.
 
-- It can happen in a competition too. The challenge can be an enjoyment. But only when you concentrate on the activity itself rather than beating your opponent or impressing the audience. The self will grow only when you want to perfect a skill rather than earning external rewards. It is when "the person is paying attention to the activity for its own sake; when it is not, the attention is focused on its consequences".
+Mihaly Csikszentmihalyi sees enjoyment as another component in our life. Enjoyment, in contrast to pleasure, can generate a flow experience. For instance, you can eat food with pleasure, because it is a need of your body. Or you can eat food with enjoyment. Mihaly takes a gourmet as an example for a person who enjoys to eat. The gourmet understands each ingredient in a meal and can focus attention to its different sensations. It is an accomplishment to bring up the attention and to experience the diversities in a meal.
 
-- The state of flow leaves no space for disorder in consciousness. It removes the awareness of the daily life, your worries and dreams, and you lose the sense of your self. The time in and after the state of flow can be seen as paradox. The self doesn't grow during the flow session itself, but after it.
+It can happen in a competition too. The challenge can be an enjoyment. But only when you concentrate on the activity itself rather than beating your opponent or impressing the audience. The self will grow only when you want to perfect a skill rather than earning external rewards. It is when "the person is paying attention to the activity for its own sake; when it is not, the attention is focused on its consequences".
 
-- The irony is that oftentimes work is easier to enjoy than free time. Activities at work have the conditions to experience flow. Free time on the other hand is unstructured. It is a greater effort to shape it and to find and perform flow activities.
+The state of flow leaves no space for disorder in consciousness. It removes the awareness of the daily life, your worries and dreams, and you lose the sense of your self. The time in and after the state of flow can be seen as paradox. The self doesn't grow during the flow session itself, but after it.
 
-- On a human beings highest potential, a person is able to translate threats into enjoyable challenges. It supports a person to stay in harmony and to live a satisfied life. The word autotelic derives from the Greek words auto and telos which mean self and goal. An autotelic experience describes a self-contained activity. It is an activity solely performed for the intrinsic rewards which strengthens the self. Flow is an autotelic experience.
+The irony is that oftentimes work is easier to enjoy than free time. Activities at work have the conditions to experience flow. Free time on the other hand is unstructured. It is a greater effort to shape it and to find and perform flow activities.
 
-- When experience is intrinsically rewarding life is justified in the present, instead of being held hostage to a hypothetical future gain."
+On a human beings highest potential, a person is able to translate threats into enjoyable challenges. It supports a person to stay in harmony and to live a satisfied life. The word autotelic derives from the Greek words auto and telos which mean self and goal. An autotelic experience describes a self-contained activity. It is an activity solely performed for the intrinsic rewards which strengthens the self. Flow is an autotelic experience.
 
-- "The autotelic individual grows beyond the limits of individuality by investing psychic energy [attention] in a system in which she is included. Because of this union of the person and the system, the self emerges at a higher level of complexity."
+When experience is intrinsically rewarding life is justified in the present, instead of being held hostage to a hypothetical future gain."
 
-- "Flow drives individuals to creativity and outstanding achievement. The necessity to develop increasingly refined skills to sustain enjoyment is what lies behind the evolution of culture."
+The autotelic individual grows beyond the limits of individuality by investing psychic energy [attention] in a system in which she is included. Because of this union of the person and the system, the self emerges at a higher level of complexity.
 
-- "If you give your mind something meaningful to do throughout all your waking hours, you'll end the day more fulfilled, and begin the next one more relaxed []" by Cal Newport.
+Flow drives individuals to creativity and outstanding achievement. The necessity to develop increasingly refined skills to sustain enjoyment is what lies behind the evolution of culture.
+
+If you give your mind something meaningful to do throughout all your waking hours, you'll end the day more fulfilled, and begin the next one more relaxed []" by Cal Newport
+
+## Sobre Journalistic Philosophy
+
+Não é para amadores. As distrações do dia a dia aos poucos vão ficando mais tentadoras. A troca de contexto lhe dá um aval inconsciente de que é possível perder tempo com outras coisas sem ter terminado sua sessão de deep.
+
+Por outro lado, depois de um final de semana totalmente focado em ser vagabundo a inércia irá te acompanhar nos próximos dias, e os dias que deveriam ser mais produtivos por conta do descanso extra acabam virando mais dias preguiçosos.
+
+O importante é lembrar que é possível relaxar e ser produtivo ao mesmo tempo. Lembre-se que no flow qualquer atividade pode ser produtiva se imbuída de significado intrínseco, e é isso o que torna a filosofia jornalística eficaz.
+
+As distrações, se concentradas em menos períodos em vez de pulverizadas ao longo do dia, podem dar uma sensação mais palpável de dever cumprido e consequentemente de descanso merecido até a próxima tarefa.
+
+Por outro lado, se o dever se encontrar na segunda metade do dia é imperativo adotar a filosofia jornalística.
 
 # Compra Me Um Revólver
 2019-05-10 movies
@@ -65374,8 +65391,8 @@ Já para Josh Cooley este é seu primeiro trabalho na direção. Tendo participa
 
 Mas enfim, detalhes. O importante frisar é que TS4 mantém a qualidade dos filmes anteriores ainda que possua a ambição de discutir novas ideias e arriscar algumas mudanças ousadas na série. Além desta ser uma aventura coesa, embora não necessariamente marcante como foi o final da trilogia, este pode ser o início de uma expansão do universo que nem a saga Star Wars chegou a pensar. E a notícia boa é que este quarto filme nos faz esperar pelo quinto, sexto e sétimo. Só espero que da próxima vez meus brinquedos favoritos do Cinema estejam impecavelmente desgastados, o que seria mais uma metáfora para a vida para as crianças: às vezes brincar intensamente com um brinquedo irá deixar marcas, que são lembretes dos momentos inesquecíveis que passamos juntos.
 
-# Leitura: How Technology Hijacks People’s Minds from a Magician and Google’
-2019-06-20 self
+# How Technology Hijacks People’s Minds from a Magician and Google’
+2019-06-20
 
 How Technology Hijacks People’s Minds -- from a Magician and Google’s Design Ethicist, de Tristan Harris, foi uma leitura inicial que o SendToKindle cortou, mas pretendo ler o texto completo.
 
@@ -66441,7 +66458,7 @@ A trilha sonora, como sempre, mas aqui mais do que nunca, talvez, é inspiradora
 Mas voltando a ter esperança na humanidade. Hoje em dia existem milhares de séries dramáticas em que pessoas assistem dezenas de horas em frente à TV ou seus celulares para acompanhar as migalhas que os roteiristas entregam de cada unidimensional personagem criado como uma muleta afetiva que todos precisamos. Que miséria frente a um roteirista como Allen, que planeja e executa um drama existencial multifacetado com diferentes personagens e ambições e entrega com uma trilha sonora charmosa em menos de duas horas. E você está livre para fazer o que quiser de sua vida depois disso. Praticar o budismo, ou trair sua esposa, por exemplo.
 
 # On Writing, por Stephen King
-2019-08-16 books self
+2019-08-16 books
 
 Eu lembro que em algum momento entre ler On Writing Well, um livro de William Zinsser sobre melhorar a escrita, e estar escrevendo meus reviews diários sobre filmes comecei a ficar bem insatisfeito com a qualidade dos meus trabalhos. Isso não é novidade para mim, o eterno insatisfeito, e não me surpreendi quando me vi novamente buscando literatura para me aprimorar. Afinal de contas, quando não se está praticando é a hora de afiar seus instrumentos, e esse momento para um escritor não é quando se está escrevendo, mas lendo.
 
@@ -67032,24 +67049,24 @@ Ingredientes: 1 Copo e meio de farinha de trigo comum (copo de 250 ml, copo de r
 Preparo: bater os líquidos e o açúcar com a pitada de sal no liquidificador, misturar com a farinha, o fubá e o fermento até ficar homogêneo, colocar na forma untada e no forno a 180-200 pré-aquecido até assar (menos de meia-hora). Primeira vez que fiz já ficou ótimo; coloquei um saquinho de erva doce.
 
 # Não basta saber (Goethe)
-2019-09-08 quotes self
+2019-09-08 quotes
 
-Não basta saber: temos que aplicar. Não basta querer: temos que fazer. Goethe.
+"Não basta saber: temos que aplicar. Não basta querer: temos que fazer."
 
 # O que não começa hoje (Goethe)
-2019-09-08 quotes self
+2019-09-08 quotes
 
-O que não começa hoje nunca termina amanhã. Goethe.
+"O que não começa hoje nunca termina amanhã."
 
 # Qual vida viver? (Henry David Thoreau)
-2019-09-08 quotes self
+2019-09-08 quotes
 
-Viva a vida que você sonhou. Henry David Thoreau.
+"Viva a vida que você sonhou."
 
 # Preocupação não é doença (Aziomas de Zurique)
-2019-09-08 quotes money
+2019-09-08 quotes
 
-Preocupação não é doença e o caos não é perigoso: só aposte o que valer a pena e realize cedo demais. Max Ghunter - "Os Axiomas de Zurique".
+"Preocupação não é doença e o caos não é perigoso: só aposte o que valer a pena e realize cedo demais."
 
 # Pipoca Caramelizada
 2023-04-24 food cooking repost
@@ -67058,15 +67075,15 @@ Medidas em peso que usamos em casa para uma bacia cheia de pipoca: 75g de milho,
 
 Jogue tudo na pipoqueira e deixe tudo esquentando em fogo médio para baixo, já misturando tudo. Quando estiver terminando de estourar pode diminuir o fogo para baixo ou erguer a panela para se distanciar do fogo. Quando parar de ouvir barulho de estouro desligue o fogo, mas mantenha mexendo mais um pouquinho. Ao retirar cuidado com a temperatura; espere esfriar um pouco antes de comer.
 
-# Cada problema que eu resolvo (Descartes)
-2019-09-08 quotes self
+# Cada problema que eu resolvo (Rene Descartes)
+2019-09-08 quotes
 
-Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas. Rene Descartes.
+"Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas."
 
 # Escreva com a porta fechada (Stephen King)
-2019-09-08 quotes self
+2019-09-08 quotes
 
-Escreva com a porta fechada, reescreva com a porta aberta. Stephen King - On Writing.
+"Escreva com a porta fechada, reescreva com a porta aberta."
 
 # Story, by Robert McKee
 2019-09-08 clippings
@@ -67126,9 +67143,9 @@ The Controlling Idea is the purest form of a story's meaning, the how and why of
 Beautiful story design is a combination of the subject found, the imagination at work, and the mind loosely but wisely executing the craft.
 
 # O escritor e a dor (Thomas Mann)
-2019-09-08 quotes self
+2019-09-08 quotes
 
-O escritor é um indivíduo para o qual a escrita é mais dolorosa do que para as outras pessoas. Thomas Mann.
+"O escritor é um indivíduo para o qual a escrita é mais dolorosa do que para as outras pessoas."
 
 # A desigualdade não é ruim (Piketty)
 2019-09-08 quotes philosophy
@@ -67141,9 +67158,9 @@ A desigualdade não é ruim por si só; decida se ela é justificável. Thomas P
 Toda a riqueza do mundo daria para cada um 760 euros. Thomas Piketty.
 
 # O trabalho (Voltaire)
-2019-09-08 quotes self
+2019-09-08 quotes
 
-O trabalho nos livra de três males: tédio, vício, necessidade. Voltaire.
+"O trabalho nos livra de três males: tédio, vício, necessidade."
 
 # Assunto de Família
 2019-09-09 movies
@@ -70930,7 +70947,7 @@ E por isso a presença de tela de Mavie Hörbiger é quase ausente. Ela está in
 O Chão Sob Meus Pés está brincando a todo momento sobre as dualidades da vida, mas é uma brincadeira séria demais para levarmos a sério. É como se fosse uma mensagem definitiva e real sobre esse chão de realidade sob nossos pés, e não apenas um devaneio sobre a vulnerabilidade de nossas convenções sociais. Mas é necessário que as ideias do filme se vendam como definitivas para que o espectador compre a ridícula mensagem de que é importante levar em conta as dores do outro antes que sejamos felizes.
 
 # Comunicação em Prosa Moderna
-2020-03-15 books self
+2020-03-15 books
 
 "Comunicação em Prosa Moderna", escrito por Othon M. Garcia em 1967, foi um dos livros de referência de quando iniciei a faculdade de Letras na FFLCH da USP. Adquiri uma cópia velha em um sebo com uma diagramação absurda, sem margens e com cheiro de mofado. Li de cabo a rabo. Atualmente eu encontrei a versão digital graças à comunidade do LeLivros, totalmente reformada para o formato digital após várias edições. A versão Kindle dá até gosto de ver, com suas inúmeras e famosas referências bibliográficas com que foi escrito, que ocupam pelo menos a quinta parte do livro, junto dos inúmeros exercícios no final.
 
@@ -71043,7 +71060,7 @@ Deixo-os com o guia de Whitaker Penteado, citado por M. Garcia, de como refutar 
 Boa sorte.
 
 # Deep Work
-2020-03-15 books self
+2020-03-15 books
 
 "Let your mind become a lens, thanks to the converging rays of attention; let your soul be all intent on whatever it is that is established in your mind as a dominant, wholly absorbing idea." - Antonin-Dalmace Sertillanges.
 
@@ -72950,7 +72967,7 @@ De um elenco vasto e apagado o único à vontade em seu papel é Chris Evans, j�
 Porém, para nós, meros mortais fora desse joguinho contemporâneo completamente sem graça, este é um filme minimamente interessante, com boas reviravoltas, e que nos mantém tensos boa parte do tempo. Ele é eficiente, então, apesar de seu pano de fundo. É virtude do seu diretor, mas não do seu roteirista. Que ele seja a mesma pessoa é um sinal de perigo para seus futuros trabalhos.
 
 # Jejum de Dopamina
-2020-08-29 body self
+2020-08-29 body
 
 Na verdade é um jejum de super estímulos, que tem por objetivo apagar o incêndio causado pelos neuroreceptores de dopamina de hábitos compulsivos em busca de prazer fácil para uma vez estabilizado em níveis saudáveis observarmos os gatilhos que nos faz voltar para esses hábitos, observando nossos impulsos para voltar a essas atividades, geralmente associados ao nosso estado emocional interno. Apenas dessa forma, seguindo o modelo de terapia cognitiva, para que o equilíbrio do sistema dopamínico se mantenha, e possamos apreciar como se deve atividades vistas hoje como chatas, como ler, escrever, meditar, passear ao ar livre. Ouvir.
 
@@ -73111,7 +73128,7 @@ E apenas alguns verão o que realmente importa. E será delas o reino dos céus.
 
 
 # Flow: The Psychology of Optimal Experience
-2020-09-27 books self flow
+2020-09-27 books
 
 Este é um dos livros mais importantes que já li e acredito que pode ser muito importante para você também. Por isso quero dedicar algumas linhas para argumentar por que você deve lê-lo, ainda que ele seja denso demais para a maioria das pessoas.
 
@@ -73182,6 +73199,108 @@ Necessitamos de metas, estímulo e feedback externos para manter a atenção dir
 A consequência inevitável das escolhas igualmente atraentes é a incerteza de propósito, que sabota a determinação, que desvaloriza a escolha.
 
 Para extrair significado de um sistema de crenças, a pessoa deve primeiro comparar as informações contidas nela com sua experiência concreta, então guardar para si o que faz sentido e rejeitar o resto.
+
+## Flow pragmático
+
+Seja durante o trabalho ou no lazer, quando não está claro qual o objetivo final não é fácil focar.
+
+Por isso reli minhas anotações sobre o livro de Mihaly Csikszentmihalyi sobre como estruturar nossa consciência de forma a conseguir aos poucos alinhar a energia psíquica a maior parte do tempo possível. E deve ser aos poucos, já que o "eu" não pode se sentir impelido a fazer algo; ele precisa entender dentro de si o que ele quer fazer mais que tudo na vida.
+
+"Uma artista original começa um novo trabalho com uma forte intuição e objetivos indefinidos, se mantém modificando o trabalho em resposta a resultados inesperados que surgiram, e termina com um trabalho concluído que não lembra em nada o que havia imaginado no começo. Se a artista é responsável pelos seus sentimentos internos, sabe o que ela gosta e o que ela não gosta, e presta atenção ao que está acontecendo, um bom trabalho está prestes a emergir."
+
+Dentro dos meus recortes compilei e agrupei esta lista de ações em dicas mais compactadas e temáticas dos ensinamentos do livro para induzir um call to action mais pragmático:
+
+## Seja estoico
+
+- Ignore obrigações externas desde o começo.
+
+- Se livre das recompensas sociais e fisiológicas.
+
+- Aprenda a controlar o corpo e seus sentidos.
+
+- Seja você o desejo de aprender.
+
+## Seja humilde
+
+- Defina o objetivo geral e secundários.
+
+- Vá definindo minidesafios envolvidos na atividade.
+
+- Se concentre no que você está fazendo.
+
+- Se a atividade se tornar chata continue aumentando as apostas.
+
+## Seja prático
+
+- Encontre qual o feedback para medir seu progresso.
+
+- Centralize sua atenção em objetos externos.
+
+- Sem input externo falta a atenção e começam os devaneios.
+
+- Desenvolva habilidades para oportunidades disponíveis.
+
+## Flow com ênfase na teoria de sistemas
+
+Reli pela enésima vez minhas anotações sobre Flow, aquele livro do Mihaly Csikszentmihalyi, e venho dessa vez com anotações das anotações com ênfase na teoria de sistemas. O resumo é que o self, esse sistema dinâmico que reconhecemos como nós, pode ser expandido ao se acoplar a qualquer outro sistema onde invistamos energia psíquica. Porém, para isso funcionar, devemos reorientar nossa atenção e focar, ou seja, empreender nossa energia psíquica, muito mais no sistema que está sendo a atividade do momento e muito menos em nós mesmos ou em outros inputs externos que não faz parte do sistema e que é apenas entropia. É quando o self vira o sistema que nós podemos resgatar novas informações que irão ser adicionadas ao sistema original. A isso chamamos aprendizado do mundo. Nosso ser se expande e nosso organismo ressoa em harmonia.
+
+"Flow graph"
+
+E lá vão mais inúmeros recortes das inúmeras leituras que faço desse livro. Talvez escreva um dia uma tese a respeito.
+
+"We have seen that experience depends on the way we invest psychic energy -- on the structure of attention. This, in turn, is related to goals and intentions. These processes are connected to each other by the self, or the dynamic mental representation we have of the entire system of our goals. These are the pieces that must be maneuvered if we wish to improve things.
+
+"Whenever information disrupts consciousness by threatening its goals we have a condition of inner disorder, or psychic entropy, a disorganization of the self that impairs its effectiveness. Prolonged experiences of this kind can weaken the self to the point that it is no longer able to invest attention and pursue its goals."
+
+"Enjoyable events occur when a person has not only met some prior expectation or satisfied a need or a desire but also gone beyond what he or she has been programmed to do and achieved something unexpected, perhaps something even unimagined before."
+
+First, the experience usually occurs when we confront tasks we have a chance of completing. Second, we must be able to concentrate on what we are doing. Third and fourth, the concentration is usually possible because the task undertaken has clear goals and provides immediate feedback. Fifth, one acts with a deep but effortless involvement that removes from awareness the worries and frustrations of everyday life. Sixth, enjoyable experiences allow people to exercise a sense of control over their actions. Seventh, concern for the self disappears, yet paradoxically the sense of self emerges stronger after the flow experience is over. Finally, the sense of the duration of time is altered; hours pass by in minutes, and minutes can stretch out to seem like hours. The combination of all these elements causes a sense of deep enjoyment that is so rewarding people feel that expending a great deal of energy is worthwhile simply to be able to feel it."
+
+"(...) unless a person learns to set goals and to recognize and gauge feedback (...) she will not enjoy them (activities)."
+
+"(...) what people enjoy is not the sense of being in control, but the sense of exercising control in difficult situations."
+
+being able to forget temporarily who we are seems to be very enjoyable. When not preoccupied with our selves, we actually have a chance to expand the concept of who we are. Loss of self-consciousness can lead to self-transcendence, to a feeling that the boundaries of our being have been pushed forward."
+
+This system takes its form from the rules of the activity; its energy comes from the person's attention.
+
+"Some things we are initially forced to do against our will turn out in the course of time to be intrinsically rewarding."
+
+When experience is intrinsically rewarding life is justified in the present, instead of being held hostage to a hypothetical future gain."
+
+"Paradoxically, a self-centered self cannot become more complex, because all the psychic energy at its disposal is invested in fulfilling its current goals, instead of learning about new ones."
+
+"Even the simplest physical act becomes enjoyable when it is transformed so as to produce flow. The essential steps in this process are: (a) to set an overall goal, and as many subgoals as are realistically feasible; (b) to find ways of measuring progress in terms of the goals chosen; (c) to keep concentrating on what one is doing, and to keep making finer and finer distinctions in the challenges involved in the activity; (d) to develop the skills necessary to interact with the opportunities available; and (e) to keep raising the stakes if the activity becomes boring."
+
+People were happiest when they were just talking to one another, when they gardened, knitted, or were involved in a hobby; all of these activities require few material resources, but they demand a relatively high investment of psychic energy. Leisure that uses up external resources, however, often requires less attention, and as a consequence it generally provides less memorable rewards."
+
+"Giving up the self with its instincts, habits, and desires is so unnatural an act that only someone supremely in control can accomplish it."
+
+Our physical apparatus has evolved so that whenever we use its sensing devices they produce a positive sensation, and the whole organism resonates in harmony."
+
+"When a person has learned a symbolic system well enough to use it, she has established a portable, self-contained world within the mind."
+
+"(...) the importance of personally taking control of the direction of learning from the very first steps cannot be stressed enough. If a person feels coerced to read a certain book, to follow a given course because that is supposed to be the way to do it, learning will go against the grain. But if the decision is to take that same route because of an inner feeling of rightness, the learning will be relatively effortless and enjoyable."
+
+Mass leisure, mass culture, and even high culture when only attended to passively and for extrinsic reasons -- such as the wish to flaunt one's status -- are parasites of the mind. They absorb psychic energy without providing substantive strength in return. They leave us more exhausted, more disheartened than we were before."
+
+Why is solitude such a negative experience? The bottom-line answer is that keeping order in the mind from within is very difficult. We need external goals, external stimulation, external feedback to keep attention directed. And when external input is lacking, attention begins to wander, and thoughts become chaotic
+
+The habits of pornography and depersonalized sex build on the genetically programmed attraction of images and activities related to reproduction. They focus attention naturally and pleasurably, and in so doing help to exclude unwanted contents from the mind.
+
+"The ultimate test for the ability to control the quality of experience is what a person does in solitude, with no external demands to give structure to attention.
+
+Alone, when the dark night of the soul descends, are we forced into frantic attempts to distract the mind from its coming? Or are we able to take on activities that are not only enjoyable, but make the self grow?"
+
+"The way to grow while enjoying life is to create a higher form of order out of the entropy that is an inevitable condition of living."
+
+If the artist is responsive to her inner feelings, knows what she likes and does not like, and pays attention to what is happening on the canvas, a good painting is bound to emerge.
+
+"For most people, goals are shaped directly by biological needs and social conventions, and therefore their origin is outside the self. For an autotelic person, the primary goals emerge from experience evaluated in consciousness, and therefore from the self proper."
+
+"To be distracted against one's will is the surest sign that one is not in control."
+
+Goals justify the effort they demand at the outset, but later it is the effort that justifies the goal."
 
 # Festa de Família
 2020-09-29 movies
@@ -79539,7 +79658,7 @@ Persuasão usa demais essa ferramenta de comunicação ao espectador, a ponto de
 Outro aspecto curioso e contemporâneo é a moda dos relacionamentos não convencionais. O terceiro ato foi criado para se tornar uma farsa cheia de coincidências e desencontros planejados na montagem final dos casais. A mensagem não poderia ser mais política e mais sem graça. Se houvesse qualquer desejo do espectador em assistir desconstruções moderninhas ancoradas em discurso politizado não seria em um Jane Austen que ele deveria procurar. Já ouviu falar em uma novela chamada Sense8?
 
 # The Pickup Artist: The New and Improved Art of Seduction (Mystery)
-2022-07-24 books self
+2022-07-24 books
 
 Uma série de duas temporadas apresenta um rapaz magro, bem alto e cheio de adereços. Ele junta um grupo de jovens desajustados sem nenhuma experiência em ficar com mulheres. Seu objetivo: torná-los mestres na arte de pegação.
 
@@ -80887,11 +81006,6 @@ Como não há uma voz que nos explique os sentimentos do protagonista, somos obr
 
 A interpretação dos atores Amer Hlehel e Ashraf Farah é instrumental. Rola uma antiquímica entre os dois, de forma que não é possível saber se a amizade entre eles está crescendo ou apenas os interesses mútuos. A análise de personagens feita pela roteirista Maha Haj é cirúrgica, pois em momento algum duvidamos que esse relacionamento pudesse de fato ir tão longe.
 
-# O Reino da Consciência
-2022-10-20 quotes self now
-
-O Reino da Consciência é mais vasto do que o pensamento é capaz de abranger. Eckhart Tolle (O Poder do Agora, 1997).
-
 # Sue Perkins
 2022-10-20 series
 
@@ -82095,9 +82209,9 @@ A única coisa que busco nesse momento, o que pode ocorrer a curto ou longo praz
 "Sometimes people hold a core belief that is very strong. When they are presented with evidence that works agains that belief the new evidence cannot be accepted, because it creates a feeling that is extremely uncomfortable. It is so important to protect the core belief they will rationalize, ignore and deny anything that doesn't fit with that core belief. This is why people get upset when their strongly held beliefs are challenged."
 
 # Pensamentos (Marco Aurélio)
-2023-01-31 quotes self philosophy
+2023-01-31 quotes
 
-A felicidade de sua vida depende da qualidade de seus pensamentos: portanto, guarde-se adequadamente e tome cuidado para não nutrir noções inadequadas à virtude e à natureza. Marco Aurélio.
+"A felicidade de sua vida depende da qualidade de seus pensamentos: portanto, guarde-se adequadamente e tome cuidado para não nutrir noções inadequadas à virtude e à natureza."
 
 # Pereira Villela de Itajubá, MG
 2023-01-31 coffee
@@ -82931,49 +83045,6 @@ Para minha surpresa hoje me deparo, além das minhas próprias visitas, alguém 
 Não sei bem se esse é um analytics com histórico ou são os acessos de tempo real. De qualquer forma agora já sei de pelo menos alguém que está acessando o blogue. Isso é um feedback válido? Deixe o que acha nos comentários.
 
 Ops, não há comentários no blogue. Não dá para aguentar tanto feedback da humanidade.
-
-# Flow pragmático
-2023-08-21 self books repost flow
-
-Seja durante o trabalho ou no lazer, quando não está claro qual o objetivo final não é fácil focar.
-
-"Flow graph"
-
-Por isso reli minhas anotações sobre o livro de Mihaly Csikszentmihalyi sobre como estruturar nossa consciência de forma a conseguir aos poucos alinhar a energia psíquica a maior parte do tempo possível. E deve ser aos poucos, já que o "eu" não pode se sentir impelido a fazer algo; ele precisa entender dentro de si o que ele quer fazer mais que tudo na vida.
-
-"Uma artista original começa um novo trabalho com uma forte intuição e objetivos indefinidos, se mantém modificando o trabalho em resposta a resultados inesperados que surgiram, e termina com um trabalho concluído que não lembra em nada o que havia imaginado no começo. Se a artista é responsável pelos seus sentimentos internos, sabe o que ela gosta e o que ela não gosta, e presta atenção ao que está acontecendo, um bom trabalho está prestes a emergir."
-
-Dentro dos meus recortes compilei e agrupei esta lista de ações em dicas mais compactadas e temáticas dos ensinamentos do livro para induzir um call to action mais pragmático:
-
-## Seja estoico
-
-- Ignore obrigações externas desde o começo.
-
-- Se livre das recompensas sociais e fisiológicas.
-
-- Aprenda a controlar o corpo e seus sentidos.
-
-- Seja você o desejo de aprender.
-
-## Seja humilde
-
-- Defina o objetivo geral e secundários.
-
-- Vá definindo minidesafios envolvidos na atividade.
-
-- Se concentre no que você está fazendo.
-
-- Se a atividade se tornar chata continue aumentando as apostas.
-
-## Seja prático
-
-- Encontre qual o feedback para medir seu progresso.
-
-- Centralize sua atenção em objetos externos.
-
-- Sem input externo falta a atenção e começam os devaneios.
-
-- Desenvolva habilidades para oportunidades disponíveis.
 
 # Timemore C2
 2023-04-05 food coffee
@@ -86508,9 +86579,9 @@ E é isso. Se você já experimentou chocolate 100% cacau vai encontrar algumas 
 
 
 # Em sua própria companhia (Sêneca)
-2023-08-30 quotes philosophy self
+2023-08-30 quotes
 
-Nada, a meu ver, é melhor prova de uma mente bem ordenada do que a capacidade de um homem parar exatamente onde está e passar algum tempo em sua própria companhia. Sêneca e a Mente Ordenada.
+"Nada, a meu ver, é melhor prova de uma mente bem ordenada do que a capacidade de um homem parar exatamente onde está e passar algum tempo em sua própria companhia."
 
 # Vinho Azul Gran Reserva 2017
 2023-09-04 wine
@@ -86907,70 +86978,6 @@ Windows_Security_Authentication_Web_Core!_security_cookie (
 00007ff8`5058cbc4 4889442448      mov     qword ptr [rsp+48h],rax
 ...
 ```
-
-
-# Flow com ênfase na teoria de sistemas
-2023-10-03 books self flow
-
-Reli pela enésima vez minhas anotações sobre Flow, aquele livro do Mihaly Csikszentmihalyi, e venho dessa vez com anotações das anotações com ênfase na teoria de sistemas. O resumo é que o self, esse sistema dinâmico que reconhecemos como nós, pode ser expandido ao se acoplar a qualquer outro sistema onde invistamos energia psíquica. Porém, para isso funcionar, devemos reorientar nossa atenção e focar, ou seja, empreender nossa energia psíquica, muito mais no sistema que está sendo a atividade do momento e muito menos em nós mesmos ou em outros inputs externos que não faz parte do sistema e que é apenas entropia. É quando o self vira o sistema que nós podemos resgatar novas informações que irão ser adicionadas ao sistema original. A isso chamamos aprendizado do mundo. Nosso ser se expande e nosso organismo ressoa em harmonia.
-
-"Flow graph"
-
-E lá vão mais inúmeros recortes das inúmeras leituras que faço desse livro. Talvez escreva um dia uma tese a respeito.
-
-"We have seen that experience depends on the way we invest psychic energy -- on the structure of attention. This, in turn, is related to goals and intentions. These processes are connected to each other by the self, or the dynamic mental representation we have of the entire system of our goals. These are the pieces that must be maneuvered if we wish to improve things.
-
-"Whenever information disrupts consciousness by threatening its goals we have a condition of inner disorder, or psychic entropy, a disorganization of the self that impairs its effectiveness. Prolonged experiences of this kind can weaken the self to the point that it is no longer able to invest attention and pursue its goals."
-
-"Enjoyable events occur when a person has not only met some prior expectation or satisfied a need or a desire but also gone beyond what he or she has been programmed to do and achieved something unexpected, perhaps something even unimagined before."
-
-First, the experience usually occurs when we confront tasks we have a chance of completing. Second, we must be able to concentrate on what we are doing. Third and fourth, the concentration is usually possible because the task undertaken has clear goals and provides immediate feedback. Fifth, one acts with a deep but effortless involvement that removes from awareness the worries and frustrations of everyday life. Sixth, enjoyable experiences allow people to exercise a sense of control over their actions. Seventh, concern for the self disappears, yet paradoxically the sense of self emerges stronger after the flow experience is over. Finally, the sense of the duration of time is altered; hours pass by in minutes, and minutes can stretch out to seem like hours. The combination of all these elements causes a sense of deep enjoyment that is so rewarding people feel that expending a great deal of energy is worthwhile simply to be able to feel it."
-
-"(...) unless a person learns to set goals and to recognize and gauge feedback (...) she will not enjoy them (activities)."
-
-"(...) what people enjoy is not the sense of being in control, but the sense of exercising control in difficult situations."
-
-being able to forget temporarily who we are seems to be very enjoyable. When not preoccupied with our selves, we actually have a chance to expand the concept of who we are. Loss of self-consciousness can lead to self-transcendence, to a feeling that the boundaries of our being have been pushed forward."
-
-This system takes its form from the rules of the activity; its energy comes from the person's attention.
-
-"Some things we are initially forced to do against our will turn out in the course of time to be intrinsically rewarding."
-
-When experience is intrinsically rewarding life is justified in the present, instead of being held hostage to a hypothetical future gain."
-
-"Paradoxically, a self-centered self cannot become more complex, because all the psychic energy at its disposal is invested in fulfilling its current goals, instead of learning about new ones."
-
-"Even the simplest physical act becomes enjoyable when it is transformed so as to produce flow. The essential steps in this process are: (a) to set an overall goal, and as many subgoals as are realistically feasible; (b) to find ways of measuring progress in terms of the goals chosen; (c) to keep concentrating on what one is doing, and to keep making finer and finer distinctions in the challenges involved in the activity; (d) to develop the skills necessary to interact with the opportunities available; and (e) to keep raising the stakes if the activity becomes boring."
-
-People were happiest when they were just talking to one another, when they gardened, knitted, or were involved in a hobby; all of these activities require few material resources, but they demand a relatively high investment of psychic energy. Leisure that uses up external resources, however, often requires less attention, and as a consequence it generally provides less memorable rewards."
-
-"Giving up the self with its instincts, habits, and desires is so unnatural an act that only someone supremely in control can accomplish it."
-
-Our physical apparatus has evolved so that whenever we use its sensing devices they produce a positive sensation, and the whole organism resonates in harmony."
-
-"When a person has learned a symbolic system well enough to use it, she has established a portable, self-contained world within the mind."
-
-"(...) the importance of personally taking control of the direction of learning from the very first steps cannot be stressed enough. If a person feels coerced to read a certain book, to follow a given course because that is supposed to be the way to do it, learning will go against the grain. But if the decision is to take that same route because of an inner feeling of rightness, the learning will be relatively effortless and enjoyable."
-
-Mass leisure, mass culture, and even high culture when only attended to passively and for extrinsic reasons -- such as the wish to flaunt one's status -- are parasites of the mind. They absorb psychic energy without providing substantive strength in return. They leave us more exhausted, more disheartened than we were before."
-
-Why is solitude such a negative experience? The bottom-line answer is that keeping order in the mind from within is very difficult. We need external goals, external stimulation, external feedback to keep attention directed. And when external input is lacking, attention begins to wander, and thoughts become chaotic
-
-The habits of pornography and depersonalized sex build on the genetically programmed attraction of images and activities related to reproduction. They focus attention naturally and pleasurably, and in so doing help to exclude unwanted contents from the mind.
-
-"The ultimate test for the ability to control the quality of experience is what a person does in solitude, with no external demands to give structure to attention.
-
-Alone, when the dark night of the soul descends, are we forced into frantic attempts to distract the mind from its coming? Or are we able to take on activities that are not only enjoyable, but make the self grow?"
-
-"The way to grow while enjoying life is to create a higher form of order out of the entropy that is an inevitable condition of living."
-
-If the artist is responsive to her inner feelings, knows what she likes and does not like, and pays attention to what is happening on the canvas, a good painting is bound to emerge.
-
-"For most people, goals are shaped directly by biological needs and social conventions, and therefore their origin is outside the self. For an autotelic person, the primary goals emerge from experience evaluated in consciousness, and therefore from the self proper."
-
-"To be distracted against one's will is the surest sign that one is not in control."
-
-Goals justify the effort they demand at the outset, but later it is the effort that justifies the goal."
 
 
 # Setando próxima instrução no WinDbg
@@ -87467,7 +87474,7 @@ A terceira parte do Harry Potter sem Harry Potter não tem alma. Sua cena mais l
 A Disney/Pixar acerta em cheio nesta animação que explora os conceitos tanto filosóficos quanto científicos do que torna as pessoas realizadas ou felizes. Assistir em meio às minhas leituras sobre flow e self improvement caiu como uma luva. O filme não explica com palavras e prefere muito mais mostrar a jornada deste professor quarentão que recebe pela primeira vez na vida a oportunidade de seguir a carreira de músico inspirada pelo pai e logo nesse dia acaba morrendo. Sua viagem ao além mundo é uma instigante observação a respeito do que torna as pessoas únicas e dispostas a viver intensamente no planeta Terra para fazer a sua coisa. Descobrir qual a sua coisa parece ser missão das criaturas que habitam esse pós mundo. Mas não se engane, tudo é um plot que revela uma reviravolta muito mais intensa e inspiradora para nós espectadores. Um filme charmoso, com ritmo visual e sonoro que há um bom tempo não se via. Segue os passos dos trabalhos mais inspirados da equipe como Divertidamente e ainda acrescenta algo no seu final. Cada vez mais o time da Pixar se interessa por temas metafísicos. Vimos isso também em Toy Story 4. O que virá pela frente?
 
 # Múltiplas leituras a respeito do self
-2024-01-05 books self
+2024-01-05
 
 Estava fazendo um experimento nos últimos meses. Tão interessado que estou em entender o self para aprimorá-lo com leituras e releituras de várias fontes distintas que me veio à mente: é este o primeiro tema que devo desenvolver profundamente.
 
@@ -87478,7 +87485,6 @@ Mas isso acaba hoje.
 No meio de minhas leituras aprendi melhor como eu "funciono" a respeito de um tema. Eu costumo ler ad infinitum sobre ele até exaurir minha vontade de fazê-lo. Após isso eu começo a rever e escrever sobre. Porém, um interesse meu sempre será um unfinished business, e sempre haverá coisas a adicionar vis-à-vis meu blogue e sua evolução nos últimos 20 anos. Minha forma de navegar por assuntos é caótica, não linear. Não sei se é assim para todos.
 
 Portanto, nova estratégia: expandir os assuntos que me interesso em artigos longos e melhor estruturados (preciso trabalhar o projeto do blogue awk para isso) que eventualmente serão publicáveis. O conteúdo do meu blogue não é. É só um rascunho, mesmo. Nem sei por que você está lendo isso.
-
 
 # Minha Irmã e Eu
 2024-01-16 movies
@@ -88209,9 +88215,9 @@ Este é o segundo filme do criador de "Mr. Robot", onde o primeiro foi um romanc
 A trilha sonora deste animê é elogiada porque ela é orgânica em meio à missão estilo video-game dos personagens de chegar ao fundo de um abismo e passar suas bem descritas fases encontrando seus bem conhecidos monstros. Não apenas a música, mas os sons produzidos estão prontos para serem embalados em um video-game, como de fato foi produzido. Dá sono a falta de compensação em investirmos tempo e atenção em personagens infanto-juvenis inconscientes de suas posições como personagens de um jogo com um fundo ligeiramente dramático.
 
 # Perfeição moral
-2024-03-05 quotes self
+2024-03-05 quotes
 
-Esta é a perfeição moral: viver cada dia como se fosse o último, sem agitação, sem preguiça, sem hipocrisia. Marco Aurélio.
+"Esta é a perfeição moral: viver cada dia como se fosse o último, sem agitação, sem preguiça, sem hipocrisia."
 
 # Kimchi Coreano
 2024-03-30 food cooking
@@ -88283,7 +88289,7 @@ As Ralph Waldo Emerson puts it: "What you are . . . thunders so that I cannot he
 To be safe, you had better assume that your documents might go to anyone and that they will exist forever.
 
 # Treinamento do Datilógrafo (The Typewriter Training)
-2024-03-30 self
+2024-03-30
 
 Há fóruns e mais fóruns na internet cheio de escritores querendo saber como fazer para começar a escrever. Uma das técnicas mais eficazes é simplesmente sair escrevendo sem parar. Isso serve para bloqueios e reescritas inconscientes que fazemos ao tentar reformular uma frase assim que ela foi criada. Torna o ato de escrever mais próximo do pensamento em si: um fluxo ininterrupto de cognição interna. Erros não devem ser corrigidos. Nem acentos. Usar o backspace é proibido. Assim como nos velhos tempos da datilografia.
 
@@ -88945,7 +88951,7 @@ Estariam tantos críticos interessados na aposentadoria do diretor, aclamando es
 O primeiro filme da série mais de vinte anos depois. É uma boa história com um roteiro não muito convincente. O forte são as cenas de ação e uma aura de lenda que permanece no ar. Sobre gangues, respeito e confiança. Paul Walker segura seu protagonismo como pode enquanto Vin Diesel tem a difícil tarefa de um ladrão inspirar integridade.
 
 # The Hacker's Diet (John Walker)
-2024-04-27 books body self
+2024-04-27 books
 
 "This book is a compilation of what I learned. Six months after I decided being fat was a problem to be solved, not a burden to be endured, I was no longer overweight."
 
@@ -90351,10 +90357,9 @@ As vantagens do Markdown como lingua franca ultrapassam em muito a teórica robu
 
 
 # Mielina
-2024-07-15 body self
+2024-07-15 body
 
 Quando nos esforçamos para aprender algo novo uma nova conexão sináptica é criada, uma nova "perninha" em um neurônio. Essa atividade comumente é cansativa, pois além de tentativa e erro, energia, tempo e repetidos esforços para construir um comportamento ou assimilar uma informação são necessários. A criação de apenas uma dessas perninhas já é um esforço significativo, aprender algo novo exige muitas repetições e muitas dessas perninhas se tornam mais fortes se coberturas de lipídios (gordura) forem construídas em volta, o que agiliza e potencializa o tráfego de elétrons. Este fenômeno realmente existe para cobrir os axônios, os canais de comunicação entre neurônios, fortalecido por repetição. Esses canais de gordura são chamados de "bainha de mielina" e acontecem naturalmente quando a pessoa está envolvida repetidamente na mesma tarefa, sem troca de foco, por mais tempo. O cérebro "entende" que o canal sendo criado é mais importante e constrói as estruturas de mielina que irá privilegiar e proteger o novo comportamento e informação em detrimento de outros caminhos.
-
 
 # Mock de Timer em Moq
 2024-07-17 blog
@@ -90407,10 +90412,10 @@ A variável `_timer` no caso é um `Mock<TimerWrapper>` e o método `Raise` pode
 
 A próxima seria entender o que é necessário para que o Visual Studio pare de reclamar que `new EventArgs() as ElapsedEventArgs` pode ser null. Bom, ele pode mesmo. Porém, não tem como construir um `ElapsedEventArgs` sozinho no código. Ideias?
 
-# Uma máquina bioquímica
-2024-07-17 quotes self
+# Uma máquina bioquímica (Rafael Leite)
+2024-07-17 quotes
 
-Seu corpo é uma máquina bioquímica, você pode produzir a química e o estado que você quiser, sem usar drogas, que viciam e danificam as células. Aprenda sobre respirações, meditação e outras técnicas para que você viva o estado que procura de maneira saudável, sem depender de nada ou de ninguém. Em frente meu amigo, tenho certeza de que o mundo voltará a ser colorido para você. Rafael Leite (Xadrez Brasil).
+"Seu corpo é uma máquina bioquímica, você pode produzir a química e o estado que você quiser, sem usar drogas, que viciam e danificam as células. Aprenda sobre respirações, meditação e outras técnicas para que você viva o estado que procura de maneira saudável, sem depender de nada ou de ninguém. Em frente meu amigo, tenho certeza de que o mundo voltará a ser colorido para você."
 
 # Why You Should Take Steps to Eliminate Grains From Your Diet
 2024-07-23 quotes body
@@ -90423,7 +90428,7 @@ So, how much carbohydrate should you eat? As a general rule, a healthy person ca
 Drama adolescente de gente com doença terminal. Casal fofinho e artista. Coincidências quase que ocasionais (como ambos serem artistas). O filme força vários momentos de choro livre, mas é incapaz de dar um passo além do drama dos moribundos. Todos em volta são compreensivos. Os colegas de escola se afastaram para ensinar pelo filme que isso não é bonito. O casal fofinho segura estilo novela coreana qualquer história subdesenvolvida como essa.
 
 # A Arte de Ler o Tarô para Si Mesmo (Weber, Courtney)
-2024-07-25 books self
+2024-07-25 books
 
 Faz muito, muito tempo que não tenho contato com cartas de Tarô. Há muito tempo atrás eu aprendi a ler (sort of) as cartas e exercitava esta habilidade de amador para mim mesmo. Foi uma surpresa boa ver este livro disponível no Prime Reading, repositório de livros que você pode baixar gratuitamente dentro do plano da Amazon Prime. Estou lendo e a autora me parece muito mente aberta tanto para os ceticismos da época quanto para as diferentes interpretações do mistério que as cartas nos reservam. Sua visão e explicação da dinâmica das cartas, do leitor e do consulente são exatamente as mesmas que possuo. Houve identificação. Continuo lendo (2026-04-24 parei faz tempo, abaixo recortes).
 
@@ -90668,9 +90673,8 @@ Gosto não se discute (se lamenta). Neste curtíssimo livro alguns autores publi
 
 Este é um dos melhores musicais que já vi em toda minha vida. Ponto. Ele ainda é bom hoje, em 2024. Ele nos faz entender boa parte do cinema como é feito (uma aula), mas também possui uma história empolgante, dinâmica, auxiliada por um elenco absurdo de bom, cantando, dançando e atuando. Além de ensinar sobre cinema o filme ensina a verdadeira quebra de paradigma (no sentido real do termo, sem exagero) que foi a mudança de cinema mudo para falado. "O Artista" é uma obra que homenageia essa transição. Cantando na Chuva é um filme que vai além: ele não se ancora em melancolia, mas impulsiona nossa visão do futuro brilhante que o cinema terá pela frente. Suas cenas de dança não são apenas absurdamente sincronizadas, mas a câmera conduzida por Gene Kelly e Stanley Donen estabelecem critérios que estão anos-luz à frente de diretores medíocres como Tom Hopper (que fez, ironicamente, um musical de Os Miseráveis que faz parte de uma piada deste filme).
 
-
 # The Systems Model of Creativity (Mihaly Csikszentmihalyi)
-2024-08-07 books quotes self
+2024-08-07 books
 
 The resurgence of scientific interest in creativity is in itself an instructive story about how fads in science are swayed by political and economic forces.
 
@@ -91576,10 +91580,10 @@ The View is the humble object that is hard to test. Presenter is the testable ob
 
 Think of Main as the dirtiest of all the dirty components. Develop a strategy that prevents the framework from taking over that architecture. If your system is all about the use cases, and if you have kept your frameworks at arm’s length, then you should be able to unit-test all those use cases without any of the frameworks in place. You non-embedded developers essentially write firmware whenever you bury SQL in your code or when you spread platform dependencies throughout your code.
 
-# Ruído estático
-2025-01-09 quotes self
+# Ruído estático (Zeno Rocha, 14 Hábitos de Desenvolvedores Altamente Produtivos)
+2025-01-09 quotes
 
-Imagine que você gira o dial e está apenas captando ruído estático, mas depois de alguns segundos frustrantes, ele finalmente consegue captar um sinal e sintonizar uma estação. O sinal é a informação significativa na qual você realmente está interessado. O ruído estático é apenas a variação aleatória e indesejada que interfere no sinal. É por isso que a autoconsciência é tão importante, você precisa ser capaz de identificar qual é o sinal e o que é apenas ruído. (...) É crucial entender que o barulho sempre estará lá. Rocha, Zeno (14 Hábitos de Desenvolvedores Altamente Produtivos).
+"Imagine que você gira o dial e está apenas captando ruído estático, mas depois de alguns segundos frustrantes, ele finalmente consegue captar um sinal e sintonizar uma estação. O sinal é a informação significativa na qual você realmente está interessado. O ruído estático é apenas a variação aleatória e indesejada que interfere no sinal. É por isso que a autoconsciência é tão importante, você precisa ser capaz de identificar qual é o sinal e o que é apenas ruído. (...) É crucial entender que o barulho sempre estará lá."
 
 # Colinha que todos usamos para esperar o debugger quando o notepad inicia
 2025-01-13 computer
@@ -91606,10 +91610,10 @@ int WaitForDebugger(const char* processName = "notepad", int timeout = 60)
 }
 ```
 
-# What we do not know
-2025-01-15 quotes self philosophy
+# What we do not know (Nicolas Gomez Davila)
+2025-01-15 quotes
 
-In an age in which the media broadcast countless pieces of foolishness, the educated man is defined not by what he knows, but by what he doesn't know. Nicolas Gomez Davila.
+"In an age in which the media broadcast countless pieces of foolishness, the educated man is defined not by what he knows, but by what he doesn't know."
 
 # Os Safados
 2025-01-28 movies miniviews fragments
@@ -91638,9 +91642,9 @@ Este Almodóvar pode ser considerado clássico, pois contém todos os elementos 
 A menina viaja no tempo quando escuta uma música que ouviu pela primeira vez com o namorado morto. Ela está obcecada há dois anos em tentar salvá-lo. Surge um japonês fofinho como interesse amoroso e para a cota dos amarelos imigrantes nesta simpática seleção de músicas de apaixonadinhos onde iremos passar duas horas agradáveis.
 
 # On the same thing (Caloni)
-2025-01-30 quotes self english
+2025-01-30 quotes
 
-Keeping the focus on the same thing even if you need to wait for action. Caloni.
+"Keeping the focus on the same thing even if you need to wait for action."
 
 # We are all thought
 2025-02-01 quotes philosophy
@@ -91798,12 +91802,14 @@ Eu gosto tanto de Will Ferrell quanto de Reese Whiterspoon, mas dessa vez eles e
 
 THE Tarot embodies symbolical presentations of universal ideas, behind which lie all the implicits of the human mind, and it is in this sense that they contain secret doctrine. Arthur Edward Waite (The Pictorial Key To The Tarot).
 
-# Se ligue em você! (Gasparetto, Luiz)
-2025-03-06 books self quotes
+# Se ligue em você! (Luiz Gasparetto)
+2025-03-06 books
 
 "Nada do que digo me pertence, embora tenha minha forma particular de dizer."
 
 É mais fácil se identificar e alcançar uma melhora espiritual mais incisiva acompanhando os trabalhos em áudio do médium Luiz Gasparetto, mas quis dar uma olhada em como um de seus livros é escrito. Curto, um pouco bagunçado e com seções com letras garrafais para chamar a atenção, é um estilo pseudo-brega que tenta se aproximar do público-alvo: pessoas fudidas que gostariam de um minuto que fosse de paz. Menos divertido que os áudios, não posso recomendar para muitas pessoas.
+
+## Recortes
 
 A vida é a sequência consciencial das sensações do aqui e agora. (...) Consciência é o fenômeno da atenção. Quanto mais lúcida e clara ela estiver, mais você conhecerá suas reais habilidades e limitações. (...) Você é o grande laboratório e arquiteto da sua vida. (...) Se você tem consciência, pode escolher manter ou não sua atenção em determinado aspecto e resistir aos estímulos indesejados. (...) A sua atenção está sempre presente naquilo que você dá importância. Não importa se o objeto observado é bom ou nocivo para você.
 
@@ -91837,12 +91843,10 @@ Toda a nossa aprendizagem funciona por um critério de: ensaio e erro; impressã
 
 O "como" o leva à consciência do seu poder. O "como" é útil, importante e mostra o lado prático da vida, enquanto o "porquê" é só uma intelectualização que não leva a nada, procurando sempre a causa que leva a outra causa e assim por diante. Não é pelo intelecto que vamos nos conhecer melhor, mas pela prática.
 
-# Ego ou intuição?
-2025-03-11 self
+# Ego ou intuição (ou Loop versus spiral)
+2025-03-11
 
-Como você sabe se é seu ego ou sua intuição no comando?
-
-"Loop versus spiral"
+Como você sabe se é seu ego ou sua intuição no comando? Lembre-se do loop e da espiral.
 
 ## O loop
 
@@ -91974,7 +91978,7 @@ int main()
 ```
 
 # The Willpower Instinct
-2025-04-29 self books quotes
+2025-04-29 clippings
 
 I believe that the best way to improve your self-control is to see how and why you lose control. (...) Self-knowledge—especially of how we find ourselves in willpower trouble—is the foundation of self-control. (...) You can—and should—make yourself the subject of your own real-world study.
 
@@ -91987,7 +91991,7 @@ You need to recognize when you’re making a choice that requires willpower; oth
 Regular meditators have more gray matter in the prefrontal cortex, as well as regions of the brain that support self-awareness. (...) One study found that just three hours of meditation practice led to improved attention and self-control. After eleven hours, researchers could see those changes in the brain. (...) It may seem incredible that our brains can reshape themselves so quickly, but meditation increases blood flow to the prefrontal cortex, in much the same way that lifting weights increases blood flow to your muscles. (...) This simple act of staying still is part of what makes meditation willpower training effective. You’re learning not to automatically follow every single impulse that your brain and body produce. (...) Notice how it feels to breathe, and notice how the mind wanders. (...) Most new meditators make this mistake, but the truth is that being “bad” at meditation is exactly what makes the practice effective. (...) Meditation is not about getting rid of all your thoughts; it’s learning not to get so lost in them that you forget what your goal is.
 
 # In Search of the Miraculous
-2025-04-29 self books
+2025-04-29 clippings
 
 There was another type of school, with which I was unable to make contact and of which I only heard. These schools promised very much but they also demanded very much. They demanded everything at once. It would have been necessary to stay in India and give up thoughts of returning to Europe, to renounce all my own ideas, aims, and plans, and proceed along a road of which I could know nothing beforehand.
 
@@ -92588,7 +92592,7 @@ At its core, this instinct to mentor plays into the idea that those who are marg
 They know that one cannot be both efficient and thorough at the same time (The ETTO Principle), that most projects engineers work on exist on an axis of optimality and brittleness, and that whether the problems they are solving are acute or chronic. (...) They know that they work within a spectrum of ideal and non-ideal, and are OK with that. They are comfortable with it because they strive to make the ideal and non-ideal in a design explicit. (...) Later on in the lifecycle of a design, when the original design is not scaling anymore or needs to be replaced or rewritten, they can look back not with a perspective of how short-sighted those earlier decisions were, but instead say “yep, we made it this far with it and knew we’d have to extend or change it at some point. Looks like that time is now, let’s get to work!”.
 
 # Apanhado sobre o flow de cada dia
-2025-05-24 self flow
+2025-05-24 clippings
 
 Todas as referências abaixo falam sobre a mesma coisa: a relação entre o caos e a ordem, a repetição como ordem necessária, mas o caos como o gatilho para descobertas necessárias, a força do ego em manter o círculo eterno e o poder da intuição em nos mover para dentro do redemoinho.
 
@@ -92664,31 +92668,13 @@ Me sinto como o sujeito que comprou uma camiseta de qualidade ímpar com o guerr
 
 Assisti hoje Mickey 17 porque estava no sofá. Não está mais nos meus planos assistir mais qualquer coisa de Hollywood por livre e espontânea vontade, nem mesmo de um diretor que admirava. Porém, mesmo que eu assista, não devo escrever mais sobre. Não gosto muito de escrever sobre propaganda, e hoje até John Bong Woo, desde Parasita, até quando é engraçado, está travestido de propaganda chata e séria. Não há mais risadas no absurdo da situação como o ginásio em O Hospedeiro ou o sequestro em Okja. Hoje são filmes tristes que se iluminam pela angústia do seu idealizador. Tristes, sérios e com uma agenda. E a minha agenda, desde que larguei discussões filosóficas para jogar xadrez, é não ser mais importunado com essas bobagens.
 
-# Journalistic Philosophy
-2025-06-03 self flow
-
-"Journalistic philosophy is the last and most advanced philosophy. In that approach you can rapidly switch between shallow to deep work."
-
-Essa frase é de "Deep Work => Flow", um artigo de um blogue que explicava a relação entre ambos os livros e que usei como base para a posterior leitura desses livros. Este é segundo o autor o método mais avançado de focar em uma atividade.
-
-Não é para amadores. As distrações do dia a dia aos poucos vão ficando mais tentadoras. A troca de contexto lhe dá um aval inconsciente de que é possível perder tempo com outras coisas sem ter terminado sua sessão de deep.
-
-Por outro lado, depois de um final de semana totalmente focado em ser vagabundo a inércia irá te acompanhar nos próximos dias, e os dias que deveriam ser mais produtivos por conta do descanso extra acabam virando mais dias preguiçosos.
-
-O importante é lembrar que é possível relaxar e ser produtivo ao mesmo tempo. Lembre-se que no flow qualquer atividade pode ser produtiva se imbuída de significado intrínseco, e é isso o que torna a filosofia jornalística eficaz.
-
-As distrações, se concentradas em menos períodos em vez de pulverizadas ao longo do dia, podem dar uma sensação mais palpável de dever cumprido e consequentemente de descanso merecido até a próxima tarefa.
-
-Por outro lado, se o dever se encontrar na segunda metade do dia é imperativo adotar a filosofia jornalística.
-
-
 # Constituição fundamental (J. S. Mill)
-2025-06-16 self flow quotes
+2025-06-16 quotes
 
-Nenhum grande aperfeiçoamento da humanidade como um todo é possível até que uma grande mudança tenha lugar na constituição fundamental de seu modo de pensar. J. S. Mill.
+"Nenhum grande aperfeiçoamento da humanidade como um todo é possível até que uma grande mudança tenha lugar na constituição fundamental de seu modo de pensar."
 
-# Cabala: A Energia da Transformação (Roshveder, Eliel)
-2025-06-21 self books quotes
+# Cabala: A Energia da Transformação (Eliel Roshveder)
+2025-06-21 clippings
 
 Meditar na natureza é tocar o divino.
 
@@ -92750,7 +92736,7 @@ Ter matado e roubar faziam com que ele não fosse um simples acontecido qualquer
 Glória possuía no sangue um bom vinho português e também era amaneirada no bamboleio do caminhar por causa do sangue africano escondido. Apesar de branca, tinha em si a força da mulatice.
 
 # Holistic Tarot (Benebell Wen)
-2025-06-21 self tarot books esoteric quotes
+2025-06-21 clippings
 
 Tarot is about the spectrum of human archetypal conditions and personalities, which can be used by the modern day practitioner for psychological projective evaluation. Irrespective of one’s faith, yoga helps with personal fitness and tarot helps with decision-making.
 
@@ -92835,14 +92821,14 @@ Quanto ao mundo material, podemos pelo menos ir até à conclusão de que os fat
 Do not let your fire go out, spark by irreplaceable spark, in the hopeless swamps of the approximate, the not-quite, the not-yet, the not-at-all. Do not let the hero in your soul perish, in lonely frustration for the life you deserved, but never have been able to reach. Check your road and the nature of your battle. The world you desired can be won, it exists, it is real, it is possible. Atlas Shrugged, 1957 [1992]: 983, from Stanford Encyclopedia of Philosophy.
 
 # Yes It Can: On the Functional Abilities of the Human Unconscious
-2025-07-02 self reading quotes
+2025-07-02 clippings
 
 The author presents considerations of evolutionary pressures and of the availability of mental resources that render YIC a reasonable hypothesis. Evidence is then reviewed from various subfields of the cognitive sciences, which shows that functions that were traditionally thought of as requiring consciousness can occur nonconsciously.
 
 Unconscious processes can evolutionarily designed over eons and that conscious aware-carry out every fundamental high-level function that conscious ness as we experience it today is a relatively recent develop-processes can perform.
 
 # A sabedoria dos psicopatas (Kevin Dutton)
-2025-07-02 self books quotes
+2025-07-02 clippings
 
 Embora a pulsação de todos os desarmadores tenha permanecido estável, algo quase inacreditável ocorreu com os que haviam sido condecorados. Sua pulsação na verdade baixou. Assim que entraram na zona de perigo (ou “zona de lançamento”, como disse um cara com quem conversei), eles assumiram um estado de foco frio e meditativo: um elevado estado de consciência no qual eles e o mecanismo em que estavam trabalhando se tornaram um só.
 
@@ -92960,10 +92946,10 @@ Quando conheci um teclado digital foi uma experiência incrível! Eu nunca poder
 
 Da mesma série de coisas inúteis para fazer aliado à sede por livros eu vasculhava as bibliotecas da cidade também. Uma vez achei um manual para secretárias que ensinava a escrita dinâmica para ditados. Aprendi isso também, mas não tinha muito como praticar. O bacana eram os códigos que foram padronizados, como finais longos de palavras (o sufixo mente, por exemplo) eram traduzidos em uns rabiscos. O código servia para compactar expressões inteiras, geralmente as mais usuais pelo tipo de discurso (acho que era mais pra escritório, mas existem códigos específicos para anotar processos jurídicos, por exemplo). Uma secretária bem treinada seria capaz de acompanhar na escrita um discurso dito sem pausas e anotar tudo para transcrever depois.
 
-# Akrasia
-2025-08-30 quotes self
+# Akrasia (John Perry, The Art of Procrastination)
+2025-08-30 quotes
 
-The mystery of why people choose to do other than what they think is best for them to do. John Perry (The Art of Procrastination).
+"The mystery of why people choose to do other than what they think is best for them to do."
 
 # The Neuroscience of the Gut
 2025-08-30 papers science quotes
@@ -92989,11 +92975,6 @@ The student will find abundant proof in this system of the truthfulness of the a
 2025-09-06 quotes
 
 Só porque eu não me importo não significa que eu não entenda. Homer Simpson.
-
-# Padrões de pensamento
-2025-09-27 quotes flow
-
-Em geral, não temos consciência de todos os nossos padrões de pensamento. Só é possível trazê-los à consciência quando observamos nossas emoções. O Poder do Agora: Um guia para a iluminação espiritual (Tolle, Eckhart).
 
 # Como fazer exercícios
 2025-10-02 body quotes
@@ -93089,31 +93070,6 @@ No entanto, enquanto crescemos, esquecer temporariamente quem somos pode ser lib
 Quem desenvolve um sistema simbólico interno sólido torna-se menos vulnerável às distrações externas. Aprenda a filtrar o ruído do mundo, transforme informação em crescimento e converta a incerteza em movimento. Nesse ponto, viver deixa de ser apenas reagir: torna-se criar.
 
 Entre o caos e a ordem, entre o limite e a expansão, aprendemos a dirigir a própria atenção — e, com ela, o próprio destino.
-
-# Dar atenção à ação em si (Eckhart Tolle, O Poder do Agora)
-2025-10-07 self now
-
-Verifique se você pode dar muito mais atenção ao fazer do que ao resultado desejado através do fazer.
-
-Portanto, não se preocupe com o resultado da sua ação, basta dar atenção à ação em si. O resultado surgirá espontaneamente. Essa é uma valiosa prática espiritual. No Bhagavad Gita, um dos mais antigos e mais belos ensinamentos espirituais que existem, o desapego ao resultado da ação é chamado Karma Yoga. É descrito como o caminho da “ação santificada”.
-
-Na ausência do tempo psicológico, o nosso sentido do eu interior provém do Ser, não do nosso passado pessoal. Assim, desaparece a necessidade psicológica de nos tornarmos uma outra pessoa diferente de quem já somos.
-
-Torne-o consciente. Observe as muitas maneiras pelas quais o desconforto, o descontentamento e a tensão surgem dentro de você, através de julgamentos desnecessários, resistência àquilo que é e negação do Agora.
-
-Habitue-se a monitorar o seu estado mental e emocional através de uma auto-observação. “Estou me sentindo à vontade neste momento?” é uma pergunta que você deve se fazer com frequência. Ou pode se questionar: “O que está acontecendo dentro de mim neste exato momento?”
-
-Dê uma boa olhada dentro de você. Existe algum leve traço de ressentimento ou má vontade? Se existe, observe-o, tanto no nível mental quanto no emocional. Que tipos de pensamentos a sua mente está criando em torno dessa situação? Depois, observe a sua emoção, que é a reação do corpo a esses pensamentos.
-
-Os mestres zen usam a palavra satori para descrever um momento de insight, um momento de mente vazia e presença total.
-
-Como vivemos em uma cultura dominada pela mente, a maior parte da arte moderna, da arquitetura, da música e da literatura é desprovida de beleza, de essência interior, com raras exceções. A razão é que as pessoas que criam essas obras não conseguem livrar-se das suas mentes, nem mesmo por um momento.
-
-Portanto, nunca estão em contato com aquele lugar interior onde se originam a verdadeira criatividade e a beleza.
-
-Você se apoderou de uma fração de um processo dinâmico, uma dança molecular, e fez dela uma entidade separada.
-
-A atenção é a chave para a transformação, e isso também envolve aceitação. A atenção é como um raio de luz: o poder concentrado da consciência que transforma tudo nela própria.
 
 # Textos de IA não têm alma?
 2025-10-23 essays writing quotes
@@ -93350,7 +93306,7 @@ However, since PDPs display the overall contribution of each feature across the 
 The PDP of fat exhibits a benefcial effect for fat since our algorithm predicts, on average, lower PPGR as the meal’s ratio of fat to carbohydrates (Figure 4C) or total fat content (Figure S5A) increases, consistent with studies showing that adding fat to meals may reduce the PPGR (Cunningham and Read, 1989).However, here too, we found that the effect of fat varies across people (...)
 
 # Better Than Before (Gretchen Rubin)
-2026-01-24 books reading self
+2026-01-24 clippings
 
 Este é outro livro recomendado em Wired to Eat e outro livro sobre mudança de hábito. É bonitinho, parece bem autoral e escrito por mulher. Devo largá-lo pela subjetividade que não me agrada, mas em alguns poucos momentos pode-se perceber um potencial bom livro escrito por alguém bem metódico.
 
@@ -93358,7 +93314,7 @@ Este é outro livro recomendado em Wired to Eat e outro livro sobre mudança de 
 
 It is a profoundly erroneous truism that we should cultivate the habit of thinking of what we are doing. The precise opposite is the case. Civilization advances by extending the number of operations we can perform without thinking about them. —ALFRED NORTH WHITEHEAD,  An Introduction to Mathematics
 
-when we’re worried or overtaxed, a habit comforts us.
+(...) when we’re worried or overtaxed, a habit comforts us.
 
 Habits speed time, because when every day is the same, experience shortens and blurs;
 
@@ -93531,11 +93487,6 @@ Today the blog is structured in "chapters" that are the month and year when each
 The idea here is to continue to use date as a marker, but also support other kinds of markers to group posts together as a classic chapter from a book. It should be possible to create, maybe inside the tags, values that are parsed as new groups despite the date each one belongs.
 
 The final view will be posts organized by these new markers and not appearing anymore to the months market. It will be shown in the blog just as the month/year pages, but with another name to group.
-
-# O corpo interior
-2026-02-17 quotes self now
-
-O corpo interior está na fronteira entre a forma e a essência, que é a sua verdadeira natureza. Nunca perca o contato com ele. Eckhart Tolle (O Poder do Agora, 1997).
 
 # Change slug style to wiki style
 2026-03-05 projects ideas
@@ -93794,21 +93745,6 @@ Caveat: como inserir links em entradas de posts? Talvez usar algum método cru c
 
 Meu monitor curvo Samsung que ganhei de presente de um amigo estava começando a apresentar falhas de conexão no HDMI e eu precisava ficar desconectando, conectando, abrindo o laptop até que ele conectasse. Decidi voltar para o monitor que havia comprado há um tempo, mais novo que este, da Dell, por recomendação de um amigo. Ele passou um tempo empoeirando em um canto do quartinho. Agora que fiquei acostumado com o monitor curvo ele parece ter uma barriga na frente, como se fosse o oposto do outro. Já tem alguns dias com essa sensação. Eu acho que ele está grávido esperando um tabletzinho.
 
-# Sofrimento
-2026-05-30 self
-
-O sofrimento que sentimos neste exato momento é sempre alguma forma de não aceitação, uma forma de resistência inconsciente ao que é. O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado. Enquanto não somos capazes de acessar o Poder do Agora, vamos acumulando resíduos de sofrimento emocional. Esses resíduos se misturam ao sofrimento do passado e se alojam em nossa mente e em nosso corpo. Isso inclui o sofrimento vivido em nossa infância, causado pela falta de compreensão do mundo em que nascemos.
-
-Todo esse sofrimento cria um campo de energia negativa que ocupa a mente e o corpo. Qualquer coisa pode ativá-lo, especialmente se encontrar ressonância em um padrão de sofrimento do passado. Eles podem atacar tanto as pessoas à nossa volta quanto a nós mesmos, seus “hospedeiros”.
-
-Preste atenção a qualquer sinal de infelicidade em você, qualquer que seja a forma, pois talvez seja o despertar do sofrimento. Ele pode se manifestar como uma irritação, um sinal de impaciência, um ar sombrio, um desejo de ferir, sentimentos de raiva, ira, depressão ou uma necessidade de criar algum tipo de problema em seus relacionamentos. Agarre o sinal no momento em que ele despertar de seu estado inativo.
-
-Manter-se em um estado de alerta consciente destrói a ligação entre o sofrimento e o mecanismo do pensamento, e aciona o processo de transformação. É como se o sofrimento se tornasse o combustível para a chama da consciência, resultando em um brilho de mais intensidade. Esse é o significado esotérico da antiga arte da alquimia: a transformação do metal não precioso em ouro, do sofrimento em consciência.
-
-O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado. Enquanto não somos capazes de acessar o Poder do Agora, vamos acumulando resíduos de sofrimento emocional. Esses resíduos se misturam ao sofrimento do passado e se alojam em nossa mente e em nosso corpo. Isso inclui o sofrimento vivido em nossa infância, causado pela falta de compreensão do mundo em que nascemos. Todo esse sofrimento cria um campo de energia negativa que ocupa a mente e o corpo. Qualquer coisa pode ativá-lo, especialmente se encontrar ressonância em um padrão de sofrimento do passado.
-
-Ele sobrevive graças à nossa identificação inconsciente com ele, assim como ao medo inconsciente de enfrentarmos o sofrimento que vive dentro de nós. Mas se não o enfrentarmos, se não direcionarmos a luz da nossa consciência para o sofrimento, seremos forçados a revivê-lo. Manter-se em um estado de alerta consciente destrói a ligação entre o sofrimento e o mecanismo do pensamento, e aciona o processo de transformação. É como se o sofrimento se tornasse o combustível para a chama da consciência, resultando em um brilho de mais intensidade. Esse é o significado esotérico da antiga arte da alquimia: a transformação do metal não precioso em ouro, do sofrimento em consciência.
-
 # First know how the thing work; then know how the thing does not work
 2026-06-20 quotes work
 
@@ -93943,8 +93879,3 @@ Você nem vai conseguir mais pedir água e, quando lhe derem água, vão praguej
 2026-09-05 books
 
 Eles tinham chegado até ali porque, em algum nível insano, queriam estar ali. Tudo o que restava era a curiosidade. O mistério do mundo exterior além do véu projetado nas telas das paredes.
-
-# Tempo e passado
-2026-09-05 self
-
-O tempo acumulado na mente humana encerra uma grande quantidade de sofrimento cuja origem está no passado.
