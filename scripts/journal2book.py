@@ -22,6 +22,7 @@ def call_publisher(script_name):
         '--journal-path', 'journal.md',
         '--single-post-mode', '0',
         '--private',
+        '--private-journal-path', '.private/journal.md',
         '--links', 'links.yaml',
     ]
     
