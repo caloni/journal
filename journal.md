@@ -1050,7 +1050,7 @@ Sim, Thiago. Em ambas as configurações não roda no 95 por conta da função I
 []s
 
 # História do Windows
-2006-11-11 computer windows veryold windowshistory
+2006-11-11 computer
 
 Estava mexendo em uns fontes antigos e no meio deles encontrei um breve relato histórico do sistema operacional Windows que escrevi em uma época distante, quando planejava manter um site sobre ele com um amigo. De acordo com o Source Safe, a última modificação foi feita em abril de 2002. Fora um adendo sobre o Vista e uns leves retoques, o texto se mantém o mesmo, tornando ele o artigo que menos me deu trabalho nesse 1 ano e meio de blog.
 
@@ -1255,7 +1255,7 @@ Nos últimos anos voltei para a área de segurança, onde na Venn estou me diver
 
 
 # Resumo profissional
-2007-06-14
+2007-06-14 computer
 
 Location: São Paulo, Brazil
 
@@ -1641,7 +1641,7 @@ Obs.: this kind of "obscure rule" hardly will pass in a code review since it is 
 
 
 # História do Windows - parte 1.0
-2007-06-26 computer windows archive windowshistory
+2007-06-26 computer
 
 Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao "História do Windows".
 
@@ -1800,7 +1800,7 @@ Com certeza existe um monte de coisas novas para aprender quando se troca de dep
 Essa parece ser uma introdução muito básica ao SoftICE. E na verdade é. Teremos outras oportunidades mais pra frente de usar esse poderoso depurador, principalmente naqueles casos onde um problema só acontece no Windows 95 Release A e sem rede. Isso não é tão incomum quanto parece.
 
 # História do Windows - parte 2.0
-2007-07-04 computer windows archive windowshistory
+2007-07-04 computer
 
 Eu seu, eu sei. A maioria dos meus leitores odiou o tema "História do Windows" na era paleozóica. Porém, como eu disse na parte 1.0, estou apenas satisfazendo a outra parte de leitores que procurou no Google por esse tema e acabou caindo no meu antigo blog. Mas vejamos o lado bom: a partir da próxima versão iremos destrinchar a API do sistema, entendendo o porquê das coisas serem como elas são. No momento os deixo apenas com história, pois é desconhecido para mim como funcionavam os primeiros rabiscos do MS-DOS Shell, mais conhecido como Windows/386. Bom divertimento!
 
@@ -1959,7 +1959,7 @@ int main()
 
 
 # Desejo insano de programar no kernel
-2007-07-12 essays archive
+2007-07-12 essays
 
 Muitas vezes meus amigos (um em particular) me perguntam por que não me interesso em programar em kernel mode, como se isso fosse um objetivo a ser alcançado por qualquer programador em user mode. Bom, não é.
 
@@ -2776,7 +2776,7 @@ Para saber mais dê uma passada no "sítio do Charles Petzold".
 
 
 # História do Windows - parte 3.51
-2007-08-07 computer archive windowshistory
+2007-08-07 computer
 
 Bem-vindos. Esta é a série "História do Windows". Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. Com tudo combinado entre as grandes corporações, é lógico que esse acordo foi por água abaixo.
 
@@ -3015,7 +3015,7 @@ Em suma, o VirtualBox tem tudo para arrasar em futuras versões. Se, é claro, c
 
 
 # GINA x Credential Provider
-2007-08-13 computer archive
+2007-08-13 computer
 
 Não fui convidado a participar do tema, mas como já faz algum tempo que o rascunho deste artigo está no molho, e aproveitando que meu amigo Ferdinando resolveu escrever sobre nossa amiga em comum, darei continuidade à minha empolgação sobre o tagging e largarei aqui este pequeno adendo.
 
@@ -3577,7 +3577,7 @@ Adorei o texto. So para acrescentar: O fanzine Barata Eletrica continua, agora c
 
 
 # História do Windows - parte 4.0
-2007-09-04 computer archive windowshistory
+2007-09-04 computer
 
 Em meio a uma febre de consumismo, no dia 24 de agosto de 1995, foi lançado a revolução no sistema gráfico da Microsoft: a interface do Windows 95. Ela foi considerada muito mais amigável que suas versões anteriores. Ainda possuía a vantagem de não necessitar mais de uma instalação prévia do DOS, passou a suportar nomes de arquivos longos, incluir suporte a TCP/IP e dial-up networking integrados. Muitas mudanças foram feitas no sistema em si, como a passagem para 32 bits (como já vimos, parcial) e o novo conceito de threads, que é o que veremos com mais detalhes neste artigo.
 
@@ -4119,7 +4119,7 @@ Note que a função pode eventualmente ser chamada internamente (pelo próprio o
 Com isso termina o nosso pequeno experimento de como é possível interceptar chamadas COM simplesmente contando e usando o WinDbg. OK, talvez um pouquinho a mais, mas nada de quebrar a cabeça.
 
 # A mobilidade das variáveis no printf
-2007-09-20 computer ccpp
+2007-09-20 computer
 
 O printf (e derivados) tem sérios problemas por conta de sua falta de tipagem. Não vou aqui dizer que cout é a alternativa óbvia e melhorada porque não é. Mas isso é uma discussão que eu não deveria começar aqui. E não começarei. Portanto, ignorem essa linha =).
 
@@ -4243,7 +4243,7 @@ Among the classic Matt Pietrek posts in Microsoft Journal there is in the "1999 
 
 
 # Introdução ao C++ Builder...Turbo C++
-2007-09-26 computer cppbuilder archive
+2007-09-26 computer
 
 Após mais de um ano de tentativas, finalmente consegui instalar e iniciar com sucesso o Borland Developer Studio. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho C++ Builder e seus parentes, o Delphi e o C# Builder.
 
@@ -5660,7 +5660,7 @@ Relembrando nosso passeio pela pilha, ao entrar em uma função stdcall, os prim
 
 
 # MouseTool
-2007-11-13 english projects archive
+2007-11-13 computer
 
 Well, as most of you already know, I really don't like mice. Nevertheless I respect the users who use it and like it. That is the reason why I am writing a little more about it. This time, I going to show a program I use every day: MouseTool, for the users who does not use the mouse and like it.
 
@@ -5737,7 +5737,7 @@ Uma outra coisa que ele faz, muito útil quando comecei a usá-lo, é apagar tod
 O SDelete segue o padrão DOD 5220.22-M, o que quer dizer que ele está dentro das especificações da indústria que garantem a confidencialidade dos dados apagados. Além do mais, você pode especificar quantas "passadas" nos setores você deseja, para evitar aqueles ataques mais rebuscados em que é analisada a impedância das trilhas físicas de um disco magnético para obter os dados que uma vez estavam lá. É claro que isso não deve valer muito a pena se você está usando um PenDrive com memória flash =).
 
 # História do Windows - parte 5.1
-2007-11-19 computer archive windowshistory
+2007-11-19 computer
 
 Chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP, de Windows eXPerience, usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos. Essa é minha versão favorita da "História do Windows" e junto do Windows 7 uma das edições mais robustas já feitas.
 
@@ -6176,7 +6176,7 @@ O criador do "DriverEntry" me questionou se não seria mais fácil, em vez de es
 
 
 # Desenhando em C++ Builder
-2007-11-29 computer cppbuilder archive
+2007-11-29 computer
 
 Uma das partes mais fáceis e divertidas de se mexer no C++ Builder é a que lida com gráficos. A abstração da VCL toma conta da alocação e liberação dos objetos gráficos da GDI e nos fornece uma interface para desenhar linhas e figuras geométricas, mexer com bitmaps, usar fontes etc. Concomitantemente, temos acesso ao handles "crus" da Win32 API para que possamos chamar alguma função esotérica necessária para o seu programa, o que nos garante flexibilidade suficiente.
 
@@ -6257,7 +6257,7 @@ private:
 "Amo o Builder"
 
 # Conceitos básicos na programação com C++ Builder
-2007-12-03 computer cppbuilder archive
+2007-12-03 computer
 
 No projeto que é criado quando iniciamos a IDE três arquivos-fonte são gerados: Project1.cpp, Unit1.cpp e Unit1.h. Desses três, vamos analisar o primeiro:
 
@@ -6354,7 +6354,7 @@ if( chkBox->Checked )
 []s
 
 # Interação entre controles no C++ Builder
-2007-12-05 computer cppbuilder archive
+2007-12-05 computer
 
 Como próxima lição da nossa jornada Borland, vamos aprender a fazer os controles de um form interagirem entre si com a força do pensamento.
 
@@ -6401,7 +6401,7 @@ Mais simples, impossível. E com um pouco de imaginação, o mais besta dos apli
 "Lista de Compras"
 
 # Gerenciamento de janelas em C++ Builder
-2007-12-11 computer cppbuilder archive
+2007-12-11 computer
 
 As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API, com o detalhe que a VCL gerencia tudo automaticamente. Isso não quer dizer que não podemos tomar controle de tudo. Quer dizer que não precisamos.
 
@@ -6558,7 +6558,7 @@ ntdll!KiFastSystemCallRet:
 
 
 # Debug remoto no C++ Builder
-2007-12-13 computer cppbuilder debugging archive
+2007-12-13 computer
 
 Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
 
@@ -6645,7 +6645,7 @@ O mais encorajador desse problema do sizeof é que a resposta ingênua estava ce
 
 #### // Comments
 
-2007-12-27 marcos machado:
+2007-12-27 Marcos Machado:
 
 ```
 size_t len = sizeof("A simple string");
@@ -6672,7 +6672,7 @@ Na verdade, não. Acho que você está confundindo com a função strlen (string
 []s
 
 # Drag and drop no C++ Builder
-2007-12-19 computer archive
+2007-12-19 computer
 
 O sistema de drag and drop do C++ Builder é muito fácil de usar, integrado que está com o sistema de classes e objetos do framework. Tanto para o objeto de drag quanto para o objeto de drop tudo que temos que fazer é definirmos a propriedade DragMode para dmAutomatic como mostra a figura. Isso fará com que toda a troca de mensagens seja manipulada automaticamente pela VCL.
 
@@ -6779,7 +6779,7 @@ No entanto, se você já viu algum programa fazer isso, então é porque existe 
 []s
 
 # Banco de dados no C++ Builder
-2007-12-21 computer cppbuilder archive
+2007-12-21 computer
 
 Um banco de dados é qualquer lugar onde podemos ler e escrever informação geralmente persistente. Pode ser um arquivo INI, uma estrutura binária ou uma plantação de servidores para fazer busca na internet. O uso de banco de dados em programação é mais que essencial, pois permite que armazenemos os resultados de um processamento e utilizemos esses mesmos resultados em futuras execuções.
 
@@ -8993,7 +8993,7 @@ Particulamente uso o pc no modo limitado desde que consegui um, considero bem f�
 
 
 # Silly regex trick
-2008-02-07 computer english archive
+2008-02-07 computer
 
 I know what you going to think about this one: "silly trick". That's why I just put it in the title. Anyway, that is something I use everyday, so I thought it might be useful to who cares about productivity.
 
@@ -10795,7 +10795,7 @@ Configure Seus Símbolos Corretamente.
 
 
 # Influence Board
-2008-03-14 computer projects archive
+2008-03-14 computer
 
 Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
 
@@ -12366,7 +12366,7 @@ Valeu! Na verdade, agora estou testando também o Bazaar... é uma escolha difí
 []s
 
 # Crash Dump Analysis: o livro
-2008-04-17 books archive
+2008-04-17 blog
 
 Para quem acabou de terminar o Advanced Windows Debugging (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu) no seu blogue "Crash Dump Analysis", "seus problemas acabaram-se": acabou de ser lançado o Memory Dump Analysis Volume 1 em hardware! Em modelos portáveis (paperback) e desktop (hardcover).
 
@@ -12814,7 +12814,7 @@ Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memór
 É isso aí. Não espero que você use muitas vezes essa forma de acessar memória. Só que eu usei e... nunca se sabe =)
 
 # Projetos no Caloni.com.br
-2026-03-21 computer archive
+2026-03-21 computer
 
 2026-03-21 Mantive este artigo arquivado pelo histórico e pelos comentários. Foi atualizado para refletir migração dos projetos para o Launchpad.
 
@@ -12920,7 +12920,7 @@ Eu fico especialmente grato quando sei que o blogue ajudou alguém, o que quer d
 
 
 # Como tratar um merge no Bazaar
-2008-05-09 computer archive
+2008-05-09 computer
 
 Hoje fizemos um merge de duas versões que entraram em conflito em nosso projeto-piloto usando bzr. Isso geralmente ocorre quando alguma coisa mudou no mesmo arquivo em lugares muito próximos um do outro. Veremos um exemplo de código para ter uma idéia de quão fácil é o processo:
 
@@ -13527,7 +13527,7 @@ Ehehehehehe. Bom, felizmente, ou infelizmente, não é. É apenas uma saída gen
 []s
 
 # MouseTool: clique automático do seu rato
-2008-05-21 computer projects archive
+2008-05-21 computer
 
 Bem, como a maioria de vocês já sabe, eu realmente não gosto de mouses. Apesar disso, respeito os usuário que usam-no e até gostam dele. Essa é a razão por que estou escrevendo mais uma vez sobre isso. Dessa vez, irei mostrar um programa que eu uso todos os dias: MouseTool, para os usuários que  não usam o mouse, mas gostam dele.
 
@@ -13946,7 +13946,7 @@ Fico feliz também que tenha gostado do encontro. Eu também gostei muito e acre
 
 
 # Launchpad e a democracia do código-fonte
-2008-06-04 computer archive
+2008-06-04 computer
 
 Após a publicação dos projetos que ando mexendo no próprio saite do Caloni.com.br, recebi uma enxurrada de downloads e quase atingi meu limite de fluxo mensal no provedor.
 
@@ -14110,7 +14110,7 @@ Considero essa diferença uma das coisas mais difíceis para o iniciante entende
 
 
 # Guia básico de repositórios no Bazaar
-2008-06-10 computer archive
+2008-06-10 computer
 
 Alguns conceitos-chave antes de trabalhar com o Bazaar são:
 
@@ -14333,7 +14333,7 @@ Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interes
 
 
 # Como fazer merge de projetos distintos no Bazaar
-2008-06-16 computer archive
+2008-06-16 computer
 
 O problema foi o seguinte: Nós iniciamos o controle de fonte pelo Bazaar na parte Linux do projeto, já que ela não iria funcionar pelo Source Safe, mesmo. Dessa forma apenas um braço do projeto estava no controle de fonte e o resto não.
 
@@ -14713,7 +14713,7 @@ Second DLL: 10000000
 Tente evitar a replicação do mesmo arquivo em diversos lugares. Quando eu digo "mesmo arquivo" me refiro ao mesmo nome de DLL, embora não necessariamente a mesma versão. Isso pode evitar algumas dores de cabeça futuras. E muitas, muitas horas de depuração.
 
 # Como estou trabalhando com o Bazaar
-2008-06-24 computer archive
+2008-06-24 computer
 
 Depois de alguns ajustes e muitas perguntas do meu amigo-colega desenvolvedor Rafael conseguimos definir alguns usos e costumes em nosso código controlado pelo Bazaar. Este é um guia para Dummies de como é possível organizar um ou mais projetos de forma a favorecer o refactoring e a liberdade de uso.
 
@@ -15131,7 +15131,7 @@ Parabéns pelo artigo.
 
 
 # Pesquisas sobre a GINA
-2008-07-02 computer archive
+2008-07-02 computer
 
 Já sabemos o que é uma GINA. Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.
 
@@ -15156,7 +15156,7 @@ Por último, claro, salvo se não existir o valor GinaDll dentro da chave do Win
 E eis que surge uma nova GINA.
 
 # VirtualBox
-2008-07-04 computer archive
+2008-07-04 computer
 
 O VirtualBox parece ser o concorrente mais próximo atualmente da VMWare. Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
 
@@ -15200,7 +15200,7 @@ Tudo bem essas funcionalidades não funcionarem por estarem desabilitadas na ver
 
 
 # Projeto-modelo
-2008-07-08 computer archive
+2008-07-08 computer
 
 É muito difícil construir um modelo de pastas que sirva para a maioria dos projetos que tivermos que colocar na fôrma. Ainda mais se esses projetos tiverem que futuramente fazer parte da mesma ramificação. Foi pensando em várias coisas que chegamos a uma versão beta que pode ajudar aqueles que ficam pensando durantes dias antes mesmo de colocar as mãos no código.
 
@@ -15311,7 +15311,7 @@ Atenciosamente, Huymada Farti Noys™
 Uma das coisas que mais me ajuda no VMware é a possibilidade de colocar 2 ou mais "maquinas" em rede e simular uma rede ruim com muito drop de pacotes.
 
 # Segunda versão do Houaiss2Babylon
-2008-07-14 computer projects archive
+2008-07-14 computer
 
 Depois de vários comentários de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
 
@@ -16434,7 +16434,7 @@ Both have pros and cons. The cons are related with the environment dependency. I
 Anyway, given the implementation, the main advantage is to isolate the code in only two functions - AntiAttachAbort and InstallAntiAttach - an API local hook (in the same process) that should never be called in production code. Besides, there are C++ ways to do such thing like "live assembly". But this is matter for other future and exciting articles.
 
 # Aprendizado em kernel mode
-2008-08-07 computer archive
+2008-08-07 computer
 
 Hoje terminei minha primeira leitura de Memory Dump Analysis Vol. 1, e qual não foi a minha surpresa ao encontrar entre os últimos posts justamente o que eu estava precisando: um guia de livros que se deve ler para começar a programar em kernel mode.
 
@@ -16482,7 +16482,7 @@ Na verdade, esse livro está, sim, só que infelizmente não com a mesma capa, e
 
 
 # Guia para iniciantes no DriverEntry
-2008-08-11 computer archive
+2008-08-11 computer
 
 A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem hardcore a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do www.driverentry.com.br, nossa referência kernel mode tupiniquim.
 
@@ -16648,7 +16648,7 @@ De qualquer forma, esse exercício no WinDbg foi bom para não enferrujar ;)
 
 
 # Duas pequenas dicas para programar no caos
-2008-08-15 computer archive
+2008-08-15 computer
 
 Ultimamente não tenho acertado muito bem meus cronogramas, com erros que variam de um dia a uma semana. A causa desse problema, pelo que eu tenho conseguido detectar, está em dois problemas que acredito acontecer de maneira muito freqüente em um ambiente de desenvolvimento que ainda está no caos:
 
@@ -17519,7 +17519,7 @@ Então, na verdade eu continuo ainda do lado dos que fazem. O ocorrido foi que e
 
 
 # Como usar WTL com o ATL do DDK
-2008-10-15 computer archive
+2008-10-15 computer
 
 Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o "ATL" era distribuído junto com o SDK, e dessa forma conseguíamos usar o "WTL" sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
 
@@ -17985,7 +17985,7 @@ não sei mais o que fazer...
 se puder mande a resposta pro meu email ;d
 
 # HouaissParaBabylon versão beta
-2008-11-15 projects archive
+2008-11-15 computer
 
 Depois de muitos fins-de-semana divididos em horas picadinhas de programação de lazer, está disponível em vosso saite a primeira versão para usuários do conversor do dicionário Houaiss para o aplicativo Babylon.
 
@@ -18504,12 +18504,12 @@ Dessa forma, 2008 em binário é 111 1101 0100 (coloquei os espaços para ficar 
 
 ---
 
-2009-03-29 sandra raquel:
+2009-03-29 Sandra Raquel:
 
 pelo amor ao próximo como se escreve 2008 nesse binario . Agradecida
 
 # HouaissParaBabylon versão 1.1
-2008-12-30 projects archive
+2008-12-30 computer
 
 Saindo mais um do forno.
 
@@ -19879,7 +19879,7 @@ Dentre eles, acabei ficando mesmo com o bom e velho seti@home. Pode me chamar de
 Escolha o seu!
 
 # Cuidado com a cópia de arquivos na VMWare
-2009-07-27
+2009-07-27 computer
 
 Quebrei a cabeça com uma DLL de hook que não estava funcionando para usuários comuns. No entanto, para qualquer administrador funcionava.
 
@@ -20646,7 +20646,7 @@ O cinema e a BBC russa também representaram um instrumento de aprimoramento do 
 Infelizmente, essa fase esmaeceu. Agora estou muito interessado em finanças e isso fez com que o russo ficasse cada vez mais para trás. Se me pedir hoje para falar algo em russo vou conseguir apenas balbuciar as mais "comunzinhas", pois esqueci todo o resto. Foi perda de tempo? Claro que não! Foi uma experiência que mostra que podemos aprender qualquer coisa a qualquer hora, independente do quão estranho ou bizarro isso seja.
 
 # Devaneio nerd rápido sobre aniversários
-2009-12-14 computer archive
+2009-12-14 blog
 
 Hoje não é aniversário do blogue. É meu. Há exatos (sic) trinta anos nascia eu, essa pessoa que vos fala. Legal, não?
 
@@ -20871,7 +20871,7 @@ Porém, o lado bom: podemos testar todas nossas hipóteses. Na vida real! Se, po
 Talvez isso faça a profissão tão realizadora e viciante: para resolver um problema, geralmente temos todas as cartas na mão, e se não temos, fazemos ter. Afinal de contas, somos nós que iremos ressuscitar o sistema perdido.
 
 # Correção instantânea de bugs
-2010-02-01 computer archive
+2010-02-01 computer
 
 Um programador tarimbado sabe que a melhor situação da vida dele para corrigir um bug é quando esse bug acontece em sua máquina de desenvolvimento, na versão Debug e ainda passo-a-passo. Como nessa situação a correção é um verdadeiro "passeio no parque" (ou na mesa do café) ela tende a quase nunca acontecer. Isso é Murphy Aplicado.
 
@@ -21003,7 +21003,7 @@ copy *.reg ierestore.reg
 Claro, não se esqueça de retirar os cabeçalhos duplicados (Windows Registry Editor Version X.XX). E Voilà! Fácil, não? Não?! Bom, então é por isso que eu sou bem pago =)
 
 # Bazaar gráfico
-2010-02-25 computer archive
+2010-02-25 computer
 
 Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do "Guia básico de repositórios no Bazaar" ~~para boiolas~~ user-friendly!
 
@@ -21063,7 +21063,7 @@ Uma desvantagem desse comando é que ele oculta o resto das linhas do fonte e n�
 Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Extensions, deem uma olhada no REG exportado.  Bom proveito.
 
 # Convivendo entre TodoList e Microsoft Project
-2010-03-15 computer archive
+2010-03-15 computer
 
 O próximo artigo sobre escovação de bits ainda está no forno. Tirar férias (de 40 dias) é uma escassez de ideias! No momento, posso explicar a facilidade que tive para continuar usando o TodoList para gerenciar minha equipe e ainda assim sincronizar nossas tarefas em um cronograma do Microsoft Project.
 
@@ -21270,7 +21270,7 @@ Porém, não contentes com dois conflitos - e essa é uma continuação decente 
 Para finalizar, a receita básica aprendida em O Homem-Aranha de Sam Reimi. Você não mantém mais a tensão sexual entre heróis e mocinhas, mas deixa fluir. No caso do mulherengo Tony Stark, uma péssima ideia, pois tira a força ou imunidade ou influência que sua secretária aparentemente tinha sobre ele, como se fosse a única conquista inalcançável do herói. Aparentemente, o novo poder dos heróis dessa época é conseguirem o que quiserem sem muito esforço, nem arranhões, e muito menos sangue.
 
 # Houaiss Para Babylon!
-2010-04-08 projects archive
+2010-04-08 computer
 
 Os últimos comentários de Henrique Esteves (quando havia seção de comentários no blogue) sobre o HouaissParaBabylon me fizeram dar mais uma fuçada nele e ver se tento deixá-lo compatível com o Houaiss 3. Foram apenas algumas horas e acho que resolvi os probleminhas relacionados com a troca do registro de instalação e o nome dos arquivos que armazenam os verbetes.
 
@@ -21293,7 +21293,7 @@ Isso me faz lembrar que uma das motivações do programador, fora programar, é 
 Obs.: Essa versão foi testada em um Windows XP com o Houaiss 3, Babylon 8 e o Babylon Builder mais atual.
 
 # Using TodoList and Microsoft Project together
-2010-04-10 computer english archive
+2010-04-10 computer
 
 The next article about bits is still in the oven. Taking vacation (40 days) had drop me out of ideas! At the moment, I can explain the tips and tricks using  TodoList to manage my team and synchronize my tasks in a Microsoft Project timesheet.
 
@@ -22507,7 +22507,7 @@ Mais para a frente em minha análise consegui encontrar o objeto pelo qual todas
 
 
 # Novas diferenças no Bazaar
-2010-08-04 computer archive
+2010-08-04 computer
 
 Novidade incrível nas novas versões do Bazaar. Dando continuidade à sua versão boiola gráfica, agora é possível configurar quantos visualizadores de diferenças você quiser. Na hora de ver a diferença em algum código-fonte, você pode optar pelo enrustido embutido ou, no caso, o meu favorito, WinMerge.
 
@@ -22533,7 +22533,7 @@ Além disso, A Origem também é um pouco de filosofia. A questão que tortura a
 É por isso que os personagens trágicos de A Origem acabam emprestando um pouco do Cinema noir, pois seus futuros são sombrios graças ao passado sem volta. O tal do paradoxo espacial explorado pelos arquitetos de sonhos possui uma rima em sua própria estrutura, onde as coisas funcionam em nossa mente, conforme vemos a equipe se deparando com diversos desafios, cada um em sua camada de sonho. É dentro desse embate psicológico que reside a tensão de um filme que possui uma ação muito particular, e que provavelmente se revisto de tempos em tempos, irá se mostrar muito mais rico do que um mero filme de ação.
 
 # Não é minha culpa
-2010-08-08 computer archive
+2010-08-08 computer
 
 Recebi a dica de meu amigo kernel-mode sobre o aplicativo NotMyFault, escrito como ferramenta do livro Windows Internals e que basicamente gera telas azuis para análise.
 
@@ -22556,7 +22556,7 @@ Estarei usando estes mesmos minidumps na palestra, junto dos dumps completos. Ma
 Portanto, junte suas grandes dúvidas para o grande dia e nos vemos lá.
 
 # Foto dos melhores momentos
-2010-08-12 computer archive
+2010-08-12 computer
 
 Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
 
@@ -22937,7 +22937,7 @@ Por outro lado, veja como a luz que incide sobre o casal que reata na penúltima
 Mas se uma cena ou outra nos faz comovidos tão facilmente, apesar das posições e movimentos brilhantemente escolhidos pelo diretor, o grande "trunfo" de todo filme é a atriz principal, que constrói de maneira inequívoca uma personagem desatada com o que existe em sua volta, que insiste em comer as coisas com mostarda e não sente o gosto de nada (outra metáfora usada de maneira tão inteligente, como quando ela volta a usar mostarda quando volta com o marido). Enfim, uma mulher que deseja e tenta ardentemente ter uma vida normal, mas nunca consegue, e se sente frustrada e perdida por isso. Porém, aos poucos ela vai entendendo a dinâmica de sua vida a partir de suas experiências, decide agarrar com convicção o que tem aprendido e escolhe o que disse que sabia desde o começo da vida: ser feliz. Tudo isso sem explicações, sem diálogos expositivos, mas apenas com pequenas expressões e gestos tão bem trabalhados.
 
 # Três em um
-2010-10-09 computer archive
+2010-10-09 computer
 
 Que vergonha passar tanto tempo sem postar nada. Parece que não fiz nada que valesse a pena comentar por aqui.
 
@@ -23043,7 +23043,7 @@ E se a história é facilmente esquecível ao sair da sala, pelo menos ela não 
 De qualquer forma, essa nova crônica se revela como um passatempo atraente do ponto de vista estético, podendo agradar uma criança paciente ou um adulto contemplativo. Na dúvida, leve pipoca.
 
 # Atualizando HouaissParaBabylon no saite
-2010-10-22 projects archive
+2010-10-22 computer
 
 O último comentário no meu último artigo sobre o conversor Houaiss para Babylon me fez lembrar de algo muito importante: eu não atualizei o branch do saite com a última versão. Deve ser por isso que as pessoas estão tendo problemas com o uso do código. Resolvo isso já:
 
@@ -23384,7 +23384,7 @@ Muito embora tenha momentos emocionantes, a narrativa não consegue gerar uma gr
 Começamos essa história sobre um jogador de vídeo-games profissional dentro do jogo que este é especialista. Esse artifício será usado mais uma ou duas vezes e transportado para o pseudo-romance que este viverá com uma oriental da cidade para onde vão disputar o campeonato, só que dessa vez o ambiente virtual é o Second Life, lugar feito para conhecer pessoas. Com esse tipo de simbolismo é que somos levados a uma história que poderia ser fascinante, por nos dar a presença de dois personagens igualmente interessantes, bastando para isso que tenhamos um Bill Murray e uma Scarlett Johansson nos papéis principais e teríamos um Encontros e Desencontros 2, menos profundo mas igualmente interessante.
 
 # Então você ainda não usa controle de fonte?
-2010-11-02 computer archive
+2010-11-02 computer
 
 Graças aos antigos "SCMs", muitos programadores hoje em dia evitam ter que configurar um controle de fonte mínimo para seus projetos. E por um bom motivo: temos que programar e resolver problemas reais no dia a dia e não ficar configurando servidores de controle de fonte e lidando com conflitos na calada da noite. Isso vale tanto para o pessoal do Windows e o seu Visual Source Safe (eu que o diga) quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
 
@@ -23934,7 +23934,7 @@ Personagens que Allen adora colocar em cena: a cartomante que faz papel de psiqu
 Os pontos mais engraçados do longa são o esforço cego que as pessoas fazem para ter sucesso, mas não há jeito para elas, como quando o chefe dela a descarta veementemente, ou quando o plano de roubar o livro do amigo dá sinais que não vai dar certo. E a ironia é um forte do diretor/roteirista, como podemos ver quando o escritor se muda para o apartamento à frente do seu e imediatamente vê sua ex-mulher se trocando pela janela. A crueldade da filha quando ela precisa do empréstimo e a mãe nega por conselhos da vidente e ela se vira contra ela argumentando exatamente como o marido, que ela é uma charlatã que apenas diz o que ela deseja saber.
 
 # A Rede Social
-2010-12-03 movies miniviews fragments
+2010-12-03 movies
 
 Não é determinar quem está com a razão, mas sim em demonstrar como as relações sociais podem ser frágeis.
 
@@ -24357,7 +24357,7 @@ Lembrando quase sempre um videogame, e não seria exagero supor que a intenção
 Por fim, se até crianças chegaram a dormir em um filme desses, o que dirá os adultos, que não têm opção melhor do que tentar se colocar na posição de uma criança de 4 anos; e mesmo isso não é garantidor de diversão.
 
 # Trabalhando em múltiplos ambientes
-2010-12-27 computer archive
+2010-12-27 computer
 
 Existem diversas maneiras de se trabalhar com o Bazaar. Eu já havia definido como fazer na máquina de desenvolvedor para modificar o mesmo código-fonte em projetos paralelos, onde basicamente tenho um branch principal conectado no servidor (assim todo commit vai pra lá) e crio branches paralelos e desconectados para fazer quantos commits eu tenho vontade durante o desenvolvimento. Após todas as mudanças e testes básicos, atualizo o branch principal (com mudanças dos meus colegas) e faço o merge com o branch paralelo onde fiz todas as mudanças. Antes de subir com o commit final, ainda realizo um build de teste local, se necessário.
 
@@ -25017,7 +25017,7 @@ windbg vtable3.exe
 
 
 # Projeto DayToDay
-2011-03-03 computer projects archive
+2011-03-03 computer
 
 O DayToDay é um projetinho que criei para fazer tracking das minhas atividades diárias. Eu o criei há mais de 6 anos, e provavelmente se tivesse pensado em como isso seria útil para as pessoas compartilharem suas ideias e limitasse o número de caracteres para 140, estaria rico hoje.
 
@@ -25192,7 +25192,7 @@ Aliás, não é sempre que vemos decisões corajosas como essa em uma produção
 
 
 # Loucuras multithreading
-2011-03-18 computer archive
+2011-03-18 computer
 
 Estava eu depurando um sistema cliente/servidor com um tantão de threads e me veio à cabeça na volta pra casa como que um programador iniciante entenderia aquela bagunça de dar F10 em uma função e cair no meio de outra, dar outro F10 na outra e voltar pra primeira.
 
@@ -25243,7 +25243,7 @@ Como já havia dito, a decisão foi não inserir música em demasiado, o que, se
 Por fim, confesso que fiquei extremamente satisfeito pela forma sóbria que os conflitos são resolvidos, e mesmo que isso implique em alguns personagens alterados psicologicamente, suas ações em nada diminuem o tom controlado e a direção compulsiva da dupla Farrely, sempre apostando em planos que otimizem o impacto das piadas (2026-03-13 mas que crítico, não?), ou que economizem o número de cortes, quando não os dois (quando, por exemplo, dois policiais abordam Fred em um ato ilícito).
 
 # Bazaar com Subversion
-2011-03-23 computer archive
+2011-03-23 computer
 
 Para pessoas que ficaram viciadas em commits curtos e todo o histórico do fonte na própria máquina, foi uma surpresa descobrir que com o uso do plugin "bzr-svn" (já incluso no pacote de instalação), consigo ainda utilizar o Bazaar, mesmo que agora esteja trabalhando com um branch do Subversion.
 
@@ -25503,7 +25503,7 @@ Mas até lá, tudo é conduzido com o coração e a intuição de um grande cine
 Em espanhol e chinês. Prefira assistir sem saber o que é falado em chinês.
 
 # Houaiss 1.3
-2011-04-28 projects archive
+2011-04-28 computer
 
 Erroneamente imaginando que a falta de acesso tinha alguma coisa a ver com a escrita de arquivos no disco, ou até mesmo com a execução de processos, descobri depurando (o bom e velho depurador) que a origem do acesso negado estava na função AssignProcessToJobObject.aspx). Misteriosamente, no Windows 7, ao chamar essa função ocorre esse erro, independente da execução ser como administrador ou não.
 
@@ -25880,7 +25880,7 @@ Por fim, alguns detalhes chegam a ser até interessantes. É curioso, por exempl
 
 
 # Novo branch para projetos do Caloni.com.br
-2011-05-29 computer archive
+2011-05-29 computer
 
 Reestruturei meus projetos caseiros e coloquei todos em um branch no repositório do Assembla. A partir dele começarei a reestruturas os códigos de exemplo do saite, o deve facilitar o acesso. Para usuários do Bazaar, como eu, basta puxar o branch usando "seu endereço" usando o comando `bzr get`:
 
@@ -26045,7 +26045,7 @@ Aliás, os diálogos se tornam mais um ponto positivo do filme: conseguimos assi
 O que tristemente constatamos é que o roteiro prefere usar sua única premissa-título como força para todos os eventos, mas nunca se preocupa em explorá-la de maneira corajosa. A constatação final é que, apesar de tudo, esse acaba sendo, sim, mais um exemplar clichê de filmes de drama da família americana. Sequer existe uma conclusão satisfatória para o conflito principal, pois o roteiro coloca toda sua confiança apenas nas interpretações dos atores e não em suas decisões e diálogos, que teriam por função básica uma resolução mais digna do empolgante conflito principal.
 
 # Trilha de C++ organizada pelo grupo C/C++ Brasil
-2011-06-10 ccppbr archive
+2011-06-10 computer
 
 Sim, nós temos C++! Apesar de ser uma linguagem dita ultrapassada pelos brazucas, o TDC desse ano terá uma trilha de C++ disponível para todo tipo de público que aprecia ou precisa dos poderes de C++ em seu dia a dia
 
@@ -26054,7 +26054,7 @@ O evento será organizado (do lado C++) pelos nossos habituais organizadores dos
 A trilha de C++ será Quarta, dia 6 de Julho.
 
 # Vídeos do boostcon
-2011-06-10 computer archive
+2011-06-10 computer
 
 Para se aquecer enquanto a trilha de C++ do TDC não acontece, o Grupo C/C++ passou um linque para os vídeos do boostcon, que, pelo que entendi, é um evento onde as pessoas falam como boost é legal e por que você deveria usar boost em seu projeto C++. Pelos títulos (ainda não os assisti) existem assuntos dos mais diversos, e talvez seja uma forma de catequizar a equipe onde você trabalha e que usa coisas bem piores do que boost para programar.
 
@@ -26797,7 +26797,7 @@ Pior do que se limitar a recursos burocráticos em quase todas as cenas, é o ro
 Porém, mesmo assim, o diretor Stephen Sommers (A Múmia, Van Helsing) e seu habitual montador Bob Ducsay conseguem impor um ritmo interessante no ataque a Paris, utilizando para isso o corte paralelo entre duas perseguições distintas. Pena que essa não é a sequência final, muito mais problemática, tanto no comprimento quanto no problema já citado de fechar as histórias dos personagens.
 
 # Super 8
-2011-08-15 movies miniviews fragments
+2011-08-15 movies
 
 A exploração do desconhecido fantasioso funcionando como um reflexo da própria família acaba empolgando mesmo em seus créditos finais.
 
@@ -26995,7 +26995,7 @@ Por sua própria condição, Dr. Manhatan passa a ser braço direito do governo 
 Apenas pela descrição dos personagens e de suas relações o filme já se distanciaria milhas de seus pares. No entanto, o próprio conceito de heroísmo nos dias de hoje é discutido em sua trama maior, e as razões do antagonista conseguem deturpar ainda mais esse conceito.
 
 # O Rei Leão
-2011-09-05 movies miniviews fragments
+2011-09-05 movies
 
 Simples o suficiente para que os espectadores infantis entendam o destino de Simba, mas complexo o suficiente para que entendamos toda a filosofia por trás da alegoria com animais, como o reino decadente e o significado da nobreza.
 
@@ -27197,7 +27197,7 @@ Talvez em uma próxima revisão mais velho...
 
 
 # Coders at Work: Reflections on the Craft of Programming
-2011-10-14 books computer interview
+2011-10-14 books
 
 "Personally I have never believed that it is possible to be a good coder without being a good programmer nor a good programmer without being a good designer, communicator, and thinker." - Jamie Zawinski
 
@@ -27985,7 +27985,7 @@ Nesse desenrolar, um personagem se destaca de forma praticamente natural e inusi
 
 
 # Antes do Amanhecer
-2011-12-04 movies miniviews
+2011-12-04 movies
 
 Os personagens de Jesse e Celine são adoráveis desde o começo, e é agradável vê-los conversando sobre temas tão universais e constantemente abordados por casais que nós mesmos formamos na vida. O mais interessante, porém, é a forma natural e (aparentemente) despropositada que o roteiro e direção de Richard Linklater nos apresenta seus personagens, criando mais ou menos um pacto com o espectador, que aceita aquela situação em prol da poesia e da mágica daqueles momentos.
 
@@ -28761,7 +28761,7 @@ Não há concessões em Shame. O filme não é explícito, mas suas alusões sã
 Tampouco é um filme com um arco dramático satisfatório. Porém, que me perdoem os amantes de finais fáceis ou dos que nos deixam colocar a cabeça no travesseiro e dormir em paz, mas se há algo que valorizo no cinema é o seu poder de reflexão. E, nesse sentido, Shame ficará por algum tempo perturbando minhas fantasias sexuais.
 
 # 2 Filhos de Francisco: A História De Zezé di Camargo & Luciano
-2012-03-25 movies miniviews fragments
+2012-03-25 movies
 
 A direção empenhada de Breno Silveira cria um Francisco, o real protagonista do filme, convincente, mesmo a história se tratando de uma pequena fábula.  Cada pequena conquista é celebrada por todo o contexto, e não apenas como meras historietas isoladas.
 
@@ -29049,7 +29049,7 @@ Nesse sentido, é justificável que Abrams decida investir tanto tempo no primei
 Pelo contrário. Se há algo que vai na contramão da obra de George Lucas é a criação de personagens. Para Lucas, são todas figuras icônicas que merecem ser reverenciadas (quando a maioria não merece mais do que uma olhada). Para Abrams, são pessoas comuns tentando dar o máximo de si na aventura singular de exploração do espaço. As comparações são descabidas, mas ensinam a nos pensar o que distingue Star Trek como série.
 
 # Engenharia Reversa em Itajubá
-2012-04-17
+2012-04-17 computer
 
 Essa segunda (ontem, 16 de abril de 2012) foi dia da minha palestra na Unifei, parte do II Composium Unifei, que reúne diversos profissionais e suas especialidades para que estudantes vejam o quão útil pode ser o curso de engenharia.
 
@@ -29246,7 +29246,7 @@ Para tornar a coisa mais realista, uma direção esforçada por ressaltar as dif
 Assassinato em Manhatan é passado e batido, mas consegue divertir sem ofender ou entediar. Como se diz por aí, Allen até quando é medíocre consegue ser acima da média.
 
 # Coletando dumps automaticamente
-2012-05-17
+2012-05-17 computer
 
 Existe uma forma de configurar o Windows para que todo crash que ocorrer na máquina gere um dump em uma pasta específica. Há opções como tamanho do dump e máximo de arquivos mantidos nessa pasta.
 
@@ -29544,7 +29544,7 @@ De uma forma talvez irônica, o fato das mortes terem como essência as mesmas c
 Ainda assim, seu desfecho desperta uma atenção que até então estava adormecida, e seu feitor é igualmente interessante, motivo pelo qual o terceiro ato parece tão mais curto e tão menos desenvolvido que todo o resto. Porém, terminando desastrosamente mal, com o uso de um clichê que mais envergonha do que homenageia a figura de Poe, os créditos acabam expondo o que desconfiávamos desde o princípio: não havia sombra de um objetivo definido ao contar a história.
 
 # Problemas comuns no WinDbg e suas soluções
-2012-05-27
+2012-05-27 computer
 
 Depois de uma agradável manhã e tarde acompanhando o "curso de desenvolvimento de drivers do meu amigo Ferdinando" voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.
 
@@ -29574,7 +29574,7 @@ Fonte: Blog do "Nynaeve".
 
 
 # Meus repositórios no GitHub
-2012-06-04
+2012-06-04 computer
 
 Depois de vacilar por alguns meses, incentivado pelo meu amigo Chico Pimenta, resolvi experimentar o tal do GitHub, e consequentemente o sistema de controle de fontes distribuído Git, que antes era meio exclusivo do Linux (continua meio sendo, mas com suporte um pouco melhor para Windows).
 
@@ -29840,7 +29840,7 @@ Dessa forma, é compreensível que o espectador se divirta a maior parte do temp
 
 
 # GetTickCount não é um gerador de IDs únicos
-2012-06-25
+2012-06-25 computer
 
 Muitas vezes uma solução intuitiva não é exatamente o que esperamos que seja quando o código está rodando. Gerar IDs únicos, por exemplo. Se você analisar por 5 minutos pode chegar à conclusão que um simples GetTickCount, que tem resolução de clock boa e que se repete apenas depois de 50 dias pode ser um ótimo facilitador para gerar IDs exclusivos durante o dia.
 
@@ -30028,7 +30028,7 @@ Depois de uma entediante terceira parte, as histórias protagonizadas por um mam
 Uma aventura Disney no final dos anos 80 que mais uma vez encanta pelo frescor dos seus traços e pela perfeição técnica que hoje sua companheira Pixar tomou o lugar. A história da sereia-princesa que se apaixona por um humano e precisa passar por cima de seu severo pai, rei dos mares, para conseguir o que busca não é senão uma releitura mais uma vez do velho conto de fadas iniciado com "Branca de Neve e os Sete Anões". As imitações, no entanto, não desmerecem o trabalho excepcional de uma equipe de desenhistas que conseguiu criar à mão números inteiros de música com um ritmo e uma fluidez impressionantes.
 
 # Minha palestra do TDC 2012
-2012-07-21
+2012-07-21 computer
 
 Duas semanas atrás rolou a trilha C++ do TDC 2012, que contou com além da minha presença com a dos já conhecidos Fernando Roberto (DriverEntry), Rodrigo Strauss (1Bit), etc. Uma novidade: meu colega e programador .nerd Gabriel Guilherme também participou em uma palestra sobre um assunto que acredito que deveria ser mais promovido: interop. Afinal de contas, o poder de C++ não seria nada se não houvesse motivos práticos para usá-lo. Entre esses motivos, construir soluções com linguagens mais acessíveis é um deles.
 
@@ -30315,7 +30315,7 @@ Fica até difícil encontrar alguma cena de destaque que não revele as absurdas
 Ignorando o fato que palhaços são, até onde se sabe, terrestres, o filme usa e abusa dos elementos desse universo, criando rimas de horror com linguas-de-sogra, figuras feitas de bexiga e pipocas. A criatividade toda foi usada dessas piadas, além de um aprimorado trabalho de maquiagem que torna os palhaços engraçados e ao mesmo tempo assustadores. Note, por exemplo, o uso de dentes pontudos e desalinhados, o que acaba por estragar o lindo sorriso que esboçam para os humanos que encontram pelo caminho.
 
 # eXtreme Go Horse
-2012-09-27
+2012-09-27 computer
 
 O Go Horse Power (GHP) foi criado por um blogue hoje extinto. As premissas dessa nova metodologia de desenvolvimento era que o projeto fosse feito da maneira mais rápida possível.
 
@@ -30468,7 +30468,7 @@ Aliado a isso, temos a informação extremamente relevante, mas não tão óbvia
 Contando com uma conclusão simplista mas corajosa por deixar claro não se tratar de um final feliz, Dredd ainda se afirma otimista por um simples ato de humanidade vindo de um ser que teria tudo para continuar isolado de seus sentimentos. Uma mensagem que se torna ainda mais poderosa depois de termos participado do processo sanguinário responsável pela morte de dezenas de pessoas, pelo simples fim de fazer valer uma lei que não permite a reflexão de como nos devemos organizar como seres humanos e ainda continuarmos humanos.
 
 # Sobre Meninos e Lobos
-2023-05-19 movies repost
+2023-05-19 movies
 
 Dono de uma cinegrafia invejável como diretor, Clint Eastwood aqui começa a mudar sua maneira de contar uma história. Sem pressa para desenvolver a trama e ao mesmo tempo mostrando apenas o necessário para que se mantenha o suspense, o roteiro de Brian Helgeland caminha por igual entre as vidas de cada personagem para que entendamos o peso de cada encontro e seus diálogos. Enquanto isso, Eastwood e seu editor juntam tudo com uma fluidez admirável; ainda mais se considerarmos a quebra de ritmo que poderia surgir ao abordar tantos pontos de vista diferentes para um mesmo fato.
 
@@ -30675,7 +30675,7 @@ Primeiro longa de Lars-Gunnar Lotz e seu trabalho de graduação, O Peso da Culp
 Com uma fotografia corretamente sóbria, cujas cores nunca aparecem por completo, O Peso da Culpa carrega a estigma de ter uma bela história para contar desperdiçada pela falta de ambição de sua direção. Esperamos que Lars-Gunnar tenha mais ousadia da próxima vez.
 
 # Shun Li e o Poeta
-2012-10-28 movies miniviews fragments
+2012-10-28 movies
 
 Se indefine como uma amizade verdadeira, pois não há tempo para que haja um amadurecimento. O mundo como é hoje é um novo universo de pessoas interconectadas.
 
@@ -30798,7 +30798,7 @@ Para isso a figura do vilão Silva, um lunático levemente afetado encarnado por
 O que nos leva ao ato final que se ilumina pela glória das gerações passadas de agentes. Não há nada de especial na história, mas o local e as circunstâncias em que ela é montada a torna especial. O próprio desfecho final e as suas perdas não mereceriam menos do que toda essa reverência.
 
 # O Satânico Dr. No
-2012-11-10 movies miniviews fragments
+2012-11-10 movies
 
 O que não está na versão contemporânea de 007 é o charme, a postura e a elegância de Sean Connery no papel. O mesmo realismo visto no personagem vivido por Daniel Craig existe, embora não com a mesma textura da interpretação de Sir Connery.
 
@@ -31059,7 +31059,7 @@ Se esse espectador médio, não-exigente por padrão, começar a apreciar esse n
 
 
 # Quatro Amigas e um Casamento
-2012-12-17 movies miniviews fragments
+2012-12-17 movies
 
 A diretora e roteirista Leslye Headland parece não saber usar corretamente todo o potencial de atuação das três meninas.
 
@@ -31593,7 +31593,7 @@ até o fim que o romance entre seres tão diferentes - faz uma brincadeira com R
 
 
 # A Viagem
-2013-02-18 movies miniviews fragments
+2013-02-18 movies
 
 Essa brincadeira de mesclar sensações no espaço/tempo das seis histórias contidas em Cloud Atlas consegue a proeza de soar fluida e manter a narrativa em diferentes cenários. Aos poucos os seis conflitos se revelam como um só, e seus personagens perdem paulatinamente o que os tornavam únicos. Há diferenças, mas o drama humano é enfocado de tal maneira que faz nos esquecer das centenas ou milhares de anos que separam essas pessoas. É relevante que qualquer um dos personagens nunca ocupe uma posição de destaque em cada uma das histórias, mas suportem uns aos outros. Gera igual ou maior prazer na revisita, tantos são os detalhes a serem admirados ou tantas as interpretações possíveis dos mesmos eventos.
 
@@ -31799,7 +31799,7 @@ Já a dinâmica do grupo que se une para aplicar um golpe baseado nos conhecimen
 Ainda do ponto de vista narrativo Ken Loach entrega pistas no meio do caminho que permitem que vejamos os atos dos personagens muito antes deles acontecerem. E o pior é que não há obstáculos o suficiente para que o desenrolar saia um pouco dos trilhos. Mesmo assim acompanhamos imersos, aguardando que algo dê errado. O imprevisível aqui é que não há obstáculos previsíveis. É o suficiente para nos deixar interessados.
 
 # Depuração na nuvem com o novo Visual Studio
-2013-04-01
+2013-04-01 computer
 
 Uma das novidades do futuro Visual Studio pouco comentada ainda em fóruns por seu caráter sigiloso e ainda em testes (mas que pode facilmente ser observada pela engenharia reversa dos binários do Visual C++) é a possibilidade de depurar trechos de código "na nuvem", ou seja, dentro dos gigantescos servidores de clusters de serviços de escalabilidade da Amazon, do Google e, claro, da Microsoft.
 
@@ -32481,7 +32481,7 @@ Toda essa miscelânea de contextos é regada, claro, com letras e músicas da ba
 Encontrando espaço suficiente para desenvolver seus personagens, o forte do longa parece residir mesmo nessa capacidade de reorganizar as letras da banda de maneira a contar uma história simplista, muitas vezes desconexa, mas que sobretudo honra as mensagens que suas letras tão cheias de amor sempre quiseram passar. Com isso, Across the Universe não apenas reinterpreta Beatles, mas cria um verdadeiro universo paralelo cheio de música, cores e ideais.
 
 # Mais um CPP MVP
-2013-10-02
+2013-10-02 computer
 
 Tenho o prazer de informar à comunidade C/C++ que vocês possuem mais um representante formal. Quer dizer, pelo menos no que diz respeito à Microsoft: eu.
 
@@ -32956,7 +32956,7 @@ E magia é o que acontece quando é quebrada a quarta parede desse mundo ideal, 
 Mais curioso do que o próprio acontecimento é a maneira como aquele mundo o trata, como um problema a ser resolvido e como uma rebeldia que poderia muito bem ter vindo de algum comunista/anarquista maluco. Quando os personagens do filme dentro do filme começam a se questionar a necessidade de um roteirista e direção os dizendo o que fazer, podemos entender como uma crítica direta à máquina ininterrupta de fabricar filmes que Hollywood se transformou. Uma máquina de ilusões, como o próprio nostálgico e necessário final conclui sem qualquer diálogo.
 
 # Padrinhos de Tóquio
-2013-12-22 movies miniviews fragments
+2013-12-22 movies
 
 As expressões de rosto absurdas, tão comuns no anime, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
 
@@ -33377,7 +33377,7 @@ Como todo filme dos diretores/roteiristas, esse é daqueles com uma fotografia e
 No final, é surpreendente que todas as lacunas de uma história recortada (leia-se sem pé nem cabeça) vá se fechando sempre da maneira mais plausível e provável. Ao concluir toda uma trajetória torta nunca nos surpreendendo faz nos sentir quase como idiotas. Porém, essa é mais uma das inúmeras virtudes do roteiro. Afinal de contas, não é esse o objetivo de toda narrativa "épica": nos fazer sentir como o herói do filme?
 
 # Um Final de Semana em Hyde Park
-2014-02-08 movies miniviews fragments
+2014-02-08 movies
 
 O encontro de dois chefes de estado peculiares, diferentes do ideal de perfeição almejado por seu povo, e que por isso mesmo lhes dá liberdade em serem esquisitos demais.
 
@@ -33721,7 +33721,7 @@ Sendo um filme a respeito do poder da imaginação, a história nem de longe é 
 Beneficiado por um roteiro que se preocupa com a resolução de todas as pontas, embora dê seus pequenos tropeços/pecadilhos no final, e uma trilha sonora simplesmente impecável por resgatar o conto de fadas através de toques melancólicos e sutis, A Princesinha é um trabalho requintado e cheio de alma, digno de ser visto mais de uma vez.
 
 # Inside Llewyn Davis: Balada de um Homem Comum
-2014-03-24 movies miniviews fragments
+2014-03-24 movies
 
 Se torna a partir da transformação em ficção do músico folk Dave Van Ronk um verdadeiro estudo de personagem. E a música folk, um narrador onisciente.
 
@@ -33959,7 +33959,7 @@ O curioso da série é que ela não tem pressa em realizar o que 90% das produç
 Mas além da empolgante história o que cativa mesmo o espectador é a qualidade narrativa criada não apenas a partir dos sensacionais traços dos criadores, mas de uma invejável e coesa trilha sonora (Yuki Kajiura) e uma fotografia de cair o queixo (Shinichiro Eto). Tudo isso, com a edição de Rie Matsuhara, combina em uma experiência sensorial cada vez mais fácil de ser encontrada em séries de TV ambiciosas e menos nos cinemas comerciais.
 
 # Geleia de Código
-2014-04-15
+2014-04-15 computer
 
 Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual "Google Code Jam", que pretende levar a categoria de código ofuscado para um novo patamar.
 
@@ -34674,7 +34674,7 @@ A primeira metade da história é intensa, se passa em Nova York, e tem como pan
 Será que não temos mais tantos conflitos existencialistas como antes, quando tentar ser algo de valor para para si envolvia passar por cima de valores seculares de uma sociedade patriarcal e ultrapassada em tantos sentidos?
 
 # O Espetacular Homem-Aranha 2: A Ameaça de Electro
-2014-05-06 movies miniviews fragments
+2014-05-06 movies
 
 Os habitantes de Nova York já estão habituados a se apinharem educadamente atrás das quase presentes barreiras de metal colocadas estrategicamente em torno de mais um embate entre o Aranha e mais um dos seus arqui-inimigos. Eles aplaudem, festejam, comem pipoca. Nós também. (...) Um ser humano que morreu (ainda que fictício), e a única coisa que conseguimos prestar atenção é na beleza da cena? (...) O resumo dessa obra de 144 minutos: visualmente belíssima, espiritualmente vazia.
 
@@ -34856,7 +34856,7 @@ Woody Allen até quando é medíocre acaba se saindo melhor que a média. Nos an
 Infelizmente a comédia aqui está em alta com conteúdo em baixa. Não há muito o que dizer das situações absurdas do filme, nem o que seus personagens fazem com elas. É um riso fácil, ingênuo e bobo sobre o sexo. Esquecível, mas, ainda assim, lembráveis mesmo 40 anos depois (talvez pelo longo título?).
 
 # 50 Anos de BASIC
-2014-05-13
+2014-05-13 computer
 
 Minha primeira linguagem de programação foi o BASIC. Aprendi durante minhas frequentes visitas à biblioteca lendo livros dos anos 80. Na verdade, eu não me lembro muito bem por que diabos resolvi aprender a programar, já que eu estava mais interessado em entender como um computador funciona. Por que? Não sei bem ao certo, parece que já nasci com um chip embutido que foi ativado quando comecei a tender muito para o lado de humanas ao iniciar a faculdade de Letras... um chip salvador!
 
@@ -35073,7 +35073,7 @@ Todas as sequências de ação e de drama em "X-Men: Dias de um Futuro Esquecido
 Com atuações acertadas, embora não inspiradas, o filme favorece momentos de reflexão, embora nunca seja ambicioso em delineá-los. Sobre matar humanos para se defender de represálias que os mutantes poderão sofrer nenhum contra-argumento soa razoável, especialmente quando estamos falando de algo que salvará não apenas os mutantes do futuro como toda a humanidade. Portanto, sem escapatória em seus embates filosóficos mal-formados, quase lembrando Prometheus de Ridley Scott (mas nem tanto), o que resta é mais uma sequência dos nossos já conhecidos heróis, que lutarão mais uma vez em uma nova aventura cujo teaser você poderá conferir ao final de todos os créditos.
 
 # Desmontando o Aulete Digital
-2014-05-27
+2014-05-27 computer
 
 Este post não estará mais disponível devido ao mau uso de pessoas que se aproveitaram das minhas explicações didáticas a respeito do funcionamento da versão Desktop do dicionário e, agindo de má-fé, começaram a baixar a base de dados indiscriminadamente, fazendo com que o serviço que é disponibilizado gratuitamente aos usuários tivesse que ser desligado. É uma lástima que isso tenha ocorrido, e peço desculpas às pessoas que prejudiquei direta ou indiretamente.
 
@@ -35354,7 +35354,7 @@ Mais uma comédia romântica desperdiçando o talento de Matthew McConaughey e e
 Antes fosse apenas essa a história, pois, como toda comédia romântica, existem histórias paralelas envolvendo amigos de ambos, o que inclui aqui a unidimensional Deschanel e tiradas cômicas envolvendo mordidas de animais naturalmente inofensivos. Há um pouco de filosofia a respeito da visão engessada do que se espera dos filhos (saia de casa e arrume um emprego de verdade e se case e tenha filhos), mas há muito mais de situações engraçadinhas que em nada contribuem para avançar a história exceto passarmos mais tempo admirando o casal que aos poucos -- óbvio! -- vai se apaixonando.
 
 # Evocando Espíritos
-2014-06-12 movies miniviews
+2014-06-12 movies
 
 Evocando espíritos é uma história de terror que consegue unir espiritismo com câncer, além de no processo conseguir boas sequências que unem a história de um garoto sensitivo nos tempos atuais com um garoto ainda mais sensitivo que participou de um experimento além-vida que causou muita dor e sofrimento represada na casa que a família acabou de se mudar.
 
@@ -36282,12 +36282,12 @@ E com isso chegamos sobre a parte mais controversa desse novo roteiro de Cosmos:
 Aliás, que bom seria se todos nós tivéssemos esse espírito crítico e aventureiro da busca por mais conhecimento. Até porque, como vimos em determinado episódio, nunca se sabe de onde pode surgir o próximo grande cientista que irá desvendar mais um mistério do Cosmos.
 
 # Carrie, a Estranha (2013)
-2014-09-26 movies miniviews fragments
+2014-09-26 movies
 
 Uma caricatura para o espectador, e caricaturas não emitem empatia. Ela se torna um objeto de fetiche de um público que anseia por efeitos digitais em demasia.
 
 # Walter de Carvalho
-2014-10-03
+2014-10-03 movies
 
 Está acontecendo até a metade de outubro o festival Luz, homenageando Walter de Carvalho, um diretor de fotografia sensacional no nosso Cinema. Dois dos três filmes que assisti com ele manipulando a luz são em preto e branco e são maravilhosos (também vi Central do Brasil, mas faz tanto tempo...):
 
@@ -36518,7 +36518,7 @@ E na vida não temos onisciência. Logo, quando estamos distantes dos personagen
 Talvez a maior crítica que se possa fazer ao roteiro é nunca deixar muito claro qual o status de relacionamento atual do casal vivido pelos ótimos William Shimell e Juliette Binoche (sensacional). Contudo, observe como até isso é uma réplica da vida. Afinal de contas, ao acompanhar um casal conversando entre eles nunca ouviremos uma fala expositiva que afirme com todas as letras seu estado civil. Ou seja, queira ou não, a vida é complexa demais para caber em um pedaço de papel e ser coreografada em torno de cenários cheios de pessoas andando. Ou isso, ou estamos vivendo uma réplica milagrosa em película que só seria possível reproduzir pela sagacidade e genialidade de seu diretor.
 
 # MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas.
-2014-11-21
+2014-11-21 computer
 
 Esse ano aproveitei meu status de Most Valuable Professional (já renovado para mais um ano...  yes!) e visitei o Campus de Seattle da Microsoft no evento global MVP Summit. A ideia desse evento é que os MVPs troquem ideias entre eles e com as equipes dos produtos Microsoft. No meu caso, houve um dia que visitamos o prédio da equipe do Visual C++, assistindo apresentações sobre a nova e próximas versões de C++ e também dando opiniões e visões acerca do que é relevante e o que não é no momento para a comunidade de desenvolvedores.
 
@@ -36897,7 +36897,7 @@ O diretor Michael Radford aparentemente se esquece das habilidades demonstradas 
 Ao assistir ao re-Elsa & Fred, nota-se obviamente que as coisas parecem fora do lugar, mas não é esse caos gostoso da vida que é emulada em seu original. É falta de jeito com as nuances de uma história dura, mas com personagens leves.
 
 # Entendendo a Compilação
-2015-01-04 computer ccpp
+2015-01-04 computer
 
 Fiz alguns slides a pedido dos organizadores do TDC 2014, já que a palestra que ministrei com esse tema foi para ajudar meu amigo-sócio Rodrigo Strauss que não havia preparado nenhum slide a respeito. Felizmente eu já havia explicado alguns conceitos-chave para quem programa em C/C++ e precisa -- eu disse: PRECISA -- conhecer todo o passo-a-passo que leva o seu código-fonte a gerar um executável com código de máquina pronto para rodar.
 
@@ -37587,7 +37587,7 @@ No entanto, voltemos para a terra firme. Mostrar Bob Esponja e seus amigos em um
 Com uma conclusão alongada um pouco demais, o segundo filme com o herói esponjoso certamente merecerá revisitas, pois creio que metade das piadas pelo menos conseguirão ser redescobertas (como um tiranossauro com cara de polvo tentando agarrar um hambúrguer de siri). E também, é claro, quando nossa idade mental envelhecer um pouco e as velhas piadas contiverem novas conotações.
 
 # Como é escolher um filme pelo trailer
-2015-02-17
+2015-02-17 movies
 
 O que está passando esse fim-de-semana? Que tal dar uma olhada nos trailers para escolher?
 
@@ -37681,7 +37681,7 @@ Não é preciso dizer, claro, que não se pode esperar nada próximo do Walter W
 Ainda assim, a sensação geral foi que direções muitas vezes são supervalorizadas. Um roteiro bem escrito consegue milagres, como é provado nesse piloto de Metastasis. Um trabalho menor, de baixo orçamento, mas que se fosse o original, atrairia um público pronto para sensações diferentes do mais do mesmo (assim como eu fui fisgado alguns anos atrás por Breaking Bad).
 
 # Guia de alocação (nos clientes)
-2015-03-04
+2015-03-04 computer
 
 Se você trabalha com T.I. (nem precisa ser programação) e mora em São Paulo (ou qualquer outro lugar com pessoas paranoicas) então talvez em algum momento da sua carreira teve que ficar alocado (como uma memória que contém um vírus) em algum de seus clientes (ou da empresa onde trabalha/ou). Usando seus apetrechos pessoais dentro de uma mochila para zarpar no final do dia sem deixar rastros.
 
@@ -37840,7 +37840,7 @@ Pena que tanto para esse momento quanto para a intrincada rede de estratégias q
 Parece que um dos efeitos colaterais dos filmes-gêmeos é dividir a energia e gerar dois filmes medíocres de uma só vez.
 
 # Rocky: Um Lutador
-2015-03-17 movies miniviews fragments
+2015-03-17 movies
 
 É um filme de sobrevivente. Sua luta final é coreografada, editada e ritmada de uma maneira a se tornar a "luta do século", mas não é isso o que a torna especial, mas toda a história que a carrega.
 
@@ -38798,7 +38798,7 @@ Mesmo com tantos defeitos e contrapontos, a redescoberta da sexualidade nos rela
 De qualquer forma, há mais acertos que erros em uma comédia que sabe o que quer, embora flerte com o famigerado e desgastado formato Hollywoodiano. Nesse sentido, lembra a maioria das produções brasileiras enlatadas. Felizmente, há um ar francês de libertinagem que consegue divertir mesmo que em um tom menor.
 
 # TDC SP 2015 (Call for Papers)
-2015-06-11
+2015-06-11 computer
 
 Antes do nosso encontro 12 no Rio, no segundo semestre, teremos o TDC São Paulo, que já está em sua fase de chamada de trabalhos. Se você tem alguma coisa para apresentar, não se acanhe. Todos são bem-vindos! =)
 
@@ -38892,7 +38892,7 @@ Pois bem, é esse tipo de julgamento de valor que Casadentro está buscando em q
 Bom, todos esses são pensamentos acerca do que não acontece no filme, ou pelo menos não acontece de uma forma óbvia. É por isso que, apesar de realista, seu caráter intimista reside no que cada espectador paciente irá encontrar nessa pequena janela que se abre para a "realidade" de pessoas que parecem estar de castigo dentro de uma casa deveras tranquila, mas esquecida em algum lugar do tempo.
 
 # Escolha de palestras para o TDC 2015 Sampa
-2015-06-22
+2015-06-22 computer
 
 Já passou a semana de envio de palestras, e agora chegou a hora de escolher as palestras que farão parte da Trilha C/C++ do TDC 2015, em São Paulo. Se vocês puderem colaborar, é super-simples e rápido. Há uma lista de títulos de palestras e você só precisa escolher qual a mais importante para você. Avalie com cuidado.
 
@@ -39297,7 +39297,7 @@ Porém, sair dos trilhos mesmo é algo que Sense8 não fez em nenhum dos seus pr
 Ao final, a história, essa longa e quase irrelevante trama, não merece ser discutida. Escolha assistir Sense8 exatamente pelo que seu título sugere: sensações. Reflexões. Será que estamos mesmos conectados? Com um mundo onde a notícia atinge a velocidade da luz, não importa de qual aldeia indígena, a melhor pergunta seria: será que os humanos estão realmente desconectados como imaginam?
 
 # TDC 2015 No More
-2015-07-13
+2015-07-13 computer
 
 Eu represento o Grupo C/C++ Brasil. Sou um dos fundadores. A bem da verdade, todos que participam ativamente no Google Groups e/ou ajudam a organizar o nosso saite, e/ou ajudam a fortalecer a presença de uma comunidade C/C++ no país representam, em menor ou maior grau, a esse ideal que é: as linguagens C e C++ ainda são muito úteis na programação de uso geral, em cenários tão distintos e tão variados que fica difícil sequer listar onde elas são usadas sem parecer panelinha.
 
@@ -39475,7 +39475,7 @@ Todo início de herói é meio capenga, e esse não é diferente. Visto com empo
 Homem-Aranha é um trabalho irregular e datado? OK, podemos chamá-lo assim. Da mesma forma foi com Super-Homem, e assim será com qualquer outro que precisar reabrir a caixa mágica de Pandora dos deuses modernos mais uma vez no Cinema. Talvez a caixa se feche frente à aparente inescapável falta de criatividade e esgotamento de fórmulas na bilheteria. Talvez Birdman não estivesse tão prepotente em suas discussões pseudo-filosóficas a respeito do valor da arte. Talvez. Por enquanto, vale a pena colocar uma manteiguinha nessa pipoca e lambuzar os óculos 3D. Nem que seja por um ou dois blockbusters anuais.
 
 # Hype da Cultura Nerd em Sesc Santos
-2015-07-28
+2015-07-28 movies
 
 Meu primeiro debate sobre Cinema =). Esse sábado estarei no Sesc Santos para prestigiar a sétima arte em um debate mais que atual: O hype da cultura nerd/geek.
 
@@ -39674,7 +39674,7 @@ Arte e pudor, aliás, é o que é esbanjado em Minha Vida de Cachorro. Apesar da
 Lúdico em sua passagem, mais longo do que poderia, Minha Vida de Cachorro é um filme para degustar sem se preocupar muito com a trama e mais com o sentimento da época.
 
 # Sobre debates no SESC Santos
-2015-08-03
+2015-08-03 movies
 
 Esse fds participei de uma rápida ida e volta para Santos para participar de um dia com dois debates de um evento organizado pelo meu editor no CinemAqui, o Vinicius Carlos Vieira.
 
@@ -40022,7 +40022,7 @@ O que é uma pena, pois isso gera a sensação de um filme menor empacotado em u
 O que pode ser decepcionante para uns, empolgante para outros. Talvez os fãs de ação gostem desse "O Legado", mas fiquem aguardando o momento em que ele fica realmente bom. Infelizmente, talvez este momento esteja no próximo filme.
 
 # Experimento Starbucks
-2024-11-10 food coffee
+2024-11-10 coffee
 
 Colecionei impressões dos cafés vendidos na icônica (e às vezes polêmica) cafeteria que é uma das minhas favoritas quando o assunto é torrar bem o café pra não ter chance de achar imperfeições. Seus rótulos são sempre no mesmo estilo com variações nas sensações terciárias, as que surgem após a queima e estão mais relacionadas à torra em si que ao grão original.
 
@@ -40113,7 +40113,7 @@ Mas não só isso: Wagner Moura aparece com uma voz irreconhecível que não dá
 Contando com muito texto, muita história, recortes da época, atuações mornas (exceto de Moura) e uma direção mista até que eficiente (Padilha, como falei, dirige o piloto, mas também o segundo episódio), Narcos pode ser configurado como uma série competente, mas que não oferece nada além disso. Ou talvez ofereça. Quer arriscar 10 horas de sua vida?
 
 # É o fonte, idiota!
-2015-09-12
+2015-09-12 computer
 
 Saiu um artigo recente no The Old New Thing (thanks Strauss pelo tuíte) que fala sobre não misturar runtimes do C de diferentes versões do compilador (especialmente se essas versões estão separadas pelo tempo em nada mais nada menos que dezenove anos!). Concordo. Aliás, a cultura Microsoftiana do uso de binários carece em C/C++ de um fundamento que facilite o reúso e compartilhamento de código exatamente por essa incompatibilidade inerente de uma biblioteca, se não em constante evolução, em constante aprimoramento pontual (como a STL). Como compartilhar código cujo fonte esteja indisponível e cujas bibliotecas sejam incompatíveis porque o projeto não é atualizado há dois pares de anos? Fiz uma vez um artigo explicando como usar a LIBC nativa do sistema operacional (nem sei se isso funciona ainda, provavelmente não). No entanto, essa é uma solução sub-ótima para um problema latente.
 
@@ -40579,7 +40579,7 @@ Talvez o mais impressionante é que, não importa o quanto tente-se inovar o con
 Aliás, esse roteiro escrito a quatro mãos é quase um passeio a um parque de diversões, semelhante ao filme anterior, do que uma trama de fato. Um Jurassic World futurista, cujas intenções também estavam longe de contar uma história. Essa tendência recente de apenas mimetizar a experiência visual dos espectadores e ignorar que personagens devem ser criados e uma história precisa ser contada pode ser uma boa para o cinema pipoca, mas está anos-luz atrás da boa e velha identificação de um drama, por mais absurdo que este fosse. Mesmo que lidasse com a inescapável corrente do destino.
 
 # Fundamentos
-2015-10-21
+2015-10-21 computer
 
 Um amigo meu costumava dizer que qualquer conhecimento precisa ter bases sólidas. "Os fundamentos", dizia ele. Sem os fundamentos, o prédio do conhecimento vai abaixo em pouco tempo. Mas com eles, construídos de cimento armado, reforçados e com alicerces bem planejados, não há informação demais suficiente para abalar o prédio do conhecimento.
 
@@ -40748,7 +40748,7 @@ Dirigido, escrito, atuado e produzido por David Sandberg, Kung Fury não se priv
 Este filme não foi feito por acaso: ele é exatamente o que você vê. Não houve falha na produção. Kung Fury tem o potencial de liberar a imaginação de futuros idealizadores, ou no mínimo servir de referência para uma época onde é possível colocar nazistas no lado oculto da lua, no centro da Terra e viajando no tempo. Nunca é tarde para reinventar e misturar épocas, gostos e referências. Com nosso poder computacional, nada mais fará sentido. Kung Fury é apenas o começo.
 
 # Aconteceu Naquela Noite
-2015-11-01 movies miniviews fragments
+2015-11-01 movies
 
 Discute com certa propriedade a busca da felicidade nas coisas simples. Tudo após este filme que parecer uma cópia, saiba que este é provavelmente o original.
 
@@ -40828,7 +40828,7 @@ Mesmo nos aspectos periféricos, como a música, e já sabendo de antemão que n
 E por fim, se há um grande culpado a apontar pelo quase desastre no quarto filme de Daniel Craig, este é o diretor, Sam Mendes, em seu segundo filme e que não consegue sequer realizar a sequência inicial de maneira competente (onde os figurantes mecanicamente se movem na frente da câmera), além de se perder em quadros que misturam contra-luz com mistério sem motivo algum (a exceção seria talvez a reunião da Spectre). Com a desajuda de seu editor, Lee Smith, juntos eles realizam uma experiência focada em episódios, que soa mais como parte de um seriado chamado "007 por Daniel Craig", que teve um início excelente, é verdade, mas que aos poucos virou apenas um chamariz para novos filmes. Depois desse episódio, eu acredito que já é tempo dessa temporada acabar e voltarmos para o bom e velho Cinema, onde um homem se diverte sendo torturado pelos seus órgãos genitais, e isso revela seu passado, sua essência e ainda é engraçado. Que declínio esse James Bond teve...
 
 # Como ser um hacker
-2015-11-18
+2015-11-18 computer
 
 Talvez as pessoas estejam com preguiça de ler. Talvez estejam apenas inundadas por tanta informação que temos hoje. Talvez seja apenas falta de foco pelas interrupções consecutivas de novos "espertofones" ou nossas redes sociais viciantes, pois oferecem muito a troco de nada.
 
@@ -40862,7 +40862,7 @@ A atuação da menina principal (Maiara Walsh, igualmente linda) é uma cópia a
 Por fim, Jogos Famintos é uma prova que reality shows realmente chamam a atenção do público e podem render momentos curiosos e interessantes, mesmo que tudo não passe de uma farsa de uma farsa, e que no final tenhamos que suportar o velho clichê das cenas erradas. Até aqui isso funciona razoavelmente bem.
 
 # Jogos Vorazes: A Esperança - O Final
-2015-11-22 movies miniviews fragments
+2015-11-22 movies
 
 Seus símbolos de coragem e rebeldia são peões pintados de dourado. O jogo de cena que se desenvolve fora dos campos de batalha, entre a ambiguidade dos atos e a necessidade de acreditarmos em um lado. (...) Especialistas em marketing, psicopatas disfarçados de vontade divina (ou democrática).
 
@@ -42707,7 +42707,7 @@ Enquanto isso, a nobreza arruma tempo para elaborar seus bailes e seus estratage
 Isso não basta. Já vimos esse filme, e em um formato muito melhor: o drama original. A paródia não consegue nunca criar momentos cômicos interessante, pois se limita a repetir a receita do drama e inserir a novidade dos zumbis pontualmente. Depois da definição fantástica de como seriam os zumbis da aristocracia britânica, esse seria um filme que eu adoraria assistir. Infelizmente, vou continuar esperando.
 
 # Anarchism vs. Objectivism by Harry Binswanger (e outros textos filosóficos)
-2024-09-18 philosophy repost
+2024-09-18 philosophy
 
 Um texto bem longo e denso. Um desafio e tanto resumi-lo.
 
@@ -42935,7 +42935,7 @@ E o filme vai desvendando cada detalhe desse intricado sistema, que pretende ant
 É um filme que visualmente não apresenta quase nada, mas que no campo das ideias, é interessante do começo ao fim.
 
 # Crash no Windows Explorer
-2016-03-01
+2016-03-01 computer
 
 Quem nunca se deparou com um sistema Windows em que o Explorer travasse ou crashasse de vez em quando? O problema com esse tipo de problema (recursividade...) é que ele pode ocorrer por infinitos motivos. Tão infinitos quanto os shell extensions, aquelas DLLs irritantes que são carregadas automaticamente por todo processo explorer.exe, e que portanto podem gerar infinitas maneiras de travar seu shell.
 
@@ -43437,7 +43437,7 @@ Não à toa. Seu pai é um dos responsáveis por lutar contra a máfia na regiã
 Brincando com piadas inocentes bem ao estilo filme italiano, e lembrando a estrutura clássica de filmes como Cinema Paradiso, A Máfia Mata Apenas no Verão acerta em seu tom, mas se perde em sua trama, pois ela é vaga, e tenta ligar-se demais à realidade política da região, usando tomadas mescladas entre ficção e realidade ("Forrest Gump").
 
 # Testando sistema de postagem
-2016-04-10
+2016-04-10 computer
 
 Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu blogue de Cinema (update 2026-02-28: o finado Cine Tênis Verde), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a "BitForge" e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
 
@@ -44010,7 +44010,7 @@ Além disso, me incomoda profundamente alguns elementos razoavelmente competente
 Dessa forma, me despeço do texto de "Capitão América: Guerra Civil" sabendo que não dediquei-me muito a destrinchar alguns detalhes mais específicos de alguma atuação ou roteiro. Desnecessário. Se você consegue assistir a esses filmes e se empolgar, não será a falta de motivos que o fará mudar de ideia e reavaliar como o tempo gasto com essas bobagens flerta justamente com isso: apenas tempo gasto.
 
 # Cezinha Explica
-2016-05-31
+2016-05-31 computer
 
 O Cezinha, ex-colega meu de suporte e um amigo que não vejo há um tempo, levou a curiosidade e o empenho até as últimas consequências e criou um canal de vídeos onde explica procedimentos que o suporte técnico precisa quase sempre realizar para informar ao desenvolvimento de um programa com problemas o que está dando de errado.
 
@@ -44202,7 +44202,7 @@ Utilizando a versão fantástica da história, os idealizadores do filme abraça
 Os conceitos de bem e mal se invertem, e o que é certo para aquelas pessoas se torna seu pecado mortal. Talvez apreciando a beleza do relativismo histórico, ou apenas jogando símbolos abertos a interpretação para o espectador -- como o fantástico Anti-Cristo -- A Bruxa se torna um trabalho ambicioso por seguir à risca suas premissas sacrificando a facilidade de compreensão. Averso à religião, critica duramente o moralismo, e de fato não o faz, mas o ataca. Um trabalho que o espectador médio pode até gostar, mas irá se perguntar ao final da sessão o porquê. E isso é apenas o começo do interesse por este belo trabalho.
 
 # Como Eu Era Antes de Você
-2016-06-26 movies miniviews fragments
+2016-06-26 movies
 
 Me dê uma menina bonitinha que se veste com todas as cores do mundo, apresente ao príncipe congelado de um castelo, tempere com músicas do momento e temos mais um dromance regado a pipoca e saídas fáceis. Divertido, sim, emocionante, quase, tocante... nem perto.
 
@@ -44953,7 +44953,7 @@ Curioso como o que fascina mais as pessoas por trás da série, aparentemente, s
 Mas para cada House of Cards ou Sense 8 é necessário produzir vários Stranger Things. É a lei da mediocridade fazendo efeito. Não se produz bom conteúdo artístico apenas seguindo um algoritmo. Mas, seguindo um algoritmo, há chances de se produzir algo que o valha. Tanta chance quanto produzir conteúdo autêntico. É a audiência, estúpido!
 
 # Criando Projeto C++ Console no Visual Studio 2015
-2016-08-04 computer videos
+2016-08-04 computer
 
 Esse vídeo é um experimento que estou fazendo para tentar começar a compartilhar conhecimento em vídeo. Para começar, acho que nada mais apropriado que criar um projeto novo no Visual Studio, não? Dúvidas, sugestões, críticas, todas bem-vindas. Compartilhem com aquele amigo que pensa em começar a programar (ainda mais se for em C++).
 
@@ -45115,7 +45115,7 @@ E, por que não, de qualquer nação. A própria existência de países já comp
 A grande piada, ironicamente, é que isso não parece nada civilizado.
 
 # Depurando código C++ no Visual Studio
-2016-08-12 computer videos
+2016-08-12 computer
 
 Olá de novo. Este é o segundo vídeo da série "o que que eu tô fazendo no YouTube?". Dessa vez abri o Visual Studio para depurar um código de 10 linhas com um bug absurdamente absurdo, mas que pode enganar muita gente. Há quem acredite que esse bug foi proposital, mas não foi. O importante é que ficou muito legal. Vamos ver?
 
@@ -45420,7 +45420,7 @@ Mas adivinha, só? Seu cliente está defecando qual é a linguagem, a ferramenta
 Então o jeito é: "Puroguramingu, Mazaafakkaa!" =)
 
 # Resolvendo problemas em projetos desleixados
-2016-09-01 computer videos
+2016-09-01 computer
 
 Quem nunca teve que mexer em um projeto cheio de bugs de compilação, péssima organização, documentação e nomes de funções, classes e argumentos? Que você acaba de baixar em sua máquina e ele não compila (e você não tem a mínima noção por quê). Que a equipe que trabalha com você ouviu falar do projeto, mas nunca arregaçou as mangas e organizou. Que tal fazer isso agora?
 
@@ -45776,7 +45776,7 @@ Aos poucos percebemos que há excelentes momentos em A Passageira sabotados por 
 E dentro da lógica de A Passageira, não há mesmo salvação para nenhum dos envolvidos. Feridos por uma cicatriz que nunca irá sarar, a violência e estupidez de uma guerra agora reflete no caos urbano em que os mesmos personagens precisam lidar da maneira que podem. Resta a eles tentar tocar suas vidas, assim como qualquer ser humano decente. E se a decência lhes foi arrancada pelos atos brutais do passado, é algo que nem todo o dinheiro do mundo conseguirá curar.
 
 # Usando GVim com projetos do Visual Studio
-2016-09-18
+2016-09-18 computer
 
 A vida dos programadores C/C++ Windows -- e que geralmente precisam do Visual Studio -- está um abandono total. A configuração de make dos projetos sempre foi baseada no uso de makefiles, assim como no Unix, e por isso mesmo o uso da ferramenta nmake do SDK do Windows era a maneira padrão de se compilar e ver o resultado de dentro do Vim para projetos Windows. Com o advento do .NET, do Visual Studio 2003 e dos XMLs disfarçados como arquivos de projeto e solution, o uso do makefile foi paulatinamente abandonado, gerando diferentes versões de ferramentas -- todas incompatíveis -- para conseguir compilar um ou mais cpps e conseguir ver o resultado.
 
@@ -46043,7 +46043,7 @@ O que nos leva à personagem de Sarah Gadon (O Homem Duplicado), Natalie. A cria
 E por isso mesmo é um trabalho curioso. Ele depende de personagens que se tornam insatisfatórios, mas possui uma narrativa coesa o suficiente para conseguir nos levar de cabo a rabo através de uma história não-linear que é coberta de sonhos e pesadelos e que mantém em seu núcleo um mistério mais ou menos simples de ser desvendado, mas que se torna poderoso ao percebermos como pessoas e relacionamentos podem ser doentios. Sim, A Nona Vida de Louis Drax não é um filme bonitinho. Na verdade, próximo do final, você irá notar que ele é bem horrível, o que poderá lhe dar a impressão de ser um filme ruim. No entanto, quando um filme se torna detestável por apresentar personagens horríveis, é porque ele, de fato, conseguiu mexer com alguma coisa dentro de nós. Apenas por isso essa não vira uma sessão jogada no lixo. Desgastante... mas curiosa.
 
 # Guardando senhas com Vim
-2016-10-05
+2016-10-05 computer
 
 Eu já sabia que havia um sistema de criptografia de arquivos no Vim. Isso pode ser útil para textos secretos, ou para enviar qualquer bobagem para outra pessoa que sabe de uma senha que só vocês conhecem. Porém, o método default de criptografia dele não me animava. O pkzip é usa um algoritmo fraco, e os inúmeros programas que quebram zips encriptados estão aí para demonstrar. Além do mais, o blowfish da versão 7 do Vim tem problemas em gerar seu salt que favorece ataques de força bruta "tão baratos quanto um XOR". E é aí que entra em cena o Vim 8.
 
@@ -46365,7 +46365,7 @@ Isso abre espaço não apenas para um roteiro (também de Nölle) que é bem ama
 O resultado é que se torna um filme que explora de maneira incrivelmente eficiente a questão da solidão e da depressão sem precisar partir para estereótipos vazios. As pessoas envolvidas em Aloys não precisam ser pessoas reais para percebemos o quanto de verdade existe em "cada um de nós tem um mundo dentro de si". Esse mundo pode ou não ser populado por pessoas reais e experiências reais. A questão levantada no filme é a capacidade de viver fora do eu, quase como um desafio.
 
 # Mini-Debate com diretor de O Que Restou da Minha Vida
-2016-10-21
+2016-10-21 movies
 
 Depois da sessão de hoje do alemão O Que Restou da Minha Vida, candidato à Competição Novos Diretores, adentrou no Cine Caixa Belas Artes Sala 1 o diretor Jens Wischnewski para uma rápida sessão de perguntas. Logo no começo também chega meio apressada a atriz principal do filme, Luise Heyer. As perguntas foram improvisadas pelo (infelizmente) pequeno público, mas foi respondido com muita simpatia (para um alemão) por Wischnewski. Segue as que eu lembro de cabeça:
 
@@ -46918,7 +46918,7 @@ Já na direção, Oliver Stone consegue equilibrar o ataque ao ufanismo e fé ce
 Mas apesar dos pesares, Snowden é um filme eficiente do começo ao fim, tanto que consegue fazer um salto final entre ficção e realidade que deveria ser arriscada na maioria dos filmes, mas que aqui apenas encontra surpresa e admiração. Muito disso deve ser atribuído a Joseph Gordon-Levitt, que não reproduz Edward Snowden como uma máscara, mas o vive por inteiro, seja nas expressões introvertidas do sujeito ou até em sua forma de andar e manter sua cabeça levemente abaixada. Não se trata de uma atuação para prêmios, pois é sutil demais para isso. Porém, é tão eficiente que sequer se nota a diferença entre ficção e realidade. E se trazer a realidade através de um documentário já é um trabalho de heróis, imitá-la em perfeição pelo método teatral é ainda mais impressionante.
 
 # Um Homem Insignificante
-2016-11-02 movies miniviews fragments
+2016-11-02 movies
 
 Se torna um romance no momento que escolhe contar sua história como uma experiência de esperança e conquista.
 
@@ -46940,7 +46940,7 @@ Mais uma vez a fotografia usada por Douglas Slocombe é épica, com um amarelo q
 Alguns efeitos soam passados, como o rápido envelhecimento de um personagem, mesmo que ainda impressione. Eu me lembro, quando criança, como essa cena me impactava muito, pelo medo de escolher a taça errada. Hoje ela me impacta por outros motivos. Entre eles a irracionalidade humana, que ambiciona o que não entende, e nessa busca estúpida por mais poder acaba sucumbindo por um desmoronamento de sua própria ignorância. A sensação é parecida, no entanto, quando Jones estala o seu chicote e o usa como cipó. Inesquecível e imutável.
 
 # O Mundo de Sofia
-2016-11-03 books philosophy
+2016-11-03 books
 
 Este foi o livro meio unanimidade dos fóruns de filosofia quando questionado qual o melhor começo para a área, que dê uma visão global, histórica e funcional do que é, afinal de contas, filosofia. Bem, e também o começo mais divertido, o que para uma área como essa deve se resumir aos quadrinhos do Existencial Comics e o livro de Jostein Gaarder.
 
@@ -47271,7 +47271,7 @@ Note, por exemplo, como toda a construção da explosão de uma casa seguida pel
 Há muita poeira e explosão em Máquina Mortífera, como deve ser em um filme do gênero que começa a desbravar outro jeito de contar investigações policiais. Querendo ou não, o filme é bom demais para ficar em apenas um. Exatamente o contrário dos dias de hoje, onde filmes de super-heróis nunca são bons o suficiente para nos contentarmos com apenas um. A diferença é sutil, mas está lá.
 
 # A Linguagem de Programação C++: O Início
-2016-11-29 computer ccpp
+2016-11-29 computer
 
 O livro-base sobre a linguagem C++ e como programar nela tem o nome pouco criativo "The C++ Programming Language", e é de Bjarne Stroustrup, o criador da linguagem. Ele começou a desenhá-la em 1979, quando ainda a chamava de "C com Classes". Havia um problema a ser resolvido na época em que Stroustrup estava fazendo sua tese de doutorado. Havia linguagens muito boas em abstração como Simula, como o novo conceito de Orientação a Objetos, que carecia do mais importante na época: velocidade (só na época?). Já linguagens mais antigas como BCPL eram bem rápidas, mas eram tão simples que pareciam mais um Assembly glorificado. Havia, portanto, a necessidade de preencher a área de computação com alguma coisa bem no meio.
 
@@ -47914,7 +47914,7 @@ Todo o elenco está afiado, mas é o roteiro que delineia cada participação co
 
 
 # Usando clang no Visual Studio
-2016-12-27 computer videos
+2016-12-27 computer
 
 Com o surgimento da infraestrutura LLVM, que possibilita a união entre diferentes ferramentas que suportam diferentes plataformas para o desenvolvimento de software, e o clang, um font-end para C/C++ que roda não só em UNIXes da vida, como também no Windows, como também no Visual Studio, tem sido uma vantagem para projetos que usam as novas features do C++ moderno, muitas ainda não implementadas no compilador da Microsoft, unir o útil (Visual Studio) ao agradável (C++ modernos via clang). Este vídeo tem como objetivo demonstrar como essa união é simples e fácil de ser realizada dentro do próprio Visual Studio. De quebra, vamos descobrir alguns problemas que podem ocorrer nessa união de toolsets e como corrigir.
 
@@ -48033,7 +48033,7 @@ Curioso como a face de Yinniáng não reflete seu poder na luta, sua capacidade 
 E é justamente isso que vemos em A Assassina na maioria do tempo, embora ela possua também as cenas de luta mais bem coreografadas e esteticamente impecáveis do ano. Mas isso está a serviço do prazer basal que Hsiao-Hsien demonstra em sua autoria, o que faz toda a diferença com live-actions animes que apenas arranham essa expressividade com caricaturas. Aqui temos a coisa real. Tão real que quase dormimos sonhando com ela.
 
 # Entrando na zona com Vim
-2017-01-05
+2017-01-05 computer
 
 Se você é programador é bem provável que já tenha ouvido falar em "Flow" ou "The Zone". Se for leitor assíduo do Hacker News, então, nem se fala. De qualquer forma, uma das maneira mais produtivas do programador programar é entrar na famosa "zona". É lá que muito de nós nascemos. Lembra a primeira vez que mexeu em um computador ou afim e ficou tão obcecado que não viu o tempo passar? Pois bem. Você esteve na zona. E estar nela é um bom lugar para trabalhar.
 
@@ -48753,7 +48753,7 @@ Este é um filme que, assim como todos os grandes filmes de sci-fi, irá fazer v
 Mas é necessário alguma coragem para apresentar a decisão final da Dra. Banks. É uma decisão polêmica entre as massas, assim como uma visita alienígena. Porém, pense por alguns minutos e verá que às vezes não há muito o que fazer em relação às nossas decisões quando pensamos no que é moralmente correto. E, de quebra, um significado amplo, múltiplo, do título de um filme que já promete ser um clássico no futuro.
 
 # Um commit por feature
-2017-02-04
+2017-02-04 computer
 
 Imagine que você vai começar a trabalhar em algo novo. Daí você baixa a última versão do branch de dev e começa a codar. Então chega um momento em que o primeiro, segundo, terceiro commits são necessários para manter a ordem em sua cabeça. "Fiz isso logo de manhã, testei algo diferente antes do almoço e de tarde fui incrementando a solução final até passar todos os testes." Tudo bonito. Mas como fica na hora de subir essa bagaça pras pessoas verem?
 
@@ -49142,7 +49142,7 @@ Recarregado o projeto no Visual Studio após a intervenção cirúrgica, tudo vo
 
 
 # Native Floripa 2017: Palestras
-2017-02-09
+2017-02-09 computer
 
 Já está disponível na grade de palestras do Native Floripa 2017 o conteúdo que será ministrado nos dois dias do final de semana dias 18 e 19 de março de 2017 em Florianópolis, na Associação Catarinense de Empresas de Tecnologia (Rodovia SC 401, Km 4, Bairro Saco Grande, Florianópolis, SC, CEP 88032-000, Telefone (48) 2107-2700). As palestras englobam trabalhos acadêmicos, teoria da computação, demonstração de bibliotecas e práticas comuns no dia a dia treinamentos em engenharia reversa, embarcados e internet das coisas, e toda coleção de linguagens bizarras que você poderá conhecer. Ah, e moedas digitais (eu! eu!) =)
 
@@ -49221,7 +49221,7 @@ Se isso ainda não tocou nenhum sino em sua cabeça, talvez a lista dos palestra
 As inscrições já estão abertas e o preço me impressionou. Para um evento com dois dias, está bem mais acessível que o TDC.
 
 # UEFI: dê adeus à MBR
-2017-02-09
+2017-02-09 computer
 
 Após depurar a BIOS e a MBR, eis que surge a UEFI: os GUIDs para SOs instalados no seu HD. Quantas siglas, não é mesmo?
 
@@ -49251,7 +49251,7 @@ Utilizando o mesmo universo idealizado em Uma Aventura Lego, aqui Gothan City é
 Se muitos trabalhos anteriores do homem-morcego conduziam seu estudo de personagem de maneira excessivamente fria e séria -- como a trilogia de Christopher Nolan -- este Lego Batman sabe o que quer: apenas divertir. Ele se ancora na questão do sentimentalismo, o que soa clichê, mas o seu formato de brincadeira quase nos leva a acreditar que isso também faz parte do jogo. De certa forma, ele flerta muito com as regras de uma historinha que contamos para nós mesmos quando brincamos na infância, e arrisca soar manipulador no meio do caminho. Mas isso é um pecadilho se compararmos com o que eles arriscam aqui. E se arriscar for uma virtude, este pode até ser um dos mais ambiciosos filmes de super-herói do ano. Vai duvidar?
 
 # Convertendo Windows de UEFI para MBR
-2017-02-13
+2017-02-13 computer
 
 Quando você pesquisa sobre isso no Google o que mais encontra é ferramentas "gratuitas" que prometem fazer a conversão ou algo do gênero. No entanto, há um procedimento simples em que o próprio Windows pode corrigir os problemas oriundos da conversão do boot UEFI/GPT. Depois, é claro, que você usar uma outra ferramenta esperta open-source =)
 
@@ -49401,7 +49401,7 @@ Mas, de qualquer forma, volto à montagem. O seu uso e os enquadramentos do dire
 Por fim, apresentando uma Rooney Mara de luxo como par romântico do protagonista -- e sem muito o que fazer -- Lion é um filme realmente de Oscar: empolgante, emocionante, e um drama da vida real. Uma história inacreditável que apenas por ser filmada já é digna de prêmios.
 
 # Palestra: como criar moedas digitais em casa com C++ (kick-off)
-2017-02-19
+2017-02-19 computer
 
 Esta palestra tem como objetivo ensinar o que são moedas digitais, como o bitcoin, e cada passo necessário o algoritmo e implementação para torná-la real. Será utilizado C++ como a linguagem-base e o foco está mais na implementação do que na matemática ou no algoritmo. Assim como foi criado o bitcoin, o importante a aprender é como unir diferentes tipos de conhecimento e tecnologia em torno de um objetivo único, simples e prático.
 
@@ -49546,7 +49546,7 @@ Atenção: você poderá encontrar o repositório do tiocoin no "GitHub da BitFo
 
 
 # O velho problema do project out of date do Visual Studio
-2017-02-20
+2017-02-20 computer
 
 Acho que todo mundo já passou por isso. Você compila todo o projeto bonitinho e no final, ao depurar, ele faz aquela velha pergunta: "o projeto está desatualizado: deseja compilar novamente?". Mas como assim? Eu acabei de compilar, não faz nem cinco segundos. Está quentinho, saiu do forno agora.
 
@@ -49686,10 +49686,10 @@ O que faz um programador sênior? Ótima pergunta. Pergunte para n programadores
 
 - Escreve de maneira flexível para ser facilmente mudado antes que o projeto termine.
 
-# Um lance à frente (Capablanca)
-2017-02-20 quotes chess
+# Um lance à frente (Jose Raul Capablanca)
+2017-02-20 quotes
 
-Eu só vejo um lance à frente, mas é sempre o correto. Jose Raul Capablanca.
+"Eu só vejo um lance à frente, mas é sempre o correto."
 
 # A mesma mente (Einstein)
 2017-02-20 quotes
@@ -49835,7 +49835,7 @@ Sem qualquer paixão pelo projeto, os cineastas andam à deriva e possuem menos 
 Certamente há algo a se aprender com os autistas. Isso já está claro para o mundo e Owen é um brilhante exemplo. Porém, não é se colocando em seu próprio nível histérico de enxergar a realidade ou superestimar suas capacidades que os objetivos de comunicação com essas pessoas especiais e dignas de cuidado serão alcançados. Certamente não com um filme que emula o pior na Disney: suas esquisitices assépticas e simplificadas de como a vida funciona.
 
 # Atalhos no terminal do Linux/Unix
-2017-02-27
+2017-02-27 computer
 
 Há pouca coisa que você pode fazer para manipular a linha de comando que está digitando em um terminal do Windows. Isso faz sentido. O terminal da Microsoft é apenas um resquício do MS-DOS, que foi herdado pelas inúmeras versões do Windows para que desenvolvedores e suporte pudessem executar alguns comandos não disponíveis pelo clique de um mouse. Já no Unix a história é inversa. Durante tantas décadas sendo usado, o sistema Unix, hoje, em sua mais nova reencarnação, Linux, foi acumulando diferentes teclas de atalho para conseguirmos refazer, desfazer e fazer melhor a montagem dos comandos digitados na linha de comando. Um sistema bash padrão já deve ter implementado o mínimo que você precisa para sobreviver na linha de comando. Aparentemente esse é um conhecimento tão bem divulgado pela comunidade que ninguém se dá ao trabalho de escrever um artigo sobre isso. Eu fiz algumas pesquisas uns tempos atrás e cheguei na seguinte lista, que tem muito mais do que eu preciso, e que seria bom aprender, nem que fosse aos poucos.
 
@@ -49972,7 +49972,7 @@ As junções da visão artística de NY aliadas aos quadros inspirados de Nevill
 E é sobre isso que o ilustrador alemão que residiu na Big Apple espera atingir em seus trabalhos: que as pessoas deixem de lado a visão comum da cidade e entendam através de seus recortes e experimentos -- há um momento que ele começa a desenhar com a tinta do seu café -- o que há para ser descoberto dentro dos elementos mais comuns que você irá encontrar no dia a dia E não é esse o conceito não apenas de ilustrações com conteúdo, mas também de documentários como esse?
 
 # Jonas e o Circo sem Lona
-2017-03-08 movies miniviews fragments
+2017-03-08 movies
 
 Seu desejo de ver o filme terminado é tão grande quanto o do pequeno Jonas e seu circo. Começa inocente, e logo vira uma discussão social complexa, justamente por não ter respostas fáceis. Gerações mantém uma paixão pela vida circense que não é acompanhada pela realidade. Um sinal de integridade da cineasta em continuar uma história não apenas apesar do revés, mas por causa dele.
 
@@ -50103,7 +50103,7 @@ Por fim, seus últimos capítulos são mais voltados para a prática esportista 
 
 
 # qt5.natvis
-2017-03-15
+2017-03-15 computer
 
 A estratégia que utilizei em meu último artigo sobre Qt para expandir o tipo QString no depurador não existe mais no VS2017 RC. O arquivo autoexp.dat foi extirpado e em seu lugar foi deixado os já ativos arquivos natvis, que podem ser usados de forma global ou por usuário.
 
@@ -50150,7 +50150,7 @@ E a busca por esse elixir mágico já encontrou muitos heróis de nossa históri
 Porém, este é mais um filme do diretor com uma pessoa obstinada e obcecada que dá tudo de si para alcançar seu objetivo. Aliás, os personagens: Tomas, Tommy, Tom. Os personagens de Hugh Jackman estão em busca não apenas da vida, mas do amor, e nessa relação dúbia entre o que é viver. Note como todos os simples elementos manifestados como símbolos no filme -- a tinta, o papel, a árvore, a estrela e o ser humano e um país morrendo -- vão constantemente aparecendo em pares que se unem para contar as três histórias de maneira intercalada, mas nunca deixando cair a peteca do tema. É o tema que está em jogo, e para isso o igualmente obstinado diretor (e roteirista) persiste em alcançar a melhor forma de mostrá-lo.
 
 # NativeFloripa 2017: Impressões
-2017-03-21
+2017-03-21 computer
 
 A despeito de poucas pessoas envolvidas na organização, o primeiro evento no estilo Encontro CCPPBrasil (sem ser um encontro CCPPBrasil) foi um grande sucesso. Houve um nível de palestras razoável com um público idem. Houve também uma maior participação das pessoas, com perguntas e às vezes quase um debate. Houve café no coffee break, mas mais importante: houve chope artesanal no Happy Hour. E por causa disso não há comparativos com encontros C++ de Sampa e Rio =).
 
@@ -50178,7 +50178,7 @@ Para os mais céticos, essa experiência em direção ao místico pode necessita
 De qualquer forma, O Ornitólogo oferece uma aventura hermética, mas nunca enfadonha. Há acontecimentos misteriosos e de certa forma perturbadores o suficiente para entreter, sem que com isso nos revele de uma vez por todas o que tudo isso quer dizer. A busca por uma narrativa em um filme que começa sem é essa floresta que nosso herói se enfiou, cheio de símbolos indecifráveis, que de alguma forma o transformaram. Como qualquer religião do planeta, ecológica ou não.
 
 # Forma simples de baixar atualizações remotamente de um cliente para um servidor
-2017-03-23
+2017-03-23 computer
 
 A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:
 
@@ -50753,7 +50753,7 @@ As diferentes histórias que lidam com aceitação se entrecruzam de uma maneira
 Só há dor e sofrimento em Peles, mas ela é necessária para que os temas pesados que são abordados sejam realmente sentidos do ponto de vista de pessoas normais e saudáveis. O que não quer dizer que os personagens que sofrem no filme sejam dignos de pena, mas é o que o filme quer dizer, já que essa é a única forma de nos relacionarmos com seus dramas. E uma história que poderia servir para mostrar a riqueza dos diferentes a usa para mostrar como essas pobres criaturas são dignas de pena.
 
 # Como publicar um livro na Amazon
-2017-04-24
+2017-04-24 computer
 
 Estou finalizando essa semana a publicação do meu primeiro livro. Não, não é sobre programação, mas sobre Cinema. Mais de 1500 páginas sobre Cinema. Isso está acontecendo porque eu resolvi testar a possibilidade de publicar facilmente alguma coisa na Amazon baseado em um blog feito através de Jekyll (uma linguagem de marcação simples e um punhado de arquivos markdown). E, guess what? Funciona, é simples e relativamente descomplicado. Eis o caminho das pedras.
 
@@ -51202,7 +51202,7 @@ Tomemos, para fins de ilustração, o socialismo marxista como exemplo. A partir
 No socialismo, também, diferenças reais entre controladores e não controladores devem necessariamente existir; mas são determinadas de modo arbitrário, pelas vias da regra do mais forte daqueles que detém maior poder político.
 
 # Como acessar submódulos no git inacessíveis?
-2017-05-28
+2017-05-28 computer
 
 Quando projetos remotos usam submodules é possível que algum deles seja acessível apenas através de chaves criptográficas. Isso exige que os sub-projetos necessários para fazer funcionar seu projeto podem estar fora do seu alcance e acesso, o que irá gerar durante seus comandos pull recursivos erros de ssh (publickey access).
 
@@ -51293,7 +51293,7 @@ Desligue a máquina virtual e volte a montar o HD na máquina real. O ISO do nov
 
 
 # Bolo de Cenoura
-2022-07-09 food cooking repost
+2022-07-09 cooking
 
 ## Bolo de Cenoura com Chocolate
 
@@ -51780,7 +51780,7 @@ A cumplicidade que vai se construindo entre as duas é ligeiramente apressado e 
 Mas dito isto: que bela poesia! Uma história bem amarrada muitas vezes faz perdoar um ou outro deslize como tropeços da própria vida. E um filme sobre o que significa uma vida bem vivida, sem floreios ou manipulações, merece alguns tropeços para se fazer real através do milagre da própria vida.
 
 # CppTests
-2017-07-25
+2017-07-25 computer
 
 Iniciei um novo projeto no GitHub que tem por objetivo ser minha prancheta de trabalhos para minha palestra no próximo encontro ccpp. Há uma infinitude de coisinhas novas na linguagem C++, fora as adições à biblioteca STL, mas que devem passar despercebidas da maioria dos programadores, que está mais é querendo terminar seus próprio projetos. Enquanto alguns conceitos, sintaxes e métodos não se solidificam, vale a pena dar uma espiada no futuro?
 
@@ -51992,7 +51992,7 @@ Há vários acontecimentos dignos de nota nesta segunda temporada, e vou citar a
 E estão longe de entregar uma season finale decente, que termine de uma vez sua história, mesmo que tenham que recomeçá-la o próximo ano.
 
 # Migrando Imagens Para Imgur
-2017-07-28
+2017-07-28 computer
 
 Depois de migrar meus blogues para o "Hugo" decidi deixar o repositório mais magro migrando as imagens para um serviço de imagens. O "imgur" me pareceu uma solução simples com uma interface rápida (e uma API Python). Para realizar essa tarefa você vai precisar das ferramentas de sempre: grep, sed, python, vim. E lá vamos nós.
 
@@ -52311,7 +52311,7 @@ O roteiro quase sempre apela um pouco a mais seu lado feminista, expondo os home
 De certa forma assim é conduzido o senso moral de FifF. Estamos observando uma época não tão remota com os olhos de hoje, e soa tão distante que permite olharmos como para um aquário. Pelo menos isso é o que eu espero do espectador.
 
 # Filmes e Diretores Favoritos
-2017-08-23
+2017-08-23 movies
 
 Essas perguntas no estilo de listas me fazem travar. Minha resposta sempre será injusta porque eu vou esquecer filmes e diretores que gosto mais do que os que eu citar.
 
@@ -52403,7 +52403,7 @@ Preocupado excessivamente com enquadramentos, o diretor espanhol Luis Prieto com
 Entregando mais do mesmo de uma maneira a tentar agradar massas e fãs de ação visceral, O Sequestro é uma sessão convincente, tensa e ritmada. Você até esquece que já viu isso ou aquilo tantas vezes no Cinema. A moral da história está faltando, porque talvez não tenha nenhuma. Mas como arrebatamento emocional, está tudo aí, para o deleite de quem curte um bom momento pipoca. E a manteiga por cima é a recompensa.
 
 # Ativando Ubuntu No Windows 10
-2017-08-29
+2017-08-29 computer
 
 Pensei que o Ubuntu já estivesse na Windows Store disponível para qualquer gamer instalar (não sei por que um gamer faria isso). Mas não. Ainda é necessário fazer os passos de desenvolvedor expert de Windows para ativar esta opção.
 
@@ -52442,7 +52442,7 @@ Havia dito anteriormente que o filme é desses milagres onde tudo acontece dando
 Está aberta a temporada de Call For Papers do nosso próximo encontro de programadores e aficionados C/C++ Brasil, que deverá acontecer em São Paulo (capital) dia 25 de Novembro de 2017 (sábado). Para quem deseja reservar seu lugar e uma promoção nos ingressos clique no link de pré-inscrição disponível no site do grupo. Mais detalhes serão atualizados no nosso site.
 
 # Escopo Fechado: Receita De Fracasso
-2017-09-12
+2017-09-12 computer
 
 Quando questionado por clientes se haveria uma forma de fechar o escopo de um projeto maior que 20 horas, dessa forma limitando a interação em uma entrega única já com os requisitos definidos por ele, geralmente nossa resposta é: "isso nunca vai funcionar; ou se funcionar, vai sair bem caro".
 
@@ -53654,7 +53654,7 @@ Este filme foi feito com uma aura de velho. Seus letreiros amarelos e grandes, e
 Alguns vão dizer que este é um filme parado que não vai para lugar algum. Esses alguns vão ter toda a razão. E a resposta para isso está no próprio filme. Não cabe a ninguém, nem o filme, dizer o sentido de tudo isso. As coisas são como são. Realismo é uma coisa. Estar assistindo a este filme, um verdadeiro privilégio.
 
 # Pela Janela
-2017-12-08 movies miniviews fragments
+2017-12-08 movies
 
 Ela extrai uma personagem do cotidiano e some no processo. Inspiração em pessoa sem dizer uma palavra. Tem início um road movie humilde, ligado às raízes culturais do brasileiro, suas estradas, seus hotéis, seu modo de ver a vida. Rosália vira a itinerante em um processo de resgate de sua humanidade.
 
@@ -53735,7 +53735,7 @@ Ainda assim, com graves defeitos de produção, roteiro e direção (Branagh est
 Dignidade essa que foi obtida por uma distinta dama décadas atrás, através da observação perspicaz dos costumes da alta nobreza, nos inserindo em crimes e mistérios cuja graça não era apenas tentar desvendá-los, mas observar as criaturas grotescas que a aristocracia britânica fabricava com tanta naturalidade. Essa seria uma melhor crítica social do que focar em racismo e nazismo, algo tão batido hoje em dia.
 
 # A Origem do Dragão
-2017-12-14 movies miniviews fragments
+2017-12-14 movies
 
 O filme enxerga mais beleza nesses personagens, o que dizem e fazem, do que a forma como lutam. Ele vem para se purificar de um pecado que cometeu por orgulho e encontra um Bruce Lee e toda sua vaidade erguendo os pilares que o tornarão referência no mundo todo. O mal existe aqui de maneira caricata para que os mocinhos, nas palavras do mestre Lee, "chutem seus traseiros". O mestre que veio de Shaolin, Wong Jack Man (Yu Xia), diz que o estilo é como uma prisão. Eu concordo com ele, mas que bela prisão são os estilos de kung fu!
 
@@ -54616,7 +54616,7 @@ Se em alguns momentos a história gira em círculos infindáveis de busca por di
 Curiosamente não há muitos belos momentos de encher o fôlego no fundo do mar, exceto os marcados pelos dois principais personagens dos mares -- tubarões e baleias. Talvez porque este é mais um filme sobre humanos e como eles são as criaturas mais fascinantes do planeta, pois dados ao erro, quem nos diz o que devemos fazer em seguida? Talvez essa seja a grande aventura: se ousar a ir além e depois descobrir para onde virar.
 
 # Caloni Palestrando Sobre Bitcoins Antes De Virar (Muito) Modinha
-2018-02-20
+2018-02-20 computer
 
 Naquela época o bitcoin estava oscilando entre 3000 e 5000 reais. Dá pra acreditar? Faz muito tempo. Cerca de um ano. E hoje tem pessoas dizendo que o mundo vai acabar porque bitcoin caiu para a mínima de 20k. Aham. Porém, existe uma imensidão de questões no meio desses valores que é: o que, afinal de contas, é uma moeda digital? Essa minha palestra foi ministrada no Native Floripa 2017, no comecinho daquele ano acho. Faz algum tempo, então não me lembro direito, mas foi um dos eventos mais legais que participei. Boa estrutura e ótima companhia.
 
@@ -54870,7 +54870,7 @@ A trilha sonora de Dario Marianelli não é primorosa, apenas adequada na maiori
 Que é uma história adulta. Este não é um filme de guerra, mas um filme de política, que é a guerra com etiqueta. Até o Parlamento está mais educado do que de costume (A Dama de Ferro, 2011), e olha que estão à beira de tensos momentos. Darkest Hour não possui a força ultra-realista de Dunkirk, mas permite enxergarmos a parte não-vista do longa de Nolan. Uma dupla sessão de respeito, com ambos indicados ao Oscar desse ano.
 
 # Just the Arguments
-2018-02-27 books philosophy
+2018-02-27 books
 
 Just The Arguments, como o próprio nome diz, explora apenas os argumentos dos debates filosóficos mais relevantes na história da Filosofia, e também tenta na contemporaneidade se manter neutro ou equilibrado (como se isso fosse possível).
 
@@ -54969,7 +54969,7 @@ Mas voltando ao personagem Takeshi, que é, pode-se dizer, a alma do projeto enq
 Tudo o que um público mais antenado com as últimas tendências filosóficas e científicas precisa. Dessa vez a Netflix quer agradar o nerd mais seleto de plantão, e esteticamente e ideologicamente consegue.
 
 # Apostas Oscar 2018 (com resultados)
-2018-03-05
+2018-03-05 movies
 
 Resultado das apostas. Inspirado pelo meu amigo, vamos lá com alguns chutes de quem não sabe nada sobre Oscar (apenas que é um concurso de beleza capitalista):
 
@@ -55186,7 +55186,7 @@ Melhor filme:
 Minha pontuação ficou 6 de 21. 28% de aproveitamento até que não está ruim pra um chute de 10 minutos. É isso aí, pe-pe-pe-pessoal. Ano que vem tem mais minorias. E nem assim Star Wars ganha alguma coisa...
 
 # iMasters PHP Experience
-2018-03-05
+2018-03-05 computer
 
 Meu primeiro post no blog sobre PHP. Já programei alguma coisinha no passado e meu amigo Strauss fez o blogue dele todo em php, do zero. Sim. Programador de verdade ele.
 
@@ -55216,7 +55216,7 @@ Mas falando sobre Trump, a sacada do filme é genial. Ela envenena os usuários 
 Agora, o que é aquele laço elétrico de caubóis que corta gente? Sinceramente, Kingsman flerta sério com o trash! Tão sério que deveria no próximo filme abraçá-lo de vez e tornar a aventura realmente sem lição de moral. Por mais divertido que seja para os democratas ver Trump sofrendo um impeachment.
 
 # PHP Experience 2018 Dia 2: Críticas
-2018-03-07
+2018-03-07 computer
 
 Grades decepcionantes. O segundo dia do PHP Experience demonstrou pela qualidadade e teor das palestras pelo menos duas coisas: 1) a comunidade parece interessada em boas práticas e arquitetura (o que é ruim), 2) a comunidade parece mais interessada em "diversidade" que qualidade (o que é duplamente ruim).
 
@@ -55445,7 +55445,7 @@ Carmen Guarini, por outro lado, parece venerar demais seu tutor, e o apresenta e
 Obcecada pelos momentos mais brilhantes de Fernando Birri, "Amarra Seu Arado a Uma Estrela" é uma linda homenagem e revelação da mente deste cineasta que nos deixou aos 92 anos. Mas pela falta de história se torna um filme incompleto. O jogo entre Che Guevara e Utopia são dois pedaços que não são usados para muita coisa. O resultado é um passeio agradável sem muita coisa o que dizer. Mas, ainda assim, agradável.
 
 # Projeto Aluno
-2018-03-21
+2018-03-21 computer
 
 Observar um estudante de computação (qualquer curso) lutando nos primeiros meses para conseguir fazer seus programas compilarem em C é um misto de emoções. É uma mistura entre risos, risadas e gargalhadas. Há vários motivos para isso, mas o principal, o que vem à minha mente sempre que isso acontece, é a eterna questão: por que a pessoa encontra fórum de programação para perguntar sobre variável mas não consegue ler duas páginas de um livro?
 
@@ -56108,7 +56108,7 @@ Fica aos poucos mais claro que que a concentração exigida pelo poder do herói
 Eu já falei que os coreanos são malucos. O que eu talvez ainda não tenha falado é que eles possuem alguns insights visionários que vale sempre dar uma olhada.
 
 # Adivinhe: Roger Ebert
-2018-05-07
+2018-05-07 movies
 
 Acha que conhece de cinema? E que tal tentar adivinhar por um punhado de palavras de um crítico sobre qual filme estamos falando?
 
@@ -56136,7 +56136,7 @@ Quase um panfleto institucional. Mas longo demais. O Renascimento do Parto é um
 Piadas à parte, perto do final deste documentário uma das soluções apresentadas por um dos participantes é informar o público de maneira simples e clara, dando o poder para as mulheres decidirem a forma que elas acham melhor ter seus filhos. Nada contra. Porém, este mesmo filme poderia ser esse mecanismo se ele não abusasse de redundâncias e fades que o diretor Eduardo Chauvet preguiçosamente empurra um a um. Em um certo momento há um fade maior, e eu penso que vai acabar. Ledo engano, falta apenas meia-hora. Que parto de filme.
 
 # A Pior e Mais Ridícula Crítica de Todos os Tempos
-2018-05-07
+2018-05-07 movies
 
 Estava lendo um dos livros de Pauline Kael, uma das poucas coletâneas disponíveis dessa escritora que é considerada a melhor da história do Cinema, 5001 Nights at the Movies. Nesse livro em questão há resenhas rápidas que eram publicadas nos rodapés do jornal onde Kael escrevia. São textos curtos, de um parágrafo no máximo, mas que fluem, embora condensados em uma ou duas impressões no máximo sobre o filme analisado. Apesar de ser divertido de ler, falta textura, conteúdo, nesses recortes. Portanto procurei por esta textura que tanto falam a respeito dos textos de Kael pela internet. Por um bom tempo me perguntei onde estariam esses textos completos e mais densos dessa escritora, e por que eles não viraram relevantes coletâneas para a análise da crítica cinematográfica. E no meio dessas minhas pesquisas eis que surge o texto de Alex Sheremet.
 
@@ -56776,7 +56776,7 @@ Por outro lado, voltando aos pares românticos, revelar um possível caminho do 
 Atropelos em cima de atropelos, "Amor Vincit Omnia" é um projeto que começou já tendendo ao fracasso, mas que é simpático para o fã, que é o real objetivo desse fechamento de série. E se o real objetivo foi concluído, o projeto pode ser considerado um sucesso. O fracasso, no caso, é a decisão da Netflix em cancelar uma das poucas séries criativas e pulsantes da atualidade.
 
 # As Portas da Percepção, de Aldous Huxley
-2018-06-25 books philosophy
+2018-06-25 books
 
 As Portas da Percepção é um (ou dois) ensaio do escritor Aldous Huxley que descreve com uma precisão poética os efeitos do uso da droga conhecida como mescalina, e se você tem vergonha na cara já deve ter se lembrado desse nome citado nas inúmeras vezes que assistir ao filme The Matrix. Quando Neo recebe uma visita que o acorda ("the white rabbit") ele ainda parece estar dormindo. Sua visita e cliente conhece esse efeito: "mescalina! A melhor maneira de voar". Aparentemente o Sr. Huxley voou bem alto em certo momento da vida.
 
@@ -57600,7 +57600,7 @@ Os personagens de Henry Cavill (que faz o agente August Walker) e Angela Bassett
 E é por isso que eu não citei esse elemento recorrente em Missão Impossível como fórmula de sucesso. Você nota algumas variações, vê? Mas o que chama mais a atenção são os detalhes que se repetem. E Tom Cruise continua louco por adrenalina como nunca. Graças a ele você dificilmente verá cenas de ação tão sufocantes e empolgantes este ano como neste filme. A IMF segue firme e forte.
 
 # Depuração Visual Studio 101
-2018-07-24 computer videos
+2018-07-24 computer
 
 Redescobrindo meu canal no YouTube me empolguei em publicar mais alguma coisa. Os meu primeiros vídeos, no meu canal pessoal, são longos e possuem narração um pouco confusa, mas explicam bem alguns detalhes do Visual Studio. Agora com meu primeiro vídeo curto estou apenas demonstrando sem voz como é o depurador do Visual Studio. Enjoy =)
 
@@ -57637,7 +57637,7 @@ Mas essa série também começa a responder uma questão instigante: esse turism
 Uma questão interessante de ser respondida com passeios como os feitos pelo host, David Farrier. E apresentados por ele.
 
 # Visual Studio e seu depurador (comentado)
-2018-07-27 computer videos
+2018-07-27 computer
 
 Segue meu segundo vídeo curto onde estou apenas demonstrando como é o depurador do Visual Studio. Mas dessa vez com comentários =)
 
@@ -57657,7 +57657,7 @@ Infelizmente as falas nunca escondem o fato que a estrutura do filme é confusa.
 "Para o Que Der e Vier" se vende como muitas coisas mas é superficial demais em todas elas. Nunca passa de uma folheada inspirada na sessão de auto ajuda de uma livraria. Boas risadas, mas nem lembro mais em quais livros eu dei uma olhada. Procure pelas capas menos vistosas.
 
 # Cinquenta Tons de Liberdade
-2018-07-29 movies miniviews fragments
+2018-07-29 movies
 
 Um grande vídeo de casamento feito para um casal rico que tenta criar algum drama em suas vidas vazias e desinteressantes. Pelo fiapo de vida das pessoas ricas, foi necessário lotar o vídeo com mansões, jatos, iates, carrões, guarda-costas, alguns acontecimentos levemente empolgantes. A sala vermelha do casal Grey a coisa mais sexy e controversa que existe no Cinema da atualidade. Este filme possui momentos verdadeiramente embaraçosos na carreira de Foley, acostumado a filmar políticos em Washington com sua sisudez indecente em House of Cards. A indecência é não haver história nenhuma para contar, e todas as cenas parecerem uma propaganda de férias luxuosas. A experiência sado seja mesmo acompanhar um pós-casamento de rico.
 
@@ -58864,12 +58864,6 @@ E voilá! Agora o include está disponível, as funções estão disponíveis, o
 
 "Vcpkg internals 3"
 
-
-# Receita de café no Reddit
-2018-09-13 food coffee
-
-Acabei de fazer o café seguindo as dicas do Reddit (que li novamente na insônia). O Loretto ficou absurdamente melhor apenas seguindo algumas dicas: proporção 1:15 do pó, coagem mais fina para menos tempo em contato com a água, deixando a água mais próxima da fervura (pesquise por colar de pérolas). O sabor do café ficou mais presente (menos aguado) com dez segundos mexendo, um minuto e meio em contato com a água desde o começo e trinta segundos baixando o êmbolo.
-
 # Final Space
 2018-09-15 series
 
@@ -59210,7 +59204,7 @@ Note como o uso do enquadramento, por exemplo, coloca Marcelo como um cara minú
 Filmes de bandas sempre possuem a vantagem da trilha sonora e da dinâmica do vídeo clipe. Aqui não é diferente. Com o adendo da amizade dos dois. Isso é suficiente para assistir esse filme se você for fã, e um motivo razoável se aprecia biografias de bandas. Para o resto, quem não curte uma viagem temporal regada a maconha? Apenas as autoridades ainda não perceberam.
 
 # Native Floripa 2018
-2018-09-28
+2018-09-28 computer
 
 O "Native Floripa" desse ano foi um evento de nerds que adoro e também uma viagem e encontro de nerds (que também adoro). Isso quer dizer que este é um post duplo, onde analiso tanto a viagem quanto o evento.
 
@@ -59454,11 +59448,10 @@ A fotografia do filme não segue a paleta padrão escura da solitária em filmes
 
 Fechando o ciclo com uma versão fabulosa de Sound of Silence da cantora espanhola Silvia Pérez Cruz, Uma Noite de 12 Anos é um presente bem-vindo dessa passagem dura da história do Uruguai, e assim como todas as passagens duras da história isso deve nos prestar como um alerta importante de coisas que não devemos repetir no futuro. Não é apenas uma mensagem para os uruguaios: é uma lição de onde ficam escondidos os horrores ideológicos quando a crueldade vira sistêmica.
 
-# Chá Verde Feito Como Na Rússia (Russian Tea HOWTO for Linux Hackers)
-2018-10-04 food coffee
+# Russian Tea HOWTO for Linux Hackers
+2018-10-04
 
 Peguei do manual do Linux os passos para a criação da famosa *zavarka*, mas em vez de chá preto o chá verde japonês. O resultado da proporção 1 para 5 (1: folhas; 5: água) com água completamente fervida foi bombástico. Um soco no estômago; cheguei a vomitar. Isso misturando depois o resultado com mais o dobro de água. Recomendo moderação e pouco tempo de infusão.
-
 
 # Djon Africa
 2018-10-07 movies
@@ -59887,8 +59880,8 @@ Sua estrela é Toivo Parikka (Martti Suosalo), o comediante mais famoso da Finl�
 
 Feito para o espectador fazer rir, mas não muito, e conseguir através de algum drama bem localizado e com trilha sonora para fazer chorar, "Rir ou Morrer" é gênero de nicho, feito para o espectador comum. Simpático, terno e esquecível. Assistir entre sessões mais pesadas.
 
-# 1984 (a peça)
-2018-10-26
+# 1984
+2018-10-26 play
 
 1984 está nas mentes e na alma de nossa sociedade. Ela foi concebida como um alerta por George Orwell contra o autoritarismo e totalitarismo crescente na Europa da segunda guerra, mas por seu formato universal, tal qual A Revolução dos Bichos, se transforma em um guia útil para qualquer época em que isso for um risco para a sociedade. E, sejamos honestos, sempre existirá esse risco.
 
@@ -60510,7 +60503,7 @@ Mas os atores são bons. Rupert Grint e seu médico (o ótimo Nick Frost) fazem 
 O piloto tem o dobro de duração e já começa a ficar insuportável bem rápido.
 
 # Minecraft Story Mode
-2018-12-08 series games
+2018-12-08 series
 
 O problema de uma história interativa nunca é a interação em si, mas a falta de capacidade do roteirista em criar uma árvore de possibilidades onde permaneça uma narrativa suficientemente interessante para o espectador. O espectador sente quando está sendo enganado, quando o que ele vê em sua tela é um mero replicante (Blade Runner).
 
@@ -60891,7 +60884,7 @@ Já havia apontado no primeiro episódio desta temporada que a existência de um
 A história avança e a "complexidade" dá as caras, como a simpática reviravolta que revela logo no início que as duas duplas não estavam separadas no tempo, nem no espaço, mas na realidade. Por mais que tenhamos simpatia pelos personagens, em certo momento o roteiro perde a mão em suas inúmeras, exageradas e mal-aproveitadas ideias. Não é ruim, mas parece tão sobrecarregado quanto o próprio mundo que Maeve sabota, e quase tão pesado quanto a melodramática trilha sonora. Matrix usava menos acordes graves, mas impactava mais pelo que víamos na tela e pelas suas ambiciosas ideias do que pelo nosso carinho pela temporada original.
 
 # Top Filmes 2018
-2018-12-31
+2018-12-31 movies
 
 Como usar esta lista: Antes de enumerar os 9 (nove) filmes que, acredito, mereçam constar em uma lista de consideração pelo Cinema, explico que listas nunca são exaustivas, nunca são permanentes e nunca são objetivas, mas subjetivas, dependendo do tempo-espaço e da pessoa que a compila. Essa que segue tenta fugir um pouco do lugar-comum, mas que irá falhar miseravelmente porque cinéfilos e críticos costumam enxergar a beleza no mesmo lugar. Porém, eu não assisti a todas as belezas cinematográficas que estrearam no Brasil esse ano, o que me dá um pouco de ponto-fora-da-curvisse salutar.
 
@@ -61080,7 +61073,7 @@ Mas se concentre no modo clássico do jogo. Survival. Os recursos não brotam co
 Jogar Minecraft como um adulto é voltar a ser criança em uma nova versão. E nessa versão aprendemos, como crianças, a pensar como adultos. E nos esquecemos de toda essa baboseira de direitos, de casa aconchegante e comida quentinha. É a vida cruel ensinada através de pixels. Resta ao jogador eventual conseguir encontrar essa magia dentro desse mundo, para ao sair se sentir grato pela vida privilegiada que tem, onde não é necessário se esconder à noite porque os monstros estarão à espreita.
 
 # Empanadas Argentinas
-2023-04-04 food cooking repost
+2023-04-04 cooking
 
 ## Ingredientes da massa
 
@@ -61425,7 +61418,7 @@ A dinâmica do filme começa a girar mais em torno de ambição conforme um jude
 "Don Verdean" não é um filme ruim. Ele é bem simpático e competente até certo ponto. Ele só não teve a visão de escolher um tom adequado para seu humor. Sabe como é, há tantos malucos religiosos espalhados pelo mundo que é difícil saber quando algo é piada ou é apenas documental.
 
 # Receita de Cold Brew
-2019-01-23 food coffee
+2019-01-23 coffee
 
 Não é deixar o café esfriar; é um método em que se deixa o pó moído grosso (prensa francesa) em contato com água fria na proporção de 1 para 7; deixe na geladeira por 16 a 20 horas e coe; beber até 3 dias servido com pedras de gelo.
 
@@ -62324,7 +62317,7 @@ Este é o último filme da entitulada Trilogia do Luto e sua história também u
 A pergunta se mantém não-respondida durante todo o longa, mas vemos uma cena em que Cristiano treina dar tiros com uma pistola em um alvo inerte. Essa não é a resposta. Cristiano confessa que seu irmão e pai, se estivessem vivos, fariam justiça com as próprias mãos. Ele é incapaz. Seu jeito de se vingar é documentar tudo em um filme. E o jeito das mulheres se defenderem é denunciar essa violência. Tanto o filme quanto a denúncia parecem rasos demais. Principalmente quando Cristiano revela foto do assassino de sua mãe, por alguns poucos segundos. De aparência humilde, negro, ele não é um personagem no filme. O trabalho documental desaba um pouquinho no final ao percebermos que o realismo nem sempre é verdadeiro, mas construído. Mas quem irá criticar frente às injustiças da vida real, onde torneiras e policiais não funcionam como deveriam?
 
 # Free Pascal e VS Code
-2019-03-09
+2019-03-09 computer
 
 Agora que o VS Code é a ferramenta universal para todas as plataformas e linguagens imagináveis, acreditem ou não, há até plugin para Pascal. Ao instalar a extensão mantida por Alessandro Fragnani você recebe o intelisense e algumas dicas durante erros de programação.
 
@@ -62441,7 +62434,7 @@ No entanto, a juíza Fiona Maye tem uma semana difícil. Seu marido a acusa com 
 Discutindo questões racionais, emocionais e religiosas ao mesmo tempo, Um Ato de Esperança nunca perde seu fôlego inicial, criando ao mesmo tempo uma atmosfera sufocante para sua heroína. Ela não consegue o tempo e o espaço necessários para tomar decisões a respeito de sua própria vida, além de estar sempre acostumada a não utilizar suas emoções; o que acaba ironicamente nos lembrando do próprio jovem cujo destino está decidindo como seu oposto. Após viver toda sua vida em um ambiente controlado sob leis que ele nunca ousou questionar, agora ele é levado a abrir os olhos à força, mas acaba se apaixonando pelo que vê: um mundo cheio de possibilidades, poesia e amor.
 
 # O Parque dos Sonhos
-2019-03-14 movies miniviews fragments
+2019-03-14 movies
 
 Filmes insistem em nos vender o formato 3D quando a única coisa que conseguem nos entregar são cenas de montanhas-russas.
 
@@ -63380,7 +63373,7 @@ O garoto mais novo da família acha um cachorro em um posto e o adota. Vemos a m
 Este é um filme que usa o naturalismo de suas situações e tem a vantagem de um diretor obcecado pelo controle da câmera, entregando o melhor de dois mundos: uma história que evoca a vida real com um filtro estilizado que torna aquela pobreza das situações de uma beleza bucólica. Nunca se torna enfadonho, sempre está preocupado em mostrar a evolução das histórias paralelas e de seus personagens. Acompanhamos oito, nove pessoas e depois de dois dias as conhecemos como se fizessem parte da família.
 
 # OpenSSH no Windows
-2019-04-29
+2019-04-29 computer
 
 O Secure Shell (SSH) é um protocolo de sucesso nos unixes da vida para terminal remoto e seguro por décadas, mas no Windows nunca houve uma forma simples e protegida de abrir um terminal ou copiar arquivos. A opção é instalar um cygwin com esse componente ou tentar compilar um protocolo SSL e em cima dele o SSH. Porém, há detalhes na autenticação que estão relacionadas com o Sistema Operacional e que precisa ser feito. O OpenSSH é uma maneira de compilar tudo isso e ainda funcionar no Windows.
 
@@ -64653,7 +64646,7 @@ A música-tema, A Whole New World, canta não apenas sobre o casal de apaixonado
 
 Uma diversão simples e eficaz. Funciona porque é curto, com uma hora e meia. Será lançado esse ano a versão live-action, que eu temo muito, por ter mais de duas horas. Me pergunto por quê. A Disney e nenhum estúdio politicamente correto não tem muito o que falar do mundo exceto reclamar de suas "injustiças" da cartilha. Se ao menos eles celebrassem, como em Aladdin, a diversidade de opiniões com o mínimo de honestidade...
 
-# Dixit (Jogo)
+# Dixit
 2019-05-20
 
 Uma festa com karaokê e jogos de mesa. O que pode surgir de interessante em um cenário millenial como esse? Um jogo de cartas que em sua simplicidade revela um intrincado sistema que soluciona todos os problemas que outros jogos de mesa costumam ter.
@@ -65471,7 +65464,7 @@ Este é um trabalho impecável de adaptação, denso e um tanto enfadonho, e mot
 Estamos no final dos anos 90, mas este é um filme clássico dos 90, com um roteirista e diretor, um trabalho de filmagens e direção de arte feitos inteiramente sem computação. Um trabalho sólido, com câmera posicionada nos melhores ângulos, com a melhor mise-en-scene que um bom diretor pode prover. É admirável observar como até filmes medíocres ficam levemente mais assistíveis quando nas mãos de um bom cineasta.
 
 # Pão de Queijo Mineiro
-2019-06-23 food cooking
+2019-06-23 cooking
 
 O pão de queijo é polvilho em pó, a decantação da fécula de mandioca, escaldado em uma mistura de água, leite e óleo ferventes sovado junto de ovos, e misturado com queijo ralado (sal a gosto) para ir ao forno em bolinhas feitas à mão dos mais diversos tamanhos. De acordo com o poste "Química do pão de queijo" cada ingrediente tem sua função:
 
@@ -65948,7 +65941,7 @@ O que mantém o interesse nesses inúmeros filmes que são lançados todo ano é
 Para uma geração que consome todos seus filmes antes de realmente vê-lo, o spoiler é uma arma letal. Ele queima esse último fiapo de mistério antes da experiência cinematográfica, sem o qual o filme perde completamente seu valor de mercado, um valor que já não era muita coisa, pois daqui a algumas semanas já é lançado novo arrasa-quarteirões, que hoje em dia está mais para chuta o portão do vizinho. É uma regra de ouro entre o novo público que os dados de uma estreia da semana fiquem em sigilo. Nem que seja por alguns meses após a estreia. Até porque a próxima estreia irá revelar inevitavelmente o desenrolar da história. E é claro que será uma continuação.
 
 # SLQLocalDB
-2019-07-21
+2019-07-21 computer
 
 Hoje foi o dia de redescobrir meu velho ranço com a solução Microsoft para banco de dados. Já perdi horas, dias e semanas com problemas de conexão com algum servidor SQL Server porque a instalação possuía configurações de segurança específicas, a string de conexão não estava exatamente de acordo com a versão instalada ou uma combinação macabra desses e de mais alguns problemas.
 
@@ -66012,7 +66005,7 @@ O desenrolar dessa história é irregular, possui cortes que não se encaixam co
 E é isso o que o torna tão magnético e tão intenso. Há uma cena em que David com a ajuda do seu filho vai colocando cada vez mais pesos para ver até quanto aguenta levantar. Não direi até onde vai essa história, mas note que é esse tipo de cena que vemos por todo o filme: pode soar arrastada, mas nós queremos a todo custo ver o que acontece no final.
 
 # No Coração do Mundo
-2019-07-24 movies miniviews fragments
+2019-07-24 movies
 
 A dupla Martins trouxe à vida um mundinho linguístico conhecido de quem mora ou já se aventurou pelas bandas de Minas Gerais, mas além disso mescla diferentes tons sociais de uma periferia da região sendo descoberta.
 
@@ -67010,7 +67003,7 @@ Cega Obsessão é daqueles filmes que começa de um jeito, mas vai se desenvolve
 A estrela deste filme é a atriz Mako Midori, que se entrega de corpo e alma ao projeto, embarcando em uma personagem que se chamarmos de controversa parecerá um eufemismo. Aki, a modelo fotográfica que estava satisfeita em posar como a idealização da mulher nos anos 60, adentra em um ritual de emoções cada vez mais primitivas, onde a definição da vida cerebral precisa passar necessariamente pela dor e pelo prazer. Midori comenta que próximo do final das filmagens já estava gostando do ritual sadomasoquista que vai evoluindo no terceiro ato, e nós vemos isso em sua interpretação da maneira mais pura.
 
 # Vcpkg: Atualizando Lib Asio
-2019-09-07
+2019-09-07 computer
 
 Hoje tive que compilar a versão 1.13.0 do Asio para Windows, mas o vcpkg não suporta essa versão ainda, apesar de suportar uma versão (1.12.2.2). Daí entra os problemas que todo programador Windows tem para manter bibliotecas de terceiro compilando em seu ambiente, mas agora com o vcpkg isso nem é tão difícil assim. Vamos lá.
 
@@ -67042,7 +67035,7 @@ Já David Thewlis como Mr. Kinsky mal aparece nas lentes de Bertolucci, ressalta
 Assédio é um filme que vai muito além de seu tema original ironicamente por fazer de tudo para explorar seu tema original, e com isso revela a competência de seus realizadores, em especial do diretor Bernardo Bertolucci, em conseguir unir dois mundos e ressaltar como se parece estar vivendo isolada em situação de vulnerabilidade e ainda assim ousar sonhar. É um filme sincero, sutil pela falta de diálogos, mas explícito pela sua música, seu movimento de câmera, o seu Cinema que respira do começo ao fim.
 
 # Bolo de Fubá
-2019-09-08 food cooking
+2019-09-08 cooking
 
 Ingredientes: 1 Copo e meio de farinha de trigo comum (copo de 250 ml, copo de requeijão), 1 Copo e meio de fubá, 4 ovos inteiros, uma pitada de sal, 1 copo e meio de açúcar, 1 Copo de leite, 1 Xícara de óleo (200 ml), 1 Colher das de sopa super cheia de margarina, 1 Colher das de sopa de fermento químico.
 
@@ -67069,7 +67062,7 @@ Preparo: bater os líquidos e o açúcar com a pitada de sal no liquidificador, 
 "Preocupação não é doença e o caos não é perigoso: só aposte o que valer a pena e realize cedo demais."
 
 # Pipoca Caramelizada
-2023-04-24 food cooking repost
+2023-04-24 cooking
 
 Medidas em peso que usamos em casa para uma bacia cheia de pipoca: 75g de milho, 60g de açúcar e 25g de óleo. Ou seja, para uma quantidade de pipoca em gramas adicionar 85% em açúcar e 33% em óleo.
 
@@ -67147,15 +67140,15 @@ Beautiful story design is a combination of the subject found, the imagination at
 
 "O escritor é um indivíduo para o qual a escrita é mais dolorosa do que para as outras pessoas."
 
-# A desigualdade não é ruim (Piketty)
-2019-09-08 quotes philosophy
+# A desigualdade não é ruim (Thomas Piketty)
+2019-09-08 quotes
 
-A desigualdade não é ruim por si só; decida se ela é justificável. Thomas Piketty.
+"A desigualdade não é ruim por si só; decida se ela é justificável."
 
-# Toda a riqueza do mundo (Piketty)
-2019-09-08 quotes philosophy
+# Toda a riqueza do mundo (Thomas Piketty)
+2019-09-08 quotes
 
-Toda a riqueza do mundo daria para cada um 760 euros. Thomas Piketty.
+"Toda a riqueza do mundo daria para cada um 760 euros."
 
 # O trabalho (Voltaire)
 2019-09-08 quotes
@@ -67248,7 +67241,7 @@ Mas, felizmente ou infelizmente, Rambo precisa se vingar, e ele logo arruma uma 
 "Rambo: Até o Fim" está longe de ser o pior filme da série, mas também está longe de ser o melhor. Ele cumpre seu papel moderado, de resgatar o personagem e nos fazer pensar se ele ainda é válido no nosso mundo contemporâneo. Talvez essa seja a mensagem desse filme, no final das contas.
 
 # Vcpkg: Boost para Windows XP
-2019-09-16
+2019-09-16 computer
 
 Quem programa em C++ no Brasil geralmente precisa estar preparado para manter velharias. Boa parte do parque de máquinas das empresas usam Windows, e não estou falando de Windows 10, mas muitas vezes XP. Apesar da Microsoft ter largado uma das melhores versões do seu SO para trás, milhares de máquinas ainda rodam esse bichinho, e muitos programadores precisam manter e desenvolver em nome da compatibilidade.
 
@@ -67355,7 +67348,7 @@ O ator Christian Malheiros foi o primeiro a realizar o teste de ator e muito rec
 Sócrates foi exibido na Mostra de São Paulo ano passado, mas agora, espero, deve ficar mais algum tempo em cartaz para que os brasileiros, finalmente, possam experimentar o que fãs de cinema de todo mundo já experimentaram.
 
 # Great Movies (Roger Ebert)
-2019-09-22
+2019-09-22 movies
 
 - 12 Angry Men 1957
 
@@ -68306,7 +68299,7 @@ No epicentro desse furacão social construído sob os fortes alicerces das obras
 As expressões de Joaquin Phoenix mantém o mistério do personagem ao mesmo tempo que constroem uma nova lenda. Não podemos dizer que foi uma entrega completa do ator, pois entregas completas trairiam a leve ambiguidade do vilão, que pode ser reinterpretado a cada geração. O diretor Todd Phillips auxilia Phoenix nessa função, evitando mostrar o significado do seu olhar, usando e abusando de perfis em ângulo discreto. Phoenix, por sua vez, se mantém cabisbaixo, mas não com uma postura derrotista, mas como uma forma diferente de enxergar a vida: levemente na diagonal. Torta, violenta e sem sentido. Ele dança não como resposta emocional, mas como o rolar dos dados. Às vezes ele dá risada, às vezes ele esmaga uma cabeça na parede. É a personificação do caos, quando apenas o caos geraria tédio. O maior trabalho de Phoenix é trazer personalidade ao filme, enquanto cabe aos tempos atuais colaborar com o caos de onde ele surgiu.
 
 # Seleção de Filmes da 43a MostraSP
-2019-10-07
+2019-10-07 movies
 
 Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns diretores por filmes anteriores.
 
@@ -69927,7 +69920,7 @@ Para compilar o mptunnel, a biblioteca libev é um requisito. Para uma uma solu�
 
 
 # Panetone
-2019-12-11 food cooking
+2019-12-11 cooking
 
 Testei por alguns anos receitas diversas. Cheguei a um cálculo bem simples de seguir que não é tão trabalhoso, embora exija paciência na hora de sovar. Para um panetone médio você vai precisar de:
 
@@ -70103,7 +70096,7 @@ Assisti a segunda vez. E dessa pareceu mais blah ainda. A construção inicial j
 Engraçado como Hollywood embaça a visão dos que amam a arte. Não duvido que daqui uma geração todas estas obras com gente colorida passe como uma piada de mau gosto. Existirão coleções desta era trash pós moderna, antes da IA ditar o que é arte popular.
 
 # Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema
-2019-12-21
+2019-12-21 movies
 
 Tudo começou há mais ou menos... não me lembro. O que eu sei é que meu grande amigo Pikachu me colocou em um aviso anual sobre compilar uma mensagem de final de ano com referências a filmes que foram lançados esse ano no cinema (ou algum filme mais antigo de vez em quando, se surgir a oportunidade). Esta é a primeira vez que transformo essa mensagem em um post.
 
@@ -70122,12 +70115,12 @@ Por isso, esqueça as trevas, não seja o dono ou A Dona do Mal. Olhe para O Far
 Afinal, Deus é Mulher e Seu Nome é Petúnia. Espero que este estreie também em 2020 =)
 
 # A Mula
-2019-12-26 movies miniviews fragments
+2019-12-26 movies
 
 Enaltece as pessoas que criam seus próprios caminhos em vez de ficar reclamando o que a vida lhe tem feito passar.
 
 # Fermento mais ou menos azedo (How to Make Sourdough More or Less Sour)
-2019-12-26 food cooking
+2019-12-26 cooking
 
 Pesquisando sobre como tornar o fermento (e o pão feito com ele) menos azedo que o tradicional pão de fermentação longa, encontrei este artigo dividido em duas partes. Essas anotações dizem respeito à primeira parte.
 
@@ -70270,7 +70263,7 @@ Exaltado em Cannes e pela crítica, este drama desestrutural adapta o livro hom�
 Este é o primeiro filme vendido de Joon Bong Ho. Comprado por justiceiros sociais, onde se inclui aí o veganismo insalubre, o diretor coreano se fez conhecido pelo excepcional O Hospedeiro, onde une drama e comédia em um trabalho que escancara os exageros teatrais dos filmes-catástrofe ao mesmo tempo que desenvolve um drama intimista familiar. Entregando sempre filmes tensos que revelam mais camadas por trás das que já conhecemos nos gêneros que explora, há momentos de belíssima composição em Okja, um filme ecologicamente correto e didaticamente errado que consegue nos divertir enquanto deixa de levar a sério todos os grupos de interesse que lutam por seus ideais, e que começa a desabar no exato momento em que resolve tomar um lado, descartando as fascinantes e hilárias interpretações do mundo contemporâneo em troca de dinheiro e fama. A mensagem que finaliza Okja já não faz pensar nem divertir. Apenas lamentar por mais um talento que Hollywood coloca no bolso.
 
 # Suspiro
-2020-01-04 food cooking
+2020-01-04 cooking
 
 Esta é uma receita aprendida por um artigo do programa da Ana Maria Braga onde minha amiga chef confeiteira Silvana Oliveira dá dicas de como fazer este doce tão famoso.
 
@@ -71359,7 +71352,7 @@ main
 Em resumo: o main em Go chama C.set_callback (função C exportada) passando o endereço do seu callback (em cgo) e em uma segunda chamada ou nessa mesma pede para chamar esse callback. O módulo em C pode ou não chamar essa função nessa thread ou mais tarde, através do ponteiro de função que estocou (g_callback). Ao chamá-la, ativará a função GoCallback_cgo, que por sua vez chamará GoCallback, essa sim, já no módulo Go (embora ambas estejam no mesmo executável, já que C e Go podem ser linkados juntos de maneira transparente.
 
 # Macarrão a Carbonara
-2020-04-05 food cooking
+2020-04-05 cooking
 
 Essa receita foi inventada por um solteiro na Itália, e é muito útil para solteiros no mundo todo. Se for em um restaurante italiano pela primeira vez, siga o conselho do meu amigo, que sempre pede uma Carbonara. Com bacon, queijo, ovos e macarrão na receita, para o restaurante errar essa receita ele terá que ser muito ruim.
 
@@ -72278,7 +72271,7 @@ Senti falta de explorar mais as diferenças entre os mundos da fantasia medieval
 Com a diferença de que no universo literário ainda há esperança.
 
 # C++ Co Routines
-2020-06-21 computer ccpp
+2020-06-21 computer
 
 Entre os gêneros mais famosos do cinema e da programação está o terror, esse estado mental que se caracteriza pelo medo ou pela aversão a uma situação que envolve a perda de controle. Nesse quesito se encaixam as novas corrotinas que serão adotadas pelo padrão C++.
 
@@ -72418,7 +72411,7 @@ Lendo a documentação de como instalar o SQLite na documentação do vcpkg me d
 Então tá. Feito isso, e rodando o cmake com o -DCMAKE_TOOLCHAIN_FILE passando o diretório de instalação do vcpkg, tudo se resolve. O solution do Visual Studio finalmente consegue encontrar os includes e libraries da glib. Ou qualquer outra biblioteca portada que você queira usar.
 
 # Close Remote Socket
-2020-07-05 computer english
+2020-07-05 computer
 
 I got used to close sockets in Windows using TCP View, but I haven't learned yet how to do this in Linux. Some Google and now I know. It is kinda simple in terminal mode, as any task a programmer needs to do in your system.
 
@@ -72941,7 +72934,7 @@ E é através desses poucos diálogos e situações que reside a profundidade fi
 Está sentindo um cheiro de "trilogia" no ar? Um estúdio se deu bem no seu primeiro filme de ação dirigido por veteranos na arte das cenas de luta. E agora temos que aguentar mensagens sociais até em filmes de ação. A arte no século 21 respira justiça social, e por isso as salas de cinema fedem tanto. Porém, Parabellum possui um nome elegante e uma marca de grife de filmes tentando se estabelecer no ramo. Esta terceira versão é muito mais John Wick versão luta coreografada com um ator que finalmente mostra sinais de velhice, e menos aquele drama intimista sobre nossos fantasmas do passado que o original ensaiou fazer. Se você gosta dessa versão, vai adorar as cenas de morte e luta e sangue. Se quiser ver filme de ação para refletir, imagine esse mundo subterrâneo em Nova York e como praticamente todo mundo, desde os mendigos até os ricaços, parecem jogar. E existe hierarquia, e existe o poder do Capital. A única diferença são armas. Muitas armas. Quer dizer, talvez não haja diferença nenhuma.
 
 # CPU Fritando com Intel Turbo Boost
-2020-08-24
+2020-08-24 computer
 
 É a segunda vez que isso acontece e esqueci quando foi a primeira. O cooler do notebook começa a assoprar que nem louco e em poucos minutos o computador desliga. O processo se repete, sempre que faço alguma atividade que exige mais processamento. Baixo o HW Monitor da CPUID e verifico que a CPU está alcançando limites acima de 90 graus celsius, e para segurança ela se auto-desliga. A solução? Ir em opções de energia do SO e trocar o limite máximo que a CPU pode ser usada de 100% para 99%. Isso mesmo, apenas abaixe um por cento. Com isso você está desabilitando o Intel Turbo Boost, que aparentemente não conhece limites físicos e sai fritando a CPU quando é necessário. Mas isso desgasta os chips e destrói a vida útil do sistema. E minha máquina já é rápida o suficiente para conseguir viver sem mais um Boost na minha vida.
 
@@ -73350,7 +73343,7 @@ Esta é uma comédia sobre o trabalho. O trabalho que dá arrumar trabalho. Maik
 Este Woody Allen é um dos melhores. Ele flui com habilidade seu tema de moral versus niilismo, e a situação com que seus personagens se encontram no final do filme denota que seu pensamento de jornada é completo, complexo e que te faz pensar para o resto de sua vida. A forma com que ele ressucita um jantar à mesa com os familiares, uns defendendo a existência de um ser superior, sem o qual não existem leis, e outros defendendo a irrelevância perante o caos. Tudo é muito bem amarrado nas tramas particulares dessas pessoas. Esse filme é o ponto de virada de um cineasta que até então estava bem-humorado, mas que agora resolveu criar seus próprios dramas russos. E este é um exemplo de que cinema pode ser tão tenso e complexo quanto um romance literário clássico.
 
 # Crunchyroll
-2020-10-04
+2020-10-04 animes
 
 Comecei a compartilhar a assinatura do Crunchyroll com uma amiga e comecei a explorar a ideia fixa na minha cabeça (não-original (1)) de que é possível analisar animes (ou qualquer obra audiovisual) pelos seus primeiros minutos ou episódios. Então estou fazendo isso pulando animes aleatoriamente enquanto vejo qual deles pode ser interessante.
 
@@ -73498,8 +73491,8 @@ Além disso esta é uma série que de fato dialoga com seu público-alvo e enten
 
 Quem nunca não consegui se declarar para seu amor? Este curto anime apresenta uma coletânea desses encontros e desencontrols no colégio. Há situações que você pode se lembrar de ter vivido, ou de ter ouvido de seus amigos. Algum desenhista de um novo mangá pode pegar algumas ideias deste anime para criar uma série inteira. Acho que o processo para a criação desse foi o inverso.
 
-# A Propriedade é um Roubo
-2020-10-11 books philosophy
+# A Propriedade é um Roubo(?)
+2020-10-11 books
 
 Dei uma folheada neste e outros textos de Proudhon, um dos anarquistas intelectuais mais falados nas rodas de filosofia, e cheguei à conclusão que é impossível se identificar com tamanho apelo às emoções. Proudhon, como tantos pensadores à esquerda, apela demais para o intangível e não argumenta com propriedade; nem a rouba nem a empresta. Ele parte do senso comum de que "não faça aos outros o que não gostaria que fizessem a você" e por isso se tornou popular, mas o senso comum muda com o tempo. Hoje soa ingênuo, infantil, quase uma peça de teatro escolar. Vamos todos dar as mãos para um futuro melhor.
 
@@ -73592,7 +73585,7 @@ Mate-o e Deixe Esta Cidade merece constar na lista de filmes esse ano. É mais u
 Assassinos por encomenda estrelam este filme lado B. Laços de amizade estão em jogo com essa gente que se mata por dinheiro, e junto do niilismo diálogos cativantes, quase memoráveis, são ditos em cenas que não importam. Há um cheiro pré-tarantinesco, e Tarantino se inspiraria nesses caras. A edição estraga tudo, pois pensa que há algo de bombástico nesta história direta e para passar a noite dando boas risadas. Que filme inesperado. Esperava violência, mas ganho algo melhor: um filme proto-tarantinesco.
 
 # O Tremor
-2020-10-18 movies miniviews fragments
+2020-10-18 movies
 
 O filme nos dá tempo e combustível para confabularmos sobre as fraquezas de caráter eminentes na natureza humana. Até que ponto acompanhar notícias ruins nos torna humanos melhores?
 
@@ -74218,7 +74211,7 @@ No meio das minhas compras de estocagem de café peguei 250g deste grão que vei
 - 2023-10-04 Este é o café usado no [Café Casinha] e o espresso deles é doce e cítrico na medida certa. Todas essas notas mais o chocolate dá para sentir no espresso. Comprei para testar na Moca e o resultado ficou bem aquém, pois não consegui extrair toda a água com a moagem para Aeropress. Agora dei um passo para trás e fiz na própria Aeropress, e o resultado ficou bem saboroso, embora não com as notas do espresso. De fato espresso é outra bebida.
 
 # Uma Breve História Sobre Preconceito (e Café)
-2021-02-15 food coffee
+2021-02-15 coffee
 
 Eu me lembro de vídeos antigos de moedores de café manuais em que o sujeito fica 10 minutos no YouTube girando aquela matraca até conseguir tirar de alguns grãos de café o pó para seu cafezinho matinal. Fiquei com a impressão de que todo moedor manual era assim e desisti na hora de ter um, optando por um elétrico.
 
@@ -74618,7 +74611,7 @@ Esta é uma série das mais sensíveis, que escancara as vicissitudes dos mais f
 A cada episódio a série amadurece um pouco mais, trazendo à tona os problemas reais que poderiam derivar de uma relação entre o garoto mais lindo e popular da escola e uma garota desconfiada e fragilizada pelos traumas da infância. Mei é uma jóia ainda na pedra, e por isso sua beleza externa não faz justiça aos seus sentimentos mais nobres. Portanto a série vai criando situações onde conseguimos ver que existe um ser humano completo do lado de dentro que só aparece para o mundo quando necessário.
 
 # Como fazer café
-2023-06-25 food coffee draft
+2023-06-25 coffee
 
 Ao longo dos anos meu processo de fazer uma xícara de café mudou radicalmente. Já experimentei coado em papel, coado em pano, moka, prensa francesa, Aeropress. Alguns princípios mudaram, outros se mantiveram ou foram descobertos e mantidos no dia a dia. Este é um guia básico e genérico, mas não necessariamente prático, para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem. Ou pelo menos tentar. É um insight filosófico e um pouco científico; um apanhado de conhecimento que talvez você não saiba ainda, ou não dessa forma.
 
@@ -74697,7 +74690,7 @@ Criador de quadros e sequências que lembram pinturas do impressionismo, Tarkovs
 Assim como o sentimento de nostalgia, quando temos certeza, assim como o personagem de Meia-Noite em Paris, que a época não mais vivida (ou nunca vivida) é a melhor de todas, talvez seja o sentimento sobre o passado seu grande valor, e não o passado tal como realmente foi.
 
 # Bolo Cremoso de Milho
-2021-03-20 food cooking
+2021-03-20 cooking
 
 Para esta receita usar uma lata de milho em conserva como base de 200g. Ligue o forno a 200 graus, unte uma forma com manteiga e farinha de milho e quebre três ovos dentro do liquificador. Em seguida adicione a lata de milho e na mesma lata encha metade de óleo e jogue novamente. Depois adicione de 3/4 a uma lata de açúcar; nessa parte pode ser mais ou menos; pode ser até 1/2 na real, mas nesse caso acrescente uma pitada de sal para realçar o sabor. Bata bem, para que triture bem o milho e misture com os outros ingredientes. Em seguida adicione de uma lata de farinha de milho até uma lata e 1/4; a farinha pode ser fubá, milharina, fubarina, qualquer farinha de milho à disposição, embora a receita original use um fubá mais grosso como fubarina. A seguir coloque uma lata de leite; aqui é outra hora em que você pode escolher trocar seu leite por leite de coco ou outros leites, adicionar um pouco de coco ralado, etc. Porém, mantenha a quantidade em uma lata. Bata novamente, só que bem mais rápido, só para misturar os ingredientes mesmo. Enquanto está batendo ainda jogue uma colher de sopa de fermento químico.
 
@@ -74771,7 +74764,7 @@ O elenco dá um baile, principalmente por causa de uma direção coesa que une d
 Não há respostas fáceis no dramalhão que se forma em O Último Beijo e isso é ótimo. Estamos cheios de filmes com respostas fáceis, terceiros atos bem pavimentados e final manjado. Nenhum filme com uma conclusão satisfatória é digno de nota a longo prazo. São meras distrações para pessoas entediadas. Assista um filme difícil como esse, que faz você repensar sua própria vida em meio ao turbilhão de emoções, onde no final você continua sem resposta, e terá visto algo que pode ser revisto sempre que quiser.
 
 # Pão de Queijo Fácil e Rápido
-2021-03-27 food cooking
+2021-03-27 cooking
 
 A receita original veio do Instagram de uma queijaria de Poços de Caldas, a Queijaria Real. Nessa receita existem apenas três ingredientes, mas já percebi na primeira vez que fiz que faltou sal. Porém, ela é muito mais simples e rápida que a receita que mantenho de pão de queijo mineiro.
 
@@ -75806,7 +75799,7 @@ E ele arranca, com certeza. E várias. O tom cartunesco pode ser visto hoje na m
 Comédia escrachada, é empolgante na maioria do tempo, mas sua bagunça cansa um pouco. As crianças devem ter adorado. As cores, o movimento, o absurdo. Eu adorei. Apenas já não tenho tanta energia assim, e o filme é uma viagem de montanha russa de uma hora e meia.
 
 # Como fazer pizza
-2023-04-21 food cooking repost
+2023-04-21 cooking
 
 ## Ingredientes
 
@@ -75889,7 +75882,7 @@ Este teste foi de fermentação no mesmo dia, começando às 14h. Deu certo. Use
 Mais um episódio da saga da pizza. Dessa vez em um dia frio deixei o fermento dentro do forno com a luz acesa às 14h, e a mesma coisa com a massa, sovada 90 minutos depois. Coloquei um pouco além de fermento e este pode ter sido um pouco de desespero. Acho que lá pelas 20h a massa fermentou demais e já deu aquela caída. Falha minha não ter percebido, pois abri demais, ela ficou quadrada e parte da massa molenga grudou no forno e ficou caindo. E isso comigo usando aquele teste de não colocar molho ainda. Deixei uns 2 minutos sem nada, retirei do forno e aí sim fiz a segunda e terceira assadas, grelhando no final. O resultado ficou uma bolacha seca, mas até que gostosa. A Mitiko disse que estava inspirado, porque a massa aparentemente estava mais gostosa. O queijos deu uma queimadinha em alguns spots, mas isso foi a grelha ligada por mais de 4 minutos em conjunto com a massa extra fina. De qualquer forma, está melhorando. Sem muitos desastres dessa vez. Só falta o controle de qualidade.
 
 # Cabine Quem Vai Ficar Com Mario
-2021-06-09
+2021-06-09 movies
 
 Sempre fico curioso sobre onde estão as pessoas que escrevem sobre cinema. Uma oportunidade surgiu durante a cabine de imprensa do filme Quem Vai Ficar com Mário, já que foi virtual e todos os espectadores tiveram que se apresentar junto do veículo no chat. Aproveitei e montei uma lista dessas pessoas. Muitas delas deixarão de existir daqui a pouco, e algumas podem ou não ficar por mais um tempo. A vida é tão frugaz nas redes que nem me darei ao trabalho de coletar links. Esta lista é pura e simplesmente para quando estiver entediado e for buscar se existe algum texto que preste hoje em dia na criticosfera.
 
@@ -76185,12 +76178,12 @@ Esta obra tem a capacidade de nos fazer virar e olhar para o espectador médio b
 O momento de Julia Roberts brilhar e fingir ser uma atriz de talento é esse filme. Ela está ótima, oscarizável (ganhou inclusive) e possui falas bonitinhas. A história baseada em fatos é sensacional, mais do que o filme, que é um Soderbergh menor, que quer ser intimista sem perder o tino comercial. Tem ótimos momentos do elenco, mas o processo judicial se arrasta por mais de duas horas. Assisti no cinema em um sábado na hora do almoço com a sala vazia e não esperando nada e foi uma viagem do bem. Reassisti agora na Netflix e vejo com olhos saudosistas dos anos 90. O figurino de Erin e os enquadramentos de sua bunda e peitos são um plus. Quem resiste àquele sorriso maroto? Nem Richard Gere.
 
 # Carolina Caldas de Vivente Andante
-2021-06-30
+2021-06-30 movies
 
 O texto escrito para Quem Vai Ficar Com Mário? é cheio dos discursos sociais em voga com direito a chavões e as palavras que sempre ganham o bingo, como as mais simples diversidade, inclusão, passando pelas mais complicadas heteronormativo e a sigla esdrúxula dos degenerados que já desisti de decorar (já chegam as siglas da área de TI). Esta "autora" está apenas copiando discurso ideológico e tecendo elogios vazios ao filme sem falar propriamente dele para garantir os convites das próximas cabines de imprensa. Pode ser ignorada com segurança por ser apenas mais uma voz robotizada.
 
 # Raphaela Souza de O Quarto Nerd
-2021-06-30
+2021-06-30 movies
 
 Seu texto sobre Quem Vai Ficar com Mário está cheio de erros de ortografia e gramática, o que gera uma certa repulsa sobre como o termo nerd virou qualquer coisa. Porém, não é um texto tão incômodo quanto o de Carolina Caldas porque este possui uma cadência menos militante. De qualquer forma, é mais do mesmo no bingão dos oprimidos que agora têm voz, mas não sabem escrever: discurso ideológico manjado, narra a historinha do filme e tece elogios vazios à equipe.
 
@@ -76428,8 +76421,8 @@ A história é que essa menina é uma mulher que quer um filho. Ela viu no horó
 
 Mas pedir pra prestar atenção em um filme do cineasta francês é pedir demais. Você devaneia no meio, volta em uma cena ou outra. Percebe algumas rimas e dá risada bem tímida. Os comentários do filme sobre cinema não são relevantes hoje em dia, mas a verdade é que continua acima da média. É entretenimento para a antiburguesia. E é leve, tem música. E peitinhos.
 
-# Manifesto Comunista (recortes)
-2021-08-16 philosophy quotes
+# Manifesto Comunista
+2021-08-16 clippings
 
 The history of all hitherto existing society is the history of class struggles.
 
@@ -76472,7 +76465,7 @@ Qual o tema de toda série? Não sei, o episódio inicial é raso para ser leve,
 Drama naturalista dos irmãos Dardenne. Encontram o casal de jovens perfeito para encarnarem uma história não tão comum de garotas seduzidas por homens fracos, mentirosos compulsivos. Não há violência física, mas o que faz uma mulher se sujeitar a objetos humanos como esse é fascinante e doloroso. Ambos os atores vivem momentos íntimos de partir o coração, de dor e felicidade. Eles têm uma criança. Ela acabou de nascer. Para Bruno é algo trivial. Mas ele precisa dela para sobreviver, não desabar como o ser abjeto que no fundo é. Vivendo de mentiras e pequenos furtos, ele vende o filho. E isso é natural para ele. O que segue é um estudo primoroso de personagens em situações que evocam um realismo aceitável para a trama. As rimas são concebidas pela dupla de diretores e roteiristas como a rotina do rapaz. Começa com ela, mas ele vira o protagonista. Ele tenta incessantemente reatar com ela. Seu tempo de liberdade está acabando. Ele não consegue se suportar. Que filme poderoso.
 
 # Como fazer a finíssima massa do Applestrudel
-2023-09-02 food cooking repost
+2023-09-02 cooking
 
 Minha primeira tentativa de receita da massa do strudel falhou por falta de esticar mais a massa e não saber dobrar. Com essa nova receita que achei (e que esqueci de anotar o link) existe um ingrediente a mais: acidez. Isso pode ajudar a esticar mais e ficar mais próximo do chamado Phyllo Dough. O resto eu já entendi: é para passar manteiga na metade da massa, encher a outra metade com o recheio, enrolar como um rocambole começando do lado do recheio e ir enrolando já fechado.
 
@@ -76658,7 +76651,7 @@ Uma novela coreana, então, é tudo isso elevado à nona potência. Novelas são
 Em "Olá? Sou Eu!" temos três atores na liderança que fazem essas caras e bocas. A atriz que interpreta a garota popular na escola que viaja para o futuro e encontra seu futuro submisso e fracassado é a ponta cômica. Acostumada a estar no centro das atenções, agora ela vai ter que passar por uns corres enquanto não consegue voltar para os saudosos anos 90.
 
 # Dessurpreenda-me
-2021-09-20
+2021-09-20 movies
 
 Resolvi fazer um teste no botão "surpreenda-me" da Netflix: fiquei passando a próxima sugestão indefinidamente. O resultado não foi nada surpreendente.
 
@@ -76673,7 +76666,7 @@ Um estagiário em programação passando em uma entrevista meia-boca para progra
 Netflix, me dessurpreenda-me. Obrigado.
 
 # Cupcake
-2021-09-25 food cooking
+2021-09-25 cooking
 
 Fiz a primeira vez essa receita passada por uma boleira amiga (apenas a massa).
 
@@ -76768,7 +76761,7 @@ Não há moral em Sheena667. Nem um final propriamente dito. Apenas sofrimento c
 Este vinho é da Moldávia, uma região que eu nunca ouvi falar do mundo dos vinhos. Mas é de lá. O país configura um dos top exportadores do mundo e essa garrafa veio chegar na minha adega. Se trata de um reserva 2018, com passagem por 12 meses em barricas de carvalho francês e que está bom até 2023. Eu tomei agora e o resultado é de uma complexidade equilibrada entre os taninos amadeirados e seus tons de frutas vermelhas mais maduras ou menos doces. Talvez por conta dos aromas e sabores de especiarias do seu final. O buquê logo se desfaz no segundo dia, mas tive uma agradável surpresa ao usá-lo em um risoto de carne desfiada com parmesão. Ele fez toda a diferença no meu primeiro risoto.
 
 # Risoto
-2021-09-28 food cooking
+2021-09-28 cooking
 
 Fazer risoto não deveria ser difícil, apesar de ser considerado um prato sofisticado. E a verdade é que não é mesmo. Talvez um pouco trabalhoso. A primeira coisa a ser feita é se servir uma taça de vinho.
 
@@ -76857,7 +76850,7 @@ Seu final, o verdadeiro final (ignorando o gancho pós-final para continuações
 Este seria um filme impecável de no máximo três horas de duração. Há momentos muito, muito bons, espalhados pelas rodadas sanguinárias. Mas era uma história boa demais para o serviço de streaming produzir em versão enxuta e acabável. Uma pena, mas um pecadilho frente à coesão dessa aventura pensante. Na medida do possível.
 
 # Lista das pessoas que estavam no grupo de cabines de imprensa da Mostra 45
-2021-10-09
+2021-10-09 movies
 
 Ano passado eu havia feito uma lista das pessoas na coletiva, e agora estou fazendo o mesmo para futuramente fazer pesquisas para ver se acho a fonte.
 
@@ -77037,7 +77030,7 @@ Esse filme de câmera sempre parada é o primeiro na direção de Pascal Tagnati
 Apesar de duas horas, "Um Verão na Córsega" passa rápido. Com seu ritmo leve e muitos personagens e diferentes tramas que não levam a lugar algum, se trata de uma experimentação simpática e insossa. Uma fuga do espectador da vida comum direto para a vida comum dos outros. É o cinema como meio de transporte entre bolhas.
 
 # Livros sobre Cinema
-2021-10-16
+2021-10-16 movies
 
 - 50 Anos: Luz, Câmera e Ação, Edgar Moura.
 
@@ -77092,7 +77085,7 @@ Maxim Gorky, Rússia, junho de 1896:
 "Quando você move a câmera, este movimento deve significar algo."
 
 # Como resolver ownership do SSH
-2021-10-19 computer debugging
+2021-10-19 computer
 
 Primeiro tente logar com o usuário enquanto roda o comando abaixo no server para ver mensagens de log:
 
@@ -77394,7 +77387,7 @@ Mas nem. Esta é a história de um colegial gordo que se mata de comer coisas es
 O resto do anime é parecido com "De Repente Slime" ou algo do tipo, onde são jogadas várias habilidades para o heroi da história porque sim e isso aparentemente é legal. E nada de melões.
 
 # A Arca do Sr. Chow
-2021-11-08 movies mostrachinesa
+2021-11-08 movies
 
 Este filme é divertido na pior das hipóteses, mas na melhor delas é fascinante. Fascinante pensar em tudo o que aconteceu, ou o que foi imaginado, naqueles loucos anos 90 em uma universidade em uma China ainda duramente estratificada em classes e funções da sociedade. A Arca do Sr. Chow já em seu nome denuncia esse ódio pelo diferente, pelo fora do comum, entendido como uma afronta. Mais duro é ver esse ódio vivo até hoje em dia no mundo civilizado.
 
@@ -77450,7 +77443,7 @@ Tudo ou Nada faz pensar nessa relação entre o documentarista e seus objetivos.
 Além disso, tal como uma série de streaming que torce para nos identificarmos com o protagonista nos primeiros episódios para não precisar de conteúdo original dali pra frente, dali pra frente vira slice of life, comum entre nós, e qualquer evento junto dessas queridas pessoas já estará de bom tamanho.
 
 # Quatro Primaveras
-2021-11-10 movies mostrachinesa
+2021-11-10 movies
 
 Por que um diretor de cinema não filmaria seus pais? A resposta rápida é que nem todo cineasta vem com pais que valem a pena ser filmados. Bom, este vem. E surge Quatro Primaveras, um filme sobre o diretor estreante Qingyi Lu que filma um casal adorável de pais que fazem tantas coisas sozinhos que me sinto mal de perder tanto tempo na internet.
 
@@ -77791,7 +77784,7 @@ Bom saber da qualidade, mas não é dos meus favoritos que eu me lembre.
 O ano é 2047. Apesar de 100% eficaz contra o SARS-COVID-T89, o transporte de passageiros do Uber por carros autômatos não é realidade para 100% da frota. O motivo disso foi a PEC-44 aprovada no começo da semana na câmara de vereadores da cidade de São Paulo, que determina a obrigatoriedade que no mínimo 80% da frota seja composta por motoristas humanos. O resultado foi comemorado pelo Sindicato de Condutores Liberais do estado. De acordo com o líder sindical, essa é uma vitória há muito aguardada e que visa proteger tanto o trabalhador autônomo quanto o cidadão, que muitas vezes precisa atravessar diariamente a cidade na companhia apenas de um robô ao volante. "Falta aquele contato humano. Mesmo com máscaras e o paredão isolador e o sistema de som integrado é importante para mantermos a sanidade, que é tão importante quanto a segurança na saúde, ainda mais em plena pandemia", concluiu.
 
 # Pudim de doce de leite
-2022-01-22 food cooking
+2022-01-22 cooking
 
 Não é fácil acertar um pudim. Requer certa paciência e atenção. O erro é achar que é fácil.
 
@@ -77883,7 +77876,7 @@ Se você, cinéfilo treinado, que assiste pelo menos três filmes toda semana, e
 Não me leve a mal. Este é um excelente entretenimento. A produção, como comentei, é das melhores. Eu adoraria assistir mais trabalhos de Casademunt. Assim que os produtores se cansarem dele e o diretor partir para trabalhos mais intimistas. Não é na fórmula do "neo-terror" que encontraremos a obra de arte definitiva, vendável e eterna. É na liberdade das mentes dos cineastas que reside o terror mais pulsante, mais genuíno, que nosso subconsciente jamais pensou em revelar a nós mesmos.
 
 # Como fazer pão
-2022-02-06 food cooking
+2022-02-06 cooking
 
 O pão clássico é resultado da fermentação de leveduras numa mistura de farinha, água e sal. Todo o resto são variantes dessa receita básica, mas o processo é o mesmo, então entender ele bem ajuda com qualquer receita de pão.
 
@@ -77956,7 +77949,7 @@ Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paci�
 Essa divertida comédia futurista francesa ilustra diferentes facetas de nosso senso de humor cada vez mais peculiar com o surgimento do horizonte de máquinas com uma inteligência prestes a colocar um prazo para a obsolência programada da raça humana. O começo é ágil e potente, mas o desenvolvimento vai perdendo força e apenas ficando barulhento. Alguns personagens mudam de caráter sem motivo específico. Parece que a dupla de roteiristas resolveu usar a razão do coração e ir pincelando um quadro inacabado de uma história sufocante e repetitiva, mas com muito charme, cores, luzes e efeitos digitais que trabalham junto com a direção de arte asséptica e abdurdista. É um ambiente tão rico quanto frustrante para criações artísticas, assim como a vida real pós-pandemia.
 
 # Café verde torrado em casa
-2022-02-15 food coffee
+2022-02-15 coffee
 
 Passei duas horas depois e ficou bebível, mas há um amargor que preciso entender se é erro na torra, do gás carbônico que dizem que fica nos primeiros dias ou do próprio café. No dia seguinte o resultado ficou muito melhor, bem doce e intenso. Fiquei empolgado para experimentar conforme os dias passam.
 
@@ -78020,7 +78013,7 @@ Filme da Disney explorando cultura italiana de forma obrigatória, inserindo mac
 Fazia tempo que eu não via algo tão novo. A direção da câmera é fluida, dinâmica, e a edição impecável. O episódio nos comunica vários detalhes no comportamento nos jovens hoje em dia ou desde sempre e é encantador acompanhar. O interesse do autor nesses gaps, nos momentos que ninguém está olhando, e como nos comportamos, cativa aos poucos. O uso exarcebado da jovem Katie do celular e como o caos impera nas sequências, com sons em volta, e a falta de um enquadramento parado por dois segundos dão o tom naturalista que a história pede. É sobre a descoberta da sexualidade muito jovem e sob um ponto de vista ainda muito ingênuo e engessado. Essas pré-adolescentes são espontâneas demais. O episódio se torna curto. Este universo merece um longa metragem.
 
 # Receita de café gelado
-2022-03-05 food coffee
+2022-03-05 coffee
 
 Com esse calorzão tenho feito com mais frequência. Não é o cold brew, que demora de um dia para o outro. Uso uma versão simplista do café gelado de James Hoffman para Aeropress. Basicamente peso 60% de gelo para 40% de água do líquido total que pretendo beber e coloco esses 40% para ferver e passar na Aeropress como faço com minhas receitas diárias (método invertido, 3 a 4 minutos de infusão), com a diferença que o resto do líquido está em forma de cubinhos de gelo no copo para onde eu empurro a bebida quente. Ao final eu costumo misturar com a colher e jogar uma ou duas pedras de gelo para gelar ainda mais. Ah, em tempo: uso de 5 a 10% a mais de café para a infusão, pois bebidas geladas tornam o paladar menos sensível. O resultado é refrescante, mas mantendo o sabor original do café usado (com o Loretto Bourbon fica delicioso, bem doce e intenso).
 
@@ -78103,7 +78096,7 @@ Já Anne Hathaway será sempre a escolha errada para papéis que pedem uma mulhe
 Juntas elas protagonizam essa aventura requentada sobre golpistas em um mundo fantasioso onde ricaços excêntricos estão doidos para serem enganados e sentirem alguma emoção. O tema é atualizado com um gênio da computação que é o estereótipo de bilionário jovem hoje em dia, mas você sente que a história irá se repetir.
 
 # Carne Trêmula
-2022-03-13 movies miniviews fragments
+2022-03-13 movies
 
 Noitão Belas Artes", aquele evento de fds que ficamos trancados no cinema a noite inteira, assistimos e nos esquecemos de três filmes temáticos, bêbados de sono às 6 da manhã. O filme estabelece limites baixos para a comédia e o drama, mas limites altos para as coincidências onde todos se encontram em Madrid.
 
@@ -78113,7 +78106,7 @@ Noitão Belas Artes", aquele evento de fds que ficamos trancados no cinema a noi
 Mais um Almodovar que gosta de Cinema, que é apaixonado por tramas de suspense e crime para enfiar comédia e sexo naturalistas. Há uma mensagem pseudo-política talvez, mas a sensação hoje é que a longuíssima cena de estupro não é engraçada e não faz pensar. Só dá vergonha.
 
 # Impact of sugar on the body, brain, and behavior
-2022-03-15 body quotes
+2022-03-15 clippings
 
 Sugar typically refers to a category of simple carbohydrates that includes monosaccharides like fructose and glucose, and disaccharides, like sucrose and lactose, which have different effects on the body and brain.
 
@@ -78244,7 +78237,7 @@ Um experimento quase científico: colocar os maiores comediantes do país em uma
 Pensei que era muito pior que os outros filmes Marvel, mas só é ruim na média. Impressionante mesmo é a capacidade de um filme com um roteiro medíocre, previsível e formatado desses reunir um cast tão talentoso. Pior que isso não quer dizer que podemos ver esse talento em ação, pois nem Michelle Williams, que foi indicada a um Oscar por uma cena de apenas cinco minutos em Manchester à Beira-Mar, consegue um único momento que entendemos sua motivação além de ser a Pops desse antivilão alienígena que vive nas entranhas de seu ex, um Tom Hardy igualmente limitado. Apesar de sua eficiência no blockbuster enérgico Mad Max - Fury Road, os efeitos digitais nesta aventura requentada em fundo verde ofuscam qualquer tentativa de construir um personagem. Tudo foi praticamente filmado em um galpão e nós notamos isso pela discrepância grosseira de cores entre os atores e o fundo de uma São Francisco estereotipada. Os únicos efeitos caprichados são os que criam essa criatura gosmenta, mas é um capricho igualmente sem personalidade. Ele precisa falar que está começando a gostar do planeta, mas nem ouvindo acreditamos.
 
 # Bolo de Milharina
-2022-04-06 food cooking
+2022-04-06 cooking
 
 Vão 3 ovos, 3 colheres de sopa de manteira ou margarina, 1/2 xícara de chá de milharina, 2 xícaras de chá de açúcar, 1 xícara e meia das de chá de farinha de trigo, 3/4 de xícara de chá de requeijão, 1 xícara e meia das de chá de leite, 1 colher de sopa de fermento em pó, 1 colher de chá de erva doce.
 
@@ -78448,7 +78441,7 @@ A reserva desse Dona Matilde é de 12 meses em barrica de parte das uvas. As cas
 
 
 # Bolo de Chocolate Fofo
-2022-05-14 food cooking
+2022-05-14 cooking
 
 Comece com esses ingredientes:
 
@@ -79513,7 +79506,7 @@ Por que gosto desse café da Starbucks? Ele não é frutado nem doce nem dark. J
 Estes dois nunca perdem a graça. Desde a série na TV a piada recorrente de dois adolescente virjões fazendo piada um do outro e dos clipes da MTV. O ponto alto desta aventura, que se passa em um mundo pós-apocalíptico onde criaturas bizarras frequentam a sala de aula da faculdade e mulheres se candidatam a cargos políticos, é observar como o humor nonsense de quinta série funciona independente do tempo-espaço que se situe. Digo mais: talvez Beavis e Butt-Head sejam mais engraçados ainda nos ambientes contemporâneos ditos seguros, pois ninguém espera ser caçoado por dizer palavras como "alavanca" ou ser julgado como homossexual "apenas" por ser gay. É o efeito da distorção temporal. São os Mamonas Assassinas nos avisando, direto da década de 90: "abra sua mente: gay também é gente".
 
 # Bolo de Milho
-2022-07-09 food cooking
+2022-07-09 cooking
 
 Reserve 1 lata de milho em conserva escorrida ou 200g em espiga, 250g de açúcar, 160g de flocão de milho para cuscuz, 150ml de óleo, 300ml de leite, 3 ovos, 1 colher de fermento químico e (opcional) 50 g de queijo ralado curado, 50g de coco ralado ou 1 colher de sopa de erva doce.
 
@@ -79524,7 +79517,7 @@ Coloque para assar em forma untada e temperatura de 180 graus até o topo ficar 
 Rende 2 formas de furo de 14cm ou 1 forma de furo de 20cm de diâmetro.
 
 # Native Floripa 2022
-2022-07-09
+2022-07-09 computer
 
 Fui para a terceira edição esse ano com minha palestra de AWK, que foi aceita duas semanas antes do dia, embora já estivesse programando ir de qualquer maneira, dessa vez de carro. Saindo de São Paulo, a parada em Morretes confirmou que o sorvete de banana continua top. Já o evento merece uma reciclada.
 
@@ -80385,7 +80378,7 @@ Este terror slasher é ruim do começo ao fim. As pessoas berram o tempo todo e 
 Comprei esse saco de café em grãos em uma loja com esse nome em Extrema depois da trilha de dia de semana. Me decepcionei um pouco com a falta de sabor e porque a torra é irregular, vindo uns pedaços estranhos junto em que trava até o moedor. Isso já aconteceu com minha torra uma vez ou outra, mas nesse dá para sentir até no copo quando é passado. De qualquer forma o estilo desse café é mais vegetal mesmo, e por isso o sabor um tanto insosso. É uma experiência encontrar a proporção correta. Fica de exercício para o degustador.
 
 # Desmaio
-2022-08-24
+2022-08-24 body
 
 Desmaiei duas vezes esse ano. A primeira delas foi por causa da vacina, que me deu febre de madrugada e me impediu de terminar meu número 1 (aka dar um mijão) no meio da noite. O resultado foi uma poça de sangue ao lado do banheiro e uma sensação nova, vibrante, de que poderia ter morrido lá mesmo, ou que deixar de viver é algo que pode acontecer a qualquer momento, "basta estar vivo"... ah, e um galo. Teve mais esse resultado.
 
@@ -80426,7 +80419,7 @@ A beleza das rosas não é suficiente neste filme que dialoga demais e mostra de
 O conflito principal é se a florista aceita ter o negócio de seu pai aglutinado pelo tycoon da área (papel de Vincent Dedienne). Ela poderia iniciar uma linha especial de grife trabalhando para ele, tendo acesso a recursos para suas futuras criações. O CEO diz que a admira e não há motivos para pensarmos o contrário. Não há nada que ela tenha que ele já não tenha conquistado na última década. Fica um gostinho de orgulho bobo francês pelo individualismo que está fora de moda. E estar fora de moda não costuma ser a dança dos franceses.
 
 # Bíblia Sagrada: Gênesis
-2022-08-28 books philosophy bible esoteric
+2022-08-28 books
 
 Esse primeiro livro da Bíblia é focado na origem do mundo e na perpetuação de uma tribo específica no meio da humanidade. Essa tribo se estabeleceu através de um deus, O deus, de acordo com o livro, que fez o pacto com Abraão. Que fez o pacto com Noé. Que fez o pacto com Jacó. Que fez o pacto com ele mesmo e o mundo. E o pacto dizia: irás cortar a ponta do seu pingulim. Seu, de seus familiares e de todo seu povo.
 
@@ -80585,7 +80578,7 @@ Uma comédia adolescente com roteiro mais elaborado que o normal e atuações ra
 É baseada em alguma obra literária e vem ao cinemas como uma comédia sobre exageros da família italiana, conflito de gerações e é fofinho. O ator que faz o Nono se esforça no limite do ridículo, mas falar tudo em Italiano lhe garante uma certa dignidade. Sua nora, a protagonista, é interpretada de maneira mais solta, teatral, como o resto do elenco. Uma farofa apenas curiosa.
 
 # Meialunas argentinas
-2022-10-09 food cooking
+2022-10-09 cooking
 
 Meialunas são como croissants mais doces e com mais sabor. Vou usar como base a receita do canal CUKit! (link principal), embora irei usar também como referência um pior, o "vídeo da Paulina Cocina", onde ela faz meialunas bem nas coxas, mas é justamente o que me dará forças para quando a minha também ficar meia-boca, e o "vídeo de Isabel Vermal", que me pareceu um bom meio termo entre os dois vídeos, e de brinde com mais explicações do processo.
 
@@ -81054,7 +81047,7 @@ Um ponto que me chamou a atenção no roteiro de Antonio Lukich (que também dir
 O que chama a atenção é que essa é a parte com a edição mais rica e uma participação maior no filme, além de ser um momento que vira a história do avesso. Isso faz pensar se o roteiro não foi modificado para inchar este momento, pois esse episódio é o único que foge de uma breve passagem para a mudança que irá chegar na conclusão. Mais do que isso, foi um verdadeiro milagre este momento, pois ele chacoalha um filme que estava quase definhando e dando sono.
 
 # Luiz Carlos Merten
-2022-10-22
+2022-10-22 movies
 
 Tem um crítico de cinema chamado Luiz Carlos Merten que foi "demitido do Estadão em 2020" depois de décadas trabalhando com eles. Motivo: salário muito alto. Agora ele escreve em "um blog" e a cada post durante a Mostra desse ano ele fala sobre Bolsonaro. Chega a ser doentio essa fascinação pelo sujeito. Talvez através dele eu esteja desvendando por que a esquerda é tão tarada em falar sobre esse tiozinho que calhou de ser o presidente.
 
@@ -81133,7 +81126,7 @@ A trilha sonora de Rob Lane e Rob Manning é econômica, pois mantém notas evoc
 A atmosfera da ficção se amplia sob o contexto social. Essa relação de poder na questão econômica entre as classes envolvidas permite criar a rima que Mark Twain cita, em sua frase sobre a história usada no começo do filme: "a História raramente se repete, mas quase sempre cria rimas".
 
 # Alysson (Cine com Pipoca)
-2022-10-25
+2022-10-25 movies
 
 Instagram de sinopses e dicas. Nada mais. Lembra os chamados da Netflix.
 
@@ -81151,7 +81144,7 @@ Dessa forma, Ana e Luís são os bichos citados no título, uma forma bem-humora
 Filmado na ilha de Açores e com um casting formato por membros de comunidades sobre orientação sexual não-normativa, Lobo e Cão tenta demonstrar como não existe nada de errado na forma de viver desses jovens, mas justamente por focar demais no lado sexual seus objetivos se viram contra eles mesmos. É o equivalente do episódio do South Park sobre pessoas que nascem com um feto em suas cabeças: de tanto falar sobre isso, e apenas sobre isso, vira uma espécie de bullying-homenagem.
 
 # Luiz Joaquim (Cinema Escrito)
-2022-10-25
+2022-10-25 movies
 
 O crítico de cinema de Pernambuco Luiz Joaquim possui alguns bons textos no site Cinema em Escrito e notícias recentes, por exemplo, sobre a Mostra desse ano. Contudo, seus textos são bem, bem antigos, da época que escrevia para jornais. Mas os textos são bons, resenhas curtas e eficientes. Dão aquela impressão rápida sobre o filme que informa o cinéfilo.
 
@@ -81314,7 +81307,7 @@ Depois do desastre que foi o "Café da Vovozinha", lá de Extrema, quando fomos 
 
 
 # Uma Advogada Extraordinária
-2022-11-07 series dorama
+2022-11-07 series
 
 A qualidade dos atores na Coreia impressiona. Seja drama ou comédia sempre há ótimos momentos nas novelas coreanas, carregadas de clichês como manda o figurino, mas quase sempre vale a pena por causa do elenco, que abraça com muito afinco seus personagens. São atores que levam a sério a arte de entreter.
 
@@ -81690,12 +81683,12 @@ Esta mensagem de fim de ano pode parecer confusa, mas o mundo está cada vez men
 Este é o nosso confuso, mas dedicado, Feliz Festas de Final de Ano para você, cinéfilo e amigo :)
 
 # Avatar, O Caminho da Água
-2022-12-26 movies miniviews fragments
+2022-12-26 movies
 
 O protocolo de entretenimento refazendo a mesma história e seguindo os passos da franquia Star Wars já no segundo filme, inacabado, com pontas soltas. Cameron assina a direção e o roteiro, demonstrando não ter criado nada de novo nos últimos 20 anos.
 
 # Bíblia Sagrada: Êxodo
-2022-12-26 books philosophy bible esoteric
+2022-12-26 books
 
 O povo judeu é teimoso. Esse é o maior ensinamento que o segundo livro do Pentateuco tem a nos dizer. Se Deus continuasse andando com este povo pelas areias do deserto após terem sido libertos das garras dos egípcios, ele acabaria por matar a todos eles. Palavras do Próprio.
 
@@ -81769,7 +81762,7 @@ Não, ninguém quer. E por isso obras que desejam nos trazer ar puro depois dess
 Continua sendo bom curtir um Baumbach em meio ao divertimento de streaming inconsequente. Ele está apoiado em material de primeira do escritor original, Don DeLillo, também de Cosmópolis. O diretor nos entrega algumas horas que podemos desperdiçar em nossas vidas em busca de paz sobre os medos que se passam quando tudo o que temos são freiras alemãs que não crêem no paraíso.
 
 # Leituras e experiência sobre jejum intermitente
-2023-01-07 body quotes
+2023-01-07 body
 
 Meu padrão alimentar está claro para mim. Ficar em jejum por um tempo é um exercício previsto e que exerço como uma rotina por muitos anos. Após se acostumar o impacto é baixo, tanto da fome quanto da escolha. Porém, fazer restrição calórica, ou seja, comer apenas um pouco, me causa ansiedade. A ansiedade, por sua vez, é o que desencadeia medidas precipitadas, como ingerir açúcar e outros alimentos no impulso, me impedindo de sentir a experiência de comer calmamente. O foco está mais na quantidade consumida no momento do impulso. Enquanto essa satisfação não chega, e demora para chegar, o impulso continua, geralmente alienando tudo que estou consumindo no momento. Não existe consciência nesse momento, apenas instinto se "justificando" com o racional. Após esse período, chega uma leve culpa ou remorso. Esse relato não foge muito do que já foi estudado pela ciência, o que é bom. E uma coisa é certa: as soluções para este comportamento nunca podem ser punitivas ou exageradas, pois o efeito rebote sempre faz piorar esse impulso, que se assemelha muito a um vício.
 
@@ -81843,7 +81836,7 @@ The downside is that insulin resistance makes fasting more difficult. If you hav
 
 
 # A Lição (The Glory)
-2023-01-08 series dorama
+2023-01-08 series
 
 Novelas coreanas são muito boas. A produção é boa. Os atores são bons. Os roteiros nem tanto. Porém, das produções de audiovisual do mundo, os roteiros das novelas coreanas são os que mais se aproximam daquela forma de arte que atrai pela nossa própria natureza de curiosos. Como em qualquer novela eles apelam para as emoções mais básicas, como injustiça, violência, luxúria, traições, vingança, paixão. Sexo, por que não. Os coreanos têm cada vez mais colocado as asinhas de fora por causa da fúria globalista. Todas essas características juntas tornam as novelas mais próximas do trash, que é um traço do cinema que todo cinéfilo deve gostar por obrigação. Do contrário, como conseguiria ver mais que um ou dois filmes por ano?
 
@@ -82198,13 +82191,13 @@ O que vem à minha mente no momento é simples: conseguir um lugar para trabalha
 A única coisa que busco nesse momento, o que pode ocorrer a curto ou longo prazo, é um local em que eu consiga programar em paz, sabendo que entregarei valor ao cliente. O mais próximo disso é meu primeiro candidato.
 
 # Cognitive Dissonance
-2023-01-31 quotes philosophy
+2023-01-31
 
-#### This is why people get upset when their beliefs are challenged
+This is why people get upset when their beliefs are challenged:
 
 "A mental conflict occurs when beliefs are contradicted by new information. This conflict activates areas of the brain involved in personal identity and emotional response to threats. The brains's alarms go off when a person feels threatened on a deeply personal and emotional level causing them to shut down and disregarding any rational evidence that contradicts what they previously regarded as "truth"."
 
-#### IOW (2023-09-19)
+IOW (2023-09-19):
 
 "Sometimes people hold a core belief that is very strong. When they are presented with evidence that works agains that belief the new evidence cannot be accepted, because it creates a feeling that is extremely uncomfortable. It is so important to protect the core belief they will rationalize, ignore and deny anything that doesn't fit with that core belief. This is why people get upset when their strongly held beliefs are challenged."
 
@@ -82231,7 +82224,7 @@ Ao pesquisar novamente descobri uma "loja online" que entrega em São Paulo dire
 Um homem e sua bicicleta refazem o realismo italiano neste drama cômico em que uma cidadezinha de fronteira entre o Uruguai e o Brasil recebe a visita do Papa e investe horrores aguardando uma multidão. A crítica ao comércio na religião e o naturalismo de usar não atores na própria cidade onde o fato ocorreu, em 1988, é o que torna este filme uma pequena pérola criativa. Para assistir com um sorriso no rosto.
 
 # Vitamin D - The Nutrition Source
-2023-01-31
+2023-01-31 body
 
 Ontem fui em um exame de rotina e meu médico disse que minha quantidade de vitamina D está levemente abaixo do indicado. Então ele receitou suplementos por seis meses até meu retorno. Perguntei sobre métodos naturais de aumentar a quantidade da vitamina no organismo e ele disse que não funciona ou não é o suficiente ingerir alimentos nem tomar sol. Ele deu o exemplo anedótico de um paciente seu que trabalha todos os dias sob o sol escandante e que revelou a mesma deficiência.
 
@@ -82500,7 +82493,7 @@ Esta aventura de Sessão da Tarde é sobre os inventores da vacina de COVID ganh
 No começo pensei que era alguma coisa relacionada com ser um país ou cidade com longa data de cultura progressista, o que tornaria todos os dramas de lugares mais complicados como Nova York e Japão meros detalhes do café da manhã. Com o passar dos episódios vejo que este volume da série que é baseada em um artigo de New York Times toma uma forma mais próxima de Easy, a série netflixiana onde problemas aparentemente complicados de relacionamento se resolvem em meia hora. Porém, nem isso a série na cidade holandesa mantém. Em dado momento, quando se passa a história de um casal que vive um relacionamento aberto de longa data, se torna claro que os personagens são muito reduzidos. Eles não possuem personalidade. Com o medo de impor valores em torno de pessoas fictícias que poderiam se tornar reais demais para as mentes sensíveis consumidoras da série, a trama se torna invisível. Não nos interessa pela didática se não há sangue e lágrimas. Do contrário, de que valem essas histórias de amor?
 
 # Bíblia Sagrada: Levítico
-2023-09-22 books philosophy bible esoteric quotes
+2023-09-22 books
 
 "Se a pessoa não tiver recursos para oferecer uma ovelha, trará ao SENHOR duas rolinhas ou dois pombinhos como castigo pelo pecado. (...) "Se a pessoa não tiver condições de oferecer sequer duas rolinhas ou dois pombinhos, trará dois litros de farinha da melhor qualidade como oferta pelo pecado. (...) O sangue e a gordura são proibidos Então o SENHOR disse a Moisés: "Dê as seguintes instruções ao povo de Israel. Jamais comam gordura, seja de boi, carneiro ou cabrito. (...) Onde quer que morarem, jamais consumam o sangue de qualquer ave ou animal. Quem consumir sangue será eliminado do meio do povo".
 
@@ -82741,7 +82734,7 @@ Certo. Por enquanto é só. Obrigado pelas suas esclarecedoras explicações.
 De nada! Fico feliz em ter ajudado. Se tiver mais alguma dúvida, é só perguntar.
 
 # Parei de tentar ser crítico (de cinema)
-2023-03-04
+2023-03-04 movies
 
 Eu deveria parar nesse momento de escrever sobre filmes, exceto as cabines e eventos especiais. Por muitos anos eu escrevi que nem um retardado, comecei a ler uns livros doidos, a assistir umas análises nervosas. Fiz dois cursos com Pablo Villaça, uma referência local aos que levam a sério a arte. Tudo que fiz e continuei fazendo foi até o momento em que eu consegui "sentir" o que é ser crítico de cinema como uma profissão. O trabalho descomunal de estudar arte, filosofia, história. De assistir aos clássicos, de entender as correntes que nos antecederam. E, por fim, acompanhar cada novo ano as produções, os lançamentos, os novos talentos e os existentes. Os festivais de conteúdo duvidoso. As inúmeras sessões com filmes experimentais. As retrospectivas da Mostra. Os textos dos colegas. Eu enxerguei tudo isso faz alguns anos, mas por algum motivo continuei tentando evoluir mesmo sem tempo de me dedicar profissionalmente. Agora acabou. Vou largar o ritual de todo filme escrever e anexar à rotina de blogueiro falar sobre o que ando vendo. Não sou obrigado e nem vocês em consumir conteúdo aquém dos que vivem para isso. Voltou para mim, depois de quase 13 anos, a ser um hobby light como os textos eventuais sobre programação. Sobre café. Sobre vinhos. É isso que torna um blogue valioso. Ele registra o momento sem o compromisso de mais. O que foi, foi. E o que virá, só Deus sabe.
 
@@ -82751,7 +82744,7 @@ Eu deveria parar nesse momento de escrever sobre filmes, exceto as cabines e eve
 O filme é baseado no livro do Drauzio Varella, aquele médico que na pandemia falava que todos íamos morrer. Quem interpreta o doutor no filme é um sujeito que só fica sorrindo e fazendo perguntas bestas aos pacientes no presídio. Tudo soa muito falso e teatral. O fato de vários personagens serem interpretados por um elenco conhecido das novelas ajuda ainda mais. Cada ator e atriz quer brilhar em seu momento de viver um ser humano contra o sistema e oprimido por ele. Oh, glória! Várias histórias supostamente tristes de bandidos são mostradas. O motivo é contextualizar o espectador sobre como eles chegaram a ser presos e para que todos saibam que ninguém presta mesmo naquela cadeia. Há também os trouxas que caíram lá, mas já estavam indo pelo caminho errado do lado de fora. De qualquer forma, o tom teatral diminui o peso dos dramas. O diretor Hector Babenco se consagra na parte onde ocorre a famosa chacina do Carandiru, em 92, mostrando sangue caindo pelas escadarias e o amontoado de corpos nus, de castigo no quintal, após a polícia militar impor ordem. Eu lembro dos meus professores comentando sobre esta calamidade na quinta-série. Houve uma "comoção pública". Hoje entendo a histeria do "direitos humanos" ao constatar pelo próprio filme que na realidade morreram apenas cem presos de sete mil. O objetivo: proteger os outros presos. Morreu foi pouco, ou o suficiente.
 
 # Fiz Trança de Banana
-2023-03-05 food cooking
+2023-03-05 cooking
 
 Essa receita originalmente iria cará e foi adaptada para usar banana bem madura. Além da banana ou do cará, os outros ingredientes são: farinha de trigo, fermento biológico, ovos, leite, manteiga e açúcar. Pegue a banana e cozinhe em uma panela, reduzindo o líquido ao máximo. Quando a banana esfriar, pese-a e use o dobro do peso em farinha de trigo. Cada 1kg de farinha faz três tranças de tamanho médio e vai 6 ovos. Os outros ingredientes estão pesados em porcentagem da farinha: 20% de manteiga, 20% de leite e 25% de açúcar em média. Dependendo do quão doce está a banana e o quão doce você deseja que fique o pão você pode aumentar ou reduzir a quantidade de açúcar.
 
@@ -82815,7 +82808,7 @@ vez.} 43. Nxc3 bxc3 44. Ke3 1-0
 ```
 
 # Algorithms for Dummies
-2023-03-14 books interview computer
+2023-03-14 books
 
 De John Mueller e Luca Massaron, este livro mantém a fama da série "for Dummies", com livros de conteúdo bem estruturado, acessível para a maioria dos leitores e ainda útil para quem já está acostumado com um termo ou dois do assunto, ou até o assunto inteiro.
 
@@ -82948,7 +82941,7 @@ O que essa série consegue é bypassar os clichês que abraça e logo a coisa co
 Afinal, esta é a era onde tudo deve ser levado a sério, mesmo que nada seja. A história de produção barata consegue desenvolver seus personagens com tanto afinco que a paixão inicial se perde. Vira um compêndio, um paper acadêmico sobre como fazer relacionamentos dar certo na cultura japonesa e ainda abraçar um perigoso progressismo. Perigoso, sim, mas não inconsequente.
 
 # O melhor teste técnico até agora
-2023-03-26 series computer interview
+2023-03-26
 
 As três séries citadas neste post foram: "Que Cilada!",  "Três Metros Acima do Céu" e "A Vida Mentirosa dos Adultos".
 
@@ -83047,7 +83040,7 @@ Não sei bem se esse é um analytics com histórico ou são os acessos de tempo 
 Ops, não há comentários no blogue. Não dá para aguentar tanto feedback da humanidade.
 
 # Timemore C2
-2023-04-05 food coffee
+2023-04-05 coffee
 
 Chegou meu segundo moedor manual depois do quebra-galho que foi o "Hario Slim" por mais de dois anos. Depois de muito pesquisar fiquei muito satisfeito em comprar este modelo da Timemore, por três motivos.
 
@@ -83081,7 +83074,7 @@ Por fim, e apesar de já ter tocado no assunto de qualidade, acredito que o conj
 
 
 # Como analisar assembly x64
-2023-04-05 debugging videos
+2023-04-05 computer
 
 Recomendo a leitura do artigo "X64 Deep Dive" para se habituar às idiossincrasias sobre o formato assembly do x64, especialmente se você costuma depurar assembly para Windows. O artigo descreve as novas funcionalidades que suportam os 64 bits do formato do executável Windows, o Portable Executable, além de explicar em detalhes o funcionamento de mecanismos que mudaram, como o tratamento de exceção (e o unwinding no código).
 
@@ -83826,7 +83819,7 @@ shared_ptr<LinkedList> LinkedListTraverseToTheMiddle(shared_ptr<LinkedList>& hea
 ```
 
 # Métodos de extração de café e suas sutilezas
-2023-04-09
+2023-04-09 coffee
 
 Comprei um Melitta e filtros de papel. O objetivo é usar como suporte para meu filtro de pano, mas aproveitei para voltar a praticar passar café como todas as pessoas fazem, mas também para degustar o resultado e entender se há alguma diferença com outros métodos que utilizo diariamente.
 
@@ -84481,7 +84474,7 @@ No caso dos "de los siete" é um blend de sete terrenos distintos da região de 
 Disponível no menu de vinhos do restaurante Outback, descobri esses dias. Altamente elogiado nas rodinhas da internet. E eu só queria abrir um vinho baratinho de minha adega, mas descobri que o potencial de guarda passa dos dez anos. Fica como dica para a próxima viagem a Mendoza.
 
 # Edsger Dijkstra Without Pencil and Paper
-2023-04-24 quotes computer
+2023-04-24 computer quotes
 
 One morning I was shopping in Amsterdam with my young fiancée, and tired, we sat down on the café terrace to drink a cup of coffee and I was just thinking about whether I could do this, and I then designed the algorithm for the shortest path. As I said, it was a twenty-minute invention. In fact, it was published in '59, three years later. The publication is still readable, it is, in fact, quite nice. One of the reasons that it is so nice was that I designed it without pencil and paper. I learned later that one of the advantages of designing without pencil and paper is that you are almost forced to avoid all avoidable complexities. Eventually, that algorithm became to my great amazement, one of the cornerstones of my fame. Edsger Dijkstra, in an interview with Philip L. Frana, Communications of the ACM, 2001.
 
@@ -84986,7 +84979,7 @@ I expect to keep or reconstruct the text history based in this single folder, bu
 
 
 # O Quarto Verde (ou Ignorem meus textos fáceis)
-2023-06-05
+2023-06-05 movies
 
 Passei 10 anos escrevendo sobre filmes e não consegui refinar um formato. O motivo me veio aos poucos: não existe uma fórmula mágica para falar sobre qualquer coisa, inclusive filmes. E nem deveria.
 
@@ -86020,7 +86013,7 @@ E hoje foi o dia de passar um café e estou muito feliz com o resultado. Consegu
 Estou orgulhoso, mas mais ainda curioso para entender o que acontecerá em torras mais escuras do mesmo café. É um processo interessantíssimo que recomendo a todos que gostam de entender a ciência e a arte por trás de uma xícara de café.
 
 # Mostra Ikigai (SP)
-2023-07-11
+2023-07-11 movies
 
 O conceito de ikigai (生きがい) é a representação de ações que impulsionam qualquer pessoa a seguir a sua rotina no encanto da vida, não necessariamente a partir de grandes acontecimentos. Embora ikigai seja um termo de difícil tradução, tem sido considerado por pesquisadores de áreas diversas como razão de viver.
 
@@ -87129,7 +87122,7 @@ O resultado ficou aquém do que senti no teste de infusão após baixar o êmbol
 To continue.
 
 # O que vem aí na Mostra 2023 (47a.)
-2023-10-10
+2023-10-10 movies
 
 Não vou poder participar da Mostra desse ano, pois estarei muito ocupado bebendo vinho no Chile. Porém, para os que ficam, fora novos diretores achei uns repetidos que pode ser interessante dar uma olhada ou escapar da sessão.
 
@@ -91028,7 +91021,7 @@ A devious way to break a greedy heuristic is to provide instances where everythi
 The reason both seemed like magic is because recursion is mathematical induction. In both, we have general and boundary conditions, with the general condition breaking the problem into smaller and smaller pieces.
 
 # God Loves Me (Marlon Wayans)
-2024-09-14
+2024-09-14 series
 
 Reassisti "As Branquelas" e engatilhou eu buscar sobre a família Wayans. Agora que descobri que é uma família grande. Aí depois fui buscar sobre o standup que ele fez depois que o Chris Rock levou um tapa do Will Smith no Oscar.
 
