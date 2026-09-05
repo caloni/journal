@@ -1,5 +1,5 @@
 # Autor
-2005-05-15 computer blog
+2005-05-15 blog
 
 Compulsive programmer. Wanderley Caloni Jr, brasileiro de nascença e programador por paixão, começou a se divertir aos 17 anos com seu Microsoft Quick BASIC recém baixado da internet. Depois que fez seu primeiro programa - uma calculadora - e saiu pulando pela casa feliz da vida, nunca mais parou de programar. Após dominar as técnicas básicas do if, while e for (ohhhhh...) passou a estudar uma tal de C, linguagem que o faria ficar mais doidão ainda por programação. Seu primeiro programa (in)útil foi o jogo genius, o único no mundo (que eu conheço) que guardava recordes no próprio executável! Depois que gabaritou no C passou a desenvolver classes templates com funções polimórficas e herança múltipla em C++.
 
@@ -12,7 +12,7 @@ Fora do trabalho, adquire novos conhecimentos no Instituto Brasileiro de Tecnolo
 A idéia do blog é tentar disseminar e esclarecer detalhes no uso das linguagens C e C++ - com uma pitada de Windows, que é o ambiente em que o autor atualmente trabalha. C++ já é uma linguagem bastante usada e difundida no mundo todo, mas em território nacional ainda falta muito interesse de conhecer e usar essa poderosa linguagem nos projetos do dia a dia
 
 # Hello World
-2005-05-16 computer blog
+2005-05-16 blog
 
 Ufa! Finalmente consegui publicar alguma coisa aqui no site. Aproveitei minhas poucas horas de folga para procurar um projeto simples de blog no SourceForge, modificá-lo à minha maneira e cá está:
 
@@ -36,7 +36,7 @@ Escreve! Escreve! Escreve! Escreve! Escreve! Escreve!
 
 
 # A inteligência do if (primeira versão)
-2005-05-29 computer philosophy blog
+2005-05-29 blog
 
 Estava outro dia filosofando com meu amigo sobre o funcionamento do conceito mais poderoso em programação de computadores: o if. E me perguntava como que o computador consegue tomar uma decisão a partir de uma comparação. É o tipo de problema cuja resposta parece óbvia mas enquanto você não se aprofunda no tema nunca fica satisfeito de fato (mesmo sabendo a teoria). Após quebrar a cabeça por algum tempo, encontrei uma solução no mínimo interessante.
 
@@ -82,7 +82,7 @@ Bom, quando tu falou que as instruções alteram o registrador program counter (
 Sim, essa explicação por si só já explica como os jumps funcionam. Porém , o que queria na verdade explicar com o código de exemplo é como os jumps condicionais funcionam, ou seja, aquele salto que depende de uma condição prévia, que pode ou não existir.
 
 # Erros esquisitos (que nenhum principiante deveria enfrentar)
-2006-04-10 computer ccpp blog
+2006-04-10 blog
 
 A tentativa de tornar C++ mais simples de usar para tarefas mundanas deu um grande avanço a partir do padrão de 1998. Veja esse exemplo que lê um inteiro na entrada e escreve ele novamente na saída na base hexadecimal:
 
@@ -454,7 +454,7 @@ Um adendo: o artigo de P. J. Plauger que Basílio se refere se chama "Security a
 
 
 # Diferenças entre C e C++: precedência!
-2006-05-03 computer ccpp blog
+2006-05-03 blog
 
 Num belo dia, meu amigo Kabloc escreveu uma pequena e singela função para imprimir a tabuada de 1 a 10. O código era mais ou menos assim:
 
@@ -635,7 +635,7 @@ Pois é, deu pra perceber que seu código não era de "produção" =).
 
 
 # O que muda em C++ no Visual Studio 2005
-2006-05-22 computer ccpp blog
+2006-05-22 blog
 
 Confesso que não estava confiante, nem animado, em usar essa nova versão. Mas, enfim, o dia chegou. Essa semana instalei na minha máquina do serviço para o início da migração de nossos projetos. O processo de conversão ficou por conta de um outro colega, porém todos os problemas eram imediatamente reportados a mim (como se eu fosse o culpado ou algo do tipo pelos caprichos da equipe do VC8). Pra resumir desde o início, a visão geral que tive foi que a nova versão aumenta a compatibilidade com o C++ ISO, porém fornece novas extensões e erra em algumas mudanças que, como explico mais adiante, comprometem o aprendizado do estudante e um dos objetivos do C++.
 
@@ -910,7 +910,7 @@ Eheheheheheh valeu. Valeu a todos. É bom saber que o movimento está "aceso" e 
 []s
 
 # VC++ 2005 e Windows 95 não casam
-2006-05-26 computer blog
+2006-05-26 blog
 
 Hoje foi mais um dia de surpresas com a nova versão do ambiente de programação da Microsoft. De cara descobrimos que programas que usam a nova CRT não rodam no Windows 95. Eu quero dizer: não é um projeto específico; QUALQUER projeto não irá rodar. Tentamos executar um projeto vazio e existe uma dependência da função IsDebuggerPresent nos executáveis gerados. Essa função API inexiste nessa versão do SO.
 
@@ -1314,7 +1314,7 @@ Depois de todas essas aventuras percebi que meus conhecimentos em C++ não aumen
 E isso me leva de volta para cá, o cantinho de onde nunca deveria ter saído. Mas aprendi a lição. Estarei por aqui de agora em diante, pronto para escrever sobre o que fizer parte dos meus dias de programador. Não irei cair novamente nas ilusões de um pensamento purista e inadequado à minha realidade de escovador de bits "estamos aí para o que der e vier". Afinal de contas, a gente depura mas se diverte.
 
 # A Inteligência do if: Parte 1
-2007-06-18 computer programming_tag philosophy assembly blog
+2007-06-18 blog
 
 No nível mais baixo, podemos dizer que as instruções de um computador se baseiam simplesmente em cálculos matemáticos e manipulação de memória. E entre os tipos de manipulação existe aquela que muda o endereço da próxima instrução que será executada. A essa manipulação damos o nome de salto.
 
@@ -1432,7 +1432,7 @@ label:
 Neste artigo vimos como todas as construções de uma linguagem de programação, independente do seu nível, podem ser convertidas em um conjunto de saltos, condicionais e incondicionais. Em um próximo artigo veremos como o salto condicional verdadeiramente funciona, e como pode ser implementado usando apenas operações matemáticas. Afinal, matemática básica é o bloco lógico mais básico que temos em um computador. Qualquer computador.
 
 # Introdução ao Debugging Tools for Windows (usando o Logger para monitorar APIs)
-2007-06-20 computer reversing windbg blog
+2007-06-20 blog
 
 2025-10-05: Hoje o Logger está desatualizado e não recomendo mais seu uso. Há ferramentas melhores, como API Monitor, além de ser possível você mesmo desenvolver com a lib Detours.
 
@@ -1578,7 +1578,7 @@ Sim, é isso mesmo que você entendeu. Eu notei que você usa essa terminologia,
 Eu já configurei o WinDbg para baixar os símbolos, conforme está explicado aqui (2026-03-21 link quebrado), e deu certo. Agora estou seguindo os tutoriais para tentar me entender com ele. Quero ver se consigo depurar um executável que tenho aqui na máquina, passo-a-passo, examinando determinados pontos onde ele possivelmente "olha" no registry do Windows e guarda um certo valor na memória... vamos ver no que dá.
 
 # Disassembling the array operator
-2007-06-22 computer ccpp english blog
+2007-06-22 blog english
 
 Arrays are fascinating in C language because they are so simple and so powerful at the same time. When we start to really understand them and realize all its power we are very close to understand another awesome feature of the language: pointers.
 
@@ -1675,7 +1675,7 @@ Para eu matar a curiosidade sobre as telas desses sistemas operacionais, andei f
 
 
 # A Inteligência do if: Parte 2
-2007-06-29 computer programming_tag philosophy blog
+2007-06-29 blog
 
 Vimos na primeira parte desse artigo como o if revolucionou o mundo da computação ao trazer um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de salto condicional. Também vimos como o resto das construções lógicas de uma linguagem são apenas derivações montadas a partir de saltos condicionais e incondicionais. Nesta segunda parte veremos como implementar um saldo condicional baseando-se no fato de que o computador pode apenas realizar operações matemáticas. Afinal de contas, um computador não "pensa".
 
@@ -1751,7 +1751,7 @@ Dessa forma, para executar o salto baseado em um resultado de 0 ou 1 (o Zero Fla
 Lembre-se que essa é apenas uma demonstração de como pode funcionar um salto condicional através de cálculos matemáticos. De maneira alguma estou afirmando que é feito dessa forma. Aliás, existem inúmeras formas de realizar esse salto. Uma segunda solução seria adicionar a defasagem (offset) entre o endereço da próxima instrução e o endereço do salto. Meu objetivo foi apenas ilustrar que, dado um problema, pode haver várias soluções. Talvez mais para a frente veremos como é implementado um if em assembly, subindo mais um nível de abstração. Por enquanto estamos apenas trabalhando no nível filosófico. O mais importante de todos.
 
 # Introdução ao SoftICE
-2007-07-02 computer blog
+2007-07-02 blog
 
 O que acontece quando você precisa depurar um programa e não tem o Visual Studio instalado na máquina onde o problema está ocorrendo? Ora, para isso que existe o Remote Debugging. Eu uso direto. Você só precisa rodar um pequeno programa na máquina que vai ser depurada e abrir uma porta ou duas. O resto o Visual Studio da máquina que vai depurar faz.
 
@@ -1822,7 +1822,7 @@ A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma
 
 
 # Precedence difference
-2007-07-10 computer ccpp english blog
+2007-07-10 blog english
 
 Once upon a time my old friend Kabloc wrote this little and "harmless" function in order to print the multiplication table:
 
@@ -2002,7 +2002,7 @@ Se você tem certeza que é isso o que você quer, e é isso o que você precisa
 []s
 
 # What happens inside the sizeof operator
-2007-07-16 computer ccpp english blog
+2007-07-16 blog english
 
 The question: how to get the size of a struct member without declaring it as a variable in memory? In pseudocode:
 
@@ -2064,7 +2064,7 @@ Minha lista não é muito diferente da dos outros. Basicamente se resume em: ler
 Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. Rodrigo Strauss, Fernando Roberto e Thiago Oliveira: o que vocês farão nos próximos seis meses para se tornarem melhores desenvolvedores (ainda)?
 
 # Antidebug: interpretação baseada em exceção (parte 1)
-2007-07-20 computer projects blog
+2007-07-20 blog
 
 Um depurador utiliza breakpoints para "paralisar" momentaneamente a execução do programa sendo depurado. Para isso ele se utiliza de uma bem conhecida instrução conhecida como int 3. Essa instrução gera uma exceção -- exceção de breakpoint -- que é capturada pelo sistema operacional e repassada para o código de tratamento dessa exceção. Em programas sendo depurados esse código está localizado no depurador. Em programas "livres" esse código normalmente não existe e ao acontecer essa exceção o aplicativo simplesmente "capota".
 
@@ -2293,7 +2293,7 @@ Futuramente veremos uma maneira de tornar as coisas mais legíveis e usáveis no
 
 
 # Movendo o cursor do mouse com o teclado
-2007-07-26 computer projects blog
+2007-07-26 blog
 
 Bom, vamos deixar de papo furado e "codar". Para essa primeira tentativa iremos desenvolver um programa que move o cursor do mouse quando pressionada uma tecla de atalho e voltar à sua posição original quando pressionada outra tecla.
 
@@ -2460,7 +2460,7 @@ Exit=WIN+END
 Você acha que os atalhos "WinKey + Del", "WinKey + Insert" e "WinKey + End" foram uma má escolha para essa função de esconder o mouse? Concordo. Fiz de propósito. Que tal customizar o programa para que as teclas sejam lidas do arquivo de configuração HideCursor.ini?
 
 # C and C++ Operators Precedence Table
-2007-07-30 computer ccpp english blog
+2007-07-30 blog english
 
 "Wanderley, your explanation about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing. I checked out the Appendix A in the "C ++ - How To Program" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article. I went to the internet and found out in two websites the table and both are equal to the book table. From where did you get the presented C++ table?" "Márcio Andrey Oliveira".
 
@@ -2576,7 +2576,7 @@ Por falar em se emocionar, imagino que seu comentário estaria mais contextualiz
 
 
 # História da Linguagem C: Parte 1
-2007-08-01 computer ccpp blog
+2007-08-01 blog
 
 Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens BCPL e B. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.
 
@@ -2615,7 +2615,7 @@ Como é natural, o código-fonte de uma aplicação tende a crescer em muitas li
 
 
 # História do Windows - parte 3.0
-2007-08-03 computer blog windowshistory
+2007-08-03 blog
 
 Em 22 de maio de 1990 a versão 3.0 do Windows foi lançada. Foi melhorado o gerenciador de programas e o sistema de ícones, além de um novo gerenciador de arquivos e suporte a 16 cores. Entre as mudanças internas podemos citar a velocidade e a confiabilidade. Como a partir dessa versão apareceram muitos desenvolvedores que passaram a suportar a plataforma, o número de programas disponíveis aumentou, o que conseqüentemente fez com que as vendas alavancassem. Três milhões de cópias foram vendidas apenas no primeiro ano, e assim o Windows se tornou padrão nos computadores domésticos. Quando a versão 3.1 foi lançada, em 6 de abril de 1992, mais três milhões de cópias foram vendidos em apenas dois meses.
 
@@ -2820,7 +2820,7 @@ Além disso, foi criada uma camada de abstração do hardware (HAL, Hardware Abs
 
 
 # Antidebug: interpretação baseada em exceção (parte 2)
-2007-08-09 computer projects blog
+2007-08-09 blog
 
 No primeiro artigo vimos como é possível "enganar" o depurador através de exceções e assim fazer o atacante perder um tempo considerável tentando se desvencilhar dos breakpoints de mentira. Porém, vimos também que essa é uma solução difícil de manter no código-fonte, além de possuir o ponto fraco de ser facilmente contornada se descoberta. Agora é a hora de tornar as coisas mais fáceis de manter e ao mesmo tempo garantir maior dificuldade mesmo que o atacante descubra o que está acontecendo debaixo do seu nariz.
 
@@ -3073,7 +3073,7 @@ Não há necessidade alguma. Foi apenas um exemplo ilustrativo. No entanto, usei
 
 
 # História da Linguagem C: Parte 2
-2007-08-15 computer ccpp blog
+2007-08-15 blog
 
 No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados senhores dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.
 
@@ -3158,7 +3158,7 @@ Como podemos ver, vários elementos (se não todos) da linguagem C já estão pr
 
 
 # Junctions
-2007-08-17 computer blog
+2007-08-17 blog
 
 Semana passada baixei uma nova imagem para minha máquina de desenvolvimento. Esse esquema do pessoal da engenharia instalar as coisas para você facilita muito as coisas, mas existe o risco de algo ser instalado no lugar errado, que foram os casos do DDK e do SDK do Windows. Aqui no desenvolvimento, para efeito de padronização, utilizamos a seguinte estrutura de diretórios para esses dois aplicativos:
 
@@ -3187,7 +3187,7 @@ E é isso aí. A partir de agora tanto as pastas originais quanto os junctions c
 No Windows Vista os junctions também funcionam para arquivos e possuem seu próprio aplicativo nativo, o mklink.exe. Porém, ele chama os links para diretórios de junctions (em português, junções) e os links para arquivos de links mesmo. Você pode notar uma pequena gamb.. adaptação técnica ao mudarem o nome da pasta "Documents and Settings" para "Users" (ou "Usuários", na versão em português). Esse link é extremamente necessário para a compatibilidade daqueles aplicativos feitos às pressas que não se importam em perguntar para o sistema onde está a pasta de documentos do usuário, fixando o path como se ele fosse estar sempre lá.
 
 # Funções muito novas na Win32 API
-2007-08-21 computer blog
+2007-08-21 blog
 
 Quando fala-se em depuração geralmente o pensamento que vem é de um código que já foi compilado e está rodando em alguma outra máquina e gerando problemas não detectados nos testes de desenvolvedor. Mas nem sempre é assim. Depuração pode envolver problemas durante a própria compilação. Afinal de contas, se não está compilando, ou foi compilado errado, é porque já existem problemas antes mesmo da execução começar.
 
@@ -3329,7 +3329,7 @@ Outra observação que poderia ter ajudado na hora de codificar seria dar uma ol
 Podemos também notar pela definição do COMPUTER_NAME_FORMAT dentro do main que o código estava no meio do caminho de cometer um sacrilégio: declarar funções e estruturas que já estão definidas nos headers da API. Portanto, se você já encontrou algum código parecido com esse, é hora de colocar em prática algumas teorias de refactoring.
 
 # Antidebug: ocupando a DebugPort
-2007-08-23 computer antidebug blog
+2007-08-23 blog
 
 Quando um depurador inicia um processo para ser depurado ou, o caso abordado por este artigo, se conecta em um processo já iniciado, as comunicações entre esses dois processos é feita através de um recurso interno do Windows chamado de LPC (Local Procedure Call). O sistema cria uma "porta mágica" de comunicação específica para a depuração e os eventos trafegam por meio dela.
 
@@ -3450,7 +3450,7 @@ Porém, é claro que catalogar tudo também não é tudo. É preciso agir. Por e
 Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e fazer acontecer. Essa ferramenta, na minha opinião, pode ajudar.
 
 # Hook de API no WinDbg
-2007-08-29 computer blog
+2007-08-29 blog
 
 Basicamente existem duas maneiras de um executável obter o endereço de uma função API do Windows: ou ele usa uma lib de interface com a DLL (o chamado "link estático") ou ele chama a função GetProcAddress explicitamente (1).
 
@@ -3527,7 +3527,7 @@ Essa é uma maneira rústica, porém eficaz e rápida de obter a lista de execu�
 (2) Essa técnica nem sempre funciona com todas as chamadas API, pois o aplicativo ainda pode utilizar outras maneiras de obter o endereço de uma função e chamá-la. A solução definitiva seria escrever diretamente um assembly esperto no começo da função, o que pode gerar mais problemas que soluções. Do jeito que está, conseguimos resolver 90% dos nossos problemas com análise de chamadas API. O resto nós podemos resolver em futuros artigos.
 
 # Barata Elétrica e o hacker de antigamente
-2007-08-31 essays blog
+2007-08-31 blog
 
 Os artigos escritos por ele estavam em português, mas sempre em suas edições ele disponibilizava artigos de outras partes do mundo em inglês. Praticamente li todos eles, e muitos fiz questão de ler mais de uma vez. A maioria falava de um mundo que existia antes de eu ter um computador, onde existiam vírus e pirataria de programas em disquetes, BBSs e a tal reserva de mercado. Além, é claro, de dicas de como ser um nerd e não perder a sociabilidade (se é que isso é possível quando se é um nerd adolescente). Existe uma página no zine onde estão listados os melhores artigos de todos os tempos da revista.
 
@@ -3707,7 +3707,7 @@ Na minha primeira semana o desafio era desenvolver uma DLL em C que servisse de 
 Depois de uns anos começo a escrever um blogue. E desde então o ser em que me transformei vos fala através daqui. E assim foi. Como é que o pessoal de humanas fala mesmo? Ah, sim: o resto é história.
 
 # Antidebug: Detectando Attach
-2007-09-10 computer antidebug blog
+2007-09-10 blog
 
 Hoje foi um belo dia para engenharia reversa e análise de proteções. Dois ótimos programas vieram ao meu conhecimento: um monitor de chamadas de API e um monitor de chamadas de COM (complementando o primeiro, que não monitora funções depois que CoCreateInstance foi chamado). Além de que no site do primeiro programa - de algum entusiasta do bom e velho Assembly Win32, diga-se de passagem - encontrei o código-fonte para mais uma técnica antidebugging, o que nos leva de volta para a já consagrada série de técnicas antidepuração.
 
@@ -3793,7 +3793,7 @@ Ambas possuem prós e contras. Os contras estão relacionados com a dependência
 Seja qual for a solução escolhida, ao menos temos a vantagem do impacto no sistema de nosso aplicativo ser praticamente nulo, pois isolamos em duas funções - AntiAttachAbort e InstallAntiAttach - um hook de uma API local (do próprio processo) que supostamente nunca deveria ser chamada em um binário de produção. Além do mais, existem maneiras mais a la C++ de fazer coisas como "live assembly". Mas isso já é matéria para futuros e excitantes artigos =D.
 
 # Guia básico de controle de código centralizado
-2007-09-12 computer blog
+2007-09-12 blog
 
 O primeiro passo para se passar no Teste do Joel é possuir algum tipo de controle de código. E ele está mais do que certo. Não existe nada mais frustrante do que não ter exatamente o código-fonte da versão que está rodando no cliente ou não saber o que mudou desde que a versão foi entregue. Esse tipo de coisa pode acabar com uma empresa ou fazer com que ela fique muito mal vista no mercado.
 
@@ -3840,7 +3840,7 @@ O Source Safe possui uma ferramenta em linha de comando que faz as mesmas opera�
 O resumo da ópera é: cuide bem dos seus fontes. Muito trabalho, tempo e dinheiro são despendidos com desenvolvimento. Não cuidar do resultado de tudo isso é como botar fogo no estoque de uma fábrica.
 
 # Aquisição de recurso é inicialização
-2007-09-14 computer ccpp blog
+2007-09-14 blog
 
 O título desse artigo é uma técnica presente no paradigma da programação em C++, razão pela qual não temos o operador finally. A idéia por trás dessa técnica é conseguirmos usar recursos representados por objetos locais de maneira que ao final da função esses objetos sejam destruídos e, junto com eles, os recursos que foram alocados. Podemos chamar de recursos aquele arquivo que necessita ser aberto para escrita, o bitmap que é exibido na tela, o ponteiro de uma interface COM, etc. O nosso exemplo é sobre arquivos:
 
@@ -3940,7 +3940,7 @@ A opção que dura mais de cinco minutos pode evitar futuras dores de cabeça: a
 A decisão sobre qual solução é a melhor está muito além do escopo desse artigo, pois obviamente cada caso é um caso. Mas não custa nada pensar um pouco sobre C++ quando se estiver programando. E "aquisição de recurso é inicialização" faz parte do modo de pensar dessa linguagem.
 
 # Hook de COM no WinDbg
-2007-09-18 computer blog
+2007-09-18 blog
 
 Continuando com o tema hooks no WinDbg vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás, mas com as opções de pause, rewind, replay e câmera lenta habilitadas.
 
@@ -4157,7 +4157,7 @@ Dica: se você encontrar problemas de crash ou corrompimento de pilha e houver u
 Ao definir os nomes das funções usadas para nada não haverá a chamada da função, apesar do código compilar exatamente igual, exceto a chamada. Ou seja, se houver problemas em algum printf ele sumirá. A partir daí é só ir comentando e descomentando as partes do código até encontrar.
 
 # Why is my DLL locked?
-2007-09-24 computer english blog
+2007-09-24 blog english
 
 The Windows code responsible to call DllMain for each loaded and unloaded DLLs uses an exclusive access object, the so-called mutex, to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.
 
@@ -4417,7 +4417,7 @@ Quanto aos livros de vocabulário reduzido... bingo! Eu de fato esqueci de citar
 
 
 # Debug da BIOS com o SoftIce 16 bits
-2007-10-02 computer blog
+2007-10-02 blog
 
 Para quem acha que ainda não desceu demais o nível existe um "ótimo artigo" no Code Project de S. Z. Keller (aka ShalomZ) sobre como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o boot loader carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para download e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de load do seu primeiro sistema operacional.
 
@@ -4473,7 +4473,7 @@ A partir dessa leitura se usa o comando p ret do depurador, que é mais ou menos
 
 
 # Cronogramas
-2007-10-04 essays blog
+2007-10-04 blog
 
 Nunca fui muito bom em definir cronogramas e nunca conheci alguém que fosse. Porém, ultimamente, no conforto do lar (férias), estou me saindo razoavelmente bem ao aplicar no meu dia a dia algumas regras que estabeleci como sendo boas pra mim. Não são regras que baixei do sítio do Joel nem é um design pattern, mas já me ajudam um bocado. Gostaria de compartilhá-las com meus pontuais leitores, que sempre entregam seus projetos em dia e nunca se esquecem de comentar uma linha de código sequer. Vocês são meu objetivo de vida e motivo de orgulho deste humilde blogue, que se esmera a cada dia que passa para ser fiel à inegável qualidade do meu público. Quando crescer quero ser igual a vocês.
 
@@ -4522,7 +4522,7 @@ Bons cronogramas!
 "O trabalho se expande de forma a preencher o tempo disponível para sua conclusão." - Parkinson's Law.
 
 # História do Windows - parte 5.0
-2007-10-08 computer blog windowshistory
+2007-10-08 blog
 
 Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de Distributed File System, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede. Assim começou a "História do Windows" para redes de gente grande.
 
@@ -4580,7 +4580,7 @@ E por fim, a não ser que estejamos falando do XBox, o hardware é feito por ter
 
 
 # Engenharia reversa para principiantes
-2007-10-10 computer blog
+2007-10-10 blog
 
 Dei uma reformada em minha última "palestra sobre engenharia reversa". O tema escolhido foi tentar abranger os níveis de conhecimento que uma pessoa disposta a se dedicar à engenharia reversa de programas deveria ter, desde programação, passando pelo sistema operacional e terminando no uso de ferramentas. Achei interessante abordar esse tipo de conteúdo pelo fato de existirem pessoas que gostariam de começar ou já começaram e não sabem para onde ir.
 
@@ -4660,7 +4660,7 @@ Resposta ao PS: porque inicialmente minha intenção foi traduzir fielmente o pa
 
 
 # A Linguagem de Programação C: O Livro
-2007-10-12 ccpp books computer blog
+2007-10-12 blog
 
 O clássico de Ritchie e Kernighan, criadores da linguagem C, não foi meu primeiro livro de programação. E nem deveria ser. Não o recomendo para iniciantes, pois é necessário possuir algum conhecimento e prática para realmente aproveitar os conceitos desse livro.
 
@@ -4727,7 +4727,7 @@ O Apêndice C hoje é um pequeno guia dos curiosos para as mudanças que foram i
 Livros vêm, livros vão, mas apenas os clássicos permanecerão. A Linguagem de Programação C é um clássico, sem sombra de dúvida, e nunca irá perder seu valor para a linguagem. A maioria dos livros usa-o como referência, assim como os livros tão amados da comunidade C++ sempre usam Stroustrup como referência. Portanto, se puder, reserve um tempo para o passado.
 
 # Guia básico para programadores de primeiro int main
-2007-10-16 computer blog programming_tag
+2007-10-16 blog
 
 (Vou aproveitar que meu amigo DQ publicou um artigo muito bom sobre [como fazer programas fáceis de manter] (merece ser lido!) e vou republicar um artigo do blogue antigo sobre o básico do básico para quem deseja entender como os programas funcionam. Não é nada sofisticado, apenas alguns conceitos comuns que, se você deseja ser programador, deveria procurar saber.)
 
@@ -4851,7 +4851,7 @@ Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, 
 - Leia livros bem introdutórios (até para criança vale) como Introdução Ilustrada à Computação.
 
 # Por que minha DLL travou?
-2007-10-18 computer blog
+2007-10-18 blog
 
 O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "mutex") para sincronizar as chamadas. O resultado é que, em um processo, apenas um DllMain é chamado em um dado momento. Esse objeto é chamado de loader lock na documentação da Microsoft.
 
@@ -4939,7 +4939,7 @@ Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal
 
 
 # Guia básico para programadores de primeiro breakpoint
-2007-10-22 computer blog programming_tag
+2007-10-22 blog
 
 Aproveitando um dos últimos artigos que fala sobre conceitos básicos de programação, lembro que, tão importante quanto programar é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.
 
@@ -4979,7 +4979,7 @@ Depurar esteve sempre ligado à programação desde os primórdios da humanidade
 
 
 # Typeid e os perigos do não-polimorfismo
-2007-10-24 computer ccpp blog
+2007-10-24 blog
 
 Quando usamos o operador typeid geralmente desejamos conhecer informações sobre o tipo exato do objeto que temos em mãos, independente da hierarquia de herança a qual seu tipo pertença. Só que por ignorar, assim como o "sizeof", que esse operador possui duas caras, às vezes damos com os burros n'água e compramos gato por lebre. Não é pra menos. Uma sutil diferença entre classes polimórficas e estáticas pode dar aquele susto que só C++ pode proporcionar.
 
@@ -5068,7 +5068,7 @@ class Deriv
 
 
 # Proteção dos membros protected
-2007-10-26 computer ccpp blog
+2007-10-26 blog
 
 Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção protected. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:
 
@@ -5163,7 +5163,7 @@ int Deriv::GetProtectedFromDeriv2()
 Agora a proteção do compilador faz sentido. Parece um detalhe frívolo, mas já vi programadores de respeito se debatendo pela "burrice" do compilador. Imaginei que talvez houvesse mais pessoas com a mesma dúvida de se existe ou não um "bug na linguagem".
 
 # Alterando mensagem de erro no Notepad
-2007-10-30 computer windbg blog
+2007-10-30 blog
 
 O notepad é uma vítima tradicional de todo programador de Windows. Ele é usado tanto como teste de abertura de arquivo quanto criptografia de disco. É nossa cobaia favorita porque é simples, porém completo. ~~E roda rápido e sem bugs.~~ (2026-02-14 removendo suas qualidades após ele logar no Microsoft Account e ter o Copilot embutido; inclua a calculadora nessa)
 
@@ -5340,7 +5340,7 @@ Eu adoraria receber a prova e as respostas para comentar a respeito, e até sabe
 []s
 
 # Desenvolvendo em linha de comando
-2007-11-01 computer blog
+2007-11-01 blog
 
 Desde uns tempos para cá o Visual Studio tem se tornado uma das ferramentas mais pesadas de desenvolvimento já criadas (Update 2026-02-20: e desde que a Microsoft transformou o Windows em um sistema de ad sense a coisa só piorou). Como se não bastasse, a compilação de pequenos trechos de código é algo desnecessariamente complicado no ambiente (Update 2026-02-20: mas isso melhorou consideravelmente). Por esse motivo estou ganhando o costume de usar a linha de comando para esse tipo de tarefa. Afinal de contas, na maioria das vezes a única coisa que eu preciso fazer é abrir o atalho "Visual Studio Command Prompt" e digitar uma linha: cl meu-codigo-fonte-do-coracao.cpp.
 
@@ -5360,7 +5360,7 @@ Porém, se você prefere algo mais amigável, mais ainda que o WinDbg, você pod
 
 
 # Ponteiros de método: conceito fundamental
-2007-11-05 computer blog
+2007-11-05 blog
 
 Diferente de ponteiros de função globais ou estáticas, que são a grosso modo ponteiros como qualquer um, os ponteiros de método possuem uma semântica toda especial que costuma intimidar até quem está acostumado com a aritmética de ponteiros avançada. Não é pra menos: é praticamente uma definição à parte, com algumas limitações e que deixa a desejar os quase sempre criativos programadores da linguagem, que vira e mexe estão pedindo mudanças no C++0x.
 
@@ -5452,7 +5452,7 @@ Rand* pr = &r;
 Esses operadores obrigam o programador a sempre ter um objeto e um ponteiro. Daí não tem como errar. Infelizmente, devido à ordem de precedência, temos que colocar os parênteses em torno da expressão para chamar o método. Pelo menos fica equivalente ao que precisávamos fazer antes da padronização da linguagem C.
 
 # Ponteiro de método: qual this é usado?
-2007-11-07 computer blog
+2007-11-07 blog
 
 Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue "CodeBehind", um escovador de bits disfarçado de programador .NET: qual objeto que vale na hora de chamar um método pelo ponteiro?
 
@@ -5602,7 +5602,7 @@ Como podemos ver, não é nenhuma magia negra a responsável por fazer os pontei
 
 
 # Detectando hooks globais no WinDbg (SetWindowsHookEx)
-2007-11-09 computer blog
+2007-11-09 blog
 
 Nada como um comando prático para aprender rapidamente uma técnica. Nesse caso, tive que usar o seguinte comando para localizar o momento em que um executável instala um hook global: bp user32!SetWindowsHookExA "j poi(esp+4*4) 'g' ; '.echo *** GLOBAL HOOK ***; g'".
 
@@ -5712,7 +5712,7 @@ Para quem estiver lendo isso, tente! Vale a pena conhecer.
 
 
 # SDelete
-2007-11-15 computer blog
+2007-11-15 blog
 
 Minha vida tem que ser portátil. Existem pelo menos três lugares diferentes onde costumo ficar com um computador (não o mesmo). Por causa disso, os dados mais relevantes e que precisam fazer parte do meu sistema biológico eu carrego comigo pra cima e pra baixo em meu PenDrive e MP3Player.
 
@@ -5785,7 +5785,7 @@ Essa organização foi adotada principalmente pela sua grande vantagem de minimi
 
 
 # Usando a libc nativa do Windows
-2007-11-21 computer blog
+2007-11-21 blog
 
 Por padrão, todo projeto no Visual Studio depende da libc. Isso quer dizer que, mesmo que você não use nem um mísero printf em todos os projetos criados, está atrelado a essa dependência. Em tempos onde fazer um "Hello World" pode custar 56 KB em Release - Visual Studio 2005, configuração padrão sem "buffer security check" - vale a pena economizar alguns KBytes que não se vão usar. Principalmente se essa possibilidade existe desde o cavernoso Windows 95.
 
@@ -5892,7 +5892,7 @@ Sim, trabalho atualmente em São Paulo, Brasil. O mercado? Não sou uma pessoa m
 
 
 # Carregando DLLs arbitrárias pelo WinDbg
-2007-11-23 computer blog
+2007-11-23 blog
 
 Durante meus testes para a correção de um bug me deparei com a necessidade de carregar uma DLL desenvolvida por mim no processo depurado. O detalhe é que o processo depurado é de terceiros e não possuo o fonte. Portanto, as opções para mim mais simples são: 1) Usar o projeto "RmThread" para injetar a DLL (nesse caso iniciando o processo através dele), 2) Fazer um módulo wrapper para uma DLL qualquer e ser carregado de brinde, 3) Usar o WinDbg e brincar um pouco.
 
@@ -5949,7 +5949,7 @@ Como pudemos ver pela saída, a DLL foi carregada e agora temos a possibilidade 
 
 
 # Carregando DLLs arbitrárias pelo WinDbg ou como escrever script para WinDbg
-2007-11-27 computer blog
+2007-11-27 blog
 
 Um script no WinDbg nada mais é que uma execução em batch: um arquivo texto cheio de comandos que poderíamos digitar manualmente, mas que preferimos guardar para poupar nossos dedos. Existem quatro maneiras diferentes de chamar um script no WinDbg, todas muito parecidas, variando apenas se são permitidos espaços antes do nome do arquivo e se os comandos são condensados, isto é, as quebras de linhas substituídas por ponto-e-vírgula para executar tudo em uma linha só.
 
@@ -6587,7 +6587,7 @@ Infelizmente essa opção não está disponível nas versões Standard do produt
 Para os que utilizam o Visual Studio Express, realmente ainda não achei solução a não ser usar o bom, velho e fiel companheiro WinDbg. Não saia de casa sem ele.
 
 # Sizeof (de novo)
-2007-12-17 computer blog
+2007-12-17 blog
 
 Algumas coisas em C parecem tão simples na programação do dia a dia que em alguns momentos podem existir situações confusas e misteriosas. O uso obscuro do operador sizeof, por exemplo, pode dar margem a interpretações erradas a respeito do que está acontecendo por debaixo dos panos. Apesar do padrão ter sido elaborado para tentar tornar a linguagem uma coisa intuitiva e de fácil dedução, isso não acontece todas as vezes.
 
@@ -6890,7 +6890,7 @@ Fico feliz que o tutorial tenha sido útil até um ponto. Na verdade, foi só um
 
 
 # O que acontece quando o contador estoura
-2007-12-25 computer blog
+2007-12-25 blog
 
 Dois conceitos de programação relacionados a limites computacionais são bem conhecidos do programador: o famigerado overflow e o não-tão-famoso underflow (embora seja fácil imaginar que ele é o oposto do primeiro). O primeiro ocorre quando somamos a uma variável inteira não-nula um valor cujo resultado não consegue ser representado pelo tamanho de memória usado para armazenar esse tipo inteiro (que pode ser um caractere, um inteiro curto, inteiro longo e por aí vai). O underflow, por outro lado (outro lado mesmo), é o resultado de uma subtração que não pode ser representado pelo número de bits do seu tipo inteiro.
 
@@ -6952,7 +6952,7 @@ Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então
 
 
 # Curiosidades inúteis: o operador de subscrito em C++
-2007-12-27 computer blog
+2007-12-27 blog
 
 Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!
 
@@ -7020,7 +7020,7 @@ Imagine, não tenho a mínima pretensão de ter desenvolvido algo novo. Eu sempr
 
 
 # Gambi do dia: swap com apenas duas variáveis
-2007-12-31 computer blog
+2007-12-31 blog
 
 Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!
 
@@ -7262,7 +7262,7 @@ Não é muito difícil definir essa lista, pois ela na verdade são as mesmas du
 
 
 # CppCon III
-2008-01-04 ccppbr blog
+2008-01-04 blog
 
 O ano de 2008 promete. Pelo menos no começo.
 
@@ -7381,7 +7381,7 @@ De qualquer forma, não é porque escrevemos sobre coisas técnicas que nossos b
 
 
 # Analisando Dumps com WinDbg e IDA
-2008-01-10 computer blog
+2008-01-10 blog
 
 Apesar de ser recomendado que 100% dos componentes de um software esteja configurado corretamente para gerar símbolos na versão release, possibilitando assim a visualização do nome das funções internas através de um arquivo de dump (despejo) gerado na ocorrência de um crash, essa verdade só ocorre em 80% das vezes. Quis Murphy que dessa vez a única parte não "simbolizada" fosse a que gerou a tela azul em um Intel Quad Core que estou analisando esses dias.
 
@@ -7665,7 +7665,7 @@ O artigo sobre temas no WinDbg explica como montar seu workspace com tudo config
 []s
 
 # Temas no WinDbg
-2008-01-14 computer blog
+2008-01-14 blog
 
 Desde a versão 6.4.7.2 que o WinDbg fornece uma subpasta chamada Themes, onde lá estão diversos workspaces configurados. Existe até um passo-a-passo de como organizar esses temas e escolher o seu favorito. Segue algumas dicas de como transformar corretamente sua área de trabalho para depuração (e mantê-la).
 
@@ -7698,7 +7698,7 @@ reg save HKCU\Software\Microsoft\WinDbg c:\Tools\DbgTools\Themes\MyTheme.reg
 Leia a documentação do WinDbg sobre temas (dentro de Themes, Themes.doc). Foi de lá que eu fiz a tradução e adaptação dos passos mais importantes. E esqueça do Visual Studio =)
 
 # Encontrando as respostas do Flash Pops
-2008-01-16 computer blog
+2008-01-16 blog
 
 Existia uma série de jogos no sítio da UOL chamado Flash Pops onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da década de 40 até a atualidade. É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o Google e o IMDB até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a trilha sonora do filme, ouvimos faixa a faixa e procuramos o nome da música no Google, para finalmente encontrar o resultado.
 
@@ -7866,7 +7866,7 @@ Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo "Thia
 
 
 # Otimização em funções recursivas
-2008-01-18 computer blog
+2008-01-18 blog
 
 O livro que estou lendo, Dominando Algoritmo com C, como o próprio nome diz, fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de "tail recursion". Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
 
@@ -8325,7 +8325,7 @@ int main(int argc, char* argv[])
 
 
 # Terceiro encontro C++
-2008-01-22 ccppbr blog
+2008-01-22 blog
 
 Nesse último sábado aconteceu, como previsto, o terceiro encontro de usuários/programadores C++. Foi um sucesso bem maior que o esperado, pelo menos por mim e pelas pessoas com quem conversei. A organização foi fantástica, e o patrocínio muito importante, o que deu abertura para pensamentos mais ousados sobre o futuro de C++ no Brasil. Foi gerada uma lista de resoluções para o futuro (que começa hoje), onde pretendemos, inclusive, fazer reuniões no mesmo estilo trimestralmente.
 
@@ -8372,7 +8372,7 @@ Agora, a distância, você tem algumas outras opções:
 Boa sorte!
 
 # Keychanger de criança
-2008-01-24 computer blog
+2008-01-24 blog
 
 Às vezes na vida a vontade de fazer alguma coisa besta acaba sendo mais forte do que o senso de ridículo. Então, resolvi ressuscitar o quase apodrecido "RusKey", um programa que fiz para trocar letras digitadas no teclado. A idéia é muito simples: o sujeito digita 'i' e sai um 'c', digita um 'f' e sai um 'u', e assim por diante. Se estiver programando e for criar um if, por exemplo, no lugar da palavra if vai aparecer... bom, não é exatamente um if que vai aparecer na tela =).
 
@@ -8429,7 +8429,7 @@ Simples assim. E temos um keylogger que troca caracteres! É impressionante como
 
 
 # RmThread: rode código em processo vizinho
-2008-01-28 computer blog
+2008-01-28 blog
 
 Aproveitando que utilizei a mesma técnica semana passada para desenvolver um vírus para Ethical Hacking, republico aqui este artigo que já está mofando no Code Project (update 2026-02-07: e pelo que vi ele nem existe mais), mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!
 
@@ -8541,7 +8541,7 @@ Um detalhe interessante é que é necessária a chamada de FreeLibraryAndExitThr
 Um problema chato (que você poderá encontrar) é que, se a DLL não for carregada com sucesso, não há uma maneira trivial de obter o código de erro da chamada de LoadLibrary. Uma vez que a thread inicia e termina nessa função API, o LastError se perde. Alguma idéia?
 
 # Compartilhando variáveis com o mundo
-2008-01-30 computer blog
+2008-01-30 blog
 
 Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do crie uma seção compartilhada no seu executável/DLL. Isso funciona desde a época em que "o Windows era em preto e branco". Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do use memória mapeada nomeada misturada com templates.
 
@@ -8742,7 +8742,7 @@ Espero que seja realmente o que você estava querendo fazer, e não existam melh
 
 
 # Compartilhando variáveis com o mundo v2
-2008-02-01 computer blog
+2008-02-01 blog
 
 Como todas as coisas que fazemos e pensamos depois, descobrimos que sempre existe uma outra maneira de fazer a mesma coisa. Se é melhor ou não, pode ser uma questão de gosto, estética, objetivos de vida, etc. Com a implementação das variáveis mapeadas globais não foi diferente. Bem, é isso que se espera fazer com código experimental: experimentos. E deu no que deu: SharedVar versão 2.0 alpha Enterprise Edition.
 
@@ -8845,7 +8845,7 @@ Existem duas mudanças significativas: 1. a variável sozinha já representa a m
 
 
 # Process Monitor e o monopólio malcriado
-2008-02-05 computer blog
+2008-02-05 blog
 
 Uma das primeiras regras que aprendemos para manter a integridade do Windows é utilizá-lo somente com a conta de usuários restritos, o que evitaria, por exemplo, que um programa mal-intencionado instale um serviço ou driver, que teriam acesso às partes íntimas do sistema operacional.
 
@@ -9025,7 +9025,7 @@ If you think "what about when a project generates more than 9 errors? the regex 
 For me, the first version is enough. It is faster to type, simpler to catch and solves my problem. I hope it can solve yours =)
 
 # Desconstruindo IOCCC
-2008-02-11 computer blog
+2008-02-11 blog
 
 Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama "The International Obfuscated C Code Contest" (IOCCC resumidamente) e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".
 
@@ -9330,7 +9330,7 @@ Eu pensava que "enfeitava" meu sítio apenas para mim, já que, pelo menos eu, a
 
 
 # Funky do-while
-2008-02-13 computer english blog
+2008-02-13 blog english
 
 It's a known habit to use do-while constructions when there's a need to define a macro that has more than one command instead of using the { simple multicommand brackets }. What was never clear is why this is so.
 
@@ -9503,7 +9503,7 @@ while( 0 );
 ```
 
 # Os diferentes erros na linguagem C
-2008-02-15 computer ccpp blog
+2008-02-15 blog
 
 Uma coisa que me espanta de vez em quando é o total desconhecimento por programadores mais ou menos experientes dos níveis de erros que podem ocorrer em um fonte escrito em C ou C++. Desconheço o motivo, mas desconfio que o fato de outras linguagens não terem essa divisão de processos pode causar alguma nivelação entre as linguagens e fazer pensar que o processo de compilação em C é como em qualquer outra linguagem.
 
@@ -9755,7 +9755,7 @@ Quando se trata de programar em C, clareza é mil vezes mais importante que conc
 
 
 # Configurando seus projetos no Visual Studio para rodar em outras máquinas
-2008-02-21 computer blog
+2008-02-21 blog
 
 Ao iniciar na arte da programação em C no Visual Studio eventualmente o programador irá querer testar seus programas rodando em outra máquina que não seja a de desenvolvimento, mandar uma versão beta para amigos, pra namorada e pro seu cachorro. Geralmente, por padrão, existem algumas dependências do programa compilado com uma DLL de runtime da versão do ambiente em que foi compilado o dito cujo, dificultando um pouco a distribuição do seu motherfucker-program.
 
@@ -9790,7 +9790,7 @@ Além da dependência de DLLs, alguns casos especiais vão chiar por causa dos d
 Acho que esses são os únicos empecilhos iniciais para testar seu programa em outras máquinas. Sempre que ver o erro exibido no começo desse artigo, desconfie de alguma dependência que não está presente na máquina. Nessas horas, ter um Dependency Walker ou Dumpbin na mão vale ouro.
 
 # Códigos de entrevista - o ponteiro nulo
-2008-02-25 computer blog
+2008-02-25 blog
 
 Bom, parece que o "mother-fucker" wordpress ferrou com meu artigo sobre o Houaiss. Enquanto eu choro as pitangas aqui vai um outro artigo um pouco mais simples, mas igualmente interessante.
 
@@ -9960,7 +9960,7 @@ Também desconhecia esse detalhe de implementação desses sistemas. Valeu a dic
 A essência do zen consiste em caminhar sobre o fio da navalha do Agora. Eckhart Tolle (O Poder do Agora, 1997).
 
 # Conversor de Houaiss para Babylon - parte 1
-2008-02-27 computer projects blog
+2008-02-27 blog
 
 Este artigo é sobre desmontar e montar novamente. Iremos descobrir como as entradas do dicionário Houaiss eletrônico estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em outro dicionário de uso mais flexível, o Babylon. Ou seja, este não é um guia de vandalismo. Estava apenas querendo usar um dicionário de qualidade excelente em outro dicionário cuja interface é muito boa.
 
@@ -10303,7 +10303,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR cmdLine, int)
 Parte da mágica já foi feita, talvez a mais importante e divertida. Daqui pra lá deixaremos o WinDbg de lado e analisaremos o formato em que o texto do dicionário é armazenado, ignorando sua ofuscação básica, que não é mais um problema. Como o artigo já está extenso o suficiente, vou deixar a continuação dessa empreitada para uma futura publicação.
 
 # Iteradores não são constantes
-2008-03-04 computer blog
+2008-03-04 blog
 
 Um bug que já encontrei uma dúzia de vezes entre os novatos da STL é a utilização de iteradores como se eles não fossem mudar nunca. Porém, a verdade é bem diferente: iteradores se tornam inválidos sim, e com muito mais freqüência do que normalmente se imagina. Entre as situações em que iteradores podem mudar estão as seguintes:
 
@@ -10504,7 +10504,7 @@ Seu Ferdinando, seu comentário foi especialmente postergado para evitar confabu
 
 
 # Sed, Grep e afins
-2008-03-10 computer blog
+2008-03-10 blog
 
 Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
 
@@ -10629,7 +10629,7 @@ Quanto ao "mais fácil, mais difícil, mais médio", acredito que seria 104% mai
 
 
 # O mistério das pilhas diferentes
-2008-03-12 computer blog
+2008-03-12 blog
 
 Mal comecei a leitura do meu mais novo "mother-fucker livro" e já encontrei a solução para nunca mais viver o terror que vivi quando tive que testar minha engenharia reversa do artigo sobre o Houaiss. Se trata de uma simples questão que não sei por que não sigo todas as vezes religiosamente: configure seus símbolos corretamente.
 
@@ -10845,7 +10845,7 @@ Bom divertimento!
 
 
 # Como rodar qualquer coisa como serviço
-2008-03-20 computer blog
+2008-03-20 blog
 
 Update 2026-02-20: há muitos anos troquei esta solução pelo "NSSM", que eu recomendo fortemente. Ele foi usado em produtos robustos e evita termos que manter código redundante para manter programas que não nasceram para ser serviços, mas preciso rodar independente da conta do usuário.
 
@@ -10887,7 +10887,7 @@ Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, qu
 
 
 # Quarto encontro C++
-2008-03-18 ccppbr blog
+2008-03-18 blog
 
 Para os desavisados de plantão, irá acontecer no dia 29 de março de 2008 o quarto encontro de programadores e aficionados C++. Mais detalhes no link anterior. Em suma, as palestras são estas:
 
@@ -10953,7 +10953,7 @@ Não sei se a maior parte do pessoal concordaria com a troca de nomes, mas achei
 
 
 # Depuração da MBR
-2008-03-24 computer blog
+2008-03-24 blog
 
 Dando continuidade a um artigo bem antigo sobre depuração da BIOS usando SoftIce, como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de ectoplasma na atmosfera, é possível que a máquina trave após o hot boot iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
 
@@ -11020,7 +11020,7 @@ Além da MBR, muitas vezes é preciso depurar a própria BIOS para descobrir o q
 
 
 # WinDbg a distância
-2008-03-26 computer blog
+2008-03-26 blog
 
 Acho que o que mais me impressionou até hoje a respeito do WinDbg é a sua capacidade de depuração remota. Não há nada como depurar problemas sentado confortavelmente na sua cadeira de programador em frente à sua mesa de programador.
 
@@ -11090,7 +11090,7 @@ O exemplo acima utilizou uma conexão TCP para montar o ambiente de depuração 
 Uma organização mais esperta dos ambientes de teste e desenvolvimento tomaria conta de outros problemas como símbolos e fontes com o uso de outras features poderosas do Debugging Tools como servidor de símbolos e servidor de fontes. Porém, a complicação envolvida na configuração desses dois me leva a crer que eles merecem um outro artigo. E é por isso que paramos por aqui.
 
 # Backup de pobre
-2008-03-28 computer blog
+2008-03-28 blog
 
 Update de 2026-02-20. Mantive este artigo pelo seu tom histórico, mas hoje em dia com o advento de storage, processamento e memória infinitos, não preciso no meu dia a dia me preocupar com estes detalhes na hora de fazer cópias de segurança: simplesmente rodo o 7z e jogo tudo para outro storage. Apenas quando se trata de algo na nuvem mantenho em pastas menores, mas em geral não se trata de binários. No futuro devo pensar em algo mais cloud based para manter backup de binários que irão ser apagados da internet dependendo do seu uso (estou me referindo a mídias, também). Futuro artigo: como usar torrent caseiro.
 
@@ -11187,7 +11187,7 @@ Fico feliz que tenha sido útil para você o inovador sistema de backup que se u
 
 
 # EPA-CCPP 4: nossa comunidade ganhando forma
-2008-03-29 ccppbr blog
+2008-03-29 blog
 
 Nesse último sábado ocorreu mais uma vez, como todos sabem, o Encontro de Programadores e Aficionados por C++, (in)formalmente apelidado de EPA-CCPP, de acordo com algumas conversas da nossa lista de discussão.
 
@@ -11259,7 +11259,7 @@ Vocês fez cada de surpreso incrédulo, foi isto o que vc fez na hora! E confess
 
 
 # Try-catch flutuante
-2008-04-03 computer ccpp blog
+2008-04-03 blog
 
 Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue e tive o prazer de conhecer em "EPA-CCPP 4: nossa comunidade ganhando forma".
 
@@ -11465,7 +11465,7 @@ PlanetaMessenger.org
 
 
 # Conversor de Houaiss para Babylon - parte 2
-2008-04-08 computer projects blog
+2008-04-08 blog
 
 Após algumas semanas de suspense, chegamos finalmente à nossa segunda e última parte da saga do dicionário Houaiss.
 
@@ -12063,7 +12063,7 @@ Se você não é, então terá que esperar pelo menos uns dois meses, depois que
 
 
 # Linux e o DHCP
-2008-04-11 computer blog
+2008-04-11 blog
 
 Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um servidor Linux.
 
@@ -12118,7 +12118,7 @@ Corrigido.
 []s
 
 # Aprendendo assembly com o depurador
-2008-04-11 computer blog
+2008-04-11 blog
 
 Além de servir para corrigir alguns bugs escabrosos o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar assembly! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.
 
@@ -12267,7 +12267,7 @@ Eu já usei esse método para tirar umas duvidas de asm, geralmente eu escrevo u
 
 
 # Guia básico de controles de código distribuído
-2008-04-15 computer blog
+2008-04-15 blog
 
 Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras versões de um projeto desenvolvido fora da empresa: falta de controle de código. Esse tipo de lapso pode consumir de horas a dias de tempo perdido, dependendo de em quantas cópias de máquinas virtuais ficou espalhado o código.
 
@@ -12419,7 +12419,7 @@ Esse homi é truculento mesmo.
 Thiago
 
 # Ode ao C++
-2008-04-21 computer ccpp blog
+2008-04-21 blog
 
 Era uma vez em uma troca de emails:
 
@@ -12555,7 +12555,7 @@ PS: Gostei da contextualização da mensagem de startup que você enviou ao grup
 
 
 # CSI: Crashed Server Investigation?
-2008-04-23 essays blog
+2008-04-23 blog
 
 O artigo de Jeff Dailey, The Digital DNA of Bugs Dump Analysis as Forensic Science (2026-02-12: não encontrei mais na web), em que ele compara a nossa atividade de "cientistas do debugging" com a atividade dos profissionais da análise forense, é exatamente o que eu penso sobre nossa profissão. Freqüentemente assisto à série CSI: Las Vegas e mais freqüentemente ainda uso os métodos científicos empregados pela equipe de Gil Grissom para resolver os problemas mais escabrosos que podem ocorrer em um sistema.
 
@@ -12592,7 +12592,7 @@ Para finalizar, uma frase do artigo original que resume tudo:
 Dmitry Vostokov imaginou siglas mais imaginativas (2026-02-12 seu artigo não está mais entre nós) e fiéis a todos os que depuram problemas em software, independente deste rodar em servidores ou máquinas de café. Além, é claro, de uma ótima dica de livro sobre análise forense. O significado da sigla neste post foi uma de suas sugestões. Thanks, Dmitry!
 
 # Seminário CCPP Portabilidade e Performance
-2008-04-25 ccppbr blog
+2008-04-25 blog
 
 Reserve sua cadeira. Está marcado para o último dia do mês de maio o primeiro seminário de nosso grupo nacional de programadores e aficionados por C e C++. É bom ou não é?
 
@@ -12629,7 +12629,7 @@ Essa é a estréia de dois palestrantes de uma só vez! Como um bom complemento,
 Além do aspecto genérico teremos uma pitada de matemática, como o uso de lookup tables e a otimização de algoritmos baseada em operações vetoriais. Ainda como um aspecto básico, mas importante, temos o uso eficiente da memória, muitas vezes entregue ao controle do sistema operacional, que nem sempre sabe bem o que o programa está fazendo.
 
 # A solução mais simples é usar a fonte, Luke!
-2008-04-29 computer blog
+2008-04-29 blog
 
 Seria bom se as coisas simples da vida fossem simples, não é mesmo? Ontem, sexta passada e quinta passada, no meio de outras tarefas "urgentes", tentava desesperadamente conseguir instalar o "Bazaar" na minha VM de desenvolvimento, um Fedora 8 todinho configurado.
 
@@ -12743,7 +12743,7 @@ Espero que esse projeto de Python em celulares dê muito certo; pois irá elevar
 []s
 
 # Acessando memória física no WinDbg
-2008-05-01 computer blog
+2008-05-01 blog
 
 Como muitos devem saber, acessar memória virtual no WinDbg é coisa de criança, assim como em todo depurador decente. Se estamos falando de kernel mode então, nem se fala! A memória virtual é parte integrante do sistema operacional. Podemos saber mais sobre isso na apresentação do Strauss sobre gerenciamento de memória no Windows (update 2026-02-12: infelizmente não mais disponível).
 
@@ -12858,7 +12858,7 @@ Também espero isso. Com relação aos protocolos suportados, o Bazaar possui um
 
 
 # Read The Functional Manual
-2008-05-07 essays blog
+2008-05-07 blog
 
 Percebi essa semana que talvez boa parte da população informática que não progride em suas habilidades, mas gostaria muito, pode ser impedida pela falta de hábito em ler a ajuda do programa | da linguagem | do sistema com calma para encontrar o que procura. Independente do que você é, e para onde quer chegar, saiba que nem tudo na vida pode ser perguntado ao seu colega de baia. Senão você não evolui!
 
@@ -13277,7 +13277,7 @@ Enfim, tudo que temos que lembrar durante um merge do Bazaar é ver os conflitos
 
 
 # Como Fazer Debug de User Mode pelo Kernel Mode
-2008-05-13 computer windbg blog
+2008-05-13 blog
 
 Existem algumas situações onde um depurador WYSIWYG é artigo de luxo.
 
@@ -13329,7 +13329,7 @@ Um tipo de problema que só pode ser depurado dessa maneira enfatiza a importân
 
 
 # Aquele do-while engraçado
-2008-05-15 computer ccpp blog
+2008-05-15 blog
 
 Nesses últimos dias andei conversando com um amigo que está estudando sistemas operacionais na faculdade. Melhor ainda, vendo o código real de um sistema operacional em funcionamento. A conseqüência é que, além de aprender um bocado de como as coisas funcionam de verdade debaixo dos panos, acaba-se aprendendo alguns truquezinhos básicos e tradicionais da linguagem C.
 
@@ -13555,7 +13555,7 @@ PS: MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nom
 
 
 # Aprendendo rapidamente conceitos essenciais do WinDbg
-2008-05-23 computer windbg blog
+2008-05-23 blog
 
 Todo o poder e flexibilidade do pacote Debugging Tools da Microsoft pode ser ofuscado pela sua complexidade e curva de aprendizagem. Afinal de contas, usar o depurador do Visual Studio é muito fácil, quando se começa a usar, mas mesmo assim conheço muitos programadores que relutam em depurar passo-a-passo, preferindo a depuração por meio de "MessageBoxes" ou saídas na tela. Imagine, então, a dificuldade que não é para quem conseguiu às duras penas aprender a tornar um hábito a primeira passada do código novo em folha através do F10 começar a fazer coisas como configurar símbolos e digitar comandos esdrúxulos em uma tela em modo texto. Para piorar a questão, existem aqueles que defendem o uso unificado de uma ferramenta que faça tudo, como um telefone celular. Eu discordo. Quando a vantagem competitiva de uma ferramenta sobre outra é notável, nada pior que ficar preso em um ambiente legalzinho que faz o mínimo para você, mas não resolve o seu problema de deadlock.
 
@@ -13603,7 +13603,7 @@ Existe uma "tradução para inglês" desse texto no saite do próprio Robert Kus
 
 
 # How to run anything as a service
-2008-05-27 computer english blog
+2008-05-27 blog english
 
 Update 2026-02-20: Many years ago I switched from this solution to "NSSM", which I highly recommend. It has been used in robust products and avoids having to maintain redundant code to support programs that weren't designed to be services, but need to run independently of the user's account.
 
@@ -13644,7 +13644,7 @@ Now, when we start Msvcmon service, the process cmd.exe will be create, that on 
 
 
 # Como criar uma LIB no Visual Studio
-2008-05-29 computer blog
+2008-05-29 blog
 
 Quando se está começando no ramo, alguns detalhes nunca vêm à tona para o programador novato. Ele simplesmente vai codando até se sentir satisfeito com o prazer que é proporcionado pela prática da arte dos deuses de silício.
 
@@ -13814,7 +13814,7 @@ Fico contente que o tutorial tenha sido útil para quem está começando. Essa f
 
 
 # Resultado do Seminário CCPP
-2008-06-03 ccppbr blog
+2008-06-03 blog
 
 Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
 
@@ -13996,7 +13996,7 @@ Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador 
 
 
 # Declaração x definição
-2008-06-06 computer blog
+2008-06-06 blog
 
 Uma diferença que eu considero crucial na linguagem C/C++ é a questão da declaração/definição (em inglês, declaration/definition). É a diferença entre esses dois conceitos que permite, por exemplo, que sejam criadas estruturas prontas para serem conectadas a listas ligadas:
 
@@ -14504,7 +14504,7 @@ O resultado:
 "Branches com replay"
 
 # Alinhamento de Memória Portável
-2008-06-18 computer blog
+2008-06-18 blog
 
 Update 2026-02-13. Hoje este post está desatualizado. O padrão C++ já fornece o comando alignas que permite fazer alinhamento de memória de maneira portável. Deixo publicado apenas como curiosidade para ambientes com compiladores menos privilegiados.
 
@@ -14619,7 +14619,7 @@ PS-reply: Mmmmm... bolo ou torta, ambos são deliciosos. Mamão eu não curto mu
 
 
 # É possível carregar duas DLLs gêmeas no mesmo processo?
-2008-06-21 computer blog
+2008-06-21 blog
 
 Um dos últimos artigos de Dmitry Vostokov, "Crash Dump Analysis Patterns (Part 64)" (e tenho que falar assim porque o cara escreve muito em pouco tempo) fala sobre os perigos de termos uma mesma DLL carregada duas vezes em um único processo, muitas vezes em versões diferentes. Para os observadores atentos como Dmitry esse é um perigo que muitas vezes temos que estar preparados. Para os espertinhos de plantão, a resposta padrão seria: "não vou me preocupar, porque o contador de instâncias cuida disso".
 
@@ -14898,7 +14898,7 @@ Para os "SourceSafers" de plantão: o Bazaar funciona como o Subversion sem lock
 
 
 # Primeiros passos na documentação de código-fonte usando Doxygen
-2008-06-26 computer blog
+2008-06-26 blog
 
 Comentários são essenciais em um código-fonte bem feito. O código pode até fazer milagres, salvar vidas e multiplicar pães, mas se não tiver um apóstolo eficiente que escreva um evangelho para ele, as pessoas não vão conseguir usar!
 
@@ -14981,7 +14981,7 @@ Vejamos:
 Existem diversos outros tipos de marcadores e com certeza você encontrará muita utilidade em outros. No entanto, esse é o basico que todo desenvolvedor do seu time deve saber para já começar a documentar suas funções.
 
 # Reflexão em C++
-2008-06-30 computer blog
+2008-06-30 blog
 
 O termo e conceito de reflection, muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.
 
@@ -15250,7 +15250,7 @@ Todos os componentes que disponibilizarem unidades de testes devem conter uma pa
 Acredito que este esboço esteja muito bom. É o modelo inicial que estou utilizando nos projetos da empresa e de casa.
 
 # Primeiros passos no VMware Workstation
-2008-07-10 computer blog
+2008-07-10 blog
 
 Como uma ferramenta essencial que uso todos os dias da minha vida de programador, sou obrigado a falar neste blogue sobre a VMware, ferramenta que tem me salvado algumas centenas de horas de depuração, testes e alguns cabelos brancos (a mais).
 
@@ -15477,7 +15477,7 @@ No momento, parabenizo-o pelo seu empenho e peço que dê uma garimpada no algor
 
 
 # O caso da função desaparecida
-2008-07-16 computer blog
+2008-07-16 blog
 
 Todos os projetos do Visual Studio 6 estavam compilando normalmente com a nova modificação do código-fonte, uma singela chamada a uma função da DLL iphlpapi.dll. No entanto, ainda restava a compilação para Windows 95, um legado que não era permitido esquecer devido ao parque antigo de máquinas e sistemas operacionais de nossos clientes.
 
@@ -15555,7 +15555,7 @@ Para sanar o problema, existem duas coisas que podem ser feitas:
 Nessa sessão de depuração você aprendeu como usar o Process Monitor para rastrear arquivos usados na compilação e como listar símbolos de LIBs que são usadas para lincar o programa.
 
 # Sobre padrões, ou o conhecido unresolved external
-2008-07-18 computer blog
+2008-07-18 blog
 
 "Sempre que nos deparamos com um problema que aos poucos vai consumindo o nosso tempo, tendemos a gastar mais tempo fazendo coisas inúteis que sabemos que não irá adiantar de nada."
 
@@ -15592,7 +15592,7 @@ Se a LIB não está cooperando, e der pouco trabalho, experimente incluir a fun�
 Sempre que nos deparamos com um problema que aos poucos vai consumindo o nosso tempo, tendemos a gastar mais tempo fazendo coisas inúteis que sabemos que não irá adiantar de nada. Às vezes fazer brute force pode dar certo. Outras vezes, seria melhor recomeçar a pesquisa e tentar entender de fato o que está acontecendo na compilação. Em outras palavras: gastar o seu tempo pensando pode ser mais produtivo do que agir instintivamente.
 
 # Aprenda a usar sua API
-2008-07-22 computer blog
+2008-07-22 blog
 
 É conhecido que uma das desvantagens de se programar diretamente em Win32 API é a dificuldade de se entender os parâmetros e o retorno das funções. Concordo em parte. Constituída de boa documentação, parte da culpa dos programas mal-feitos reside na preguiça do programador em olhar a documentação por completo. A Win32 API está longe de ser perfeita, mas pelo menos está razoavelmente documentada, e é na leitura atenta da documentação que iremos encontrar as respostas que precisamos para que o programa funcione.
 
@@ -15707,7 +15707,7 @@ Para os que quiserem ler a entrevista e/ou acompanhar as desventuras de um progr
 Update de 2020-03-14: estava corrigindo posts antigos e ao chegar neste fui verificar o blog do Rafael Becker. Ele havia parado por uns anos e voltou a postar em 2014. Fico feliz em saber que ele seguiu carreira e hoje trabalha com o que gosta. =)
 
 # Antidebugging using exceptions (part one)
-2008-07-28 computer projects english antidebug blog
+2008-07-28 blog english
 
 A debugger puts breakpoints to stop for a moment the debuggee execution. In order to do this it makes use of a well known instruction: int 3. This instruction throws an exception - the breakpoint exception - that is caught by the operating system and bypassed to the handling code for this exception. For debuggee processes this code is inside the debugger. For free processes this code normally doesn't exist and the application simply crashs.
 
@@ -15969,7 +15969,7 @@ In the next part we will se an alternative to make the code clearer and easy to 
 
 
 # Antidebugging using exceptions (part two)
-2008-07-30 computer projects english antidebug blog
+2008-07-30 blog english
 
 In the first article we saw how it's possible to spoof the debugger through exceptions and let the attacker lose some considerable time trying to unbind the program from the fake breakpoints. However, we saw also that this is a difficult solution to keep in the source code, besides its main weakness to be easily bypassed if discovered. Now it's time to put things easier to support and at the same time to guarantee tough times even if the attacker discover what is going on.
 
@@ -16171,7 +16171,7 @@ int main()
 Now we allow the antidebugging selection by call, what turns things much easier than to choose the protected points inside the code.
 
 # Antidebugging using the DebugPort
-2008-08-01 computer projects english antidebug blog
+2008-08-01 blog english
 
 When a debugger starts a process to be debugged or, the article case, connects to a already created process, the communication between these processes is made through an internal resource inside Windows called LPC (Local Procedure Call). The system creates a "magic" communication port for debugging and the debugging events pass throw it.
 
@@ -16327,7 +16327,7 @@ That's why thinking about the implementation is vital. Particularly the main poi
 This time I'm not going to say that there's a easy solution. Maybe because I haven't though enough about the problem. Ideas?
 
 # Antidebugging during the process attach
-2008-08-05 computer projects english antidebug blog
+2008-08-05 blog english
 
 The purpose of this protection is to detect if some debugger tries to attach into our running process. The attach to process operation is pretty common in all known debugger, as WinDbg and Visual Studio. Different from the DebugPort protection, this solution avoids the attach action from the debuggee program. In this case the protection can make choices about what to do on the event of attach (terminate the process, send an e-mail, etc).
 
@@ -16555,7 +16555,7 @@ Meu Deus, eu sou cego!"
 Fonte: "DriverEntry (Começar de Novo)" (2026-03-21 link quebrado)
 
 # Quando o navegador não quer largar um arquivo
-2008-08-13 computer blog
+2008-08-13 blog
 
 De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que faço questão de guardar para assistir mais vezes depois. O problema é que o meu Firefox ou, para ser mais técnico, o plugin de vídeo que roda em cima do meu navegador, não permite isso. Ele simplesmente cria um arquivo temporário para exibir o vídeo e logo depois o apaga, utilizando uma técnica muito útil da função CreateFile, que bloqueia o acesso do arquivo temporário e apaga-o logo após o uso:
 
@@ -16675,7 +16675,7 @@ Mais uma vez, os testes individuais (chamados de unit tests) são importantes pa
 Em empresas onde a qualidade de software é piada, essas duas atitudes podem salvar algumas vidas e projetos no meio do caminho, apesar de parar no meio das tarefas não ser uma das melhores práticas de um desenvolvimento sério.
 
 # Os processos-fantasma
-2008-08-20 computer blog
+2008-08-20 blog
 
 Estava eu outro belo dia tentando achar um problema em um driver que controla criação de processos quando, por acaso, listo os processos na máquina pelo depurador de kernel, após ter dado alguns logons e logoffs, quando me vem a seguinte lista de processos do Windows Explorer:
 
@@ -16901,7 +16901,7 @@ A partir daí, é só criar e matar várias instâncias do explorer.exe. Antes d
 Para listar os processos perdidos, basta usar o comando "!process 0 0" no WinDbg depurando em kernel. O resto você já sabe.
 
 # Bug no retorno do PathIsDirectory
-2008-09-10 computer blog
+2008-09-10 blog
 
 Estava eu outro dia programando aquele código esperto "para ontem" quando me deparei com uma situação no mínimo inusitada. Ao testar se um caminho recebido era de fato um diretório me foi retornado pela API um valor diferente de TRUE. E diferente de FALSE!
 
@@ -17035,7 +17035,7 @@ Ou seja, para pastas locais a função simplesmente usa a conhecidíssima GetFil
 Aqui termina nossa dúvida sobre o pequenino bug na documentação. E isso nos lembra também que é sempre bom comparar as coisas da melhor maneira possível. E essa melhor maneira em se tratando de ifs é supor apenas dois valores binário: ou é zero ou é não-zero.
 
 # Todo programador é um filósofo em potencial
-2008-09-12 essays philosophy blog
+2008-09-12 blog
 
 Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia e a lógica. O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que qualquer outro que já me surgira na cabeça desde que mexo com essas coisas: O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente.
 
@@ -17128,7 +17128,7 @@ E a propósito da discussão livros pequenos x livros gigantes, posso afirmar qu
 []s e obrigado pelo enriquecimento do assunto.
 
 # Reúna seus comandos mais usados no WinDbg com .cmdtree
-2008-09-19 computer blog
+2008-09-19 blog
 
 Tudo começou com o "artigo de Roberto Farah" sobre o comando "escondido" do WinDbg .cmdtree. Logo depois meus outros colegas do fã-clube do WinDbg "Volker von Einem" e "Dmitry Vostokov" (link apenas para membros) comentaram sobre a imensa utilidade desse comando. E não é pra menos. É de longe o melhor comando não-documentado do ano. Tão bom que sou obrigado a comentar em português sobre ele, apesar dos três artigos já citados.
 
@@ -17158,7 +17158,7 @@ Realmente não há segredos em seu uso. Esse artigo foi apenas um patrocínio do
 
 
 # V
-2008-09-23 ccppbr blog
+2008-09-23 blog
 
 Parabéns a todos que participaram e ajudaram para que todos nós chegássemos ao quinto encontro de programadores/aficionados C/C++. Parece mentira, mas hoje temos capacidade para lotar um auditório razoável, e temos a ousadia de sempre poder contar com uma grade de palestras pra lá de avançadas. Vejamos o que foi visto até hoje nesses últimos três encontros (III, IV e o seminário):
 
@@ -17226,7 +17226,7 @@ Cada vez melhores esses eventos. Meu sonho é um evento com o Raymond Chen como 
 
 
 # Windows Jobs com Completion Port
-2008-09-23 computer blog
+2008-09-23 blog
 
 Ou "Como esperar o término de todos os processos-filho criados a partir de um conjunto de processos".
 
@@ -17423,7 +17423,7 @@ Sua noção de que as idéias sempre "voltam à tona" faz muito sentido para mim
 
 
 # Impressões do quinto encontro de CCPP
-2008-10-07 ccppbr blog
+2008-10-07 blog
 
 Pois é, passou, acabou... e foi muito bom!
 
@@ -17641,7 +17641,7 @@ Amazing! 0_0
 
 
 # A Alça Dentro do Fio Gerou um Bloqueio da Morte
-2008-10-21 essays blog
+2008-10-21 blog
 
 Estava folheando um livro fenomenal que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções no mínimo curiosas. O exemplar em questão era o primeiro Windows Internals, publicado após o lançamento da primeira versão do Windows NT, uma plataforma escrita (quase) inteiramente do zero para suplantar as versões 9x (Windows 95 e 98), que herdaram do DOS algumas partes indesejáveis em sistemas operacionais modernos.
 
@@ -17727,7 +17727,7 @@ De fato, no meu dia a dia proclamo e reclamo sobre tudo em inglês, gastando tod
 
 
 # Como funciona o PsExec
-2008-10-29 computer blog
+2008-10-29 blog
 
 Semana passada precisei reproduzir o comportamento da ferramenta PsExec em um projeto, o que me fez sentir alguma nostalgia dos tempos em que eu fazia engenharia reversa todo dia. Este breve relato (espero) reproduz os passos que segui para descobrir o que esse programa tão útil quanto perigoso faz.
 
@@ -18152,7 +18152,7 @@ Não, não posso. Isso seria infringir os direitos de copyright do produto Houai
 
 
 # Básico do básico: ponteiros
-2008-12-06 computer blog programming_tag
+2008-12-06 blog
 
 Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da SCUA, aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como variáveis, até as coisas não tão triviais, como símbolos de depuração.
 
@@ -18203,7 +18203,7 @@ Nota: Não use as classes superiores de C++ nem referências. Estou falando de e
 O vídeo "Binky Pointer Fun Video C" é o mais didático do universo sobre como funcionam ponteiros em C. Veja e mostre pros seus filhos.
 
 # Básico do básico: tipos
-2008-12-12 computer blog programming_tag
+2008-12-12 blog
 
 Um tipo nada mais é que do que uma forma (ô) de bolo, que molda a memória como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito mais básico ainda.
 
@@ -18312,7 +18312,7 @@ Nada é bem aprendido se não for apreendido. Algumas tarefas programáticas que
 
 
 # Básico do básico: binário
-2008-12-18 computer blog programming_tag
+2008-12-18 blog
 
 Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de representação. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.
 
@@ -18524,7 +18524,7 @@ Essa nova versão do conversor do dicionário Houaiss para Babylon corrige o pro
 Nessa nova versão, além de procurar o caminho do dicionário no registro (desinstalador) e antes de pedir para o usuário o caminho correto é tentado o caminho padrão de instalação, %programfiles%\Houaiss. Se mesmo assim o dicionário não existir continuamos perguntando para o usuário, que tem a opção de dizer onde está instalado o dicionário no disco rígido ou apontar diretamente para o CD de instalação.
 
 # Básico do básico: assembly
-2009-01-26 computer blog programming_tag
+2009-01-26 blog
 
 É lógico que não poderia faltar no cinto de utilidades de todo bom programador C conhecimentos básicos da linguagem assembly, sua mãe espiritual. São tantos conceitos em comum que, uma vez aprendido seu funcionamento, fica difícil não pensar no código-assembly gerado pelo compilador C. E é nesse ponto que as coisas começam a ficar mais claras.
 
@@ -18644,7 +18644,7 @@ PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um "conjunto" "be
 
 
 # As funções-polegar
-2009-01-30 computer blog
+2009-01-30 blog
 
 Como já havia dito, não há nada mais prazeroso do que ensinar a alguém os velhos truques da profissão e relembrar o porquê de tantas coisas que guardamos na cabeça sobre programação. Hoje tive a oportunidade de explicar como funcionam as funções-polegar.
 
@@ -18726,7 +18726,7 @@ Contudo, bem observado que nem toda função guarda o último erro para o chamad
 
 
 # WinDbg.info
-2009-02-10 computer blog
+2009-02-10 blog
 
 Para os perdidos e desatualizados como eu, notei hoje que Robert Kuster possui um saite onde mantém diversas informações sobre o WinDbg; uma espécie de continuação de sua famosa transparência WinDbg. From A to Z.
 
@@ -18770,7 +18770,7 @@ Agora o alerta vai para a tradução em inglês do seu prefácio - obviamente, e
 
 
 # Resolvendo bugs quase impossíveis
-2009-03-05 essays blog
+2009-03-05 blog
 
 Quase todos os problemas do Universo são resolvidos depois de um belo dia de depuração, código comentado, descomentado, recomentado e umas muitas e boas doses de café. Alguns outros problemas mais cabeludos precisam de uma boa noitada na frente do computador, e mais café. E, finalmente, existem aqueles que nem tomando o estoque inteiro de café a coisa anda.
 
@@ -18856,7 +18856,7 @@ Para mim a coisa fica cabeluda quando surge o "em momentos aparentemente aleató
 
 
 # Construindo provas de conceito (PoC)
-2009-03-19 essays blog
+2009-03-19 blog
 
 Uma prova de conceito bem feita segue todos os passos em uma forma micro para entender e provar como as coisas irão funcionar no código de produção: a forma macro.
 
@@ -18891,7 +18891,7 @@ Por último, deve-se pensar sempre em todos os programadores da equipe desenvolv
 Por isso, desde a estagiária até o mocinho bicentenário merecem mexer em código fresco pelo menos uma vez a cada ciclo de desenvolvimento, que terminará com uma versão nova cheia de melhorias que foram testadas em suas respectivas provas de conceito. Provas de conceito que todos tiveram a honra de brincar um pouquinho.
 
 # Depurando até o último segundo
-2009-03-31 computer blog
+2009-03-31 blog
 
 Como depurar um programa que dá pau logo no final do desligamento de uma máquina?
 
@@ -19073,7 +19073,7 @@ Ufa, me causou tremendo alívio essa informação... meu buffer não comporta ma
 
 
 # A fila das threads
-2009-04-07 computer blog
+2009-04-07 blog
 
 Em um ambiente multithreading diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um pedacinho de código cada vez que passam pelo processador.
 
@@ -19244,7 +19244,7 @@ Esse wait do fluxo, ou seja, deixar a próxima thread aguardando a que chegou pr
 (1) Eu mesmo em meus testes não pude usar sleep passando zero como o tempo para dormir porque meu número de processadores não permite que eu faça esse experimento, já que sempre vão existir processadores dispostos a reprocessar a thread que acabou de ir para o final de sua fila.
 
 # Deixe o programador programar
-2009-04-09 essays blog
+2009-04-09 blog
 
 Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma série de desventuras (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.
 
@@ -19298,7 +19298,7 @@ Calado, amigo imaginário =)
 
 
 # A sala da fila das threads
-2009-04-17 computer blog
+2009-04-17 blog
 
 Quando falei sobre [a fila das threads], e como cada thread espera pacientemente em uma fila até chegar sua vez de ser atendida no guichê das CPUs, também vimos como é fácil fazer caquinhas em um programa que roda paralelamente duas threads ou mais.
 
@@ -19409,7 +19409,7 @@ Espero que tenha ficado claro nossa breve explanação de como podemos controlar
 
 
 # Como compilar em somente um passo
-2009-05-25 computer blog
+2009-05-25 blog
 
 Uma das primeiras perguntas do "teste do Joel" é saber se você pode compilar todo o projeto em apenas um passo. Essa é uma questão essencial e um desafio para muitas equipes. Perdem-se horas sagradas para gerar um novo Release.
 
@@ -19452,7 +19452,7 @@ Regras simples de ser seguidas se você usar sempre a máxima do "KISS".
 
 
 # Bugs Difíceis de Achar
-2009-06-18 computer blog
+2009-06-18 blog
 
 Saiu um artigo na Wired News sobre os piores bugs da história (2026-02-22 apenas para assinantes). Entre eles estão a explosão de um oleoduto soviético em plena guerra-fria (como se não bastasse chernobyl), o primeiro worm da Internet (que se aproveita de um buffer overflow da função gets) e o famoso erro de divisão em ponto flutuante do Pentium; um erro de cálculo de cerca de 0,006% que causou um prejuízo de 457 milhões de dólares para a Intel.
 
@@ -19584,7 +19584,7 @@ list<list<int> > // válido
 
 
 # Programadores de verdade não usam Java
-2009-06-18 essays blog
+2009-06-18 blog
 
 Quando era um newbie (e um wanna-be) gostava de ler o "Real Programmers Don't Use Pascal", um texto humorístico que mais me influenciou e encorajou a caminho da iluminação C/C++ do que o livro de K&R. A partir dele, supunha eu, ser um "programador de verdade" era ser tudo. Ser um Quiche Eater (Comedor de Torta) não era nada. Programadores de verdade é que resolvem os problemas de verdade! Quiche Eaters são os losers que estudam os conceitos acadêmicos da ciência da computação e nunca fazem um maldito programa que preste (conhece alguém assim?).
 
@@ -19623,7 +19623,7 @@ PS: Na verdade, me lembrei. Eu peguei esse cacoete de falar "quem sabe faz na ho
 Se você gostou desse texto, talvez goste de eXtreme Go Horse!
 
 # Como funcionam as strings
-2009-07-07 computer blog
+2009-07-07 blog
 
 Como já vimos centenas e centenas de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de dados. E dados são bytes armazenados na memória.
 
@@ -19642,7 +19642,7 @@ Agora note por que tanto uma string vazia em Pascal e em C possuem os mesmos dad
 Outras strings que não necessariamente possuem terminador nulo: std::string, UNICODESTRING, strings no kernel.
 
 # Polimorfismo estático
-2009-07-10 computer blog
+2009-07-10 blog
 
 Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:
 
@@ -19742,7 +19742,7 @@ int x Class::Property() const; // getter
 Bom, o que mais sua imaginação mandar =)
 
 # Static Polymorphism
-2009-07-10 computer english blog
+2009-07-10 blog english
 
 To explain the polymorphism nothing is better than see how stuff used to be. If you were a twenty old C programmer in the past and created the following functions:
 
@@ -19841,7 +19841,7 @@ int x Class::Property() const; // getter
 Well, whatever your imagination and needs demand =)
 
 # Name mangling
-2009-07-13 computer blog
+2009-07-13 blog
 
 A sobrecarga estática possui algumas desvantagens em relação ao sistema de nomes da boa e velha linguagem C: ela não foi padronizada entre compiladores. O que isso quer dizer na prática é que funções exportadas de bibliotecas dinâmicas (DLLs) vão possuir nomes diferentes dependendo do compilador utilizado (e sua versão). Isso é o que chamamos name mangling.
 
@@ -20024,7 +20024,7 @@ In this case, it follows bellow a brief description of my professional life, wit
 Perhaps I update this list frequently. Although I guess the rightest choice would be to update the list with articles about my every day "brushing bits" life . After all, I got a technical blog already!
 
 # O boot no Windows: sem Windows
-2009-08-18 computer blog
+2009-08-18 blog
 
 Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles fundos lindos de papel de parede existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do boot de uma máquina que possui Windows instalado (plataforma NT).
 
@@ -20095,7 +20095,7 @@ Se for detectar algum problema no sistema de boot baseado em MBR, então você t
 Se o problema for durante o carregamento do próprio sistema operacional, as mensagens de erro do loader são significativas. No entanto, pode-se usar o Debug mais uma vez e depurar essa parte, logo antes, é claro, do sistema entrar em modo protegido de 32 bits, o que daí já é outra história (que pretendo contar em breve).
 
 # O boot no Windows: pré-NTLDR
-2009-09-09 computer blog
+2009-09-09 blog
 
 Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro Windows Internals e escrito pelo nada mais nada menos Mark Russinovich: Boot Process, no capítulo 5, "Startup and Shutdown".
 
@@ -20295,7 +20295,7 @@ Enfim, todo esse assembly para fazer apenas uma coisa: achar o NTLDR na diretór
 
 
 # O boot no Windows: NTLDR
-2009-11-26 computer blog
+2009-11-26 blog
 
 Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.
 
@@ -20377,7 +20377,7 @@ Veremos nos próximos capítulos como podemos nos aproveitar do ntoskrnl.exe par
 
 
 # O boot no Windows: Kernel
-2009-12-04 computer blog
+2009-12-04 blog
 
 Finalmente chegamos em um ponto onde podemos usar o WinDbg.
 
@@ -20673,7 +20673,7 @@ Bom, esse artigo já devanou demais. E como meu objetivo nem foi chegar a uma co
 PS: Mensagens de feliz aniversário serão devidamente descartadas. Ah, e feliz ano-novo pra você, também.
 
 # Devaneio nerd rápido sobre profecias
-2009-12-30 computer blog
+2009-12-30 blog
 
 Para quem já analisou os dados de uma tela azul sabe que, quando o Windows acha um culpado (vulgo driver) a data de sua compilação é exibida em um formato conhecido como DateStamp ou TimeStamp. Nesse formato o que temos é um número hexadecimal que segue o "formato de tempo do Unix", que no caso é o número de segundos desde o dia primeiro de Janeiro de 1970. Isso, por curiosidade, nos dá uma margem de 140 anos antes dos número se repetirem se usarmos 32 bits nessa contagem.
 
@@ -20715,7 +20715,7 @@ Curioso, não? Mais curioso que isso, só sabendo que o ano que isso vai ocorrer
 
 
 # Importando tipos de outros projetos
-2010-01-11 computer blog
+2010-01-11 blog
 
 A engenharia reversa das entranhas do kernel não tem limites se você sabe o que está fazendo. No entanto, algumas facilidades do depurador podem ajudar a minimizar o tempo que gastamos para analisar uma simples estrutura. Por exemplo, o Process Environment Block de um processo específico.
 
@@ -20839,7 +20839,7 @@ Acho que não é preciso dizer que isso não serve apenas para kernel mode =)
 
 
 # Passagem por valor e emails com anexo
-2010-01-18 computer blog
+2010-01-18 blog
 
 Mais uma analogia vencedora para ponteiros, chamadas por valor e chamadas por referência: e-mails.
 
@@ -20898,7 +20898,7 @@ Essa técnica milenar corresponde em tirar pedaços do código-fonte que poderia
 Se o código começa a ser tão mutilado que chegamos quase em uma versão vazia (sem código), então talvez a melhor forma de atacar o problema seja criar um esqueleto que contenha apenas o código necessário para que ele não faça nada. Isso mesmo. Não fazendo nada, mas instalado. Com isso prova-se que é possível estar lá sem fazer cagadas. A partir daí vai colocando-se o código do projeto real aos poucos no projeto-esqueleto, até que ele apresente o problema. Ou não. Já vi casos em que todo o código foi migrado e o problema sumiu. Ce la vie.
 
 # Restaurando o registro
-2010-02-08 computer blog
+2010-02-08 blog
 
 Algumas ferramentas viram essenciais quando o importante é tempo. As minhas favoritas são: Visual Studio e batch. Com esses dois eu faço virtualmente qualquer coisa que preciso em pouquíssimo tempo. É lógico que, na ausência dessas, alternativas são bem-vindas, como Notepad++, viM, grep, cygwin.
 
@@ -21092,7 +21092,7 @@ Mas é claro que todo esse trabalho não valeria a pena se tivéssemos que (argh
 Depois de eu pesquisar toda essa trama, descobri que o uso do Project não será necessário. Sorte minha. Agora, se você não tiver sorte...
 
 # Novidades no Windbg 7
-2010-04-01 computer blog
+2010-04-01 blog
 
 Semestre que vem deve sair uma nova versão do nosso depurador favorito. Alguns atrasos e novas definições do projeto fizeram com que tivéssemos mais um ou dois releases da finada versão 6 antes da revolução que será o Depurador 2010.
 
@@ -21333,7 +21333,7 @@ Porém, fora a descrição contemplativa, a versão animada da imaginação de a
 O que nos leva ao impecável terceiro ato, que depois de nos conquistar completamente com personagens tão verossímeis quanto atores de carne-e-osso de um drama "live action", tem a proeza de criar momentos tensos e dramáticos entre os dois mesmo mantendo a distância física que os separa. "Mary e Max" não consegue explicar do que são formadas as amizades, mas consegue descrever com perfeição a amizade desses dois, o que para mim já vale por todos nós.
 
 # Typedef arcaico
-2010-04-20 computer blog
+2010-04-20 blog
 
 A "API do Windows" geralmente prima pela excelência em maus exemplos. A "Notação Húngara" e o Typedef Arcaico são duas técnicas que, por motivos históricos, são usados a torto e a direito pelos códigos de exemplo.
 
@@ -21611,7 +21611,7 @@ Eu não fiz meus testes, mas confio no diagnóstico de nosso amigo. A maior falh
 
 
 # Por que Long Pointer
-2010-04-21 computer blog
+2010-04-21 blog
 
 Esse artigo continua a explicação sobre os typedefs arcaicos, já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para minha pupila que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 
@@ -21700,7 +21700,7 @@ A escolha é livre. Assim como com o typedef arcaico.
 
 
 # Analogicamente perfeito
-2010-05-19 computer blog
+2010-05-19 blog
 
 É possível explicar tudo no mundo da informática através de analogias? Pela minha singela experiência de professor informal, eu acredito que sim. Durante esses dois anos, explanei diversos assuntos e, em todos eles, difíceis ou não, consegui um certo grau de sucesso graças ao uso de metáforas e parábolas.
 
@@ -21737,7 +21737,7 @@ Acredito ser essa a melhor forma de desmistificar esse pequeno mundinho que pare
 É por isso que sempre digo que ciência da computação é uma arte-ciência da área de humanas.
 
 # Modificadores e qualificadores de tipo
-2010-05-28 computer blog
+2010-05-28 blog
 
 "@caloni poderia pensar em fazer um artigo sobre os modificadores de tipo em c? os mais complexo, acho eu: volatile, enum, union, extern, etc"
 
@@ -21825,7 +21825,7 @@ Aqui não é um compêndio teórico sobre a linguagem. Vamos falar particularmen
 Nos leva a desvendar o mistério da trama recriando-o gradualmente em uma série de passos sutis, mas consistentes, que revelam em seu momento final um mosaico diferente na mente de cada espectador.
 
 # Enum
-2010-05-31 computer blog
+2010-05-31 blog
 
 Padrão C (ISO/IEC 9899:1990):
 
@@ -22019,7 +22019,7 @@ int main()
 Aviso para os programadores mais calejados, eu omiti propositalmente os parênteses obrigatórios para qualquer define que tenha cálculos matemáticos, para ilustrar que muitas vezes o que vemos antes não é o que aparece depois.
 
 # Const e Volatile
-2010-06-04 computer blog
+2010-06-04 blog
 
 Padrão C (ISO/IEC 9899:1990):
 
@@ -22142,7 +22142,7 @@ Ao ver a técnica de extrair almas é inevitável a comparação com o apagar de
 
 
 # Breakpoints promíscuos
-2010-07-26 computer blog
+2010-07-26 blog
 
 Eu chamo de breakpoints promíscuos aqueles que topam qualquer processo. Isso é muito simples de se fazer:
 
@@ -22194,7 +22194,7 @@ O screenshot diz tudo:
 Agora a parte mais divertida: experimente com outro notepad, ou com o explorer =)
 
 # Sétimo Encontro de Programadores C++
-2010-07-26 ccppbr blog
+2010-07-26 blog
 
 Mais um fim-de-semana no ócio e na vadiagem. Tenho que manter minhas "qualidades de bom programador" que sou: preguiçoso, impaciente e pretensioso.
 
@@ -22225,7 +22225,7 @@ Isso não quer dizer que vou deixar de ser programador. Acho que depois de dez a
 Dito isso, segue mais um ponteiro perdido pela rede.
 
 # Como achar o código-fonte sem símbolos
-2010-08-03 computer blog
+2010-08-03 blog
 
 Continuo escovando bits. Dessa vez de forma mais nervosa. Se trata de um serviço que trava durante seu stop. Um colega muito esperto do suporte gerou um dump para mim, tornando as coisas mais fáceis. O problema era que não havia símbolos nem código-fonte que batessem exatamente com aquela compilação de 2004. Solução? Analisar as pilhas das threads restantes.
 
@@ -22721,7 +22721,7 @@ A direção de Truffaut age e merece nota por sempre se utilizar dos enquadramen
 Mais que uma bela história, aqui podemos notar o que seria uma pitada de comédia francesa, com seus absurdos ao quadrado, porém sem perder nunca o tom da narrativa.
 
 # Gerando dumps automatizados
-2010-08-26 computer blog
+2010-08-26 blog
 
 Agora que a temporada das telas azuis passou estou às voltas com o nosso sistema de detecção de crashes, além de alguns dumps e logs pra relaxar de vez em quando.
 
@@ -22821,7 +22821,7 @@ Com algumas reviravoltas a mais, a narrativa estabelece de forma competente o au
 E se é crível a antipatia e praticidade demonstrada pela protagonista quando descobre que seu esconderijo foi profanado por uma penca de fotógrafos sedentos por escândalo, alterando totalmente seu comportamento com seu afeto, é tocante a cena em que ela tenta reatar o relacionamento se colocando não mais como uma atriz que deve defender sua imagem perante as câmeras, mas uma simples garota que deseja que alguém a ame.
 
 # Ofuscando strings
-2010-08-30 computer blog
+2010-08-30 blog
 
 Já fiz ofuscamento e embaralhamento de dados acho que umas três ou quatro vezes. Dessa vez, parti para o batidíssimo esquema de fazer o pré-processamento de um header com defines que irão virar estruturas reaproveitadas por uma função padrão que desofusca e ofusca aquela tripa de bytes em algo legível: a string original.
 
@@ -23094,7 +23094,7 @@ Uma das falas bordões, dita por Macu após o padrasto tentar usar a linguagem d
 No final do drama, a câmera foge do foco em Macu agonizando, fazendo uma voadora pelo Capão Redondo: essa história poderia acontecer em qualquer lugar, com qualquer um; ninguém ficou sabendo, e ninguém nunca sabe.
 
 # FormatMessage para... iniciantes?
-2010-10-26 computer blog
+2010-10-26 blog
 
 Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API "FormatMessage" é uma das criaturas mais bizarras já criadas.
 
@@ -23506,7 +23506,7 @@ Com uma fotografia pálida, amarelada, talvez prenunciando o fim dos dias do esc
 Mais uma cena igualmente emocionante, Meirelles e ele vendo o filme juntos.
 
 # Suporte técnico
-2010-11-05 computer blog
+2010-11-05 blog
 
 Esse artigo é pra mostrar que não é só de ifs e elses que vive um programador e que é bom colocar a mão na massa de vez em quando. O cenário: máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEY_CLASSES_ROOT. Resultado: ao rodar um script que abre uma segunda janela e tenta usar seu método focus é exibida a seguinte mensagem:
 
@@ -23639,7 +23639,7 @@ Mesmo que no filme exista uma sub-explicação pesquisada pela filha do casal, q
 E mesmo que a conclusão (que não vou revelar aqui) talvez peque pelo excesso, ela consegue convencer ao ponto de encontrarmos ligações com o primeiro filme, em uma espécie de lupa que não aumenta apenas o significado da história, mas a sensação de desconforto em sair da sala de projeção.
 
 # Patch de emergência
-2010-11-08 computer blog
+2010-11-08 blog
 
 Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo recorde, você e sua equipe estão aproveitando suas devidas férias nas Bahamas, tomando água de coco na sombra de uma palmeira e apreciando as belezas da região.
 
@@ -23731,7 +23731,7 @@ Reading 5f bytes.
 Atualizada a função, apenas nos lembramos de renomear o arquivo antigo e atualizar o novo para evitar reativar o problema. Agora podemos voltar para a apreciação das belezas da natureza...
 
 # Patch de emergência 2
-2010-11-09 computer blog
+2010-11-09 blog
 
 No [artigo anterior] fizemos um patch rapidinho na memória se aproveitando de um Sleep nojento que o código nos forneceu.
 
@@ -23836,7 +23836,7 @@ Não façam isso em casa, crianças ;)
 
 
 # II Seminário Portabilidade e Performance
-2010-11-12 ccppbr blog
+2010-11-12 blog
 
 Aqui estamos nós de novo. Mais uma vez a Tempo Real Eventos irá organizar esse evento de final de ano. E mais uma vez, junto dos meus amigos, irei palestrar sobre um item indispensável no nécessaire de todo escovador de bits: assembly gerado pelo compilador. Vamos falar brevemente sobre o funcionamento de um código assembly 32 bits e passar para a análise dos compiladores modernos e o que eles fazem para tornar o código ainda mais rápido do que o próprio fonte em C++.
 
@@ -24314,7 +24314,7 @@ Um corte preciso e orgânico; depois que ele prepara seu omelete, o vemos cortan
 A câmera sempre escolhe os melhores ângulos; quando ela avança a mão para cima dela na cena de sexo, por exemplo, se trata da mão com sua aliança de casada. Temos câmeras mostrando ele por baixo e ela por cima, com representações significativas de ambos, mais dele, pela sua experiência heterossexual.
 
 # Pós-II Seminário Portabilidade e Performance
-2010-12-21 ccppbr blog
+2010-12-21 blog
 
 O nosso seminário da semana retrasada sobre portabilidade e performance teve um clima mais familiar, lembrando os antigos eventos. O tamanho menor da sala, aliado ao fato dos palestrantes não precisarem usar microfone, como foi da última vez, fez com que houvesse mais interação com o público, com destaque para minha própria palestra, onde tivemos um hiato significativo para falar sobre o desempenho da classe std::string e outros assuntos mais obscuros.
 
@@ -24452,7 +24452,7 @@ Com uma trilha sonora e movimentos de câmera que privilegiam a contemplação, 
 Nesse sentido, a cena final do casal, imortalizada com a troca de cores da sensível fotografia, representa muito mais que um momento. O "Obrigada" de Elsa dito a Fred simboliza a gratidão por tornar este momento especial, mesmo que o gato não seja branco, mesmo que não dure para sempre.
 
 # Dependência pedindo carona
-2011-01-04 computer blog
+2011-01-04 blog
 
 Update de 2026-03-13. Este artigo só se aplica a versões do Visual Studio daquela época. Hoje o compilador detecta "código morto" e o retira seletivamente (mesmo em Debug). Dessa forma, nenhum dos testes feitos aqui, caro leitor, serão reproduzidos na versão mais nova do linker. A não ser que você force um comportamento paleozoico :).
 
@@ -24609,7 +24609,7 @@ Agora a aplicação poderá rodar em paz naquele que é, como diz meu amigo, um 
 
 
 # Reunião de programadores C++ (há 5 anos)
-2011-01-12 ccppbr blog
+2011-01-12 blog
 
 Começo de ano, hora de fazer backup completo. Durante minha cópia anual do gmail acabei encontrando meu post-chamado para nossa primeira reunião C++. Como parte da sessão nostalgia, convido-os, novos e velhos colegas, a continuar a brincadeira de organizar uma reunião informal de pessoas que gostam tanto de programar que criam seus próprios ponteiros.
 
@@ -24653,7 +24653,7 @@ Já não é tão importante no final se ela é culpada ou não, pois sequer nos 
 E se o beijo do filho no final do filme soa piegas, é por pura necessidade de fechar os arcos lançados no decorrer do filme.
 
 # Esse ponteiro vai até onde?
-2011-01-17 computer blog
+2011-01-17 blog
 
 Brincando com obtenções e conversões de SIDs, tive uma pequena dificuldade de usar a função ConvertStringSidToSid, de Sddl.h. Seu objetivo é receber uma string-SID no formato usado pela ferramenta PsGetSid e retornar uma sequência de bytes de tamanho arbitrário, que é o SID como o sistema o enxerga. Como ela retorna apenas o ponteiro final, do tipo PSID, o que parece fácil pode se tornar tricky se quisermos copiar o SID binário para algum buffer na pilha, já que não sabemos o número de bytes no buffer de origem. Tudo que sabemos é que, após o uso, devemos desalocar essa memória retornada pela API com outra API: LocalFree.
 
@@ -24666,7 +24666,7 @@ Sempre que me vejo com problemas desse tipo procuro informações primeiro  no p
 A partir de LocalHandle posso obter o HANDLE para a memória alocada localmente. Com esse handle a API me dá outra função, LocalSize, de onde posso obter o tamanho da memória previamente alocada através do seu handle. Isso é ótimo, pois em um primeiro momento pensei não haver saída, como nas funções de alocação em C e C++, por exemplo.
 
 # Atividades extracurriculares
-2011-01-18 essays blog
+2011-01-18 blog
 
 Essa é uma resposta a um simpático e-mail de um leitor, o Fabio, me perguntando sobre a tal da lógica (de programação?) e das atividades que um programador pode ter quando está longe do micro para não ficar com a "mente vadiando".
 
@@ -24796,7 +24796,7 @@ Com uma visão tanto realista quanto supersticiosa, o filme nos leva a uma prete
 Mas não só de males invisíveis o filme é feito. Com diálogos razos que apenas vão estabelecendo o convívio entre os participantes da jornada, o filme não-Disney não nos poupa de momentos tenebrosos, chegando ao ponto da competente maquiagem e som tornarem quase possível a crença em um ser demoníaco, e o medo que isso acarreta.
 
 # Mudança
-2011-02-07 computer blog
+2011-02-07 blog
 
 Nota do futuro (2026-03-13). Vejo que esta mudança de segurança da informação para mercado financeiro me trouxe uma folga necessária para me dedicar também aos estudos sobre cinema, o que irá se revelar daqui pra frente com posts mais frequentes sobre sétima arte e posts menos frequentes sobre meu trabalho no dia a dia Se você chegou até aqui meu muito obrigado. Espero continuar a organizar meus insights técnicos em índices simples para você acompanhar artigos com foco em algo específico que tenha em mente, como debugging, reversing ou, quem sabe, cinema mesmo, do ponto de vista de um programador das antigas.
 
@@ -24930,7 +24930,7 @@ E por falar em espelhos, eles são primordiais na construção da própria perso
 *Dono de um invejável controle sobre a profundidade crescente com que trata os distúrbios emocionais de Nina, cada vez mais afetada pela pressão que a cerca de todos os lados, o roteiro, além de usar um modelo que difere do usual em filmes do gênero, ainda aposta acertadamente na inteligência do espectador para juntar as pontas conforme caminhamos para o desfecho.*
 
 # VTable
-2011-03-01 computer blog
+2011-03-01 blog
 
 Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um "hookzinho nos métodos de um componente COM". Mas só.
 
@@ -25038,7 +25038,7 @@ Algumas "features" avançadas que é bom saber:
 - Existe uma versão em .NET que fiz na época que estudava C#. Felizmente eu perdi esse projeto.
 
 # Base64
-2011-03-09 computer blog
+2011-03-09 blog
 
 No meio dos meus artigos pendentes, encontrei esse, de Luiz Rocha, que fala sobre a dificuldade de entender o que seria Base64:
 
@@ -25229,7 +25229,7 @@ O que temos, então, é um apanhado de situações engraçadas que se sucedem co
 Divertido por dentro e por fora. Aprecie com moderação.
 
 # Houaiss no Kindle
-2011-03-22 computer projects reversing_tag blog
+2011-03-22 blog
 
 O blogue de José Ribeiro Pena Neto, aparentemente recém-criado, conseguiu utilizar minha solução de conversão do dicionário Houaiss para Babylon em algo mais incrívei ainda: converter, em alguns passos, a base de dados do Houaiss para o Amazon Kindle.
 
@@ -25558,7 +25558,7 @@ A trilha sonora (e os efeitos, também) são dignos de nota, pois conseguem home
 Um filme ágil com um tema inesperado. Mais uma pena para os espectadores que não conseguem tentar algo novo de vez em quando.
 
 # Sem reflection
-2011-05-18 computer ccpp blog
+2011-05-18 blog
 
 Em C++ não temos (ainda) a possibilidade de listarmos, por exemplo, a lista de métodos de um determinado tipo, a fim de chamá-lo pelo nome em tempo de execução. Algo assim:
 
@@ -25681,7 +25681,7 @@ Confesso que muitos dos diálogos e "aparições" de Jennifer me pareceram ser u
 Isso quer dizer que fica muito difícil defender um filme que abre planos para colocar atores pendurados por cabos ou encharcados de molho de tomate e ainda assim soar realista. De qualquer forma, a fotografia do filme colabora em muitos enquadramentos noturnos, onde vemos Jennifer e Needy sozinhas em uma imensidão de cenário tenebroso. (Aliás, é divertido lembrar que a maioria desses cenários está molhado para garantir a iluminação adequada na filmagem, mas sem uma desculpa razoável no roteiro, como chuva, por exemplo.)
 
 # Comparando strings no WinDbg
-2011-05-22 computer blog
+2011-05-22 blog
 
 O WinDbg fornece aos programadores diversos meios (muitos redundantes) de comparar valores inteiros em quaquer lugar da memória, em qualquer tamanho (8, 16, 32, 64 bits). Porém, menos tamanhos arbitrários, que é o que acontece quando precisamos comparar strings, em geral seguindo o padrão em C, com o zero terminador mas sem um contador de caracteres. De qualquer forma, não é possível comparar streams ilimitadas de bytes. Estamos presos aos 64 bits máximos.
 
@@ -25931,7 +25931,7 @@ Porém, pelo menos essa nova versão de Jack Sparrow se entrega novamente ao aut
 Infelizmente, apenas isso não sustenta uma narrativa no mínimo interessante.
 
 # Cronogramas baseados em fatos reais
-2011-06-04 essays blog
+2011-06-04 blog
 
 "Já falei sobre cronogramas" por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que "li um pouco mais sobre técnicas XP e Scrum" (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
 
@@ -26211,7 +26211,7 @@ Também poderia bater na mesma tecla da edição de som, que orquestra, na cena 
 Meu único pensamento é o testemunho de que, mesmo hoje vista como supervalorizada, a produção de Psicose continua sendo, sem sombra de dúvida, um clássico a ser visto e revisto por qualquer pessoa que ame e se interesse por cinema. É passagem obrigatória, com certeza.
 
 # TDC 2011
-2011-06-30 ccppbr blog
+2011-06-30 blog
 
 Se você gosta do tema e possui dúvidas a respeito, ou gostaria de mais detalhes sobre outros projetos, não deixe de comparecer. Antes e depois da palestra estarei disponível para conversarmos. O mais interessante de termos uma trilha em C++ é reunir pessoas envolvidas em torno da linguagem, não importando muito a área. Somos um grupo pequeno, e é importante que tenhamos um contato mais próximo de vez em quando.
 
@@ -26365,7 +26365,7 @@ Olhando dessa forma o filme (e ele nos faz enxergar assim), temos a sua trama pa
 Só que não é só de imagens que vive o cinema. Sim, um filme é uma sequência de imagens inicialmente desconexas, mas que, ao serem editadas, se transformam em linguagem, possuem respiração própria e contam a história que quiser. Aqui há apenas as imagens desconexas e só. Sozinhas, elas possuem o efeito vitrine que comentei, mas juntas, elas não revelam nada. Apenas uma longa, e angustiante, experiência.
 
 # E foi-se o TDC
-2011-07-07 ccppbr blog
+2011-07-07 blog
 
 Dessa vez, talvez pelo dia de semana, havia poucos participantes. Isso, contudo, não evitou que o conteúdo e a qualidade das palestras fosse, como sempre, de alto nível.
 
@@ -26449,7 +26449,7 @@ Não é fácil se separar de personagens que acompanhamos de longa data. Para os
 A ideia de um epílogo já existia no livro original, e no filme ficou com a impressão não muito discreta da possibilidade de novas histórias baseadas em uma suposta segunda geração. Mesmo não sendo uma promessa, há o apelo comercial, e se vier, não terá sido uma má ideia. Quando se cria um universo tão rico como esse, a sensação que fica é a de que a mágica desse mundo nunca pode acabar.
 
 # Cuidado com variáveis temporárias
-2011-07-26 computer blog
+2011-07-26 blog
 
 Um dos problemas que a linguagem C++ possui para seus iniciantes é o de não deixar muito explícito partes do seu comportamento, principalmente as partes que lidam com ponteiros ou referências e o jogo da vida dos objetos. Às  vezes a coisa fica de tal como complexa que fica até difícil explicar o porquê das coisas.
 
@@ -26554,7 +26554,7 @@ Particularmente, gosto de instruções simples que me permitam ver claramente o 
 
 
 # Depuração de emergência
-2011-07-26 computer blog
+2011-07-26 blog
 
 O programa está rodando no servidor do cliente, que é acessível por sessão remota do Windows, mas de repente ele capota. Existem aí duas possibilidades fora o debug remoto (que, nesse caso, não é possível):
 
@@ -27275,7 +27275,7 @@ Bobo e infantil do começo ao fim, ao menos possui coerência interna, e uma sel
 
 
 # Depuração de emergência: receita de bolo
-2011-10-18 computer blog
+2011-10-18 blog
 
 Continuando o papo sobre o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg, na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
 
@@ -28786,7 +28786,7 @@ Na verdade, o aspecto de um filme noir é exatamente o oposto, e é isso que cau
 Engraçado mais pela situação do que pelas tiradas cômicas, ainda que elas existam moderadamente, Cliente Morto é uma mistura de dois gêneros que funciona parcialmente em ambos. Talvez o detetive de Martin não tenha envelhecido bem, como tantos outros noir fora de seu tempo.
 
 # Header Inútil
-2012-03-27 computer blog
+2012-03-27 blog
 
 O Visual Studio é uma ótima ferramenta para depurar rapidamente programas sendo desenvolvidos e ~~para editar vários arquivos ao mesmo tempo~~ para o resto usamos Vim. No entanto, a versão 2010 do ambiente (ainda não testei a 2011 beta) possui um pequeno deslize com sua árvore de dependências que não chega a prejudicar o desenvolvedor, mas o deixa com um bug atrás da orelha.
 
@@ -29255,7 +29255,7 @@ Assassinato em Manhatan é passado e batido, mas consegue divertir sem ofender o
 Existe uma forma de configurar o Windows para que todo crash que ocorrer na máquina gere um dump em uma pasta específica. Há opções como tamanho do dump e máximo de arquivos mantidos nessa pasta.
 
 # Consumo abusivo de memória
-2012-05-19 computer blog
+2012-05-19 blog
 
 Era um belo dia em um ambiente de processamento fictício de filas fictícias e threads fictícias. Eis um belo código com filas, threads e processamentos feitos em stop-motion:
 
@@ -29457,7 +29457,7 @@ Funções/classes usadas nesse artigo: "CreateThread" (cria uma nova linha de ex
 
 
 # Sobrecarga de função às avessas
-2012-05-20 computer ccpp blog
+2012-05-20 blog
 
 Nota do autor: navegando pelo Archive.org, que possibilita viajar no tempo e encontrar coisas enterradas que seria melhor deixar por lá, consegui encontrar um post que se perdeu na dobra espaço-temporal entre o old-fashioned Caloni.com.br (com direito à velha joaninha psicodélica, desenho do meu amigo que uso até hoje no blogue) e um finado outro domínio meu, o CThings. No final, consegui matar a marmota, chegar a "80 milhas por hora" e voltar para o presente. Enjoy!
 
@@ -32727,7 +32727,7 @@ Por tudo isso, "South Park - maior, melhor e sem cortes" é imperdível. Quem pe
 
 
 # Ponto Flutuante Afundando
-2013-11-07 computer blog
+2013-11-07 blog
 
 Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 ("até a Calc do Windows" (2026-03-28 link quebrado) e "o Excel" funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
 
@@ -33146,7 +33146,7 @@ O filme ganha fôlego nesse mergulho de Freeman no mundo dos sonhos. Ele encontr
 O filme perde fôlego ao tentar diminuir cada vez mais a barreira sonho/realidade. É interessante, mas não tanto quanto as sensações de uma vida que jamais será vivida. Ou quem sabe seja esse o objetivo: mostrar como os sonhos representam tudo de melhor em nossa existência. Tal como os filmes.
 
 # remove_if até remove, só que diferente
-2014-01-21 computer blog
+2014-01-21 blog
 
 A surpresa de hoje foi descobrir (vejam só) que o remove_if, como todo algoritmo da STL, deve ser olhado de perto antes de usado. Nesse caso em específico porque, apesar do nome, a função NÃO remove elementos, mas os sobrescreve.
 
@@ -33494,7 +33494,7 @@ Porém, essa tarefa é até simples comparada a uma maior e mais complexa: inter
 Pelo menos até que nossa visão moral durma com a consciência tranquila.
 
 # Houaiss para Babylon em Python!
-2014-02-27 computer projects blog
+2014-02-27 blog
 
 O "Fabio Montefuscolo" expandiu mais ainda o acesso do conversor Houaiss para Babylon implementando uma versão em Python, uma linguagem que estou aprendendo a adorar. Tudo é mais simples, rápido e direto em Python, e o código que ele escreveu utiliza todo esse potencial:
 
@@ -33743,7 +33743,7 @@ Tecnicamente o filme também peca em sua edição que acaba revelando em diverso
 No entanto, há uma longa sequência que envolve um personagem inusitado no mar e que pode render alguns momentos mais empolgantes, apesar de assim que ele termina nos lembramos que a empolgação veio apenas da ação sendo vista naquele momento, e não de uma construção que se baseia nos alicerces do roteiro. Alicerces esses, pelo visto, construídos também em barquinhos flutuando pelo mar grego.
 
 # A moda agora é levar lambda na função
-2014-03-28 computer ccpp blog
+2014-03-28 blog
 
 A nova moda de programar C++ nos últimos anos com certeza é usar lambda. Mas, afinal, o que é lambda? Bom, pra começar, é um nome muito feio.
 
@@ -33893,7 +33893,7 @@ Jack é um homem treinado para proteger a Terra, mas parece incapaz de enxergar 
 O resto da história segue um plágio (na melhor das intenções, espero) mais ou menos bem definido entre O Vingador do Futuro, Wall-E, 2001, Planeta dos Macacos e continuações. Por não conseguir definir sua própria personalidade, o filme é sabotado em sua narrativa, que simplesmente acompanha o protagonista para o previsível embate, pelo qual nunca tememos (afinal de contas, é o Tom Cruise ali!).
 
 # Lambda: o Retorno!
-2014-04-08 computer blog
+2014-04-08 blog
 
 Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sobre como C++ agora permite criar funções dentro de funções. Hoje vamos apenas falar que aquela construção bizarra que criamos fica ainda mais bizarra se precisarmos retornar alguma coisa dessa função ou usá-la mais de uma vez.
 
@@ -34524,7 +34524,7 @@ Boa parte da culpa vem das decisões dos diretores Laura Gabbert e Justin Schein
 Mesmo assim, em tempos de poluição e de catástrofes anunciadas, qualquer mensagem de esperança, qualquer sinal de como podemos melhorar nosso consumismo desenfreado, sempre será boa notícia. Por isso No Impact Man pode servir de ao menos uma breve reflexão sobre o que estamos fazendo nesse exato momento que pode estar impactando negativamente a nossa breve estadia nesse planeta.
 
 # Que geleia de mocotó
-2014-04-29 computer blog
+2014-04-29 blog
 
 A primeira bateria de problemas da segunda fase do Code Jam me mostrou o porquê do seu nome: meu cérebro ficou feito geleia (ha ha ha). Não consegui resolver nenhum problema a tempo, mas não culpo o C++, que passei a usar para essa fase. É burrice aliada a pressão. Duas horas e meia para entender um problema é o tipo de coisa que me deixa pensando mais no tempo do que no problema. Tenho que melhorar isso.
 
@@ -34683,7 +34683,7 @@ Será que não temos mais tantos conflitos existencialistas como antes, quando t
 Os habitantes de Nova York já estão habituados a se apinharem educadamente atrás das quase presentes barreiras de metal colocadas estrategicamente em torno de mais um embate entre o Aranha e mais um dos seus arqui-inimigos. Eles aplaudem, festejam, comem pipoca. Nós também. (...) Um ser humano que morreu (ainda que fictício), e a única coisa que conseguimos prestar atenção é na beleza da cena? (...) O resumo dessa obra de 144 minutos: visualmente belíssima, espiritualmente vazia.
 
 # Poker Face
-2014-05-06 computer blog
+2014-05-06 blog
 
 O segundo round da segunda fase do Code Jam passou nesse sábado. Disléxico que sou, consegui fazer apenas 8 pontos -- como todo mundo -- no teste small do problema B, que envolvia apenas dois loops aninhados (a versão large fica para outro post). Na verdade, estou aqui para expressar minha gratidão ao campeonato por ter aprendido mais uma bela lição vendo o código do primeiro colocado do primeiro round, vulgo Kaizero, um coreano que deu uma solução simples, rápida e prática para um problema de probabilidade tão error-prone que até os juízes do Google deram uma lambuja de alguns testes errados (sem contar que houve apenas a categoria small), e me fez pensar em quantas vezes pensamos em demasiado tentando encontrar a solução perfeita para algo que simplesmente... não precisa.
 
@@ -34918,7 +34918,7 @@ Porém, nada disso seria possível sem a total entrega de Denis Lavant, que faz 
 Por tudo isso Holy Motors é passagem obrigatória dos cinéfilos. É um filme sobre Cinema, para o Cinema e com uma carga crítica que pode ser revisitada várias vezes. Nada que está ali é verdade, e tudo, ao mesmo tempo. Isso é o que torna cada segundo dessa experiência uma revisita ao nosso sistema de suspensão de descrença, nosso pulmão para respirar o ar da Sétima Arte.
 
 # Estruturas VS Classes: fight!
-2014-05-20 computer blog
+2014-05-20 blog
 
 Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como class e um objeto declarado como struct. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave class para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:
 
@@ -35108,7 +35108,7 @@ Seu maior medo é que as pessoas confundam o cheiro que vem de um ralo defeituos
 Elevando o filme ao patamar filosófico a cada vez mais objetificar cada traço de sua existência em seu escritório amplo e empoeirado, a direção e roteiro de Heitor Dhalia deixa claro que Selton Mello representa tudo que há de ruim no materialismo, sendo que esse tudo nada mais é do que menosprezar o intangível. Mas será verdadeiro que os sentimentos não têm preço? A maior virtude do filme é nos fazer questionar o valor até das coisas mais abstratas, e pensar se, no fim das contas, não estamos a todo momento tentando barganhar um pedacinho de vida aqui e ali, para que no final, morramos no lucro.
 
 # SS
-2014-06-03 computer blog
+2014-06-03 blog
 
 Uma das coisas mais cretinas e difíceis para os iniciantes em C++ é conseguir formatar strings de maneira fácil, rápida e indolor. Infelizmente, a biblioteca de printf da linguagem C está fechada para reforma, pois ela é extremamente error-prone e não-intuitiva. Porém, se a printf é não-intuitiva, o que dizer < < daqueles << sinais << de << flechinhas apontando para cout? Bem melhor, não?
 
@@ -35271,7 +35271,7 @@ Esqueçamos as atuações -- exceto a de Bill Paxton, excelente -- e foquemos na
 Conseguindo de fato transformar toda a experiência em uma espécie de vídeogame apenas acompanhamos Cage (Cruise) aprendendo a lutar em uma guerra e a dar valor aos soldados que lutaram em seu lugar (Cage começa no filme mais como um publicitário do que um militar), o que é um arco razoável. A tensão aumenta um pouco mais para o final, quando um acontecimento já previsto ocorre, mas sofre com a falta de comprometimento com suas premissas básicas. Viagem no tempo é um tema fascinante e pode dar muita liberdade narrativa, mas uma vez que suas regras são lançadas, fica difícil se livrar da maldição auto-lançada.
 
 # Eles querem que a GINA vá embora
-2014-06-11 computer blog
+2014-06-11 blog
 
 Fui convidado pela Fernanda Saraiva do programa de MVPs da Microsoft Brasil a falar sobre alguma história a respeito da evolução do Windows e como isso impactou minha experiência profissional. Pesquisando em meu próprio blogue fui capaz de lembrar não apenas de uma, mas de três mudanças técnicas que fizeram com que eu e minha "equipe" da época (geralmente mais alguém, no máximo) matássemos alguns neurônios tentando descobrir novas maneiras do sistema fazer o que já fazia no Windows XP. Irei compartilhar uma por vez no que tem sido o meu post semanal que eu apelidei carinhosamente de Post da Terça. Já faz mais de um mês que consigo publicar pelo menos na terça algo de novo, e espero manter esse ritmo.
 
@@ -35405,7 +35405,7 @@ A história gira em torno de uma menina misteriosa, acontecimentos no quarto do 
 O melhor terror sempre é o que existe em nossas vidas comuns e passáveis. Da rotina do dia a dia sempre haverá um Dogville na vizinhança, mesmo sem sabermos que isso existe. A questão é que o fato de existir um Dogville não implica que exista um Amor Além da Vida. Infelizmente, assim como no mundo real, as coisas no mundo sobrenatural podem não ser tão simples como nossa mente deseja acreditar.
 
 # Dando cabo do WinDbg
-2014-06-18 computer blog
+2014-06-18 blog
 
 Na semana passada falei sobre a ideia de comentar algumas mudanças entre o Windows XP e o novo mundo Vista/7/8/ que fizeram com que adaptássemos algum código que obviamente não funcionaria mais. Falamos sobre a famigerada GINA (ou famiGINADA), e agora apenas vou comentar brevemente sobre o sistema de boot, que também mudou.
 
@@ -35465,7 +35465,7 @@ O que comprova ser um folclore, e ainda infantil, é o uso de uma raça alieníg
 Observe a leveza, a pureza e a ingenuidade contidas na paleta de cores, nas silhuetas, nos diálogos e até no tom das vozes. O ritmo acelerado de cada história, cada uma previsível, ou quase. A moral varia conforme a história, e os atores muitas vezes relutam em mudar. Parábolas da vida, que estamos acostumados a ouvir, mas cujo significado foge no momento da análise.
 
 # Se iterando com os pseudo-ponteiros: uma breve introdução
-2014-06-24 computer blog
+2014-06-24 blog
 
 Como já vimos algumas vezes, a STL não prima por interfaces intuitivas, preferindo abstrações que criem um leque de ferramentas genéricas para tratamento uniformizado de coleções de dados através de algoritmos. O problema disso é que novos programadores da linguagem terão que aprender uma maneira nova de lidar com problemas baseada na percepção dos criadores do padrão na época em que foi lançado de como seria a evolução da ciência da computação nos próximos anos. Muitos dos conceitos ali abordados realmente se tornaram padrão de facto, mas na briga pela expansão da linguagem quem perdeu por muito tempo foi o próprio desenvolvedor, que teve que se contentar com uma lista de algoritmos genéricos parcialmente compilado.
 
@@ -35530,7 +35530,7 @@ Da mesma forma, operações como cópia, movimentação, ordenação, caotizaç�
 
 
 # Introdução à Introdução à Computação
-2014-07-01 books computer blog
+2014-07-01 blog
 
 O livro começa lá nos primórdios da informação, antes mesmo da humanidade. Sim, pois informação não necessita sequer de um ser sensciente para ser transmitida e utilizada, como já foi comprovado através de nosso código genético, o agora-popular-por-causa-do-ratinho DNA. Uma informação codificada intrinsecamente no processo de reprodução das células de um ser vivo. Um computador orgânico!
 
@@ -35559,7 +35559,7 @@ Nosso foco é oferecer consultoria, suporte e desenvolvimento especializado para
 
 
 # TDC 2014
-2014-07-08 ccppbr blog
+2014-07-08 blog
 
 O programador C/C++ de médio e baixo nível em Windows precisa estar familiarizado com as potencialidades de suas ferramentas de trabalho. Entre elas, o WinDbg é de longe o mais completo e complexo, além de ser quase desconhecido pela comunidade.
 
@@ -35580,7 +35580,7 @@ O TDC continua sendo esse evento com muitas trilhas, mas que tem como virtude re
 Então é isso. Garanta seu ingresso, faça networking, assista as palestras do seu interesse e pode me procurar durante o dia para tirar dúvidas sobre qualquer assunto relacionado a C++ e coisas que já mexi.
 
 # TDC 2014: Segurança
-2014-07-16 ccppbr blog
+2014-07-16 blog
 
 Nesse TDC, além da minha palestra usual na trilha C/C++ irei participar da trilha de segurança, voltando às minhas origens, quando programava em empresas de segurança da informação. Foram 10 anos!
 
@@ -35592,7 +35592,7 @@ Então é isso aí, mais um dia, mais uma trilha, mais bits e bytes. Nos vemos p
 
 
 # Integrando BitBucket e GitHub com Trello
-2014-07-22 computer blog
+2014-07-22 blog
 
 Eu nem acredito que estou escrevendo sobre desenvolvimento web, mas como foi algo que me fez dedicar algumas horas do meu fim-de-semana, e não encontrei facilmente uma solução já feita, acredito que pode ser útil para mais alguém que usa Trello e GitHub (ou BitBucket).
 
@@ -35779,7 +35779,7 @@ Por isso que, mais do que a parceria com o Strauss, a Intelimarket agora faz par
 Enfim, um pequeno if (ou dois) para o código, mas um grande deploy de soluções inovadoras na área de tecnologia da informação. Para essa nova e empolgante empreitada, eu visto, com certeza, a camisa da minha empresa.
 
 # Como não dar step into em todo código no Visual Studio 2012 e 2013
-2014-08-01 computer blog
+2014-08-01 blog
 
 Toda vez que instalo um Visual Studio novo e começo a depurar sempre surge a necessidade de fazê-lo calar a boca nos step intos da STL, Boost, ATL e coisas-que-sei-que-não-vai-dar-pau. (Obviamente, quando dá pau, preciso ir no disassembly e cutucar a STL para ela me entregar qual o problema com o meu contêiner.)
 
@@ -35863,7 +35863,7 @@ Fonte: "Andy Pennell's Blog" (2026-04-02 link quebrado)
 
 
 # TDC 2014 e a trilha de C/C++ com palestras para todos os gostos
-2014-08-11 ccppbr blog
+2014-08-11 blog
 
 A trilha da nossa(s) linguagem(ns) querida(s) do coração(ões) desse ano foi bem heterogênea: Rodrigo Madera pegando na mão dos ainda não-iniciados na magia-negra da TMP; Fabio Gallupo audaciosamente rabiscando uma roupagem funcional para C++11 (e 14, e 17!); Felipe Lavratti abrindo o código do seu projeto para vermos como é possível organizar e modularizar bem um código em C (sem classes); eu me virando nos trinta sem slides explicando os três passos de geração de código C/C++ (dei impersonate na conta do Rodrigo Strauss); Fernando Roberto do DriverEntry mais uma vez nos impressionando com as gamb... adaptações técnicas Microsoftianas no Windows para fazer tudo funcionar sem o usuário perceber (só quando as coisas ficam azuis); Fernando Luiz Rizzato mostrando que a equipe ex-Borland continua mandando muito bem criando uma IDE de C++ que porta código para diversos dispositivos mobile; eu novamente jorrando um dump das minhas memórias de 10 anos depurando código com WinDbg e suas powertools; e, acreditem ou não, nossa primeirA palestrante amante de C contando sua experiência em diversos projetos em um stand-up animado movido a diversos gifs animados.
 
@@ -35872,7 +35872,7 @@ O negócio é que tivemos um dia bem atípico, com direito a lotação (!) de no
 Foi bom estar de volta nesse evento tão importante para mantermos os diferentes programadores unidos por um bem comum: mostrar que C/C++ está tão vivo como nunca!
 
 # TDC 2014 e as trilhas de Segurança: o que é ser hacker?
-2014-08-11 ccppbr blog
+2014-08-11 blog
 
 Tirando a palestra-propaganda de Welington Strutz, a trilha de segurança no TDC desse ano foi bem heterogênea e focou tanto na proteção quanto nos ataques possíveis da web. Infelizmente, para alguns participantes, a grande questão de hacking se resume a apenas invasão de saites, o que nem era de longe o intuito da rotulação "hacker" no início dos famosos ratos de computador, em um ambiente com pouca RAM, nenhuma Web e onde o poder de processamento mais pesado rodava nas mentes criativas desses pequenos gênios da informática.
 
@@ -35918,7 +35918,7 @@ Não se intimidando em usar o Vaticano como bode expiatório de inúmeras decis�
 Finalizando com algo mais ou menos delineado pelo que seu fraco roteiro já apresentava, exceto uma ou outra surpresa tirada literalmente da cartola (como um uso completamente imprevisível e aleatório das "chamas azuis" do protagonista), Blue Exorcist não consegue sequer tomar uma atitude corajosa no que diz respeito a Satanás e seus demônios, preferindo continuar atacando os mortais por trás da congregação milenar, facilmente trocáveis e ficcionalizáveis.
 
 # Shareando Ponteiros
-2014-09-03 computer blog
+2014-09-03 blog
 
 Apesar de já ter palestrado algumas vezes sobre Boost e STL, acho que eu nunca escrevi muito sobre esses assuntos no blogue. Acho que o tamanho dessas bibliotecas assusta um pouco. Mas temos que começar de algum lugar, certo? E já que é pra começar, eu gostaria muito de saber de você, programador miserável, que passou poucas e boas nesses 10 anos de padrão 98 brincando com templates quando eles ainda estavam em beta: se fosse para melhorar um aspecto da sua vida de código, qual seria? Qual é aquela coisa que te atormenta como insetos vidrados no seu monitor noite adentro?
 
@@ -37057,7 +37057,7 @@ A história é simples, com conceitos fundamentais de bem contra o mal. Logo no 
 O filme se tornou um clássico americano, e foi um dos filmes mais assistidos e conhecidos por várias décadas. É citado em Matrix (1999), 60 anos depois, e várias de suas falas se tornaram icônicas. Até quem nunca assistiu (eu até hoje) sabe o que quer dizer "não há lugar como o lar". Uma metáfora ainda hoje rica em um filme que envelheceu razoavelmente bem.
 
 # Por que o Visual Studio gera executáveis mutantes
-2015-01-11 computer blog
+2015-01-11 blog
 
 (Esse é um post antigo que encontrei no meio dos meus emails de 2006, mas que contém uma boa dica para quem já entendeu o passo-a-passo da compilação, mas ainda tem sérios problemas quando os projetos ficam gigantes.)
 
@@ -37406,7 +37406,7 @@ Porém, mesmo se formos analisar pelo lado da ação, o filme também deixa a de
 Mercenários 3 se torna um misto de emoções paradoxalmente opostas. Por um lado, é muito bom que todos esses atores se juntem para tentar fazer algo juntos e demonstrem que não estão tão velhos para a ação. Por outro lado, é sempre decepcionante encontrar os mesmos clichês e que hoje convergem para um Red: Aposentados e Perigosos piorado.
 
 # Origem do Tipo char
-2015-01-26 computer ccpp blog
+2015-01-26 blog
 
 Programadores C e C++, preparem-se para explodir as cabeças! No princípio... não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados srs. dos Laboratórios Bell, K. Thompson e "D. Ritchie", criaram uma linguagem chamada B. E B era bom.
 
@@ -38108,7 +38108,7 @@ O que importa para o diretor Yasuhiro Yoshiura -- e os roteiristas Marc Diraison
 A experiência em geral não se torna confusa, talvez com exceção em sua sequência final, que, para variar, tem a conhecida lição de moral sobre não subestimar o que lhe parece diferente. Para isso mostra uma sequência de ação/drama um tanto vertiginosa, mas que por isso mesmo consegue demonstrar a confusão mental por trás daquelas pessoas que precisam conviver com o diferente e ao mesmo tempo entendê-lo. Também meio que escancara o absurdo de hoje em dia, onde pessoas acham difícil conviver com pessoas que possuem uma crença diferente da sua ou até mesmo uma orientação sexual não-padrão. Talvez se o filme puxasse um pouco mais para essa comparação pudéssemos chamá-lo de ambicioso. Como está, é uma animação divertida, original e com uma bela música de fundo.
 
 # Convenção de Chamada
-2015-04-20 computer blog
+2015-04-20 blog
 
 Pergunta de um leitor:
 
@@ -38351,7 +38351,7 @@ Ainda assim, "Vingadores 2" não pode ser levado a sério quando evita até mesm
 Vingadores 2 não é tudo isso? Talvez até seja. Pode ser apenas eu, levemente cansado desse sub-gênero repetitivo que nunca ousa. Aguardo ansioso pela ficha cair do lado dos fãs, que vão um dia entender que mais explosões e mais frases de efeito não vão tirar uma história medíocre do chão.
 
 # Analisando Erros Pelo Filtro do File Monitor
-2015-05-06 computer blog
+2015-05-06 blog
 
 As ferramentas da SysInternals fazem a gente economizar um tempo considerável na resolução de problemas. Não que elas sejam indispensáveis. Tudo que elas fazem é encurtar o caminho entre a análise de um bug e sua resolução, o que acaba sendo muito se considerarmos que programação é 20% codificação e 80% transpiração. Ela é um atalho para muitas coisas, desde achar uma ordem errada de includes no header durante a compilação ou descobrir que por que um processo morreu durante o login.
 
@@ -38573,7 +38573,7 @@ O roteiro escrito a quatro mãos por Terri Tatchell e o próprio Blomkamp parece
 Um filme que faz rima com os mais sombrios Ex Machina, Transcendence e muitos outros que vêm surgindo nessa nova e empolgante safra de especulações de como a IA poderá afetar o nosso futuro.
 
 # Depurando até o fim do mundo e de volta de novo: source server com GitHub
-2015-05-26 computer blog
+2015-05-26 blog
 
 Semana passada fiquei sabendo que o vídeo da "minha palestra" "Depurando até o fim do mundo" do TDC 2014 estava disponível online. Resolvi assistir para ver se aprendia alguma coisa. A despeito do palestrante não ser lá aquelas coisas, ele disse uma coisa interessante: com o Debugging Tools (WinDbg para os íntimos) seria possível além de indexar os símbolos (PDBs para os íntimos) usando o esquema de Symbol Server que a própria Microsoft adota: usar ferramentas do pacote para conseguir obter o fonte através de um símbolo indexado.
 
@@ -38655,7 +38655,7 @@ Como um desenho para crianças, o traço do filme segue a mesma lógica dos dese
 Com uma didática e moral "certinhas", permeada de politicamente correto e traços curiosos o suficiente para expressarmos um "aha", Ernest and Celestine é a típica aventura de Sessão da Tarde, em que não há nada para fazer e nada a esperar. Aproveite e faça umas pipocas ou, se estiver frio e/ou chovendo, bolinhos de chuva. Só não coloque muito açúcar.
 
 # Logs em serviços (e outras coisas)
-2015-06-05 computer blog
+2015-06-05 blog
 
 Já uso logs há muito tempo. Me lembro muito bem que quando programava em BASIC o "passou por aqui" já era útil. Depois de fazer muitas bibliotecas super-flexíveis de escrita em saídas diferentes, níveis configuráveis e uso do mais complexo ao mais banal, cheguei à seguinte conclusão:
 
@@ -39518,7 +39518,7 @@ E por falar em temas contemporâneos, não é que uma década antes de The Walki
 Mesmo que ainda seja extremamente escroto e se divirta com a construção irregular de seus personagens (que muitas vezes oscilam todos para um perfil Cartman para logo depois voltar de um aprendizado de moral), South Park S01 já possui um subtexto superior a qualquer coisa animada (ou mesmo comédias) que saiu do Cinema nos últimos 5 anos. Apenas isso é prova do poder da caixinha luminosa frente à obscuridade do politicamente correto da indústria cinematográfica americana.
 
 # Você sabe o que está usando no seu código?
-2015-07-28 computer blog
+2015-07-28 blog
 
 Quando se mexe com C++ em múltiplos fontes logo vem aquela bagunça do versionamento e do compartilhamento de código. LIBs, DLLs, COMs (de Component Object Model, da Microsoft). É difícil a partir de um binário saber quais os fontes envolvidos em sua construção, a não ser que você os amarre através de um sistema automatizado de build onde todos os binários devem ser obrigatoriamente compilados (e suas dependências, claro).
 
@@ -39785,7 +39785,7 @@ Na verdade, esse não foi o fim. Para os que já frequentam nossos encontros, pa
 A todos os envolvidos e reponsáveis por um dia tão compensatório, o nosso muito obrigado! Que venham outros =D
 
 # O Estranho Caso do PDB Mal-Aformado
-2015-08-19 computer blog
+2015-08-19 blog
 
 Era uma vez, há 13 anos atrás, um tal de Visual Studio .NET, que iria trazer a felicidade para nós, meros mortais usuários de programinhas em C com ponteiro pra lá e ponteiro pra cá. Agora a Microsoft traria para o pessoal do "baixo nível" a mais nova novidade do verão: uma IDE lenta, bugada e... bonita?
 
@@ -40673,7 +40673,7 @@ Tentando ainda criar uma estrutura semelhante à trilogia, dividindo em 3 partes
 Passando rapidamente e de forma caótica por toda a história por trás da produção dos filmes, Back in Time é uma decepção anunciada. Afinal de contas, o que se espera de um filme que surge justamente 30 anos após a criação do primeiro, às vésperas da data em que Marty McFly e Dr. Brown surgem no futuro? Um documentário que já nasceu no passado.
 
 # Indexando símbolos com rapidez
-2015-10-28 computer blog
+2015-10-28 blog
 
 Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
 
@@ -41615,7 +41615,7 @@ Nada faz sentido no filme. O vilão é ridículo além do limite, causando embar
 Por fim, é triste constatar que, apesar de tantas falhas, os esquilos continuam sendo uma ótima ideia. Desperdiçada em histórias ridículas, mas ainda o que mantém o projeto "Alvin e a Próxima Aventura de Sempre".
 
 # Classe, objeto, contexto
-2016-01-10 computer ccpp blog
+2016-01-10 blog
 
 Para entender conceitos simples em C++, como métodos de uma classe, ajuda muito seguir o raciocínio dos programadores C e como eles lidavam com o tipo de problema que C++ resolve elegantemente implementando um novo compilador com uma nova linguagem.
 
@@ -41691,7 +41691,7 @@ Em um próximo post vamos ver como fazer para chamar MeuOutroMetodo a partir de 
 
 
 # Classe, objeto, contexto, método
-2016-01-11 computer ccpp blog
+2016-01-11 blog
 
 No post anterior falamos como a passagem de um endereço de uma struct consegue nos passar o contexto de um "objeto", seja em C (manualmente) ou em C++ (automagicamente pelo operador implícito this). Trocamos uma propriedade desse "objeto" em C, mas ainda não chamamos um método.
 
@@ -41787,7 +41787,7 @@ Os créditos iniciais já denunciam a presença de Orson Welles, também, e é d
 Concluindo com uma sequência fabulosa debaixo das ruas de Viena, O Terceiro Homem pode fazer passar despercebido sua maestria. No entanto, note como a história voa, como todas as cenas são necessárias e se encaixam para revelar seus personagens sem quase nada gratuito. Poético, engraçado sem fazer rir, dramático sem fazer chorar. Um filme técnico irrepreensível. Um filme para pensar no Cinema sem ser uma história sobre o Cinema.
 
 # Classe, objeto, contexto, método, polimorfismo
-2016-01-12 computer ccpp blog
+2016-01-12 blog
 
 No post anterior implementamos "métodos" em C usando ponteiros de função dentro de structs que eram passadas como parâmetro. Tudo isso embutido por um compilador que gera o que chamamos de instância de uma classe, ou objeto, em C++. Isso é possível graças ao contexto que é passado para uma função (que no caso de C++ é o operador implícito this, que sempre existe dentro de um método não-estático).
 
@@ -41931,7 +41931,7 @@ O diretor coreano Joon Ho Bong (Memórias de um Assassino) estiliza demais sua a
 Com efeitos visuais que impressionam, mas estão contidos o suficiente para não atrapalhar o andamento da história, O Expresso do Amanhã é um filme que vai em um crescendo, e pode desanimar parte da plateia no começo. Se você ainda não o assistiu, não desanime. Há muitos mais vagões interessantes logo à frente. Se trata apenas de um mecanismo necessário para que a tensão suba até o limite do aceitável.
 
 # Gabaritos
-2016-01-13 computer ccpp blog
+2016-01-13 blog
 
 Um template -- ou, como é na tradução da primeira edição de The C++ Programming Language, de Bjarne Stroustrup, aqui no Brasil: gabarito -- é um molde que pode ser usado por diferentes tipos para traduzir o mesmo algoritmo, ou pelo menos a mesma intenção de algoritmo (por pela sobrecarga de operadores é possível que o comportamento de tipos diferentes pode ser diferente).
 
@@ -41992,7 +41992,7 @@ O que não se presta a ficar à altura de seus personagens é o roteiro de Steve
 Ganhando pontos pelos detalhes -- como quando Adam usa azeite para enfeitar um prato, mais de uma hora depois de projeção de quando ele aprendeu isso -- e por não insistir muito no passado misterioso e turbulento do protagonista, apenas pincelando-o sutilmente, Pegando Fogo é um drama tenso que espreme um pouco de humor, mas quando faz isso costuma sair mais suor e lágrimas. Um ótimo passatempo com potencial de ser um pouco mais.
 
 # Templates em C no lugar de macros
-2016-01-14 computer blog
+2016-01-14 blog
 
 A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizmente, eles não existem na linguagem C, mas podem ser usados em construções C feitas com a linguagem C++, como ocorre com quem desenvolve device drivers para Windows.
 
@@ -42232,7 +42232,7 @@ O trabalho de Spielberg se eleva também com o roteiro de Matt Charman e os irm�
 Concluindo de uma maneira insatisfatória, mas à maneira de Spielberg de contaminar seus filmes com finais felizes, clichês e igualmente ufanistas (com exceção talvez do excepcional Munique), Ponte dos Espiões pode com certeza figurar na cinematografia do diretor como um dos trabalhos sérios que tentam dialogar sobre questões sérias, mas que recebem de brinde o calor que só filmes "Spielberguianos" conseguem gerar. Mesmo que a ação seja em um cenário tão gelado que todos em voltam pegam resfriados a cada cinco minutos.
 
 # Log de chamadas API direto do WinDbg
-2016-01-21 computer blog
+2016-01-21 blog
 
 Há muito tempo atrás eu havia falado sobre como a ferramenta logger.exe, do Debugging Tools for Windows, poderia ser usada para gerar um arquivo de log com centenas de APIs detalhadas em sua chamada, como parâmetros de entrada, retorno e tempo. Bom, testando isso hoje, me veio à lembrança o artigo e também a constatação que o logger é muito instável. Tão instável que não consegui logar as APIs que desejava nas inúmeras tentativas que fiz. Isso em um Windows XP!
 
@@ -42354,7 +42354,7 @@ Com um roteiro padrão do sub-gênero de filme de herói (de um tal Vincent Ngo 
 Tendo talvez a gota d'água em uma ou duas referências nada sutis a Superman (sim, uma delas é a música-tema), Hancock apenas não afunda ainda mais por ser curto, tornando toda a experiência rápida demais para que o "épico" se concretize. Hancock salva o dia mais uma vez. Will Smith, não.
 
 # Exportando repositórios antigos do Bazaar para Git
-2016-01-27 computer blog
+2016-01-27 blog
 
 Enquanto estudava sobre "controle de fontes distribuído", experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.
 
@@ -45123,7 +45123,7 @@ Acho que não foi o caso. De qualquer forma, o vídeo acima tem o potencial de f
 Ou não. Nesse caso, RTFM ou comente aqui =)
 
 # DBAccess
-2016-08-16 computer blog
+2016-08-16 blog
 
 Bancos de dados são uma dor de cabeça para o desenvolvedor acessar. Quase tão motivation killer quanto as configurações do .NET. Se for um programador em C++ para Windows, então, desista.
 
@@ -45350,7 +45350,7 @@ O Cinema na Globo ainda nem chegou ao ano 2000. Há até dois anões se digladia
 Esse é um filme que acompanhamos de pena, pois nem risadas podemos esperar. Ele é previsível do começo ao fim, sendo que o final ainda se torna imprevisível por uma falha na índole de certo personagem, que toma uma decisão inusitada. E se formos falar de moral, então, além de ser de extremo mau gosto usar concurso público -- a oferta de vagas com uso de dinheiro roubado -- ainda toma a oportunidade para exaltar os mais humildes e necessitados. Ou seja, além de não ser engraçado, o filme vem carregado de péssimas mensagens, piadas escrotas e uma imoralidade imbecil. É de pensar se tudo isso vale a pena para ver dois minutos de uma Sabrina Sato ainda retumbante.
 
 # Programa, Mãe Foca!
-2016-08-30 computer blog
+2016-08-30 blog
 
 Nota de 2026-05-07: este e outros postos secundários foram censurados para tentar melhorar o linguajar aqui das quebradas. Entenda chuva e bota como preferir.
 
@@ -47337,7 +47337,7 @@ int main()
 Esse tipo de abstração nem é tão complicada assim. O ojetivo eram vários: conseguir proteger os membros de acesso indevido, abstrair o comportamento de um objeto. Com o tempo Stroustrup foi realmente criando algo de novo e muito mais difícil de se manter em C. Algo para um próximo post =)
 
 # Quantos handles sua aplicação está abrindo?
-2016-11-29 computer blog
+2016-11-29 blog
 
 Mesmo que você não programe em C/C++, mas programe para Windows (ex: .NET), sempre há a possibilidade de seu programa estar causando leaks de handles indefinidamente, o que não se traduz em aumento significativo de memória alocada para seu processo, mas é, sim, um problema a ser tratado.
 
@@ -48263,7 +48263,7 @@ O uso de cores também é fortemente influenciado pela luz. Note como é recorre
 A Espera é um filme belo quando flerta com o jogo de mentiras de sua protagonista, curioso quando brinca com a mitologia cristã e estilizado e forçado ligeiramente mais do que deveria. A transição gradual entre o idioma italiano e o francês sugere não apenas a proximidade das duas personagens principais, mas o abandono de Anna do que a tornou uma italiana da Sicília, e poderia servir de mensagem sobre o próprio declínio da religião, como sutilmente o filme aponta em um momento onde Pietro, assistindo um canal que falava sobre o Papa, muda abruptamente para um canal onde passa uma comédia antiga. O fato de Anna ter sido a primeira da região a se divorciar também aumenta as chances deste ser o caso. Porém, nunca saberemos com certeza. O trabalho de Piero Messina está hermeticamente fechado através de sua estilização exagerada. O que não deixa de ser curioso, também, pois mais uma vez estamos comparando realidade com religião.
 
 # ReadFile assíncrono pode ser síncrono quando você menos espera
-2017-01-16 computer blog
+2017-01-16 blog
 
 Ano passado tive alguns problemas em um projeto que se comunicava com um dispositivo em firmware pela USB. Estávamos utilizando uma biblioteca open source do GitHub que parecia estar bem testada e mantida. Porém, não exatamente para nossos objetivos.
 
@@ -48380,7 +48380,7 @@ Porém, ao assistir a todas as histórias fica claro que o astro sempre foi e se
 O que aprendemos em One Punch Man dificilmente veremos em outros animes. Basta o desenho de um ovo, alguns traços para os olhos e boca, e está formado um herói que ganha todas as lutas com um soco. Sua missão na Terra: alertar os espectadores de que não são as lutas, nem a fama nem o reconhecimento que importam, mas o caminho em si. Já dizia Morpheus...
 
 # Warning de nível 4
-2017-01-17 computer blog
+2017-01-17 blog
 
 Você já colocou aquele seu projeto favorito em /W4? Por padrão, o Visual Studio cria seus projetos com o nível de warnings 3, porque o nível 4 é muito, muito chato. No entanto, algumas vezes ele serve para que seu código não fique apenas correto, mas bem documentado e apresentável. Vamos tentar?
 
@@ -49057,7 +49057,7 @@ Já Denzel Washington impressiona mais por sua atuação do que direção, que �
 Fences é indicado ao Oscar para preencher uma cota que em 2017 está sobrecarregada, com três filmes protagonizados por negros em ficção e mais dois documentários (e uma série) lidando com o racismo. Como filme ele se encaixa naquela categoria das melhores atuações, e o filme é mais falado do que visualmente apelativo. O seu coração, no entanto, é puro e honesto. Ele não quer polemizar além do necessário. Seria quase naturalista se esses personagens da vida real não tivessem tantas frases de efeito, frases poéticas, que traem seu realismo denunciando a dramaturgia por trás da arte que imita a vida.
 
 # Pacotes perdidos do NuGet em projetos C++ no Visual Studio
-2017-02-08 computer blog
+2017-02-08 blog
 
 É muito bom (para quem gosta) usar a IDE e viver feliz sem precisar se preocupar em digitar comandos estranhos no prompt. Porém, essa vida acaba quando ocorre o primeiro erro inexplicável, aquele tipo de erro que não importa onde você olhe, não há nada para olhar. Até você apelar para ferramentas de macho.
 
@@ -49585,7 +49585,7 @@ E como todo filme de terror bem feito (ainda que seja um drama) o controle de lu
 Em um jogo narrativo soberbo, sabemos mais sobre a personagem a partir do momento que ela começa a se comunicar com uma pessoa desconhecida. Essa pessoa pode ser o espírito que fez contato na casa de seu irmão. Ela se comunica através de mensagens no celular, e daí nós temos uma ótima metáfora sobre pessoas que vivem no celular, com seus espíritos milhares de anos-luz distantes de seus corpos. Há um ótimo momento dessa brincadeira, quando o desconhecido fala que está observando-a nesse exato momento. Quando ela começa a olhar em volta, todas as pessoas presentes no vagão estão concentradas em seus celulares. Em que momento o mundo dos vivos virou o dos mortos?
 
 # The Best of edw519
-2017-02-20 books computer blog
+2017-02-20 blog
 
 Ed Weissman, ou edw519 para os íntimos, é um dos comentaristas mais efusivos, pragmáticos e experientes do Hacker News. Ele tem programado profissionalmente há quase 40 anos. De mainframes a projetos web, a evolução dele passou basicamente pelo dobro de gerações que provavelmente você passou. Ele também já esteve envolvido como sócio/fundador em três empresas, vendendo tanto serviços quanto produtos. Ele trabalhou com centenas de pessoas em mais de mil projetos em mais de um milhão de linhas de código. Ele já compartilhou muitas opiniões com a comunidade, e agora juntou boa parte dessas opiniões em um livro, um ebook, disponível para qualquer um que queira observar alguém que esteve nas trincheiras por muitos anos e não tem medo de dizer o que pensa.
 
@@ -49704,7 +49704,7 @@ Foque no menor problema possível que você pode resolver cuja solução será p
 Cada momento que você está trabalhando em algo sem estar na arena pública, esse algo está na verdade morrendo, privado do oxigênio do mundo real. Matt Mullenweb.
 
 # Visualizando QString no Visual Studio
-2017-02-20 computer blog
+2017-02-20 blog
 
 O Qt não é um framework que pode apenas ser usado no QtCreator. Através de um projeto bem configurado pelo CMake, por exemplo, é possível ter um projeto que pode ser compilado e depurado tanto nas ferramentas do Qt quanto no Visual Studio. No entanto, na hora de depurar algumas coisas são difíceis de fazer. Por exemplo: como olhar o conteúdo de uma QString?
 
@@ -53850,7 +53850,7 @@ E note que eu disse funções, não classe. E é possível ter classe sem classe
 
 
 # Cmd e o encoding fake
-2017-12-26 computer blog
+2017-12-26 blog
 
 Qualquer um que já tenha mexido no prompt de comandos do Windows sabe que ele permite você escolher qual code page utilizar para enviar e receber comandos. O Windows é todo em UTF-16, mas as saídas podem vir de qualquer programa com qualquer encoding. A missão do cmd.exe é usar o encoding escolhido pelo usuário para exibir os caracteres na tela. Vamos supor que nós criemos uma pasta com acentos no nome (pelo Explorer para não ter erro):
 
@@ -54286,7 +54286,7 @@ A trilha sonora é pitoresca. Ela exala a personalidade do sujeito com notas sol
 Dito isto, é preciso agora voltar os olhos novamente para Daniel Plainview, encarnado até o osso por um Daniel Day-Lewis com um vigor/ganância sem fins. A grandeza de seus obstáculos, como a igreja e as grandes companhias, apenas reforçam a quase insanidade desse homem e servem de exato contraponto para medirmos o grau de maldade que se esconde por trás do seu até certo ponto melancólico personagem. Um outro grande feito do filme é conseguir usar um vilão como O Protagonista, onde encontramos eco em talvez Cidadão Kane (mais pelo benefício da dúvida, embora em Kane sigamos os rastros de testemunhos, e não a própria visão do personagem-título).
 
 # Como Achar Erros no Printf via Dump
-2018-01-25 computer blog
+2018-01-25 blog
 
 Às vezes, e apenas às vezes, é útil ter um dump do processo que acabou de capotar e ter um singelo backup do pdb (arquivo de símbolos) dos binários envolvidos nessa tragédia. Com alguns cliques pontuais e uma análise simples da stack, da variável e do código envolvido é possível chegar em um veredito sem muitas controversas se foi isso mesmo que gerou o crash. No caso peguei hoje um caso assim.
 
@@ -54618,7 +54618,7 @@ Curiosamente não há muitos belos momentos de encher o fôlego no fundo do mar,
 Naquela época o bitcoin estava oscilando entre 3000 e 5000 reais. Dá pra acreditar? Faz muito tempo. Cerca de um ano. E hoje tem pessoas dizendo que o mundo vai acabar porque bitcoin caiu para a mínima de 20k. Aham. Porém, existe uma imensidão de questões no meio desses valores que é: o que, afinal de contas, é uma moeda digital? Essa minha palestra foi ministrada no Native Floripa 2017, no comecinho daquele ano acho. Faz algum tempo, então não me lembro direito, mas foi um dos eventos mais legais que participei. Boa estrutura e ótima companhia.
 
 # Variáveis estáticas locais são tímidas
-2018-02-20 computer blog
+2018-02-20 blog
 
 Uma dúvida muito comum dos programadores iniciantes em C/C++ diz respeito às variáveis static que são declaradas dentro de um escopo, como uma função. Sabemos que se ela fosse declarada global, fora de qualquer escopo, ela seria inicializada antes do main ser chamado, como diz este trecho de alguém que pesquisou a respeito:
 
@@ -55234,7 +55234,7 @@ Depois houve um show com uma banda chamada ElePHPants formada pelos apresentador
 Só falta agora a comunidade investir melhor em conteúdo.
 
 # Contra o array de 100 bytes
-2018-03-11 computer blog
+2018-03-11 blog
 
 Desde o C++ moderno (pós-03) o uso de arrays de tamanho fixo estão se tornando depreciados. E por um bom motivo: você nunca sabe realmente qual o tamanho que você precisa para um array de bytes até você saber. Daí a próxima grande questão é: "como gerenciar essa memória dinâmica de forma efetiva?". E a resposta moderna sempre é: "não faça isso você mesmo". Eis o porquê:
 
@@ -55881,7 +55881,7 @@ Por este fatores imprevisíveis da indústria de Cinema americano é que ter a f
 PS: Naquela noite assistimos a 20 minutos ininterruptos do filme. E a maior mágica não estava em assistir a esta pequena prévia, mas em olhar para a plateia compenetrada. Isso não me relaxa, mas é este excitante mundo que gera os memes que eu aprecio.
 
 # Lista Ligada; tá Ligado?
-2018-04-24 computer lists blog
+2018-04-24 blog
 
 Uma lista ligada é uma lista de alguma coisa onde os elementos se ligam um no outro, ou seja, um elemento tem a referência do próximo. O tipo dos elementos de uma lista ligada pode ser inteiros, strings ou estruturas inteiras. Independente do que for, você vai precisar de uma estrutura. Sabe por quê? Porque existe além dos dados em si mais uma informação que você precisará guardar em cada elemento de sua lista: o próximo elemento. E é daí que surge a ligação da lista ligada.
 
@@ -56543,7 +56543,7 @@ A mulher de Bronson morre brutalmente e no seu enterro ele ainda não mudou sua 
 Os temas do filme são jogados e finalizados na mesma fala. Você sabe a história: Bronson usa uma arma que ganhou de presente de um dos clientes do Texas e resolve executar a lei com as próprias mãos nas perigosas ruas de Nova York, que, dito e feito, se torna menos perigosa a cada noite que o vigilante entra em ação. "Esse justiceiro ataca mais bandidos negros", diz uma modelo em uma festa chique. "Talvez porque existam mais bandidos negros que brancos; poderíamos equilibrar a desigualdade promovendo mais bandidos brancos.". Bang! Este filme não problematiza a vida real, ele a interpreta como qualquer pessoa decente interpretaria. Você está agindo errado? Você merece uma bala na sua cabeça. Seja sua cabeça preta, branca ou amarela.
 
 # SSL, TLS e o limite de 16 KB
-2018-05-22 computer blog
+2018-05-22 blog
 
 Em 2026-05-09 fiz um update com a ajuda do Chat-GPT que me corrigiu em alguns pontos. Ele é meio centrão, então fui tirando os exageros do meu texto original como "esqueça TCP" e "você vai perder dados se usar Boost::Asio". Fiquem apenas com a versão medíocre e sem alma ou discussão de nossas futuras vidas tecnológicas.
 
@@ -57085,7 +57085,7 @@ Também surge o formato TV Brasileira na série, que consegue transformar o pilo
 Felipe Braga, que dirige o primeiro episódio, é o criador da série e ainda produtor executivo, talvez seja o principal culpado por colocar uma gostosa aleatória nas telonas da Netflix protagonizando a miscelânea de erros da TV brasileira em suas últimas quatro décadas. Mas prefiro culpar a Netflix por essa bobagem. Eles já estão acostumados em apostar em canoas furadas.
 
 # Python27, protobuf, py2exe e build_exe
-2018-07-14 computer blog
+2018-07-14 blog
 
 Para quem está tentando compilar um executável usando py2exe e protobuf, #ficadica: desista. Ele não vai funcionar ou se funcionar vai dar trabalho. Em vez disso melhor usar build_exe (através do pacote cx_freeze), que é um esquema marotinho que permite configurar tudo e há apenas um patchzinho que precisa ser feito.
 
@@ -57178,7 +57178,7 @@ setup(name = "teste_cx_Freeze",
 ```
 
 # Vcpkg: gerenciador de libs c++ para Linux, Mac OS... e Windows!
-2018-07-14 computer blog
+2018-07-14 blog
 
 O ambiente padronizado de bibliotecas C/C++ dos sistemas UNIX é motivo de inveja dos programadores Windows por séculos. Mas, finalmente, a Microsoft tem acordado diante da ressurreição do C++, com seus novos bug fixes e new deprecated features.
 
@@ -57995,7 +57995,7 @@ E por falar em pensar, este filme tem um ritmo lento que vai te deixar pensando 
 Poucos filmes me deixam sem palavras e com muito a sentir. E esse, quando vemos uma pedra na mão de outra Irene, o vento brisando em um misto de folhas verdes das árvores, uma rima carinhosa no final, com um desfecho à altura de tudo o que vimos até então. E se formos observar de muito perto, pensar pela última vez em tudo que aconteceu, talvez não haja muito mais o que pensar afinal de contas; só sentir. Sinta o vento em seus olhos. Sinta esse tempo e essas pessoas que não existem mais.
 
 # Meu Novo Parseador de Argc Argv
-2018-08-21 computer ccpp blog
+2018-08-21 blog
 
 Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que "minha função" bonita e completa de parseamento de argumentos argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Ele basicamente percorre o array argv em busca do nome do parâmetro enviado para a função. Uma vez que ele encontre ele retorna o próximo elemento. Na falta de próximo elemento ele simplesmente retorna uma string vazia que não é nulo, mas já indica que há o parâmetro na lista de argumento.
 
@@ -58251,7 +58251,7 @@ O campeão pernambucano Luciano Todo Duro venceu a primeira das lutas com seu ad
 Seguindo a tradição em filmes de boxe no Cinema, onde a história nunca é sobre o boxe em si, A Luta do Século é sobre essa rivalidade, e acompanha os melhores momentos da eterna peleja entre esses dois. Ninguém poderia documentar corretamente esta trajetória senão um cineasta nordestino. Machado é baiano e mesmo assim ele não pende para o lado de Holyfield, preferindo colocar o drama cinematográfico desses dois acima de tudo. E isso, se formos pensar, é a força e a fraqueza deste curto e interessantíssimo documentário.
 
 # GetArg: the ultimate badass argv/argc parser
-2018-08-30 computer blog
+2018-08-30 blog
 
 Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu último artigo sobre o tema. Sim, eu também acho que a versão com STL bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia a dia: precisa ter o argc nessa equação?
 
@@ -58299,7 +58299,7 @@ Nessa versão elminamos a necessidade do argc e de brinde ganhamos a possibilida
 
 
 # Vcpkg Internals: como o gerenciador de pacotes da M$ funciona por dentro (
-2018-09-12 computer blog
+2018-09-12 blog
 
 Depois de entender mais ou menos como funciona o vcpkg é hora de realmente entrar no código e entender qual a grande sacada dessa ferramenta da Microsoft.
 
@@ -58890,7 +58890,7 @@ E ao mesmo tempo que o roteiro de Shana Feste não ajuda, sua direção é inter
 Mas não deveria estar surpreso com a incapacidade de Shana Feste trazer alguma alma ao projeto: em um filme literalmente infestado de pets não se explora em nenhum momento essa busca interminável da personagem de Farmiga pelo aconchego inexistente em sua infância com pai ausente através de seus animaizinhos acolhidos da rua. São apenas mais uma coleção de esquisitice ao rol do filme, ele próprio se tornando um pouco esquisito no final das contas. Sobre o que era a história, mesmo?
 
 # Coroutine Internals
-2018-09-18 computer blog
+2018-09-18 blog
 
 Uma corrotina é um mecanismo de troca de contexto onde apenas uma thread está envolvida. Ela me faz lembrar do Windows 3.0, não exatamente por não existirem threads (e não existiam mesmo), mas pelo caráter cooperativo dos diferentes códigos.
 
@@ -59266,7 +59266,7 @@ Como não poderia deixar de ser há inúmeras referências, propositais ou não,
 Maniac dá impressão de não conseguir explorar muito bem seus personagens secundários, que só são importantes para criar a atmosfera nos primeiros episódios. Os diversos assuntos que se abrem nesse tema também ficam um tanto inexplorados, e talvez essa seja uma estratégia para tornar o espectador mais ativo a respeito dos problemas inerentes da busca por significado dos humanos na vida. Há de se pensar se a série como um todo não é um grande experimento.
 
 # Boost.Bind e os Erros Escrotos
-2018-10-01 computer blog
+2018-10-01 blog
 
 Estou voltando a programar algumas coisas no boost. Algo que eu perdi ao me isolar do movimento de modernização do C++ foi a capacidade brilhante da biblioteca boost em encapsular e abstrair conceitos de engenharia de software de maneira portável e mantendo a filosofia por trás da STL, que ainda é a melhor maneira de trabalhar algoritmos já criada em qualquer linguagem de programação séria.
 
@@ -60531,7 +60531,7 @@ Alan Arkin é desses atores coadjuvantes que não estão no papel principal por 
 Não é preciso dizer que Lorre está analisando o processo criativo e o que faz sucesso na TV, dando como "desculpa" o fato de ter criado e produzido The Big Bang Theory, sucesso de audiência, o que o permitiria agora fazer algo mais intimista, mesmo correndo o risco de pouco público. Bom, ele está na Netflix, que não libera dados de audiência. São episódios curtos, é só dar play e ver meia-hora de dois mestres em atuação trabalhando com material limitado.
 
 # A Maneira Errada de Começar um Projeto é com Visual Studio
-2018-12-11 computer blog
+2018-12-11 blog
 
 Estava eu trabalhando com um sample e resolvi colocar controle de fonte para analisar as mudanças. E a mudança mais inesperada que eu vi quando digitei git diff foi que ele achou que meus arquivos de código-fonte estivessem em binário.
 
@@ -60939,7 +60939,7 @@ A direção de Gus Van Sant (Milk, Inquietos, Psicose de 98) parece procurar um 
 A Pé Ele Não Vai Longe é a síntese de tudo o que a vida verdadeiramente é sem os filtros dramáticos do povo do politicamente correto que enxerga desgraça em qualquer traço da vida. Se você olhar para John Callahan fazendo piadas sobre sua própria situação e a de outros, e entender que o humor do absurdo é uma forma de nos expressarmos a respeito dessa locomotiva de emoções chamada vida, e que não faz sentido serem lapidadas em leis de causalidade, parabéns! Terá aproveitado essa breve e adorável viagem em cadeira de rodas, em uma velocidade acima do permitido.
 
 # Bug no Boost Asio usando função AcceptEx do Winsock
-2019-01-06 computer blog
+2019-01-06 blog
 
 Depois de um mês de correção e mais um ou dois meses preparando um compilado do que ocorreu no software que estamos mantendo, foi descoberta uma situação muito peculiar que ocorre tanto em Windows XP quanto no Windows 10, mas que no 10 tem uma correção bem-educada e no XP... bom, nem tanto.
 
@@ -62825,7 +62825,7 @@ Pois bem, nesse filme é impossível não falar sobre isso da maneira mais hones
 Exceto pelo massacre. Pois depois disso a vidinha dessas pessoas foi tomada para sempre. Não existirão mais essas pessoas no mundo. E o impacto que o filme quer gerar é que esses são personagens da vida real. Apenas o massacre não aconteceu. Mas poderia acontecer. Mas tirando isso este é um filme completamente trivial que não oferece nada ao espectador. Se ignorarmos este elefante na sala, não há nada que resta senão a vida como ela é. Vale a pena conversar sobre isso?
 
 # Code Jam 2019 Qualification Round
-2019-04-07 computer blog
+2019-04-07 blog
 
 Estou viajando e com poucas horas de acesso a um computador, mas os dois primeiros desafios do Code Jam esse ano foram tão simples que sequer precisaram de meia-hora. Isso para um chinês, campeões em campeonatos de programação, deve ser equivalente a cinco minutos com um código C enxuto. Mas estou apenas aprendendo.
 
@@ -63337,7 +63337,7 @@ Essa é mais uma das séries de comédia da Netflix que começa com suas melhore
 O que torna engraçado esse estilo, como o grupo responsável por Flying Circus deve ter descoberto aos poucos, é essa sensação de estar com um pé fincado no chão e o outro em um lamaçal absurdo; quanto mais você mexe o pé (leia: continua na piada) mais seu pé no chão se levanta e mais seu pé no lamaçal afunda. O truque da comédia é saber quando parar antes de morrer afogado. OK, essa analogia foi péssima.
 
 # Const Int Pointer Var
-2019-04-29 computer blog
+2019-04-29 blog
 
 A melhor forma de declarar variáveis ponteiros (constante ou não, mas segue o exemplo) é `const int * var`. Explicação:
 
@@ -63607,7 +63607,7 @@ Coutinho se revela para as câmeras, como uma forma de contar um fiapo de histó
 Além disso, o ponto de vista é sempre dos moradores. Não vemos em momento algum a fachada do prédio. Privacidade? Ou é como as pessoas que vivem há anos, décadas, se comportam no dia a dia? Do elevador para o corredor, do corredor para dentro da porta. E somem. Coutinho desencava histórias, com uma cadência que não se revela tão mirabolante para o espectador médio, mas para quem tem alguma ideia de como documentários são feitos, pode imaginar: deu um trabalho do cão. E valeu a pena cada minuto.
 
 # Visual Studio Unit Test (C++)
-2019-05-06 computer blog
+2019-05-06 blog
 
 Desde o Visual Studio 2015 há suporte a unit tests em C++ automatizado na IDE. Porém, a partir do VS 2017 15.5 o suporte aumentou drasticamente, vindo embutidos os suportes para as bibliotecas de teste Google Test, Boost.Test e CTest. Além, é claro, do Microsoft Unit Testing Framework for C++, o caseiro da M$.
 
@@ -63773,7 +63773,7 @@ E, por fim, do ponto de vista do romance, este é basicamente um novelão. Acomp
 Mas não me leve a mal, este é um filme com temas interessantes e uma personagem idem. Eu até gostaria de ter visto mais sobre esses assuntos que giram em torno da figura de Joan, se infelizmente essa não fosse, como ela mesmo se coloca, "uma sombra em meio aos homens". Esse filme tristemente parece a colocar na mesma situação do passado, não fazendo jus à possível homenagem que poderia ter sido feito pelas suas, se não nobres, bem-intencionadas ações da época.
 
 # Coroutines Em C: Picoro
-2019-05-08 computer blog
+2019-05-08 blog
 
 Tantas linguagens hoje em dia tentando implementar a abstração de corrotinas e inserindo mais camadas de abstração (fibras e cereais)... há duas implementações já no Boost, ambas dependendo de uma biblioteca de contexto de stack que é dependente de arquitetura (programada em Assembly).
 
@@ -64051,7 +64051,7 @@ Mas voltando à série: é descartável. Uma série de heróis da Netflix criada
 Está vendo como pular para o final é muito melhor?
 
 # C Resolve Tudo: Orientação a Objetos (com Polimorfismo)
-2019-05-17 computer blog
+2019-05-17 blog
 
 Como programadores há um vício em nossas cabeças que é estar constantemente buscando a bala de prata, ou seja, a solução final e única para todos os nossos problemas de implementação. Com o tempo e alguma experiência descobrimos que tal coisa não existe, mas até lá nos encantamos com esse ou aquele framework, e claro, com essa ou aquela linguagem.
 
@@ -64751,7 +64751,7 @@ Por falar nos personagens, sua construção não poderia ser mais caótica e per
 Falta unidade nO Albergue Espanhol, mas é isso mesmo o que o torna tão adorável. O que se diz quando os defeitos de um filme soam mais como suas virtudes? Isso se chama amor. A admiração do imperfeito porque é imperfeito, e por isso faz parte de nós mesmos.
 
 # C Resolve Tudo: goto
-2019-05-28 computer blog
+2019-05-28 blog
 
 Para quem decide usar a linguagem C para resolver tudo, a gota da água é o goto. Ele é flexível, cabe em (quase) qualquer ponto do código e tem 1001 utilidades. O goto é o bombril da engenharia de software.
 
@@ -65694,7 +65694,7 @@ Enquanto a forma realista de Marcelo Gomes filmar, evitando cortar em cenas onde
 Mas estou sendo parcial como nosso amigo diretor. Uma resposta mais honesta seria: quanto a nossa realidade permitir.
 
 # Como Publicar Seu Blog Em Hugo Para Ebook
-2019-07-10 projects computer blog
+2019-07-10 blog
 
 Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do "Hugo", o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.
 
@@ -66221,7 +66221,7 @@ Pássaros de Verão bebe de várias fontes que vão desde o contemporâneo Cidad
 Porém, este também é um roteiro inteligente, pois coloca mulheres independentes em conflito interno com todas as opções que o mundo contemporâneo fornece. Relacionamentos abertos para uma comissária de bordo que nunca fica em um só lugar? Virar amante de alguém de sua idade depois de descobrir que seu próprio marido tem uma amante? Se abrir para sua amiga sobre a atração que genuinamente nutriu enquanto morava com ela? São problemas de relacionamento, uma mina de ouro para aumentar complexidade.
 
 # Some things I learned in a Hacker Rank exercise
-2019-08-08 computer ccpp english blog
+2019-08-08 blog
 
 A couple of days ago I subscribed to Hacker Hank, a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.
 
@@ -66799,7 +66799,7 @@ A farsa se torna clara conforme nenhum dos supostos coadjuvantes ganha a empatia
 Sem a mínima condição de sustentar alguma reflexão de fato, o diretor Babak Payami ainda demora para cortar algumas cenas em que ele imagina o espectador pensando no que acabou de ver. Afinal, pensar sobre o voto faz as pessoas discutirem ideias, não? Não realmente. Voto é uma variante desse mesmo mecanismo que fez lavagem cerebral nessa menina. É um filme triste, que se alonga e não entrega nem essa reflexão.
 
 # Do Bit para o Código
-2019-09-03 computer blog
+2019-09-03 blog
 
 Olá. Esta é uma viagem para dentro do computador. Como funciona um computador? Você sabe? Pois é, nem eu. Mas vamos explorar alguns pontos onde nossa vã metafísica mal encosta na singularidade que é uma arquitetura Von Neumann.
 
@@ -71436,7 +71436,7 @@ aquire_mutex();
 ```
 
 # Callback Hell
-2020-04-09 computer blog
+2020-04-09 blog
 
 Foi aprendendo sobre kernel do Windows que eu descobri que a linguagem C suporta todas as abstrações que um homem crescido precisa para desenvolver sistemas. Também aprendi que você precisa ser um homem crescido para saber usar direito.
 
@@ -71456,7 +71456,7 @@ No final das contas, depurar um código em C escrito por uma pessoa que evita re
 
 
 # Winmock
-2020-04-10 computer blog
+2020-04-10 blog
 
 Testar sistemas com rede simulada pode ser muito complexo ou muito simples. Se for feito em C ou se os endpoints forem em C é muito simples: basta trocar as funções originais pelas suas. Como tudo em C são funções com nome bem definido e assinatura flexível você não precisa declarar a assinatura da função, ou pode mudar no meio do caminho.
 
@@ -71531,7 +71531,7 @@ As piadas são todas manjadas, mas é delicioso de assistir. Devia ser um espet�
 
 
 # Minha Palestra Sobre Windbg
-2020-04-18 computer debugging blog
+2020-04-18 blog
 
 A "MBConf@Home2020 v1" foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).
 
@@ -71621,7 +71621,7 @@ Os remakes que se seguiram, Invasores de Corpos (1978) e "Invasores" (2007), sã
 
 
 # Cast Operator
-2020-04-22 computer ccpp blog
+2020-04-22 blog
 
 O código abaixo não é C++ moderno. É 98. Porém, ele já demonstra alguns problemas na linguagem que foram aumentados desde então. Não se sabe exatamente qual a tradução semântica de construções tão parecidas quanto o operador-função e o operador-cast. Enquanto o primeiro serve para transformar objetos em funções chamáveis o segundo serve para extrair tipos de maneira educada.
 
@@ -71852,7 +71852,7 @@ Alfredo é interpretado pelo ator francês Philippe Noiret como o urso bondoso e
 É impossível falar de Paradiso sem citar a trilha sonora icônica e inesquecível de um dos maiores gênios musicais cinematográficos. Ennio Morricone costuma ser sutil quando precisa, mas este filme exige ser ouvido durante todo o tempo. Então ele cria um tema musical que pode ser tocado todo o tempo sem enjoar. Dias depois de assistir ao filme, meses, talvez anos, a música não será apenas inesquecível: ela se torna a trilha sonora de nossas próprias vidas como cinéfilos. Ela é empolgante, melancólica, alegre, emocionante. É uma música que sofre metamorfose pelas décadas da história do filme, e em nós mesmos sofrerá essa mesma mudança conforme a ouvirmos em épocas diferentes de nossa vida. O mesmo efeito percebemos no filme que a música embala.
 
 # O Bug Mais Bizarro que já Resolvi
-2020-05-10 computer debugging flow assembly reversing_tag crypto blog
+2020-05-10 blog
 
 Máquina IBM velha e empoeirada. Criptografia blowfish. Assembly 16 bits. Programa residente. E nenhum depurador funcionando. Tudo o que eu tinha se resumia em dois itens de inventário: o conhecimento, adquirido aos poucos do sistema, e minha imaginação. Era uma amena semana de abril em 2008 isolado em uma sala. Tudo que havia em volta eram papéis com anotações feitas. Observava uma nova pista todo dia, embora sem ter muita certeza. Àquela altura qualquer coisa serviria.
 
@@ -72056,7 +72056,7 @@ Para se autenticar no repositório remoto é claro que a ferramenta irá se inte
 A causa desse bug é simples: não existe ambiente para as chaves SSH estarem configuradas antes de existir um agente (uma máquina) onde o build irá acontecer. A correção, felizmente, também é simples, apesar de inapropriada: primeiro deve-se baixar o repo sem submodules, instalar a chave SSH, e apenas agora iniciar e atualizar os submodules.
 
 # Awk
-2020-06-07 computer blog
+2020-06-07 blog
 
 ## Introduction
 
@@ -72170,7 +72170,7 @@ END { print " - DONE -" }
 
 
 # Batalha
-2020-06-07 wine blog
+2020-06-07 blog
 
 Em 1836 ocorre a Batalha do Seival, onde hoje fica o município de Candiota, RS. Esse conflito militar ocorreu quando os revolucionários da Revolução Farroupilha venceram o exército do Império Brasileiro e ensejaram a sonhada República Riograndense. Bons tempos. Em um dos melhores momentos da Guerra dos Farrapos.
 
@@ -72179,7 +72179,7 @@ Este vinho produzido na região é um reserva de 2014 que passou por maturação
 Esta garrafa foi um presente de amigos queridos, e me senti particularmente ao lado deles quando provei a primeira taça. Me fez abrir um pouco os olhos para as surpresas enófilas que podem estar escondidas no Sul do Brasil.
 
 # Leak de Memória
-2020-06-07 computer essays blog
+2020-06-07 blog
 
 Esse fim de semana vi um programa, sem leak de memória, que só de ficar alocando e desalocando apresentava um consumo crescente no Process Explorer. Imaginando que poderia ser alguma lib externa, como o redis, fui eliminando uma por uma as variáveis do sistema, até chegar em um loop em que a única coisa feita no corpo do código era alocar e desalocar memória. E ela apenas subia.
 
@@ -72228,7 +72228,7 @@ Entre os destaques no elenco o melhor deles sem dúvida é Babu Santana, que faz
 - 2020-05-13 A torra foi feita na quinta, quarto dia de junho, e eu recebi na noite de segunda e foi o café da manhã da terça. Moído na hora para coado, vinte e poucos gramas, e passado na Aeopress com cerca de um minuto de infusão, seguindo da já tradicional virada antes de abaixar o êmbolo, este café ultra-fresco trouxe para mim, diferente de sua ficha, notas cítricas, lembrando limão. O sabor com certeza é tânico, algo que adoro e que me traz um vício desgraçado. O amargor desta torra média é equilibrado e seu corpo é quase médio.
 
 # Historical Price
-2020-06-13 computer blog
+2020-06-13 blog
 
 Havia um job esta semana de um assunto que me encanta desde a época de investidor: base histórica de cotações. Estamos falando de ações da Bovespa. Na época que era investidor frequente mantinha uma base que era atualizada por um programinha em Java chamado Graphix ou algo assim, mas nunca tive certeza se os ajustes feitos pelo programa eram os corretos. Surgiu agora a possibilidade de eu realizar código que converte uma base histórica recebida com um minuto por linha em campos divididos por ponto-e-vírgula (o CSV do Windows) para candles de várias periodicidades. E isso justo agora que ando estudando awk. Então não deu outra: usei esta linguagem clássica como ferramenta para esta conversão.
 
@@ -72237,7 +72237,7 @@ O código ficou, em minha humilde opinião, elegante e pequeno, pois se aproveit
 O uso de um array por candle simplificou o código, pois ao criar uma função que manipula o candle que está finalizando e o próximo eu posso simplesmente passá-los como argumentos. Dessa forma eu só preciso compor os filtros de linhas de acordo com o resto da divisão do seu número. No exemplo inicial, o candle de cinco minutos está finalizando quando RN é igual a cinco ou múltiplos de cinco, enquanto um novo candle se inicia em múltiplos de seis.
 
 # Printf
-2020-06-18 computer ccpp blog
+2020-06-18 blog
 
 Entre os segredos escondidos das funções básicas da lib padrão da linguagem C o printf e o scanf lideram o ranking. O printf possui a capacidade de alinhamento de colunas das string impressas com tamanho variável. Sabia disso? Pois é, isso não se ensina nas escolas.
 
@@ -72388,7 +72388,7 @@ Usando a biblioteca python-chess fiz um pequeno script que recebe o endereço de
 O próximo passo, antes de ler às cegas, é transformar a leitura do tabuleiro bidimensional para a leitura do formato FEN, que é o formato usado para gravar posições de um tabuleiro.
 
 # Find Path ou Por Que O Vcpkg Não Colocou o Path da Minha Biblioteca?
-2020-07-01 computer blog
+2020-07-01 blog
 
 Algumas bibliotecas portadas para o vcpkg, gerenciador de pacotes direto do fonte da Microsoft, não vêm exatamente como esperamos que elas venham em ambientes mais estáveis como UNIX-like. A GLib, por exemplo, uma biblioteca fenomenal se você deseja trabalhar com um framework puramente em C, está disponível pelo vcpkg através do pacote glib, mas vem encapsulado no namespace unofficial::glib::glib. Isso ocorre porque este não é um port oficial.
 
@@ -72652,7 +72652,7 @@ Quanto aos vilões, esse monte de gente fazendo fila para ser o próximo chefão
 
 
 # GetArgs v. Array
-2020-08-04 computer ccpp blog
+2020-08-04 blog
 
 Algumas pessoas ficam chateadas quando não se programa usando Boost para tudo. E por isso eu continuo escrevendo código simples e funcional para meu blogue. Esse código vai continuar funcionando por mais cem anos e o código da Boost vai explodir antes que seus filhos nasçam.
 
@@ -74156,7 +74156,7 @@ Ele descobre que nasceu para fazer dicionários e entra em um novo projeto para 
 E de fato é. O uso das palavras assume dimensões sagradas em uma história apaixonante.
 
 # Lessons From Online Poker Exploit
-2021-02-26 computer blog
+2021-02-26 blog
 
 Em 2014 eu palestrei na trilha de segurança do TDC em São Paulo um tema que me deixou muito animado: um exploit baseado em falhas de programação em um código de 10 linhas. O código era tão simples que achei válido traduzir para C e demonstrar como atacar uma simulação de cassino online.
 
@@ -74782,7 +74782,7 @@ Interessante notar a coesão dos universos criados pela Trigger. Em Little Witch
 A segunda temporada parece ter começado com gestão Netflix: criaturas mágicas vestindo vermelho e de greve, professora moderna de cabelo curto administrando uma crise de energia, e um roteiro relativamente preguiçoso. Porém, no final há uma reviravolta e pode ser que seja apenas impressão.
 
 # Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)
-2021-05-01 computer debugging videos blog
+2021-05-01 blog
 
 Estava pensando em transformar alguns posts antigos que estou revisando em vídeos no YouTube. Acho que o esforço para fazer isso é relativamente baixo se for sem áudio, sem edição e apenas com o que eu naturalmente faria para validar as partes técnicas, e muita gente poderia aprender algumas coisas, como, por exemplo, configurar o debug de kernel.
 
@@ -74923,7 +74923,7 @@ A destreza com que Ride or Die (o título original, cafona e divertido do filme)
 Ao introduzir personagens já no terceiro ato, Tudo Por Ela nos confessa não ter tido a frieza de esquematizar melhor essas duas horas e meia de emoções. É a paixão que pega fogo rápido e logo apaga, sem a intensidade com que merece ser tratado o drama da violência e do amor exacerbado. Fica a imagem dos seios ensanguentados de Rei nos primeiros quinze minutos de filme. Essa cena merecia um filme mais digno de ser mostrada.
 
 # Como Ordenar Três Números em Uma Entrevista
-2021-05-13 computer blog
+2021-05-13 blog
 
 O primeiro exercício pedido ao candidato para a vaga de programação na "Intelitrader" é fazer uma função que receba três números e informe entre eles qual o maior, o menor e a média dos três. Sim, eu sei, absurdamente fácil, não? Porém, mesmo assim, a grande maioria dos "programadores" que entrevisto perde mais de meia-hora em um exercício simples desse. O motivo, acredito eu, é que a lógica de programação está cada vez mais em baixa. Pensar se tornou tristemente um requisito opcional em uma vaga de programação.
 
@@ -79078,7 +79078,7 @@ Há poucas cenas memoráveis junto desse protagonista que não sei se é um figu
 Sem trilha sonora e com fotografia e sons diegéticos minimalistas, Tantas Almas é uma experiência semidocumental que ironicamente não tem alma. Quando se assiste a uma obra de arte você deve esperar por opiniões, e quanto mais forte e complexa melhor. Porém, um filme tão minimalista que divide seu enredo entre os bons e maus desmorona ao menor sopro de razão. E por isso quando paramos para pensar sobre o que acabamos de ver, não há alma nenhuma nos atormentando.
 
 # Meditação é self debugging
-2022-05-31 computer debugging essays blog
+2022-05-31 blog
 
 Depois que a tempestade na cabeça chega em um nível insuportável há uma calmaria, ou deveria haver, onde o corpo percebe que está vivo, que não existe no tempo e espaço. Existe apenas agora, e tão somente agora, pois o passado é uma máquina de estado mantida pelo cérebro, e o futuro a projeção extrapolada dessa máquina.
 
@@ -79200,7 +79200,7 @@ Este filme foi refeito porque o bonequinho era muito feio. Então lançaram uma 
 Truffault é o amiguinho do Godard e ambos criam os filmes franceses mais chatos da história quando querem criticar algo sem o bom humor. E o bom humor falta em As Duas Inglesas e o Amor, quiçá um dos melhores filme do diretor, que brinca com o conceito literário e as diferenças culturais de dois povos tão próximos fisicamente quanto distantes moralmente. Há algumas reviravoltas que nos acordam por alguns minutos, mas a sensação é pertencer a um dos sonhos que são os filmes do diretor russo Andrei Tarkovsky sem a introspecção nem a filosofia. Um drama barato, novelesco, cartunesco e vazio de alma. Em suma: um trabalho mais francês, do niilismo insuportável, que inglês, de um humor sagaz e espirituoso.
 
 # AWK and DNA
-2022-06-25 computer english blog
+2022-06-25 blog
 
 "AWK DNA"
 
@@ -81244,7 +81244,7 @@ Quem entende perfeitamente o que Margo está sentindo é Eve, interpretada pela 
 
 
 # Gerenciamento de Memória em C/C++
-2022-11-19 computer ccpp videos blog
+2022-11-19 blog
 
 Esta semana fiz uma passagem de conhecimento na firma sobre os smart pointers em C++, que era no fundo o que todo mundo queria entender. Mas para entender essas coisas nada como voltar aos fundamentos da linguagem C e ir subindo nos conceitos.
 
@@ -81266,7 +81266,7 @@ Você olha esse título e já pensa "nossa, ela deve ser travesti; ou puta; deve
 Cléo das 5 às 7 é puro êxtase narrativo. Não há amarras. As cartas foram dadas em colorido, mas o filme é em P&B, romântico e pálido. Vemos figuras urbanas tomando café e conversando na metrópole. Homens observam a nítida beleza de Cléo. Há conversas do cotidiano que lembram os filmes de Éric Rohmer, mais pelo informal do que pelos tema. O filme olha para nós e nós olhamos para ele. Este é um trabalho que quer se mostrar demais. Orgulhoso, vaidoso. E possui virtudes estéticas para tal. E ao mesmo tempo é realista. O assunto é a angústia da personagem sem saber se irá morrer. Quem já esteve ou já se sentiu à beira da morte, algum momento da vida qualquer que poderia ter passado dessa pra melhor, sabe do que se trata. É uma imagem vívida de pertencer ao espaço-tempo. Não o nosso modo morto-vivo automático, acostumados a sermos escravos de nossa mente, perambulando como moribundos pelas poucas décadas que passamos neste mundo. Não. Isso é viver no agora. Mas de maneira claustofóbica. Não há planos para quem não sabe se irá poder materializá-los.
 
 # Passagem de Parâmetros C vs C++
-2022-11-20 computer ccpp blog
+2022-11-20 blog
 
 Em C não é necessário declarar os parâmetros que uma função recebe. Isso é implícito. A linguagem C foi criada para ser um amontoado de assembly descrito com um pouco de syntax sugar e juntado pelo linker através de uma tabela de nomes. O que importa são os nomes. Vamos exemplificar:
 
@@ -81359,7 +81359,7 @@ warning C4087: 'func': declared with 'void' parameter list
 Mas vai deixar rodar. Em C++ não tem jeito. Em C++ ele assume que você não é um bom programador.
 
 # RIP Basílio Miranda
-2022-11-22 ccppbr blog
+2022-11-22 blog
 
 Uma figura e tanto. Um programador e tanto. Do pouco que conheci desta lenda do mundo C, C++ e, principalmente, Qt, não há palavras suficientes para descrever o quão foi bom ouvir suas histórias ao vivo, seja em uma mesa de bar e nosso icônico encontro no ChoPP em São Paulo, ou mesmo em uma de suas palestras sobre Qt no prédio da Microsoft onde ele demonstra um domínio admirável da computação do dia a dia.
 
@@ -83422,7 +83422,7 @@ Este não é um dos piores filmes do diretor. Também não é dos melhores. Até
 Valeu a pena ter ido no cinema junto dos jovens tirando fotos da tela para sair bem nas redes sociais? Filmes do Godard são sempre uma experiência. Se são boas ou más experiências é irrelevante. Cinema de arte não deve ser julgado. Especialmente quando se está dormindo na sala.
 
 # Como descobrir se uma string é mutuamente rotativa
-2023-04-09 computer interview blog
+2023-04-09 blog
 
 Uma string mutuamente rotativa é uma string que se rotacionarmos para a direita ou para a esquerda, com os caracteres "indo parar" do outro lado, é comparável com a string original. Exemplos:
 
@@ -83458,7 +83458,7 @@ bool RotationMutually(string s1, string s2)
 ```
 
 # Como funciona o bubble sort
-2023-04-09 computer interview blog
+2023-04-09 blog
 
 Uma das piores ordenações possíveis, mas uma das mais simples de entender, é a bubble sort. Ela é passada para estudantes de computação porque é um algoritmo possível de explicar sem entrar em muitos detalhes do seu funcionamento, e também porque ela é intuitiva.
 
@@ -83535,7 +83535,7 @@ A complexidade deste algoritmo é de O(n^2) comparações e O(n^2) trocas.
 Ou seja, nada bom. Mas fácil de entender =)
 
 # Como funciona o insertion sort
-2023-04-09 computer interview blog
+2023-04-09 blog
 
 Entre os algoritmos de ordenação mais simples de se entender o insertion sort está na lista. E isso acontece porque ele é intuitivo. É mais ou menos como podemos fazer para ordenar um deck de cartas: pegamos item a item e vamos inserindo em um segundo deck, mas dessa vez observando onde cada carta deve ser inserida para que o deck final esteja ordenado.
 
@@ -83569,7 +83569,7 @@ vector<int> InsertionSort(vector<int> array)
 ```
 
 # Como inverter uma lista ligada
-2023-04-09 computer interview blog
+2023-04-09 blog
 
 Inverter uma string ou qualquer array em geral é muito simples se for pensar: itere do começo ao fim e do fim ao começo trocando as posições dos primeiros elementos com os últimos. Caminhe até a metade. Fim.
 
@@ -83634,7 +83634,7 @@ shared_ptr<LinkedList> LinkedListReverse(shared_ptr<LinkedList> head)
 ```
 
 # Como inverter uma string
-2023-04-09 computer interview blog
+2023-04-09 blog
 
 O bom de estar praticando para fazer entrevistas técnicas é ter material para novos postes. E este poste é sobre um assunto bem simples para quem já sabe como funcionam strings, mas complexo o suficiente para quem nunca ouviu falar de memória no computador.
 
@@ -83676,7 +83676,7 @@ string ReverseString(string s)
 ```
 
 # Como pegar caracteres repetidos em uma string
-2023-04-09 computer interview blog
+2023-04-09 blog
 
 A resposta rápida para esta questão é: hash tables.
 
@@ -83705,7 +83705,7 @@ void MatchingCharacters(string s)
 ```
 
 # Onde fica o meio de uma lista ligada?
-2023-04-09 computer interview blog
+2023-04-09 blog
 
 É simples descobrir o meio de um array: pegue seu tamanho e divida por dois. Agora, para uma lista ligada, mesmo que você saiba qual o índice do meio, não é por meio de índices que acessamos seus elementos, mas por ponteiros.
 
@@ -83762,7 +83762,7 @@ Já o Melitta foi o primeiro método que trouxe um certo amargor para este café
 Porém, o bom do mundo do café é que você sempre pode gastar mais. Mesmo em filtros de papel do tipo Melitta. Já ouviu falar na iniciativa Hario V60?
 
 # Segundo maior número
-2023-04-09 computer interview blog
+2023-04-09 blog
 
 Esta é uma das primeiras questões que peguei para praticar para entrevistas que é ligeiramente mais complicada do que parece, apesar de simples o suficiente para matar em alguns segundos. A questão: como determinar qual o segundo maior número de um array?
 
@@ -83796,7 +83796,7 @@ int SecondLargest(vector<int> array)
 ```
 
 # Como inverter um número
-2023-04-11 computer interview blog
+2023-04-11 blog
 
 Existe uma solução para a inversão de um número que não é bonita, mas prática: transforme em string e inverta essa string.
 
@@ -83846,7 +83846,7 @@ int ReverseNumberNumberVersion(int number)
 ```
 
 # Como verificar se um número é primo
-2023-04-11 computer interview blog
+2023-04-11 blog
 
 Apesar de existirem matemáticos ao redor do mundo tentando responder esta pergunta da maneira computacionalmente mais rápida possível, existe uma forma ingênua e eficiente para números baixos:
 
@@ -83878,7 +83878,7 @@ bool PrimeNumber(int number)
 ```
 
 # Código para Fibonacci
-2023-04-11 computer interview blog
+2023-04-11 blog
 
 Zero e um são os primeiros números Fibonacci e todos os outros que se seguem são a soma dos dois números anteriores. Ou seja, para implementar isto em código basta:
 
@@ -83953,7 +83953,7 @@ Os pontos que Café com Canela tenta unir estão tão espaçados na narrativa qu
 Lá pelo final você entende. A velha aprende a andar de bicicleta. E ela agora pode cruzar uma ponte e superar o passado traumático. Às vezes a única coisa que falta é uma canela no café para aquela energia extra.
 
 # Hacker Rank Warm Up
-2023-04-16 computer interview blog english
+2023-04-16 blog english
 
 Here I am doing interview exercise tests at Hacker Rank. I am trying to recap what I've been doing the last two months before going on. Let's see what I learned, starting with the Warm Up exercises.
 
@@ -84073,7 +84073,7 @@ Do outro lado do ringue temos uma moça que cuida do restaurante da família. El
 Tudo é um show de luzes que quer iluminar temas sociais referentes a comida, mas sua trama é simplista e episódica a ponto de já sabermos de antemão todo o desenrolar da história. Por exemplo, uma vez que a cozinheira sai das asas do seu tutor fica óbvio demais, além de artificial, que vai surgir um confronto direto entre eles. Há uma tentativa séria de ilustrar o filme com cenas impactantes, mas sem pano de fundo que a sustente elas são formas que o próprio chefe do filme tenta iludir seus clientes: com luzes e fumaça.
 
 # Árvore de segmentos
-2023-04-17 computer interview blog
+2023-04-17 blog
 
 Não existe sequer uma entrada em português sobre Segment Tree, uma árvore binária específica para guardar intervalos. E este acredito ser um assunto importante para testes de entrevista ou competições de programação porque ele é muito útil para alguns problemas. Vamos dar uma olhada em como ela funciona.
 
@@ -84249,7 +84249,7 @@ Entre 100 possíveis chutes foram feitos 6, ou cerca de log 100 chutes. Exatamen
 O fato da árvore ser de segmentos é apenas um detalhe que incorre em mantermos atualizados os nodes com a soma de todos os ramos abaixo, algo custoso a princípio, mas que na hora de obter a soma de intervalos faz valer a pena.
 
 # Hash Table Giratória
-2023-04-19 computer interview blog
+2023-04-19 blog
 
 Ainda estudando e praticando testes de entrevista me veio essa em que seja possível realizar somas para todas as chaves de uma hash table. Curioso, nunca tinha pensado nesta feature. Imagine que temos uma tabela de hash entre inteiros em que `{ 1: 8, 2: 9 }`. A chave corresponde ao hash.
 
@@ -84497,7 +84497,7 @@ when tackling a top-down problem, it helps to think the following three thoughts
 
 
 # Easter Egg
-2023-04-28 computer blog
+2023-04-28 blog
 
 Mexendo em um projeto legado encontro "esta pérola". Será que ainda fazem essas coisas hoje em dia?
 
@@ -86010,7 +86010,7 @@ Como uma mulher, o drama é mais paupável. As mulheres precisam de mudança e n
 Não. Drama é ficar assistindo a este filme buscando pelo momento onde algo pesado irá acontecer. Não acontece. Então segue a valsa. Os lamúrios femininos saindo de férias para os festivais de arte. Um prato cheio para críticxs cinematográficxs.
 
 # Boas-vindas ao canal de Reversing do Telegrama
-2023-07-21 computer reversing_tag blog
+2023-07-21 blog
 
 Olá, pessoas do Telegrão que entraram "no canal". Bora começar a fazer baixarias pra ver se anima? Bom, acho que a primeira coisa que todo reversing de computador precisa fazer é gerar sua primeira telinha azul com uma poesia. Vamos lá?
 
@@ -86121,7 +86121,7 @@ Fiz um experimento com a prensa francesa. Após moer para prensa usei uma peneir
 O experimento final foi moer os grãos para prensa francesa e deixar em infusão por 5 minutos para em seguida passar pelo Aeropress. Sem peneirar os fines. O resultado foi o melhor até agora. O sabor "verde" ficou sob controle, assim como o amargor. Este é um café tipicamente amargo e você deve senti-lo na bebida; não faria sentido querer tirar algo que compõe seu sabor. Porém, para sentir o resto dos sabores é crucial mantê-lo sob controle. E eu acho que essa receita conseguiu o feito.
 
 # Descobrir ativação de classes WinRT
-2023-08-13 computer reversing_tag blog
+2023-08-13 blog
 
 A Windows Runtime nada mais é que o COM repaginado. O COM já previa o uso de proxies para comunicação remota entre processos. A WinRT adicionou mais uma interface e uma função. Vou neste post descrever o processo pelo qual descobri como funciona o registro de um dispositivo no Azure Active Directory (AAD).
 
@@ -86292,7 +86292,7 @@ Talvez seja esse mito do bom selvagem misturado com políticas sociais e uma pit
 As imagens de Eima não fazem sentido. Suas trucagens com filtro de cor, luz e transições entre cenas , além de bregas, são o combustível que dá mais sono ainda. Nada do que você ver neste filme te salvará do sono eterno. Estamos fadados a acompanhar o drama indígena em nossos sonhos. Nosso único consolo é que o tormento acaba logo.
 
 # Finalmente blogawk
-2023-08-20 computer projects blog
+2023-08-20 blog
 
 Fiquei muito empolgado com a solução awk que converte meus posts para um epub "carregável" em um leitor de ebook e no computador e parti para usar a mesma estratégia em meu blog para abandonar dessa vez o Hugo, um renderizador de sites estáticos feito em golang extremamente rápido, mas que não está dando conta dos meus mais de 4000 posts.
 
@@ -86312,7 +86312,7 @@ Além disso, awk me dará a liberdade que gostaria de indexar pesadamente meus t
 
 
 # Explorando a HSTRING
-2023-08-21 computer reversing_tag blog
+2023-08-21 blog
 
 Estava me enveredando hoje nos bytes usados para montar e demonstar os argumentos de uma interface COM proxy da WinRT quando quis saber qual era o leiaute da nova string do Windows, a HSTRING, usada na WinRT e em todo o ecossistema dos Universal apps.
 
@@ -86561,7 +86561,7 @@ Tire 5 Cartas vai divertir com certeza o espectador médio que está acostumado 
 Há participações especiais bem pequenas dos saudosos e queridos Alcione e Sydney Magal. É uma pena que é tão pouco tempo de tela que não posso dizer que o filme valha por isso. Vale mais pelo resto, esse passatempo anacrônico e saudosista de um tempo ruim que sempre volta de vez em quando. As boas risadas ficaram no set de filmagens. Espero que toda a produção tenha se divertido.
 
 # TRAFFIC
-2023-09-07 computer debugging reversing_tag blog
+2023-09-07 blog
 
 Observei esta anotação em meu journal de muitos anos atrás (2009) e ela continua atual. Baseado em um powerpoint do cientista da computação Andreas Zeller, autor de Why Programs Fail, este acrônimo é um caminho fácil de lembrar quando precisamos encontrar um bug no sistema. Eu lembro que estava pensando até em escrever um artigo na época, mas ainda estava trabalhando a questão de como traduzir as siglas para o português.
 
@@ -86613,7 +86613,7 @@ Obrigado, e até o próximo bug.
 
 
 # UWP apps não funcionam com proxy de loopback (resolvido)
-2023-09-07 computer debugging reversing_tag blog
+2023-09-07 blog
 
 Durante minha pesquisa para entender como funciona o login no Azure AD chegou a mim a informação muito pertinente de que proxies locais não funcionam por padrão com aplicativos UWP. Isso acontece porque além dos apps rodarem dentro de um AppContainer isolado com seu próprio SID, os privilégios desse SID por padrão são muito limitados. Talvez no futuro isso funcione, mas no momento não.
 
@@ -87958,7 +87958,7 @@ Quando a gordura começar a derreter, reduza a temperatura a menos de 190°C, o 
 Você não odeia e adora os subtítulos nacionais dos filmes que estreiam no Brasil? Ultimamente estou mais odiando. Este filme assisti porque estava no sofá. Dormi nos primeiros... quinze minutos? Não importa. Logo depois disso você entende que a sacada de uma menina entrando na puberdade e virando um dragão... quer dizer, um panda vermelho, é uma desculpa muito boa para abordar este tema com toda a imaginação e exageros da cinematografia chinesa. Vêm à mente as grandiosas cenas de "O Tigre e o Dragão". O filme faz você se lembrar de exemplos bem melhores do que está vendo na tela. A direção é cheia de energia. O que é curioso, pois assim como o último filme que me lembro ter visto, o nacional Minha Irmã e Eu, o roteiro é preguiçoso e a direção é empolgada. A animação explora como mostrar estereótipos de raças sem soar ofensivo. É divertidíssimo tentar encontrar nos filmes da Disney, ou todos em geral, essa forma ambivalente entre estimular a diversidade e ao mesmo tempo desestimular as diferenças. Do prédio de advogados da produtora, maior fonte de renda da atualidade (graças aos processos por direitos autorais), deve haver um andar dedicado para consultoria sobre esses temas "sensíveis". Ah, como é boa a liberdade artística de viver com sua própria mordaça de cores pastéis.
 
 # Merge de backups
-2024-01-28 computer blog
+2024-01-28 blog
 
 Resolvi acabar de vez com os backups independentes das inúmeras versões do blogue e juntar em um único histórico. Para isso recorri ao bom e velho merge clássico, apenas juntando linhas de história não-relacionadas.
 
@@ -88011,7 +88011,7 @@ git commit
 Por fim podemos apagar as branches de repos remotos, colocar tag nos merges feitos ou nenhum dos dois. A organização é sua. Todo o histórico está junto agora. Pode apagar os backups.
 
 # Corrigindo EPUB encoding
-2024-02-06 computer books blog
+2024-02-06 blog
 
 Ontem baixei um livro do libgen.is em EPUB em inglês e ele estava legível mesmo com os sinais bizarros da língua inglesa, como asquelas aspas abre-e-fecha ou aquele travessão que era comum na época da datilografia como dois travessões unidos. No entanto, ao converter para Kindle com o kindlegen.exe tudo isso virou caracteres mais bizarros que um programador reconhece como UTF8 não-reconhecido pela máquina. Coisas como: €™, â€œ, â€™, â€œ.
 
@@ -88842,7 +88842,7 @@ O diretor [David Fincher] impressiona pela energia com que vai escalando as cena
 If I were to see it again and again, I might be able to extract an underlying logic from it, but the problem is, when a movie’s not worth seeing twice, it had better get the job done the first time through. Roger Ebert - Your Movie Sucks.
 
 # Tail recursion in loop while
-2024-04-15 computer english blog
+2024-04-15 blog english
 
 Interesting optimization of recursion using tail function. Consider this:
 
@@ -89736,7 +89736,7 @@ legacy_stdio_definitions.lib
 E tudo se resolveu =/
 
 # Alocação sem construção
-2024-06-11 computer blog
+2024-06-11 blog
 
 Meu amigo está mexendo com allocator e fez o seguinte teste, o que pode dar a ideia errada para o iniciante, porque testei aqui e deu tudo certo:
 
@@ -89922,7 +89922,7 @@ Ainda existe um certo charme no apelo fantástico e nas alusões à era medieval
 A única coisa desta desinteressante trama com pessoas impossíveis de serem reais é Simon Pegg ter pego seu personagem e transformado em uma quase caricatura do estereótipo do homem misterioso. Ele dialoga com ritmo e sarcasmo interno, trancado no subsolo da floresta em torno da mansão de uma família poderosa. Ao lado uma herdeira, Lily Collins pra lá de menininha perdida e birrenta que tem a impossível tarefa de nos convencer que é uma promotora pública de Nova Iorque. O máximo que ela consegue é ser uma riquinha mimada com dad issues.
 
 # Se não instanciou o template não tem nada de errado
-2024-07-03 computer ccpp blog
+2024-07-03 blog
 
 Considere este código:
 
@@ -90353,7 +90353,7 @@ Quando nos esforçamos para aprender algo novo uma nova conexão sináptica é c
 
 
 # Mock de Timer em Moq
-2024-07-17 computer blog
+2024-07-17 blog
 
 Acabou o dia e ainda não consegui terminar este mock dos infernos. Estou tentando criar o primeiro exemplo que usa dois wrappers nunca antes *mockados* (incluindo um timer), mas ficou faltando mockar o `System.Timer`. O teste já funciona, mas ele é obrigado a dar um *sleep* pra esperar o timer terminar.
 
@@ -90766,7 +90766,7 @@ Existe um bug que considera slugs como globais, independente do capítulo (mês)
 Apenas após as variáveis renomeadas será possível reescrever o script para permitir a correção deste e outros bugs.
 
 # Dividindo o assembly para conquistar
-2024-08-23 computer blog
+2024-08-23 blog
 
 "Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas." Rene Descartes.
 
@@ -93546,7 +93546,7 @@ Need to give second thought in near future, since this will change all already p
 Após bagunçar a formatação acho que seria uma boa atualizar os posts selecionados para uma versão padronizada e fácil de manter no futuro. Manter o limite de colunas no código é elegante o suficiente para manter.
 
 # Programming
-2026-03-13 computer programming_tag blog
+2026-03-13 blog
 
 Aqui estão os artigos que considero essenciais para seguir a carreira de programador. Foco principalmente nos fundamentos, pois considero que eles são tudo o que um programador necessita para evoluir. Tendo os fundamentos o resto se faz sozinho no dia a dia
 
@@ -93569,7 +93569,7 @@ Seguindo a mesma vibe tenho dois artigos exploratórios focados em desenvolvimen
 Como este último é sobre depuração você logo vê que os temas se mesclam. Muito pouco tempo um programador se dedica a programar (e hoje com a IA menos ainda). Muito mais tempo é dedicado à depuração mental e prática na seção "Reversing".
 
 # Reversing
-2026-03-13 computer reversing_tag blog
+2026-03-13 blog
 
 A depuração é o meu assunto favorito de ciência da computação. Para mim é até a mais ciência de todas (programação eu considero mais próxima até de matemática). A criação de teorias, testes, obtenção de teorias e a transpiração constante em busca de padrões e os diabos dos detalhes é o que praticamente me fez virar programador. Sem gostar dessa parte menos nobre onde precisamos escarafunchar os algoritmos que criamos ou mantemos, muito se perde de tempo no dia a dia Afinal de contas, se você trabalha com algo que não gosta está perdendo seu tempo. Se depuração te atrai, tenho boas notícias sobre a área para você :).
 
@@ -93678,7 +93678,7 @@ O padrão era mais complexo, com mais membros e algumas variáveis que mudavam d
 "Note on the backslashes: In a bash inline awk '...' script, you need `\\\\` to get a literal `\\` in the output, since bash and awk each consume one level of escaping. The .awk file version only needed `\\` because bash wasn't involved."
 
 # Voltando à linha de comando (again)
-2026-03-23 computer blog
+2026-03-23 blog
 
 Trabalhar com Windows é um exercício de paciência constante. Junto do Visual Studio um treinamento para ser monge. Cada vez mais penso com carinho em meu aprendizado de algumas ferramentas UNIX para conseguir fazer busca e editar arquivos rapidamente. Talvez hoje com a proximidade e compatibilidade entre os dois SOs seja possível uma convivência produtiva de ferramentas feitas originalmente para terminal. O uso de IA também facilita dar alguns primeiros passos mais rápido, como por exemplo saber lidar com projetos do Visual Studio unicamente pelo terminal.
 
