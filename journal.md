@@ -91029,7 +91029,7 @@ Com 50 anos é admirável quanta energia ele colocou, pulando, descendo e subind
 Tão autêntico quanto o tapa que o Chris Rock levou do Will Smith 🙊.
 
 # Gell-Mann Amnesia (Michael Crichton)
-2024-09-20 quotes philosophy
+2024-09-20 quotes
 
 "Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the "wet streets cause rain" stories. Paper's full of them. In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know."
 
@@ -91437,7 +91437,7 @@ Enfim, quando não há invencionices com computação gráfica e quando o filme 
 Talvez a maior perda dos sonhos lúcidos seja o monólogo inconsciente das mesmas vozes ecologicamente conscientes.
 
 # Sit quietly in a room alone (Blaise Pascal)
-2024-12-27 quotes philosophy
+2024-12-27 quotes
 
 "All of humanity's problems stem from man's inability to sit quietly in a room alone."
 
@@ -91476,7 +91476,7 @@ Voltando ao livro. O autor fica toda hora defendendo esse estilo de cozinhar e p
 "Vidro e caramelo são sólidos amorfos, que podem ser representados como líquidos solidificados, desordenados: assim, sua estrutura interna não permite um movimento coletivo. Sob tensão, as forças de ligação se rompem e, macroscopicamente, a matéria quebra."
 
 # A Hacker Manifesto (Mckenzie Wark)
-2025-01-09 philosophy books quotes
+2025-01-09 books
 
 Hackers use their knowledge and their wits to maintain their autonomy. Some take the money and run. (We must live with our compromises.) Some refuse to compromise. (We live as best we can.)
 
@@ -91487,7 +91487,7 @@ Hackers create the possibility of new things entering the world. Not always grea
 The slogan of the hacker class is not the workers of the world united, but the workings of the world untied.
 
 # Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
-2025-01-09 computer books quotes
+2025-01-09 books
 
 Continuando minha saga de achar um bom livro de arquitetura de software.
 
@@ -91520,7 +91520,7 @@ Check all of the things that should be included in a diagram from an architectur
 Components communication. Non functional characteristics. Database access.
 
 # Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin aka Uncle Bob)
-2025-01-09 computer books
+2025-01-09 books
 
 "A good architecture comes from understanding it more as a journey than as a destination."
 
@@ -91602,12 +91602,12 @@ int WaitForDebugger(const char* processName = "notepad", int timeout = 60)
 "In an age in which the media broadcast countless pieces of foolishness, the educated man is defined not by what he knows, but by what he doesn't know."
 
 # Os Safados
-2025-01-28 movies miniviews fragments
+2025-01-28 movies
 
 Se você se entreter demais com o filme, a reviravolta final lhe dará dores de cabeça.
 
 # Matador
-2025-01-28 movies miniviews
+2025-01-28 movies
 
 Este Almodóvar pode ser considerado clássico, pois contém todos os elementos que marcaram seu estilo e que faz parte do repertório decorado de seus fãs. Além disso, apresenta um elenco honesto em participar de uma história semicrua em uma versão que está em construção. É o refinamento do um diretor em treinamento, que não conseguiu mesclar os assuntos de assassinato e touradas a ponto de não ser apenas uma brincadeira. A dupla de assassinos é profissional demais para não serem confundidos com personagens de novela, mas Antonio Banderas vive um de seus melhores papéis como um lunático vidente sensível.
 
@@ -91623,7 +91623,7 @@ Este Almodóvar pode ser considerado clássico, pois contém todos os elementos 
 - Finally talked to the user and got some real information that tracked the next step.
 
 # Grandes Hits
-2025-01-30 movies miniviews
+2025-01-30 movies
 
 A menina viaja no tempo quando escuta uma música que ouviu pela primeira vez com o namorado morto. Ela está obcecada há dois anos em tentar salvá-lo. Surge um japonês fofinho como interesse amoroso e para a cota dos amarelos imigrantes nesta simpática seleção de músicas de apaixonadinhos onde iremos passar duas horas agradáveis.
 
@@ -91632,13 +91632,13 @@ A menina viaja no tempo quando escuta uma música que ouviu pela primeira vez co
 
 "Keeping the focus on the same thing even if you need to wait for action."
 
-# We are all thought
-2025-02-01 quotes philosophy
+# We are all thought (Buddha, The Dhammapada)
+2025-02-01 quotes
 
-All that we are is the result of all that we have thought. It is founded on thought. It is based on thought. Buddha, The Dhammapada.
+"All that we are is the result of all that we have thought. It is founded on thought. It is based on thought."
 
 # Prometheus Rising
-2025-02-01 books reading quotes
+2025-02-01 books
 
 "Whatever the Thinker thinks, the Prover proves."
 
@@ -91769,24 +91769,24 @@ The “akashic records” of Theosophy, the "phylogenetic unconscious” of Dr. 
 Gurdjieff calls this circuit the True Emotional Center.
 
 # Intruso
-2025-02-10 movies miniviews
+2025-02-10 movies
 
 Assisti por recomendação do meu amigo, então sentia que haveria uma reviravolta. Só que ela não chega e o filme estica e você começa a duvidar sobre o que é o filme. Quando finalmente surge a reviravolta as peças se encaixam em dois relacionamentos que servem de espelhos da alma de cada um, o que é triste e doentio. Melancolia sobre o amor na carona de temas recentes. O nome no Brasil não é muito bom. Chamaria de Amor Rival.
 
 # Meio Grávida
-2025-02-10 movies miniviews
+2025-02-10 movies
 
 Piadas ágeis em formato dinâmico me fizeram relevar a linguagem mais recente do cinema, desse pessoal jovem. É engraçado. Assisti dublado e não me arrependo. Filme para não pensar muito. O jeito que a heroína usa a barriga é visceral.
 
 # Casamentos Cruzados
-2025-02-10 movies miniviews
+2025-02-10 movies
 
 Eu gosto tanto de Will Ferrell quanto de Reese Whiterspoon, mas dessa vez eles estão em um roteiro fraco, infantil. Tenta ser sobre sentimentos maduros, mas acaba sendo só pela carência de cada um em não se encaixar mais no que seria uma família, seja tradicional sulista ou pai viúvo. A química entre os dois nunca funciona.
 
-# Symbolical presentations of universal ideas
-2025-03-06 quotes philosophy tarot
+# Symbolical presentations of universal ideas (Arthur Edward Waite, The Pictorial Key To The Tarot)
+2025-03-06 quotes
 
-THE Tarot embodies symbolical presentations of universal ideas, behind which lie all the implicits of the human mind, and it is in this sense that they contain secret doctrine. Arthur Edward Waite (The Pictorial Key To The Tarot).
+"The Tarot embodies symbolical presentations of universal ideas, behind which lie all the implicits of the human mind, and it is in this sense that they contain secret doctrine."
 
 # Se ligue em você! (Luiz Gasparetto)
 2025-03-06 books
@@ -91880,7 +91880,7 @@ bool ExtractResourceToFile(const ResourceIdFileName& resource)
 ```
 
 # Baixando símbolos e módulos programaticamente
-2025-03-30 code debugging
+2025-03-30 computer
 
 Essa semana descobri que é possível baixar não apenas os PDBs do symbol server da Microsoft, mas os binários também. Existem relatos de erros de download para alguns binários específicos, mas em geral é possível baixar qualquer arquivo indexado por eles. Para isso você precisa ter em mãos o timestamp do binário, que antes era um timestamp mesmo, mas após o Windows 10 virou um hash único que identifica o mesmo binário e passível de ser compilado de novo exatamente como era, e o tamanho da imagem. Ambas as informações ficam na header do arquivo PE, mas depois que você consegui-las não precisa mais do binário (teoricamente). O código abaixo demonstra isso:
 
@@ -92547,7 +92547,7 @@ ul_reason_for_call, LPVOID lpReserved)
 ```
 
 # Subir escadas
-2025-04-30 body essays
+2025-04-30 body
 
 Subir escadas é o exercício mais simples possível que mantém em forma as partes mais importantes do seu corpo no longo prazo: pernas e coração. Com as pernas em forma você deve conseguir chegar em uma idade avançada podendo se locomover. Com o músculo do coração em dia você deve conseguir suportar bombear sangue com eficiência e sem sobrecarga. Subir escadas é simples porque basta achar uma escada e começar a subir. O ritmo é definido pela sua capacidade física do momento. Pode ser que um dia suba mais rápido, outro dia mais lento. Você deve subir pelo tempo que achar possível para você, sem comprometer o corpo nem a agenda. Você pode alternar o ritmo ao prestar atenção ao coração batendo mais ou menos, a tontura vindo ou as pernas se cansando. Você pode forçar o corpo de vez em quando a subir o platô ouvindo podcast ou música enquanto faz o exercício, conscientemente ignorando alguns avisos do corpo para se lançar alguns degraus a mais. Você não precisa mensurar nada fora do seu corpo. O tempo gasto não importa. O ritmo não importa. A geolocalização não importa. Se mover importa. Portanto se mova e quando achar melhor pare. Repita de vez em quando. Não precisa ser todos os dias. Não exija disciplina de você. Apenas constância. E isso irá adicionar um hábito saudável e regulável por décadas a fio em seu itinerário de atividades. Irá também aos poucos te inspirar a fazer outras atividades, como caminhadas ao ar livre ou até algo mais ousado. Quem definirá serão seus gostos e sua vontade, moldada pelo pequeno degrau inicial que você ousou subir.
 
@@ -92557,7 +92557,7 @@ Subir escadas é o exercício mais simples possível que mantém em forma as par
 Codar e blogar são tarefas equivalentes. Quando digo blogar estou me referindo a escrever em geral. Textos são apenas linguagens de programação naturais que usam símbolos que seres humanos conseguem decodificar. E como somos máquinas de Turing completas, nossas leituras do mundo, textuais ou outros, interferem nas nossas saídas, e assim por diante. Escrever textos em linguagem natural ou linguagens de programação são essencialmente atividades que codificam símbolos em uma certa disposição, modificam símbolos obedecendo determinadas regras da chamada gramática. Quando estou escrevendo código ou um texto para o blogue a atividade deveria seguir exatamente os mesmos passos, assim como a montagem do histórico, o que significa documentar as mudanças no controle de fonte.
 
 # On Being A Senior Engineer (John Allspaw)
-2025-05-14 computer quotes
+2025-05-14 computer
 
 Nothing they make will ever only be in their hands, and that good peer review is what makes better design decisions. As it’s been said elsewhere, they “beg for the bad news.”
 
@@ -92612,12 +92612,10 @@ George Leonard em Mastery afirma que a plenitude do ser está ao alcance de todo
 
 "To love the plateau is to love the eternal now, to enjoy the inevitable spurts of progress and the fruits of accomplishment, then serenely to accept the new plateau that waits just beyond them."
 
-# O Segundo Cérebro
+# O Segundo Cérebro (Michael Gershon)
 2025-05-24 body quotes
 
-Nas profundezas do seu abdómen há um sistema nervoso vasto, conhecido como sistema nervoso entérico. Contém mais de 100 milhões de neurônios, mais do que a medula espinhal e mais do que o cérebro de muitos animais pequenos, como um gato ou um rato. Este “segundo cérebro” não só gerencia a digestão, mas também produz 90% da serotonina do seu corpo, o neurotransmissor do bem-estar. Ele se comunica com seu cérebro principal, através do nervo vago, o que afeta o seu humor, suas escolhas e sua intuição. Seu estômago não só digere... ele pensa, decide e sente. Nós carregamos um cérebro escondido na barriga... e raramente o ouvimos.
-
-Michael Gershon (O Segundo Cérebro), Scientific American ("O cérebro no seu intestino").
+"Nas profundezas do seu abdómen há um sistema nervoso vasto, conhecido como sistema nervoso entérico. Contém mais de 100 milhões de neurônios, mais do que a medula espinhal e mais do que o cérebro de muitos animais pequenos, como um gato ou um rato. Este “segundo cérebro” não só gerencia a digestão, mas também produz 90% da serotonina do seu corpo, o neurotransmissor do bem-estar. Ele se comunica com seu cérebro principal, através do nervo vago, o que afeta o seu humor, suas escolhas e sua intuição. Seu estômago não só digere... ele pensa, decide e sente. Nós carregamos um cérebro escondido na barriga... e raramente o ouvimos."
 
 # Como eu parei de desmaiar na coleta de sangue
 2025-05-31 body
@@ -92685,7 +92683,7 @@ O sistema endócrino ou das glândulas atua em todo o corpo humano regulando nos
 Zmam Olamot.  Esta expressão significa usar o corpo em adoração ao Pai para entrar nos mundos paralelos. Olamot são mundos paralelos ao físico, os jardins secretos da Cabala.
 
 # A Hora da Estrela
-2025-06-21 fiction books quotes
+2025-06-21 books
 
 Macabéa não consegue evitar ser feliz. Porque se contenta com pouco. Sua classe social não lhe impede de existir, embora na visão de seu narrador isto seja um quase nada, indescritível porque até palavras faltam.
 
@@ -92796,15 +92794,15 @@ However, I approach it differently. If the Seeker asked a specific question, the
 
 Interesting to note is how empaths often suffer from digestive or stomach problems due to their association with the solar plexus chakra.
 
-# Ação das leis gerais
-2025-06-21 books reading
+# Ação das leis gerais (Charles Darwin, A Origem das Espécies)
+2025-06-21 quotes
 
-Quanto ao mundo material, podemos pelo menos ir até à conclusão de que os fatos não se produzem em consequência da intervenção isolada do poder divino, manifestando-se em cada caso particular, mas antes pela ação das leis gerais. A Origem das Espécies (Darwin, Charles).
+"Quanto ao mundo material, podemos pelo menos ir até à conclusão de que os fatos não se produzem em consequência da intervenção isolada do poder divino, manifestando-se em cada caso particular, mas antes pela ação das leis gerais."
 
-# The world you desired
-2025-06-21 quotes philosophy
+# The world you desired (Atlas Shrugged)
+2025-06-21 quotes
 
-Do not let your fire go out, spark by irreplaceable spark, in the hopeless swamps of the approximate, the not-quite, the not-yet, the not-at-all. Do not let the hero in your soul perish, in lonely frustration for the life you deserved, but never have been able to reach. Check your road and the nature of your battle. The world you desired can be won, it exists, it is real, it is possible. Atlas Shrugged, 1957 [1992]: 983, from Stanford Encyclopedia of Philosophy.
+"Do not let your fire go out, spark by irreplaceable spark, in the hopeless swamps of the approximate, the not-quite, the not-yet, the not-at-all. Do not let the hero in your soul perish, in lonely frustration for the life you deserved, but never have been able to reach. Check your road and the nature of your battle. The world you desired can be won, it exists, it is real, it is possible."
 
 # Yes It Can: On the Functional Abilities of the Human Unconscious
 2025-07-02 clippings
@@ -92919,7 +92917,7 @@ A conexão feita por Csíkszentmihályi e outros entre “ficar no presente” e
 Então a conclusão, por mais estranha que pareça, é a seguinte: serial killers sádicos sentem a dor de suas vítimas exatamente da mesma maneira que eu ou você podemos senti-la. Eles a sentem cognitiva e objetivamente. Mas a diferença entre eles e nós é que eles transformam aquela dor em seu próprio prazer subjetivo. De fato, provavelmente se pode dizer que, quanto maior é a empatia que sentem, maior o prazer que obtêm. O que, se você pensar a respeito, é meio esquisito.
 
 # A Máquina do Tempo
-2025-07-02 fiction scifi books
+2025-07-02 books
 
 Me toquei que não escrevi sobre A Máquina do Tempo. Nenhum recorte sobrou do livro de H. G. Wells sobre a viagem mais doida no futuro que alguém pode fazer. O livro é muito mais sobre nossas elucubrações sobre para onde vai a espécie humana do que a inevitabilidade de nossas ações de hoje. Eu me lembro que o filme feito com base na obra fica muito aquém na filosofia, apesar de visualmente deslumbrante. O conto expandido sobre um viajante do tempo que narra suas aventuras para os amigos incrédulos possui o formato usado pelo autor da saga Cavalo de Tróia, em nos fazer ficar desconfiados se tudo isso não foi verdade, mesmo. Engenhoso e espirituoso, nos leva a um mundo que provavelmente não existirá no futuro, mas apenas na aparente infinita imaginação humana. E ela residirá enquanto formos humanos.
 
@@ -92938,14 +92936,14 @@ Da mesma série de coisas inúteis para fazer aliado à sede por livros eu vascu
 "The mystery of why people choose to do other than what they think is best for them to do."
 
 # The Neuroscience of the Gut
-2025-08-30 papers science quotes
+2025-08-30 quotes
 
 The microbe-free animals were more active and, in specific behavioral tests, were less anxious than microbe-colonized mice.
 
 They found that colonizing an adult germ-free animal with normal gut bacteria had no effect on their behavior. However, if germ free animals were colonized early in life, these effects could be reversed. This suggests that there is a critical period in the development of the brain when the bacteria are influential.
 
 # Solar Biology
-2025-08-30 books esoteric quotes
+2025-08-30 clippings
 
 Paul affirmed this in its broadest sense when he said, "By the Logos (the Word, or effectual utterance) the worlds were made."
 
