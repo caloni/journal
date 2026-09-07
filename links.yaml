@@ -1182,7 +1182,7 @@
 - description: "palestras que ministrei ao longo dos anos"
   link: https://www.slideshare.net/WanderleyCaloni
 
-- description: "palestrei"
+- description: "Técnicas antidebugging no TDC 2015"
   link: http://pt.slideshare.net/slideshow/embedcode/key/g5lKLH15KTcenu
 
 - description: "pelo Code Project"
@@ -3173,3 +3173,9 @@
 
 - description: "Russian Tea HOWTO for Linux Hackers"
   link: https://gist.github.com/jwreagor/a225f6654ed492c9d90234ff9c0fc93c
+
+- description: "2001: Uma Odisseia no Espaço"
+  date: 2013-10-23
+
+- description: "Os Suspeitos"
+  date: 2014-10-04
