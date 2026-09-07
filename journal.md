@@ -2043,7 +2043,7 @@ sz = sizeof( ((S*)0)->field1 );
 Conclusion: the operator new is called and nothing happens. We got what we wanted. That shows us one more time that the little details built inside a language layout are only very important in the exact time we need them.
 
 # Como ser um melhor desenvolvedor nos próximos seis meses
-2007-07-18 archive
+2007-07-18 blog
 
 Graças ao meu amigo Thiago estive acompanhando uma série de posts de gente renomada sobre o tema deste artigo. Eles fazem parte de uma nova modalidade entre os blogueiros (pelo menos para mim) chamada de tagging. Funciona assim: você escreve sobre algo (por exemplo, "como ser um melhor cozinheiro em 6 meses") e manda uma tag para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o sítio dessas pessoas.
 
@@ -3407,7 +3407,7 @@ Por isso é necessário pensar bem na implementação. Particularmente uma coisa
 Dessa vez não vou afirmar que, uma vez entendido o problema, a solução torna-se óbvia. Isso porque ainda não pensei o suficiente para achar uma solução óbvia. Idéias?
 
 # ToDoList
-2007-08-27 archive
+2007-08-27 blog
 
 Vou aproveitar que o recente blogue do meu amigo resolveu falar um pouco sobre administração de tempo e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um roadmap de para onde eu quero ir.
 
@@ -3621,7 +3621,7 @@ Bom, acho que para explicar o uso de um sistema multithreading em um artigo só 
 
 
 # O passado torto de um programador por acaso
-2007-09-06 archive
+2007-09-06 blog
 
 Observação: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um dicionário de pessoas comuns.
 
@@ -4331,7 +4331,7 @@ Bons tempos em que Borland era sinônimo de qualidade e preço baixo.
 
 
 # Developer: you need to know English!
-2007-09-28 archive
+2007-09-28 blog
 
 Eu realmente gostei desse negócio de tagging. =)
 
@@ -7222,7 +7222,7 @@ Bom, preciso dizer que isso é uma gambi das grossas? Preciso dizer que não uso
 
 
 # Como ser um melhor desenvolvedor em 2008
-2008-01-02 archive
+2008-01-02 blog
 
 Aproveitando que está se aproximando meu prazo final para minhas resoluções de seis meses atrás, e o "DQ" já fez o checklist dele, vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
 
@@ -7297,7 +7297,7 @@ Conto com a participação de todos que se interessam, usam ou aprendem sobre es
 Errata: na verdade o que ocorreu dia 19 foi um encontro de C++ com direito a palestras e coffee break, o que de certa forma invalida o nome CppCon. Futuramente teremos o que poderemos chamar de conferência C++, no sentido amplo do termo. Te espero lá.
 
 # Como ter um melhor blogue em 2008
-2008-01-08 archive
+2008-01-08 blog
 
 Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas algumas dicas que o criador do termo (we)blog deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia a dia
 
@@ -9271,7 +9271,7 @@ Olá, Vini. De fato, os dígrafos em C/C++ são uma das características das dua
 
 
 # Creative Commons
-2026-03-21 archive
+2026-03-21 blog
 
 Update 2026-03-21. Mantive este artigo pelo histórico e pelos comentários. Há muito tempo desconsidero a propriedade imaginária dos meus textos. Faça o que quiser.
 
@@ -14289,7 +14289,7 @@ Dê uma olhada também no "Mercurial", para ver qual dos dois cabe melhor no tip
 
 
 # Primeiro ano do novo Caloni.com.br
-2008-06-13 archive
+2008-06-13 blog
 
 Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o meu dia a dia real.
 
@@ -17349,7 +17349,7 @@ Enfim, jobs não terminam por aí. Dê mais uma olhada no MSDN e veja se encontr
 
 
 # O que acontece com um programador com pressa
-2008-10-05 archive
+2008-10-05 blog
 
 Eu já sabia, mas é lógico que não ia falar.
 
@@ -17465,7 +17465,7 @@ Porém, provavelmente nosso amigo DQ irá publicar os flashes do dia. É só agu
 
 
 # Cnasi, geração Y e seus gastos em TI
-2008-09-25 archive
+2008-09-25
 
 Nosso crachá de visitantes dava direito a uma palestra. E haviam muitas. Porém, logo após a hora do almoço, das disponíveis uma era particularmente interessante, pois citava uma expressão que eu e minha colega nunca havíamos escutado: um senhor iria nos falar sobre como lidar com essas novas pessoas que estão cada vez mais invadindo nossas casas e nossos escritórios, pertencentes a esse grupinho, a tão famosa chamada geração Y.
 
@@ -20848,7 +20848,7 @@ Assim é fácil de visualizar que os dados estão sempre em um arquivo que ocupa
 Dessa forma, um e-mail que contenha um arquivo em anexo vai ser muito maior que um e-mail apenas com o endereço do arquivo, mas é porque todo o conteúdo do arquivo está dentro do e-mail no primeiro caso. No segundo caso, o endereço ocupa apenas alguns caracteres que identificam a localização do arquivo.
 
 # House
-2010-01-25 archive
+2010-01-25 blog
 
 Depois da analogia entre depuração e CSI, nada como fazer o mesmo com o seriado estilo House.
 
@@ -22210,7 +22210,7 @@ Mas devaneio. Talvez outra boa qualidade de um bom programador.
 
 
 # Twitter, eu?
-2010-07-28 archive
+2010-07-28
 
 Fico meio receoso de comentar aqui que, sim, eu tenho twitter, e, sim, sou praticante de mais uma das artes da vadiagem. Até porque se 5% dos meus tweets tiver alguma relação com o conteúdo desse blogue, é  muito. O resto são comentários sobre economia&finanças, notícias aleatórias sobre alguma descoberta científica (ou não), dicas rápidas sobre cinema e sabe-lá-deus-o-que-mais.
 
@@ -25116,7 +25116,7 @@ E o que dizer do final, que parece sequer ter sido planejado sob o mesmo context
 A triste conclusão a que chegamos é que não basta contar uma mesma história se não houver nada de novo em sua forma, mesmo que a intenção fosse visar o público infantil. Fazendo um comparativo com o adulto "Romeu + Julieta", que muda praticamente apenas a época em que a história foi concebida, chegando a utilizar os mesmos diálogos datados do texto de Shakespeare, este se sai incrivelmente melhor do que os bonecos de cerâmica engraçadinhos, exatamente por explorar a mudança de ambiente e os desafios que isso implicou na adaptação das falas.
 
 # Reorganizando meus feeds (de novo)
-2011-03-10 archive
+2011-03-10
 
 Depois da minha opinião dada ao Efetividade na matéria sobre ferramentas para gerenciar as leituras tenho que atualizar que não utilizo mais o esquema das estrelinhas, porque acabei me dando conta que nunca lia o que marcava para ler "depois".
 
@@ -27074,7 +27074,7 @@ Já pulando para o "gênero ET", é interessante notar sua constituição em tor
 dois: homem_de_ferro_2
 
 # Oitavo Encontro do Grupo C/C++ Brasil
-2011-09-19 ccppbr
+2011-09-19 ccppbr blog
 
 Esse final de semana ocorreu mais um dos inesquecíveis encontros dos programadores C++, dessa vez ao estilo "velhos tempos", com direito a entrada gratuita e um grupo mais coeso, quase já íntimo, e mais animado.
 
@@ -28307,7 +28307,7 @@ O filme narra a relação entre uma mãe já debilitada e seu filho, tudo que el
 Não há trilha sonora, quase não há efeitos sonoros ou diálogos. Porém, há algo inestimável nesse filme: uma visão diferente. Algo para pensar, nem que seja sobre o que o Cinema representa em obras como essa, ou o que ele consegue evocar apenas com a escolha certa de elementos minimalistas e aprofundar na expressividade com nada mais que isso.
 
 # RValue é o novo LValue
-2012-01-11 ccppbr
+2012-01-11 ccppbr blog
 
 As grandes discussões filosóficas que participei durante meu estudo da linguagem C, e mais tarde de C++, muitas vezes convergiam para o significado místico daquela figura que nós da gramática da linguagem conhecemos como lvalue, ou l-value, ou left-value. Enfim, a definição de uma expressão que representa um lugar na memória e, portanto, pode ocupar o lado esquerdo de uma atribuição/cópia/passagem de argumentos qualquer. Porém, os "grandes" embates daquela época hoje parecem brincadeira de criança, como a diferença sutil entre ++x e x++ ou convergência de tipos em templates.
 
@@ -28693,7 +28693,7 @@ Mais interessante é notar que na dinâmica da história, mesmo com toda a impor
 Aliás, fé, razão e intuição são conceitos colocados na mesa a todo momento, e mesmo nós, que assistimos de fora, ficamos com dúvidas durante todo o trajeto. Muitos sairão da sala de exibição convictos que sorte ou talento fazem toda a diferença do mundo, e outros sairão deixando essa convicção na poltrona. De uma forma ou de outra, não dá pra negar que a figura do eterno perdedor não está nas derrotas, mas no pensamento que o define. E uma vez que a pessoa se define perdedora, não há vitórias suficientes que a faça mudar de ideia.
 
 # Conteúdo da Palestra
-2012-03-11 ccppbr
+2012-03-11 ccppbr blog
 
 Uma nuvem mágica...
 
@@ -31773,7 +31773,7 @@ Com uma ou outra sequência isolada que poderia adicionar mais sobre aquelas pes
 
 
 # Décimo Encontro de Programadores de C e C++
-2013-03-28 ccppbr
+2013-03-28 ccppbr blog
 
 Ando tendo alguns problemas de postagem no meu blog, por isso o aviso não foi feito com mais antecedência. Peço desculpas aos organizadores do evento, pois sei que todo tipo de divulgação é útil.
 
@@ -32905,7 +32905,7 @@ Porém, essa não é daquelas experiências visualmente deslumbrantes em cores v
 Rostos flutuam pela tela cortando as cenas. Personagens à frente da tela separam um fundo a milhas de distância. Closes são trocados em velocidade impressionante no meio da pista entre os corredores. Um filme não trivial merece uma abordagem específica para localizar essa emoção constante nas corridas do desenho original. O grande mérito do filme é buscar isso incansavelmente, em uma construção da cena absurda que nos libera para torcer pelo impossível. E quando ele acontece, é o que esperávamos todo o tempo, e pelo que valeu a pena adentrar nesse mundo fantasioso.
 
 # Uma nova linguagem
-2013-12-04 ccpp
+2013-12-04 ccpp blog
 
 Tenho que me atualizar. Faz um tempo (anos) em que deixei de lado esse mundo "frescurento" de C++2030 e me foquei única e exclusivamente em resolver problemas da melhor forma possível com o que a linguagem já tinha a oferecer em uma implementação estável de compilador e bibliotecas.
 
@@ -36368,7 +36368,7 @@ Bom, e o que faz de Transcendence um filme digno de nota? Mais suas ideias do qu
 Talvez esse seja um trabalho bem mais ambicioso do que como foi tratado. Ou talvez Matrix (1999), dos irmãos Wachowski, fosse uma visão mais romantizada deste que pode ser uma versão cientificamente realista (ou pseudo-realista) feita nos mesmos moldes do que Primer é para a viagem no tempo (embora Primer se beneficiasse de um roteiro inteligente e uma direção econômica). A única certeza que tenho é que minha mente só conseguiu diminuir o ritmo de pensamentos duas horas depois que o filme acabou. Depois do terror psicológico, eis que surge o terror mental: baseado em teorias científicas reais, eu realmente não quero mais pensar sobre o futuro da humanidade.
 
 # Houaiss Para *
-2014-10-25 projects
+2014-10-25 houaiss2babylon
 
 O projeto Houaiss2Babylon, iniciado há mais de 6 anos, já devia estar ultrapassado. Porém, cada vez mais pessoas compartilham seus usos e desusos do que foi um dia uma base de dados ofuscada e presa a apenas uma interface Windows. Agora, além de já ter sido convertido para Kindle, em Python e agora através do nodejs para o MySql!
 
@@ -37337,7 +37337,7 @@ A história é simples: três homens são amigos, pescam juntos. Um decide volta
 As transições entre as cenas e durante elas é o lado técnico mais curioso da direção de Fonda, que usa cenas justapostas quando os dois amigos andam de cavalo, ou até em uma conversa no final da tarde. É um exemplo que filmes de faroeste não precisam de muita história e nem todos eles são sanguinários ou com muita ação e pouca reflexão.
 
 # RIP, Alberto
-2015-01-21 ccppbr
+2015-01-21 ccppbr blog
 
 Acho que como muitos aqui de vocês, eu sou (fui?) um fã condicional de Alberto Fabiano, o mestre em várias coisas, não se restringindo apenas à informática. Alberto, é preciso dizer, foi um hacker de verdade.
 
@@ -37479,7 +37479,7 @@ Eve, quase sempre de azul, é a que destoa daquele clima sem cor. Curiosamente, 
 Última coisa: aquele jovem -- o interesse amoroso de Eve -- tem medo de água, uma história triste envolvendo sua tripulação, mas ele é "rebaixado" da marinha para a aeronáutica? Bom, cada um faz o que pode nesse roteiro sem sentido.
 
 # CCPP Brasil 11: Call For Papers
-2015-02-03 ccppbr
+2015-02-03 ccppbr blog
 
 Acho que já está na hora de nos reencontrarmos, né?
 
@@ -37602,7 +37602,7 @@ Conclusão: acho que veria o filme de Ariel Líquido, pois seu potencial dramát
 Boa sessão!
 
 # CCPPBrasil 11 Brasil (Inscrições)
-2015-02-19 ccppbr
+2015-02-19 ccppbr blog
 
 O Call for Papers já iniciou há duas semanas e deverá ser encerrado no final de Fevereiro, quando publicaremos o cronograma do nosso evento. Até lá a página oficial do evento deverá ser atualizada com coisas a mais do que os dois coffee breaks. Porém, antes que o preço aumente, você já pode garantir o seu lugar e pagar mais barato. Para uma dica do que poderá ser selecionado de palestras compilamos uma lista de palavras-chave.
 
@@ -37976,7 +37976,7 @@ A história começa com a morte da mãe de duas crianças que vivem na casa do l
 Porém, são os motivos para a volta ao farol que tornam Song of the Sea uma aventura empolgante, dramática, e até engraçada. As figuras excêntricas que as crianças irão encontrar pelo caminho floreiam a lenda e ajudam a nos situar nesta fábula. Não há conclusão fácil para essa história, mas uma importante lição aprendida. Parece soar piegas, mas não é esse o sentimento que fica. Talvez porque o piegas, quando entregue de coração, funciona muito melhor. OK, essa frase, sim, foi piegas.
 
 # Os melhores eventos são de programadores CCPP
-2015-04-04 ccppbr
+2015-04-04 ccppbr blog
 
 Olá! Se você veio aqui para um flame war, sinto desapontá-lo. Esse título foi criado apenas para chamar atenção =)
 
@@ -38243,7 +38243,7 @@ No entanto, essa não é apenas a história de uma jovem, mas de uma geração, 
 O mais tocante nessa história é que a força dessas jovens parece virar o combustível de mudanças para Vic. Seu novo nome é uma abreviação de Vitória. E Vitória é a síntese do que está sendo dito. A mudança é possível, mesmo que o ambiente não seja favorável. O filme não deixa claro se o final é feliz ou não, mas deixa puro e cristalino que a força de vontade dessa jovem é a mensagem mais poderosa da história. Não importa o que tenha acontecido ou o que vai acontecer. Ela não pode deixar se abater e virar uma "mulher certinha". Seria um golpe mais duro do que ser chamada de puta.
 
 # C, C++, Engenharia Reversa e Todo o Resto
-2015-04-27 ccpp
+2015-04-27 blog
 
 "C++ é divertido, mas não paga minhas contas". Por diversas coincidências da natureza, e um bocado de empenho deste que vos fala, essa frase não precisa ser dita por mim. Tendo programado em casa por 2 ou 3 anos e lido The C Programming Language um bocado de vezes antes de me aventurar no mercado de trabalho, tive a oportunidade de começar na área já programando em C, C++, e com uma equipe peso-pesado. Programávamos para Windows, onde as coisas não são tão fáceis quanto no Linux (que é um SO de e para programadores), e onde precisa-se comer muita farinha com sintaxe para construir coisas decentes. Portabilidade às vezes é um objetivo, às vezes é deixado de lado. A API Win32 já é bruta demais, e o cliente sempre tem um prazo apertado demais.
 
@@ -39423,19 +39423,16 @@ A felicidade é o tema recorrente em O Conto da Princesa Kaguya, como vemos o se
 Com um final deslumbrante que conta com cada segundo de música e movimento, a visão budista da partida não se torna religiosa justamente pela mensagem universal que ecoa em sua sequência. Um filme para ver e rever com o passar da idade. Parece longo, como a vida, mas passa em alguns segundos, como o crescimento de uma princesa.
 
 # Existem programadores C/C++ no Rio de Janeiro?
-2015-07-27 ccppbr
+2015-07-27 ccppbr blog
 
 Essa pergunta eu só vou conseguir saber quando chegar lá. Eu sei que existem pelo menos dois: Pedro Lamarão e André Tupinambá. Lamarão foi um dos fundadores do grupo e vem continuamente em São Paulo para nossos eventos, e agora está organizando o 12° Encontro de Programadores C & C++ do Brasil na Cidade Maravilhosa. Eu irei e palestrarei, mas espero encontrar mais programadores e palestras por lá e trocar um pouco de conhecimento.
 
 E aí, existem ou não existem programadores C/C++ no Rio de Janeiro?
 
 # Técnicas antidebugging no TDC 2015
-2015-07-27 antidebug
+2015-07-27
 
-Esse fim-de-semana, quer dizer, contando com a sexta-feira (dia 24/07/2015), tivemos a trilha de segurança no TDC 2015, e eu "palestrei" pela segunda vez, dessa vez com um material mais antigo ainda, mas que parece ter agradado alguns: técnicas antidebugging.
-
-O que vocês acham de uma versão em áudio? Tenho algumas anotações que costumo fazer para treinar, mas não sei até quando uma palestra no estilo vídeo com áudio poderá agradar. Os que tiverem interesse, por favor, se manifestem, para eu ter algum ânimo de usar minha voz =)
-
+Esse fim-de-semana, quer dizer, contando com a sexta-feira (dia 24/07/2015), tivemos a trilha de segurança no TDC 2015, e eu palestrei pela segunda vez, dessa vez com um material mais antigo ainda, mas que parece ter agradado alguns: técnicas antidebugging.
 
 # Derek
 2015-07-28 series
@@ -39771,7 +39768,7 @@ Ou será que o filme escolhe brincar com seus argumentos e sentimentos? Quando o
 Ainda assim, Nunca aos Domingos ganha alguns pontos por sua conclusão extremamente coesa, além de flertar bem com sua premissa de que a felicidade é algo subjetivo, mas que pode sim ser ensinada e passada adiante. Não importa o quão cego de emoções você seja.
 
 # CCPPBRRio12
-2015-08-16 ccppbr
+2015-08-16 ccppbr blog
 
 Esse foi o segundo encontro do nosso grupo no Rio de Janeiro, Cidade Maravilhosa, Cidade do Bixcoito de Polvinho. E foi o primeiro encontro a ser exibido em streamming e gravado para o YouTube, graças ao suporte da RioSoft, uma organização que incentiva o mercado de desenvolvimento de software no Brasil, e onde foi realizado o evento.
 
@@ -42707,7 +42704,7 @@ Enquanto isso, a nobreza arruma tempo para elaborar seus bailes e seus estratage
 Isso não basta. Já vimos esse filme, e em um formato muito melhor: o drama original. A paródia não consegue nunca criar momentos cômicos interessante, pois se limita a repetir a receita do drama e inserir a novidade dos zumbis pontualmente. Depois da definição fantástica de como seriam os zumbis da aristocracia britânica, esse seria um filme que eu adoraria assistir. Infelizmente, vou continuar esperando.
 
 # Anarchism vs. Objectivism by Harry Binswanger (e outros textos filosóficos)
-2024-09-18 philosophy
+2024-09-18
 
 Um texto bem longo e denso. Um desafio e tanto resumi-lo.
 
@@ -46197,7 +46194,7 @@ E é justamente essa a outra vertente da trama esse ano. Quando uma aluna cuja m
 Com os levantes dessas bandeiras, e com a criação novamente de uma mega-trama que tende a tomar a temporada inteira -- como foi, aliás, no ano passado -- South Park oficialmente se dedica imensamente a criar histórias dentro do contexto, e não perder mais tempo com piadas pontuais. Nesse sentido, ultrapassa Family Guy em milênios. Porém, fica a dúvida: isso será, de fato, engraçado?
 
 # Comercial Friboi - A certeza do churrasco perfeito
-2016-10-16 comercial
+2016-10-16
 
 Em tempos de regravações de westerns como Sete Homens e um Destino, a Friboi aposta no gênero e já parte em seu último comercial, "A certeza do churrasco perfeito", inovando com o conceito já inovador há pelo menos uma década de "câmera lenta com partículas em suspensão" introduzido por Guy Ritchie e filmes como Jogos, Trapaças e Dois Canos Fumegantes. Aqui o churrasco é visto através daquela trilha sonora afiada, fogos gerados por computação e, claro, close na destreza e precisão do mestre churrasqueiro.
 
@@ -46596,7 +46593,7 @@ Porém, há algo meio trash e meio reflexo distorcido no espelho neste episódio
 Bom, uma série como Black Mirror está a todo tempo brincando com esse conceito usando tecnologias quase na palma de nossas mãos. Nesse caso, o dos jogos de videogame, confesso que esperava muito mais imaginação por parte dos criadores. South Park já fez muito melhor.
 
 # Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres
-2016-10-25 mostrasp
+2016-10-25 movies
 
 A sessão de ontem no Frei Caneca de 5 Mulheres estava mais ou menos lotado, o que foi uma surpresa (positiva). O thriller dirigido por Olaf Kraemer desaponta em muitos sentidos, incluindo o fato de ser confuso. Após a sessão, ele mesmo aparece para um pequeno debate de cinco perguntas (aqueles da mostra, que duram menos de 5 minutos, só pra tirar foto e sair vazado). O tradutor/entrevistador teve a consciência de avisar o público antes do filme começar, e o diretor nos avisou que haveria um curta exclusivo de festivais antes, que iria se relacionar com o longa depois.
 
@@ -46883,7 +46880,7 @@ A qualidade em estruturar começo e fim, com um vídeo do YouTube a respeito da 
 Roteirizado por três indivíduos, é difícil saber como é necessário três pessoas para esboçar esse fiapo de história. Há algo tão errado nas Filipinas, que talvez até seus idealizadores tenham sido atingidos pelo suposto câncer que submete essa sociedade cada vez mais em direção à desgraça moral.
 
 # Saldo da 40a. MostraSP
-2016-11-02 lists
+2016-11-02 movies
 
 Vinte e dois filmes. Essa foi a quantidade que consegui assistir nessa primeira mostra que me dedico nos dias de semana (uma bagatela de ter a própria empresa). Na maioria dos dias foram três sessões seguidas; em alguns dias tive que me ausentar, outros simplesmente entrei na sala errada! (e acabei vendo, por exemplo, o ótimo "O Contador"). No entanto, foi de longe a edição do festival em que mais vi filmes, e a primeira em que escrevi sobre todos eles.
 
@@ -51089,7 +51086,7 @@ Por outro lado, há figuras caricatas como a esposa de Ray, interpretada por Lau
 "The Founder" é uma experiência pitoresca de volta aos anos 50 sob uma repaginada que em vez de congratular automaticamente qualquer tentativa de sucesso, observa com olhares críticos por que alguns homens de sucesso encontram esse sucesso. Persistência pode ser a palavra-chave de discos de auto-ajuda da época, mas há algo mais intenso que está sendo visto com maus olhos: o desejo de ganhar a qualquer custo.
 
 # Insights sobre produtividade, auto-ajuda e melhora contínua
-2017-05-28 lists
+2017-05-28
 
 É muito comum programadores, hackers e nerds em geral procurarem bons artigos que os tornem pessoas mais produtivas sem sacrificar a saúde física e mental. No decorrer dos anos me deparei com umas boas leituras. Tão boas que de vez eu quando eu volto a lê-las, e tão boas que acho que vale a pena compartilhar aqui:
 
@@ -51595,12 +51592,12 @@ Este recorte se trata da explicação do filósofo Michael Huemer sobre a "refut
 8. Hence, no inductive conclusion is justified.
 
 # Prefácio de O Capital Vol. 1
-2017-06-27 philosophy
+2017-06-27
 
 Embora se trate de um rascunho, os Grundrisse possuem extraordinária relevância, pelas ideias que, no todo ou em parte, só nele ficaram registradas e, sobretudo, pelas informações de natureza metodológica. Uma dessas ideias é a de que o desenvolvimento das forças produtivas pelo modo de produção capitalista chegaria a um ponto em que a contribuição do trabalho vivo se tornaria insignificante em comparação com a dos meios de produção, de tal maneira que perderia qualquer propósito aplicar a lei do valor como critério de produtividade do trabalho e de distribuição do produto social. Ora, sem lei do valor, carece de sentido a própria valorização do capital. Assim, o capitalismo deverá extinguir-se não pelo acúmulo de deficiências produtivas, porém, ao contrário, em virtude da pletora de sua capacidade criadora de riqueza.
 
 # Why People Are Irrational about Politics
-2017-06-27 philosophy
+2017-06-27
 
 A teoria da "Irracionalidade Racional" do filósofo Michael Huemer estabelece uma base teórica que nos permite afirmar que qualquer discussão política é em sua essência irracional:
 
@@ -51733,7 +51730,7 @@ Ao final fica claro que o objetivo foi criar uma introdução bem-humorada do Ho
 A sensação deste esquecível começo é que há vilões mais perigosos que Abutre em volta do jovem-Aranha. São roteiristas demais, uma direção muito obediente, a exigência do universo Vingadores. Há muitos percalços até dizermos que esse começo pode render um filme de verdade do Aranha, como vimos em Homem-Aranha 2. Esperemos que o foco dos criadores não esteja apenas em usar atores com diferentes tons de pele, gênero e etnia para agradar os justiceiros sociais, mas também em criar múltiplas dimensões para esses jovens.
 
 # 13 Encontro (Relâmpago) C/C++ Brasil Indaiatuba (SP) 5 de Agosto de 2017
-2017-07-19 ccppbr
+2017-07-19 ccppbr blog
 
 Depois desse título não há muito o que falar. Será um encontro relâmpago porque não tivemos tempo de fazer call for papers nem de muita divulgação, que será feita pela Diebold Nixdorf, a empresa que está patrocinando esta edição.
 
@@ -52115,7 +52112,7 @@ A surpresa é o ator que faz o médico, que se assume como o jovem cirurgião pl
 Mas tudo é muito artificial, e não há nenhum desafio ou risco na história. Apenas a descoberta de cada novo infalível passo do novo prefeito do pequeno porto de Tickle Head (cócegas na cabeça?). Há alguns momentos pseudo-emocionantes no final, mas nem por isso você deveria assisti-lo. É mais um processo de entretenimento com pequenos pensamentos esparsos que logo lhe farão esquecer que você assistiu esse filme.
 
 # Décimo-Terceiro Encontro CCPPBrasil (Post Mortem)
-2017-08-06 ccppbr
+2017-08-06 ccppbr blog
 
 Mais um encontro que deu certo. No interior de SP em um sábado meio friozinho e meio calor houve o décimo-terceiro encontro de nossa comunidade C/C++ Brasil, em um espaço e coffee-break fornecidos pela empresa Diebold em Indaiatuba. Houve cinco palestras e o dia passou bem rápido. Parabéns a todos os envolvidos pelo sucesso do encontro.
 
@@ -52437,7 +52434,7 @@ E o premiado diretor/roteirista Aly Muritiba (do ótimo Para Minha Amada Morta) 
 Havia dito anteriormente que o filme é desses milagres onde tudo acontece dando certo, ainda que aqui se trate de um resultado tão realista quanto assimétrico, que flerta com a sensação de inacabado. O milagre é surgir desta profissão um cineasta competente como Muritiba, que encontra cada vez maneiras mais criativas e engenhosas de contar uma história, e aos poucos vai galgando posições relevantes no cinema nacional. Também é uma provocação inteligente, esta da vida real, que apenas depois de trabalhos com apelo mais comercial este filme chega às salas comerciais. Não chega a ser uma surpresa. Inserido em uma cultura da incompetência, é de se esperar que filmes sofram dos mesmos sintomas vistos na história de A Gente. O trocadilho é a cereja no bolo.
 
 # Décimo-Quarto Encontro CCPPBR CFP (Call for Papers)
-2017-09-11 ccppbr
+2017-09-11 ccppbr blog
 
 Está aberta a temporada de Call For Papers do nosso próximo encontro de programadores e aficionados C/C++ Brasil, que deverá acontecer em São Paulo (capital) dia 25 de Novembro de 2017 (sábado). Para quem deseja reservar seu lugar e uma promoção nos ingressos clique no link de pré-inscrição disponível no site do grupo. Mais detalhes serão atualizados no nosso site.
 
@@ -52630,7 +52627,7 @@ Não é pra menos. Toda a equipe de funcionários precisa ficar seis meses na de
 A direção de Erik Shirai é poética, usa tomadas em câmera lenta e trilha sonora de reflexão, mas entrega pouco do que poderia ser um trabalho ambicioso. Ele prefere focar nesse pequeno grupo e como eles se tornam além de colegas, amigos e uma família. Tudo fica ainda mais intenso depois que um dos membros falece. Somos apresentados a cada um deles pela sua idade e há quanto tempo estão no negócio. Muitos deles são velhos, mas muitos também começaram há pouco mais de uma década a tentar manter um negócio centenário.
 
 # C++ Moderno Arranca os Cabelos por Você (std::move e classes simples).
-2017-09-26 ccpp
+2017-09-26 ccpp blog
 
 Um dos "últimos posts" no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
 
@@ -52771,7 +52768,7 @@ Ainda que apresentado de forma atribulada, o universo de "Steins;Gate" consegue 
 Não, não é fácil contar bem uma história de viagem no tempo. E difícil também é consegui-la ter sentido. E dificílimo é conseguir nos fazer sentir o movimento quântico de seus personagens, o ápice de todo filme sci-fi que se respeite. Quase nenhum deles deve ter conseguido chegar nesse nível. Ainda bem que "Steins;Gate" conhece o seu lugar, e homenageia as obras certas, enquanto tenta alcançá-los em inventividade. Percebeu a referência?
 
 # Inscrições para o 14o. CCPPBRSP
-2017-10-06 ccppbr
+2017-10-06 ccppbr blog
 
 Como já foi avisado anteriormente (mas agora com local definido), nosso próximo encontro acontecerá em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), no Station Vila Olímpia. Teremos uma sala equipada para palestras e coffe-break de manhã e de tarde. Mais detalhes no hot site do evento.
 
@@ -53341,7 +53338,7 @@ O momento que resume este longa-video-clipe em formato de filme (e cuja históri
 Assim como é um paradoxo entender que as maiores obras de arte talvez precisem da dor lancinante e do sofrimento intenso de seus criadores, que apenas buscam um lugar ao sol em suas existências sem sentido. Seria essa busca que gera algum significado ou é a própria vida, que está ali apenas para ser interpretada por um artista que nasce através dessa dor?
 
 # Palestras do CCPPBR14
-2017-11-20 ccppbr
+2017-11-20 ccppbr blog
 
 Esse sábado, dia 25/11/2017, teremos em São Paulo nosso 14o. encontro de programadores e aficionados C/C++. Teremos palestras do pessoal das antigas e de um pessoal novato. Ou seja, terá palestras para todos os gostos. As palestras foram selecionadas pela própria comunidade CCPP através de votação, e houve excesso de palestrantes. C++ está bombando!
 
@@ -53379,7 +53376,7 @@ Mas a figura de Jack Huston, neto do icônico John Huston (e outros da família 
 Infelizmente o filme não consegue convencer nem que Liam é genial, nem que McKenzie está apaixonada por ele. O que o filme consegue é nos fazer olhar por Berlim e tentar entender como alguém tão bom quanto Lambert Wilson está fazendo nesse filme. As melhores cenas são dele. E ele mal aparece em vinte minutos de filme.
 
 # CCPPBRSP 14 Postergado
-2017-11-21 ccppbr
+2017-11-21 ccppbr blog
 
 Pois é. Não vai rolar dessa vez. Por falta de quórum, o 14o. Encontro CCPPBR está postergado. Não cancelado. Mas não acontecerá essa semana. Se você já se inscreveu não se preocupe. Iremos realizar o estorno das compras do PagSeguro. Basicamente é isso.
 
@@ -57301,7 +57298,7 @@ Já o final do livro deixa um gosto amargo na boca por tratar dos filmes que, se
 - O filme é sobre o quê?
 
 # Stanford Encyclopedia of Philosophy para Kindle
-2018-07-15 philosophy
+2018-07-15 computer
 
 A enciclopédia mais completa e de maior respeito da internet não é um enciclopédia geral, mas uma de filosofia. Está hospedada na Universidade de Stanford e possui revisão por pares e toda a autoridade de ser escrita por especialistas nos verbetes em questão. O único problema (até agora) era não ser possível baixá-la para degustar no Kindle. Até agora.
 
@@ -59880,8 +59877,8 @@ Sua estrela é Toivo Parikka (Martti Suosalo), o comediante mais famoso da Finl�
 
 Feito para o espectador fazer rir, mas não muito, e conseguir através de algum drama bem localizado e com trilha sonora para fazer chorar, "Rir ou Morrer" é gênero de nicho, feito para o espectador comum. Simpático, terno e esquecível. Assistir entre sessões mais pesadas.
 
-# 1984
-2018-10-26 play
+# 1984 (A Peça)
+2018-10-26
 
 1984 está nas mentes e na alma de nossa sociedade. Ela foi concebida como um alerta por George Orwell contra o autoritarismo e totalitarismo crescente na Europa da segunda guerra, mas por seu formato universal, tal qual A Revolução dos Bichos, se transforma em um guia útil para qualquer época em que isso for um risco para a sociedade. E, sejamos honestos, sempre existirá esse risco.
 
@@ -61057,7 +61054,7 @@ Já para o Boost.Asio será necessário um estudo de impacto e o envio de uma pr
 Update (2019-01-07): Embora use a função WSASocketW o Boost.Asio não suporta a parametrização das flags, e sua implementação não é sobrecarregável, fazendo parte do namespace socket_opt. Foi criado "um issue" no GitHub do projeto Boost.Asio para ver os comentários e colocações da equipe. No aguardo.
 
 
-# Minecraft: O Jogo
+# Minecraft
 2019-01-06 games
 
 Fundamentado em bases materialistas, a partir das quais Karl Marx se orgulharia, Minecraft é uma luta por recursos e sobrevivência. E por ser simples e fácil de jogar, as crianças adoram. Isso e porque também tem skins na aparência dos players.
@@ -61661,7 +61658,7 @@ Adaptado do romance de Darcey Bell, Um Pequeno Favor está sempre bebendo desses
 Ágil para não nos dar tempo para pensar demais nos detalhes, Um Pequeno Favor nos presta a cortesia de ser rápido e direto ao ponto, nos entregando uma sensação estranha e engraçada ao mesmo tempo, e no processo construindo personagens e situações marcantes pela forma com que deturpa nosso senso de moral.
 
 # Diálogos Sobre o Vegetarianismo
-2019-02-03 philosophy
+2019-02-03
 
 Conheci o filósofo Michael Huemer através de um amigo e por procurar há um tempo atrás refutações convincentes do objetivismo. Encontrei uma saída para vários dos problemas discutidos pela humanidade. Isso se chama intuitivismo.
 
@@ -61958,8 +61955,8 @@ Mas por falar em elenco, Maisa é ou já foi apresentadora, cantora, piadista e 
 
 O livro Cinderela Pop é o primeiro de uma saga de sete livros de Paula Pimenta que modernizam os contos de fadas. A produtora desse primeiro filme pretende produzir todos os outros, um por ano; pelo menos esse é o plano. Mas esse filme me fez pensar em outra coisa: sobre a febre de upgrades de contos de fadas. Cinderela Baiana, Encantada... são trabalhos recorrentes, que gostam de reimaginar contos clássicos para os tempos atuais. Eu tenho até uma amiga, Bonnie Hutterer, que lançou um livro com o mesmo intuito e sobre o mesmo conto (versão do século XXI). O que está havendo no mundo? Uma escassez de ideias novas para contos de fadas? As fadas já não estão mortas? Isso são questões que podem ser respondidas analisando o que cada versão tem a oferecer. Cinderela Pop, por exemplo, tem música divertida e uma fotografia bonita. Que venham os próximos filmes celebrando histórias velhas. Carla Perez, onde está você?
 
-# Dogville
-2019-02-18 play
+# Dogville (A Peça)
+2019-02-18
 
 Eu não me lembro direito do filme de Lars von Trier, mas eu sei que ele foi impactante quando o vi, provavelmente em 2005. Estupro, escravidão, tiros. Quando você vai assistir a um filme do diretor dinamarquês é necessário que você esteja preparado para o pior. A peça dirigida por Zé Henrique de Paula talvez se prepare demais.
 
@@ -63144,7 +63141,7 @@ Suportado por um trabalho de maquiagem e direção de arte impecáveis, é recom
 Aliás, a escolha de Marina Provenzzano como Ana é igualmente um símbolo. De pele clara e significando pureza, sua personagem aos poucos vai sofrendo o peso de ser uma mártir em uma cidade que a está esmagando por todos os lados, e lentamente. Provenzzano faz uma Ana corajosa, mas que está perdendo o rumo de suas ações. E o filme a utiliza como o símbolo final, para satisfação dos espectadores do Cinema que ultrapassa alguns limites da realidade para ascender como algo que não nos esqueceremos tão cedo.
 
 # Décimo-Quarto Encontro CCPP42BR
-2019-04-19 ccppbr
+2019-04-19 ccppbr blog
 
 Foi definido recentemente no nosso grupo de Telegram que nosso próximo encontro será realizado na cidade de São Paulo no dia 6 de julho de 2019. Como nossa última tentativa falhou miseravelmente por falta de inscrições suficientes estaremos iniciando a organização primeiro pelas incrições, e, havendo quórum, será feita alocação de sala(s) e coffee-break. Em paralelo iniciaremos o call for papers, onde você é convidado a palestrar em nosso encontro.
 
@@ -72043,7 +72040,7 @@ O conto de fadas dos motoqueiros liberais americanos que se meteram em negócios
 Em cada cenário uma música nova. Em cada cena há tanta naturalidade que não existe roteiro. Este é um filme dirigido sem pressão, ao ponto de não nos importarmos com ele. Também não compramos a briga na história. Deixem o Fonda se divertir com seu filminho de férias. Os ricos também podem sonhar. Essa viagem lúdica e subjetiva você tem que sentir para entender. Pegue, fume um pouquinho este que eu enrolei. E viva a "liberdade".
 
 # Sempre Aposte no Texto
-2020-06-01 essays
+2020-06-01
 
 Achei o link para o artigo que estava procurando. Always Bet on Text é o título. Ele diz o que eu acredito com outras palavras: texto é a telepatia que funciona no tempo e espaço. É imbatível comparado com tecnologias mais novas. Seu sistema de símbolos permite uma troca tão rica de informação entre duas e mais mentes que é provável que ele seja o método preferencial escolhido pela organização da nossa galáxia.
 
@@ -72302,7 +72299,7 @@ Bom, essa conta não vai fechar. Não existem apenas dez tipos combinados de gê
 Se você é de humanas não precisa responder, mas continue levantando suas bandeiras para outro canto.
 
 # Teoria, Prática e Código
-2020-06-21 essays
+2020-06-21
 
 Quando se está aprendendo programação é muito bom praticar escrevendo código. Muitos querem aprender a programar e não começam programando, e se você já começou colocando a mão na massa, parabéns por isso.
 
@@ -72512,10 +72509,9 @@ Filmado com áudio independente, há vários momentos fora de sincronia, mas que
 A conclusão que você irá chegar deste trabalho é que ele é bem pessoal, quase a ponto de não conseguirmos universalizar para tirarmos ideias sobre nós mesmos. Mas é isso o que o torna um filme que chama atenção: aprendemos também observando o outro, e quando o outro viveu em uma década em que não éramos nascidos em um país que nunca conhecemos com pessoas à margem da sociedade. Então ele se torna algo a mais do que nossas vidinhas pequeno-burguesas.
 
 # Cosmic Trigger I: Final Secret of the Illuminati
-2020-07-12 books
+2020-07-12
 
 Este livro do jornalista Robert Anton Wilson, o mesmo de "Prometheus Rising" (Ascenção de Prometheus), caiu em meu colo e comecei a ler sem parar seus primeiros capítulos. Ele explora infinitas possibilidades de navegação da realidade e comunicação entre seres inteligentes da galáxia. Há algo de especial neste livro que ainda não desvendei. A parte sobre comunicação entre eras através da escrita é um keeper.
-
 
 # Pauline Kael
 2020-07-12 quotes
@@ -72965,7 +72961,7 @@ Porém, para nós, meros mortais fora desse joguinho contemporâneo completament
 Na verdade é um jejum de super estímulos, que tem por objetivo apagar o incêndio causado pelos neuroreceptores de dopamina de hábitos compulsivos em busca de prazer fácil para uma vez estabilizado em níveis saudáveis observarmos os gatilhos que nos faz voltar para esses hábitos, observando nossos impulsos para voltar a essas atividades, geralmente associados ao nosso estado emocional interno. Apenas dessa forma, seguindo o modelo de terapia cognitiva, para que o equilíbrio do sistema dopamínico se mantenha, e possamos apreciar como se deve atividades vistas hoje como chatas, como ler, escrever, meditar, passear ao ar livre. Ouvir.
 
 # Bispo e Cavalo
-2020-09-05 chess
+2020-09-05
 
 Já havia estudado este final há muito tempo e nem lembrava mais. Ter empatada uma partida porque não consegui dar mate forçado com bispo e cavalo é o que me fez rever o estudo. Assisti alguns vídeos e pratiquei com alguns estudos no Lichess. Por fim, me pus a jogar com o computador até entender a dinâmica de cercar o rei e realizar o movimento de W com o cavalo. Eu sei que ainda terão partidas que me sentirei acuado por conta do tempo, mas é bom agora voltar a ter o mínimo de arcabouço lógico por trás desse fascinante e difícil final. Tão difícil que até GMs não conseguem aplicar às vezes.
 
@@ -73492,7 +73488,7 @@ Além disso esta é uma série que de fato dialoga com seu público-alvo e enten
 Quem nunca não consegui se declarar para seu amor? Este curto anime apresenta uma coletânea desses encontros e desencontrols no colégio. Há situações que você pode se lembrar de ter vivido, ou de ter ouvido de seus amigos. Algum desenhista de um novo mangá pode pegar algumas ideias deste anime para criar uma série inteira. Acho que o processo para a criação desse foi o inverso.
 
 # A Propriedade é um Roubo(?)
-2020-10-11 books
+2020-10-11
 
 Dei uma folheada neste e outros textos de Proudhon, um dos anarquistas intelectuais mais falados nas rodas de filosofia, e cheguei à conclusão que é impossível se identificar com tamanho apelo às emoções. Proudhon, como tantos pensadores à esquerda, apela demais para o intangível e não argumenta com propriedade; nem a rouba nem a empresta. Ele parte do senso comum de que "não faça aos outros o que não gostaria que fizessem a você" e por isso se tornou popular, mas o senso comum muda com o tempo. Hoje soa ingênuo, infantil, quase uma peça de teatro escolar. Vamos todos dar as mãos para um futuro melhor.
 
@@ -73810,7 +73806,7 @@ A consequência é um ótimo filme, independente de sua origem e adaptação. A 
 História sobre uma família da cidade turística de Bobbio, na Itália. A família é de verdade, mas a história é fantasia. O IMDB o chama de "nostalgic fantasy documentary", mas soa mais ficção estilizada. As atuações e os ângulos da câmera nos convencem mais do que a história, que é irrelevante. Este é um filme sobre personagens e a passagem do tempo. A caçula da família cresce a olhos vistos e um efeito Boyhood ocorre durante o filme. As filmagens de Marco Bellocchio são primorosas e o elenco familiar afiado. O diretor gosta de alusões à nostalgia, como seu mais recente Belos Sonhos. Estes são filmes gostosos de assistir sem o comprometimento de se preocupar em seguir uma história com começo, meio e fim.
 
 # Palestras
-2020-11-08 lists
+2020-11-08 blog
 
 Segue a lista de "palestras que ministrei ao longo dos anos" que possuem alguns slides úteis (os com slides inúteis não estão disponíveis e devem estar na memória dos que assistiram ou em algum post perdido por aí). Have fun =)
 
@@ -74959,7 +74955,7 @@ Depois de algumas horas eu finalmente consegui. Agora é hora de começar a grav
 
 
 # Lista de Listas Sobre Cinema
-2021-05-02 lists
+2021-05-02
 
 - "Top Filmes 2019"
 
@@ -77672,7 +77668,7 @@ Uma pegada "o que está rolando" sem estar preso a uma ideia apenas. Vários dir
 Filme sobre assédio sexual das mulheres no Egito. Baseado em eventos reais, mas a direção junta tudo com coincidências e acontecimentos fantásticos e torna tudo um novelão. Há um investigador que dá uma olhada em dois ônibus com um pouco de sangue no chão e já assume estar no encalço de uma serial killer de abusadores do coletivo. É engraçado ver como o assunto é tratado de forma tão séria. Há idiossincrasias na sociedade egípcia que podem tornar a história bem regional. Os assediadores reclamam que não têm dinheiro para casar. Não há prostitutas no Cairo? Será essa uma crise econômica antes de moral por falta de oferta de mulheres para equilibrar os desejos sexuais dos homens? Até um homem casado não tem aquilo que espera de sua própria esposa (você sabe... aquilo). No final o filme entra na prateleira de feminismo das locadoras: uma mulher corta o cabelo.
 
 # Música gótica sacra e secular
-2021-12-21 music
+2021-12-21
 
 Comecei meus estudos musicais caminhando na ordem cronológica pela história. O primeiro artista que me chamou a atenção foi Guillaume de Machaut, um poeta e compositor francês que para ter uma ideia de sua importância tem a data de sua morte como marcador do final de uma era na história musical da Idade Média.
 
@@ -77779,7 +77775,7 @@ De qualquer forma esta torra média-clara é bem agradável apesar de gourmet. D
 Bom saber da qualidade, mas não é dos meus favoritos que eu me lembre.
 
 # Contato humano
-2022-01-22 fiction
+2022-01-22
 
 O ano é 2047. Apesar de 100% eficaz contra o SARS-COVID-T89, o transporte de passageiros do Uber por carros autômatos não é realidade para 100% da frota. O motivo disso foi a PEC-44 aprovada no começo da semana na câmara de vereadores da cidade de São Paulo, que determina a obrigatoriedade que no mínimo 80% da frota seja composta por motoristas humanos. O resultado foi comemorado pelo Sindicato de Condutores Liberais do estado. De acordo com o líder sindical, essa é uma vitória há muito aguardada e que visa proteger tanto o trabalhador autônomo quanto o cidadão, que muitas vezes precisa atravessar diariamente a cidade na companhia apenas de um robô ao volante. "Falta aquele contato humano. Mesmo com máscaras e o paredão isolador e o sistema de som integrado é importante para mantermos a sanidade, que é tão importante quanto a segurança na saúde, ainda mais em plena pandemia", concluiu.
 
@@ -79077,7 +79073,7 @@ maior=3, menor=1, media=2.00
 Comédia francesa de ação com Omar Sy e os sonhos mais molhados dos liberais. Aqui, diferente da vida real, há uma facção criminosa repetindo os passos do partido conduzido por Hitler, mas eles são chamados de fascistas de qualquer jeito. Seu crime: fazer piadas de negros. Hoje isso dá cadeia. Ou pior: cancelamento nas redes sociais.
 
 # A Brief History of Japan (Jonathan Clements)
-2022-05-27 books
+2022-05-27
 
 A seleção desse livro é fruto de pesquisas na internet por um conteúdo enxuto o suficiente para saber um pouco mais das origens do Japão em menos de seis meses. Jonathan Clements, como o nome indica, não é japonês, mas viveu um bom tempo no país e se tornou um historiador que resgata tanto a História quanto suas dúvidas. Sua palavra final é de dúvidas sobre questões polêmicas de qual a versão canônica. Seus devaneios são opiniões contemporâneas dessa ciência tão castigada por ideologias e narrativas do opressor.
 
@@ -80296,7 +80292,7 @@ Outro aspecto do final fascinante é como eles retomam, observam ou respeitam a 
 A torra é o segredo. Intensa, traz sabores amendoados. Um amargor inebriante.
 
 # Como Ganhar De Torre Dama Encurralando O Rei
-2022-08-13 chess
+2022-08-13
 
 Apliquei um perpétuo nesse final porque pensei que estava pior, mas a análise me dava mais de 5 pontos de vantagem. Olhando por que vi que quando o adversário avançou o peão ele deixou o rei propício a levar vários xeques, e há uma combinação com minha dama e torre (contra a dama e torre dele) cuja ideia é trazer ambos para aplicar o mate e forçar a dama a defendê-lo, e assim deixando de proteger a torre.
 
@@ -80800,7 +80796,7 @@ Ledo engano. Os caminhos tortuosos, naturalistas, do roteiro da diretora iraquia
 Sonne constrói uma atmosfera propícia para a discussão sobre a mudança de ares, costumes e horizonte. E o filme decide não fazer nada disso. O motivo? Sem religião não há motivos. Talvez este seja o melhor eco do que acontece quando uma família perde suas origens ao preço da liberdade.
 
 # O Que Esperar da 46 Mostra SP
-2022-10-15 mostrasp
+2022-10-15 movies
 
 A lista de filmes foi divulgada para a imprensa. Como sempre (ou quase) tento fazer, vai uma lista de diretores e filmes que já andei dando uma olhada. Os parágrafos seguintes falam sobre cineastas em que já escrevi algumas linhas no blogue. Algum trabalho deles estará nessa Mostra. Então trata-se de se identificar, procurar e assistir. Bons filmes.
 
@@ -81059,12 +81055,12 @@ Isso acontece porque no circuito de imprensa global é raro a figura de pessoas 
 
 
 # Camila Vieira
-2022-10-23 mostrasp
+2022-10-23 movies
 
 Esta é uma escritora séria sobre cinema. Em seus textos da última Mostra de SP pode-se notar a facilidade em construir suas impressões sobre o filme sem depender, como muitos escritores no início, em ficar contando a história e alguns spoilers. Camila está interessada em deixar notas curtas e certeiras sobre sua opinião sobre o que o filme quer dizer, qual a atmosfera estabelecida pela narrativa e coisas do gênero. Ela nunca se deixa levar pela visão rasa de um espectador de primeira viagem. Apesar de não relacionar trabalhos e citar rapidamente apenas o filme assistido, é um trabalho competente. Talvez sem tanta vontade e já com conclusões automáticas, mas quantos de nós conseguimos assitir tanto em tão pouco tempo e ainda escrever suas 1000 palavras por filme? Há de se descontar.
 
 # Vanessa Panerari
-2022-10-23 mostrasp
+2022-10-23 movies
 
 Da leva desse ano de contatos encontrados no grupo de imprensa da mostra está Vanessa Panerari. Encontrei dois sites onde ela escreve(u): o "Francamente, Querida" e o "Era Uma Vez na América Latina". No "Era Uma Vez" ainda não há textos sobre a cobertura do evento, apenas uma nota jornalística. No "Francamente" há um texto sobre Tantas Almas que revela ser de fato uma escritora jornalística, e não crítica. Ela entrevista os realizadores. Seu texto é eficiente. Vanessa resgata detalhes da produção e, sucinta, traça um panorama usando poucos parágrafos.
 
@@ -81598,7 +81594,7 @@ Pois bem. Salvos os novos rascunhos em um novo commit, publico as novas modifica
 
 
 # Natália Bocanera
-2022-12-04 mostrasp
+2022-12-04 movies
 
 A advogada em seu tempo livre escreve sobre cinema para o saite Coletivo Crítico, dando sua visão feminista sobre a arte cinematográfica. Peguei alguns textos dessa última Mostra para ler e é possível constatar que ela de fato sabe escrever. Mais do que isso: pincela com certa habilidade os pontos principais que anotou sobre os filmes que assistiu. Sempre, claro, sob o viés feminista junto do pacote ideológico que dispensa apresentações.
 
@@ -82789,7 +82785,7 @@ Este prato vai tradicionalmente carne de porco e significa gengibre frito ou gre
 Este é o café especial da região de Monte Verde. Provei ele achando no mercado local, uma boa surpresa, e depois comprei a versão em grãos na própria torrefadora, em uma das ruas da cidade. Infelizmente não deu tempo de experimentar o espresso porque estávamos de saída. Este café contém um equilíbrio divino entre acidez e doçura. Não se sente amargor, este é daquele estilo em que o café parece um suco. Remete um pouco a frutas maduras ou de inverno, como nozes e castanhas, apesar de haver um pouco de cítrico. Provei mais de duas semanas depois de abrir o pacote do moído do mercado porque estou evitando ingerir cafeína todos os dias, mas o sabor continua bem agradável apesar do tempo envelhecendo. Guardando na lata de Tiradentes.
 
 # Começa um final de peões e cavalos
-2023-03-13 chess
+2023-03-13
 
 Brancas movem e... e nada. É um final complicado.
 
@@ -82808,7 +82804,7 @@ vez.} 43. Nxc3 bxc3 44. Ke3 1-0
 ```
 
 # Algorithms for Dummies
-2023-03-14 books
+2023-03-14
 
 De John Mueller e Luca Massaron, este livro mantém a fama da série "for Dummies", com livros de conteúdo bem estruturado, acessível para a maioria dos leitores e ainda útil para quem já está acostumado com um termo ou dois do assunto, ou até o assunto inteiro.
 
@@ -83438,7 +83434,7 @@ Determine if the parameters are loaded from non-volatile registers and if those 
 
 
 # Cracking the code interview
-2023-04-07 books
+2023-04-07
 
 Este livro foi recomendado pela minha amiga para treinar para as entrevistas técnicas que ando fazendo. Escolhi ler este em seguida após terminar o "Algorithms for Dummies". As primeiras anotações são como compor o CV e qual a estratégia de cada big tech nos seus processos. Escapei esta parte, não estou interessado em trabalhar em um Google da vida. Porém, há alguns detalhes que achei relevante recortar.
 
@@ -84503,7 +84499,7 @@ Eu acredito que você já consiga caminhar com seus próprios pés a partir dess
 
 
 # A Common-Sense Guide to Data Structures and Algorithms
-2023-04-28 books
+2023-04-28
 
 Meu próximo livro para praticar entrevistas técnicas é este de Jay Wengrow. Jay queria explicar de maneira menos matemática e alienígena para programadores como algoritmos e estruturas de dados funcionam e como conceber bons algoritmos e medir a eficiência de algoritmos já prontos. Tudo isso serve também para você que deseja passar nas entrevistas técnicas e suas pegadinhas.
 
@@ -84706,7 +84702,7 @@ vector<int> rotLeft(vector<int> a, int d) {
 
 
 # Listas de Cinema
-2023-05-05 essays
+2023-05-05
 
 Ando pensando em criar listas bonitinhas de referência. Filmes e diretores. Os filmes servem para buscar alguém nos créditos, seja diretor ou outra pessoa, que pode ser uma boa de ver em outros trabalhos, ou até comparar com trabalhos semelhantes (não necessariamente da lista). Já a lista de diretores é porque eles são os caras. Reúnem a galera para rodar um filminho. Gastam a grana dos outros pra lançar sua porcaria. Por que não dar uma olhada no que o cara fez? Se até a mãe dele gostou...
 
@@ -84952,7 +84948,7 @@ Esse experimento me convenceu que é gostoso experimentar blends de vez em quand
 
 
 # Why I will also build my own shitty static site generator
-2023-06-05 projects
+2023-06-05
 
 O texto Why I Built My Own Shitty Static Site Generator resume muito bem minhas restrições sobre Static Site Generators em geral e acaba devaneando por caminhos pelos quais eu também passeio  quando penso em meus textos e as diversas formas dele se propagar. É um ensaio, quase rascunho, do seu autor, mas já abrange para mim de uma maneira holística o suficiente os dilemas entre usar o que já está pronto e perder a liberdade de colocar as ideias no papel ou preferir se fechar nas soluções caseiras, capengas, mas 100% autorais. Não chega a ser o texto que eu gostaria de ter escrito sobre o assunto e que não precisarei escrever por enquanto, mas é um começo corajoso. Os mesmos desafios estão aí.
 
@@ -85539,7 +85535,7 @@ Com isso encerro esta experiência. A ideia era entender o que nos leva a classi
 Agora que estou terminando os copos e já dei uma espiada nas referências as notas estão mais nítidas. Interessante como o cérebro humano trabalha com padrões ligados a referências. Sem isso o mundo todo é apenas um quadro branco. Onde estão as primitivas do mundo das ideias, Platão? Na sua bunda, por acaso?
 
 # Reversing: Secrets of Reverse Engineering
-2023-06-25 books
+2023-06-25
 
 Publicado pela Wiley em 2005, bem na época que comecei a me enveredar no trabalho com análise de trojans e técnicas antidebugging, o livro de Eldad Eilam veio bem a calhar na época e agora virá bem a calhar novamente, pois irei voltar a trabalhar na área. Naquela época começavam a surgir os ataques aos bancos online no Brasil e existia até um tookit que espalhava uma técnica ou duas entre os laranjas que queriam tirar uma casquinha da nova onda. O livro de Eilam busca juntar cada aspecto da engenharia reversa em um apanhado que irá nos dar insights e modus operandi de como proceder para cada tipo de desafio.
 
@@ -86257,7 +86253,7 @@ bp AAD_Core!Windows::Internal::UserDeviceRegistration
 Com isso eu descobri qual o processo e qual a classe envolvida neste processo de registro de máquina. Graças também aos símbolos disponibilizados pela Microsoft fica muito mais fácil entender o fluxo. Pretendo usar esta técnica mais vezes no futuro.
 
 # Windows Internals (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-2023-09-03 books
+2023-09-03
 
 Windows Internals foi o primeiro e último livro que li sobre a arquitetura Windows. No entanto, não li apenas uma edição. A cada mudança no SO a Microsoft Press encomenda uma atualização deste livro que começou com a autoria de Helen Custer. O livro originalmente se chamava Inside Windows NT e eu li uma tradução para português muito engraçada onde se traduz threads como fios.
 
@@ -86826,7 +86822,7 @@ Bill & Ted é um filme totalmente excelente. Seus efeitos são terrivelmente div
 No final eles ficam com as garotas e Napoleão se diverte nos toboáguas de Waterloo. Muitas outras figuras históricas têm seus momentos nesta comédia feita de momentos que se entrelaçam no totalmente excelente espaço-tempo.
 
 # Concerto japonês 2023
-2023-09-23 music
+2023-09-23
 
 Por falar em enlaces, uma experiência muito boa aconteceu hoje no centro de cultura japonesa em Bunkyo, na Liberdade. O trio de cordas da professora de violino e mais seus amigos apresentaram uma viagem de uma hora por tempos e estilos. Somos levados a apreciar o contraste entre um Villa Lobos, alguns compositores europeus, o John Williams do Japão, criador das trilhas de filmes do Miyasaki e o filme "A Partida", além de criações de músico paulista e uma adaptação muito boa de um forró clássico. O apresentador está de parabéns em explicar cada nova peça, além do funcionamento dos instrumentos de corda. O mercado Hirota está de parabéns em servir seus salgados na entrada, incluindo um pão de queijo bem honesto, salgadinho.
 
@@ -86911,7 +86907,7 @@ Estou (estava?) com essa missão de fazer um pão integral próximo do pão que 
 Um vinho português que mistura a casta Touriga Nacional com Syrah e dá um resultado balanceado, leve, uma mistura de azedo e amargo fácil de beber e que de vez em quando gera memórias afetivas de diferentes aromas. Diz o rótulo que gira em torno de frutos pretos, trufas e café. Eu acho que não é pra tanto. Mas gira.
 
 # Como inspecionar chamadas COM remotas olhando a informação de marshaling
-2023-10-03 reversing_tag windbg
+2023-10-03 reversing
 
 Esta dica é para começar uma análise de reversa quando você deseja entender quais informações estão sendo trafegadas por uma chamada COM remota, ou seja, entre processos distintos. Isso vale para WinRT e para o COM tradicional. De uma forma ou de outra a chamada irá passar por `combase!NdrExtpProxySendReceive` e outras funções de RPC relacionadas, além das novas funções de ALPC, em especial `ntdll!NtAlpcSendWaitReceivePort`. Existem várias de marshaling e unmarshaling, mas o mais importante é centralizar na função que envia e recebe bytes e analisar estes bytes. Eles são a versão serializada dos parâmetro sendo trafegados.
 
@@ -86919,12 +86915,12 @@ Outra informação útil ao colocar um breakpoint nesta função é a stack, que
 
 
 # Beginning Mathematical Logic: A Study Guide, de Peter Smith
-2023-10-03 books
+2023-10-03
 
 Este parece desses longos compêndios na questão de uma matéria específica -- nesse caso matemática -- que todo aluno deveria ter contato antes de se aprofundar. Este livro caiu no meu colo sem querer, eu salvei ele nos ebooks e pretendo dar uma olhada mais tarde (ou não) depois de zerar minha lista de leitura.
 
 # Como colocar breakpoint nas chamadas a OutputDebugString
-2023-10-03 reversing_tag windbg
+2023-10-03 reversing
 
 Usando `sxe out` é possível parar a execução de um programa sendo depurado pelo WinDbg sempre que ele disparar alguma saída para o depurador através da função OutputDebugString. Isso permite em nossa sessão de debug descobrir de onde vem a chamada, pois o depurador para e podemos usar o comando `k` para dar uma espiada.
 
@@ -86936,7 +86932,7 @@ Usei isso analisando o comportamento do AAD Broker Plugin, um componente do sist
 Que trabalho excepcional de reality. Se trata de um júri e um processo absurdo de bem construído entre a linha tênue do realismo bizarro e da paródia ficcional. Todos são atores nesse palco. Exceto um, que é um protagonista sendo construído em tempo real pelas interações com todo o resto dos personagens. Não perca o making of no episódio final para relembrar como a construção deste reality passa por um tratamento que pode passar despercebido da maioria dos espectadores.
 
 # Como investigar a vtable de uma interface ou objeto COM
-2023-10-03 reversing_tag windbg
+2023-10-03 reversing
 
 Uma vez que você encontre onde está a `vtable` -- por exemplo, como o primeiro parâmetro da chamada em um método, vide convenção de chamadas do x64 -- liste no WinDbg os endereços contidos neste endereço (o parâmetro `L` é a quantidade de bytes para mostrar):
 
@@ -86983,7 +86979,7 @@ Procurando onde setar a próxima instrução no WinDbg? Dica: curiosamente ela n
 Ou mude o RIP diretamente ☠️
 
 # Como saber quais classes winrt estão sendo ativadas
-2023-10-05 reversing_tag windbg
+2023-10-05 reversing
 
 Quando analisando o comportamento de programas Windows que usam winrt é sempre útil dar uma olhada nas classes sendo ativadas. Uma função-chave para isso é a "RoGetActivationFactory":
 
@@ -87227,7 +87223,7 @@ Que saudade dos peixes que comíamos de graça no Egito! Também tínhamos pepin
 Agora, digam-lhes o seguinte: ‘Tão certo quanto eu vivo, declara o SENHOR, farei com vocês exatamente aquilo que os ouvi dizerem. Todos vocês cairão mortos neste deserto! Uma vez que se queixaram contra mim, todos com mais de 20 anos que foram contados no censo morrerão.
 
 # Encontrando o hive de aps UWP
-2023-11-04 reversing_tag windbg
+2023-11-04 reversing
 
 Aplicativos UWP não possuem direitos de administração. Por isso eles não conseguem carregar um hive de registro como especificado pela API do Windows. A solução, portanto, é mudar o sistema operacional.
 
@@ -87366,7 +87362,7 @@ Quando eu fiz não tinha champignon, mas ficou bom da mesma forma. Cortei tirinh
 Hoje foi a vez de abrir a garrafa branca. Nela havia as uvas Malvasia e Moscato, que nunca ouvi falar. A safra é de 2018 (!!!). Está mais doce que o tinto, mas não estragou apesar de 5 anos engarrafada. Um tanto forte demais, a Mitiko deu a ideia brilhante de tomar com gelo, o que nesse calor veio bem a calhar. Acabei tomando quase toda a garrafa.
 
 # Vovó Ninja
-2023-11-10 music
+2023-11-10
 
 Parece um blog ainda ativo com torrents de diversas discografias e coletâneas. Baixei alguns para a viagem de fim de semana. Ainda analisando o site, mas já gostei da iniciativa.
 
@@ -87406,7 +87402,7 @@ Um anime de viagem no tempo saudosista sobre desenvolvimento de jogos de computa
 Comédia de curtas italiano antigo que eu devo ter visto há muito, mas há muito tempo mesmo. Quando criança. Lembro de alguns detalhes. Principalmente os peitinhos. De resto, é imaginativo, expansivo e quase tocante. O episódio em que um homem finge ser mulher é o que quase chega lá. Não há um tema exato, mas sensações sobre a relação entre homens e mulheres. O episódio título é o último e mais vulgar. Envelheceu bem, contudo.
 
 # Fiquei 45 dias longe do Telegram: fora como criar clickbaits estilo HN, eis o que descobri
-2023-12-21 essays
+2023-12-21
 
 Descobri que eliminar a única coisa que eu uso que é mais próxima de uma rede social não fez nenhuma falta.
 
@@ -88065,11 +88061,11 @@ Já em Baby Driver existe um drama em cima da figura de um garoto bom de mixagem
 Estava nostálgico um dia desses e revi esse filme pelo qual nutria muita admiração do passado. Não foi em vão. Um roteiro absurdamente bem estruturado nos guia ao arco vulnerável de um garoto dos subúrbios de Nova Iorque para a terra prometida dos herdeiros de grandes fortunas, jovens e que sabem do que gostam: serem superficiais e se destacarem da multidão com prazeres efêmeros que custam um dinheiro pelo qual nunca suaram. Um arco que não está bem definido vai se delineando conforme vamos acompanhando as desventuras deste jovem interpretado por um carismático Matt Damon e que o desconstrói sem sequer percebermos. Há alguns exageros de direção que marca a época dos thriller e dramas adaptados de romances dos anos 90, mas seu núcleo narrativo continua intacto. Demorei alguns dias para conseguir me lembrar dos motivos que o levaram ao ato final, e dos porquês agora Ripley não sabe mais quem é, mas a boa notícia é que para ele isso pouco importa.
 
 # Kindle (11th generation)
-2024-02-09 books
+2024-02-09
 
 Talvez mal acostumado com os botões laterais de versões antigas e depois de relutar por alguns anos, nessa Black Friday finalmente comprei uma versão touch na confiança dos reviews e da Amazon. Outro objetivo em atualizar, além de perder esse medo de sair de uma versão sem os revolucionários botões que infelizmente não serão mais lançados, também era usar uma versão com backlight e conseguir ler no meio da noite em luz bem baixa (casados sabem como é). Porém, mesmo convencido da compra, eu ainda temia como seria a nova virada de página. Hoje, meses depois de uso intensivo e depois de inclusive ter experimentado no processo uma outra marca de e-reader posso dizer com confiança: a equipe do Kindle é competente demais. Os caras evoluem mantendo a qualidade onde importa. A virada de página é maravilhosa mesmo na versão touch; rápida e indolor. Pode ser feita com qualquer uma das mãos, indo ou voltando. O backlight com modo dark mantém o mínimo de luz necessário em um quarto totalmente escuro para continuar lendo sem problemas. A única coisa que sentirei falta das versões antigas provavelmente é o histórico de navegação multinível (sem ele dependemos da formatação dos ebooks, mas paciência). De bônus, a mudança rápida de fonte, o sistema intuitivo de marcações, entre outras novas funcionalidades (como os cards de memorização de palavras) me levam a crer que dificilmente irei mudar de marca de e-reader. A essa altura posso me considerar e me sentir como usuários de produtos da Apple se sentem: reféns e felizes.
 
-# Filosofia para ~~idiotas~~ corajosos (Luiz Felipe Pondé)
+# Filosofia para corajosos
 2024-02-15 books
 
 Estava folheando os livros disponíveis na Amazon Prime Reading e este estava saindo do catálogo. Peguei e li em dois dias. Ele é bem curtinho. Seu autor é o motivo pelo qual a filosofia no Brasil não é levada a sério. Ele percorre assuntos aleatórios pelos quais gostaria de dar sua opinião não-requisitada, parte para as conclusões e chama isso de filosofar. Sua fala tem por objetivo chocar por ofensas e por diminuição do outro lado. É bem óbvio sua estratégia. Já vi argumentação muito melhor no Telegram. O bom do livro é que ele acaba logo e você não precisa prestar atenção nas palavras do autor, praticando leitura dinâmica. Bônus: para os com viés de direita é uma massagem de ego. E de graça, por enquanto, no Amazon Prime Reading (esta não é uma propaganda, só se for ao contrário; olha o tipo de livro que deixam para ler "de graça").
@@ -88256,7 +88252,7 @@ Em princípio, o pertencimento a um desses três grupos não é hereditário. O 
 O primeiro e mais simples estágio da disciplina, que pode ser ensinado até a crianças, é chamado, em Novidioma, de pararcrime. Pararcrime significa a capacidade de bloquear, como que por instinto, a fronteira de todo pensamento perigoso. Inclui o poder de não captar analogias, de falhar na percepção de erros de lógica, de entender mal os mais simples argumentos se eles forem adversários do Socing, e de se sentir entediado ou repelido por qualquer linha de raciocínio capaz de conduzir a uma direção herética. Pararcrime, em resumo, significa que a ignorância é uma bênção.
 
 # The Unwritten Laws of Engineering
-2024-03-10 books
+2024-03-10 clippings
 
 O livro "The Unwritten Laws of Engineering" da American Society of Mechanical Engineers (autoria de James G. Skakoon) se tornou um clássico recente por causa que as "leis" descobertas por este grupo de profissionais ao longo de suas carreiras se provaram não necessariamente corretas, mas úteis para a organização de engenheiros em torno não apenas em equipe, mas também por toda uma hierarquia corporativa que permite que mentes pensantes consigam trabalhar juntas em escalas cada vez maiores. Na era da engenharia da computação e suas dezenas de camadas de abstração a versão atualizada nas últimas décadas tem se provado atual. Algumas partes poderão ser revistas ao longo de mais uma geração, mas o núcleo que diz respeito em como tratar seu coleguinha deve se manter ainda por um bom tempo.
 
@@ -88331,7 +88327,7 @@ O café da "Dividendo Café", que achamos no dia do aniversário da Mitiko "em M
 - Envie as transações do device online (validar) importando do PenDrive
 
 # WinDbg travado
-2024-03-14 windbg
+2024-03-14 computer
 
 Uma das coisas mais irritantes no WinDbg é quando ele trava sem motivo aparente. Isso pode acontecer porque ele está baixando símbolos de módulos necessários para mostrar o resultado do comando enviado ou procurando por eles. O comando !sym noisy ajuda a manter alguma saída na tela para entender esse cenário. Entre esses cenários o mais irritante é quando colocamos um breakpoint em um ponto no código fonte e ele precisa encontrar qual o módulo correspondente se ele ainda não souber. Para fazer isso ele sai baixando os símbolos de todos os módulos até encontrar. E ele não para facilmente nesse caso, então os comandos de break não irão funcionar. A janela do WinDbg parecerá travada e não há nada o que fazer.
 
@@ -88370,7 +88366,7 @@ PIDS[$1]=PID++ ; $1 = PIDS[$1] ; print $0 }' Logfile.CSV
 O programa acima troca o separador de campos por vírgula e inicia uma variável PID como 1. Depois a cada passada de linha ele popula um mapa de PIDs reais por pseudo-PIDs e troca o campo do PID real pelo valor do pseudo-PID. Ao final você terá um arquivo com pseudo-PIDs 1, 2, 3, etc, em vez dos PIDs reais. Com isso é possível comparar mais de uma execução com os "mesmos" PIDs, ou ao menos PIDs que vão mudando de maneira ordenada.
 
 # A História do Universo para Quem Tem Pressa
-2024-03-24 books
+2024-03-24
 
 Da série de livros rasos que as pessoas gostam de ler e se sentir informadas (além de poder se achar com os demais), este resumo de descobertas astronômicas e físicas lista rapidamente cada uma das principais, mantendo o leitor ciente de que boa parte delas pode mudar em breve.
 
@@ -88532,7 +88528,7 @@ Um bom café em uma rua tranquila. O espresso é bem saboroso. A prensa francesa
 Priscila é o busão que leva três coroas que gostam de se vestir de mulher para um road movie dos anos 90, quando “cavalheiros estavam em extinção e transexuais estavam se reproduzindo como coelhos”. Profético e espirituoso, sua alma são esses três atores maravilhosos em uma escalação pra lá de inspirada. Terence Stamp havia feito uma década atrás General Zod, arqui-inimigo de Superman. Sua cara fechada conclui várias tiradas do filme e gera mais profundidade ao suposto drama. Hugo Weaving (Matrix, Senhor dos Aneis) empresta seus tons ardilosos e sua voz mais serena para um ser que está sempre se julgando quando o mundo não parece se importar. Seu oposto é o personagem de Guy Pearce (Amnésia), expansivo e correndo o risco de ser uma bicha genérica. As locações no deserto australiano e o figurino brega fantástico dão o charme final a um trabalho parcialmente musical, dramático e cômico. Nenhum dos três gêneros possui a energia que merece. O final é uma sessão da tarde que impõe o apelo comercial para um projeto precursor, que precisa apresentar a mitologia trans para os não iniciados. Na época quase toda a humanidade.
 
 # Miniguia fundamental sobre estoicismo
-2024-03-30 philosophy
+2024-03-30
 
 - Amor Fati: I will accept and love my fate, no matter what is it.
 
@@ -88553,7 +88549,7 @@ Priscila é o busão que leva três coroas que gostam de se vestir de mulher par
 "Quando a pessoa está ocupada e absorvida em seu trabalho, a própria absorção proporciona grande deleite; mas quando se retirou a mão da obra-prima concluída, o prazer não é tão intenso."
 
 # Undoing Yourself (Christopher S. Hyatt)
-2024-08-07 books
+2024-08-07 clippings
 
 "The only way out is in. YOU CAN'T BE BORN AGAIN WHEN THERE IS NO YOU."
 
@@ -89653,7 +89649,7 @@ Ele também congelou em parte porque esqueci muito tempo no freezer (para evitar
 Proveniente do centro-norte da região denominada Gualtallary. É uma zona alta e com solo sedimentado com granito e "calcáreo". Guardado em barricas de roble francês. Sinceramente achei muito bom, e foi melhorando ao longo dos dias. Não é marcante, mas é um ótimo vinho.
 
 # The Heimatdamisch: Sweet Child o' Mine (Guns n' Roses)
-2024-05-25 music
+2024-05-25
 
 Tive que ver os outros trabalhos. A energia da banda irradia além da obra original. Eles criaram outra coisa que não é paródia. É um trabalho honesto e encantador pela sinceridade que provoca em nossas reações. Mas isso não impede que eles riem de si mesmos. Que época para estar vivo!
 
@@ -90319,7 +90315,7 @@ O que ele não tem que é necessário para a construção de um livro são metad
 
 ```
 # Asciidoc the worst?
-2024-07-15 books
+2024-07-15
 
 Tentei por um tempo assimilar a ideia de usar o formato asciidoc como
 o padrão para meu novo arquivo-fonte do blog e de futuros livros.
@@ -90414,7 +90410,7 @@ A próxima seria entender o que é necessário para que o Visual Studio pare de 
 Drama adolescente de gente com doença terminal. Casal fofinho e artista. Coincidências quase que ocasionais (como ambos serem artistas). O filme força vários momentos de choro livre, mas é incapaz de dar um passo além do drama dos moribundos. Todos em volta são compreensivos. Os colegas de escola se afastaram para ensinar pelo filme que isso não é bonito. O casal fofinho segura estilo novela coreana qualquer história subdesenvolvida como essa.
 
 # A Arte de Ler o Tarô para Si Mesmo (Weber, Courtney)
-2024-07-25 books
+2024-07-25
 
 Faz muito, muito tempo que não tenho contato com cartas de Tarô. Há muito tempo atrás eu aprendi a ler (sort of) as cartas e exercitava esta habilidade de amador para mim mesmo. Foi uma surpresa boa ver este livro disponível no Prime Reading, repositório de livros que você pode baixar gratuitamente dentro do plano da Amazon Prime. Estou lendo e a autora me parece muito mente aberta tanto para os ceticismos da época quanto para as diferentes interpretações do mistério que as cartas nos reservam. Sua visão e explicação da dinâmica das cartas, do leitor e do consulente são exatamente as mesmas que possuo. Houve identificação. Continuo lendo (2026-04-24 parei faz tempo, abaixo recortes).
 
@@ -90561,7 +90557,7 @@ Ele as lançará em total confusão, até que sejam destruídas. Entregará os r
 Reconheça, portanto, que o SENHOR, seu Deus, não lhe dá essa boa terra como propriedade porque você é justo, pois não é. Na verdade, você é um povo teimoso.”
 
 # 50 Clássicos da filosofia (Bowdon, Tom Butler)
-2024-08-05 books
+2024-08-05
 
 Os filósofos gostam de acreditar que estão erigindo sistemas imparciais e rigorosos para explicar a ação humana e o universo, quando, na realidade, as filosofias são expressões de inclinações e perspectivas pessoais. William James (Pragmatismo).
 
@@ -90648,7 +90644,7 @@ O roteirista Richard Curtis entrega um material tão humano, sensível e irônic
 Essa música tema dos anos 70 e essa produção televisiva de qualidade duvidosa é ótima. Linda não foi a primeira mulher maravilha. A primeira é do ano anterior, quando tentaram vender em um longa a ideia da Wonder Woman como uma James Bond feminina com alguns poderes velados. Não há nem o uniforme dos quadrinhos. Não gostaram. Tentaram de novo com uma versão mais canônica possível. Deu certo. Essa produção vendeu por quatro temporadas. Os vilões são canastrões e datados da segunda guerra. Os efeitos nem se falam. Mas o carisma e a postura da atriz compensam. Boas sacadas de humor, bom uso de feminismo. É interessante comparar com a versão de Gal Gadot. Assista pelo menos um episódio.
 
 # Filmes que odeio: (mas todo mundo ama)
-2024-08-05 books
+2024-08-05
 
 ## Uma ode apressada ao gosto pessoal
 
@@ -90660,7 +90656,7 @@ Gosto não se discute (se lamenta). Neste curtíssimo livro alguns autores publi
 Este é um dos melhores musicais que já vi em toda minha vida. Ponto. Ele ainda é bom hoje, em 2024. Ele nos faz entender boa parte do cinema como é feito (uma aula), mas também possui uma história empolgante, dinâmica, auxiliada por um elenco absurdo de bom, cantando, dançando e atuando. Além de ensinar sobre cinema o filme ensina a verdadeira quebra de paradigma (no sentido real do termo, sem exagero) que foi a mudança de cinema mudo para falado. "O Artista" é uma obra que homenageia essa transição. Cantando na Chuva é um filme que vai além: ele não se ancora em melancolia, mas impulsiona nossa visão do futuro brilhante que o cinema terá pela frente. Suas cenas de dança não são apenas absurdamente sincronizadas, mas a câmera conduzida por Gene Kelly e Stanley Donen estabelecem critérios que estão anos-luz à frente de diretores medíocres como Tom Hopper (que fez, ironicamente, um musical de Os Miseráveis que faz parte de uma piada deste filme).
 
 # The Systems Model of Creativity (Mihaly Csikszentmihalyi)
-2024-08-07 books
+2024-08-07 clippings
 
 The resurgence of scientific interest in creativity is in itself an instructive story about how fads in science are swayed by political and economic forces.
 
@@ -90749,15 +90745,6 @@ Bottom line: Paleo não é bem uma dieta. É mais um estilo de vida que pode e d
 
 Romance fofinho. O cara chama Mr. Darcy de verdade (foi Colin Firth quem protagonizou o personagem de Orgulho e Preconceito na série televisiva britânica, então a piada/referência é válida). Hugh Grant canastrão na medida certa. Direção dinâmica com músicas pop icônicas e um roteiro fluido, onde uma cena puxa a outra e quase não parece montado, exceto por momentos divertidíssimos escolhidos para o filme, como a briga dos rapazes no restaurante grego na frente de casa, ou piadas ruinzinhas que envelheceram mal. Porém, tudo empalidece frente a interpretação de Renée Zellweger, uma atriz texana que adota um sotaque britânico perfeito e polido e demonstra uma energia que transcende o filme que participa. Você veria este filme apenas por causa dela, ainda que não houvesse roteiro. Ela compensa. Ela é real, está a uns quilos a mais da perfeição sempre e seu diário é um mero acúmulo de todas as garotas seduzidas nos escritórios dos anos 2000. Uma ode à garota comum com toques da autora de "Orgulho e Preconceito". Não é imperdível, mas continua uma sessão que aquece o coração.
 
-
-# Tentei dividir um post em dois, mas...
-2024-08-22 projects
-
-Existe um bug que considera slugs como globais, independente do capítulo (mês) em que o post foi escrito. Com isso títulos ou slugs iguais geram o mesmo post na listagem de posts e apenas uma entrada no quicksearch.
-
-É necessário renomear as variáveis do script txt2blog.awk para que fique mais simples de entender onde cada variável é usada. Como na prática todas são globais a ideia é usar os prefixos f_ (função), a_ (argumento), l_ (local) e g_ (global) para conseguir diferenciar. Não sei se existe alguma convenção de nomes para variáveis em scripts awk (se houver, usar).
-
-Apenas após as variáveis renomeadas será possível reescrever o script para permitir a correção deste e outros bugs.
 
 # Dividindo o assembly para conquistar
 2024-08-23 blog
@@ -90856,30 +90843,6 @@ O Blend de Chenin Blanc e Viognier, surpreendentemente requintado, é um pouco m
 
 Mal espero por um Rio Sol Gran Reserva. Sei que posso me decepcionar forte, mas é sobre isso que você se aventura a degustar inúmeros rótulos nunca se apegando a nenhum. Mas quando vem uma surpresa… que maravilha!
 
-# Txt2Blog: Mais formas de link (ajustes e melhorias)
-2024-09-01 projects
-
-Dei uma reformada no script awk que estava com muitas variáveis globais (agora são poucas e reconhecíveis) e aproveitei para remover os links de busca por outros artigos por links diretos para os artigos. Para conseguir isso eu tive que rodar um script antes no arquivo inteiro dos posts para localizar onde ficarão os posts para depois conseguir linkar na hora de renderizar os mesmos posts. Isso resolve apenas uma questão pendente com os links. Há mais alguns acertos e melhorias do tema que é justamente o motivo de eu ter feito o próprio script de geração de blogs: metadados.
-
-O primeiro ajuste é um bug que existe ao referenciar posts com o mesmo slug. Como é possível que isso exista em meses diferentes (cada capítulo do blog, ou página html, são os posts de um mês), fica indefinido a qual post o texto se refere se ele usa um slug ambíguo. Para resolver isso algumas soluções são possíveis. A melhor delas talvez seja referenciar todos os posts com o mesmo slug. Afinal de contas, se o slug é o mesmo é muito provável que ele se refira ao mesmo tema (dois ou mais textos sobre o mesmo filme, por exemplo).
-
-Um segundo ajuste é considerar o mês/chapter sempre que for utilizar um slug (o que corrigiria outros problemas com indexação e listagem) e utilizar o slug mais recente como o default. Ainda não estou certo se utilizar um default é uma solução viável, pois pode haver ambiguidades não-planejadas e tira a liberdade do autor em especificar exatamente a qual texto ele se refere. O autor poderia teoricamente referenciar de duas formas: ou com o chapter em mente ou um slug qualquer que pode ser usado como coringa (o mais novo ou a listagem completa de slugs ambíguos). De repente o slug se torne um identificador atemporal sobre um mesmo tema (já que o título, que pode ser diferente, pode dar conta do resto).
-
-Um outro desejo que nutro sobre metadados é a possibilidade de linkar temas mais esparsos que tags. O uso indiscriminado de tags já foi pensado e isso geraria um desconforto muito grande em manter tudo isso sincronizado, muito embora ele possa precisar se usado como um peso que o autor define para certo tema. A dualidade aqui é entre o peso que o autor deve poder atribuir a um tema versus o peso oculto que uma certa busca pode ter. Exemplifico.
-
-Imagine que você como autor queira eventualmente falar sobre [Keanu Reeves]. Em dado texto sobre [John Wick] você irá ressaltar algum traço específico de sua personalidade. Em outro, sobre uma revisita a "Matrix", irá comentar em um parágrafo sobre a trajetória do ator. A pergunta é: você, autor, gostaria de juntar esses parágrafos espalhados sobre um ator em uma tag, ou seria mais interessante conseguir apontar diretamente para os parágrafos em si? Ou, ainda, será que o próprio leitor (você no futuro ou um leitor de verdade) deveria conseguir fazer esta busca? Concluindo a pergunta: os metadados mais emergem como consequência da criação de conteúdo ou eles são parte da criação ou do retrabalho em cima do conteúdo?
-
-Mas divago. Vamos aos links práticos.
-
-Notas de rodapé global, por exemplo. Seria muito útil (seria?) através de um nome marcado com colchetes em um ou mais posts apontar para um verbete de um dicionário ou algo do gênero?
-
-Não esquecer também das notas de rodapé locais, essas mais úteis ainda. Seriam itens numerados (ou autonumeráveis) cujo conteúdo estará no blog ao final do texto e em um livro no rodapé da página (e em um ebook em um link de nota de rodapé).
-
-Um índice onosmático ou temático precisa ser construído através de alguma marcação específica no post ou no parágrafo que será usado como referência (de preferência o parágrafo). Talvez valha a pena indexar os parágrafos de um post (ou do mês/chapter) por números crescentes e itens indexáveis em cada parágrafo podem se reunir em um índice onosmático ou algo do tipo em uma página específica. Para isso acontecer é uma modificação relativamente simples no script, mas complicada de se trabalhar em todos os textos.
-
-Não que qualquer outra estratégia já não seja por si só trabalhar novamente os textos. Trabalhar metadados talvez seja mais uma questão de revisão do que de autoindexar conteúdo gerado. O peso de um termo está em ele existir no texto ou no autor colocar ênfase?
-
-
 # Etchart Estate Torrontés 2022
 2024-09-01 wine
 
@@ -90907,7 +90870,7 @@ Mas apesar de se divertir moderadamente, ele envelheceu mal. É uma produção d
 "Have you heard enough? I had to listen to this... for centuries." Meu amigo me fez ver essa cena por séculos. Ela não é tão marcante assim hoje, mas o filme, mesmo com as marcas de datação em uma trilha sonora passada ou alguns cortes exagerados, mantém-se como uma das melhores adaptações de livro para o cinema. Ele não deseja contar nada além do que se sabe sobre vampiros exceto a questão existencial do que é ser um, e neste filme é meio bosta. O filme aborda essa filosofia a uma distância segura do espectador. Tem uma história para seguir, mas a essência está nas entrelinhas junto de atuações no mínimo inspiradas e no máximo Kirsten Dunst. Para uma atriz daquela idade (12 anos) uma criação potente. Ela mescla o fato de ter décadas de vivência com a imaturidade de uma criança como poucos personagens em sua condição. Não me lembro de nenhum exemplo tão enigmático. Você só percebe isso em sua atuação e menos nos diálogos. Já as falas dos vampiros adultos não é tão intenso, é mais reflexão e é difícil captar o peso de uma vida de séculos. Mesmo depois de duas horas de filme ainda não sabemos quem são Louis, Lestrad e Armand exceto sombras do seu tempo tentando sobreviver às eras. É uma visão romântica que apenas Brad Pitt segura no protagonismo com uma intensidade equivalente a de Dunst. Os efeitos são datados, mas passam. O final é mais imortal que os próprios vampiros. Vamos voltando à realidade mundana a muito contragosto. A dualidade de aceitar a transição que poucos transsexuais têm coragem de representar na tela mesmo hoje com tanto poder de representatividade. Falta coragem. Nem Lana Wachowski teve culhões em Matrix 4. Talvez se ainda fosse homem conseguiria. Aos poucos vamos vendo que não são os temas sociais que incomodam, mas a falta de coragem de saltar mesmo nos temas que são propostos. Em Entrevista eles vão a fundo mesmo em um filme bem comercial, o que já é alguma coisa. Não tem profundidade, mas sugere a sensação.
 
 # Listas: a implementação e a morte
-2024-09-08 projects
+2024-09-08
 
 Implementei suporte a listas no blogue e comecei a vomitar listas temáticas, como os meus textos de Breaking Bad, House of Cards e outros, apagando o post com a lista dos textos relacionados com estas séries. A ideia era permitir uma indexação diferente de tags, um conjunto menor, que não precisa ser mantido, mas ao mesmo tempo categorizado sob a mesma alcunha.
 
@@ -90934,7 +90897,7 @@ A ideia geral é essa. Conforme textos longos forem surgindo, se aproveitando de
 E com isso nascem e morrem as listas.
 
 # The AWK Programming Language (Alfred Aho)
-2024-09-14 books
+2024-09-14 clippings
 
 Acabei de ler o The Awk Programming Language. Livraço. Impressionante a qualidade de escrita dos autores da época. É uma carta aberta de programadores para programadores. Seguem recortes que fiz durante a leitura.
 
@@ -90989,7 +90952,7 @@ We were surprised at how rapidly Awk became popular as a general-purpose program
 In addition, the absence of an explicit concatenation operator, an advantage for short programs, now requires the opening parenthesis of a function call to follow the function name with no intervening spaces.
 
 # The Algorithm Design Manual (Steven S. Skiena)
-2024-09-14 books
+2024-09-14
 
 Acordei no meio da noite pensando em como remover um elemento de uma árvore, aí eu desisti de criar minha própria solução. Baixei The Algorithm Design Manual e Cormen para aprender. Um lapso temporário.
 
@@ -91043,7 +91006,7 @@ Esta amostra que peguei eu achei bem estranha nos primeiros dias. Demorou até o
 Foi bom enquanto durou. Que venham mais cafezes.
 
 # Informação não é conhecimento
-2024-09-20 essays
+2024-09-20
 
 A informação do meu blogue não me serve de nada a não ser como reafirmação do conhecimento interno que mantenho. Essa minha máquina de estados única e exclusiva da minha linha de vida. Talvez algo sirva para alguém em algum momento, mas nunca será a essência do que procuro. O conhecimento em si se separa da informação quando este se transforma em um processo internalizado do ser. Um algoritmo. É este algoritmo a parte mais importante do uso da informação.
 
@@ -91081,7 +91044,7 @@ Para qualquer bebida acrescentar rituais de degustação, como durante viagens, 
 Mais uma vez, o mesmo princípio pode ser aplicado a outras bebidas.
 
 # Software Architecture in Practice (Len Bass, Paul Clements, Rick Kazman)
-2024-09-20 books
+2024-09-20
 
 Mais um da série de livros para preencher lacunas nos meus conhecimentos técnicos. Seguem recortes finais (não continuarei lendo).
 
@@ -91452,7 +91415,7 @@ Talvez a maior perda dos sonhos lúcidos seja o monólogo inconsciente das mesma
 "If you look for a meaning, you'll miss everything that happens."
 
 # Qual é a data de um texto?
-2024-12-28 essays
+2024-12-28
 
 Estava esses dias editando algumas críticas antigas sobre filmes em um texto mais compacto para um projeto engavetado quando na hora de publicar fiquei pensando se a data original estaria certa ou se seria o caso de atualizá-la, já que o texto antigo e mais longo já se foi.
 
@@ -91467,7 +91430,7 @@ Antes para filmes eu mantinha uma data de repostagem e até múltiplas datas de 
 Porém, acredito que pelo menos uma data de atualização cabe para entradas antigas, já que pelo menos o estilo do autor deve mudar. Isso me avisa também quando estiver lendo um texto meu antigo que este eu não é tão do passado assim, e que por isso está "tão bem escrito".
 
 # Um químico na cozinha (Raphaël Haumont)
-2025-01-09 books
+2025-01-09
 
 Ano passado havia comprado um livro de gastronomia que uma chef vendedora ambulante de brigadeiro recomendou enquanto estava vendendo sua mercadoria para nós, meros bêbados eventuais. Porém, tive que devolver no dia seguinte: o texto é muito ruim e confuso. Ele investe em defender cozinha molecular e eu, leitor desavisado, nem sabia que isso estava em ataque. Eu nem sabia que isso era uma coisa. Pra falar a verdade, não me identifico muito com essas cozinhas diferentonas que querem cobrar horrores pela experiência. De vez em quando é legal de ir, mas bem de vez em quando.
 
@@ -91476,7 +91439,7 @@ Voltando ao livro. O autor fica toda hora defendendo esse estilo de cozinhar e p
 "Vidro e caramelo são sólidos amorfos, que podem ser representados como líquidos solidificados, desordenados: assim, sua estrutura interna não permite um movimento coletivo. Sob tensão, as forças de ligação se rompem e, macroscopicamente, a matéria quebra."
 
 # A Hacker Manifesto (Mckenzie Wark)
-2025-01-09 books
+2025-01-09 clippings
 
 Hackers use their knowledge and their wits to maintain their autonomy. Some take the money and run. (We must live with our compromises.) Some refuse to compromise. (We live as best we can.)
 
@@ -91487,7 +91450,7 @@ Hackers create the possibility of new things entering the world. Not always grea
 The slogan of the hacker class is not the workers of the world united, but the workings of the world untied.
 
 # Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
-2025-01-09 books
+2025-01-09
 
 Continuando minha saga de achar um bom livro de arquitetura de software.
 
@@ -92552,7 +92515,7 @@ ul_reason_for_call, LPVOID lpReserved)
 Subir escadas é o exercício mais simples possível que mantém em forma as partes mais importantes do seu corpo no longo prazo: pernas e coração. Com as pernas em forma você deve conseguir chegar em uma idade avançada podendo se locomover. Com o músculo do coração em dia você deve conseguir suportar bombear sangue com eficiência e sem sobrecarga. Subir escadas é simples porque basta achar uma escada e começar a subir. O ritmo é definido pela sua capacidade física do momento. Pode ser que um dia suba mais rápido, outro dia mais lento. Você deve subir pelo tempo que achar possível para você, sem comprometer o corpo nem a agenda. Você pode alternar o ritmo ao prestar atenção ao coração batendo mais ou menos, a tontura vindo ou as pernas se cansando. Você pode forçar o corpo de vez em quando a subir o platô ouvindo podcast ou música enquanto faz o exercício, conscientemente ignorando alguns avisos do corpo para se lançar alguns degraus a mais. Você não precisa mensurar nada fora do seu corpo. O tempo gasto não importa. O ritmo não importa. A geolocalização não importa. Se mover importa. Portanto se mova e quando achar melhor pare. Repita de vez em quando. Não precisa ser todos os dias. Não exija disciplina de você. Apenas constância. E isso irá adicionar um hábito saudável e regulável por décadas a fio em seu itinerário de atividades. Irá também aos poucos te inspirar a fazer outras atividades, como caminhadas ao ar livre ou até algo mais ousado. Quem definirá serão seus gostos e sua vontade, moldada pelo pequeno degrau inicial que você ousou subir.
 
 # Journaling and coding
-2025-04-30 essays
+2025-04-30
 
 Codar e blogar são tarefas equivalentes. Quando digo blogar estou me referindo a escrever em geral. Textos são apenas linguagens de programação naturais que usam símbolos que seres humanos conseguem decodificar. E como somos máquinas de Turing completas, nossas leituras do mundo, textuais ou outros, interferem nas nossas saídas, e assim por diante. Escrever textos em linguagem natural ou linguagens de programação são essencialmente atividades que codificam símbolos em uma certa disposição, modificam símbolos obedecendo determinadas regras da chamada gramática. Quando estou escrevendo código ou um texto para o blogue a atividade deveria seguir exatamente os mesmos passos, assim como a montagem do histórico, o que significa documentar as mudanças no controle de fonte.
 
@@ -93031,7 +92994,7 @@ In fitness, stress is like medicine. In the right doses, stress stimulates healt
 "Make the API to your library as boring as possible. You want the functionality to be interesting, not the API."
 
 # Sobre flow
-2025-10-23 flow essays
+2025-10-23 essays
 
 Para a pergunta “quem somos nós?” a resposta raramente é simples e pode mudar de um instante para outro. Porém, em qualquer forma que assuma, sempre se resume a uma afirmação essencial: eu sou o self.
 
@@ -93056,7 +93019,7 @@ Quem desenvolve um sistema simbólico interno sólido torna-se menos vulnerável
 Entre o caos e a ordem, entre o limite e a expansão, aprendemos a dirigir a própria atenção — e, com ela, o próprio destino.
 
 # Textos de IA não têm alma?
-2025-10-23 essays writing quotes
+2025-10-23
 
 Reflexões do meu amigo Tsar:
 
@@ -93083,7 +93046,7 @@ This is a great point that a friend of mine called out. Set due dates for your e
 O cérebro dela é substituído pelo de um bebê. E agora você vai descobrir como a mente de uma feminista funciona.
 
 # Por que cada membro Dispose existe?
-2025-11-14 dotnet digest
+2025-11-14 computer
 
 Tudo gira em torno da necessidade de gerenciar objetos não gerenciáveis, o que implica em um finalizer para que seja feito isso, e apenas isso. O finalizer não deve tocar em código gerenciado, e é por isso que existe um Boolean definindo se disposing será feito. Todo o resto do código do finalizer deve ser para liberação de recursos nativos.
 
@@ -93239,7 +93202,7 @@ Winners learn to live with hurt.
 Eat protein at every meal. I like the simple rule of at least a fistful. • Water should be your base beverage.
 
 # Camembert Le Rustique
-2025-12-29 food
+2025-12-29
 
 O camembert tem uma versão chefão chamada Le Rustique. Quando estava na França comprei um desses no mercado e tive que isolar na varanda com tudo fechado, mas depois de passar uma noite inteira de castigo o cheiro só piorou. Pesquisei durante os dias que ele foi estragando apurando que os franceses preferem ele próximo do vencimento, pois ele fica mais macio por dentro, quase líquido (estilo brie mais passado). Porém, o cheiro, meu senhor. O sabor é OK. Tem uma complexidade interessante. Não deu tempo de comer tudo. No último dia perguntei pra anfitriã de onde estávamos hospedados se seria uma boa ideia pegar o trem com este mendigo em forma de queijo. Ela disse que era melhor deixar lá mesmo na geladeira. Levei apenas um pedaço que conseguiria comer caso desse ruim. Boas lembranças do dia que infectei um AirBnB.
 
@@ -93251,7 +93214,7 @@ Citas Barcelona é um ótimo exemplo de uma série muito boa em sua primeira tem
 A segunda temporada destoa completamente. Nesta fica óbvio o trabalho de roteirização de situações artificiais com personagens menos desenvolvidos que o ideal. Eles são meros bonecos nas mãos nada habilidosas de seus idealizadores, que preferem (aí sim) doutrinar o grande público acerca de questões sociais ou pessoais e se esquece do que tornava a série um exemplo fora da caixa. Se torna mais do mesmo nessa imensidão de horas de streaming vomitando opiniões alheias sem força, sem vontade. É apenas a máquina burocrática de criação de historietas menos interessantes que pegar um elevador em um condomínio. São as coincidências absurdas, em colocar na boca de personagens frases fáceis, quase previsíveis. É o anti-exemplo de tudo o que (felizmente) a primeira temporada não foi.
 
 # Ascendant
-2026-01-17 tarot quotes
+2026-01-17 quotes
 
 It is called the Ascendant, because when the ☉ and planets come to the cusp of this house, they ascend, or then arise, and are visible in our horizon. An Introduction to Astrology (William Lilly, Zadkiel, 1852).
 
@@ -93275,7 +93238,7 @@ Mas enfim. Estava divagando. De novo. Na verdade, na verdade, Fulaninho não sab
 Então a vida era só isso. E não precisava ser mais nada. E, ainda assim, ele achava que queria ser programador das antigas. Como seu pai, se tivesse um pai. E ele fosse programador há muito tempo atrás. Não sabia muito sobre as outras profissões de antigamente. Hoje parecia que tudo girava em torno de dar ordens às máquinas. Toda a humanidade poderia se dizer programadora. Ou pelo menos todas as empregadas. As outras, não se sabe muito bem que fim deu.
 
 # Personalized Nutrition by Prediction of Glycemic Responses
-2026-01-24 papers body
+2026-01-24 body
 
 This was a recommendation from the book Wired to Eat. It is pretty small and technically detailed. Here are some clippings for the future.
 
@@ -93338,15 +93301,10 @@ A key step for the Strategy of Monitoring is to identify precisely what action i
 
 If we want something to count in our lives, we should figure out a way to count it.
 
-# Journal is published using Common Markdown
-2026-02-12 projects done
-
-2026-03-01 Made in csharp with CoPilot. A few adjustments to match the original parser. Now that is done we can remove the compatibility layer gradually and check for book renderer if passes epub checks.
-
 # Subtitles inside text
-2026-02-12 projects wontdo
+2026-02-12 publisher
 
-2026-03-01 This is not a very good idea now that I am trying to simplify formatting and posts to keep it as simple as possible, avoiding too format dependent.
+2026-03-01 This is not a very good idea now that I am trying to simplify formatting and posts to keep it as simple as possible, avoiding too format dependent. 2026-09-07 However, I think we can deal with something similar in the future now that we have metadata separated.
 
 Scenario: I want to journal everyday and sometimes it is better to inside one text to quote different content like a movie I watched, a recipe I thought of or something work related. Usually I would need to write one post per subject which would generate separate texts without cohesion.
 
@@ -93393,30 +93351,14 @@ Ideas to be implemented here and could be divided in other issues:
 - Consider bottom references ([1]) when thinking about this.
 
 # Apply tags based on metadata
-2026-02-12 projects ideas
+2026-02-12 publisher
 
 This issue is to allow to separate tagging based on metadata from tagging based on content. Tagging based on content should be by example the author tags something like "movies" or "cooking" because the content is related to these subjects. Tagging based on metadata should be by example to tag some post as "miniviews" because the content has only one paragraph and it is tagged as "movies" already. Or to tag something like "quotes" because there is only one paragraph and it is a quote.
 
 This tagging by metadata form should not be in the original text, it should be configured as metadata analysis in a separate config form. The author should be able to create different tags based on metadata for different purpose. Tagging based on content should remain simple. The author should not think anymore about to tag content based on its metadata, only in its content that cannot be deduced without IA or author purpose.
 
-# Awk ebook publisher not linking posts (brackets stay the same)
-2026-02-12 projects wontdo
-
-2026-03-01 Do not need to maintain Awk publisher anymore.
-
-Could have be inserted during brackets change? Nothing changed at all for ebooks, just variable monitoring.
-
-Apparently some links were really broken since my deleting a lot of posts review approach: "O que vem aí na Mostra 2023 (47a.)".
-
-# Awk publisher tags some posts as private even not being private
-2026-02-12 projects wontdo
-
-2026-03-01 Do not need to maintain Awk publisher anymore.
-
-I think it is related to be the last issues or something.
-
 # Tags hierarchy by frequency
-2026-02-12 projects ideas
+2026-02-12 publisher
 
 How about a new future issue where not only the tags are related to each other, but the main ones are deduced by their volume, and the smaller tags are hidden from the overview? This would make navigation simpler for those looking to find something through them.
 
@@ -93424,38 +93366,20 @@ At the same time, this would allow for granular categorization. For example, a l
 
 The configuration could be based on the percentage of total posts, regardless of how many levels there are. There wouldn’t be direct control from the author, but as they start writing more about a particular topic, the tag would automatically be promoted to a category (main tag).
 
-# Better Kindle navigation
-2026-02-12 projects ideas
-
-Today we can go to the beginning of book and the index with some huge groups, where the most useful is the letters and tags. We can do better:
-
-- Months and sections (see #2) listing titles.
-
-- ~Better tags listing (all at once as the script output).~
-
-- Link to the real beginning and end of texts, chronologically.
-
-# Separate config from script
-2026-02-12 projects ideas
+# Remove personal information from code and support scripts
+2026-02-12 publisher
 
 Today the scripts contain personal blog and book information such as links, author, description.
 
 We are going to move all that to configuration and style (proto theme) settings.
 
-# Batch change posts
-2026-02-12 projects ideas
-
-- rename tags and entire file
-
-- select, move and delete posts
-
-# Footnotes
-2026-02-12 projects ideas
+# Suport footnotes
+2026-02-12 publisher
 
 Support to footnotes in ebook or even in the blog.
 
-# Sister tags
-2026-02-12 projects ideas
+# Related tags
+2026-02-12 publisher
 
 The idea is to remove necessity of posts to contain every possible tags they fit in to just the main ones (hopefully one). The sister tags will be shown in each tag page so the user can click on the main tag and navigate to other similar tags. By example, a post has "movies" as tag and inside "movies" tag page we see other tags to navigate to its page as "cinema", "miniviews" and so on.
 
@@ -93464,25 +93388,13 @@ This information can be deduced by the posts and all the tags in common. By exam
 Eventually there will be a post about a particular group to nest all these tags but no singular post will have to have all those.
 
 # Sections as month/year
-2026-02-12 projects ideas
+2026-02-12 publisher
 
 Today the blog is structured in "chapters" that are the month and year when each post is labelled. They are put together into the same HTML page as a chapter tied by date.
 
 The idea here is to continue to use date as a marker, but also support other kinds of markers to group posts together as a classic chapter from a book. It should be possible to create, maybe inside the tags, values that are parsed as new groups despite the date each one belongs.
 
 The final view will be posts organized by these new markers and not appearing anymore to the months market. It will be shown in the blog just as the month/year pages, but with another name to group.
-
-# Change slug style to wiki style
-2026-03-05 projects ideas
-
-I stumbled into an old wiki (since 1995) and this reminded me about the WikiStyle links, where you can use this CamelCase to refer to an existing entry or a need to be filled entry. I was thinking if this could be a better idea to insert inner links in my post texts because 1) this is a style loose enough to be OK to use without a link, 2) it is tied enough to detect those links in my parser (and it there is no post just keep it as simple text), 3) it is elegant enough to be used in the blog posts permalinks (easy to remember, can be shorter than original title) and 4) it is smart enough to reference movies in my journal. Maybe it is even better to relate to future ebook inner links with a reference table (to translate CamelCase to A Great Title to replace it). Maybe we can even do this to some links in metadata.
-
-Need to give second thought in near future, since this will change all already published permalinks in blog. However, we can do it now and change the parser later.
-
-# Revisar códigos e diagramas (usar Mermaid e IA) dos posts do blogue.
-2026-03-10 projects ideas
-
-Após bagunçar a formatação acho que seria uma boa atualizar os posts selecionados para uma versão padronizada e fácil de manter no futuro. Manter o limite de colunas no código é elegante o suficiente para manter.
 
 # Programming
 2026-03-13 blog
@@ -93684,12 +93596,12 @@ Obs: o /m é para paralelizar o build. Se você for tomar um café na hora é um
 Obs. 2: curiosamente existe a mesma necessidade ao compilar um projeto dotnet, pois sem especificar o runtime identifier (-r win-x64) ele gera uma versão sem a pasta de saída configurada corretamente.
 
 # Tortoise Hill Glen Carlou
-2026-04-03 wines
+2026-04-03 wine
 
 Estava apagando fotos antigas e me deparei com a foto deste rótulo. Havia um bom tempo que estava tentando lembrar o nome deste vinho. Ele é sul africano e pelo que havia lido na época ele é de uma vinícola ou um enólogo que é alérgico a álcool. Vale revisitar a história para checar.
 
 # Recortes superatuais de Theodore Kaczynski
-2026-04-06 philosophy
+2026-04-06
 
 Estava lendo descontraído minhas anotações na época da morte do Unabomber e me descobri estupefato sobre o quão atual e preciso alguns de seus comentários e previsões se tornaram ao longo do tempo. Deixo aqui os recortes dos recortes.
 
@@ -93699,38 +93611,13 @@ But we are suggesting neither that the human race would voluntarily turn power o
 
 Boredom too tends to cause excessive pleasure-seeking since, lacking other goals, people often use pleasure as a goal.
 
-
-# Eliminando campos do journal
-2026-05-21 projects ideas
-
-Trabalhando sobre como remover os links Markdown para algo com menos atrito acabei pensando em eliminar também os campos date e tags, tornando-os implícitos após qualquer título. Ficaria assim:
-
-```
-# Teste de Título
-2025-10-02
-blog magia tags
-
-Como um formato popular, eu gostaria de manter
-esse tipo de funcionamento, onde eu referencio "Um
-Outro Título" e ele irá aparecer aqui se
-necessário. Se não houver texto, não aparece nada.
-
-# Um Outro Título
-2026-05-21
-mais tags aqui
-
-Aqui está outro texto.
-```
-
-Caveat: como inserir links em entradas de posts? Talvez usar algum método cru como "se uma linha inteira for um link e for o primeiro vira o link principal do blog post".
-
 # Monitor grávido
 2026-05-25
 
 Meu monitor curvo Samsung que ganhei de presente de um amigo estava começando a apresentar falhas de conexão no HDMI e eu precisava ficar desconectando, conectando, abrindo o laptop até que ele conectasse. Decidi voltar para o monitor que havia comprado há um tempo, mais novo que este, da Dell, por recomendação de um amigo. Ele passou um tempo empoeirando em um canto do quartinho. Agora que fiquei acostumado com o monitor curvo ele parece ter uma barriga na frente, como se fosse o oposto do outro. Já tem alguns dias com essa sensação. Eu acho que ele está grávido esperando um tabletzinho.
 
 # First know how the thing work; then know how the thing does not work
-2026-06-20 quotes work
+2026-06-20 quotes
 
 # Experiência com IA até agora
 2026-06-23
