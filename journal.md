@@ -93750,3 +93750,42 @@ Você nem vai conseguir mais pedir água e, quando lhe derem água, vão praguej
 2026-09-05 books
 
 Eles tinham chegado até ali porque, em algum nível insano, queriam estar ali. Tudo o que restava era a curiosidade. O mistério do mundo exterior além do véu projetado nas telas das paredes.
+
+# Iniciando trabalhos em torra
+2026-09-09 draft coffee
+
+Aqui devo registrar os resultados das minhas torras de experimentação. Onde quero chegar? Fazer uma torra caseira minimamente bebível. Tenho grãos não selecionados do mercado central de Poços de Caldas (MG) e mais dois sacos de grãos verdes de cafés especiais que obtive direto do produtor. Em ambos eu tenho versões torradas, o que será um teste muito interessante, já que o café de Piracicaba acabou se tornando um dos meus favoritos (ainda tenho alguns grãos torrados).
+
+Bom, acho que alguns dados são obrigatórios: tipo de grão, data da torra, método da torra, peso de entrada, tempo de torra, peso de saída.
+
+Outro dado importante será a data da degustação. Posso nomear minhas torras pela data e talvez a hora se fizer mais de uma torra no dia. Com esse nome seguirão as degustações com: data da degustação, nome da torra, método da extração, sensações na degustação. Se for uma degustação múltipla os dados estarão próximos para comparação.
+
+Segue o primeiro:
+
+```
+- bean: "Poços"
+  name: 20260826
+  method: "Pipoqueira"
+  input: 40
+  time: 256
+  output: 30
+```
+
+E as primeiras degustações:
+
+```
+- name: 20260826
+  date: 2026-08-31
+  method: "Hario"
+  notes: "O café estava bom, com um amargor acentuado. Esta é uma torra bem escura e brilhante. Então é esperado que o café tenha esta característica."
+
+- name: 20260826
+  date: 2026-09-01
+  method: "French Press"
+  notes: "Método usado pensando como se fosse a Starbucks, mas continua bem forte: menos complexidade, mais amargor."
+```
+
+# Link com e comercial falha
+2026-09-09 publisher
+
+Achei o problema com o "Acidic Coffees: A Brew & Roast Guide".
