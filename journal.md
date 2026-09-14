@@ -90073,7 +90073,7 @@ Hormones are chemical messengers released into the circulatory system by specifi
 
 When a hormone has bonded to its receptor site, we generally see a change in DNA expression in a given cell, which means we will see changes in how certain proteins are produced within the cell, and this is how we change our physiology.
 
-When our cells do not respond properly to insulin (insulin resistance) our blood sugars tend to rise too high after a meal.*1 The unfortunate side effect is that blood sugars tend to then crash to abnormally low levels, leaving us shaky, hungry, and irritated, what I and others have taken to calling “hangry” (hungry + angry = hangry).
+When our cells do not respond properly to insulin (insulin resistance) our blood sugars tend to rise too high after a meal. The unfortunate side effect is that blood sugars tend to then crash to abnormally low levels, leaving us shaky, hungry, and irritated, what I and others have taken to calling “hangry” (hungry + angry = hangry).
 
 In general, carbohydrate releases the largest amount of insulin on a calorie-by-calorie basis, with protein releasing (generally) less insulin and fat releasing a relatively small amount.
 
